@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.451, 
+              19.625
+            ], 
+            [
+              -73.451, 
+              20.088
+            ], 
+            [
+              -72.574, 
+              20.088
+            ], 
+            [
+              -72.574, 
+              19.625
+            ], 
+            [
+              -73.451, 
+              19.625
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345614, 
+        "name": "Nord-Ouest", 
+        "adjacent_woeid": [
+          2345615, 
+          2345618
+        ], 
+        "ne_latitude": 20.088, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -72.574, 
+        "longitude": -73.013, 
+        "alias_FRE_A": [
+          "NO"
+        ], 
+        "placetype": "State", 
+        "iso": "HT", 
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "parent_woeid": 23424839, 
+        "latitude": 19.788, 
+        "sw_longitude": -73.451, 
+        "fullname": "Nord-Ouest, Haiti", 
+        "sw_latitude": 19.625
+      }, 
+      "id": 2345614
+    }
+  ]
+}

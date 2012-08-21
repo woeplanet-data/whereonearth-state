@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              49.583, 
+              30.793
+            ], 
+            [
+              49.583, 
+              34.477
+            ], 
+            [
+              55.454, 
+              34.477
+            ], 
+            [
+              55.454, 
+              30.793
+            ], 
+            [
+              49.583, 
+              30.793
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345787, 
+        "name": "Esfahan", 
+        "adjacent_woeid": [
+          2345769, 
+          2345771, 
+          2345772, 
+          2345778, 
+          2345782, 
+          2345783, 
+          2345784, 
+          2345790, 
+          20070199, 
+          56189823
+        ], 
+        "ne_latitude": 34.477, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 55.454, 
+        "longitude": 52.519, 
+        "placetype": "State", 
+        "iso": "IR", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "parent_woeid": 23424851, 
+        "latitude": 32.635, 
+        "sw_longitude": 49.583, 
+        "fullname": "Esfahan, Iran", 
+        "sw_latitude": 30.793
+      }, 
+      "id": 2345787
+    }
+  ]
+}

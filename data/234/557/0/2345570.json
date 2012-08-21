@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.506, 
+              14.522
+            ], 
+            [
+              -91.506, 
+              14.896
+            ], 
+            [
+              -91.072, 
+              14.896
+            ], 
+            [
+              -91.072, 
+              14.522
+            ], 
+            [
+              -91.506, 
+              14.522
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345570, 
+        "name": "Solola", 
+        "adjacent_woeid": [
+          2345554, 
+          2345564, 
+          2345565, 
+          2345571, 
+          2345572
+        ], 
+        "ne_latitude": 14.896, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -91.072, 
+        "longitude": -91.289, 
+        "placetype": "State", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "parent_woeid": 23424834, 
+        "latitude": 14.709, 
+        "sw_longitude": -91.506, 
+        "fullname": "Solola, Guatemala", 
+        "sw_latitude": 14.522
+      }, 
+      "id": 2345570
+    }
+  ]
+}

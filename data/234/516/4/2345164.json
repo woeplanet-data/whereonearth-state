@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.483, 
+              15.546
+            ], 
+            [
+              -61.483, 
+              15.632
+            ], 
+            [
+              -61.421, 
+              15.632
+            ], 
+            [
+              -61.421, 
+              15.546
+            ], 
+            [
+              -61.483, 
+              15.546
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345164, 
+        "name": "Saint John", 
+        "adjacent_woeid": [
+          2345161, 
+          2345170
+        ], 
+        "ne_latitude": 15.632, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "St. John"
+        ], 
+        "ne_longitude": -61.421, 
+        "longitude": -61.452, 
+        "placetype": "State", 
+        "iso": "DM", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "parent_woeid": 23424798, 
+        "latitude": 15.589, 
+        "sw_longitude": -61.483, 
+        "fullname": "Saint John, Dominica", 
+        "sw_latitude": 15.546
+      }, 
+      "id": 2345164
+    }
+  ]
+}

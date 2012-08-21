@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.964, 
+              -0.644
+            ], 
+            [
+              -77.964, 
+              0.653
+            ], 
+            [
+              -75.235, 
+              0.653
+            ], 
+            [
+              -75.235, 
+              -0.644
+            ], 
+            [
+              -77.964, 
+              -0.644
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345222, 
+        "name": "Sucumbios", 
+        "adjacent_woeid": [
+          2345206, 
+          2345212, 
+          2345217, 
+          2345219, 
+          20070099
+        ], 
+        "ne_latitude": 0.653, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -75.235, 
+        "longitude": -76.599, 
+        "placetype": "State", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "parent_woeid": 23424801, 
+        "latitude": 0.005, 
+        "sw_longitude": -77.964, 
+        "fullname": "Sucumbios, Ecuador", 
+        "sw_latitude": -0.644
+      }, 
+      "id": 2345222
+    }
+  ]
+}

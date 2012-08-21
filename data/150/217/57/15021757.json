@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              172.051, 
+              -42.306
+            ], 
+            [
+              172.051, 
+              -40.499
+            ], 
+            [
+              173.304, 
+              -40.499
+            ], 
+            [
+              173.304, 
+              -42.306
+            ], 
+            [
+              172.051, 
+              -42.306
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 15021757, 
+        "name": "Tasman", 
+        "adjacent_woeid": [
+          15021751, 
+          15021752, 
+          15021758, 
+          15021759
+        ], 
+        "ne_latitude": -40.499, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 173.304, 
+        "longitude": 172.678, 
+        "placetype": "State", 
+        "iso": "NZ", 
+        "date_indexed": "2010-12-02T17:02:10Z", 
+        "parent_woeid": 23424916, 
+        "latitude": -41.402, 
+        "sw_longitude": 172.051, 
+        "fullname": "Tasman, New Zealand", 
+        "sw_latitude": -42.306
+      }, 
+      "id": 15021757
+    }
+  ]
+}

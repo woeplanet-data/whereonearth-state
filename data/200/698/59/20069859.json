@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -44.435, 
+              60.845
+            ], 
+            [
+              -44.435, 
+              81.681
+            ], 
+            [
+              -11.312, 
+              81.681
+            ], 
+            [
+              -11.312, 
+              60.845
+            ], 
+            [
+              -44.435, 
+              60.845
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 20069859, 
+        "name": "Ostgronland", 
+        "adjacent_woeid": [
+          20069857, 
+          20069858
+        ], 
+        "ne_latitude": 81.681, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -11.312, 
+        "longitude": -42.177, 
+        "placetype": "State", 
+        "iso": "GL", 
+        "date_indexed": "2010-12-02T17:40:29Z", 
+        "parent_woeid": 23424828, 
+        "latitude": 71.802, 
+        "sw_longitude": -44.435, 
+        "fullname": "Ostgronland, Greenland", 
+        "sw_latitude": 60.845
+      }, 
+      "id": 20069859
+    }
+  ]
+}

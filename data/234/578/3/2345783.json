@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              48.911, 
+              33.528
+            ], 
+            [
+              48.911, 
+              35.674
+            ], 
+            [
+              51.469, 
+              35.674
+            ], 
+            [
+              51.469, 
+              33.528
+            ], 
+            [
+              48.911, 
+              33.528
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345783, 
+        "name": "Markazi", 
+        "adjacent_woeid": [
+          2345774, 
+          2345782, 
+          2345785, 
+          2345787, 
+          20070199, 
+          20070200
+        ], 
+        "ne_latitude": 35.674, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 51.469, 
+        "longitude": 49.516, 
+        "placetype": "State", 
+        "iso": "IR", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "parent_woeid": 23424851, 
+        "latitude": 34.601, 
+        "sw_longitude": 48.911, 
+        "fullname": "Markazi, Iran", 
+        "sw_latitude": 33.528
+      }, 
+      "id": 2345783
+    }
+  ]
+}

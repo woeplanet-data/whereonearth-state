@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.864, 
+              19.597
+            ], 
+            [
+              -99.864, 
+              21.398
+            ], 
+            [
+              -97.985, 
+              21.398
+            ], 
+            [
+              -97.985, 
+              19.597
+            ], 
+            [
+              -99.864, 
+              19.597
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.398, 
+        "name": "Hidalgo", 
+        "adjacent_woeid": [
+          2346278, 
+          2346284, 
+          2346285, 
+          2346287, 
+          2346292, 
+          2346293
+        ], 
+        "woeid": 2346276, 
+        "alias_SPA_V": [
+          "Estado de Hidalgo"
+        ], 
+        "ne_longitude": -97.985, 
+        "longitude": -98.924, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "HG"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.497, 
+        "sw_longitude": -99.864, 
+        "fullname": "Hidalgo, Mexico", 
+        "sw_latitude": 19.597
+      }, 
+      "id": 2346276
+    }
+  ]
+}

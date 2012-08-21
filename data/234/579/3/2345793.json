@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              35.025, 
+              32.390
+            ], 
+            [
+              35.025, 
+              33.434
+            ], 
+            [
+              35.935, 
+              33.434
+            ], 
+            [
+              35.935, 
+              32.390
+            ], 
+            [
+              35.025, 
+              32.390
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345793, 
+        "name": "Northern", 
+        "adjacent_woeid": [
+          2346014, 
+          2345794, 
+          20070291, 
+          56049597, 
+          23424988
+        ], 
+        "ne_latitude": 33.434, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Hatzafon"
+        ], 
+        "ne_longitude": 35.935, 
+        "longitude": 35.480, 
+        "placetype": "State", 
+        "iso": "IL", 
+        "date_indexed": "2010-12-02T08:53:01Z", 
+        "parent_woeid": 23424852, 
+        "latitude": 32.912, 
+        "sw_longitude": 35.025, 
+        "fullname": "Northern, Hazafon, Israel", 
+        "sw_latitude": 32.390
+      }, 
+      "id": 2345793
+    }
+  ]
+}

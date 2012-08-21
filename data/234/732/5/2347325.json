@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              33.173, 
+              37.969
+            ], 
+            [
+              33.173, 
+              39.052
+            ], 
+            [
+              34.444, 
+              39.052
+            ], 
+            [
+              34.444, 
+              37.969
+            ], 
+            [
+              33.173, 
+              37.969
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 2347325, 
+        "name": "Aksaray", 
+        "adjacent_woeid": [
+          2347263, 
+          2347295, 
+          2347303, 
+          2347321, 
+          2347323
+        ], 
+        "ne_latitude": 39.052, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 34.444, 
+        "longitude": 33.809, 
+        "placetype": "State", 
+        "iso": "TR", 
+        "date_indexed": "2010-12-02T16:22:51Z", 
+        "parent_woeid": 23424969, 
+        "latitude": 38.511, 
+        "sw_longitude": 33.173, 
+        "fullname": "Aksaray, Turkey", 
+        "sw_latitude": 37.969
+      }, 
+      "id": 2347325
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.821, 
+              2.159
+            ], 
+            [
+              9.821, 
+              3.646
+            ], 
+            [
+              13.676, 
+              3.646
+            ], 
+            [
+              13.676, 
+              2.159
+            ], 
+            [
+              9.821, 
+              2.159
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345042, 
+        "name": "Sud", 
+        "adjacent_woeid": [
+          2344974, 
+          2345033, 
+          2345034, 
+          2345039, 
+          2345457, 
+          20069850, 
+          20069851, 
+          20069853
+        ], 
+        "ne_latitude": 3.646, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.676, 
+        "longitude": 11.748, 
+        "alias_FRE_A": [
+          "SU"
+        ], 
+        "placetype": "State", 
+        "iso": "CM", 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "parent_woeid": 23424785, 
+        "latitude": 2.903, 
+        "sw_longitude": 9.821, 
+        "fullname": "Sud, Cameroon", 
+        "sw_latitude": 2.159
+      }, 
+      "id": 2345042
+    }
+  ]
+}

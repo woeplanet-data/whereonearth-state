@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -13.084, 
+              6.929
+            ], 
+            [
+              -13.084, 
+              8.509
+            ], 
+            [
+              -11.135, 
+              8.509
+            ], 
+            [
+              -11.135, 
+              6.929
+            ], 
+            [
+              -13.084, 
+              6.929
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2347002, 
+        "name": "Southern", 
+        "adjacent_woeid": [
+          2346106, 
+          2347000, 
+          2347001, 
+          2347003
+        ], 
+        "ne_latitude": 8.509, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -11.135, 
+        "longitude": -12.066, 
+        "placetype": "State", 
+        "iso": "SL", 
+        "date_indexed": "2010-12-02T12:08:44Z", 
+        "parent_woeid": 23424946, 
+        "latitude": 7.720, 
+        "sw_longitude": -13.084, 
+        "fullname": "Southern, Sierra Leone", 
+        "sw_latitude": 6.929
+      }, 
+      "id": 2347002
+    }
+  ]
+}

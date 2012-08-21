@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -6.562, 
+              15.057
+            ], 
+            [
+              -6.562, 
+              25.000
+            ], 
+            [
+              0.168, 
+              25.000
+            ], 
+            [
+              0.168, 
+              15.057
+            ], 
+            [
+              -6.562, 
+              15.057
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2346187, 
+        "name": "Tombouctou", 
+        "adjacent_woeid": [
+          2344604, 
+          2346181, 
+          2346183, 
+          2346184, 
+          2346241, 
+          2346247, 
+          2346251, 
+          2347628, 
+          55999799
+        ], 
+        "ne_latitude": 25.000, 
+        "ne_longitude": 0.168, 
+        "longitude": -3.197, 
+        "parent_woeid": 23424891, 
+        "placetype": "State", 
+        "alias_FRE_V": [
+          "Timbouctou"
+        ], 
+        "iso": "ML", 
+        "date_indexed": "2010-12-02T08:58:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.028, 
+        "sw_longitude": -6.562, 
+        "fullname": "Tombouctou, Mali", 
+        "sw_latitude": 15.057
+      }, 
+      "id": 2346187
+    }
+  ]
+}

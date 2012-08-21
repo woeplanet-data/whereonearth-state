@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.529, 
+              47.224
+            ], 
+            [
+              9.529, 
+              47.252
+            ], 
+            [
+              9.567, 
+              47.252
+            ], 
+            [
+              9.567, 
+              47.224
+            ], 
+            [
+              9.529, 
+              47.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20070541, 
+        "name": "Schellenberg", 
+        "adjacent_woeid": [
+          2344715, 
+          20070537, 
+          20070538, 
+          20070539, 
+          20070540
+        ], 
+        "ne_latitude": 47.252, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.567, 
+        "longitude": 9.558, 
+        "placetype": "State", 
+        "iso": "LI", 
+        "date_indexed": "2010-12-02T08:51:00Z", 
+        "parent_woeid": 23424879, 
+        "latitude": 47.238, 
+        "sw_longitude": 9.529, 
+        "fullname": "Schellenberg, Liechtenstein", 
+        "sw_latitude": 47.224
+      }, 
+      "id": 20070541
+    }
+  ]
+}

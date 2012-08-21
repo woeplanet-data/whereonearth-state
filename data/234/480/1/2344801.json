@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.696, 
+              -21.577
+            ], 
+            [
+              -65.696, 
+              -18.350
+            ], 
+            [
+              -62.176, 
+              -18.350
+            ], 
+            [
+              -62.176, 
+              -21.577
+            ], 
+            [
+              -65.696, 
+              -21.577
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -18.350, 
+        "name": "Chuquisaca", 
+        "adjacent_woeid": [
+          2344802, 
+          2344807, 
+          2344808, 
+          2344809, 
+          2346450
+        ], 
+        "woeid": 2344801, 
+        "alias_SPA_V": [
+          "Sucre"
+        ], 
+        "ne_longitude": -62.176, 
+        "longitude": -63.936, 
+        "parent_woeid": 23424762, 
+        "placetype": "State", 
+        "iso": "BO", 
+        "date_indexed": "2010-12-02T17:57:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -19.964, 
+        "sw_longitude": -65.696, 
+        "fullname": "Chuquisaca, Bolivia", 
+        "sw_latitude": -21.577
+      }, 
+      "id": 2344801
+    }
+  ]
+}

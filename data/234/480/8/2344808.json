@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.838, 
+              -20.468
+            ], 
+            [
+              -64.838, 
+              -13.463
+            ], 
+            [
+              -57.458, 
+              -13.463
+            ], 
+            [
+              -57.458, 
+              -20.468
+            ], 
+            [
+              -64.838, 
+              -20.468
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -13.463, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          2344801, 
+          2344802, 
+          2344803, 
+          2344853, 
+          2344855, 
+          2344865, 
+          2346450, 
+          2346463
+        ], 
+        "woeid": 2344808, 
+        "alias_SPA_V": [
+          "Santacruz"
+        ], 
+        "ne_longitude": -57.458, 
+        "longitude": -61.148, 
+        "parent_woeid": 23424762, 
+        "placetype": "State", 
+        "iso": "BO", 
+        "date_indexed": "2010-12-02T17:57:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -16.966, 
+        "sw_longitude": -64.838, 
+        "fullname": "Santa Cruz, Bolivia", 
+        "sw_latitude": -20.468
+      }, 
+      "id": 2344808
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.419, 
+              5.674
+            ], 
+            [
+              9.419, 
+              7.162
+            ], 
+            [
+              11.208, 
+              7.162
+            ], 
+            [
+              11.208, 
+              5.674
+            ], 
+            [
+              9.419, 
+              5.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345035, 
+        "name": "Nord-Ouest", 
+        "adjacent_woeid": [
+          2345036, 
+          2345037, 
+          2345038, 
+          2346371
+        ], 
+        "ne_latitude": 7.162, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.208, 
+        "longitude": 10.314, 
+        "alias_FRE_A": [
+          "NW"
+        ], 
+        "placetype": "State", 
+        "iso": "CM", 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "parent_woeid": 23424785, 
+        "latitude": 6.418, 
+        "sw_longitude": 9.419, 
+        "fullname": "Nord-Ouest, Cameroon", 
+        "sw_latitude": 5.674
+      }, 
+      "id": 2345035
+    }
+  ]
+}

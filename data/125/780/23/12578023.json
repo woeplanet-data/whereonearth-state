@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.134, 
+              41.919
+            ], 
+            [
+              -3.134, 
+              42.645
+            ], 
+            [
+              -1.680, 
+              42.645
+            ], 
+            [
+              -1.680, 
+              41.919
+            ], 
+            [
+              -3.134, 
+              41.919
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.645, 
+        "name": "La Rioja", 
+        "adjacent_woeid": [
+          12578026, 
+          12578030, 
+          12578033, 
+          12578037
+        ], 
+        "woeid": 12578023, 
+        "alias_SPA_V": [
+          "Larioja"
+        ], 
+        "ne_longitude": -1.680, 
+        "longitude": -2.407, 
+        "parent_woeid": 23424950, 
+        "placetype": "State", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:07:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.282, 
+        "sw_longitude": -3.134, 
+        "fullname": "La Rioja, Spain", 
+        "sw_latitude": 41.919
+      }, 
+      "id": 12578023
+    }
+  ]
+}

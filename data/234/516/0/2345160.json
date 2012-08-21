@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              42.041, 
+              11.541
+            ], 
+            [
+              42.041, 
+              12.525
+            ], 
+            [
+              43.070, 
+              12.525
+            ], 
+            [
+              43.070, 
+              11.541
+            ], 
+            [
+              42.041, 
+              11.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ARA", 
+        "woeid": 2345160, 
+        "name": "Tadjoura", 
+        "adjacent_woeid": [
+          2345157, 
+          2345159, 
+          24549685, 
+          56013537
+        ], 
+        "ne_latitude": 12.525, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 43.070, 
+        "longitude": 42.555, 
+        "placetype": "State", 
+        "iso": "DJ", 
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "parent_woeid": 23424797, 
+        "latitude": 12.033, 
+        "sw_longitude": 42.041, 
+        "fullname": "Tadjoura, Djibouti", 
+        "sw_latitude": 11.541
+      }, 
+      "id": 2345160
+    }
+  ]
+}

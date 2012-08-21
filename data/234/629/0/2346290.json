@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -94.130, 
+              17.250
+            ], 
+            [
+              -94.130, 
+              18.649
+            ], 
+            [
+              -90.977, 
+              18.649
+            ], 
+            [
+              -90.977, 
+              17.250
+            ], 
+            [
+              -94.130, 
+              17.250
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.649, 
+        "name": "Tabasco", 
+        "adjacent_woeid": [
+          2345563, 
+          2346267, 
+          2346268, 
+          2346293
+        ], 
+        "woeid": 2346290, 
+        "alias_SPA_V": [
+          "Estado de Tabasco"
+        ], 
+        "ne_longitude": -90.977, 
+        "longitude": -92.553, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "TB"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.949, 
+        "sw_longitude": -94.130, 
+        "fullname": "Tabasco, Mexico", 
+        "sw_latitude": 17.250
+      }, 
+      "id": 2346290
+    }
+  ]
+}

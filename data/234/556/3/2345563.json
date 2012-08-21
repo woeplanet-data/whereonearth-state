@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.438, 
+              15.844
+            ], 
+            [
+              -91.438, 
+              17.815
+            ], 
+            [
+              -89.145, 
+              17.815
+            ], 
+            [
+              -89.145, 
+              15.844
+            ], 
+            [
+              -91.438, 
+              15.844
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345563, 
+        "name": "Peten", 
+        "adjacent_woeid": [
+          2344795, 
+          2344797, 
+          2344799, 
+          2345552, 
+          2345560, 
+          2346267, 
+          2346268, 
+          2346290
+        ], 
+        "ne_latitude": 17.815, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -89.145, 
+        "longitude": -90.291, 
+        "placetype": "State", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "parent_woeid": 23424834, 
+        "latitude": 16.830, 
+        "sw_longitude": -91.438, 
+        "fullname": "Peten, Guatemala", 
+        "sw_latitude": 15.844
+      }, 
+      "id": 2345563
+    }
+  ]
+}

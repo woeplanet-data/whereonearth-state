@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.696, 
+              20.603
+            ], 
+            [
+              -106.696, 
+              23.084
+            ], 
+            [
+              -103.722, 
+              23.084
+            ], 
+            [
+              -103.722, 
+              20.603
+            ], 
+            [
+              -106.696, 
+              20.603
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.084, 
+        "name": "Nayarit", 
+        "adjacent_woeid": [
+          2346273, 
+          2346277, 
+          2346288, 
+          2346295
+        ], 
+        "woeid": 2346281, 
+        "alias_SPA_V": [
+          "Estado de Nayarit"
+        ], 
+        "ne_longitude": -103.722, 
+        "longitude": -104.745, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "NA"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.843, 
+        "sw_longitude": -106.696, 
+        "fullname": "Nayarit, Mexico", 
+        "sw_latitude": 20.603
+      }, 
+      "id": 2346281
+    }
+  ]
+}

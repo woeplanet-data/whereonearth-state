@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              101.136, 
+              -2.771
+            ], 
+            [
+              101.136, 
+              -0.727
+            ], 
+            [
+              104.542, 
+              -0.727
+            ], 
+            [
+              104.542, 
+              -2.771
+            ], 
+            [
+              101.136, 
+              -2.771
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 2345714, 
+        "name": "Jambi", 
+        "adjacent_woeid": [
+          2345712, 
+          2345728, 
+          2345733, 
+          2345734
+        ], 
+        "ne_latitude": -0.727, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 104.542, 
+        "longitude": 102.839, 
+        "placetype": "State", 
+        "iso": "ID", 
+        "date_indexed": "2010-12-02T16:52:36Z", 
+        "parent_woeid": 23424846, 
+        "latitude": -1.749, 
+        "sw_longitude": 101.136, 
+        "fullname": "Jambi, Indonesia", 
+        "sw_latitude": -2.771
+      }, 
+      "id": 2345714
+    }
+  ]
+}

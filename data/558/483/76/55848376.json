@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              14.042, 
+              45.621
+            ], 
+            [
+              14.042, 
+              45.879
+            ], 
+            [
+              14.437, 
+              45.879
+            ], 
+            [
+              14.437, 
+              45.621
+            ], 
+            [
+              14.042, 
+              45.621
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 55848376, 
+        "name": "Postojna", 
+        "adjacent_woeid": [
+          55848341, 
+          55848344, 
+          55848352, 
+          55848366, 
+          55848385
+        ], 
+        "ne_latitude": 45.879, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 14.437, 
+        "longitude": 14.239, 
+        "placetype": "State", 
+        "iso": "SI", 
+        "date_indexed": "2010-12-02T09:57:34Z", 
+        "parent_woeid": 23424945, 
+        "latitude": 45.750, 
+        "sw_longitude": 14.042, 
+        "fullname": "Postojna, Slovenia", 
+        "sw_latitude": 45.621
+      }, 
+      "id": 55848376
+    }
+  ]
+}

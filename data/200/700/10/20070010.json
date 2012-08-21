@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              51.077, 
+              25.051
+            ], 
+            [
+              51.077, 
+              25.480
+            ], 
+            [
+              51.550, 
+              25.480
+            ], 
+            [
+              51.550, 
+              25.051
+            ], 
+            [
+              51.077, 
+              25.051
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 20070010, 
+        "name": "Al Rayyan", 
+        "adjacent_woeid": [
+          20070007, 
+          20070008, 
+          20070009, 
+          20070011, 
+          20070012
+        ], 
+        "ne_latitude": 25.480, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Ar Rayyan"
+        ], 
+        "ne_longitude": 51.550, 
+        "longitude": 51.313, 
+        "placetype": "State", 
+        "iso": "QA", 
+        "date_indexed": "2010-12-02T12:16:10Z", 
+        "parent_woeid": 23424930, 
+        "latitude": 25.266, 
+        "sw_longitude": 51.077, 
+        "fullname": "Al Rayyan, Qatar", 
+        "sw_latitude": 25.051
+      }, 
+      "id": 20070010
+    }
+  ]
+}

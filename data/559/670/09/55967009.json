@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.457, 
+              5.098
+            ], 
+            [
+              -5.457, 
+              6.379
+            ], 
+            [
+              -3.431, 
+              6.379
+            ], 
+            [
+              -3.431, 
+              5.098
+            ], 
+            [
+              -5.457, 
+              5.098
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55967009, 
+        "name": "Lagunes", 
+        "adjacent_woeid": [
+          55966991, 
+          55966995, 
+          55966997, 
+          55967000, 
+          55967001, 
+          55967003, 
+          55967004
+        ], 
+        "ne_latitude": 6.379, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -3.431, 
+        "longitude": -3.713, 
+        "placetype": "State", 
+        "iso": "CI", 
+        "date_indexed": "2010-12-02T09:35:13Z", 
+        "parent_woeid": 23424854, 
+        "latitude": 5.739, 
+        "sw_longitude": -5.457, 
+        "fullname": "Lagunes, Ivory Coast", 
+        "sw_latitude": 5.098
+      }, 
+      "id": 55967009
+    }
+  ]
+}

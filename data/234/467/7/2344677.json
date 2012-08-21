@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -63.428, 
+              -28.000
+            ], 
+            [
+              -63.428, 
+              -24.093
+            ], 
+            [
+              -58.370, 
+              -24.093
+            ], 
+            [
+              -58.370, 
+              -28.000
+            ], 
+            [
+              -63.428, 
+              -28.000
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -24.093, 
+        "name": "Chaco", 
+        "adjacent_woeid": [
+          2344680, 
+          2344683, 
+          2344691, 
+          2344695, 
+          2344696, 
+          2346459
+        ], 
+        "woeid": 2344677, 
+        "alias_SPA_V": [
+          "Provincia del Chaco"
+        ], 
+        "ne_longitude": -58.370, 
+        "longitude": -60.901, 
+        "parent_woeid": 23424747, 
+        "placetype": "State", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "alias_ENG_A": [
+          "CHO"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -26.047, 
+        "sw_longitude": -63.428, 
+        "fullname": "Chaco, Argentina", 
+        "sw_latitude": -28.000
+      }, 
+      "id": 2344677
+    }
+  ]
+}

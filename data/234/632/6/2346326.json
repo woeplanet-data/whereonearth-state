@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.478, 
+              11.697
+            ], 
+            [
+              2.478, 
+              14.552
+            ], 
+            [
+              4.595, 
+              14.552
+            ], 
+            [
+              4.595, 
+              11.697
+            ], 
+            [
+              2.478, 
+              11.697
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2346326, 
+        "name": "Dosso", 
+        "adjacent_woeid": [
+          2346329, 
+          2346361, 
+          2346368, 
+          20069995, 
+          55967672
+        ], 
+        "ne_latitude": 14.552, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.595, 
+        "longitude": 3.536, 
+        "placetype": "State", 
+        "iso": "NE", 
+        "date_indexed": "2010-12-02T17:43:23Z", 
+        "parent_woeid": 23424906, 
+        "latitude": 13.124, 
+        "sw_longitude": 2.478, 
+        "fullname": "Dosso, Niger", 
+        "sw_latitude": 11.697
+      }, 
+      "id": 2346326
+    }
+  ]
+}

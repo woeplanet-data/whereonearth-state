@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              48.600, 
+              36.566
+            ], 
+            [
+              48.600, 
+              38.445
+            ], 
+            [
+              50.645, 
+              38.445
+            ], 
+            [
+              50.645, 
+              36.566
+            ], 
+            [
+              48.600, 
+              36.566
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345773, 
+        "name": "Gilan", 
+        "adjacent_woeid": [
+          2345780, 
+          2345786, 
+          20070198, 
+          20070200, 
+          20070217
+        ], 
+        "ne_latitude": 38.445, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 50.645, 
+        "longitude": 49.047, 
+        "placetype": "State", 
+        "iso": "IR", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "parent_woeid": 23424851, 
+        "latitude": 37.506, 
+        "sw_longitude": 48.600, 
+        "fullname": "Gilan, Iran", 
+        "sw_latitude": 36.566
+      }, 
+      "id": 2345773
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.751, 
+              17.906
+            ], 
+            [
+              -103.751, 
+              20.394
+            ], 
+            [
+              -100.062, 
+              20.394
+            ], 
+            [
+              -100.062, 
+              17.906
+            ], 
+            [
+              -103.751, 
+              17.906
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2346279, 
+        "name": "Michoacan de Ocampo", 
+        "adjacent_woeid": [
+          2346271, 
+          2346274, 
+          2346275, 
+          2346277, 
+          2346278, 
+          2346285
+        ], 
+        "ne_latitude": 20.394, 
+        "alias_SPA_V": [
+          "Estado de Michoacan de Ocampo"
+        ], 
+        "ne_longitude": -100.062, 
+        "longitude": -101.907, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "Michoacan"
+        ], 
+        "sw_longitude": -103.751, 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "MI"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.152, 
+        "iso": "MX", 
+        "fullname": "Michoacan de Ocampo, Mexico", 
+        "sw_latitude": 17.906
+      }, 
+      "id": 2346279
+    }
+  ]
+}

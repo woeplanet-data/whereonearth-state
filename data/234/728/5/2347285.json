@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              37.949, 
+              40.028
+            ], 
+            [
+              37.949, 
+              41.081
+            ], 
+            [
+              39.196, 
+              41.081
+            ], 
+            [
+              39.196, 
+              40.028
+            ], 
+            [
+              37.949, 
+              40.028
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 2347285, 
+        "name": "Giresun", 
+        "adjacent_woeid": [
+          2347281, 
+          2347304, 
+          2347309, 
+          2347312, 
+          2347319
+        ], 
+        "ne_latitude": 41.081, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 39.196, 
+        "longitude": 38.572, 
+        "placetype": "State", 
+        "iso": "TR", 
+        "date_indexed": "2010-12-02T16:22:51Z", 
+        "parent_woeid": 23424969, 
+        "latitude": 40.554, 
+        "sw_longitude": 37.949, 
+        "fullname": "Giresun, Turkey", 
+        "sw_latitude": 40.028
+      }, 
+      "id": 2347285
+    }
+  ]
+}

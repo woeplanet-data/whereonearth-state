@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              52.566, 
+              29.883
+            ], 
+            [
+              52.566, 
+              33.391
+            ], 
+            [
+              56.278, 
+              33.391
+            ], 
+            [
+              56.278, 
+              29.883
+            ], 
+            [
+              52.566, 
+              29.883
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345790, 
+        "name": "Yazd", 
+        "adjacent_woeid": [
+          2345772, 
+          2345787, 
+          2345788, 
+          56189823, 
+          56189825
+        ], 
+        "ne_latitude": 33.391, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 56.278, 
+        "longitude": 54.422, 
+        "placetype": "State", 
+        "iso": "IR", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "parent_woeid": 23424851, 
+        "latitude": 31.637, 
+        "sw_longitude": 52.566, 
+        "fullname": "Yazd, Iran", 
+        "sw_latitude": 29.883
+      }, 
+      "id": 2345790
+    }
+  ]
+}

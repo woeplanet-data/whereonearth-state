@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.759, 
+              3.471
+            ], 
+            [
+              16.759, 
+              5.027
+            ], 
+            [
+              18.635, 
+              5.027
+            ], 
+            [
+              18.635, 
+              3.471
+            ], 
+            [
+              16.759, 
+              3.471
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345095, 
+        "name": "Lobaye", 
+        "adjacent_woeid": [
+          2344971, 
+          2344978, 
+          2345092, 
+          2345103, 
+          2345104
+        ], 
+        "ne_latitude": 5.027, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 18.635, 
+        "longitude": 17.697, 
+        "placetype": "State", 
+        "iso": "CF", 
+        "date_indexed": "2010-12-02T17:43:23Z", 
+        "parent_woeid": 23424792, 
+        "latitude": 4.249, 
+        "sw_longitude": 16.759, 
+        "fullname": "Lobaye, Central African Republic", 
+        "sw_latitude": 3.471
+      }, 
+      "id": 2345095
+    }
+  ]
+}

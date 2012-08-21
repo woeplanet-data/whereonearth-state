@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.751, 
+              -26.082
+            ], 
+            [
+              -70.751, 
+              -20.936
+            ], 
+            [
+              -66.988, 
+              -20.936
+            ], 
+            [
+              -66.988, 
+              -26.082
+            ], 
+            [
+              -70.751, 
+              -26.082
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -20.936, 
+        "name": "Antofagasta", 
+        "alias_ENG_P": [
+          "Antofagasta Region"
+        ], 
+        "woeid": 2345020, 
+        "alias_SPA_V": [
+          "Regi\u00f3n de Antofagasta"
+        ], 
+        "ne_longitude": -66.988, 
+        "longitude": -68.862, 
+        "parent_woeid": 23424782, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "Region de Antofagasta"
+        ], 
+        "adjacent_woeid": [
+          2344676, 
+          2344684, 
+          2344691, 
+          2344807, 
+          2345022, 
+          2345030
+        ], 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -23.509, 
+        "sw_longitude": -70.751, 
+        "fullname": "Antofagasta, Antofagasta Region, Chile", 
+        "sw_latitude": -26.082
+      }, 
+      "id": 2345020
+    }
+  ]
+}

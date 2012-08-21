@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.206, 
+              23.165
+            ], 
+            [
+              -101.206, 
+              27.799
+            ], 
+            [
+              -98.423, 
+              27.799
+            ], 
+            [
+              -98.423, 
+              23.165
+            ], 
+            [
+              -101.206, 
+              23.165
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.799, 
+        "name": "Nuevo Leon", 
+        "adjacent_woeid": [
+          2346270, 
+          2346287, 
+          2346291, 
+          2346295
+        ], 
+        "woeid": 2346282, 
+        "alias_SPA_V": [
+          "Nuevoleon"
+        ], 
+        "ne_longitude": -98.423, 
+        "longitude": -99.814, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "NL"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.482, 
+        "sw_longitude": -101.206, 
+        "fullname": "Nuevo Leon, Mexico", 
+        "sw_latitude": 23.165
+      }, 
+      "id": 2346282
+    }
+  ]
+}

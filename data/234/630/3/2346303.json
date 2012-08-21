@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              100.120, 
+              6.252
+            ], 
+            [
+              100.120, 
+              6.726
+            ], 
+            [
+              100.371, 
+              6.726
+            ], 
+            [
+              100.371, 
+              6.252
+            ], 
+            [
+              100.120, 
+              6.252
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 2346303, 
+        "name": "Perlis", 
+        "adjacent_woeid": [
+          2346297, 
+          2347191, 
+          2347192
+        ], 
+        "ne_latitude": 6.726, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 100.371, 
+        "longitude": 100.245, 
+        "placetype": "State", 
+        "iso": "MY", 
+        "date_indexed": "2010-12-02T18:03:44Z", 
+        "parent_woeid": 23424901, 
+        "latitude": 6.489, 
+        "sw_longitude": 100.120, 
+        "fullname": "Perlis, Malaysia", 
+        "sw_latitude": 6.252
+      }, 
+      "id": 2346303
+    }
+  ]
+}

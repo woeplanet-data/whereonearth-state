@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.263, 
+              63.200
+            ], 
+            [
+              -73.263, 
+              83.627
+            ], 
+            [
+              -12.649, 
+              83.627
+            ], 
+            [
+              -12.649, 
+              63.200
+            ], 
+            [
+              -73.263, 
+              63.200
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 20069857, 
+        "name": "Nordgronland", 
+        "adjacent_woeid": [
+          20069858, 
+          20069859
+        ], 
+        "ne_latitude": 83.627, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -12.649, 
+        "longitude": -42.846, 
+        "placetype": "State", 
+        "iso": "GL", 
+        "date_indexed": "2010-12-02T17:40:29Z", 
+        "parent_woeid": 23424828, 
+        "latitude": 79.402, 
+        "sw_longitude": -73.263, 
+        "fullname": "Nordgronland, Greenland", 
+        "sw_latitude": 63.200
+      }, 
+      "id": 20069857
+    }
+  ]
+}

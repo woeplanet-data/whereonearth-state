@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              34.268, 
+              29.497
+            ], 
+            [
+              34.268, 
+              31.803
+            ], 
+            [
+              35.475, 
+              31.803
+            ], 
+            [
+              35.475, 
+              29.497
+            ], 
+            [
+              34.268, 
+              29.497
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345791, 
+        "name": "Southern", 
+        "adjacent_woeid": [
+          23424988, 
+          20070288, 
+          23424838, 
+          20070290, 
+          2345792, 
+          2345932, 
+          2345929, 
+          2345796
+        ], 
+        "ne_latitude": 31.803, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "HaDarom"
+        ], 
+        "ne_longitude": 35.475, 
+        "longitude": 34.872, 
+        "placetype": "State", 
+        "iso": "IL", 
+        "date_indexed": "2010-12-02T08:53:01Z", 
+        "parent_woeid": 23424852, 
+        "latitude": 30.650, 
+        "sw_longitude": 34.268, 
+        "fullname": "Southern, HaDarom, Israel", 
+        "sw_latitude": 29.497
+      }, 
+      "id": 2345791
+    }
+  ]
+}

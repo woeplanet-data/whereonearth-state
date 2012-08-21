@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              30.039, 
+              37.302
+            ], 
+            [
+              30.039, 
+              38.513
+            ], 
+            [
+              31.577, 
+              38.513
+            ], 
+            [
+              31.577, 
+              37.302
+            ], 
+            [
+              30.039, 
+              37.302
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 2347288, 
+        "name": "Isparta", 
+        "adjacent_woeid": [
+          2347260, 
+          2347264, 
+          2347272, 
+          2347321
+        ], 
+        "ne_latitude": 38.513, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 31.577, 
+        "longitude": 30.808, 
+        "placetype": "State", 
+        "iso": "TR", 
+        "date_indexed": "2010-12-02T16:22:51Z", 
+        "parent_woeid": 23424969, 
+        "latitude": 37.908, 
+        "sw_longitude": 30.039, 
+        "fullname": "Isparta, Turkey", 
+        "sw_latitude": 37.302
+      }, 
+      "id": 2347288
+    }
+  ]
+}

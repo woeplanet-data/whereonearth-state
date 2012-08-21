@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.680, 
+              18.465
+            ], 
+            [
+              -70.680, 
+              18.777
+            ], 
+            [
+              -70.360, 
+              18.777
+            ], 
+            [
+              -70.360, 
+              18.465
+            ], 
+            [
+              -70.680, 
+              18.465
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.777, 
+        "name": "San Jose de Ocoa", 
+        "adjacent_woeid": [
+          2345172, 
+          2345186, 
+          2345198, 
+          2345199, 
+          2345201
+        ], 
+        "woeid": 28358195, 
+        "alias_SPA_V": [
+          "S. Jose de Ocoa"
+        ], 
+        "ne_longitude": -70.360, 
+        "longitude": -70.520, 
+        "parent_woeid": 23424800, 
+        "placetype": "State", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.621, 
+        "sw_longitude": -70.680, 
+        "fullname": "San Jose de Ocoa, Dominican Republic", 
+        "sw_latitude": 18.465
+      }, 
+      "id": 28358195
+    }
+  ]
+}

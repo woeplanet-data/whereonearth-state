@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              30.229, 
+              29.020
+            ], 
+            [
+              30.229, 
+              29.756
+            ], 
+            [
+              31.098, 
+              29.756
+            ], 
+            [
+              31.098, 
+              29.020
+            ], 
+            [
+              30.229, 
+              29.020
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345226, 
+        "name": "Al Fayyum", 
+        "adjacent_woeid": [
+          2345240, 
+          56120898
+        ], 
+        "ne_latitude": 29.756, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Faiyum Governorate"
+        ], 
+        "ne_longitude": 31.098, 
+        "longitude": 30.664, 
+        "placetype": "State", 
+        "iso": "EG", 
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "parent_woeid": 23424802, 
+        "latitude": 29.388, 
+        "sw_longitude": 30.229, 
+        "fullname": "Al Fayyum, Egypt", 
+        "sw_latitude": 29.020
+      }, 
+      "id": 2345226
+    }
+  ]
+}

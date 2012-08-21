@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.038, 
+              5.760
+            ], 
+            [
+              0.038, 
+              8.754
+            ], 
+            [
+              1.192, 
+              8.754
+            ], 
+            [
+              1.192, 
+              5.760
+            ], 
+            [
+              0.038, 
+              5.760
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345468, 
+        "name": "Volta", 
+        "adjacent_woeid": [
+          2345462, 
+          2345464, 
+          2345466, 
+          2345467, 
+          56048436, 
+          56048437, 
+          56048438
+        ], 
+        "ne_latitude": 8.754, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.192, 
+        "longitude": 0.615, 
+        "placetype": "State", 
+        "iso": "GH", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "parent_woeid": 23424824, 
+        "latitude": 7.257, 
+        "sw_longitude": 0.038, 
+        "fullname": "Volta, Ghana", 
+        "sw_latitude": 5.760
+      }, 
+      "id": 2345468
+    }
+  ]
+}

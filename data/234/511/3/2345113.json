@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.739, 
+              19.828
+            ], 
+            [
+              -77.739, 
+              20.776
+            ], 
+            [
+              -76.205, 
+              20.776
+            ], 
+            [
+              -76.205, 
+              19.828
+            ], 
+            [
+              -77.739, 
+              19.828
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345113, 
+        "name": "Granma", 
+        "adjacent_woeid": [
+          2345116, 
+          2345117, 
+          2345119
+        ], 
+        "ne_latitude": 20.776, 
+        "alias_SPA_A": [
+          "GR"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -76.205, 
+        "longitude": -76.972, 
+        "placetype": "State", 
+        "iso": "CU", 
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "parent_woeid": 23424793, 
+        "latitude": 20.302, 
+        "sw_longitude": -77.739, 
+        "fullname": "Granma, Cuba", 
+        "sw_latitude": 19.828
+      }, 
+      "id": 2345113
+    }
+  ]
+}

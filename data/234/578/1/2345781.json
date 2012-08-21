@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              50.102, 
+              27.334
+            ], 
+            [
+              50.102, 
+              30.342
+            ], 
+            [
+              52.952, 
+              30.342
+            ], 
+            [
+              52.952, 
+              27.334
+            ], 
+            [
+              50.102, 
+              27.334
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345781, 
+        "name": "Bushehr", 
+        "adjacent_woeid": [
+          2345771, 
+          2345772, 
+          2345776, 
+          2345778
+        ], 
+        "ne_latitude": 30.342, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 52.952, 
+        "longitude": 51.527, 
+        "placetype": "State", 
+        "iso": "IR", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "parent_woeid": 23424851, 
+        "latitude": 28.838, 
+        "sw_longitude": 50.102, 
+        "fullname": "Bushehr, Iran", 
+        "sw_latitude": 27.334
+      }, 
+      "id": 2345781
+    }
+  ]
+}

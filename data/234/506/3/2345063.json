@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.933, 
+              8.901
+            ], 
+            [
+              -74.933, 
+              11.351
+            ], 
+            [
+              -73.561, 
+              11.351
+            ], 
+            [
+              -73.561, 
+              8.901
+            ], 
+            [
+              -74.933, 
+              8.901
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345063, 
+        "name": "Magdalena", 
+        "adjacent_woeid": [
+          2345050, 
+          2345051, 
+          2345056, 
+          2345062
+        ], 
+        "ne_latitude": 11.351, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -73.561, 
+        "longitude": -74.247, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 10.126, 
+        "sw_longitude": -74.933, 
+        "fullname": "Magdalena, Colombia", 
+        "sw_latitude": 8.901
+      }, 
+      "id": 2345063
+    }
+  ]
+}

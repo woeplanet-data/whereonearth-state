@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              25.447, 
+              45.516
+            ], 
+            [
+              25.447, 
+              46.285
+            ], 
+            [
+              26.443, 
+              46.285
+            ], 
+            [
+              26.443, 
+              45.516
+            ], 
+            [
+              25.447, 
+              45.516
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "RUM", 
+        "woeid": 2346629, 
+        "name": "Covasna", 
+        "adjacent_woeid": [
+          2346618, 
+          2346623, 
+          2346625, 
+          2346634, 
+          2346653
+        ], 
+        "ne_latitude": 46.285, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 26.443, 
+        "longitude": 25.945, 
+        "placetype": "State", 
+        "iso": "RO", 
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "parent_woeid": 23424933, 
+        "latitude": 45.900, 
+        "sw_longitude": 25.447, 
+        "fullname": "Covasna, Romania", 
+        "sw_latitude": 45.516
+      }, 
+      "id": 2346629
+    }
+  ]
+}

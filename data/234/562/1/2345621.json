@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.445, 
+              18.021
+            ], 
+            [
+              -74.445, 
+              18.425
+            ], 
+            [
+              -72.879, 
+              18.425
+            ], 
+            [
+              -72.879, 
+              18.021
+            ], 
+            [
+              -74.445, 
+              18.021
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345621, 
+        "name": "Sud", 
+        "adjacent_woeid": [
+          2345617, 
+          2345620, 
+          2345622
+        ], 
+        "ne_latitude": 18.425, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -72.879, 
+        "longitude": -73.132, 
+        "alias_FRE_A": [
+          "SD"
+        ], 
+        "placetype": "State", 
+        "iso": "HT", 
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "parent_woeid": 23424839, 
+        "latitude": 18.223, 
+        "sw_longitude": -74.445, 
+        "fullname": "Sud, Haiti", 
+        "sw_latitude": 18.021
+      }, 
+      "id": 2345621
+    }
+  ]
+}

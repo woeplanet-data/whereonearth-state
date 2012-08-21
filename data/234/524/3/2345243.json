@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              30.350, 
+              30.962
+            ], 
+            [
+              30.350, 
+              31.603
+            ], 
+            [
+              31.308, 
+              31.603
+            ], 
+            [
+              31.308, 
+              30.962
+            ], 
+            [
+              30.350, 
+              30.962
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345243, 
+        "name": "Kafr ash Shaykh", 
+        "adjacent_woeid": [
+          2345223, 
+          2345225, 
+          2345227
+        ], 
+        "ne_latitude": 31.603, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Kafr el-Sheikh Governorate"
+        ], 
+        "ne_longitude": 31.308, 
+        "longitude": 30.829, 
+        "placetype": "State", 
+        "iso": "EG", 
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "parent_woeid": 23424802, 
+        "latitude": 31.283, 
+        "sw_longitude": 30.350, 
+        "fullname": "Kafr ash Shaykh, Egypt", 
+        "sw_latitude": 30.962
+      }, 
+      "id": 2345243
+    }
+  ]
+}

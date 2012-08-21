@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.655, 
+              18.319
+            ], 
+            [
+              -71.655, 
+              18.638
+            ], 
+            [
+              -70.991, 
+              18.638
+            ], 
+            [
+              -70.991, 
+              18.319
+            ], 
+            [
+              -71.655, 
+              18.319
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.638, 
+        "name": "Bahoruco", 
+        "adjacent_woeid": [
+          2345172, 
+          2345174, 
+          2345179, 
+          2345181, 
+          2345191
+        ], 
+        "woeid": 2345173, 
+        "alias_SPA_V": [
+          "Baoruco"
+        ], 
+        "ne_longitude": -70.991, 
+        "longitude": -71.323, 
+        "parent_woeid": 23424800, 
+        "placetype": "State", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.479, 
+        "sw_longitude": -71.655, 
+        "fullname": "Bahoruco, Dominican Republic", 
+        "sw_latitude": 18.319
+      }, 
+      "id": 2345173
+    }
+  ]
+}

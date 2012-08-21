@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              45.355, 
+              40.360
+            ], 
+            [
+              45.355, 
+              40.772
+            ], 
+            [
+              45.889, 
+              40.772
+            ], 
+            [
+              45.889, 
+              40.360
+            ], 
+            [
+              45.355, 
+              40.360
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 20070230, 
+        "name": "Gadabay", 
+        "adjacent_woeid": [
+          20070202, 
+          20070204, 
+          20070222, 
+          20070244, 
+          20070248
+        ], 
+        "ne_latitude": 40.772, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 45.889, 
+        "longitude": 45.622, 
+        "placetype": "State", 
+        "iso": "AZ", 
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "parent_woeid": 23424741, 
+        "latitude": 40.566, 
+        "sw_longitude": 45.355, 
+        "fullname": "Gadabay, Azerbaijan", 
+        "sw_latitude": 40.360
+      }, 
+      "id": 20070230
+    }
+  ]
+}

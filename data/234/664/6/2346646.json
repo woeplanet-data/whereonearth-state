@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              23.590, 
+              45.471
+            ], 
+            [
+              23.590, 
+              46.284
+            ], 
+            [
+              24.948, 
+              46.284
+            ], 
+            [
+              24.948, 
+              45.471
+            ], 
+            [
+              23.590, 
+              45.471
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "RUM", 
+        "woeid": 2346646, 
+        "name": "Sibiu", 
+        "adjacent_woeid": [
+          2346615, 
+          2346617, 
+          2346623, 
+          2346640, 
+          2346652
+        ], 
+        "ne_latitude": 46.284, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.948, 
+        "longitude": 24.269, 
+        "placetype": "State", 
+        "iso": "RO", 
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "parent_woeid": 23424933, 
+        "latitude": 45.878, 
+        "sw_longitude": 23.590, 
+        "fullname": "Sibiu, Romania", 
+        "sw_latitude": 45.471
+      }, 
+      "id": 2346646
+    }
+  ]
+}

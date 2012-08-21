@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              19.677, 
+              40.704
+            ], 
+            [
+              19.677, 
+              41.384
+            ], 
+            [
+              20.622, 
+              41.384
+            ], 
+            [
+              20.622, 
+              40.704
+            ], 
+            [
+              19.677, 
+              40.704
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 29389557, 
+        "name": "Elbasan", 
+        "adjacent_woeid": [
+          29389554, 
+          29389555, 
+          29389558, 
+          29389560, 
+          29389564
+        ], 
+        "ne_latitude": 41.384, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 20.622, 
+        "longitude": 20.150, 
+        "placetype": "State", 
+        "iso": "AL", 
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "parent_woeid": 23424742, 
+        "latitude": 41.044, 
+        "sw_longitude": 19.677, 
+        "fullname": "Elbasan, Albania", 
+        "sw_latitude": 40.704
+      }, 
+      "id": 29389557
+    }
+  ]
+}

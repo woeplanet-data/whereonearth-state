@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.523, 
+              5.704
+            ], 
+            [
+              -74.523, 
+              8.116
+            ], 
+            [
+              -72.480, 
+              8.116
+            ], 
+            [
+              -72.480, 
+              5.704
+            ], 
+            [
+              -74.523, 
+              5.704
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345071, 
+        "name": "Santander", 
+        "adjacent_woeid": [
+          2345048, 
+          2345051, 
+          2345052, 
+          2345056, 
+          2345066
+        ], 
+        "ne_latitude": 8.116, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -72.480, 
+        "longitude": -73.502, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 6.910, 
+        "sw_longitude": -74.523, 
+        "fullname": "Santander, Colombia", 
+        "sw_latitude": 5.704
+      }, 
+      "id": 2345071
+    }
+  ]
+}

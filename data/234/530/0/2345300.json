@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.527, 
+              13.165
+            ], 
+            [
+              -88.527, 
+              13.903
+            ], 
+            [
+              -88.019, 
+              13.903
+            ], 
+            [
+              -88.019, 
+              13.165
+            ], 
+            [
+              -88.527, 
+              13.165
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.903, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          2345293, 
+          2345298, 
+          2345299, 
+          2345303, 
+          2345305, 
+          2345632
+        ], 
+        "woeid": 2345300, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -88.019, 
+        "longitude": -88.273, 
+        "parent_woeid": 23424807, 
+        "placetype": "State", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.534, 
+        "sw_longitude": -88.527, 
+        "fullname": "San Miguel, El Salvador", 
+        "sw_latitude": 13.165
+      }, 
+      "id": 2345300
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.768, 
+              18.203
+            ], 
+            [
+              -77.768, 
+              18.511
+            ], 
+            [
+              -77.440, 
+              18.511
+            ], 
+            [
+              -77.440, 
+              18.203
+            ], 
+            [
+              -77.768, 
+              18.203
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345923, 
+        "name": "Trelawny", 
+        "adjacent_woeid": [
+          2345912, 
+          2345914, 
+          2345917, 
+          2345919, 
+          2345920
+        ], 
+        "ne_latitude": 18.511, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -77.440, 
+        "longitude": -77.604, 
+        "placetype": "State", 
+        "iso": "JM", 
+        "date_indexed": "2010-12-02T08:58:58Z", 
+        "parent_woeid": 23424858, 
+        "latitude": 18.357, 
+        "sw_longitude": -77.768, 
+        "fullname": "Trelawny, Jamaica", 
+        "sw_latitude": 18.203
+      }, 
+      "id": 2345923
+    }
+  ]
+}

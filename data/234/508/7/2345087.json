@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.084, 
+              5.500
+            ], 
+            [
+              -87.084, 
+              10.339
+            ], 
+            [
+              -82.714, 
+              10.339
+            ], 
+            [
+              -82.714, 
+              5.500
+            ], 
+            [
+              -87.084, 
+              5.500
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345087, 
+        "name": "Puntarenas", 
+        "adjacent_woeid": [
+          2345082, 
+          2345084, 
+          2345086, 
+          2345088, 
+          2346551, 
+          2346552
+        ], 
+        "ne_latitude": 10.339, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -82.714, 
+        "longitude": -83.271, 
+        "placetype": "State", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "parent_woeid": 23424791, 
+        "latitude": 9.186, 
+        "sw_longitude": -87.084, 
+        "fullname": "Puntarenas, Costa Rica", 
+        "sw_latitude": 5.500
+      }, 
+      "id": 2345087
+    }
+  ]
+}

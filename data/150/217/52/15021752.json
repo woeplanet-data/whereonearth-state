@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              168.052, 
+              -44.499
+            ], 
+            [
+              168.052, 
+              -40.776
+            ], 
+            [
+              172.692, 
+              -40.776
+            ], 
+            [
+              172.692, 
+              -44.499
+            ], 
+            [
+              168.052, 
+              -44.499
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 15021752, 
+        "name": "West Coast", 
+        "adjacent_woeid": [
+          15021750, 
+          15021751, 
+          15021754, 
+          15021757
+        ], 
+        "ne_latitude": -40.776, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 172.692, 
+        "longitude": 171.524, 
+        "placetype": "State", 
+        "iso": "NZ", 
+        "date_indexed": "2010-12-02T17:02:10Z", 
+        "parent_woeid": 23424916, 
+        "latitude": -42.638, 
+        "sw_longitude": 168.052, 
+        "fullname": "West Coast, New Zealand", 
+        "sw_latitude": -44.499
+      }, 
+      "id": 15021752
+    }
+  ]
+}

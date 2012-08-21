@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.350, 
+              36.094
+            ], 
+            [
+              4.350, 
+              36.907
+            ], 
+            [
+              5.449, 
+              36.907
+            ], 
+            [
+              5.449, 
+              36.094
+            ], 
+            [
+              4.350, 
+              36.094
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ARA", 
+        "woeid": 2344590, 
+        "name": "Bejaia", 
+        "adjacent_woeid": [
+          2344586, 
+          2344588, 
+          2344593, 
+          2344596, 
+          2344609
+        ], 
+        "ne_latitude": 36.907, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.449, 
+        "longitude": 4.899, 
+        "placetype": "State", 
+        "iso": "DZ", 
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "parent_woeid": 23424740, 
+        "latitude": 36.496, 
+        "sw_longitude": 4.350, 
+        "fullname": "Bejaia, Algeria", 
+        "sw_latitude": 36.094
+      }, 
+      "id": 2344590
+    }
+  ]
+}

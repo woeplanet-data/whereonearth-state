@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.276, 
+              8.513
+            ], 
+            [
+              -79.276, 
+              9.593
+            ], 
+            [
+              -77.355, 
+              9.593
+            ], 
+            [
+              -77.355, 
+              8.513
+            ], 
+            [
+              -79.276, 
+              8.513
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.593, 
+        "name": "Kuna Yala", 
+        "adjacent_woeid": [
+          2345057, 
+          2346554, 
+          2346555, 
+          2346558, 
+          28358286
+        ], 
+        "woeid": 2346559, 
+        "alias_SPA_V": [
+          "San Blas"
+        ], 
+        "ne_longitude": -77.355, 
+        "longitude": -77.886, 
+        "parent_woeid": 23424924, 
+        "placetype": "State", 
+        "iso": "PA", 
+        "date_indexed": "2010-12-02T17:52:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.040, 
+        "sw_longitude": -79.276, 
+        "fullname": "Kuna Yala, Panama", 
+        "sw_latitude": 8.513
+      }, 
+      "id": 2346559
+    }
+  ]
+}

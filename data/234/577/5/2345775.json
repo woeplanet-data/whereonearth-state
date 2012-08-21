@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              45.840, 
+              32.032
+            ], 
+            [
+              45.840, 
+              34.074
+            ], 
+            [
+              48.052, 
+              34.074
+            ], 
+            [
+              48.052, 
+              32.032
+            ], 
+            [
+              45.840, 
+              32.032
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345775, 
+        "name": "Ilam", 
+        "adjacent_woeid": [
+          2345777, 
+          2345778, 
+          2345782, 
+          2345842, 
+          2345846, 
+          2345848
+        ], 
+        "ne_latitude": 34.074, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 48.052, 
+        "longitude": 46.946, 
+        "placetype": "State", 
+        "iso": "IR", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "parent_woeid": 23424851, 
+        "latitude": 33.053, 
+        "sw_longitude": 45.840, 
+        "fullname": "Ilam, Iran", 
+        "sw_latitude": 32.032
+      }, 
+      "id": 2345775
+    }
+  ]
+}

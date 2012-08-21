@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              54.214, 
+              25.904
+            ], 
+            [
+              54.214, 
+              31.823
+            ], 
+            [
+              59.441, 
+              31.823
+            ], 
+            [
+              59.441, 
+              25.904
+            ], 
+            [
+              54.214, 
+              25.904
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345788, 
+        "name": "Kerman", 
+        "adjacent_woeid": [
+          2345770, 
+          2345772, 
+          2345776, 
+          2345790, 
+          56189825
+        ], 
+        "ne_latitude": 31.823, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 59.441, 
+        "longitude": 56.828, 
+        "placetype": "State", 
+        "iso": "IR", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "parent_woeid": 23424851, 
+        "latitude": 28.864, 
+        "sw_longitude": 54.214, 
+        "fullname": "Kerman, Iran", 
+        "sw_latitude": 25.904
+      }, 
+      "id": 2345788
+    }
+  ]
+}

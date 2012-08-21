@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              50.454, 
+              25.556
+            ], 
+            [
+              50.454, 
+              26.146
+            ], 
+            [
+              50.825, 
+              26.146
+            ], 
+            [
+              50.825, 
+              25.556
+            ], 
+            [
+              50.454, 
+              25.556
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56051602, 
+        "name": "Southern", 
+        "adjacent_woeid": [
+          56051601, 
+          56051603
+        ], 
+        "ne_latitude": 26.146, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Southern Governorate"
+        ], 
+        "ne_longitude": 50.825, 
+        "longitude": 50.543, 
+        "placetype": "State", 
+        "iso": "BH", 
+        "date_indexed": "2010-12-02T16:11:57Z", 
+        "parent_woeid": 23424753, 
+        "latitude": 25.969, 
+        "sw_longitude": 50.454, 
+        "fullname": "Southern, Bahrain", 
+        "sw_latitude": 25.556
+      }, 
+      "id": 56051602
+    }
+  ]
+}

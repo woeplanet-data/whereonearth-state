@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              25.980, 
+              46.024
+            ], 
+            [
+              25.980, 
+              46.831
+            ], 
+            [
+              27.507, 
+              46.831
+            ], 
+            [
+              27.507, 
+              46.024
+            ], 
+            [
+              25.980, 
+              46.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "RUM", 
+        "woeid": 2346618, 
+        "name": "Bacau", 
+        "adjacent_woeid": [
+          2346629, 
+          2346634, 
+          2346641, 
+          2346651, 
+          2346653
+        ], 
+        "ne_latitude": 46.831, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 27.507, 
+        "longitude": 26.744, 
+        "placetype": "State", 
+        "iso": "RO", 
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "parent_woeid": 23424933, 
+        "latitude": 46.427, 
+        "sw_longitude": 25.980, 
+        "fullname": "Bacau, Romania", 
+        "sw_latitude": 46.024
+      }, 
+      "id": 2346618
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.859, 
+              -2.745
+            ], 
+            [
+              9.859, 
+              -0.376
+            ], 
+            [
+              12.532, 
+              -0.376
+            ], 
+            [
+              12.532, 
+              -2.745
+            ], 
+            [
+              9.859, 
+              -2.745
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345452, 
+        "name": "Ngounie", 
+        "adjacent_woeid": [
+          2344972, 
+          2345451, 
+          2345453, 
+          2345454, 
+          2345455, 
+          2345456
+        ], 
+        "ne_latitude": -0.376, 
+        "ne_longitude": 12.532, 
+        "longitude": 11.196, 
+        "parent_woeid": 23424822, 
+        "placetype": "State", 
+        "alias_FRE_V": [
+          "Ngouni\u00e9"
+        ], 
+        "iso": "GA", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -1.561, 
+        "sw_longitude": 9.859, 
+        "fullname": "Ngounie, Gabon", 
+        "sw_latitude": -2.745
+      }, 
+      "id": 2345452
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.223, 
+              13.497
+            ], 
+            [
+              -87.223, 
+              14.422
+            ], 
+            [
+              -85.571, 
+              14.422
+            ], 
+            [
+              -85.571, 
+              13.497
+            ], 
+            [
+              -87.223, 
+              13.497
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345629, 
+        "name": "El Para\u00edso", 
+        "adjacent_woeid": [
+          2345624, 
+          2345630, 
+          2345637, 
+          2346423, 
+          2346429
+        ], 
+        "ne_latitude": 14.422, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -85.571, 
+        "longitude": -86.397, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "El Paraiso"
+        ], 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:20:59Z", 
+        "parent_woeid": 23424841, 
+        "latitude": 13.959, 
+        "sw_longitude": -87.223, 
+        "fullname": "El Para\u00edso, Honduras", 
+        "sw_latitude": 13.497
+      }, 
+      "id": 2345629
+    }
+  ]
+}

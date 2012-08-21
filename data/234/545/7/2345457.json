@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.257, 
+              0.219
+            ], 
+            [
+              10.257, 
+              2.323
+            ], 
+            [
+              13.307, 
+              2.323
+            ], 
+            [
+              13.307, 
+              0.219
+            ], 
+            [
+              10.257, 
+              0.219
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345457, 
+        "name": "Woleu-Ntem", 
+        "adjacent_woeid": [
+          2344974, 
+          2345042, 
+          2345449, 
+          2345451, 
+          2345454, 
+          20069850, 
+          20069851, 
+          20069852
+        ], 
+        "ne_latitude": 2.323, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.307, 
+        "longitude": 11.782, 
+        "placetype": "State", 
+        "iso": "GA", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "parent_woeid": 23424822, 
+        "latitude": 1.271, 
+        "sw_longitude": 10.257, 
+        "fullname": "Woleu-Ntem, Gabon", 
+        "sw_latitude": 0.219
+      }, 
+      "id": 2345457
+    }
+  ]
+}

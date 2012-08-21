@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.982, 
+              13.962
+            ], 
+            [
+              -88.982, 
+              14.948
+            ], 
+            [
+              -88.316, 
+              14.948
+            ], 
+            [
+              -88.316, 
+              13.962
+            ], 
+            [
+              -88.982, 
+              13.962
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345635, 
+        "name": "Lempira", 
+        "adjacent_woeid": [
+          2345293, 
+          2345294, 
+          2345627, 
+          2345632, 
+          2345636, 
+          2345638
+        ], 
+        "ne_latitude": 14.948, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -88.316, 
+        "longitude": -88.649, 
+        "placetype": "State", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:20:59Z", 
+        "parent_woeid": 23424841, 
+        "latitude": 14.455, 
+        "sw_longitude": -88.982, 
+        "fullname": "Lempira, Honduras", 
+        "sw_latitude": 13.962
+      }, 
+      "id": 2345635
+    }
+  ]
+}

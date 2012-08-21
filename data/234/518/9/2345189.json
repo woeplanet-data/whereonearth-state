@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.725, 
+              18.947
+            ], 
+            [
+              -69.725, 
+              19.361
+            ], 
+            [
+              -69.149, 
+              19.361
+            ], 
+            [
+              -69.149, 
+              18.947
+            ], 
+            [
+              -69.725, 
+              18.947
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.361, 
+        "name": "Samana", 
+        "adjacent_woeid": [
+          2345177, 
+          2345183, 
+          2345197, 
+          2345200
+        ], 
+        "woeid": 2345189, 
+        "alias_SPA_V": [
+          "Sta. B\u00e1rbara de Saman\u00e1"
+        ], 
+        "ne_longitude": -69.149, 
+        "longitude": -69.648, 
+        "parent_woeid": 23424800, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "Sta. Barbara de Samana"
+        ], 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.154, 
+        "sw_longitude": -69.725, 
+        "fullname": "Samana, Dominican Republic", 
+        "sw_latitude": 18.947
+      }, 
+      "id": 2345189
+    }
+  ]
+}

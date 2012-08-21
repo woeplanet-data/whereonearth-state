@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.413, 
+              19.537
+            ], 
+            [
+              -91.413, 
+              22.565
+            ], 
+            [
+              -87.366, 
+              22.565
+            ], 
+            [
+              -87.366, 
+              19.537
+            ], 
+            [
+              -91.413, 
+              19.537
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.565, 
+        "name": "Yucatan", 
+        "adjacent_woeid": [
+          2346267, 
+          2346286
+        ], 
+        "woeid": 2346294, 
+        "alias_SPA_V": [
+          "Estado de Yucatan"
+        ], 
+        "ne_longitude": -87.366, 
+        "longitude": -88.881, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "YU"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.574, 
+        "sw_longitude": -91.413, 
+        "fullname": "Yucatan, Mexico", 
+        "sw_latitude": 19.537
+      }, 
+      "id": 2346294
+    }
+  ]
+}

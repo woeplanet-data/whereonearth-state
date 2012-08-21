@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              22.864, 
+              41.317
+            ], 
+            [
+              22.864, 
+              42.184
+            ], 
+            [
+              24.115, 
+              42.184
+            ], 
+            [
+              24.115, 
+              41.317
+            ], 
+            [
+              22.864, 
+              41.317
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 20070060, 
+        "name": "Blagoevgrad", 
+        "adjacent_woeid": [
+          20070059, 
+          20070061, 
+          20070066, 
+          20070067
+        ], 
+        "ne_latitude": 42.184, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.115, 
+        "longitude": 23.489, 
+        "placetype": "State", 
+        "iso": "BG", 
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "parent_woeid": 23424771, 
+        "latitude": 41.750, 
+        "sw_longitude": 22.864, 
+        "fullname": "Blagoevgrad, Bulgaria", 
+        "sw_latitude": 41.317
+      }, 
+      "id": 20070060
+    }
+  ]
+}

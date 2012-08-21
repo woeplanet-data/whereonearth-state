@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.012, 
+              5.749
+            ], 
+            [
+              5.012, 
+              7.552
+            ], 
+            [
+              6.722, 
+              7.552
+            ], 
+            [
+              6.722, 
+              5.749
+            ], 
+            [
+              5.012, 
+              5.749
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2346365, 
+        "name": "Edo", 
+        "adjacent_woeid": [
+          2346347, 
+          2346353, 
+          2346364, 
+          2346369
+        ], 
+        "ne_latitude": 7.552, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.722, 
+        "longitude": 5.867, 
+        "placetype": "State", 
+        "iso": "NG", 
+        "date_indexed": "2010-12-02T09:34:55Z", 
+        "parent_woeid": 23424908, 
+        "latitude": 6.650, 
+        "sw_longitude": 5.012, 
+        "fullname": "Edo, Nigeria", 
+        "sw_latitude": 5.749
+      }, 
+      "id": 2346365
+    }
+  ]
+}

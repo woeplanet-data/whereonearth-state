@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.465, 
+              18.256
+            ], 
+            [
+              -66.465, 
+              18.378
+            ], 
+            [
+              -66.365, 
+              18.378
+            ], 
+            [
+              -66.365, 
+              18.256
+            ], 
+            [
+              -66.465, 
+              18.256
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.378, 
+        "name": "Morovis", 
+        "adjacent_woeid": [
+          2346793, 
+          2346803, 
+          2346851, 
+          2346862, 
+          2346863, 
+          2346864
+        ], 
+        "woeid": 2346802, 
+        "alias_SPA_V": [
+          "Morovis Municipios"
+        ], 
+        "ne_longitude": -66.365, 
+        "longitude": -66.415, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.317, 
+        "sw_longitude": -66.465, 
+        "fullname": "Morovis, Puerto Rico", 
+        "sw_latitude": 18.256
+      }, 
+      "id": 2346802
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.139, 
+              14.494
+            ], 
+            [
+              -92.139, 
+              15.226
+            ], 
+            [
+              -91.404, 
+              15.226
+            ], 
+            [
+              -91.404, 
+              14.494
+            ], 
+            [
+              -92.139, 
+              14.494
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345564, 
+        "name": "Quetzaltenango", 
+        "adjacent_woeid": [
+          2345559, 
+          2345566, 
+          2345568, 
+          2345570, 
+          2345571, 
+          2345572
+        ], 
+        "ne_latitude": 15.226, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -91.404, 
+        "longitude": -91.600, 
+        "placetype": "State", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "parent_woeid": 23424834, 
+        "latitude": 14.860, 
+        "sw_longitude": -92.139, 
+        "fullname": "Quetzaltenango, Guatemala", 
+        "sw_latitude": 14.494
+      }, 
+      "id": 2345564
+    }
+  ]
+}

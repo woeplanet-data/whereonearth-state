@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.780, 
+              7.962
+            ], 
+            [
+              -2.780, 
+              10.727
+            ], 
+            [
+              0.563, 
+              10.727
+            ], 
+            [
+              0.563, 
+              7.962
+            ], 
+            [
+              -2.780, 
+              7.962
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345467, 
+        "name": "Northern", 
+        "adjacent_woeid": [
+          2345464, 
+          2345468, 
+          2345470, 
+          2345471, 
+          55967007, 
+          56017364, 
+          56048434, 
+          56048435, 
+          56048436
+        ], 
+        "ne_latitude": 10.727, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.563, 
+        "longitude": -1.108, 
+        "placetype": "State", 
+        "iso": "GH", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "parent_woeid": 23424824, 
+        "latitude": 9.338, 
+        "sw_longitude": -2.780, 
+        "fullname": "Northern, Ghana", 
+        "sw_latitude": 7.962
+      }, 
+      "id": 2345467
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              22.650, 
+              46.400
+            ], 
+            [
+              22.650, 
+              47.370
+            ], 
+            [
+              24.242, 
+              47.370
+            ], 
+            [
+              24.242, 
+              46.400
+            ], 
+            [
+              22.650, 
+              46.400
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "RUM", 
+        "woeid": 2346627, 
+        "name": "Cluj", 
+        "adjacent_woeid": [
+          2346615, 
+          2346619, 
+          2346620, 
+          2346638, 
+          2346640, 
+          2346644
+        ], 
+        "ne_latitude": 47.370, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.242, 
+        "longitude": 23.446, 
+        "placetype": "State", 
+        "iso": "RO", 
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "parent_woeid": 23424933, 
+        "latitude": 46.885, 
+        "sw_longitude": 22.650, 
+        "fullname": "Cluj, Romania", 
+        "sw_latitude": 46.400
+      }, 
+      "id": 2346627
+    }
+  ]
+}

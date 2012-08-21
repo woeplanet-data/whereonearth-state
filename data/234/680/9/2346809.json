@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.530, 
+              18.081
+            ], 
+            [
+              -66.530, 
+              18.179
+            ], 
+            [
+              -66.418, 
+              18.179
+            ], 
+            [
+              -66.418, 
+              18.081
+            ], 
+            [
+              -66.530, 
+              18.081
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.179, 
+        "name": "Villalba", 
+        "adjacent_woeid": [
+          2346795, 
+          2346803, 
+          2346832
+        ], 
+        "woeid": 2346809, 
+        "alias_SPA_V": [
+          "Villalba Municipios"
+        ], 
+        "ne_longitude": -66.418, 
+        "longitude": -66.474, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.130, 
+        "sw_longitude": -66.530, 
+        "fullname": "Villalba, Puerto Rico", 
+        "sw_latitude": 18.081
+      }, 
+      "id": 2346809
+    }
+  ]
+}

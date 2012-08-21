@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.496, 
+              3.674
+            ], 
+            [
+              -74.496, 
+              4.835
+            ], 
+            [
+              -73.990, 
+              4.835
+            ], 
+            [
+              -73.990, 
+              3.674
+            ], 
+            [
+              -74.496, 
+              3.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345079, 
+        "name": "Distrito Especial", 
+        "adjacent_woeid": [
+          2345061, 
+          2345064, 
+          2345078
+        ], 
+        "ne_latitude": 4.835, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -73.990, 
+        "longitude": -74.177, 
+        "alias_CHI_Q": [
+          "\u6ce2\u54e5\u5927\u9996\u90fd\u533a"
+        ], 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 4.255, 
+        "sw_longitude": -74.496, 
+        "fullname": "Distrito Especial, Colombia", 
+        "sw_latitude": 3.674
+      }, 
+      "id": 2345079
+    }
+  ]
+}

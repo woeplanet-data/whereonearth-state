@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.602, 
+              9.084
+            ], 
+            [
+              -84.602, 
+              10.186
+            ], 
+            [
+              -83.432, 
+              10.186
+            ], 
+            [
+              -83.432, 
+              9.084
+            ], 
+            [
+              -84.602, 
+              9.084
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.186, 
+        "name": "San Jose", 
+        "adjacent_woeid": [
+          2345082, 
+          2345083, 
+          2345085, 
+          2345086, 
+          2345087
+        ], 
+        "woeid": 2345088, 
+        "alias_JPN_Q": [
+          "\u30b5\u30f3\u30db\u30bb"
+        ], 
+        "alias_SPA_V": [
+          "Sanjose"
+        ], 
+        "ne_longitude": -83.432, 
+        "longitude": -84.017, 
+        "parent_woeid": 23424791, 
+        "placetype": "State", 
+        "alias_CHI_Q": [
+          "\u5723\u4f55\u585e"
+        ], 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "alias_KOR_Q": [
+          "\uc0b0\ud638\uc138"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.635, 
+        "sw_longitude": -84.602, 
+        "fullname": "San Jose, Costa Rica", 
+        "sw_latitude": 9.084
+      }, 
+      "id": 2345088
+    }
+  ]
+}

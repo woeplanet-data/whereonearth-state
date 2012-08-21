@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.918, 
+              4.805
+            ], 
+            [
+              -75.918, 
+              5.771
+            ], 
+            [
+              -74.627, 
+              5.771
+            ], 
+            [
+              -74.627, 
+              4.805
+            ], 
+            [
+              -75.918, 
+              4.805
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345053, 
+        "name": "Caldas", 
+        "adjacent_woeid": [
+          2345048, 
+          2345052, 
+          2345069, 
+          2345073, 
+          2345078
+        ], 
+        "ne_latitude": 5.771, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -74.627, 
+        "longitude": -75.272, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 5.288, 
+        "sw_longitude": -75.918, 
+        "fullname": "Caldas, Colombia", 
+        "sw_latitude": 4.805
+      }, 
+      "id": 2345053
+    }
+  ]
+}

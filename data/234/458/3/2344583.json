@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.147, 
+              35.517
+            ], 
+            [
+              -0.147, 
+              36.342
+            ], 
+            [
+              0.772, 
+              36.342
+            ], 
+            [
+              0.772, 
+              35.517
+            ], 
+            [
+              -0.147, 
+              35.517
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ARA", 
+        "woeid": 2344583, 
+        "name": "Mostaganem", 
+        "adjacent_woeid": [
+          2344584, 
+          2344598, 
+          2344611, 
+          2344621
+        ], 
+        "ne_latitude": 36.342, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.772, 
+        "longitude": 0.312, 
+        "placetype": "State", 
+        "iso": "DZ", 
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "parent_woeid": 23424740, 
+        "latitude": 35.929, 
+        "sw_longitude": -0.147, 
+        "fullname": "Mostaganem, Algeria", 
+        "sw_latitude": 35.517
+      }, 
+      "id": 2344583
+    }
+  ]
+}

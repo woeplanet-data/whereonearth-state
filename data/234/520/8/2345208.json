@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.339, 
+              -1.215
+            ], 
+            [
+              -79.339, 
+              -0.326
+            ], 
+            [
+              -78.372, 
+              -0.326
+            ], 
+            [
+              -78.372, 
+              -1.215
+            ], 
+            [
+              -79.339, 
+              -1.215
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345208, 
+        "name": "Cotopaxi", 
+        "adjacent_woeid": [
+          2345204, 
+          2345214, 
+          2345217, 
+          2345219, 
+          2345220, 
+          56189814
+        ], 
+        "ne_latitude": -0.326, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -78.372, 
+        "longitude": -78.855, 
+        "placetype": "State", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "parent_woeid": 23424801, 
+        "latitude": -0.771, 
+        "sw_longitude": -79.339, 
+        "fullname": "Cotopaxi, Ecuador", 
+        "sw_latitude": -1.215
+      }, 
+      "id": 2345208
+    }
+  ]
+}

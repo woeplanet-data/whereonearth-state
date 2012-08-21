@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              35.558, 
+              32.207
+            ], 
+            [
+              35.558, 
+              32.759
+            ], 
+            [
+              36.092, 
+              32.759
+            ], 
+            [
+              36.092, 
+              32.207
+            ], 
+            [
+              35.558, 
+              32.207
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ARA", 
+        "woeid": 20070291, 
+        "name": "Irbid", 
+        "adjacent_woeid": [
+          2345793, 
+          2345927, 
+          2345930, 
+          2347071, 
+          2347074, 
+          20070292, 
+          20070293, 
+          23424988
+        ], 
+        "ne_latitude": 32.759, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 36.092, 
+        "longitude": 35.882, 
+        "placetype": "State", 
+        "iso": "JO", 
+        "date_indexed": "2010-12-02T12:08:06Z", 
+        "parent_woeid": 23424860, 
+        "latitude": 32.431, 
+        "sw_longitude": 35.558, 
+        "fullname": "Irbid, Jordan", 
+        "sw_latitude": 32.207
+      }, 
+      "id": 20070291
+    }
+  ]
+}

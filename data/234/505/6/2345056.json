@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.143, 
+              7.658
+            ], 
+            [
+              -74.143, 
+              10.835
+            ], 
+            [
+              -72.897, 
+              10.835
+            ], 
+            [
+              -72.897, 
+              7.658
+            ], 
+            [
+              -74.143, 
+              7.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345056, 
+        "name": "Cesar", 
+        "adjacent_woeid": [
+          2345051, 
+          2345062, 
+          2345063, 
+          2345066, 
+          2345071, 
+          2347699
+        ], 
+        "ne_latitude": 10.835, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -72.897, 
+        "longitude": -73.520, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 9.247, 
+        "sw_longitude": -74.143, 
+        "fullname": "Cesar, Colombia", 
+        "sw_latitude": 7.658
+      }, 
+      "id": 2345056
+    }
+  ]
+}

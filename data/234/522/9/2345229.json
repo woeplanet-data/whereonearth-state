@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              31.712, 
+              30.256
+            ], 
+            [
+              31.712, 
+              31.201
+            ], 
+            [
+              32.449, 
+              31.201
+            ], 
+            [
+              32.449, 
+              30.256
+            ], 
+            [
+              31.712, 
+              30.256
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345229, 
+        "name": "Al Isma'iliyah", 
+        "adjacent_woeid": [
+          2345236, 
+          2345237, 
+          2345241, 
+          2345248
+        ], 
+        "ne_latitude": 31.201, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Ismailia Governorate"
+        ], 
+        "ne_longitude": 32.449, 
+        "longitude": 32.248, 
+        "placetype": "State", 
+        "iso": "EG", 
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "parent_woeid": 23424802, 
+        "latitude": 30.728, 
+        "sw_longitude": 31.712, 
+        "fullname": "Al Isma'iliyah, Egypt", 
+        "sw_latitude": 30.256
+      }, 
+      "id": 2345229
+    }
+  ]
+}

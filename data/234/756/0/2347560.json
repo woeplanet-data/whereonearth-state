@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -179.151, 
+              51.210
+            ], 
+            [
+              -179.151, 
+              71.441
+            ], 
+            [
+              -129.980, 
+              71.441
+            ], 
+            [
+              -129.980, 
+              51.210
+            ], 
+            [
+              -179.151, 
+              51.210
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Alaska State"
+        ], 
+        "alias_ENG_A": [
+          "AK"
+        ], 
+        "ne_latitude": 71.441, 
+        "placetype": "State", 
+        "alias_POR_Q": [
+          "Alasca"
+        ], 
+        "alias_KOR_Q": [
+          "\uc54c\ub798\uc2a4\uce74"
+        ], 
+        "alias_CHI_Q": [
+          "\u963f\u62c9\u65af\u52a0"
+        ], 
+        "woeid": 2347560, 
+        "alias_JPN_Q": [
+          "\u30a2\u30e9\u30b9\u30ab"
+        ], 
+        "sw_longitude": -179.151, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 63.037, 
+        "date_indexed": "2010-12-02T18:21:30Z", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344926, 
+          2344916
+        ], 
+        "name": "Alaska", 
+        "parent_woeid": 23424977, 
+        "ne_longitude": -129.980, 
+        "longitude": -149.106, 
+        "iso": "US", 
+        "sw_latitude": 51.210, 
+        "fullname": "Alaska, United States"
+      }, 
+      "id": 2347560
+    }
+  ]
+}

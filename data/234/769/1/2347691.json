@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.210, 
+              9.954
+            ], 
+            [
+              -67.210, 
+              10.650
+            ], 
+            [
+              -65.406, 
+              10.650
+            ], 
+            [
+              -65.406, 
+              9.954
+            ], 
+            [
+              -67.210, 
+              9.954
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2347691, 
+        "name": "Miranda", 
+        "adjacent_woeid": [
+          2347678, 
+          2347680, 
+          2347686, 
+          2347688, 
+          20069993
+        ], 
+        "ne_latitude": 10.650, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -65.406, 
+        "longitude": -66.308, 
+        "placetype": "State", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "parent_woeid": 23424982, 
+        "latitude": 10.300, 
+        "sw_longitude": -67.210, 
+        "fullname": "Miranda, Venezuela", 
+        "sw_latitude": 9.954
+      }, 
+      "id": 2347691
+    }
+  ]
+}

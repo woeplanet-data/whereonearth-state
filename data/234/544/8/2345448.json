@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.560, 
+              13.316
+            ], 
+            [
+              -16.560, 
+              13.632
+            ], 
+            [
+              -15.309, 
+              13.632
+            ], 
+            [
+              -15.309, 
+              13.316
+            ], 
+            [
+              -16.560, 
+              13.316
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345448, 
+        "name": "North Bank", 
+        "adjacent_woeid": [
+          2345444, 
+          2345445, 
+          2346994, 
+          2346995
+        ], 
+        "ne_latitude": 13.632, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "N Bank"
+        ], 
+        "ne_longitude": -15.309, 
+        "longitude": -15.935, 
+        "placetype": "State", 
+        "iso": "GM", 
+        "date_indexed": "2010-12-02T08:51:00Z", 
+        "parent_woeid": 23424821, 
+        "latitude": 13.479, 
+        "sw_longitude": -16.560, 
+        "fullname": "North Bank, The Gambia", 
+        "sw_latitude": 13.316
+      }, 
+      "id": 2345448
+    }
+  ]
+}

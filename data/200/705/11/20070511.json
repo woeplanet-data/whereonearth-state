@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              53.787, 
+              56.092
+            ], 
+            [
+              53.787, 
+              61.648
+            ], 
+            [
+              59.713, 
+              61.648
+            ], 
+            [
+              59.713, 
+              56.092
+            ], 
+            [
+              53.787, 
+              56.092
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 20070511, 
+        "name": "Permskiy Kray", 
+        "adjacent_woeid": [
+          2346866, 
+          2346874, 
+          2346880, 
+          2346902, 
+          2346926, 
+          20070510
+        ], 
+        "ne_latitude": 61.648, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Permskaya Oblast"
+        ], 
+        "ne_longitude": 59.713, 
+        "longitude": 56.750, 
+        "placetype": "State", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 58.870, 
+        "sw_longitude": 53.787, 
+        "fullname": "Permskiy Kray, Russia", 
+        "sw_latitude": 56.092
+      }, 
+      "id": 20070511
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              29.605, 
+              56.911
+            ], 
+            [
+              29.605, 
+              59.432
+            ], 
+            [
+              36.255, 
+              59.432
+            ], 
+            [
+              36.255, 
+              56.911
+            ], 
+            [
+              29.605, 
+              56.911
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2346913, 
+        "name": "Novgorodskaya Oblast", 
+        "adjacent_woeid": [
+          2346898, 
+          2346907, 
+          2346920, 
+          2346934
+        ], 
+        "ne_latitude": 59.432, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 36.255, 
+        "longitude": 32.930, 
+        "placetype": "State", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 58.172, 
+        "sw_longitude": 29.605, 
+        "fullname": "Novgorodskaya Oblast, Russia", 
+        "sw_latitude": 56.911
+      }, 
+      "id": 2346913
+    }
+  ]
+}

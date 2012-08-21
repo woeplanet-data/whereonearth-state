@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.092, 
+              -5.049
+            ], 
+            [
+              15.092, 
+              -3.972
+            ], 
+            [
+              16.610, 
+              -3.972
+            ], 
+            [
+              16.610, 
+              -5.049
+            ], 
+            [
+              15.092, 
+              -5.049
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2344982, 
+        "name": "Kinshasa", 
+        "adjacent_woeid": [
+          2344975, 
+          2344976, 
+          2344977, 
+          2344984
+        ], 
+        "ne_latitude": -3.972, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.610, 
+        "longitude": 15.851, 
+        "placetype": "State", 
+        "iso": "CD", 
+        "date_indexed": "2010-12-02T16:33:06Z", 
+        "parent_woeid": 23424780, 
+        "latitude": -4.511, 
+        "sw_longitude": 15.092, 
+        "fullname": "Kinshasa, Democratic Republic of Congo", 
+        "sw_latitude": -5.049
+      }, 
+      "id": 2344982
+    }
+  ]
+}

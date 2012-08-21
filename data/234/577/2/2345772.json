@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              50.557, 
+              27.110
+            ], 
+            [
+              50.557, 
+              31.773
+            ], 
+            [
+              55.489, 
+              31.773
+            ], 
+            [
+              55.489, 
+              27.110
+            ], 
+            [
+              50.557, 
+              27.110
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345772, 
+        "name": "Fars", 
+        "adjacent_woeid": [
+          2345771, 
+          2345776, 
+          2345781, 
+          2345787, 
+          2345788, 
+          2345790
+        ], 
+        "ne_latitude": 31.773, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 55.489, 
+        "longitude": 53.023, 
+        "placetype": "State", 
+        "iso": "IR", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "parent_woeid": 23424851, 
+        "latitude": 29.441, 
+        "sw_longitude": 50.557, 
+        "fullname": "Fars, Iran", 
+        "sw_latitude": 27.110
+      }, 
+      "id": 2345772
+    }
+  ]
+}

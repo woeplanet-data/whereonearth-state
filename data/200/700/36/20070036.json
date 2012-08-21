@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              45.011, 
+              12.976
+            ], 
+            [
+              45.011, 
+              14.362
+            ], 
+            [
+              47.258, 
+              14.362
+            ], 
+            [
+              47.258, 
+              12.976
+            ], 
+            [
+              45.011, 
+              12.976
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ARA", 
+        "woeid": 20070036, 
+        "name": "Abyan", 
+        "adjacent_woeid": [
+          20070034, 
+          20070035, 
+          20070040, 
+          20070043
+        ], 
+        "ne_latitude": 14.362, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 47.258, 
+        "longitude": 46.135, 
+        "placetype": "State", 
+        "iso": "YE", 
+        "date_indexed": "2010-12-02T16:39:35Z", 
+        "parent_woeid": 23425002, 
+        "latitude": 13.669, 
+        "sw_longitude": 45.011, 
+        "fullname": "Abyan, Yemen", 
+        "sw_latitude": 12.976
+      }, 
+      "id": 20070036
+    }
+  ]
+}

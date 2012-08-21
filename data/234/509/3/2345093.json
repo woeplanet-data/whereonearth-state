@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              24.260, 
+              4.906
+            ], 
+            [
+              24.260, 
+              8.282
+            ], 
+            [
+              27.463, 
+              8.282
+            ], 
+            [
+              27.463, 
+              4.906
+            ], 
+            [
+              24.260, 
+              4.906
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345093, 
+        "name": "Haut-Mbomou", 
+        "adjacent_woeid": [
+          2344985, 
+          2345091, 
+          2345096, 
+          20069899, 
+          20069900
+        ], 
+        "ne_latitude": 8.282, 
+        "ne_longitude": 27.463, 
+        "longitude": 25.862, 
+        "parent_woeid": 23424792, 
+        "placetype": "State", 
+        "alias_FRE_V": [
+          "Haute-Mbomou"
+        ], 
+        "iso": "CF", 
+        "date_indexed": "2010-12-02T17:43:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 6.594, 
+        "sw_longitude": 24.260, 
+        "fullname": "Haut-Mbomou, Central African Republic", 
+        "sw_latitude": 4.906
+      }, 
+      "id": 2345093
+    }
+  ]
+}

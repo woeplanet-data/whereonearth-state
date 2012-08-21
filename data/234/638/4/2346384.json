@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.056, 
+              52.250
+            ], 
+            [
+              5.056, 
+              52.844
+            ], 
+            [
+              6.017, 
+              52.844
+            ], 
+            [
+              6.017, 
+              52.250
+            ], 
+            [
+              5.056, 
+              52.250
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DUT", 
+        "woeid": 2346384, 
+        "name": "Flevoland", 
+        "adjacent_woeid": [
+          2346374, 
+          2346375, 
+          2346379, 
+          2346380
+        ], 
+        "ne_latitude": 52.844, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.017, 
+        "longitude": 5.539, 
+        "placetype": "State", 
+        "alias_DUT_A": [
+          "FL"
+        ], 
+        "iso": "NL", 
+        "date_indexed": "2010-12-02T18:16:21Z", 
+        "alias_DUT_V": [
+          "Flevoland Provincie"
+        ], 
+        "parent_woeid": 23424909, 
+        "latitude": 52.547, 
+        "sw_longitude": 5.056, 
+        "fullname": "Flevoland, Netherlands", 
+        "sw_latitude": 52.250
+      }, 
+      "id": 2346384
+    }
+  ]
+}

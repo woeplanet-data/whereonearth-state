@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              43.849, 
+              32.862
+            ], 
+            [
+              43.849, 
+              33.750
+            ], 
+            [
+              45.000, 
+              33.750
+            ], 
+            [
+              45.000, 
+              32.862
+            ], 
+            [
+              43.849, 
+              32.862
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ARA", 
+        "woeid": 2345839, 
+        "name": "Baghdad", 
+        "adjacent_woeid": [
+          2345833, 
+          2345838, 
+          2345842, 
+          2345848, 
+          2345850
+        ], 
+        "ne_latitude": 33.750, 
+        "alias_JPN_Q": [
+          "\u30d0\u30b0\u30c0\u30fc\u30c9"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 45.000, 
+        "longitude": 44.424, 
+        "alias_CHI_Q": [
+          "\u5df4\u683c\u8fbe"
+        ], 
+        "placetype": "State", 
+        "iso": "IQ", 
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "alias_KOR_Q": [
+          "\ubc14\uadf8\ub2e4\ub4dc"
+        ], 
+        "parent_woeid": 23424855, 
+        "latitude": 33.306, 
+        "sw_longitude": 43.849, 
+        "fullname": "Baghdad, Iraq", 
+        "alias_GER_Q": [
+          "Bagdad"
+        ], 
+        "sw_latitude": 32.862
+      }, 
+      "id": 2345839
+    }
+  ]
+}

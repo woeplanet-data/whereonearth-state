@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              26.047, 
+              44.731
+            ], 
+            [
+              26.047, 
+              45.801
+            ], 
+            [
+              27.442, 
+              45.801
+            ], 
+            [
+              27.442, 
+              44.731
+            ], 
+            [
+              26.047, 
+              44.731
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "RUM", 
+        "woeid": 2346625, 
+        "name": "Buzau", 
+        "adjacent_woeid": [
+          2346622, 
+          2346623, 
+          2346629, 
+          2346636, 
+          2346643, 
+          2346653
+        ], 
+        "ne_latitude": 45.801, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 27.442, 
+        "longitude": 26.744, 
+        "placetype": "State", 
+        "iso": "RO", 
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "parent_woeid": 23424933, 
+        "latitude": 45.266, 
+        "sw_longitude": 26.047, 
+        "fullname": "Buzau, Romania", 
+        "sw_latitude": 44.731
+      }, 
+      "id": 2346625
+    }
+  ]
+}

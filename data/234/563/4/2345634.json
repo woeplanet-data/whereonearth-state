@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.227, 
+              13.827
+            ], 
+            [
+              -88.227, 
+              14.424
+            ], 
+            [
+              -87.594, 
+              14.424
+            ], 
+            [
+              -87.594, 
+              13.827
+            ], 
+            [
+              -88.227, 
+              13.827
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345634, 
+        "name": "La Paz", 
+        "adjacent_woeid": [
+          2345298, 
+          2345299, 
+          2345626, 
+          2345630, 
+          2345632, 
+          2345639
+        ], 
+        "ne_latitude": 14.424, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -87.594, 
+        "longitude": -87.910, 
+        "placetype": "State", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:20:59Z", 
+        "parent_woeid": 23424841, 
+        "latitude": 14.126, 
+        "sw_longitude": -88.227, 
+        "fullname": "La Paz, Honduras", 
+        "sw_latitude": 13.827
+      }, 
+      "id": 2345634
+    }
+  ]
+}

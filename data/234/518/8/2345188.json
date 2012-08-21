@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.453, 
+              19.219
+            ], 
+            [
+              -70.453, 
+              19.560
+            ], 
+            [
+              -70.213, 
+              19.560
+            ], 
+            [
+              -70.213, 
+              19.219
+            ], 
+            [
+              -70.453, 
+              19.219
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345188, 
+        "name": "Salcedo", 
+        "adjacent_woeid": [
+          2345177, 
+          2345178, 
+          2345198
+        ], 
+        "ne_latitude": 19.560, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -70.213, 
+        "longitude": -70.333, 
+        "placetype": "State", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "parent_woeid": 23424800, 
+        "latitude": 19.390, 
+        "sw_longitude": -70.453, 
+        "fullname": "Salcedo, Dominican Republic", 
+        "sw_latitude": 19.219
+      }, 
+      "id": 2345188
+    }
+  ]
+}

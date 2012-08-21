@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.825, 
+              13.064
+            ], 
+            [
+              -16.825, 
+              13.489
+            ], 
+            [
+              -15.810, 
+              13.489
+            ], 
+            [
+              -15.810, 
+              13.064
+            ], 
+            [
+              -16.825, 
+              13.064
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345447, 
+        "name": "Western", 
+        "adjacent_woeid": [
+          2345443, 
+          2345444, 
+          2346997, 
+          56055614
+        ], 
+        "ne_latitude": 13.489, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -15.810, 
+        "longitude": -16.318, 
+        "placetype": "State", 
+        "iso": "GM", 
+        "date_indexed": "2010-12-02T08:51:00Z", 
+        "parent_woeid": 23424821, 
+        "latitude": 13.276, 
+        "sw_longitude": -16.825, 
+        "fullname": "Western, The Gambia", 
+        "sw_latitude": 13.064
+      }, 
+      "id": 2345447
+    }
+  ]
+}

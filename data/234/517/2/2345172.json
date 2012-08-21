@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.061, 
+              18.179
+            ], 
+            [
+              -71.061, 
+              18.994
+            ], 
+            [
+              -70.469, 
+              18.994
+            ], 
+            [
+              -70.469, 
+              18.179
+            ], 
+            [
+              -71.061, 
+              18.179
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.994, 
+        "name": "Azua", 
+        "adjacent_woeid": [
+          2345173, 
+          2345174, 
+          2345186, 
+          2345191, 
+          2345198, 
+          28358195
+        ], 
+        "woeid": 2345172, 
+        "alias_SPA_V": [
+          "Compostela de Azua"
+        ], 
+        "ne_longitude": -70.469, 
+        "longitude": -70.765, 
+        "parent_woeid": 23424800, 
+        "placetype": "State", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.623, 
+        "sw_longitude": -71.061, 
+        "fullname": "Azua, Dominican Republic", 
+        "sw_latitude": 18.179
+      }, 
+      "id": 2345172
+    }
+  ]
+}

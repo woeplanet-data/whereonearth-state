@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.624, 
+              13.413
+            ], 
+            [
+              -89.624, 
+              14.061
+            ], 
+            [
+              -89.132, 
+              14.061
+            ], 
+            [
+              -89.132, 
+              13.413
+            ], 
+            [
+              -89.624, 
+              13.413
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345296, 
+        "name": "La Libertad", 
+        "adjacent_woeid": [
+          2345294, 
+          2345297, 
+          2345301, 
+          2345302, 
+          2345304
+        ], 
+        "ne_latitude": 14.061, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -89.132, 
+        "longitude": -89.378, 
+        "placetype": "State", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "parent_woeid": 23424807, 
+        "latitude": 13.737, 
+        "sw_longitude": -89.624, 
+        "fullname": "La Libertad, El Salvador", 
+        "sw_latitude": 13.413
+      }, 
+      "id": 2345296
+    }
+  ]
+}

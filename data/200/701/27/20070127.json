@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              33.224, 
+              -12.738
+            ], 
+            [
+              33.224, 
+              -10.959
+            ], 
+            [
+              34.097, 
+              -10.959
+            ], 
+            [
+              34.097, 
+              -12.738
+            ], 
+            [
+              33.224, 
+              -12.738
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 20070127, 
+        "name": "Mzimba", 
+        "adjacent_woeid": [
+          20070126, 
+          20070128, 
+          20070129, 
+          20070147
+        ], 
+        "ne_latitude": -10.959, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 34.097, 
+        "longitude": 33.661, 
+        "placetype": "State", 
+        "iso": "MW", 
+        "date_indexed": "2010-12-02T17:40:22Z", 
+        "parent_woeid": 23424889, 
+        "latitude": -11.848, 
+        "sw_longitude": 33.224, 
+        "fullname": "Mzimba, Malawi", 
+        "sw_latitude": -12.738
+      }, 
+      "id": 20070127
+    }
+  ]
+}

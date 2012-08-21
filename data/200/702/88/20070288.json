@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              35.475, 
+              31.397
+            ], 
+            [
+              35.475, 
+              31.863
+            ], 
+            [
+              35.879, 
+              31.863
+            ], 
+            [
+              35.879, 
+              31.397
+            ], 
+            [
+              35.475, 
+              31.397
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ARA", 
+        "woeid": 20070288, 
+        "name": "Madaba", 
+        "adjacent_woeid": [
+          2345791, 
+          2345927, 
+          2345929, 
+          20070289, 
+          23424988
+        ], 
+        "ne_latitude": 31.863, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 35.879, 
+        "longitude": 35.685, 
+        "placetype": "State", 
+        "iso": "JO", 
+        "date_indexed": "2010-12-02T12:08:06Z", 
+        "parent_woeid": 23424860, 
+        "latitude": 31.638, 
+        "sw_longitude": 35.475, 
+        "fullname": "Madaba, Jordan", 
+        "sw_latitude": 31.397
+      }, 
+      "id": 20070288
+    }
+  ]
+}

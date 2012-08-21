@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.304, 
+              -39.321
+            ], 
+            [
+              -68.304, 
+              -34.997
+            ], 
+            [
+              -63.381, 
+              -34.997
+            ], 
+            [
+              -63.381, 
+              -39.321
+            ], 
+            [
+              -68.304, 
+              -39.321
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -34.997, 
+        "name": "La Pampa", 
+        "adjacent_woeid": [
+          2344675, 
+          2344679, 
+          2344687, 
+          2344689, 
+          2344690, 
+          2344693
+        ], 
+        "woeid": 2344685, 
+        "alias_SPA_V": [
+          "Provincia de la Pampa"
+        ], 
+        "ne_longitude": -63.381, 
+        "longitude": -65.842, 
+        "parent_woeid": 23424747, 
+        "placetype": "State", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "alias_ENG_A": [
+          "LP"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -37.159, 
+        "sw_longitude": -68.304, 
+        "fullname": "La Pampa, Argentina", 
+        "sw_latitude": -39.321
+      }, 
+      "id": 2344685
+    }
+  ]
+}

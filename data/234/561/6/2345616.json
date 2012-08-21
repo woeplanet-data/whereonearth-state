@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.334, 
+              18.675
+            ], 
+            [
+              -72.334, 
+              19.331
+            ], 
+            [
+              -71.641, 
+              19.331
+            ], 
+            [
+              -71.641, 
+              18.675
+            ], 
+            [
+              -72.334, 
+              18.675
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345616, 
+        "name": "Centre", 
+        "adjacent_woeid": [
+          2345181, 
+          2345615, 
+          2345618, 
+          2345619, 
+          2345620
+        ], 
+        "ne_latitude": 19.331, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -71.641, 
+        "longitude": -71.987, 
+        "alias_FRE_A": [
+          "CTR"
+        ], 
+        "placetype": "State", 
+        "iso": "HT", 
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "parent_woeid": 23424839, 
+        "latitude": 19.003, 
+        "sw_longitude": -72.334, 
+        "fullname": "Centre, Haiti", 
+        "sw_latitude": 18.675
+      }, 
+      "id": 2345616
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.087, 
+              14.044
+            ], 
+            [
+              -88.087, 
+              15.056
+            ], 
+            [
+              -87.210, 
+              15.056
+            ], 
+            [
+              -87.210, 
+              14.044
+            ], 
+            [
+              -88.087, 
+              14.044
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345626, 
+        "name": "Comayagua", 
+        "adjacent_woeid": [
+          2345628, 
+          2345630, 
+          2345632, 
+          2345634, 
+          2345638, 
+          2345640
+        ], 
+        "ne_latitude": 15.056, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -87.210, 
+        "longitude": -87.648, 
+        "placetype": "State", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:20:59Z", 
+        "parent_woeid": 23424841, 
+        "latitude": 14.550, 
+        "sw_longitude": -88.087, 
+        "fullname": "Comayagua, Honduras", 
+        "sw_latitude": 14.044
+      }, 
+      "id": 2345626
+    }
+  ]
+}

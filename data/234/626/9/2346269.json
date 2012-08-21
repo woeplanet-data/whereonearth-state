@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.074, 
+              25.560
+            ], 
+            [
+              -109.074, 
+              31.784
+            ], 
+            [
+              -103.299, 
+              31.784
+            ], 
+            [
+              -103.299, 
+              25.560
+            ], 
+            [
+              -109.074, 
+              25.560
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.784, 
+        "name": "Chihuahua", 
+        "adjacent_woeid": [
+          2346270, 
+          2346273, 
+          2346288, 
+          2346289
+        ], 
+        "woeid": 2346269, 
+        "alias_SPA_V": [
+          "Estado de Chihuahua"
+        ], 
+        "ne_longitude": -103.299, 
+        "longitude": -106.187, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "CH"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.672, 
+        "sw_longitude": -109.074, 
+        "fullname": "Chihuahua, Mexico", 
+        "sw_latitude": 25.560
+      }, 
+      "id": 2346269
+    }
+  ]
+}

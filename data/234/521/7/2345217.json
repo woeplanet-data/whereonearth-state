@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.426, 
+              -1.238
+            ], 
+            [
+              -78.426, 
+              0.036
+            ], 
+            [
+              -77.000, 
+              0.036
+            ], 
+            [
+              -77.000, 
+              -1.238
+            ], 
+            [
+              -78.426, 
+              -1.238
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 0.036, 
+        "name": "Napo", 
+        "adjacent_woeid": [
+          2345208, 
+          2345218, 
+          2345219, 
+          2345220, 
+          2345222, 
+          20070099
+        ], 
+        "woeid": 2345217, 
+        "alias_SPA_V": [
+          "Tena"
+        ], 
+        "ne_longitude": -77.000, 
+        "longitude": -77.713, 
+        "parent_woeid": 23424801, 
+        "placetype": "State", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -0.601, 
+        "sw_longitude": -78.426, 
+        "fullname": "Napo, Ecuador", 
+        "sw_latitude": -1.238
+      }, 
+      "id": 2345217
+    }
+  ]
+}

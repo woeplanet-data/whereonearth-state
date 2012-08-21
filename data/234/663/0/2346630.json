@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              25.128, 
+              44.413
+            ], 
+            [
+              25.128, 
+              45.443
+            ], 
+            [
+              25.992, 
+              45.443
+            ], 
+            [
+              25.992, 
+              44.413
+            ], 
+            [
+              25.128, 
+              44.413
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "RUM", 
+        "ne_latitude": 45.443, 
+        "name": "Dambovita", 
+        "adjacent_woeid": [
+          2346617, 
+          2346623, 
+          2346643, 
+          2346648, 
+          2346655, 
+          29281934
+        ], 
+        "parent_woeid": 23424933, 
+        "ne_longitude": 25.992, 
+        "longitude": 25.560, 
+        "placetype": "State", 
+        "alias_RUM_V": [
+          "Dimbovita"
+        ], 
+        "iso": "RO", 
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.928, 
+        "sw_longitude": 25.128, 
+        "fullname": "Dambovita, Romania", 
+        "woeid": 2346630, 
+        "sw_latitude": 44.413
+      }, 
+      "id": 2346630
+    }
+  ]
+}

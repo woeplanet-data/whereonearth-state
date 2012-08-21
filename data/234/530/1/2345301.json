@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.289, 
+              13.474
+            ], 
+            [
+              -89.289, 
+              14.058
+            ], 
+            [
+              -89.016, 
+              14.058
+            ], 
+            [
+              -89.016, 
+              13.474
+            ], 
+            [
+              -89.289, 
+              13.474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.058, 
+        "name": "San Salvador", 
+        "adjacent_woeid": [
+          2345294, 
+          2345295, 
+          2345296, 
+          2345297
+        ], 
+        "woeid": 2345301, 
+        "alias_JPN_Q": [
+          "\u30b5\u30f3\u30b5\u30eb\u30d0\u30c9\u30eb"
+        ], 
+        "alias_SPA_V": [
+          "S. Salvador"
+        ], 
+        "ne_longitude": -89.016, 
+        "longitude": -89.153, 
+        "parent_woeid": 23424807, 
+        "placetype": "State", 
+        "alias_CHI_Q": [
+          "\u5723\u8428\u5c14\u74e6\u591a"
+        ], 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "alias_KOR_Q": [
+          "\uc0b0\uc0b4\ubc14\ub3c4\ub974"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.766, 
+        "sw_longitude": -89.289, 
+        "fullname": "San Salvador, El Salvador", 
+        "sw_latitude": 13.474
+      }, 
+      "id": 2345301
+    }
+  ]
+}

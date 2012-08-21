@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.350, 
+              18.307
+            ], 
+            [
+              -78.350, 
+              18.464
+            ], 
+            [
+              -77.912, 
+              18.464
+            ], 
+            [
+              -77.912, 
+              18.307
+            ], 
+            [
+              -78.350, 
+              18.307
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345913, 
+        "name": "Hanover", 
+        "adjacent_woeid": [
+          2345920, 
+          2345924
+        ], 
+        "ne_latitude": 18.464, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -77.912, 
+        "longitude": -78.127, 
+        "placetype": "State", 
+        "iso": "JM", 
+        "date_indexed": "2010-12-02T08:58:58Z", 
+        "parent_woeid": 23424858, 
+        "latitude": 18.385, 
+        "sw_longitude": -78.350, 
+        "fullname": "Hanover, Jamaica", 
+        "sw_latitude": 18.307
+      }, 
+      "id": 2345913
+    }
+  ]
+}

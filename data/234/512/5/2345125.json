@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -23.584, 
+              14.892
+            ], 
+            [
+              -23.584, 
+              14.990
+            ], 
+            [
+              -23.461, 
+              14.990
+            ], 
+            [
+              -23.461, 
+              14.892
+            ], 
+            [
+              -23.584, 
+              14.892
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "POR", 
+        "woeid": 2345125, 
+        "name": "Praia", 
+        "adjacent_woeid": [
+          56051562, 
+          56051563
+        ], 
+        "ne_latitude": 14.990, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -23.461, 
+        "longitude": -23.523, 
+        "placetype": "State", 
+        "iso": "CV", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "parent_woeid": 23424794, 
+        "latitude": 14.941, 
+        "sw_longitude": -23.584, 
+        "fullname": "Praia, Cape Verde", 
+        "sw_latitude": 14.892
+      }, 
+      "id": 2345125
+    }
+  ]
+}

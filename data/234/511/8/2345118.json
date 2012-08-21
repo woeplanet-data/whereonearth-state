@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.085, 
+              21.350
+            ], 
+            [
+              -80.085, 
+              22.471
+            ], 
+            [
+              -78.925, 
+              22.471
+            ], 
+            [
+              -78.925, 
+              21.350
+            ], 
+            [
+              -80.085, 
+              21.350
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345118, 
+        "name": "Sancti Spiritus", 
+        "adjacent_woeid": [
+          2345111, 
+          2345112, 
+          2345120
+        ], 
+        "ne_latitude": 22.471, 
+        "alias_SPA_A": [
+          "SS"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -78.925, 
+        "longitude": -79.505, 
+        "placetype": "State", 
+        "iso": "CU", 
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "parent_woeid": 23424793, 
+        "latitude": 21.987, 
+        "sw_longitude": -80.085, 
+        "fullname": "Sancti Spiritus, Cuba", 
+        "sw_latitude": 21.350
+      }, 
+      "id": 2345118
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.207, 
+              9.964
+            ], 
+            [
+              -84.207, 
+              10.790
+            ], 
+            [
+              -83.718, 
+              10.790
+            ], 
+            [
+              -83.718, 
+              9.964
+            ], 
+            [
+              -84.207, 
+              9.964
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.790, 
+        "name": "Heredia", 
+        "adjacent_woeid": [
+          2345082, 
+          2345086, 
+          2345088, 
+          2346430
+        ], 
+        "woeid": 2345085, 
+        "alias_SPA_V": [
+          "Heridia"
+        ], 
+        "ne_longitude": -83.718, 
+        "longitude": -83.963, 
+        "parent_woeid": 23424791, 
+        "placetype": "State", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.377, 
+        "sw_longitude": -84.207, 
+        "fullname": "Heredia, Costa Rica", 
+        "sw_latitude": 9.964
+      }, 
+      "id": 2345085
+    }
+  ]
+}

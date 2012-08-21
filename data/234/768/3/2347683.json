@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.440, 
+              9.811
+            ], 
+            [
+              -68.440, 
+              10.593
+            ], 
+            [
+              -67.507, 
+              10.593
+            ], 
+            [
+              -67.507, 
+              9.811
+            ], 
+            [
+              -68.440, 
+              9.811
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2347683, 
+        "name": "Carabobo", 
+        "adjacent_woeid": [
+          2347680, 
+          2347684, 
+          2347688, 
+          2347698
+        ], 
+        "ne_latitude": 10.593, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -67.507, 
+        "longitude": -67.974, 
+        "placetype": "State", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "parent_woeid": 23424982, 
+        "latitude": 10.202, 
+        "sw_longitude": -68.440, 
+        "fullname": "Carabobo, Venezuela", 
+        "sw_latitude": 9.811
+      }, 
+      "id": 2347683
+    }
+  ]
+}

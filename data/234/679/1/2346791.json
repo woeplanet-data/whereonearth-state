@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.374, 
+              18.152
+            ], 
+            [
+              -66.374, 
+              18.250
+            ], 
+            [
+              -66.241, 
+              18.250
+            ], 
+            [
+              -66.241, 
+              18.152
+            ], 
+            [
+              -66.374, 
+              18.152
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.250, 
+        "name": "Barranquitas", 
+        "adjacent_woeid": [
+          2346790, 
+          2346794, 
+          2346795, 
+          2346803, 
+          2346857, 
+          2346860, 
+          2346862
+        ], 
+        "woeid": 2346791, 
+        "alias_SPA_V": [
+          "Barranquitas Municipios"
+        ], 
+        "ne_longitude": -66.241, 
+        "longitude": -66.307, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.201, 
+        "sw_longitude": -66.374, 
+        "fullname": "Barranquitas, Puerto Rico", 
+        "sw_latitude": 18.152
+      }, 
+      "id": 2346791
+    }
+  ]
+}

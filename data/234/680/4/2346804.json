@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.985, 
+              18.023
+            ], 
+            [
+              -66.985, 
+              18.151
+            ], 
+            [
+              -66.885, 
+              18.151
+            ], 
+            [
+              -66.885, 
+              18.023
+            ], 
+            [
+              -66.985, 
+              18.023
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.151, 
+        "name": "Sabana Grande", 
+        "adjacent_woeid": [
+          2346800, 
+          2346805, 
+          2346810, 
+          2346836, 
+          2346837
+        ], 
+        "woeid": 2346804, 
+        "alias_SPA_V": [
+          "Sabana Grande Municipios"
+        ], 
+        "ne_longitude": -66.885, 
+        "longitude": -66.935, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.087, 
+        "sw_longitude": -66.985, 
+        "fullname": "Sabana Grande, Puerto Rico", 
+        "sw_latitude": 18.023
+      }, 
+      "id": 2346804
+    }
+  ]
+}

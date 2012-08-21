@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.303, 
+              21.159
+            ], 
+            [
+              -102.303, 
+              24.491
+            ], 
+            [
+              -98.330, 
+              24.491
+            ], 
+            [
+              -98.330, 
+              21.159
+            ], 
+            [
+              -102.303, 
+              21.159
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.491, 
+        "name": "San Luis Potosi", 
+        "adjacent_woeid": [
+          2346274, 
+          2346276, 
+          2346282, 
+          2346285, 
+          2346291, 
+          2346293, 
+          2346295
+        ], 
+        "woeid": 2346287, 
+        "alias_SPA_V": [
+          "Sanluis"
+        ], 
+        "ne_longitude": -98.330, 
+        "longitude": -100.317, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "S. Luis Potosi"
+        ], 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "SL"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.825, 
+        "sw_longitude": -102.303, 
+        "fullname": "San Luis Potosi, Mexico", 
+        "sw_latitude": 21.159
+      }, 
+      "id": 2346287
+    }
+  ]
+}

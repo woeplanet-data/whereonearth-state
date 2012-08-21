@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.300, 
+              14.420
+            ], 
+            [
+              -90.300, 
+              14.873
+            ], 
+            [
+              -89.645, 
+              14.873
+            ], 
+            [
+              -89.645, 
+              14.420
+            ], 
+            [
+              -90.300, 
+              14.420
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345561, 
+        "name": "Jalapa", 
+        "adjacent_woeid": [
+          2345555, 
+          2345556, 
+          2345558, 
+          2345562, 
+          2345569, 
+          2345573
+        ], 
+        "ne_latitude": 14.873, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -89.645, 
+        "longitude": -89.973, 
+        "placetype": "State", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "parent_woeid": 23424834, 
+        "latitude": 14.647, 
+        "sw_longitude": -90.300, 
+        "fullname": "Jalapa, Guatemala", 
+        "sw_latitude": 14.420
+      }, 
+      "id": 2345561
+    }
+  ]
+}

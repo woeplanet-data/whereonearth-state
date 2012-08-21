@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.519, 
+              -39.627
+            ], 
+            [
+              -73.519, 
+              -37.580
+            ], 
+            [
+              -70.832, 
+              -37.580
+            ], 
+            [
+              -70.832, 
+              -39.627
+            ], 
+            [
+              -73.519, 
+              -39.627
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -37.580, 
+        "name": "Araucania", 
+        "alias_ENG_P": [
+          "Araucania Region"
+        ], 
+        "woeid": 2345021, 
+        "alias_SPA_V": [
+          "Regi\u00f3n de la Araucan\u00eda"
+        ], 
+        "ne_longitude": -70.832, 
+        "longitude": -72.176, 
+        "parent_woeid": 23424782, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "Region de la Araucania"
+        ], 
+        "adjacent_woeid": [
+          2344689, 
+          2345023, 
+          56043703
+        ], 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -38.603, 
+        "sw_longitude": -73.519, 
+        "fullname": "Araucania, Araucania Region, Chile", 
+        "sw_latitude": -39.627
+      }, 
+      "id": 2345021
+    }
+  ]
+}

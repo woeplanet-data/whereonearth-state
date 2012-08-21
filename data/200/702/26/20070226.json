@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              47.607, 
+              40.408
+            ], 
+            [
+              47.607, 
+              40.718
+            ], 
+            [
+              48.045, 
+              40.718
+            ], 
+            [
+              48.045, 
+              40.408
+            ], 
+            [
+              47.607, 
+              40.408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 20070226, 
+        "name": "Goycay", 
+        "adjacent_woeid": [
+          20070213, 
+          20070228, 
+          20070235, 
+          20070236, 
+          20070249
+        ], 
+        "ne_latitude": 40.718, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 48.045, 
+        "longitude": 47.826, 
+        "placetype": "State", 
+        "iso": "AZ", 
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "parent_woeid": 23424741, 
+        "latitude": 40.563, 
+        "sw_longitude": 47.607, 
+        "fullname": "Goycay, Azerbaijan", 
+        "sw_latitude": 40.408
+      }, 
+      "id": 20070226
+    }
+  ]
+}

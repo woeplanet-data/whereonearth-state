@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.554, 
+              14.823
+            ], 
+            [
+              -91.554, 
+              15.252
+            ], 
+            [
+              -91.176, 
+              15.252
+            ], 
+            [
+              -91.176, 
+              14.823
+            ], 
+            [
+              -91.554, 
+              14.823
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345572, 
+        "name": "Totonicapan", 
+        "adjacent_woeid": [
+          2345559, 
+          2345564, 
+          2345565, 
+          2345570
+        ], 
+        "ne_latitude": 15.252, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -91.176, 
+        "longitude": -91.365, 
+        "placetype": "State", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "parent_woeid": 23424834, 
+        "latitude": 15.037, 
+        "sw_longitude": -91.554, 
+        "fullname": "Totonicapan, Guatemala", 
+        "sw_latitude": 14.823
+      }, 
+      "id": 2345572
+    }
+  ]
+}

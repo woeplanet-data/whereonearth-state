@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -86.133, 
+              11.603
+            ], 
+            [
+              -86.133, 
+              12.207
+            ], 
+            [
+              -85.695, 
+              12.207
+            ], 
+            [
+              -85.695, 
+              11.603
+            ], 
+            [
+              -86.133, 
+              11.603
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2346422, 
+        "name": "Granada", 
+        "adjacent_woeid": [
+          2346417, 
+          2346418, 
+          2346420, 
+          2346426, 
+          2346427, 
+          2346431
+        ], 
+        "ne_latitude": 12.207, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -85.695, 
+        "longitude": -85.914, 
+        "placetype": "State", 
+        "iso": "NI", 
+        "date_indexed": "2010-12-02T18:19:07Z", 
+        "parent_woeid": 23424915, 
+        "latitude": 11.905, 
+        "sw_longitude": -86.133, 
+        "fullname": "Granada, Nicaragua", 
+        "sw_latitude": 11.603
+      }, 
+      "id": 2346422
+    }
+  ]
+}

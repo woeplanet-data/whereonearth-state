@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              42.266, 
+              53.661
+            ], 
+            [
+              42.266, 
+              55.195
+            ], 
+            [
+              46.693, 
+              55.195
+            ], 
+            [
+              46.693, 
+              53.661
+            ], 
+            [
+              42.266, 
+              53.661
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2346876, 
+        "name": "Mordoviya", 
+        "adjacent_woeid": [
+          2346869, 
+          2346895, 
+          2346918, 
+          2346922, 
+          2346931
+        ], 
+        "ne_latitude": 55.195, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 46.693, 
+        "longitude": 44.479, 
+        "placetype": "State", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 54.428, 
+        "sw_longitude": 42.266, 
+        "fullname": "Mordoviya, Russia", 
+        "sw_latitude": 53.661
+      }, 
+      "id": 2346876
+    }
+  ]
+}

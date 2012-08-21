@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.128, 
+              34.209
+            ], 
+            [
+              -1.128, 
+              35.435
+            ], 
+            [
+              -0.036, 
+              35.435
+            ], 
+            [
+              -0.036, 
+              34.209
+            ], 
+            [
+              -1.128, 
+              34.209
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ARA", 
+        "woeid": 2344601, 
+        "name": "Sidi Bel Abbes", 
+        "adjacent_woeid": [
+          2344584, 
+          2344585, 
+          2344589, 
+          2344598, 
+          2344606, 
+          2344619
+        ], 
+        "ne_latitude": 35.435, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.036, 
+        "longitude": -0.582, 
+        "placetype": "State", 
+        "iso": "DZ", 
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "parent_woeid": 23424740, 
+        "latitude": 34.822, 
+        "sw_longitude": -1.128, 
+        "fullname": "Sidi Bel Abbes, Algeria", 
+        "sw_latitude": 34.209
+      }, 
+      "id": 2344601
+    }
+  ]
+}

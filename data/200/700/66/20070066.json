@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              23.755, 
+              41.668
+            ], 
+            [
+              23.755, 
+              42.629
+            ], 
+            [
+              24.540, 
+              42.629
+            ], 
+            [
+              24.540, 
+              41.668
+            ], 
+            [
+              23.755, 
+              41.668
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 20070066, 
+        "name": "Pazardzhik", 
+        "adjacent_woeid": [
+          20070060, 
+          20070061, 
+          20070067, 
+          20070068
+        ], 
+        "ne_latitude": 42.629, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.540, 
+        "longitude": 24.148, 
+        "placetype": "State", 
+        "iso": "BG", 
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "parent_woeid": 23424771, 
+        "latitude": 42.148, 
+        "sw_longitude": 23.755, 
+        "fullname": "Pazardzhik, Bulgaria", 
+        "sw_latitude": 41.668
+      }, 
+      "id": 20070066
+    }
+  ]
+}

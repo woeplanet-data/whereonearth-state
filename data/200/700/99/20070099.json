@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.625, 
+              -1.548
+            ], 
+            [
+              -77.625, 
+              -0.039
+            ], 
+            [
+              -75.185, 
+              -0.039
+            ], 
+            [
+              -75.185, 
+              -1.548
+            ], 
+            [
+              -77.625, 
+              -1.548
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -0.039, 
+        "name": "Orellana", 
+        "adjacent_woeid": [
+          2345222, 
+          2345218, 
+          2345217
+        ], 
+        "woeid": 20070099, 
+        "alias_SPA_V": [
+          "Orellano"
+        ], 
+        "ne_longitude": -75.185, 
+        "longitude": -76.405, 
+        "parent_woeid": 23424801, 
+        "placetype": "State", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -0.794, 
+        "sw_longitude": -77.625, 
+        "fullname": "Orellana, Orellano, Ecuador", 
+        "sw_latitude": -1.548
+      }, 
+      "id": 20070099
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.867, 
+              19.529
+            ], 
+            [
+              -71.867, 
+              19.910
+            ], 
+            [
+              -71.163, 
+              19.910
+            ], 
+            [
+              -71.163, 
+              19.529
+            ], 
+            [
+              -71.867, 
+              19.529
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.910, 
+        "name": "Monte Cristri", 
+        "adjacent_woeid": [
+          2345175, 
+          2345187, 
+          2345194, 
+          2345195, 
+          2345619
+        ], 
+        "woeid": 2345184, 
+        "alias_SPA_V": [
+          "Mte-Christi"
+        ], 
+        "ne_longitude": -71.163, 
+        "longitude": -71.471, 
+        "parent_woeid": 23424800, 
+        "placetype": "State", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.720, 
+        "sw_longitude": -71.867, 
+        "fullname": "Monte Cristri, Dominican Republic", 
+        "sw_latitude": 19.529
+      }, 
+      "id": 2345184
+    }
+  ]
+}

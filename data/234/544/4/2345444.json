@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.232, 
+              13.238
+            ], 
+            [
+              -16.232, 
+              13.554
+            ], 
+            [
+              -15.183, 
+              13.554
+            ], 
+            [
+              -15.183, 
+              13.238
+            ], 
+            [
+              -16.232, 
+              13.238
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345444, 
+        "name": "Lower River", 
+        "adjacent_woeid": [
+          2345445, 
+          2345447, 
+          2345448, 
+          2346996, 
+          56055614
+        ], 
+        "ne_latitude": 13.554, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -15.183, 
+        "longitude": -15.708, 
+        "placetype": "State", 
+        "iso": "GM", 
+        "date_indexed": "2010-12-02T08:51:00Z", 
+        "parent_woeid": 23424821, 
+        "latitude": 13.396, 
+        "sw_longitude": -16.232, 
+        "fullname": "Lower River, The Gambia", 
+        "sw_latitude": 13.238
+      }, 
+      "id": 2345444
+    }
+  ]
+}

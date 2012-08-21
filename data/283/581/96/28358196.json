@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.156, 
+              18.404
+            ], 
+            [
+              -70.156, 
+              18.719
+            ], 
+            [
+              -69.503, 
+              18.719
+            ], 
+            [
+              -69.503, 
+              18.404
+            ], 
+            [
+              -70.156, 
+              18.404
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.719, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          2345176, 
+          2345192, 
+          2345200, 
+          2345201
+        ], 
+        "woeid": 28358196, 
+        "alias_JPN_Q": [
+          "\u30b5\u30f3\u30c8\u30c9\u30df\u30f3\u30b4"
+        ], 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -69.503, 
+        "longitude": -69.830, 
+        "parent_woeid": 23424800, 
+        "placetype": "State", 
+        "alias_CHI_Q": [
+          "\u5723\u591a\u660e\u5404"
+        ], 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "alias_KOR_Q": [
+          "\uc0b0\ud1a0\ub3c4\ubc0d\uace0"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.561, 
+        "sw_longitude": -70.156, 
+        "fullname": "Santo Domingo, Dominican Republic", 
+        "sw_latitude": 18.404
+      }, 
+      "id": 28358196
+    }
+  ]
+}

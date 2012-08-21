@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.484, 
+              15.448
+            ], 
+            [
+              -61.484, 
+              15.557
+            ], 
+            [
+              -61.316, 
+              15.557
+            ], 
+            [
+              -61.316, 
+              15.448
+            ], 
+            [
+              -61.484, 
+              15.448
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345170, 
+        "name": "Saint Peter", 
+        "adjacent_woeid": [
+          2345161, 
+          2345162, 
+          2345164, 
+          2345165
+        ], 
+        "ne_latitude": 15.557, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "St. Peter"
+        ], 
+        "ne_longitude": -61.316, 
+        "longitude": -61.400, 
+        "placetype": "State", 
+        "iso": "DM", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "parent_woeid": 23424798, 
+        "latitude": 15.502, 
+        "sw_longitude": -61.484, 
+        "fullname": "Saint Peter, Dominica", 
+        "sw_latitude": 15.448
+      }, 
+      "id": 2345170
+    }
+  ]
+}

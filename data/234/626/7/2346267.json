@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.468, 
+              17.809
+            ], 
+            [
+              -92.468, 
+              20.848
+            ], 
+            [
+              -89.113, 
+              20.848
+            ], 
+            [
+              -89.113, 
+              17.809
+            ], 
+            [
+              -92.468, 
+              17.809
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.848, 
+        "name": "Campeche", 
+        "adjacent_woeid": [
+          2345563, 
+          2346286, 
+          2346290, 
+          2346294
+        ], 
+        "woeid": 2346267, 
+        "alias_SPA_V": [
+          "Estado de Campeche"
+        ], 
+        "ne_longitude": -89.113, 
+        "longitude": -89.958, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "CM"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.329, 
+        "sw_longitude": -92.468, 
+        "fullname": "Campeche, Mexico", 
+        "sw_latitude": 17.809
+      }, 
+      "id": 2346267
+    }
+  ]
+}

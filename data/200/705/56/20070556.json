@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.468, 
+              42.546
+            ], 
+            [
+              1.468, 
+              42.656
+            ], 
+            [
+              1.607, 
+              42.656
+            ], 
+            [
+              1.607, 
+              42.546
+            ], 
+            [
+              1.468, 
+              42.546
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 20070556, 
+        "name": "Ordino", 
+        "adjacent_woeid": [
+          7153323, 
+          20070555, 
+          20070557, 
+          20070558
+        ], 
+        "ne_latitude": 42.656, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.607, 
+        "longitude": 1.538, 
+        "placetype": "State", 
+        "iso": "AD", 
+        "date_indexed": "2010-12-02T07:50:33Z", 
+        "parent_woeid": 23424744, 
+        "latitude": 42.601, 
+        "sw_longitude": 1.468, 
+        "fullname": "Ordino, Andorra", 
+        "sw_latitude": 42.546
+      }, 
+      "id": 20070556
+    }
+  ]
+}

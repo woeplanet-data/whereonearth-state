@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.053, 
+              18.076
+            ], 
+            [
+              -66.053, 
+              18.229
+            ], 
+            [
+              -65.921, 
+              18.229
+            ], 
+            [
+              -65.921, 
+              18.076
+            ], 
+            [
+              -66.053, 
+              18.076
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.229, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          2346792, 
+          2346797, 
+          2346799, 
+          2346825, 
+          2346827, 
+          2346855, 
+          2346856
+        ], 
+        "woeid": 2346806, 
+        "alias_SPA_V": [
+          "San Lorenzo Municipios"
+        ], 
+        "ne_longitude": -65.921, 
+        "longitude": -65.987, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.152, 
+        "sw_longitude": -66.053, 
+        "fullname": "San Lorenzo, Puerto Rico", 
+        "sw_latitude": 18.076
+      }, 
+      "id": 2346806
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.834, 
+              16.950
+            ], 
+            [
+              -77.834, 
+              18.216
+            ], 
+            [
+              -77.033, 
+              18.216
+            ], 
+            [
+              -77.033, 
+              16.950
+            ], 
+            [
+              -77.834, 
+              16.950
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345912, 
+        "name": "Clarendon", 
+        "adjacent_woeid": [
+          2345914, 
+          2345917, 
+          2345918, 
+          2345923
+        ], 
+        "ne_latitude": 18.216, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -77.033, 
+        "longitude": -77.304, 
+        "placetype": "State", 
+        "iso": "JM", 
+        "date_indexed": "2010-12-02T08:58:58Z", 
+        "parent_woeid": 23424858, 
+        "latitude": 17.960, 
+        "sw_longitude": -77.834, 
+        "fullname": "Clarendon, Jamaica", 
+        "sw_latitude": 16.950
+      }, 
+      "id": 2345912
+    }
+  ]
+}

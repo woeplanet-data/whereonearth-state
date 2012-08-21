@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              100.329, 
+              13.492
+            ], 
+            [
+              100.329, 
+              13.955
+            ], 
+            [
+              100.939, 
+              13.955
+            ], 
+            [
+              100.939, 
+              13.492
+            ], 
+            [
+              100.329, 
+              13.492
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2347165, 
+        "name": "Bangkok", 
+        "adjacent_woeid": [
+          2347163, 
+          2347164, 
+          2347167, 
+          2347169, 
+          2347177, 
+          2347179
+        ], 
+        "ne_latitude": 13.955, 
+        "alias_JPN_Q": [
+          "\u30af\u30eb\u30f3\u30c6\u30d7"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Changwat Bangkok"
+        ], 
+        "ne_longitude": 100.939, 
+        "longitude": 100.634, 
+        "alias_CHI_Q": [
+          "\u66fc\u8c37"
+        ], 
+        "placetype": "State", 
+        "iso": "TH", 
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "alias_KOR_Q": [
+          "\ubc29\ucf55"
+        ], 
+        "parent_woeid": 23424960, 
+        "latitude": 13.724, 
+        "sw_longitude": 100.329, 
+        "fullname": "Bangkok, Thailand", 
+        "sw_latitude": 13.492
+      }, 
+      "id": 2347165
+    }
+  ]
+}

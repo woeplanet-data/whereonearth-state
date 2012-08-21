@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.566, 
+              -1.247
+            ], 
+            [
+              9.566, 
+              0.266
+            ], 
+            [
+              11.582, 
+              0.266
+            ], 
+            [
+              11.582, 
+              -1.247
+            ], 
+            [
+              9.566, 
+              -1.247
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345451, 
+        "name": "Moyen-Ogooue", 
+        "adjacent_woeid": [
+          2345449, 
+          2345452, 
+          2345454, 
+          2345455, 
+          2345456, 
+          2345457
+        ], 
+        "ne_latitude": 0.266, 
+        "ne_longitude": 11.582, 
+        "longitude": 10.574, 
+        "parent_woeid": 23424822, 
+        "placetype": "State", 
+        "alias_FRE_V": [
+          "Moyen-Ogoou\u00e9"
+        ], 
+        "iso": "GA", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -0.490, 
+        "sw_longitude": 9.566, 
+        "fullname": "Moyen-Ogooue, Gabon", 
+        "sw_latitude": -1.247
+      }, 
+      "id": 2345451
+    }
+  ]
+}

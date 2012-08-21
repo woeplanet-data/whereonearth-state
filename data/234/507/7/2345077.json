@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.080, 
+              4.288
+            ], 
+            [
+              -73.080, 
+              6.340
+            ], 
+            [
+              -69.865, 
+              6.340
+            ], 
+            [
+              -69.865, 
+              4.288
+            ], 
+            [
+              -73.080, 
+              4.288
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345077, 
+        "name": "Casanare", 
+        "adjacent_woeid": [
+          2345049, 
+          2345052, 
+          2345064, 
+          2345076, 
+          2345078
+        ], 
+        "ne_latitude": 6.340, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -69.865, 
+        "longitude": -71.472, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 5.314, 
+        "sw_longitude": -73.080, 
+        "fullname": "Casanare, Colombia", 
+        "sw_latitude": 4.288
+      }, 
+      "id": 2345077
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.754, 
+              18.267
+            ], 
+            [
+              -65.754, 
+              18.402
+            ], 
+            [
+              -65.551, 
+              18.402
+            ], 
+            [
+              -65.551, 
+              18.267
+            ], 
+            [
+              -65.754, 
+              18.267
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.402, 
+        "name": "Fajardo", 
+        "adjacent_woeid": [
+          2346818, 
+          2346820
+        ], 
+        "woeid": 2346819, 
+        "alias_SPA_V": [
+          "Fajardo Municipios"
+        ], 
+        "ne_longitude": -65.551, 
+        "longitude": -65.684, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.328, 
+        "sw_longitude": -65.754, 
+        "fullname": "Fajardo, Puerto Rico", 
+        "sw_latitude": 18.267
+      }, 
+      "id": 2346819
+    }
+  ]
+}

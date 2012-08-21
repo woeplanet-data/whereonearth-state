@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.246, 
+              -0.561
+            ], 
+            [
+              -77.246, 
+              1.464
+            ], 
+            [
+              -73.842, 
+              1.464
+            ], 
+            [
+              -73.842, 
+              -0.561
+            ], 
+            [
+              -77.246, 
+              -0.561
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345067, 
+        "name": "Putumayo", 
+        "adjacent_woeid": [
+          2345047, 
+          2345054, 
+          2345055, 
+          2345065, 
+          2346483
+        ], 
+        "ne_latitude": 1.464, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -73.842, 
+        "longitude": -75.544, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 0.452, 
+        "sw_longitude": -77.246, 
+        "fullname": "Putumayo, Colombia", 
+        "sw_latitude": -0.561
+      }, 
+      "id": 2345067
+    }
+  ]
+}

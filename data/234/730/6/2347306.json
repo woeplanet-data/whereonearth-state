@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              29.929, 
+              40.305
+            ], 
+            [
+              29.929, 
+              41.181
+            ], 
+            [
+              30.995, 
+              41.181
+            ], 
+            [
+              30.995, 
+              40.305
+            ], 
+            [
+              29.929, 
+              40.305
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 2347306, 
+        "name": "Sakarya", 
+        "adjacent_woeid": [
+          2347268, 
+          2347271, 
+          2347273, 
+          2347296, 
+          29390030
+        ], 
+        "ne_latitude": 41.181, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 30.995, 
+        "longitude": 30.462, 
+        "placetype": "State", 
+        "iso": "TR", 
+        "date_indexed": "2010-12-02T16:22:51Z", 
+        "parent_woeid": 23424969, 
+        "latitude": 40.743, 
+        "sw_longitude": 29.929, 
+        "fullname": "Sakarya, Turkey", 
+        "sw_latitude": 40.305
+      }, 
+      "id": 2347306
+    }
+  ]
+}

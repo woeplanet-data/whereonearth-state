@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.952, 
+              -3.584
+            ], 
+            [
+              -78.952, 
+              -1.441
+            ], 
+            [
+              -76.683, 
+              -1.441
+            ], 
+            [
+              -76.683, 
+              -3.584
+            ], 
+            [
+              -78.952, 
+              -3.584
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -1.441, 
+        "name": "Morona-Santiago", 
+        "adjacent_woeid": [
+          2345203, 
+          2345207, 
+          2345218, 
+          2345220, 
+          2345221
+        ], 
+        "woeid": 2345216, 
+        "alias_SPA_V": [
+          "Morona Santiago"
+        ], 
+        "ne_longitude": -76.683, 
+        "longitude": -77.817, 
+        "parent_woeid": 23424801, 
+        "placetype": "State", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -2.512, 
+        "sw_longitude": -78.952, 
+        "fullname": "Morona-Santiago, Ecuador", 
+        "sw_latitude": -3.584
+      }, 
+      "id": 2345216
+    }
+  ]
+}

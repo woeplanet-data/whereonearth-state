@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -76.620, 
+              1.570
+            ], 
+            [
+              -76.620, 
+              3.822
+            ], 
+            [
+              -74.478, 
+              3.822
+            ], 
+            [
+              -74.478, 
+              1.570
+            ], 
+            [
+              -76.620, 
+              1.570
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345061, 
+        "name": "Huila", 
+        "adjacent_woeid": [
+          2345054, 
+          2345055, 
+          2345064, 
+          2345073, 
+          2345078, 
+          2345079
+        ], 
+        "ne_latitude": 3.822, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -74.478, 
+        "longitude": -75.549, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 2.696, 
+        "sw_longitude": -76.620, 
+        "fullname": "Huila, Colombia", 
+        "sw_latitude": 1.570
+      }, 
+      "id": 2345061
+    }
+  ]
+}

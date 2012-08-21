@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.225, 
+              14.494
+            ], 
+            [
+              -89.225, 
+              15.292
+            ], 
+            [
+              -88.635, 
+              15.292
+            ], 
+            [
+              -88.635, 
+              14.494
+            ], 
+            [
+              -89.225, 
+              14.494
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345627, 
+        "name": "Cop\u00e1n", 
+        "adjacent_woeid": [
+          2345555, 
+          2345560, 
+          2345573, 
+          2345635, 
+          2345636, 
+          2345638
+        ], 
+        "ne_latitude": 15.292, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -88.635, 
+        "longitude": -88.930, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "Copan"
+        ], 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:20:59Z", 
+        "parent_woeid": 23424841, 
+        "latitude": 14.893, 
+        "sw_longitude": -89.225, 
+        "fullname": "Cop\u00e1n, Honduras", 
+        "sw_latitude": 14.494
+      }, 
+      "id": 2345627
+    }
+  ]
+}

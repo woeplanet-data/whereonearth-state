@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.515, 
+              17.846
+            ], 
+            [
+              -71.515, 
+              18.465
+            ], 
+            [
+              -70.946, 
+              18.465
+            ], 
+            [
+              -70.946, 
+              17.846
+            ], 
+            [
+              -71.515, 
+              17.846
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.465, 
+        "name": "Barahona", 
+        "adjacent_woeid": [
+          2345172, 
+          2345173, 
+          2345179, 
+          2345185
+        ], 
+        "woeid": 2345174, 
+        "alias_SPA_A": [
+          "BRX"
+        ], 
+        "alias_SPA_V": [
+          "Sta. Cruz de Barahona"
+        ], 
+        "ne_longitude": -70.946, 
+        "longitude": -71.230, 
+        "parent_woeid": 23424800, 
+        "placetype": "State", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.155, 
+        "sw_longitude": -71.515, 
+        "fullname": "Barahona, Dominican Republic", 
+        "sw_latitude": 17.846
+      }, 
+      "id": 2345174
+    }
+  ]
+}

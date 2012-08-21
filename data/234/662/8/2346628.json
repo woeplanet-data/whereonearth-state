@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              27.273, 
+              43.735
+            ], 
+            [
+              27.273, 
+              44.804
+            ], 
+            [
+              28.992, 
+              44.804
+            ], 
+            [
+              28.992, 
+              43.735
+            ], 
+            [
+              27.273, 
+              43.735
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "RUM", 
+        "ne_latitude": 44.804, 
+        "name": "Constanta", 
+        "adjacent_woeid": [
+          2346622, 
+          2346636, 
+          2346650, 
+          2346654, 
+          20070050, 
+          20070070
+        ], 
+        "parent_woeid": 23424933, 
+        "ne_longitude": 28.992, 
+        "longitude": 28.133, 
+        "placetype": "State", 
+        "alias_RUM_V": [
+          "Costanta"
+        ], 
+        "iso": "RO", 
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.270, 
+        "sw_longitude": 27.273, 
+        "fullname": "Constanta, Romania", 
+        "woeid": 2346628, 
+        "sw_latitude": 43.735
+      }, 
+      "id": 2346628
+    }
+  ]
+}

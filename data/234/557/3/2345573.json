@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.900, 
+              14.742
+            ], 
+            [
+              -89.900, 
+              15.298
+            ], 
+            [
+              -89.153, 
+              15.298
+            ], 
+            [
+              -89.153, 
+              14.742
+            ], 
+            [
+              -89.900, 
+              14.742
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345573, 
+        "name": "Zacapa", 
+        "adjacent_woeid": [
+          2345552, 
+          2345553, 
+          2345555, 
+          2345556, 
+          2345560, 
+          2345561, 
+          2345627
+        ], 
+        "ne_latitude": 15.298, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -89.153, 
+        "longitude": -89.526, 
+        "placetype": "State", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "parent_woeid": 23424834, 
+        "latitude": 15.020, 
+        "sw_longitude": -89.900, 
+        "fullname": "Zacapa, Guatemala", 
+        "sw_latitude": 14.742
+      }, 
+      "id": 2345573
+    }
+  ]
+}

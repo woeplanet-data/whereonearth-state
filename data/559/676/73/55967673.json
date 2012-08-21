@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.328, 
+              6.339
+            ], 
+            [
+              2.328, 
+              6.390
+            ], 
+            [
+              2.484, 
+              6.390
+            ], 
+            [
+              2.484, 
+              6.339
+            ], 
+            [
+              2.328, 
+              6.339
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55967673, 
+        "name": "Littoral", 
+        "adjacent_woeid": [
+          2344825, 
+          2344828
+        ], 
+        "ne_latitude": 6.390, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.484, 
+        "longitude": 2.406, 
+        "placetype": "State", 
+        "iso": "BJ", 
+        "date_indexed": "2010-12-02T18:05:31Z", 
+        "parent_woeid": 23424764, 
+        "latitude": 6.365, 
+        "sw_longitude": 2.328, 
+        "fullname": "Littoral, Benin", 
+        "sw_latitude": 6.339
+      }, 
+      "id": 55967673
+    }
+  ]
+}

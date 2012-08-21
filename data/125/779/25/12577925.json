@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              21.079, 
+              47.593
+            ], 
+            [
+              21.079, 
+              48.425
+            ], 
+            [
+              22.897, 
+              48.425
+            ], 
+            [
+              22.897, 
+              47.593
+            ], 
+            [
+              21.079, 
+              47.593
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "HUN", 
+        "ne_latitude": 48.425, 
+        "name": "Szabolcs-Szatm\u00e1r-Bereg", 
+        "adjacent_woeid": [
+          2346619, 
+          2346645, 
+          2347556, 
+          12577914, 
+          12577919, 
+          20070497, 
+          56043636
+        ], 
+        "woeid": 12577925, 
+        "ne_longitude": 22.897, 
+        "longitude": 21.988, 
+        "parent_woeid": 23424844, 
+        "placetype": "State", 
+        "iso": "HU", 
+        "date_indexed": "2010-12-02T09:55:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.009, 
+        "sw_longitude": 21.079, 
+        "fullname": "Szabolcs-Szatm\u00e1r-Bereg, Hungary", 
+        "alias_HUN_S": [
+          "Szabolcs-Szatmar-Bereg"
+        ], 
+        "sw_latitude": 47.593
+      }, 
+      "id": 12577925
+    }
+  ]
+}

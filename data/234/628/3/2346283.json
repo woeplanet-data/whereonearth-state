@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.551, 
+              15.646
+            ], 
+            [
+              -98.551, 
+              18.658
+            ], 
+            [
+              -93.868, 
+              18.658
+            ], 
+            [
+              -93.868, 
+              15.646
+            ], 
+            [
+              -98.551, 
+              15.646
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2346283, 
+        "name": "Oaxaca", 
+        "adjacent_woeid": [
+          2346268, 
+          2346275, 
+          2346284, 
+          2346293
+        ], 
+        "ne_latitude": 18.658, 
+        "alias_SPA_V": [
+          "Estado de Oaxaca"
+        ], 
+        "ne_longitude": -93.868, 
+        "longitude": -96.209, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "Oaxaca de Juarez"
+        ], 
+        "sw_longitude": -98.551, 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "OA"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.152, 
+        "iso": "MX", 
+        "fullname": "Oaxaca, Mexico", 
+        "sw_latitude": 15.646
+      }, 
+      "id": 2346283
+    }
+  ]
+}

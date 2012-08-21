@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              106.113, 
+              20.280
+            ], 
+            [
+              106.113, 
+              20.730
+            ], 
+            [
+              106.631, 
+              20.730
+            ], 
+            [
+              106.631, 
+              20.280
+            ], 
+            [
+              106.113, 
+              20.280
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2347716, 
+        "name": "Thai Binh", 
+        "adjacent_woeid": [
+          2347707, 
+          2347741, 
+          20070079, 
+          20070080, 
+          20070089
+        ], 
+        "ne_latitude": 20.730, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 106.631, 
+        "longitude": 106.372, 
+        "placetype": "State", 
+        "iso": "VN", 
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "parent_woeid": 23424984, 
+        "latitude": 20.505, 
+        "sw_longitude": 106.113, 
+        "fullname": "Thai Binh, Vietnam", 
+        "sw_latitude": 20.280
+      }, 
+      "id": 2347716
+    }
+  ]
+}

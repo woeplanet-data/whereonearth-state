@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.535, 
+              15.587
+            ], 
+            [
+              -16.535, 
+              16.692
+            ], 
+            [
+              -13.698, 
+              16.692
+            ], 
+            [
+              -13.698, 
+              15.587
+            ], 
+            [
+              -16.535, 
+              15.587
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2346990, 
+        "name": "St.-Louis", 
+        "adjacent_woeid": [
+          2346244, 
+          2346245, 
+          2346246, 
+          2346993, 
+          56055615
+        ], 
+        "ne_latitude": 16.692, 
+        "ne_longitude": -13.698, 
+        "longitude": -15.116, 
+        "parent_woeid": 23424943, 
+        "placetype": "State", 
+        "alias_FRE_V": [
+          "St-Louis"
+        ], 
+        "iso": "SN", 
+        "date_indexed": "2010-12-02T08:57:18Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.139, 
+        "sw_longitude": -16.535, 
+        "fullname": "St.-Louis, Senegal", 
+        "sw_latitude": 15.587
+      }, 
+      "id": 2346990
+    }
+  ]
+}

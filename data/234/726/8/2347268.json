@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              29.708, 
+              39.648
+            ], 
+            [
+              29.708, 
+              40.487
+            ], 
+            [
+              30.657, 
+              40.487
+            ], 
+            [
+              30.657, 
+              39.648
+            ], 
+            [
+              29.708, 
+              39.648
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 2347268, 
+        "name": "Bilecik", 
+        "adjacent_woeid": [
+          2347271, 
+          2347273, 
+          2347283, 
+          2347297, 
+          2347306
+        ], 
+        "ne_latitude": 40.487, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 30.657, 
+        "longitude": 30.182, 
+        "placetype": "State", 
+        "iso": "TR", 
+        "date_indexed": "2010-12-02T16:22:51Z", 
+        "parent_woeid": 23424969, 
+        "latitude": 40.068, 
+        "sw_longitude": 29.708, 
+        "fullname": "Bilecik, Turkey", 
+        "sw_latitude": 39.648
+      }, 
+      "id": 2347268
+    }
+  ]
+}

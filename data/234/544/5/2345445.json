@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -15.475, 
+              13.311
+            ], 
+            [
+              -15.475, 
+              13.827
+            ], 
+            [
+              -14.456, 
+              13.827
+            ], 
+            [
+              -14.456, 
+              13.311
+            ], 
+            [
+              -15.475, 
+              13.311
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345445, 
+        "name": "MacCarthy Island", 
+        "adjacent_woeid": [
+          2345444, 
+          2345446, 
+          2345448, 
+          2346991, 
+          2346995, 
+          2346996, 
+          56055612
+        ], 
+        "ne_latitude": 13.827, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -14.456, 
+        "longitude": -14.965, 
+        "placetype": "State", 
+        "iso": "GM", 
+        "date_indexed": "2010-12-02T08:51:00Z", 
+        "parent_woeid": 23424821, 
+        "latitude": 13.569, 
+        "sw_longitude": -15.475, 
+        "fullname": "MacCarthy Island, The Gambia", 
+        "sw_latitude": 13.311
+      }, 
+      "id": 2345445
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              51.242, 
+              25.555
+            ], 
+            [
+              51.242, 
+              25.958
+            ], 
+            [
+              51.617, 
+              25.958
+            ], 
+            [
+              51.617, 
+              25.555
+            ], 
+            [
+              51.242, 
+              25.555
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 20070006, 
+        "name": "Al Khor", 
+        "adjacent_woeid": [
+          20070004, 
+          20070005, 
+          20070007, 
+          20070009
+        ], 
+        "ne_latitude": 25.958, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Al Khawr"
+        ], 
+        "ne_longitude": 51.617, 
+        "longitude": 51.430, 
+        "placetype": "State", 
+        "iso": "QA", 
+        "date_indexed": "2010-12-02T12:16:10Z", 
+        "parent_woeid": 23424930, 
+        "latitude": 25.757, 
+        "sw_longitude": 51.242, 
+        "fullname": "Al Khor, Qatar", 
+        "sw_latitude": 25.555
+      }, 
+      "id": 20070006
+    }
+  ]
+}

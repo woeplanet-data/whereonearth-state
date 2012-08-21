@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.586, 
+              -16.528
+            ], 
+            [
+              -67.586, 
+              -10.388
+            ], 
+            [
+              -61.537, 
+              -10.388
+            ], 
+            [
+              -61.537, 
+              -16.528
+            ], 
+            [
+              -67.586, 
+              -16.528
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2344803, 
+        "name": "El Beni", 
+        "adjacent_woeid": [
+          2344802, 
+          2344804, 
+          2344806, 
+          2344808, 
+          2344865
+        ], 
+        "ne_latitude": -10.388, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -61.537, 
+        "longitude": -64.562, 
+        "placetype": "State", 
+        "iso": "BO", 
+        "date_indexed": "2010-12-02T17:57:37Z", 
+        "parent_woeid": 23424762, 
+        "latitude": -13.458, 
+        "sw_longitude": -67.586, 
+        "fullname": "El Beni, Bolivia", 
+        "sw_latitude": -16.528
+      }, 
+      "id": 2344803
+    }
+  ]
+}

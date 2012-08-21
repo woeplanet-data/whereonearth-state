@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.694, 
+              5.557
+            ], 
+            [
+              16.694, 
+              8.576
+            ], 
+            [
+              19.069, 
+              8.576
+            ], 
+            [
+              19.069, 
+              5.557
+            ], 
+            [
+              16.694, 
+              5.557
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345099, 
+        "name": "Ouham", 
+        "adjacent_woeid": [
+          2345089, 
+          2345094, 
+          2345100, 
+          2345102, 
+          2345104
+        ], 
+        "ne_latitude": 8.576, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 19.069, 
+        "longitude": 17.881, 
+        "placetype": "State", 
+        "iso": "CF", 
+        "date_indexed": "2010-12-02T17:43:23Z", 
+        "parent_woeid": 23424792, 
+        "latitude": 7.066, 
+        "sw_longitude": 16.694, 
+        "fullname": "Ouham, Central African Republic", 
+        "sw_latitude": 5.557
+      }, 
+      "id": 2345099
+    }
+  ]
+}

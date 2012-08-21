@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -55.319, 
+              5.787
+            ], 
+            [
+              -55.319, 
+              5.945
+            ], 
+            [
+              -55.095, 
+              5.945
+            ], 
+            [
+              -55.095, 
+              5.787
+            ], 
+            [
+              -55.319, 
+              5.787
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DUT", 
+        "woeid": 2346412, 
+        "name": "Paramaribo", 
+        "adjacent_woeid": [
+          2346407, 
+          2346413, 
+          2346415
+        ], 
+        "ne_latitude": 5.945, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -55.095, 
+        "longitude": -55.207, 
+        "placetype": "State", 
+        "iso": "SR", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "parent_woeid": 23424913, 
+        "latitude": 5.866, 
+        "sw_longitude": -55.319, 
+        "fullname": "Paramaribo, Suriname", 
+        "sw_latitude": 5.787
+      }, 
+      "id": 2346412
+    }
+  ]
+}

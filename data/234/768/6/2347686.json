@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.162, 
+              10.385
+            ], 
+            [
+              -67.162, 
+              10.573
+            ], 
+            [
+              -66.864, 
+              10.573
+            ], 
+            [
+              -66.864, 
+              10.385
+            ], 
+            [
+              -67.162, 
+              10.385
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.573, 
+        "name": "Distrito Federal", 
+        "adjacent_woeid": [
+          2347691, 
+          20069993
+        ], 
+        "woeid": 2347686, 
+        "alias_SPA_V": [
+          "Distrito Capital"
+        ], 
+        "ne_longitude": -66.864, 
+        "longitude": -67.013, 
+        "parent_woeid": 23424982, 
+        "placetype": "State", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.479, 
+        "sw_longitude": -67.162, 
+        "fullname": "Distrito Federal, Venezuela", 
+        "sw_latitude": 10.385
+      }, 
+      "id": 2347686
+    }
+  ]
+}

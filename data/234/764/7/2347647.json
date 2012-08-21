@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -56.017, 
+              -34.624
+            ], 
+            [
+              -56.017, 
+              -33.327
+            ], 
+            [
+              -54.114, 
+              -33.327
+            ], 
+            [
+              -54.114, 
+              -34.624
+            ], 
+            [
+              -56.017, 
+              -34.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.327, 
+        "name": "Lavalleja", 
+        "adjacent_woeid": [
+          2347641, 
+          2347646, 
+          2347648, 
+          2347653, 
+          2347658
+        ], 
+        "woeid": 2347647, 
+        "alias_SPA_V": [
+          "Minas"
+        ], 
+        "ne_longitude": -54.114, 
+        "longitude": -55.066, 
+        "parent_woeid": 23424979, 
+        "placetype": "State", 
+        "iso": "UY", 
+        "date_indexed": "2010-12-02T17:58:18Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.976, 
+        "sw_longitude": -56.017, 
+        "fullname": "Lavalleja, Uruguay", 
+        "sw_latitude": -34.624
+      }, 
+      "id": 2347647
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.952, 
+              17.853
+            ], 
+            [
+              -77.952, 
+              18.253
+            ], 
+            [
+              -77.569, 
+              18.253
+            ], 
+            [
+              -77.569, 
+              17.853
+            ], 
+            [
+              -77.952, 
+              17.853
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345919, 
+        "name": "Saint Elizabeth", 
+        "adjacent_woeid": [
+          2345914, 
+          2345920, 
+          2345923, 
+          2345924
+        ], 
+        "ne_latitude": 18.253, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "St. Elizabeth"
+        ], 
+        "ne_longitude": -77.569, 
+        "longitude": -77.761, 
+        "placetype": "State", 
+        "iso": "JM", 
+        "date_indexed": "2010-12-02T08:58:58Z", 
+        "parent_woeid": 23424858, 
+        "latitude": 18.053, 
+        "sw_longitude": -77.952, 
+        "fullname": "Saint Elizabeth, Jamaica", 
+        "sw_latitude": 17.853
+      }, 
+      "id": 2345919
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.264, 
+              18.389
+            ], 
+            [
+              -66.264, 
+              18.477
+            ], 
+            [
+              -66.134, 
+              18.477
+            ], 
+            [
+              -66.134, 
+              18.389
+            ], 
+            [
+              -66.264, 
+              18.389
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.477, 
+        "name": "Toa Baja", 
+        "adjacent_woeid": [
+          2346807, 
+          2346813, 
+          2346859, 
+          2346861
+        ], 
+        "woeid": 2346812, 
+        "alias_SPA_V": [
+          "Toa Baja Municipios"
+        ], 
+        "ne_longitude": -66.134, 
+        "longitude": -66.199, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.433, 
+        "sw_longitude": -66.264, 
+        "fullname": "Toa Baja, Puerto Rico", 
+        "sw_latitude": 18.389
+      }, 
+      "id": 2346812
+    }
+  ]
+}

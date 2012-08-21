@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.226, 
+              6.988
+            ], 
+            [
+              12.226, 
+              10.255
+            ], 
+            [
+              15.598, 
+              10.255
+            ], 
+            [
+              15.598, 
+              6.988
+            ], 
+            [
+              12.226, 
+              6.988
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345041, 
+        "name": "Nord", 
+        "adjacent_woeid": [
+          2345038, 
+          2345040, 
+          2345100, 
+          2346363
+        ], 
+        "ne_latitude": 10.255, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.598, 
+        "longitude": 13.912, 
+        "alias_FRE_A": [
+          "NO"
+        ], 
+        "placetype": "State", 
+        "iso": "CM", 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "parent_woeid": 23424785, 
+        "latitude": 8.622, 
+        "sw_longitude": 12.226, 
+        "fullname": "Nord, Cameroon", 
+        "sw_latitude": 6.988
+      }, 
+      "id": 2345041
+    }
+  ]
+}

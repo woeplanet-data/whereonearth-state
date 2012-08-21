@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -60.757, 
+              -34.038
+            ], 
+            [
+              -60.757, 
+              -30.163
+            ], 
+            [
+              -57.798, 
+              -30.163
+            ], 
+            [
+              -57.798, 
+              -34.038
+            ], 
+            [
+              -60.757, 
+              -34.038
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -30.163, 
+        "name": "Entre Rios", 
+        "adjacent_woeid": [
+          2344675, 
+          2344680, 
+          2344695, 
+          2347640, 
+          2347650, 
+          2347651, 
+          2347654
+        ], 
+        "woeid": 2344682, 
+        "alias_SPA_V": [
+          "Provincia de Entre R\u00edos"
+        ], 
+        "ne_longitude": -57.798, 
+        "longitude": -59.279, 
+        "parent_woeid": 23424747, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "Provincia de Entre Rios"
+        ], 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "alias_ENG_A": [
+          "ER"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -32.100, 
+        "sw_longitude": -60.757, 
+        "fullname": "Entre Rios, Argentina", 
+        "sw_latitude": -34.038
+      }, 
+      "id": 2344682
+    }
+  ]
+}

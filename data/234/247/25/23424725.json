@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              116.932, 
+              7.716
+            ], 
+            [
+              116.932, 
+              12.477
+            ], 
+            [
+              123.650, 
+              12.477
+            ], 
+            [
+              123.650, 
+              7.716
+            ], 
+            [
+              116.932, 
+              7.716
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23424725, 
+        "name": "Western Visayas", 
+        "adjacent_woeid": [
+          23424721
+        ], 
+        "ne_latitude": 12.477, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Region VI"
+        ], 
+        "ne_longitude": 123.650, 
+        "longitude": 122.508, 
+        "placetype": "State", 
+        "iso": "PH", 
+        "date_indexed": "2010-12-02T09:56:47Z", 
+        "parent_woeid": 23424934, 
+        "latitude": 11.180, 
+        "sw_longitude": 116.932, 
+        "fullname": "Western Visayas, Philippines", 
+        "sw_latitude": 7.716
+      }, 
+      "id": 23424725
+    }
+  ]
+}

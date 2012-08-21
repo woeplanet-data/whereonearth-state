@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.476, 
+              45.816
+            ], 
+            [
+              13.476, 
+              46.171
+            ], 
+            [
+              13.868, 
+              46.171
+            ], 
+            [
+              13.868, 
+              45.816
+            ], 
+            [
+              13.476, 
+              45.816
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 55848371, 
+        "name": "Nova Gorica", 
+        "adjacent_woeid": [
+          7153335, 
+          55848341, 
+          55848351, 
+          55848385, 
+          55848391
+        ], 
+        "ne_latitude": 46.171, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.868, 
+        "longitude": 13.672, 
+        "placetype": "State", 
+        "iso": "SI", 
+        "date_indexed": "2010-12-02T09:57:34Z", 
+        "parent_woeid": 23424945, 
+        "latitude": 45.994, 
+        "sw_longitude": 13.476, 
+        "fullname": "Nova Gorica, Slovenia", 
+        "sw_latitude": 45.816
+      }, 
+      "id": 55848371
+    }
+  ]
+}

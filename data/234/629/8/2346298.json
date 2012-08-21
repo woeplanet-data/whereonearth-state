@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              101.333, 
+              4.547
+            ], 
+            [
+              101.333, 
+              6.236
+            ], 
+            [
+              102.667, 
+              6.236
+            ], 
+            [
+              102.667, 
+              4.547
+            ], 
+            [
+              101.333, 
+              4.547
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 2346298, 
+        "name": "Kelantan", 
+        "adjacent_woeid": [
+          2346301, 
+          2346302, 
+          2346307, 
+          2347156
+        ], 
+        "ne_latitude": 6.236, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 102.667, 
+        "longitude": 102.000, 
+        "placetype": "State", 
+        "iso": "MY", 
+        "date_indexed": "2010-12-02T18:03:44Z", 
+        "parent_woeid": 23424901, 
+        "latitude": 5.391, 
+        "sw_longitude": 101.333, 
+        "fullname": "Kelantan, Malaysia", 
+        "sw_latitude": 4.547
+      }, 
+      "id": 2346298
+    }
+  ]
+}

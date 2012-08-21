@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.587, 
+              19.308
+            ], 
+            [
+              -70.587, 
+              19.680
+            ], 
+            [
+              -70.050, 
+              19.680
+            ], 
+            [
+              -70.050, 
+              19.308
+            ], 
+            [
+              -70.587, 
+              19.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345178, 
+        "name": "Espaillat", 
+        "adjacent_woeid": [
+          2345177, 
+          2345183, 
+          2345187, 
+          2345188, 
+          2345193, 
+          2345198
+        ], 
+        "ne_latitude": 19.680, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -70.050, 
+        "longitude": -70.345, 
+        "placetype": "State", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "parent_woeid": 23424800, 
+        "latitude": 19.494, 
+        "sw_longitude": -70.587, 
+        "fullname": "Espaillat, Dominican Republic", 
+        "sw_latitude": 19.308
+      }, 
+      "id": 2345178
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.675, 
+              13.787
+            ], 
+            [
+              -90.675, 
+              14.504
+            ], 
+            [
+              -90.058, 
+              14.504
+            ], 
+            [
+              -90.058, 
+              13.787
+            ], 
+            [
+              -90.675, 
+              13.787
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.504, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          2345557, 
+          2345558, 
+          2345561, 
+          2345562
+        ], 
+        "woeid": 2345569, 
+        "alias_SPA_V": [
+          "Sta. Rosa"
+        ], 
+        "ne_longitude": -90.058, 
+        "longitude": -90.367, 
+        "parent_woeid": 23424834, 
+        "placetype": "State", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.145, 
+        "sw_longitude": -90.675, 
+        "fullname": "Santa Rosa, Guatemala", 
+        "sw_latitude": 13.787
+      }, 
+      "id": 2345569
+    }
+  ]
+}

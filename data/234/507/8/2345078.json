@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.884, 
+              3.674
+            ], 
+            [
+              -74.884, 
+              5.823
+            ], 
+            [
+              -73.054, 
+              5.823
+            ], 
+            [
+              -73.054, 
+              3.674
+            ], 
+            [
+              -74.884, 
+              3.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345078, 
+        "name": "Cundinamarca", 
+        "adjacent_woeid": [
+          2345048, 
+          2345052, 
+          2345053, 
+          2345061, 
+          2345064, 
+          2345073, 
+          2345077, 
+          2345079
+        ], 
+        "ne_latitude": 5.823, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -73.054, 
+        "longitude": -73.969, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 4.749, 
+        "sw_longitude": -74.884, 
+        "fullname": "Cundinamarca, Colombia", 
+        "sw_latitude": 3.674
+      }, 
+      "id": 2345078
+    }
+  ]
+}

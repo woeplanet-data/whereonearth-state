@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.484, 
+              18.183
+            ], 
+            [
+              -77.484, 
+              18.479
+            ], 
+            [
+              -77.000, 
+              18.479
+            ], 
+            [
+              -77.000, 
+              18.183
+            ], 
+            [
+              -77.484, 
+              18.183
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345917, 
+        "name": "Saint Ann", 
+        "adjacent_woeid": [
+          2345912, 
+          2345914, 
+          2345918, 
+          2345921, 
+          2345923
+        ], 
+        "ne_latitude": 18.479, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "St. Ann"
+        ], 
+        "ne_longitude": -77.000, 
+        "longitude": -77.242, 
+        "placetype": "State", 
+        "iso": "JM", 
+        "date_indexed": "2010-12-02T08:58:58Z", 
+        "parent_woeid": 23424858, 
+        "latitude": 18.331, 
+        "sw_longitude": -77.484, 
+        "fullname": "Saint Ann, Jamaica", 
+        "sw_latitude": 18.183
+      }, 
+      "id": 2345917
+    }
+  ]
+}

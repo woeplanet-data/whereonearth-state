@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.255, 
+              4.737
+            ], 
+            [
+              -3.255, 
+              7.023
+            ], 
+            [
+              -1.505, 
+              7.023
+            ], 
+            [
+              -1.505, 
+              4.737
+            ], 
+            [
+              -3.255, 
+              4.737
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345469, 
+        "name": "Western", 
+        "adjacent_woeid": [
+          2345463, 
+          2345464, 
+          2345465, 
+          55967000, 
+          55967004
+        ], 
+        "ne_latitude": 7.023, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -1.505, 
+        "longitude": -2.380, 
+        "placetype": "State", 
+        "iso": "GH", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "parent_woeid": 23424824, 
+        "latitude": 5.880, 
+        "sw_longitude": -3.255, 
+        "fullname": "Western, Ghana", 
+        "sw_latitude": 4.737
+      }, 
+      "id": 2345469
+    }
+  ]
+}

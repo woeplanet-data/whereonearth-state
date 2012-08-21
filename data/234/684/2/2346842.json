@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.169, 
+              18.386
+            ], 
+            [
+              -67.169, 
+              18.513
+            ], 
+            [
+              -67.056, 
+              18.513
+            ], 
+            [
+              -67.056, 
+              18.386
+            ], 
+            [
+              -67.169, 
+              18.386
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.513, 
+        "name": "Aguadilla", 
+        "adjacent_woeid": [
+          2346801, 
+          2346840, 
+          2346841
+        ], 
+        "woeid": 2346842, 
+        "alias_SPA_V": [
+          "Aguadilla Municipios"
+        ], 
+        "ne_longitude": -67.056, 
+        "longitude": -67.113, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.450, 
+        "sw_longitude": -67.169, 
+        "fullname": "Aguadilla, Puerto Rico", 
+        "sw_latitude": 18.386
+      }, 
+      "id": 2346842
+    }
+  ]
+}

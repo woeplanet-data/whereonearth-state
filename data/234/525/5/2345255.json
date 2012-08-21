@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -10.245, 
+              52.968
+            ], 
+            [
+              -10.245, 
+              53.719
+            ], 
+            [
+              -7.968, 
+              53.719
+            ], 
+            [
+              -7.968, 
+              52.968
+            ], 
+            [
+              -10.245, 
+              52.968
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "County Galway"
+        ], 
+        "alias_ENG_A": [
+          "GAL"
+        ], 
+        "ne_latitude": 53.719, 
+        "ne_longitude": -7.968, 
+        "placetype": "State", 
+        "alias_KOR_Q": [
+          "\uace8\uc6e8\uc774"
+        ], 
+        "alias_CHI_Q": [
+          "\u6208\u5c14\u97e6"
+        ], 
+        "woeid": 2345255, 
+        "alias_JPN_Q": [
+          "\u30b4\u30fc\u30eb\u30a6\u30a7\u30a4"
+        ], 
+        "sw_longitude": -10.245, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 53.337, 
+        "date_indexed": "2010-12-02T12:07:35Z", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345251, 
+          2345264, 
+          2345267, 
+          2345268, 
+          2345270
+        ], 
+        "name": "Galway", 
+        "parent_woeid": 23424803, 
+        "alias_UNK_Q": [
+          "Gaillimh"
+        ], 
+        "alias_UNK_V": [
+          "Contae na Gaillimhe"
+        ], 
+        "longitude": -9.085, 
+        "iso": "IE", 
+        "sw_latitude": 52.968, 
+        "fullname": "Galway, Ireland"
+      }, 
+      "id": 2345255
+    }
+  ]
+}

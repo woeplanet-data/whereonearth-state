@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -56.060, 
+              -28.164
+            ], 
+            [
+              -56.060, 
+              -25.504
+            ], 
+            [
+              -53.592, 
+              -25.504
+            ], 
+            [
+              -53.592, 
+              -28.164
+            ], 
+            [
+              -56.060, 
+              -28.164
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -25.504, 
+        "name": "Misiones", 
+        "adjacent_woeid": [
+          2344680, 
+          2344859, 
+          2344864, 
+          2344867, 
+          2346448, 
+          2346457
+        ], 
+        "woeid": 2344688, 
+        "alias_SPA_V": [
+          "Provincia de Misiones"
+        ], 
+        "ne_longitude": -53.592, 
+        "longitude": -54.850, 
+        "parent_woeid": 23424747, 
+        "placetype": "State", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "alias_ENG_A": [
+          "MS"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -26.829, 
+        "sw_longitude": -56.060, 
+        "fullname": "Misiones, Argentina", 
+        "sw_latitude": -28.164
+      }, 
+      "id": 2344688
+    }
+  ]
+}

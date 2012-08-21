@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              27.995, 
+              44.621
+            ], 
+            [
+              27.995, 
+              45.467
+            ], 
+            [
+              29.719, 
+              45.467
+            ], 
+            [
+              29.719, 
+              44.621
+            ], 
+            [
+              27.995, 
+              44.621
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "RUM", 
+        "woeid": 2346650, 
+        "name": "Tulcea", 
+        "adjacent_woeid": [
+          2346622, 
+          2346628, 
+          2346632, 
+          2347549
+        ], 
+        "ne_latitude": 45.467, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 29.719, 
+        "longitude": 28.857, 
+        "placetype": "State", 
+        "iso": "RO", 
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "parent_woeid": 23424933, 
+        "latitude": 45.044, 
+        "sw_longitude": 27.995, 
+        "fullname": "Tulcea, Romania", 
+        "sw_latitude": 44.621
+      }, 
+      "id": 2346650
+    }
+  ]
+}

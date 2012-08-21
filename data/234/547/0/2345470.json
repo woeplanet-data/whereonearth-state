@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.576, 
+              10.270
+            ], 
+            [
+              -1.576, 
+              11.173
+            ], 
+            [
+              0.032, 
+              11.173
+            ], 
+            [
+              0.032, 
+              10.270
+            ], 
+            [
+              -1.576, 
+              10.270
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345470, 
+        "name": "Upper East", 
+        "adjacent_woeid": [
+          2345467, 
+          2345471, 
+          2347613, 
+          2347626, 
+          56048434
+        ], 
+        "ne_latitude": 11.173, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.032, 
+        "longitude": -0.772, 
+        "placetype": "State", 
+        "iso": "GH", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "parent_woeid": 23424824, 
+        "latitude": 10.722, 
+        "sw_longitude": -1.576, 
+        "fullname": "Upper East, Ghana", 
+        "sw_latitude": 10.270
+      }, 
+      "id": 2345470
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              18.001, 
+              46.109
+            ], 
+            [
+              18.001, 
+              46.860
+            ], 
+            [
+              19.006, 
+              46.860
+            ], 
+            [
+              19.006, 
+              46.109
+            ], 
+            [
+              18.001, 
+              46.109
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "HUN", 
+        "woeid": 12577927, 
+        "name": "Tolna", 
+        "adjacent_woeid": [
+          12577911, 
+          12577912, 
+          12577917, 
+          12577924, 
+          56043632
+        ], 
+        "ne_latitude": 46.860, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 19.006, 
+        "longitude": 18.504, 
+        "placetype": "State", 
+        "iso": "HU", 
+        "date_indexed": "2010-12-02T09:55:38Z", 
+        "parent_woeid": 23424844, 
+        "latitude": 46.484, 
+        "sw_longitude": 18.001, 
+        "fullname": "Tolna, Hungary", 
+        "sw_latitude": 46.109
+      }, 
+      "id": 12577927
+    }
+  ]
+}

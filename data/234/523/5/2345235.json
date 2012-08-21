@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              25.000, 
+              21.999
+            ], 
+            [
+              25.000, 
+              27.999
+            ], 
+            [
+              32.719, 
+              27.999
+            ], 
+            [
+              32.719, 
+              21.999
+            ], 
+            [
+              25.000, 
+              21.999
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345235, 
+        "name": "Al Wadi al Jadid", 
+        "adjacent_woeid": [
+          2345232, 
+          2345238, 
+          2345239, 
+          2345244, 
+          2345245, 
+          2345246, 
+          56120898
+        ], 
+        "ne_latitude": 27.999, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "New Valley Governorate"
+        ], 
+        "ne_longitude": 32.719, 
+        "longitude": 28.860, 
+        "placetype": "State", 
+        "iso": "EG", 
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "parent_woeid": 23424802, 
+        "latitude": 24.999, 
+        "sw_longitude": 25.000, 
+        "fullname": "Al Wadi al Jadid, Egypt", 
+        "sw_latitude": 21.999
+      }, 
+      "id": 2345235
+    }
+  ]
+}

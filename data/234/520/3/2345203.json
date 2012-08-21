@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.762, 
+              -3.622
+            ], 
+            [
+              -79.762, 
+              -2.551
+            ], 
+            [
+              -78.382, 
+              -2.551
+            ], 
+            [
+              -78.382, 
+              -3.622
+            ], 
+            [
+              -79.762, 
+              -3.622
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345203, 
+        "name": "Azuay", 
+        "adjacent_woeid": [
+          2345205, 
+          2345207, 
+          2345209, 
+          2345211, 
+          2345213, 
+          2345216, 
+          2345221
+        ], 
+        "ne_latitude": -2.551, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -78.382, 
+        "longitude": -79.072, 
+        "placetype": "State", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "parent_woeid": 23424801, 
+        "latitude": -3.087, 
+        "sw_longitude": -79.762, 
+        "fullname": "Azuay, Ecuador", 
+        "sw_latitude": -3.622
+      }, 
+      "id": 2345203
+    }
+  ]
+}

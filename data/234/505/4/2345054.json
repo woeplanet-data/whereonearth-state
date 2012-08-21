@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -76.291, 
+              -0.666
+            ], 
+            [
+              -76.291, 
+              2.983
+            ], 
+            [
+              -71.282, 
+              2.983
+            ], 
+            [
+              -71.282, 
+              -0.666
+            ], 
+            [
+              -76.291, 
+              -0.666
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345054, 
+        "name": "Caqueta", 
+        "adjacent_woeid": [
+          2345047, 
+          2345055, 
+          2345059, 
+          2345061, 
+          2345064, 
+          2345067, 
+          2345075
+        ], 
+        "ne_latitude": 2.983, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -71.282, 
+        "longitude": -73.786, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 1.158, 
+        "sw_longitude": -76.291, 
+        "fullname": "Caqueta, Colombia", 
+        "sw_latitude": -0.666
+      }, 
+      "id": 2345054
+    }
+  ]
+}

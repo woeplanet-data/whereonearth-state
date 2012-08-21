@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.388, 
+              -35.999
+            ], 
+            [
+              -67.388, 
+              -31.868
+            ], 
+            [
+              -64.881, 
+              -31.868
+            ], 
+            [
+              -64.881, 
+              -35.999
+            ], 
+            [
+              -67.388, 
+              -35.999
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -31.868, 
+        "name": "San Luis", 
+        "adjacent_woeid": [
+          2344679, 
+          2344685, 
+          2344686, 
+          2344687, 
+          2344692
+        ], 
+        "woeid": 2344693, 
+        "alias_SPA_V": [
+          "S Luis"
+        ], 
+        "ne_longitude": -64.881, 
+        "longitude": -66.134, 
+        "parent_woeid": 23424747, 
+        "placetype": "State", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "alias_ENG_A": [
+          "SL"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.934, 
+        "sw_longitude": -67.388, 
+        "fullname": "San Luis, Argentina", 
+        "sw_latitude": -35.999
+      }, 
+      "id": 2344693
+    }
+  ]
+}

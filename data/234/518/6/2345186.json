@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.680, 
+              18.194
+            ], 
+            [
+              -70.680, 
+              18.777
+            ], 
+            [
+              -70.186, 
+              18.777
+            ], 
+            [
+              -70.186, 
+              18.194
+            ], 
+            [
+              -70.680, 
+              18.194
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345186, 
+        "name": "Peravia", 
+        "adjacent_woeid": [
+          2345172, 
+          2345201, 
+          28358195
+        ], 
+        "ne_latitude": 18.777, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -70.186, 
+        "longitude": -70.433, 
+        "placetype": "State", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "parent_woeid": 23424800, 
+        "latitude": 18.485, 
+        "sw_longitude": -70.680, 
+        "fullname": "Peravia, Dominican Republic", 
+        "sw_latitude": 18.194
+      }, 
+      "id": 2345186
+    }
+  ]
+}

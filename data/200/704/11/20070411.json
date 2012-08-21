@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              32.101, 
+              1.652
+            ], 
+            [
+              32.101, 
+              2.597
+            ], 
+            [
+              32.961, 
+              2.597
+            ], 
+            [
+              32.961, 
+              1.652
+            ], 
+            [
+              32.101, 
+              1.652
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 20070411, 
+        "name": "Apac", 
+        "adjacent_woeid": [
+          20070431, 
+          20070432, 
+          20070452, 
+          56190195, 
+          56190203, 
+          56190213
+        ], 
+        "ne_latitude": 2.597, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 32.961, 
+        "longitude": 32.531, 
+        "placetype": "State", 
+        "iso": "UG", 
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "parent_woeid": 23424974, 
+        "latitude": 2.125, 
+        "sw_longitude": 32.101, 
+        "fullname": "Apac, Uganda", 
+        "sw_latitude": 1.652
+      }, 
+      "id": 20070411
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              38.666, 
+              -2.050
+            ], 
+            [
+              38.666, 
+              4.282
+            ], 
+            [
+              41.899, 
+              4.282
+            ], 
+            [
+              41.899, 
+              -2.050
+            ], 
+            [
+              38.666, 
+              -2.050
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345941, 
+        "name": "North-Eastern", 
+        "adjacent_woeid": [
+          2345938, 
+          2345939, 
+          2347011, 
+          2347014, 
+          56013540, 
+          56013545
+        ], 
+        "ne_latitude": 4.282, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "N-Eastern"
+        ], 
+        "ne_longitude": 41.899, 
+        "longitude": 40.282, 
+        "placetype": "State", 
+        "iso": "KE", 
+        "date_indexed": "2010-12-02T08:53:52Z", 
+        "parent_woeid": 23424863, 
+        "latitude": 1.116, 
+        "sw_longitude": 38.666, 
+        "fullname": "North-Eastern, Kenya", 
+        "sw_latitude": -2.050
+      }, 
+      "id": 2345941
+    }
+  ]
+}

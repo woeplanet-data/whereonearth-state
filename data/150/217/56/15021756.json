@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              174.051, 
+              -37.861
+            ], 
+            [
+              174.051, 
+              -35.444
+            ], 
+            [
+              177.195, 
+              -35.444
+            ], 
+            [
+              177.195, 
+              -37.861
+            ], 
+            [
+              174.051, 
+              -37.861
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 15021756, 
+        "name": "Auckland", 
+        "adjacent_woeid": [
+          15021755, 
+          15021765
+        ], 
+        "ne_latitude": -35.444, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 177.195, 
+        "longitude": 174.678, 
+        "placetype": "State", 
+        "iso": "NZ", 
+        "date_indexed": "2010-12-02T17:02:10Z", 
+        "parent_woeid": 23424916, 
+        "latitude": -36.700, 
+        "sw_longitude": 174.051, 
+        "fullname": "Auckland, New Zealand", 
+        "sw_latitude": -37.861
+      }, 
+      "id": 15021756
+    }
+  ]
+}

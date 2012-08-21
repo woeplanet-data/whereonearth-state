@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.051, 
+              18.138
+            ], 
+            [
+              -67.051, 
+              18.208
+            ], 
+            [
+              -66.837, 
+              18.208
+            ], 
+            [
+              -66.837, 
+              18.138
+            ], 
+            [
+              -67.051, 
+              18.138
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.208, 
+        "name": "Maricao", 
+        "adjacent_woeid": [
+          2346798, 
+          2346804, 
+          2346805, 
+          2346810, 
+          2346843, 
+          2346848
+        ], 
+        "woeid": 2346800, 
+        "alias_SPA_V": [
+          "Maricao Municipios"
+        ], 
+        "ne_longitude": -66.837, 
+        "longitude": -66.944, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.173, 
+        "sw_longitude": -67.051, 
+        "fullname": "Maricao, Puerto Rico", 
+        "sw_latitude": 18.138
+      }, 
+      "id": 2346800
+    }
+  ]
+}

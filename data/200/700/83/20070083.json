@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              105.487, 
+              21.324
+            ], 
+            [
+              105.487, 
+              22.078
+            ], 
+            [
+              106.212, 
+              22.078
+            ], 
+            [
+              106.212, 
+              21.324
+            ], 
+            [
+              105.487, 
+              21.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 20070083, 
+        "name": "Thai Nguyen", 
+        "adjacent_woeid": [
+          2347718, 
+          2347727, 
+          2347751, 
+          20070084, 
+          20070087, 
+          20070090
+        ], 
+        "ne_latitude": 22.078, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Thainguyen"
+        ], 
+        "ne_longitude": 106.212, 
+        "longitude": 105.850, 
+        "placetype": "State", 
+        "iso": "VN", 
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "parent_woeid": 23424984, 
+        "latitude": 21.701, 
+        "sw_longitude": 105.487, 
+        "fullname": "Thai Nguyen, Vietnam", 
+        "sw_latitude": 21.324
+      }, 
+      "id": 20070083
+    }
+  ]
+}

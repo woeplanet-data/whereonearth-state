@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.653, 
+              4.655
+            ], 
+            [
+              -74.653, 
+              7.044
+            ], 
+            [
+              -71.974, 
+              7.044
+            ], 
+            [
+              -71.974, 
+              4.655
+            ], 
+            [
+              -74.653, 
+              4.655
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345052, 
+        "name": "Boyaca", 
+        "adjacent_woeid": [
+          2345048, 
+          2345049, 
+          2345053, 
+          2345066, 
+          2345071, 
+          2345077, 
+          2345078, 
+          2347679
+        ], 
+        "ne_latitude": 7.044, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -71.974, 
+        "longitude": -73.313, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 5.849, 
+        "sw_longitude": -74.653, 
+        "fullname": "Boyaca, Colombia", 
+        "sw_latitude": 4.655
+      }, 
+      "id": 2345052
+    }
+  ]
+}

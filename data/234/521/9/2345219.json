@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.624, 
+              -0.728
+            ], 
+            [
+              -79.624, 
+              0.330
+            ], 
+            [
+              -77.837, 
+              0.330
+            ], 
+            [
+              -77.837, 
+              -0.728
+            ], 
+            [
+              -79.624, 
+              -0.728
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345219, 
+        "name": "Pichincha", 
+        "adjacent_woeid": [
+          2345208, 
+          2345210, 
+          2345212, 
+          2345217, 
+          2345222, 
+          56189814
+        ], 
+        "ne_latitude": 0.330, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -77.837, 
+        "longitude": -78.731, 
+        "placetype": "State", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "parent_woeid": 23424801, 
+        "latitude": -0.199, 
+        "sw_longitude": -79.624, 
+        "fullname": "Pichincha, Ecuador", 
+        "sw_latitude": -0.728
+      }, 
+      "id": 2345219
+    }
+  ]
+}

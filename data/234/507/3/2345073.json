@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -76.101, 
+              2.889
+            ], 
+            [
+              -76.101, 
+              5.310
+            ], 
+            [
+              -74.474, 
+              5.310
+            ], 
+            [
+              -74.474, 
+              2.889
+            ], 
+            [
+              -76.101, 
+              2.889
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345073, 
+        "name": "Tolima", 
+        "adjacent_woeid": [
+          2345053, 
+          2345055, 
+          2345061, 
+          2345068, 
+          2345069, 
+          2345074, 
+          2345078
+        ], 
+        "ne_latitude": 5.310, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -74.474, 
+        "longitude": -75.288, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 4.100, 
+        "sw_longitude": -76.101, 
+        "fullname": "Tolima, Colombia", 
+        "sw_latitude": 2.889
+      }, 
+      "id": 2345073
+    }
+  ]
+}

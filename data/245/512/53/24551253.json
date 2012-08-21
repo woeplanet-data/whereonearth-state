@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.403, 
+              25.848
+            ], 
+            [
+              -77.403, 
+              26.152
+            ], 
+            [
+              -77.169, 
+              26.152
+            ], 
+            [
+              -77.169, 
+              25.848
+            ], 
+            [
+              -77.403, 
+              25.848
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 24551253, 
+        "name": "South Abaco", 
+        "adjacent_woeid": [
+          24551242
+        ], 
+        "ne_latitude": 26.152, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "S Abaco"
+        ], 
+        "ne_longitude": -77.169, 
+        "longitude": -77.286, 
+        "placetype": "State", 
+        "iso": "BS", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "parent_woeid": 23424758, 
+        "latitude": 26.000, 
+        "sw_longitude": -77.403, 
+        "fullname": "South Abaco, The Bahamas", 
+        "sw_latitude": 25.848
+      }, 
+      "id": 24551253
+    }
+  ]
+}

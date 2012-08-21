@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              31.054, 
+              30.094
+            ], 
+            [
+              31.054, 
+              30.552
+            ], 
+            [
+              31.416, 
+              30.552
+            ], 
+            [
+              31.416, 
+              30.094
+            ], 
+            [
+              31.054, 
+              30.094
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345234, 
+        "name": "Al Qalyobiyah", 
+        "adjacent_woeid": [
+          2345223, 
+          2345227, 
+          2345230, 
+          2345231, 
+          2345233, 
+          2345236, 
+          56120898
+        ], 
+        "ne_latitude": 30.552, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Qalyubia Governorate"
+        ], 
+        "ne_longitude": 31.416, 
+        "longitude": 31.235, 
+        "placetype": "State", 
+        "iso": "EG", 
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "parent_woeid": 23424802, 
+        "latitude": 30.323, 
+        "sw_longitude": 31.054, 
+        "fullname": "Al Qalyobiyah, Egypt", 
+        "sw_latitude": 30.094
+      }, 
+      "id": 2345234
+    }
+  ]
+}

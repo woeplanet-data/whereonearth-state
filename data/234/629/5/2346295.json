@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.328, 
+              21.042
+            ], 
+            [
+              -104.328, 
+              25.125
+            ], 
+            [
+              -100.742, 
+              25.125
+            ], 
+            [
+              -100.742, 
+              21.042
+            ], 
+            [
+              -104.328, 
+              21.042
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.125, 
+        "name": "Zacatecas", 
+        "adjacent_woeid": [
+          2346264, 
+          2346270, 
+          2346273, 
+          2346274, 
+          2346277, 
+          2346281, 
+          2346282, 
+          2346287
+        ], 
+        "woeid": 2346295, 
+        "alias_SPA_V": [
+          "Estado de Zacatecas"
+        ], 
+        "ne_longitude": -100.742, 
+        "longitude": -102.535, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "ZA"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.083, 
+        "sw_longitude": -104.328, 
+        "fullname": "Zacatecas, Mexico", 
+        "sw_latitude": 21.042
+      }, 
+      "id": 2346295
+    }
+  ]
+}

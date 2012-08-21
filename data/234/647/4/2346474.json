@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.257, 
+              -12.134
+            ], 
+            [
+              -77.257, 
+              -11.941
+            ], 
+            [
+              -77.088, 
+              -11.941
+            ], 
+            [
+              -77.088, 
+              -12.134
+            ], 
+            [
+              -77.257, 
+              -12.134
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -11.941, 
+        "name": "Provincia Constitucional del Callao", 
+        "adjacent_woeid": [
+          28358302
+        ], 
+        "woeid": 2346474, 
+        "alias_SPA_V": [
+          "Callao"
+        ], 
+        "ne_longitude": -77.088, 
+        "longitude": -77.129, 
+        "parent_woeid": 23424919, 
+        "placetype": "State", 
+        "iso": "PE", 
+        "date_indexed": "2010-12-02T16:12:03Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -12.009, 
+        "sw_longitude": -77.257, 
+        "fullname": "Provincia Constitucional del Callao, Peru", 
+        "sw_latitude": -12.134
+      }, 
+      "id": 2346474
+    }
+  ]
+}

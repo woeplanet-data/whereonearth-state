@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.578, 
+              -52.395
+            ], 
+            [
+              -73.578, 
+              -45.996
+            ], 
+            [
+              -65.717, 
+              -45.996
+            ], 
+            [
+              -65.717, 
+              -52.395
+            ], 
+            [
+              -73.578, 
+              -52.395
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -45.996, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          2344678, 
+          2345019, 
+          2345027
+        ], 
+        "woeid": 2344694, 
+        "alias_SPA_V": [
+          "Provincia de Santa Cruz"
+        ], 
+        "ne_longitude": -65.717, 
+        "longitude": -69.645, 
+        "parent_woeid": 23424747, 
+        "placetype": "State", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "alias_ENG_A": [
+          "SC"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -49.196, 
+        "sw_longitude": -73.578, 
+        "fullname": "Santa Cruz, Argentina", 
+        "sw_latitude": -52.395
+      }, 
+      "id": 2344694
+    }
+  ]
+}

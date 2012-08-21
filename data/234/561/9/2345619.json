@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.113, 
+              19.116
+            ], 
+            [
+              -72.113, 
+              19.739
+            ], 
+            [
+              -71.613, 
+              19.739
+            ], 
+            [
+              -71.613, 
+              19.116
+            ], 
+            [
+              -72.113, 
+              19.116
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345619, 
+        "name": "Nord-Est", 
+        "adjacent_woeid": [
+          2345175, 
+          2345181, 
+          2345184, 
+          2345616, 
+          2345618
+        ], 
+        "ne_latitude": 19.739, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -71.613, 
+        "longitude": -71.863, 
+        "alias_FRE_A": [
+          "NE"
+        ], 
+        "placetype": "State", 
+        "iso": "HT", 
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "parent_woeid": 23424839, 
+        "latitude": 19.428, 
+        "sw_longitude": -72.113, 
+        "fullname": "Nord-Est, Haiti", 
+        "sw_latitude": 19.116
+      }, 
+      "id": 2345619
+    }
+  ]
+}

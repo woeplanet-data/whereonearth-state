@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.873, 
+              45.848
+            ], 
+            [
+              16.873, 
+              46.970
+            ], 
+            [
+              18.213, 
+              46.970
+            ], 
+            [
+              18.213, 
+              45.848
+            ], 
+            [
+              16.873, 
+              45.848
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "HUN", 
+        "woeid": 12577924, 
+        "name": "Somogy", 
+        "adjacent_woeid": [
+          12577912, 
+          12577917, 
+          12577927, 
+          12577929, 
+          12577930, 
+          12577976, 
+          12577987, 
+          56043630, 
+          56043639
+        ], 
+        "ne_latitude": 46.970, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 18.213, 
+        "longitude": 17.543, 
+        "placetype": "State", 
+        "iso": "HU", 
+        "date_indexed": "2010-12-02T09:55:38Z", 
+        "parent_woeid": 23424844, 
+        "latitude": 46.409, 
+        "sw_longitude": 16.873, 
+        "fullname": "Somogy, Hungary", 
+        "sw_latitude": 45.848
+      }, 
+      "id": 12577924
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              38.804, 
+              30.647
+            ], 
+            [
+              38.804, 
+              35.125
+            ], 
+            [
+              44.181, 
+              35.125
+            ], 
+            [
+              44.181, 
+              30.647
+            ], 
+            [
+              38.804, 
+              30.647
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ARA", 
+        "woeid": 2345833, 
+        "name": "Al Anbar", 
+        "adjacent_woeid": [
+          2345838, 
+          2345839, 
+          2345844, 
+          2345847, 
+          2345849, 
+          2345850, 
+          2345930, 
+          2346961, 
+          2347075, 
+          2347079
+        ], 
+        "ne_latitude": 35.125, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 44.181, 
+        "longitude": 41.493, 
+        "placetype": "State", 
+        "iso": "IQ", 
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "parent_woeid": 23424855, 
+        "latitude": 32.886, 
+        "sw_longitude": 38.804, 
+        "fullname": "Al Anbar, Iraq", 
+        "alias_ARA_V": [
+          "Anbar"
+        ], 
+        "sw_latitude": 30.647
+      }, 
+      "id": 2345833
+    }
+  ]
+}

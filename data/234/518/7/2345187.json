@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.258, 
+              19.543
+            ], 
+            [
+              -71.258, 
+              19.930
+            ], 
+            [
+              -70.332, 
+              19.930
+            ], 
+            [
+              -70.332, 
+              19.543
+            ], 
+            [
+              -71.258, 
+              19.543
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.930, 
+        "name": "Puerto Plata", 
+        "adjacent_woeid": [
+          2345178, 
+          2345184, 
+          2345193, 
+          2345195
+        ], 
+        "woeid": 2345187, 
+        "alias_SPA_A": [
+          "POP"
+        ], 
+        "alias_SPA_V": [
+          "Pto Plata"
+        ], 
+        "ne_longitude": -70.332, 
+        "longitude": -70.795, 
+        "parent_woeid": 23424800, 
+        "placetype": "State", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.737, 
+        "sw_longitude": -71.258, 
+        "fullname": "Puerto Plata, Dominican Republic", 
+        "sw_latitude": 19.543
+      }, 
+      "id": 2345187
+    }
+  ]
+}

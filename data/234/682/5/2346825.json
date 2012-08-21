@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.011, 
+              18.011
+            ], 
+            [
+              -66.011, 
+              18.126
+            ], 
+            [
+              -65.795, 
+              18.126
+            ], 
+            [
+              -65.795, 
+              18.011
+            ], 
+            [
+              -66.011, 
+              18.011
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.126, 
+        "name": "Yabucoa", 
+        "adjacent_woeid": [
+          2346799, 
+          2346806, 
+          2346824, 
+          2346826, 
+          2346827
+        ], 
+        "woeid": 2346825, 
+        "alias_SPA_V": [
+          "Yabucoa Municipios"
+        ], 
+        "ne_longitude": -65.795, 
+        "longitude": -65.903, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.069, 
+        "sw_longitude": -66.011, 
+        "fullname": "Yabucoa, Puerto Rico", 
+        "sw_latitude": 18.011
+      }, 
+      "id": 2346825
+    }
+  ]
+}

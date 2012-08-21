@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.829, 
+              4.831
+            ], 
+            [
+              9.829, 
+              6.262
+            ], 
+            [
+              11.315, 
+              6.262
+            ], 
+            [
+              11.315, 
+              4.831
+            ], 
+            [
+              9.829, 
+              4.831
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345036, 
+        "name": "Ouest", 
+        "adjacent_woeid": [
+          2345034, 
+          2345035, 
+          2345037, 
+          2345038, 
+          2345039
+        ], 
+        "ne_latitude": 6.262, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.315, 
+        "longitude": 10.572, 
+        "alias_FRE_A": [
+          "OU"
+        ], 
+        "placetype": "State", 
+        "iso": "CM", 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "parent_woeid": 23424785, 
+        "latitude": 5.546, 
+        "sw_longitude": 9.829, 
+        "fullname": "Ouest, Cameroon", 
+        "sw_latitude": 4.831
+      }, 
+      "id": 2345036
+    }
+  ]
+}

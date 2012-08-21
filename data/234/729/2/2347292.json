@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              32.721, 
+              40.823
+            ], 
+            [
+              32.721, 
+              42.017
+            ], 
+            [
+              34.601, 
+              42.017
+            ], 
+            [
+              34.601, 
+              40.823
+            ], 
+            [
+              32.721, 
+              40.823
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 2347292, 
+        "name": "Kastamonu", 
+        "adjacent_woeid": [
+          2347275, 
+          2347276, 
+          2347308, 
+          20070186, 
+          20070187
+        ], 
+        "ne_latitude": 42.017, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 34.601, 
+        "longitude": 33.661, 
+        "placetype": "State", 
+        "iso": "TR", 
+        "date_indexed": "2010-12-02T16:22:51Z", 
+        "parent_woeid": 23424969, 
+        "latitude": 41.420, 
+        "sw_longitude": 32.721, 
+        "fullname": "Kastamonu, Turkey", 
+        "sw_latitude": 40.823
+      }, 
+      "id": 2347292
+    }
+  ]
+}

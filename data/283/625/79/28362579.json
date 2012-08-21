@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.212, 
+              56.550
+            ], 
+            [
+              8.212, 
+              57.752
+            ], 
+            [
+              11.200, 
+              57.752
+            ], 
+            [
+              11.200, 
+              56.550
+            ], 
+            [
+              8.212, 
+              56.550
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 28362579, 
+        "name": "Nordjylland", 
+        "adjacent_woeid": [
+          28362580
+        ], 
+        "ne_latitude": 57.752, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.200, 
+        "longitude": 9.433, 
+        "placetype": "State", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:23Z", 
+        "parent_woeid": 23424796, 
+        "latitude": 57.151, 
+        "sw_longitude": 8.212, 
+        "fullname": "Nordjylland, Denmark", 
+        "alias_DAN_V": [
+          "Region Nordjylland"
+        ], 
+        "sw_latitude": 56.550
+      }, 
+      "id": 28362579
+    }
+  ]
+}

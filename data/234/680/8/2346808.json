@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.831, 
+              18.150
+            ], 
+            [
+              -66.831, 
+              18.350
+            ], 
+            [
+              -66.567, 
+              18.350
+            ], 
+            [
+              -66.567, 
+              18.150
+            ], 
+            [
+              -66.831, 
+              18.150
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.350, 
+        "name": "Utuado", 
+        "adjacent_woeid": [
+          2346789, 
+          2346793, 
+          2346796, 
+          2346798, 
+          2346811, 
+          2346833, 
+          2346847
+        ], 
+        "woeid": 2346808, 
+        "alias_SPA_V": [
+          "Utuado Municipios"
+        ], 
+        "ne_longitude": -66.567, 
+        "longitude": -66.699, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.250, 
+        "sw_longitude": -66.831, 
+        "fullname": "Utuado, Puerto Rico", 
+        "sw_latitude": 18.150
+      }, 
+      "id": 2346808
+    }
+  ]
+}

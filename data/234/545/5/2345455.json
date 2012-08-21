@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.508, 
+              -1.901
+            ], 
+            [
+              11.508, 
+              0.308
+            ], 
+            [
+              13.447, 
+              0.308
+            ], 
+            [
+              13.447, 
+              -1.901
+            ], 
+            [
+              11.508, 
+              -1.901
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345455, 
+        "name": "Ogooue-Lolo", 
+        "adjacent_woeid": [
+          2344972, 
+          2345450, 
+          2345451, 
+          2345452, 
+          2345454
+        ], 
+        "ne_latitude": 0.308, 
+        "ne_longitude": 13.447, 
+        "longitude": 12.477, 
+        "parent_woeid": 23424822, 
+        "placetype": "State", 
+        "alias_FRE_V": [
+          "Ogoou\u00e9-Lolo"
+        ], 
+        "iso": "GA", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -0.797, 
+        "sw_longitude": 11.508, 
+        "fullname": "Ogooue-Lolo, Gabon", 
+        "sw_latitude": -1.901
+      }, 
+      "id": 2345455
+    }
+  ]
+}

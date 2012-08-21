@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.209, 
+              22.345
+            ], 
+            [
+              -107.209, 
+              26.844
+            ], 
+            [
+              -102.472, 
+              26.844
+            ], 
+            [
+              -102.472, 
+              22.345
+            ], 
+            [
+              -107.209, 
+              22.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.844, 
+        "name": "Durango", 
+        "adjacent_woeid": [
+          2346269, 
+          2346270, 
+          2346281, 
+          2346288, 
+          2346295
+        ], 
+        "woeid": 2346273, 
+        "alias_SPA_V": [
+          "Estado de Durango"
+        ], 
+        "ne_longitude": -102.472, 
+        "longitude": -104.841, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "DG"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.595, 
+        "sw_longitude": -107.209, 
+        "fullname": "Durango, Mexico", 
+        "sw_latitude": 22.345
+      }, 
+      "id": 2346273
+    }
+  ]
+}

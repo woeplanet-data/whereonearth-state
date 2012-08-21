@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              50.516, 
+              26.095
+            ], 
+            [
+              50.516, 
+              26.204
+            ], 
+            [
+              50.672, 
+              26.204
+            ], 
+            [
+              50.672, 
+              26.095
+            ], 
+            [
+              50.516, 
+              26.095
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56051601, 
+        "name": "Central", 
+        "adjacent_woeid": [
+          2344720, 
+          56051602, 
+          56051603
+        ], 
+        "ne_latitude": 26.204, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Central Governorate"
+        ], 
+        "ne_longitude": 50.672, 
+        "longitude": 50.594, 
+        "placetype": "State", 
+        "iso": "BH", 
+        "date_indexed": "2010-12-02T16:11:57Z", 
+        "parent_woeid": 23424753, 
+        "latitude": 26.150, 
+        "sw_longitude": 50.516, 
+        "fullname": "Central, Bahrain", 
+        "sw_latitude": 26.095
+      }, 
+      "id": 56051601
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              175.806, 
+              -39.005
+            ], 
+            [
+              175.806, 
+              -37.373
+            ], 
+            [
+              178.108, 
+              -37.373
+            ], 
+            [
+              178.108, 
+              -39.005
+            ], 
+            [
+              175.806, 
+              -39.005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 15021753, 
+        "name": "Bay of Plenty", 
+        "adjacent_woeid": [
+          15021760, 
+          15021761, 
+          15021765
+        ], 
+        "ne_latitude": -37.373, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 178.108, 
+        "longitude": 176.957, 
+        "placetype": "State", 
+        "iso": "NZ", 
+        "date_indexed": "2010-12-02T17:02:10Z", 
+        "parent_woeid": 23424916, 
+        "latitude": -38.189, 
+        "sw_longitude": 175.806, 
+        "fullname": "Bay of Plenty, New Zealand", 
+        "sw_latitude": -39.005
+      }, 
+      "id": 15021753
+    }
+  ]
+}

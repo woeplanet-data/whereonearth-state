@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -58.471, 
+              1.463
+            ], 
+            [
+              -58.471, 
+              6.325
+            ], 
+            [
+              -56.480, 
+              6.325
+            ], 
+            [
+              -56.480, 
+              1.463
+            ], 
+            [
+              -58.471, 
+              1.463
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345606, 
+        "name": "East Berbice-Corentyne", 
+        "adjacent_woeid": [
+          2344857, 
+          2345608, 
+          2345610, 
+          2345611, 
+          2345612, 
+          2346410, 
+          2346414
+        ], 
+        "ne_latitude": 6.325, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "E Berbice-Corentyne"
+        ], 
+        "ne_longitude": -56.480, 
+        "longitude": -58.161, 
+        "placetype": "State", 
+        "iso": "GY", 
+        "date_indexed": "2010-12-02T16:33:25Z", 
+        "parent_woeid": 23424836, 
+        "latitude": 3.894, 
+        "sw_longitude": -58.471, 
+        "fullname": "East Berbice-Corentyne, Guyana", 
+        "sw_latitude": 1.463
+      }, 
+      "id": 2345606
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.887, 
+              3.991
+            ], 
+            [
+              -77.887, 
+              8.687
+            ], 
+            [
+              -76.037, 
+              8.687
+            ], 
+            [
+              -76.037, 
+              3.991
+            ], 
+            [
+              -77.887, 
+              3.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345057, 
+        "name": "Choco", 
+        "adjacent_woeid": [
+          2345048, 
+          2345069, 
+          2345074, 
+          2346555, 
+          2346559, 
+          28358286
+        ], 
+        "ne_latitude": 8.687, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -76.037, 
+        "longitude": -76.962, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 6.339, 
+        "sw_longitude": -77.887, 
+        "fullname": "Choco, Colombia", 
+        "sw_latitude": 3.991
+      }, 
+      "id": 2345057
+    }
+  ]
+}

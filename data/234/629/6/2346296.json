@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              102.467, 
+              1.263
+            ], 
+            [
+              102.467, 
+              2.833
+            ], 
+            [
+              104.551, 
+              2.833
+            ], 
+            [
+              104.551, 
+              1.263
+            ], 
+            [
+              102.467, 
+              1.263
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 2346296, 
+        "name": "Johor", 
+        "adjacent_woeid": [
+          2346299, 
+          2346300, 
+          2346301, 
+          24703043, 
+          24703045
+        ], 
+        "ne_latitude": 2.833, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 104.551, 
+        "longitude": 103.382, 
+        "placetype": "State", 
+        "iso": "MY", 
+        "date_indexed": "2010-12-02T18:03:37Z", 
+        "parent_woeid": 23424901, 
+        "latitude": 2.048, 
+        "sw_longitude": 102.467, 
+        "fullname": "Johor, Malaysia", 
+        "sw_latitude": 1.263
+      }, 
+      "id": 2346296
+    }
+  ]
+}

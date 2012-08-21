@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.773, 
+              -8.745
+            ], 
+            [
+              -77.773, 
+              -5.317
+            ], 
+            [
+              -75.477, 
+              -5.317
+            ], 
+            [
+              -75.477, 
+              -8.745
+            ], 
+            [
+              -77.773, 
+              -8.745
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -5.317, 
+        "name": "San Martin", 
+        "adjacent_woeid": [
+          2346468, 
+          2346477, 
+          2346480, 
+          2346483, 
+          2346492
+        ], 
+        "woeid": 2346489, 
+        "alias_SPA_V": [
+          "S. Martin"
+        ], 
+        "ne_longitude": -75.477, 
+        "longitude": -76.625, 
+        "parent_woeid": 23424919, 
+        "placetype": "State", 
+        "iso": "PE", 
+        "date_indexed": "2010-12-02T16:12:03Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -7.031, 
+        "sw_longitude": -77.773, 
+        "fullname": "San Martin, Peru", 
+        "sw_latitude": -8.745
+      }, 
+      "id": 2346489
+    }
+  ]
+}

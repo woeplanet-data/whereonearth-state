@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.397, 
+              49.501
+            ], 
+            [
+              13.397, 
+              50.619
+            ], 
+            [
+              15.535, 
+              50.619
+            ], 
+            [
+              15.535, 
+              49.501
+            ], 
+            [
+              13.397, 
+              49.501
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "ne_latitude": 50.619, 
+        "placetype": "State", 
+        "alias_ITA_Q": [
+          "Boemia Centrale"
+        ], 
+        "alias_ITA_V": [
+          "Prag"
+        ], 
+        "woeid": 20070468, 
+        "sw_longitude": 13.397, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.060, 
+        "date_indexed": "2010-12-02T08:54:50Z", 
+        "alias_CZE_V": [
+          "Central Bohemia"
+        ], 
+        "alias_CZE_S": [
+          "Stredocesky"
+        ], 
+        "alias_GER_Q": [
+          "Mittelb\u00f6mische Region"
+        ], 
+        "alias_GER_S": [
+          "Mittelbomische Region"
+        ], 
+        "lang": "CZE", 
+        "adjacent_woeid": [
+          20070465, 
+          20070466, 
+          20070467, 
+          20070472, 
+          20070498, 
+          20070499, 
+          20070501, 
+          20070502
+        ], 
+        "name": "St\u0159edo\u010desk\u00fd", 
+        "alias_DUT_Q": [
+          "Midden-Bohemen"
+        ], 
+        "parent_woeid": 23424810, 
+        "ne_longitude": 15.535, 
+        "longitude": 13.831, 
+        "iso": "CZ", 
+        "sw_latitude": 49.501, 
+        "fullname": "St\u0159edo\u010desk\u00fd, Czech Republic"
+      }, 
+      "id": 20070468
+    }
+  ]
+}

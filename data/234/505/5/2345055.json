@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.962, 
+              0.997
+            ], 
+            [
+              -77.962, 
+              3.336
+            ], 
+            [
+              -75.770, 
+              3.336
+            ], 
+            [
+              -75.770, 
+              0.997
+            ], 
+            [
+              -77.962, 
+              0.997
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345055, 
+        "name": "Cauca", 
+        "adjacent_woeid": [
+          2345054, 
+          2345061, 
+          2345065, 
+          2345067, 
+          2345073, 
+          2345074
+        ], 
+        "ne_latitude": 3.336, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -75.770, 
+        "longitude": -76.866, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 2.166, 
+        "sw_longitude": -77.962, 
+        "fullname": "Cauca, Colombia", 
+        "sw_latitude": 0.997
+      }, 
+      "id": 2345055
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              21.105, 
+              5.467
+            ], 
+            [
+              21.105, 
+              9.246
+            ], 
+            [
+              24.612, 
+              9.246
+            ], 
+            [
+              24.612, 
+              5.467
+            ], 
+            [
+              21.105, 
+              5.467
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345091, 
+        "name": "Haute-Kotto", 
+        "adjacent_woeid": [
+          2345089, 
+          2345090, 
+          2345093, 
+          2345096, 
+          2345098, 
+          2345101, 
+          20069893, 
+          20069899
+        ], 
+        "ne_latitude": 9.246, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.612, 
+        "longitude": 22.859, 
+        "placetype": "State", 
+        "iso": "CF", 
+        "date_indexed": "2010-12-02T17:43:23Z", 
+        "parent_woeid": 23424792, 
+        "latitude": 7.357, 
+        "sw_longitude": 21.105, 
+        "fullname": "Haute-Kotto, Central African Republic", 
+        "sw_latitude": 5.467
+      }, 
+      "id": 2345091
+    }
+  ]
+}

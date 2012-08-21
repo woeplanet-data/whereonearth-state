@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -14.547, 
+              13.216
+            ], 
+            [
+              -14.547, 
+              13.573
+            ], 
+            [
+              -13.798, 
+              13.573
+            ], 
+            [
+              -13.798, 
+              13.216
+            ], 
+            [
+              -14.547, 
+              13.216
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345446, 
+        "name": "Upper River", 
+        "adjacent_woeid": [
+          2345445, 
+          2346991, 
+          2346996
+        ], 
+        "ne_latitude": 13.573, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -13.798, 
+        "longitude": -14.172, 
+        "placetype": "State", 
+        "iso": "GM", 
+        "date_indexed": "2010-12-02T08:51:00Z", 
+        "parent_woeid": 23424821, 
+        "latitude": 13.395, 
+        "sw_longitude": -14.547, 
+        "fullname": "Upper River, The Gambia", 
+        "sw_latitude": 13.216
+      }, 
+      "id": 2345446
+    }
+  ]
+}

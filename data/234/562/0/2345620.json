@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.300, 
+              18.263
+            ], 
+            [
+              -73.300, 
+              18.971
+            ], 
+            [
+              -71.786, 
+              18.971
+            ], 
+            [
+              -71.786, 
+              18.263
+            ], 
+            [
+              -73.300, 
+              18.263
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345620, 
+        "name": "Ouest", 
+        "adjacent_woeid": [
+          2345179, 
+          2345181, 
+          2345615, 
+          2345616, 
+          2345617, 
+          2345621, 
+          2345622
+        ], 
+        "ne_latitude": 18.971, 
+        "alias_JPN_Q": [
+          "\u30a6\u30a7\u30b9\u30c8"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -71.786, 
+        "longitude": -72.156, 
+        "alias_FRE_A": [
+          "OST"
+        ], 
+        "placetype": "State", 
+        "iso": "HT", 
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "parent_woeid": 23424839, 
+        "latitude": 18.609, 
+        "sw_longitude": -73.300, 
+        "fullname": "Ouest, Haiti", 
+        "sw_latitude": 18.263
+      }, 
+      "id": 2345620
+    }
+  ]
+}

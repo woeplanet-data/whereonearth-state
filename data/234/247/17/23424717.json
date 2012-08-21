@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              120.483, 
+              13.160
+            ], 
+            [
+              120.483, 
+              15.211
+            ], 
+            [
+              122.789, 
+              15.211
+            ], 
+            [
+              122.789, 
+              13.160
+            ], 
+            [
+              120.483, 
+              13.160
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23424717, 
+        "name": "Calabarzon", 
+        "adjacent_woeid": [
+          23424718, 
+          23424720, 
+          23424722
+        ], 
+        "ne_latitude": 15.211, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Region IV-A"
+        ], 
+        "ne_longitude": 122.789, 
+        "longitude": 121.679, 
+        "placetype": "State", 
+        "iso": "PH", 
+        "date_indexed": "2010-12-02T09:56:47Z", 
+        "parent_woeid": 23424934, 
+        "latitude": 14.185, 
+        "sw_longitude": 120.483, 
+        "fullname": "Calabarzon, Philippines", 
+        "sw_latitude": 13.160
+      }, 
+      "id": 23424717
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.649, 
+              18.483
+            ], 
+            [
+              -71.649, 
+              19.192
+            ], 
+            [
+              -70.890, 
+              19.192
+            ], 
+            [
+              -70.890, 
+              18.483
+            ], 
+            [
+              -71.649, 
+              18.483
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.192, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          2345172, 
+          2345173, 
+          2345179, 
+          2345181, 
+          2345193, 
+          2345194, 
+          2345198
+        ], 
+        "woeid": 2345191, 
+        "alias_SPA_A": [
+          "SJM"
+        ], 
+        "alias_SPA_V": [
+          "Sanjuan"
+        ], 
+        "ne_longitude": -70.890, 
+        "longitude": -71.269, 
+        "parent_woeid": 23424800, 
+        "placetype": "State", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.838, 
+        "sw_longitude": -71.649, 
+        "fullname": "San Juan, Dominican Republic", 
+        "sw_latitude": 18.483
+      }, 
+      "id": 2345191
+    }
+  ]
+}

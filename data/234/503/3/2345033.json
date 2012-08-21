@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.457, 
+              1.653
+            ], 
+            [
+              12.457, 
+              6.117
+            ], 
+            [
+              16.192, 
+              6.117
+            ], 
+            [
+              16.192, 
+              1.653
+            ], 
+            [
+              12.457, 
+              1.653
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345033, 
+        "name": "Est", 
+        "adjacent_woeid": [
+          2344974, 
+          2345038, 
+          2345039, 
+          2345042, 
+          2345092, 
+          2345097, 
+          2345103
+        ], 
+        "ne_latitude": 6.117, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.192, 
+        "longitude": 14.324, 
+        "alias_FRE_A": [
+          "ES"
+        ], 
+        "placetype": "State", 
+        "iso": "CM", 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "parent_woeid": 23424785, 
+        "latitude": 3.885, 
+        "sw_longitude": 12.457, 
+        "fullname": "Est, Cameroon", 
+        "sw_latitude": 1.653
+      }, 
+      "id": 2345033
+    }
+  ]
+}

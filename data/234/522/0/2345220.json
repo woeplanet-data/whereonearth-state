@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.936, 
+              -1.525
+            ], 
+            [
+              -78.936, 
+              -0.978
+            ], 
+            [
+              -78.108, 
+              -0.978
+            ], 
+            [
+              -78.108, 
+              -1.525
+            ], 
+            [
+              -78.936, 
+              -1.525
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345220, 
+        "name": "Tungurahua", 
+        "adjacent_woeid": [
+          2345204, 
+          2345207, 
+          2345208, 
+          2345216, 
+          2345217, 
+          2345218
+        ], 
+        "ne_latitude": -0.978, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -78.108, 
+        "longitude": -78.522, 
+        "placetype": "State", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "parent_woeid": 23424801, 
+        "latitude": -1.251, 
+        "sw_longitude": -78.936, 
+        "fullname": "Tungurahua, Ecuador", 
+        "sw_latitude": -1.525
+      }, 
+      "id": 2345220
+    }
+  ]
+}

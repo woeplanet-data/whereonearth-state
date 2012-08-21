@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.351, 
+              14.220
+            ], 
+            [
+              -89.351, 
+              14.727
+            ], 
+            [
+              -88.716, 
+              14.727
+            ], 
+            [
+              -88.716, 
+              14.220
+            ], 
+            [
+              -89.351, 
+              14.220
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345636, 
+        "name": "Ocotepeque", 
+        "adjacent_woeid": [
+          2345294, 
+          2345302, 
+          2345555, 
+          2345627, 
+          2345635
+        ], 
+        "ne_latitude": 14.727, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -88.716, 
+        "longitude": -89.033, 
+        "placetype": "State", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:20:59Z", 
+        "parent_woeid": 23424841, 
+        "latitude": 14.474, 
+        "sw_longitude": -89.351, 
+        "fullname": "Ocotepeque, Honduras", 
+        "sw_latitude": 14.220
+      }, 
+      "id": 2345636
+    }
+  ]
+}

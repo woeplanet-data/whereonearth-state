@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.097, 
+              0.073
+            ], 
+            [
+              -80.097, 
+              1.439
+            ], 
+            [
+              -78.420, 
+              1.439
+            ], 
+            [
+              -78.420, 
+              0.073
+            ], 
+            [
+              -80.097, 
+              0.073
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 1.439, 
+        "name": "Esmeraldas", 
+        "adjacent_woeid": [
+          2345206, 
+          2345212, 
+          2345215, 
+          2345219, 
+          56189814
+        ], 
+        "woeid": 2345210, 
+        "alias_SPA_V": [
+          "Volc\u00e1n Chimborazo"
+        ], 
+        "ne_longitude": -78.420, 
+        "longitude": -79.259, 
+        "parent_woeid": 23424801, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "Volcan Chimborazo"
+        ], 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.746, 
+        "sw_longitude": -80.097, 
+        "fullname": "Esmeraldas, Ecuador", 
+        "sw_latitude": 0.073
+      }, 
+      "id": 2345210
+    }
+  ]
+}

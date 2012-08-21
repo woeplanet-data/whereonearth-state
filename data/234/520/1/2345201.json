@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.386, 
+              18.231
+            ], 
+            [
+              -70.386, 
+              18.797
+            ], 
+            [
+              -70.021, 
+              18.797
+            ], 
+            [
+              -70.021, 
+              18.231
+            ], 
+            [
+              -70.386, 
+              18.231
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.797, 
+        "name": "San Cristobal", 
+        "adjacent_woeid": [
+          2345186, 
+          2345199, 
+          2345200, 
+          28358195, 
+          28358196
+        ], 
+        "woeid": 2345201, 
+        "alias_SPA_V": [
+          "S. Cristobal"
+        ], 
+        "ne_longitude": -70.021, 
+        "longitude": -70.204, 
+        "parent_woeid": 23424800, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "Benemerita de San Cristobal"
+        ], 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.514, 
+        "sw_longitude": -70.386, 
+        "fullname": "San Cristobal, Dominican Republic", 
+        "sw_latitude": 18.231
+      }, 
+      "id": 2345201
+    }
+  ]
+}

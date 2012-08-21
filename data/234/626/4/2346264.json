@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.875, 
+              21.622
+            ], 
+            [
+              -102.875, 
+              22.459
+            ], 
+            [
+              -101.836, 
+              22.459
+            ], 
+            [
+              -101.836, 
+              21.622
+            ], 
+            [
+              -102.875, 
+              21.622
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.459, 
+        "name": "Aguascalientes", 
+        "adjacent_woeid": [
+          2346277, 
+          2346295
+        ], 
+        "woeid": 2346264, 
+        "alias_SPA_V": [
+          "Estado de Aguascalientes"
+        ], 
+        "ne_longitude": -101.836, 
+        "longitude": -102.355, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "AG"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.041, 
+        "sw_longitude": -102.875, 
+        "fullname": "Aguascalientes, Mexico", 
+        "sw_latitude": 21.622
+      }, 
+      "id": 2346264
+    }
+  ]
+}

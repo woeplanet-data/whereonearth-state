@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.712, 
+              19.104
+            ], 
+            [
+              -98.712, 
+              19.728
+            ], 
+            [
+              -97.627, 
+              19.728
+            ], 
+            [
+              -97.627, 
+              19.104
+            ], 
+            [
+              -98.712, 
+              19.104
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.728, 
+        "name": "Tlaxcala", 
+        "adjacent_woeid": [
+          2346276, 
+          2346278, 
+          2346284
+        ], 
+        "woeid": 2346292, 
+        "alias_SPA_V": [
+          "Estado de Tlaxcala"
+        ], 
+        "ne_longitude": -97.627, 
+        "longitude": -98.169, 
+        "parent_woeid": 23424900, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "Tlaxcala de Xicohtencatl"
+        ], 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "TL"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.416, 
+        "sw_longitude": -98.712, 
+        "fullname": "Tlaxcala, Mexico", 
+        "sw_latitude": 19.104
+      }, 
+      "id": 2346292
+    }
+  ]
+}

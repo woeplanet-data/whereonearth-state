@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.127, 
+              14.559
+            ], 
+            [
+              -61.127, 
+              14.725
+            ], 
+            [
+              -60.951, 
+              14.725
+            ], 
+            [
+              -60.951, 
+              14.559
+            ], 
+            [
+              -61.127, 
+              14.559
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 24549745, 
+        "name": "Fort-de-France", 
+        "adjacent_woeid": [
+          24549744, 
+          24549746, 
+          24549747
+        ], 
+        "ne_latitude": 14.725, 
+        "ne_longitude": -60.951, 
+        "longitude": -61.023, 
+        "parent_woeid": 23424884, 
+        "placetype": "State", 
+        "alias_FRE_V": [
+          "Ft-de-France"
+        ], 
+        "iso": "MQ", 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.636, 
+        "sw_longitude": -61.127, 
+        "fullname": "Fort-de-France, Martinique", 
+        "sw_latitude": 14.559
+      }, 
+      "id": 24549745
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.342, 
+              8.478
+            ], 
+            [
+              1.342, 
+              10.034
+            ], 
+            [
+              2.248, 
+              10.034
+            ], 
+            [
+              2.248, 
+              8.478
+            ], 
+            [
+              1.342, 
+              8.478
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55967671, 
+        "name": "Donga", 
+        "adjacent_woeid": [
+          2344824, 
+          2344826, 
+          55967670, 
+          56048435, 
+          56048436
+        ], 
+        "ne_latitude": 10.034, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.248, 
+        "longitude": 1.552, 
+        "placetype": "State", 
+        "iso": "BJ", 
+        "date_indexed": "2010-12-02T18:05:31Z", 
+        "parent_woeid": 23424764, 
+        "latitude": 9.976, 
+        "sw_longitude": 1.342, 
+        "fullname": "Donga, Benin", 
+        "sw_latitude": 8.478
+      }, 
+      "id": 55967671
+    }
+  ]
+}

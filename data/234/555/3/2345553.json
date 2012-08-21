@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.815, 
+              14.870
+            ], 
+            [
+              -90.815, 
+              15.352
+            ], 
+            [
+              -89.852, 
+              15.352
+            ], 
+            [
+              -89.852, 
+              14.870
+            ], 
+            [
+              -90.815, 
+              14.870
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345553, 
+        "name": "Baja Verapaz", 
+        "adjacent_woeid": [
+          2345552, 
+          2345554, 
+          2345556, 
+          2345558, 
+          2345565, 
+          2345573
+        ], 
+        "ne_latitude": 15.352, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -89.852, 
+        "longitude": -90.333, 
+        "placetype": "State", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "parent_woeid": 23424834, 
+        "latitude": 15.111, 
+        "sw_longitude": -90.815, 
+        "fullname": "Baja Verapaz, Guatemala", 
+        "sw_latitude": 14.870
+      }, 
+      "id": 2345553
+    }
+  ]
+}

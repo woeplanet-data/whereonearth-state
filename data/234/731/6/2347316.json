@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              42.652, 
+              37.720
+            ], 
+            [
+              42.652, 
+              39.399
+            ], 
+            [
+              44.516, 
+              39.399
+            ], 
+            [
+              44.516, 
+              37.720
+            ], 
+            [
+              42.652, 
+              37.720
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 2347316, 
+        "name": "Van", 
+        "adjacent_woeid": [
+          2347261, 
+          2347270, 
+          2347320, 
+          2347324, 
+          2347330
+        ], 
+        "ne_latitude": 39.399, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 44.516, 
+        "longitude": 43.584, 
+        "placetype": "State", 
+        "iso": "TR", 
+        "date_indexed": "2010-12-02T16:22:51Z", 
+        "parent_woeid": 23424969, 
+        "latitude": 38.559, 
+        "sw_longitude": 42.652, 
+        "fullname": "Van, Turkey", 
+        "sw_latitude": 37.720
+      }, 
+      "id": 2347316
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.547, 
+              0.384
+            ], 
+            [
+              -78.547, 
+              1.186
+            ], 
+            [
+              -77.554, 
+              1.186
+            ], 
+            [
+              -77.554, 
+              0.384
+            ], 
+            [
+              -78.547, 
+              0.384
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345206, 
+        "name": "Carchi", 
+        "adjacent_woeid": [
+          2345210, 
+          2345212, 
+          2345222
+        ], 
+        "ne_latitude": 1.186, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -77.554, 
+        "longitude": -78.051, 
+        "placetype": "State", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "parent_woeid": 23424801, 
+        "latitude": 0.785, 
+        "sw_longitude": -78.547, 
+        "fullname": "Carchi, Ecuador", 
+        "sw_latitude": 0.384
+      }, 
+      "id": 2345206
+    }
+  ]
+}

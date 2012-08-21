@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.837, 
+              18.112
+            ], 
+            [
+              -66.837, 
+              18.251
+            ], 
+            [
+              -66.665, 
+              18.251
+            ], 
+            [
+              -66.665, 
+              18.112
+            ], 
+            [
+              -66.837, 
+              18.112
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.251, 
+        "name": "Adjuntas", 
+        "adjacent_woeid": [
+          2346798, 
+          2346808, 
+          2346810, 
+          2346833, 
+          2346834, 
+          2346835
+        ], 
+        "woeid": 2346789, 
+        "alias_SPA_V": [
+          "Adjuntas Municipios"
+        ], 
+        "ne_longitude": -66.665, 
+        "longitude": -66.751, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.181, 
+        "sw_longitude": -66.837, 
+        "fullname": "Adjuntas, Puerto Rico", 
+        "sw_latitude": 18.112
+      }, 
+      "id": 2346789
+    }
+  ]
+}

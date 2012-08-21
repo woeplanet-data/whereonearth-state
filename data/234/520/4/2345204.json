@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.392, 
+              -2.200
+            ], 
+            [
+              -79.392, 
+              -1.148
+            ], 
+            [
+              -78.841, 
+              -1.148
+            ], 
+            [
+              -78.841, 
+              -2.200
+            ], 
+            [
+              -79.392, 
+              -2.200
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345204, 
+        "name": "Bolivar", 
+        "adjacent_woeid": [
+          2345207, 
+          2345208, 
+          2345211, 
+          2345214, 
+          2345220
+        ], 
+        "ne_latitude": -1.148, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -78.841, 
+        "longitude": -79.116, 
+        "placetype": "State", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "parent_woeid": 23424801, 
+        "latitude": -1.674, 
+        "sw_longitude": -79.392, 
+        "fullname": "Bolivar, Ecuador", 
+        "sw_latitude": -2.200
+      }, 
+      "id": 2345204
+    }
+  ]
+}

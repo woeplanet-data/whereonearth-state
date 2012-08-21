@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              25.037, 
+              -18.079
+            ], 
+            [
+              25.037, 
+              -15.075
+            ], 
+            [
+              28.892, 
+              -15.075
+            ], 
+            [
+              28.892, 
+              -18.079
+            ], 
+            [
+              25.037, 
+              -18.079
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2347804, 
+        "name": "Southern", 
+        "adjacent_woeid": [
+          2347803, 
+          2347805, 
+          2347809, 
+          2347814, 
+          2347815
+        ], 
+        "ne_latitude": -15.075, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 28.892, 
+        "longitude": 26.964, 
+        "placetype": "State", 
+        "iso": "ZM", 
+        "date_indexed": "2010-12-02T07:50:33Z", 
+        "parent_woeid": 23425003, 
+        "latitude": -16.577, 
+        "sw_longitude": 25.037, 
+        "fullname": "Southern, Zambia", 
+        "sw_latitude": -18.079
+      }, 
+      "id": 2347804
+    }
+  ]
+}

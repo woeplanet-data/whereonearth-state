@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              34.844, 
+              31.588
+            ], 
+            [
+              34.844, 
+              31.844
+            ], 
+            [
+              35.232, 
+              31.844
+            ], 
+            [
+              35.232, 
+              31.588
+            ], 
+            [
+              34.844, 
+              31.588
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345796, 
+        "name": "Jerusalem", 
+        "adjacent_woeid": [
+          23424988, 
+          2345791, 
+          2345792
+        ], 
+        "ne_latitude": 31.844, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Yerushalayim"
+        ], 
+        "ne_longitude": 35.232, 
+        "longitude": 35.038, 
+        "placetype": "State", 
+        "iso": "IL", 
+        "date_indexed": "2010-12-02T08:53:01Z", 
+        "parent_woeid": 23424852, 
+        "latitude": 31.716, 
+        "sw_longitude": 34.844, 
+        "fullname": "Jerusalem, Yerushalayim, Israel", 
+        "sw_latitude": 31.588
+      }, 
+      "id": 2345796
+    }
+  ]
+}

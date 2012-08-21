@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.756, 
+              -2.482
+            ], 
+            [
+              12.756, 
+              0.045
+            ], 
+            [
+              14.502, 
+              0.045
+            ], 
+            [
+              14.502, 
+              -2.482
+            ], 
+            [
+              12.756, 
+              -2.482
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345450, 
+        "name": "Haut-Ogooue", 
+        "adjacent_woeid": [
+          2344968, 
+          2344970, 
+          2344972, 
+          2344973, 
+          2345454, 
+          2345455, 
+          55998384
+        ], 
+        "ne_latitude": 0.045, 
+        "ne_longitude": 14.502, 
+        "longitude": 13.629, 
+        "parent_woeid": 23424822, 
+        "placetype": "State", 
+        "alias_FRE_V": [
+          "Haut-Ogoou\u00e9"
+        ], 
+        "iso": "GA", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -1.218, 
+        "sw_longitude": 12.756, 
+        "fullname": "Haut-Ogooue, Gabon", 
+        "sw_latitude": -2.482
+      }, 
+      "id": 2345450
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.898, 
+              1.629
+            ], 
+            [
+              -74.898, 
+              4.920
+            ], 
+            [
+              -71.074, 
+              4.920
+            ], 
+            [
+              -71.074, 
+              1.629
+            ], 
+            [
+              -74.898, 
+              1.629
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345064, 
+        "name": "Meta", 
+        "adjacent_woeid": [
+          2345054, 
+          2345059, 
+          2345061, 
+          2345076, 
+          2345077, 
+          2345078, 
+          2345079
+        ], 
+        "ne_latitude": 4.920, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -71.074, 
+        "longitude": -72.986, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 3.275, 
+        "sw_longitude": -74.898, 
+        "fullname": "Meta, Colombia", 
+        "sw_latitude": 1.629
+      }, 
+      "id": 2345064
+    }
+  ]
+}

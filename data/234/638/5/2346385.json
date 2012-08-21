@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.329, 
+              59.472
+            ], 
+            [
+              10.329, 
+              60.604
+            ], 
+            [
+              11.927, 
+              60.604
+            ], 
+            [
+              11.927, 
+              59.472
+            ], 
+            [
+              10.329, 
+              59.472
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "NOR", 
+        "woeid": 2346385, 
+        "name": "Akershus Fylke", 
+        "adjacent_woeid": [
+          2346387, 
+          2346389, 
+          2346394, 
+          2346395, 
+          2346396, 
+          2347063
+        ], 
+        "ne_latitude": 60.604, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.927, 
+        "longitude": 11.254, 
+        "placetype": "State", 
+        "iso": "NO", 
+        "date_indexed": "2010-12-02T10:19:56Z", 
+        "parent_woeid": 23424910, 
+        "latitude": 60.038, 
+        "sw_longitude": 10.329, 
+        "fullname": "Akershus Fylke, Norway", 
+        "alias_NOR_V": [
+          "Akershus"
+        ], 
+        "sw_latitude": 59.472
+      }, 
+      "id": 2346385
+    }
+  ]
+}

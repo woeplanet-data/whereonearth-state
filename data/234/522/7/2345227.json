@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              30.746, 
+              30.543
+            ], 
+            [
+              30.746, 
+              31.141
+            ], 
+            [
+              31.313, 
+              31.141
+            ], 
+            [
+              31.313, 
+              30.543
+            ], 
+            [
+              30.746, 
+              30.543
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345227, 
+        "name": "Al Gharbiyah", 
+        "adjacent_woeid": [
+          2345223, 
+          2345225, 
+          2345231, 
+          2345234, 
+          2345243
+        ], 
+        "ne_latitude": 31.141, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Gharbia Governorate"
+        ], 
+        "ne_longitude": 31.313, 
+        "longitude": 31.030, 
+        "placetype": "State", 
+        "iso": "EG", 
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "parent_woeid": 23424802, 
+        "latitude": 30.842, 
+        "sw_longitude": 30.746, 
+        "fullname": "Al Gharbiyah, Egypt", 
+        "sw_latitude": 30.543
+      }, 
+      "id": 2345227
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.299, 
+              0.873
+            ], 
+            [
+              9.299, 
+              2.347
+            ], 
+            [
+              10.271, 
+              2.347
+            ], 
+            [
+              10.271, 
+              0.873
+            ], 
+            [
+              9.299, 
+              0.873
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 20069853, 
+        "name": "Litoral", 
+        "adjacent_woeid": [
+          2345042, 
+          2345449, 
+          20069850
+        ], 
+        "ne_latitude": 2.347, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.271, 
+        "longitude": 9.809, 
+        "placetype": "State", 
+        "iso": "GQ", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "parent_woeid": 23424804, 
+        "latitude": 1.634, 
+        "sw_longitude": 9.299, 
+        "fullname": "Litoral, Equatorial Guinea", 
+        "sw_latitude": 0.873
+      }, 
+      "id": 20069853
+    }
+  ]
+}

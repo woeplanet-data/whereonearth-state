@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -23.792, 
+              14.971
+            ], 
+            [
+              -23.792, 
+              15.206
+            ], 
+            [
+              -23.621, 
+              15.206
+            ], 
+            [
+              -23.621, 
+              14.971
+            ], 
+            [
+              -23.792, 
+              14.971
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "POR", 
+        "woeid": 2345128, 
+        "name": "Santa Catarina", 
+        "adjacent_woeid": [
+          2345131, 
+          56051557, 
+          56051558, 
+          56051561, 
+          56051563
+        ], 
+        "ne_latitude": 15.206, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -23.621, 
+        "longitude": -23.706, 
+        "placetype": "State", 
+        "iso": "CV", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "parent_woeid": 23424794, 
+        "latitude": 15.088, 
+        "sw_longitude": -23.792, 
+        "fullname": "Santa Catarina, Cape Verde", 
+        "sw_latitude": 14.971
+      }, 
+      "id": 2345128
+    }
+  ]
+}

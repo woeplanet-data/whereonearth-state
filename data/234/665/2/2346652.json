@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              23.576, 
+              44.489
+            ], 
+            [
+              23.576, 
+              45.589
+            ], 
+            [
+              24.524, 
+              45.589
+            ], 
+            [
+              24.524, 
+              44.489
+            ], 
+            [
+              23.576, 
+              44.489
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "RUM", 
+        "ne_latitude": 45.589, 
+        "name": "Valcea", 
+        "adjacent_woeid": [
+          2346615, 
+          2346617, 
+          2346631, 
+          2346633, 
+          2346635, 
+          2346642, 
+          2346646
+        ], 
+        "parent_woeid": 23424933, 
+        "ne_longitude": 24.524, 
+        "longitude": 24.050, 
+        "placetype": "State", 
+        "alias_RUM_V": [
+          "Vilcea"
+        ], 
+        "iso": "RO", 
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.039, 
+        "sw_longitude": 23.576, 
+        "fullname": "Valcea, Romania", 
+        "woeid": 2346652, 
+        "sw_latitude": 44.489
+      }, 
+      "id": 2346652
+    }
+  ]
+}

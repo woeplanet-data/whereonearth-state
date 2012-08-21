@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              34.884, 
+              31.344
+            ], 
+            [
+              34.884, 
+              32.551
+            ], 
+            [
+              35.575, 
+              32.551
+            ], 
+            [
+              35.575, 
+              31.344
+            ], 
+            [
+              34.884, 
+              31.344
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23424988, 
+        "name": "West Bank", 
+        "adjacent_woeid": [
+          2345791, 
+          2345792, 
+          2345793, 
+          2345794, 
+          2345796, 
+          2345927, 
+          20070288, 
+          20070291
+        ], 
+        "ne_latitude": 32.551, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Westbank"
+        ], 
+        "ne_longitude": 35.575, 
+        "longitude": 35.230, 
+        "placetype": "State", 
+        "iso": "PS", 
+        "date_indexed": "2010-12-02T12:08:30Z", 
+        "parent_woeid": 28289408, 
+        "latitude": 31.948, 
+        "sw_longitude": 34.884, 
+        "fullname": "West Bank, Palestinian Occupied Territories", 
+        "sw_latitude": 31.344
+      }, 
+      "id": 23424988
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.825, 
+              8.569
+            ], 
+            [
+              20.825, 
+              11.008
+            ], 
+            [
+              23.698, 
+              11.008
+            ], 
+            [
+              23.698, 
+              8.569
+            ], 
+            [
+              20.825, 
+              8.569
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345101, 
+        "name": "Vakaga", 
+        "adjacent_woeid": [
+          2345089, 
+          2345091, 
+          20069893
+        ], 
+        "ne_latitude": 11.008, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 23.698, 
+        "longitude": 22.261, 
+        "placetype": "State", 
+        "iso": "CF", 
+        "date_indexed": "2010-12-02T17:43:23Z", 
+        "parent_woeid": 23424792, 
+        "latitude": 9.788, 
+        "sw_longitude": 20.825, 
+        "fullname": "Vakaga, Central African Republic", 
+        "sw_latitude": 8.569
+      }, 
+      "id": 2345101
+    }
+  ]
+}

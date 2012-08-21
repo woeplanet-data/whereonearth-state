@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.912, 
+              0.997
+            ], 
+            [
+              9.912, 
+              2.174
+            ], 
+            [
+              10.998, 
+              2.174
+            ], 
+            [
+              10.998, 
+              0.997
+            ], 
+            [
+              9.912, 
+              0.997
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 20069850, 
+        "name": "Centro Sur", 
+        "adjacent_woeid": [
+          2345042, 
+          2345449, 
+          2345457, 
+          20069851, 
+          20069852, 
+          20069853
+        ], 
+        "ne_latitude": 2.174, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.998, 
+        "longitude": 10.455, 
+        "placetype": "State", 
+        "iso": "GQ", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "parent_woeid": 23424804, 
+        "latitude": 1.585, 
+        "sw_longitude": 9.912, 
+        "fullname": "Centro Sur, Equatorial Guinea", 
+        "sw_latitude": 0.997
+      }, 
+      "id": 20069850
+    }
+  ]
+}

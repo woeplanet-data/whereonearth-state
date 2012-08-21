@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              45.413, 
+              33.590
+            ], 
+            [
+              45.413, 
+              35.307
+            ], 
+            [
+              48.105, 
+              35.307
+            ], 
+            [
+              48.105, 
+              33.590
+            ], 
+            [
+              45.413, 
+              33.590
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345777, 
+        "name": "Kermanshah", 
+        "adjacent_woeid": [
+          2345774, 
+          2345775, 
+          2345779, 
+          2345782, 
+          2345837, 
+          2345842
+        ], 
+        "ne_latitude": 35.307, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 48.105, 
+        "longitude": 46.759, 
+        "placetype": "State", 
+        "iso": "IR", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "parent_woeid": 23424851, 
+        "latitude": 34.448, 
+        "sw_longitude": 45.413, 
+        "fullname": "Kermanshah, Iran", 
+        "sw_latitude": 33.590
+      }, 
+      "id": 2345777
+    }
+  ]
+}

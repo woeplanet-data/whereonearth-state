@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.273, 
+              0.124
+            ], 
+            [
+              -79.273, 
+              0.879
+            ], 
+            [
+              -77.797, 
+              0.879
+            ], 
+            [
+              -77.797, 
+              0.124
+            ], 
+            [
+              -79.273, 
+              0.124
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345212, 
+        "name": "Imbabura", 
+        "adjacent_woeid": [
+          2345206, 
+          2345210, 
+          2345219, 
+          2345222
+        ], 
+        "ne_latitude": 0.879, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -77.797, 
+        "longitude": -78.535, 
+        "placetype": "State", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "parent_woeid": 23424801, 
+        "latitude": 0.501, 
+        "sw_longitude": -79.273, 
+        "fullname": "Imbabura, Ecuador", 
+        "sw_latitude": 0.124
+      }, 
+      "id": 2345212
+    }
+  ]
+}

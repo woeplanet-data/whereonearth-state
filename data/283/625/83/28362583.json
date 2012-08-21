@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.843, 
+              54.987
+            ], 
+            [
+              11.843, 
+              56.129
+            ], 
+            [
+              15.193, 
+              56.129
+            ], 
+            [
+              15.193, 
+              54.987
+            ], 
+            [
+              11.843, 
+              54.987
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 28362583, 
+        "name": "Hovedstaden", 
+        "adjacent_woeid": [
+          28362582
+        ], 
+        "ne_latitude": 56.129, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.193, 
+        "longitude": 12.263, 
+        "placetype": "State", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:23Z", 
+        "parent_woeid": 23424796, 
+        "latitude": 55.842, 
+        "sw_longitude": 11.843, 
+        "fullname": "Hovedstaden, Denmark", 
+        "alias_DAN_V": [
+          "Region Hovedstaden"
+        ], 
+        "sw_latitude": 54.987
+      }, 
+      "id": 28362583
+    }
+  ]
+}

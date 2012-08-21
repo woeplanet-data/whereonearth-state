@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.680, 
+              -8.975
+            ], 
+            [
+              -79.680, 
+              -6.948
+            ], 
+            [
+              -76.889, 
+              -6.948
+            ], 
+            [
+              -76.889, 
+              -8.975
+            ], 
+            [
+              -79.680, 
+              -8.975
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2346480, 
+        "name": "La Libertad", 
+        "adjacent_woeid": [
+          2346468, 
+          2346469, 
+          2346473, 
+          2346477, 
+          2346481, 
+          2346489
+        ], 
+        "ne_latitude": -6.948, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -76.889, 
+        "longitude": -78.285, 
+        "placetype": "State", 
+        "iso": "PE", 
+        "date_indexed": "2010-12-02T16:12:03Z", 
+        "parent_woeid": 23424919, 
+        "latitude": -7.961, 
+        "sw_longitude": -79.680, 
+        "fullname": "La Libertad, Peru", 
+        "sw_latitude": -8.975
+      }, 
+      "id": 2346480
+    }
+  ]
+}

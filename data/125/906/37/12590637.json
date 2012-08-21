@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.425, 
+              60.116
+            ], 
+            [
+              20.425, 
+              60.512
+            ], 
+            [
+              20.983, 
+              60.512
+            ], 
+            [
+              20.983, 
+              60.116
+            ], 
+            [
+              20.425, 
+              60.116
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SWE", 
+        "woeid": 12590637, 
+        "name": "Kumlinge", 
+        "adjacent_woeid": [
+          12590629, 
+          12590642, 
+          12590644
+        ], 
+        "ne_latitude": 60.512, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 20.983, 
+        "longitude": 20.789, 
+        "placetype": "State", 
+        "iso": "AX", 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "parent_woeid": 12577865, 
+        "latitude": 60.258, 
+        "sw_longitude": 20.425, 
+        "fullname": "Kumlinge, Aland Islands", 
+        "sw_latitude": 60.116
+      }, 
+      "id": 12590637
+    }
+  ]
+}

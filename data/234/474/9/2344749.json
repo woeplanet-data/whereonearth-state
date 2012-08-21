@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              25.539, 
+              -25.467
+            ], 
+            [
+              25.539, 
+              -24.513
+            ], 
+            [
+              26.188, 
+              -24.513
+            ], 
+            [
+              26.188, 
+              -25.467
+            ], 
+            [
+              25.539, 
+              -25.467
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2344749, 
+        "name": "South-East", 
+        "adjacent_woeid": [
+          2344745, 
+          2344746, 
+          2344750, 
+          2346984
+        ], 
+        "ne_latitude": -24.513, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 26.188, 
+        "longitude": 25.729, 
+        "placetype": "State", 
+        "iso": "BW", 
+        "date_indexed": "2010-12-02T10:22:43Z", 
+        "parent_woeid": 23424755, 
+        "latitude": -24.990, 
+        "sw_longitude": 25.539, 
+        "fullname": "South-East, Botswana", 
+        "sw_latitude": -25.467
+      }, 
+      "id": 2344749
+    }
+  ]
+}

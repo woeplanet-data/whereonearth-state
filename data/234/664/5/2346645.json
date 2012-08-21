@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              22.187, 
+              47.347
+            ], 
+            [
+              22.187, 
+              48.122
+            ], 
+            [
+              23.646, 
+              48.122
+            ], 
+            [
+              23.646, 
+              47.347
+            ], 
+            [
+              22.187, 
+              47.347
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "RUM", 
+        "woeid": 2346645, 
+        "name": "Satu Mare", 
+        "adjacent_woeid": [
+          2346619, 
+          2346638, 
+          2346644, 
+          2347556, 
+          12577925
+        ], 
+        "ne_latitude": 48.122, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 23.646, 
+        "longitude": 22.917, 
+        "placetype": "State", 
+        "iso": "RO", 
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "parent_woeid": 23424933, 
+        "latitude": 47.734, 
+        "sw_longitude": 22.187, 
+        "fullname": "Satu Mare, Romania", 
+        "sw_latitude": 47.347
+      }, 
+      "id": 2346645
+    }
+  ]
+}

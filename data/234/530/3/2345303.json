@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.894, 
+              13.261
+            ], 
+            [
+              -88.894, 
+              13.793
+            ], 
+            [
+              -88.485, 
+              13.793
+            ], 
+            [
+              -88.485, 
+              13.261
+            ], 
+            [
+              -88.894, 
+              13.261
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.793, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          2345293, 
+          2345295, 
+          2345297, 
+          2345300, 
+          2345305
+        ], 
+        "woeid": 2345303, 
+        "alias_SPA_V": [
+          "S. Vicente"
+        ], 
+        "ne_longitude": -88.485, 
+        "longitude": -88.690, 
+        "parent_woeid": 23424807, 
+        "placetype": "State", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.527, 
+        "sw_longitude": -88.894, 
+        "fullname": "San Vicente, El Salvador", 
+        "sw_latitude": 13.261
+      }, 
+      "id": 2345303
+    }
+  ]
+}

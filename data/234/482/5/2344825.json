@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.952, 
+              6.290
+            ], 
+            [
+              1.952, 
+              6.979
+            ], 
+            [
+              2.509, 
+              6.979
+            ], 
+            [
+              2.509, 
+              6.290
+            ], 
+            [
+              1.952, 
+              6.290
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2344825, 
+        "name": "Atlantique", 
+        "adjacent_woeid": [
+          2344827, 
+          2344828, 
+          2344829, 
+          55967668, 
+          55967673
+        ], 
+        "ne_latitude": 6.979, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.509, 
+        "longitude": 2.230, 
+        "placetype": "State", 
+        "iso": "BJ", 
+        "date_indexed": "2010-12-02T18:05:31Z", 
+        "parent_woeid": 23424764, 
+        "latitude": 6.635, 
+        "sw_longitude": 1.952, 
+        "fullname": "Atlantique, Benin", 
+        "sw_latitude": 6.290
+      }, 
+      "id": 2344825
+    }
+  ]
+}

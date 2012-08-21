@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -76.193, 
+              4.665
+            ], 
+            [
+              -76.193, 
+              5.589
+            ], 
+            [
+              -75.368, 
+              5.589
+            ], 
+            [
+              -75.368, 
+              4.665
+            ], 
+            [
+              -76.193, 
+              4.665
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345069, 
+        "name": "Risaralda", 
+        "adjacent_woeid": [
+          2345048, 
+          2345053, 
+          2345057, 
+          2345068, 
+          2345073, 
+          2345074
+        ], 
+        "ne_latitude": 5.589, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -75.368, 
+        "longitude": -75.959, 
+        "placetype": "State", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 23424787, 
+        "latitude": 5.127, 
+        "sw_longitude": -76.193, 
+        "fullname": "Risaralda, Colombia", 
+        "sw_latitude": 4.665
+      }, 
+      "id": 2345069
+    }
+  ]
+}

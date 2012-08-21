@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.592, 
+              18.337
+            ], 
+            [
+              -66.592, 
+              18.388
+            ], 
+            [
+              -66.531, 
+              18.388
+            ], 
+            [
+              -66.531, 
+              18.337
+            ], 
+            [
+              -66.592, 
+              18.337
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.388, 
+        "name": "Florida", 
+        "adjacent_woeid": [
+          2346793, 
+          2346811, 
+          2346851, 
+          2346852
+        ], 
+        "woeid": 20070567, 
+        "alias_SPA_V": [
+          "Florida Municipios"
+        ], 
+        "ne_longitude": -66.531, 
+        "longitude": -66.561, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.363, 
+        "sw_longitude": -66.592, 
+        "fullname": "Florida, Puerto Rico", 
+        "sw_latitude": 18.337
+      }, 
+      "id": 20070567
+    }
+  ]
+}

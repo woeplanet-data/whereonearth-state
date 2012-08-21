@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              31.496, 
+              31.156
+            ], 
+            [
+              31.496, 
+              31.538
+            ], 
+            [
+              32.204, 
+              31.538
+            ], 
+            [
+              32.204, 
+              31.156
+            ], 
+            [
+              31.496, 
+              31.156
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345242, 
+        "name": "Dumyat", 
+        "adjacent_woeid": [
+          2345223, 
+          2345241
+        ], 
+        "ne_latitude": 31.538, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Damietta Governorate"
+        ], 
+        "ne_longitude": 32.204, 
+        "longitude": 32.091, 
+        "placetype": "State", 
+        "iso": "EG", 
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "parent_woeid": 23424802, 
+        "latitude": 31.347, 
+        "sw_longitude": 31.496, 
+        "fullname": "Dumyat, Egypt", 
+        "sw_latitude": 31.156
+      }, 
+      "id": 2345242
+    }
+  ]
+}

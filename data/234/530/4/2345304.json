@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.955, 
+              13.514
+            ], 
+            [
+              -89.955, 
+              13.905
+            ], 
+            [
+              -89.439, 
+              13.905
+            ], 
+            [
+              -89.439, 
+              13.514
+            ], 
+            [
+              -89.955, 
+              13.514
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345304, 
+        "name": "Sonsonate", 
+        "adjacent_woeid": [
+          2345292, 
+          2345296, 
+          2345302
+        ], 
+        "ne_latitude": 13.905, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -89.439, 
+        "longitude": -89.697, 
+        "placetype": "State", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "parent_woeid": 23424807, 
+        "latitude": 13.709, 
+        "sw_longitude": -89.955, 
+        "fullname": "Sonsonate, El Salvador", 
+        "sw_latitude": 13.514
+      }, 
+      "id": 2345304
+    }
+  ]
+}

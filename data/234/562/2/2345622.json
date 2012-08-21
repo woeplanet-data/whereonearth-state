@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.994, 
+              18.030
+            ], 
+            [
+              -72.994, 
+              18.404
+            ], 
+            [
+              -71.693, 
+              18.404
+            ], 
+            [
+              -71.693, 
+              18.030
+            ], 
+            [
+              -72.994, 
+              18.030
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2345622, 
+        "name": "Sud-Est", 
+        "adjacent_woeid": [
+          2345179, 
+          2345185, 
+          2345617, 
+          2345620, 
+          2345621
+        ], 
+        "ne_latitude": 18.404, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -71.693, 
+        "longitude": -71.900, 
+        "alias_FRE_A": [
+          "SE"
+        ], 
+        "placetype": "State", 
+        "iso": "HT", 
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "parent_woeid": 23424839, 
+        "latitude": 18.217, 
+        "sw_longitude": -72.994, 
+        "fullname": "Sud-Est, Haiti", 
+        "sw_latitude": 18.030
+      }, 
+      "id": 2345622
+    }
+  ]
+}

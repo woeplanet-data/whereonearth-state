@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.780, 
+              17.469
+            ], 
+            [
+              -71.780, 
+              18.292
+            ], 
+            [
+              -71.280, 
+              18.292
+            ], 
+            [
+              -71.280, 
+              17.469
+            ], 
+            [
+              -71.780, 
+              17.469
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.292, 
+        "name": "Pedernales", 
+        "adjacent_woeid": [
+          2345174, 
+          2345179, 
+          2345622
+        ], 
+        "woeid": 2345185, 
+        "alias_SPA_V": [
+          "Pto de Pedernales"
+        ], 
+        "ne_longitude": -71.280, 
+        "longitude": -71.530, 
+        "parent_woeid": 23424800, 
+        "placetype": "State", 
+        "alias_SPA_S": [
+          "Anse A Pitre"
+        ], 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.949, 
+        "sw_longitude": -71.780, 
+        "fullname": "Pedernales, Dominican Republic", 
+        "sw_latitude": 17.469
+      }, 
+      "id": 2345185
+    }
+  ]
+}

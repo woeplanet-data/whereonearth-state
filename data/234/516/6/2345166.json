@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.385, 
+              15.238
+            ], 
+            [
+              -61.385, 
+              15.262
+            ], 
+            [
+              -61.353, 
+              15.262
+            ], 
+            [
+              -61.353, 
+              15.238
+            ], 
+            [
+              -61.385, 
+              15.238
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345166, 
+        "name": "Saint Luke", 
+        "adjacent_woeid": [
+          2345163, 
+          2345167, 
+          2345168
+        ], 
+        "ne_latitude": 15.262, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "St. Luke"
+        ], 
+        "ne_longitude": -61.353, 
+        "longitude": -61.369, 
+        "placetype": "State", 
+        "iso": "DM", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "parent_woeid": 23424798, 
+        "latitude": 15.250, 
+        "sw_longitude": -61.385, 
+        "fullname": "Saint Luke, Dominica", 
+        "sw_latitude": 15.238
+      }, 
+      "id": 2345166
+    }
+  ]
+}

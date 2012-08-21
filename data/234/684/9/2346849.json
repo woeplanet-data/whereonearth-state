@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.216, 
+              17.932
+            ], 
+            [
+              -67.216, 
+              18.168
+            ], 
+            [
+              -67.098, 
+              18.168
+            ], 
+            [
+              -67.098, 
+              17.932
+            ], 
+            [
+              -67.216, 
+              17.932
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.168, 
+        "name": "Cabo Rojo", 
+        "adjacent_woeid": [
+          2346805, 
+          2346837, 
+          2346848, 
+          2346850
+        ], 
+        "woeid": 2346849, 
+        "alias_SPA_V": [
+          "Caborojo Municipios"
+        ], 
+        "ne_longitude": -67.098, 
+        "longitude": -67.157, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.050, 
+        "sw_longitude": -67.216, 
+        "fullname": "Cabo Rojo, Puerto Rico", 
+        "sw_latitude": 17.932
+      }, 
+      "id": 2346849
+    }
+  ]
+}

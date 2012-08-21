@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              29.962, 
+              -2.439
+            ], 
+            [
+              29.962, 
+              -1.053
+            ], 
+            [
+              30.896, 
+              -1.053
+            ], 
+            [
+              30.896, 
+              -2.439
+            ], 
+            [
+              29.962, 
+              -2.439
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55864749, 
+        "name": "Province de l'Est", 
+        "adjacent_woeid": [
+          2344909, 
+          2344911, 
+          2347370, 
+          55864750, 
+          55864751, 
+          55864752
+        ], 
+        "ne_latitude": -1.053, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "East Province"
+        ], 
+        "ne_longitude": 30.896, 
+        "longitude": 30.429, 
+        "placetype": "State", 
+        "iso": "RW", 
+        "date_indexed": "2010-12-02T09:35:43Z", 
+        "parent_woeid": 23424937, 
+        "latitude": -1.746, 
+        "sw_longitude": 29.962, 
+        "fullname": "Province de l'Est, Rwanda", 
+        "sw_latitude": -2.439
+      }, 
+      "id": 55864749
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.115, 
+              15.139
+            ], 
+            [
+              -92.115, 
+              16.080
+            ], 
+            [
+              -91.047, 
+              16.080
+            ], 
+            [
+              -91.047, 
+              15.139
+            ], 
+            [
+              -92.115, 
+              15.139
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345559, 
+        "name": "Huehuetenango", 
+        "adjacent_woeid": [
+          2345564, 
+          2345565, 
+          2345568, 
+          2345572, 
+          2346268
+        ], 
+        "ne_latitude": 16.080, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -91.047, 
+        "longitude": -91.581, 
+        "placetype": "State", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "parent_woeid": 23424834, 
+        "latitude": 15.610, 
+        "sw_longitude": -92.115, 
+        "fullname": "Huehuetenango, Guatemala", 
+        "sw_latitude": 15.139
+      }, 
+      "id": 2345559
+    }
+  ]
+}

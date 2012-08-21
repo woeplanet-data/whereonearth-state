@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.209, 
+              17.800
+            ], 
+            [
+              -77.209, 
+              18.255
+            ], 
+            [
+              -76.833, 
+              18.255
+            ], 
+            [
+              -76.833, 
+              17.800
+            ], 
+            [
+              -77.209, 
+              17.800
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2345918, 
+        "name": "Saint Catherine", 
+        "adjacent_woeid": [
+          2345912, 
+          2345916, 
+          2345917, 
+          2345921
+        ], 
+        "ne_latitude": 18.255, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "St. Catherine"
+        ], 
+        "ne_longitude": -76.833, 
+        "longitude": -77.027, 
+        "placetype": "State", 
+        "iso": "JM", 
+        "date_indexed": "2010-12-02T08:58:58Z", 
+        "parent_woeid": 23424858, 
+        "latitude": 18.046, 
+        "sw_longitude": -77.209, 
+        "fullname": "Saint Catherine, Jamaica", 
+        "sw_latitude": 17.800
+      }, 
+      "id": 2345918
+    }
+  ]
+}

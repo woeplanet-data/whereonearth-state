@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.138, 
+              -46.007
+            ], 
+            [
+              -72.138, 
+              -41.996
+            ], 
+            [
+              -63.580, 
+              -41.996
+            ], 
+            [
+              -63.580, 
+              -46.007
+            ], 
+            [
+              -72.138, 
+              -46.007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -41.996, 
+        "name": "Chubut", 
+        "adjacent_woeid": [
+          2344690, 
+          2344694, 
+          2345019, 
+          2345026
+        ], 
+        "woeid": 2344678, 
+        "alias_SPA_V": [
+          "Provincia del Chubut"
+        ], 
+        "ne_longitude": -63.580, 
+        "longitude": -67.858, 
+        "parent_woeid": 23424747, 
+        "placetype": "State", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "alias_ENG_A": [
+          "CHT"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -44.002, 
+        "sw_longitude": -72.138, 
+        "fullname": "Chubut, Argentina", 
+        "sw_latitude": -46.007
+      }, 
+      "id": 2344678
+    }
+  ]
+}

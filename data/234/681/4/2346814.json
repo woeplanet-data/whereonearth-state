@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.144, 
+              18.278
+            ], 
+            [
+              -66.144, 
+              18.441
+            ], 
+            [
+              -66.080, 
+              18.441
+            ], 
+            [
+              -66.080, 
+              18.278
+            ], 
+            [
+              -66.144, 
+              18.278
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.441, 
+        "name": "Guaynabo", 
+        "adjacent_woeid": [
+          2346813, 
+          2346815, 
+          2346858, 
+          2346859
+        ], 
+        "woeid": 2346814, 
+        "alias_SPA_V": [
+          "Guaynabo Municipios"
+        ], 
+        "ne_longitude": -66.080, 
+        "longitude": -66.112, 
+        "parent_woeid": 23424935, 
+        "placetype": "State", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.359, 
+        "sw_longitude": -66.144, 
+        "fullname": "Guaynabo, Puerto Rico", 
+        "sw_latitude": 18.278
+      }, 
+      "id": 2346814
+    }
+  ]
+}

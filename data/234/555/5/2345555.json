@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.720, 
+              14.400
+            ], 
+            [
+              -89.720, 
+              14.950
+            ], 
+            [
+              -89.133, 
+              14.950
+            ], 
+            [
+              -89.133, 
+              14.400
+            ], 
+            [
+              -89.720, 
+              14.400
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 2345555, 
+        "name": "Chiquimula", 
+        "adjacent_woeid": [
+          2345302, 
+          2345561, 
+          2345562, 
+          2345573, 
+          2345627, 
+          2345636
+        ], 
+        "ne_latitude": 14.950, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -89.133, 
+        "longitude": -89.427, 
+        "placetype": "State", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "parent_woeid": 23424834, 
+        "latitude": 14.675, 
+        "sw_longitude": -89.720, 
+        "fullname": "Chiquimula, Guatemala", 
+        "sw_latitude": 14.400
+      }, 
+      "id": 2345555
+    }
+  ]
+}
