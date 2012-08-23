@@ -6689,29 +6689,20 @@
       "properties": {
         "ne:ProvNumber": 40, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "12578001", 
         "alias_ENG_P": [
           "Hunan"
-        ], 
-        "adjacent_woeid": [
-          12577993, 
-          12578002, 
-          12578006, 
-          12578007, 
-          12578019, 
-          20070171
         ], 
         "ne_latitude": 30.098395697803255, 
         "ne:Shape_Area": 19.3269473389, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\ud6c4\ub09c"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 1808, 
         "alias_CHI_V": [
           "\u6e56\u5357"
         ], 
@@ -6731,9 +6722,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 24.642656358604142, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1808, 
+        "ne:VertexCou": 1668.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "HN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "H\u00fan\u00e1n", 
@@ -6749,16 +6740,24 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 211351.4, 
         "woe:id": "12578001", 
-        "name": "\u6e56\u5357\u7701", 
-        "ne:VertexCou": 1668.0, 
-        "ne:NL_NAME_1": "??", 
         "ne:HASC_1": "CN.HN", 
+        "lang": "CHI", 
+        "adjacent_woeid": [
+          12577993, 
+          12578002, 
+          12578006, 
+          12578007, 
+          12578019, 
+          20070171
+        ], 
+        "name": "\u6e56\u5357\u7701", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424781, 
         "ne_longitude": 114.23429894434082, 
         "longitude": 111.537, 
         "iso": "CN", 
         "date_indexed": "2010-12-02T08:51:01Z", 
+        "ne:NL_NAME_1": "??", 
         "fullname": "\u6e56\u5357\u7701, Hunan, China", 
         "ne:Region": null, 
         "ne:NEV_Countr": "China", 

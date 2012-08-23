@@ -7766,22 +7766,11 @@
         "alias_SWE_Q": [
           "Oriental"
         ], 
-        "ne:woe:id": "2344985", 
-        "adjacent_woeid": [
-          2344978, 
-          2344980, 
-          2345093, 
-          2345096, 
-          20069830, 
-          20069831, 
-          20069900, 
-          20069902
-        ], 
         "ne_latitude": 5.375537828008419, 
         "ne:Shape_Area": 40.7029537229, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19660701", 
+        "ne:MAP_COLOR": 7, 
         "alias_KOR_Q": [
           "\uc624\ub9ac\uc5d4\ud0c8"
         ], 
@@ -7791,7 +7780,7 @@
         "alias_CHI_Q": [
           "\u4e1c\u65b9"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 1559, 
         "alias_JPN_Q": [
           "\u30aa\u30ea\u30a8\u30f3\u30bf\u30eb"
         ], 
@@ -7805,9 +7794,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -2.110878594471501, 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 1559, 
+        "ne:VertexCou": 1827.0, 
+        "ne:VALIDFR_1": "19660701", 
+        "ne:DataRank": 3, 
         "ne:Postal": "HC", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Haut-Zaire|Haut-Za\u00efreUpper Zaire", 
@@ -7823,16 +7812,26 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 500481.0, 
         "woe:id": "2344985", 
-        "name": "Orientale", 
-        "ne:VertexCou": 1827.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "CD.HC", 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          2344978, 
+          2344980, 
+          2345093, 
+          2345096, 
+          20069830, 
+          20069831, 
+          20069900, 
+          20069902
+        ], 
+        "name": "Orientale", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424780, 
         "ne_longitude": 31.2801375665955, 
         "longitude": 26.82, 
         "iso": "CD", 
         "date_indexed": "2010-12-02T16:33:06Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Orientale, Democratic Republic of Congo", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Congo (Zaire)", 

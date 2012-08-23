@@ -390,28 +390,21 @@
         "alias_SWE_Q": [
           "Osaka Prefektur"
         ], 
-        "ne:woe:id": "2345881", 
         "alias_ENG_P": [
           "Osaka Prefecture"
-        ], 
-        "adjacent_woeid": [
-          2345862, 
-          2345871, 
-          2345877, 
-          2345892
         ], 
         "ne_latitude": 34.99745066961276, 
         "ne:Shape_Area": 0.172771657967, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "alias_KOR_Q": [
           "\uc624\uc0ac\uce74\ud6c4"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
         "ne:ScaleRank": 6, 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1852, 
         "alias_JPN_V": [
           "\u5927\u962a"
         ], 
@@ -430,9 +423,9 @@
         "ne:FIRST_HASC": "JP.MG", 
         "ne:ENGTYPE_1": "Urban Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1852, 
+        "ne:VertexCou": 92.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "OS", 
         "ne:Region_Cod": "JPN-KIN", 
         "ne:VARNAME_1": null, 
@@ -451,17 +444,23 @@
           "Pr\u00e4fektur Osaka"
         ], 
         "woe:id": "2345881", 
-        "name": "\u5927\u962a\u5e9c", 
-        "ne:VertexCou": 92.0, 
-        "ne:NL_NAME_1": "???", 
-        "ne:FIRST_FIPS": "JA24", 
         "ne:HASC_1": "JP.OS", 
+        "lang": "JPN", 
+        "adjacent_woeid": [
+          2345862, 
+          2345871, 
+          2345877, 
+          2345892
+        ], 
+        "ne:FIRST_FIPS": "JA24", 
+        "name": "\u5927\u962a\u5e9c", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424856, 
         "ne_longitude": 135.71479658389535, 
         "longitude": 135.42, 
         "iso": "JP", 
         "sw_latitude": 34.26369700751093, 
+        "ne:NL_NAME_1": "???", 
         "fullname": "\u5927\u962a\u5e9c, Osaka Prefecture, Japan", 
         "ne:Region": "Kinki", 
         "ne:NEV_Countr": "Japan", 

@@ -1980,17 +1980,8 @@
         "alias_SWE_Q": [
           "Sydgyeongsang"
         ], 
-        "ne:woe:id": "2345967", 
         "alias_ENG_P": [
           "Gyeongsangnam-Do"
-        ], 
-        "adjacent_woeid": [
-          2345964, 
-          2345968, 
-          2345970, 
-          2345971, 
-          2345972, 
-          23701285
         ], 
         "ne_latitude": 35.88706045217816, 
         "ne:Shape_Area": 0.999134155975, 
@@ -1998,14 +1989,14 @@
         "alias_KOR_V": [
           "\uacbd\uc0ac"
         ], 
-        "ne:VALIDFR_1": "19630101", 
+        "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u5e86\u5c1a\u5357\u9053"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2505, 
         "alias_JPN_Q": [
           "\u30ad\u30e7\u30f3\u30b5\u30f3\u30ca\u30e0\u30c9"
         ], 
@@ -2022,9 +2013,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 34.69581533490981, 
-        "lang": "KOR", 
-        "ne:MAP_COLOR": 5, 
-        "ne:OBJECTID": 2505, 
+        "ne:VertexCou": 479.0, 
+        "ne:VALIDFR_1": "19630101", 
+        "ne:DataRank": 3, 
         "ne:Postal": "KN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kyongsangnam-Do|Kyongsang-namdo|Keisho Nan-do|South Kyongsang", 
@@ -2040,10 +2031,17 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 10081.4, 
         "woe:id": "2345967", 
-        "name": "\uacbd\uc0c1\ub0a8\ub3c4", 
-        "ne:VertexCou": 479.0, 
-        "ne:NL_NAME_1": "???? | ????", 
         "ne:HASC_1": "KR.KN", 
+        "lang": "KOR", 
+        "adjacent_woeid": [
+          2345964, 
+          2345968, 
+          2345970, 
+          2345971, 
+          2345972, 
+          23701285
+        ], 
+        "name": "\uacbd\uc0c1\ub0a8\ub3c4", 
         "ne:REMARKS_1": "38 (NSO Code)", 
         "ne:Country_Pr": null, 
         "parent_woeid": 23424868, 
@@ -2051,6 +2049,7 @@
         "longitude": 128.398, 
         "iso": "KR", 
         "date_indexed": "2010-12-02T17:52:39Z", 
+        "ne:NL_NAME_1": "???? | ????", 
         "fullname": "\uacbd\uc0c1\ub0a8\ub3c4, Gyeongsangnam-Do, South Korea", 
         "ne:Region": null, 
         "ne:NEV_Countr": "South Korea", 

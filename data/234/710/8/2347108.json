@@ -552,24 +552,14 @@
           "Jura"
         ], 
         "ne:ScaleRank": 9, 
-        "ne:woe:id": "2347108", 
         "alias_ENG_P": [
           "Canton of Jura"
         ], 
-        "adjacent_woeid": [
-          2347085, 
-          2347087, 
-          2347094, 
-          2347100, 
-          7153317, 
-          7153330
-        ], 
         "ne_latitude": 47.49960744912454, 
-        "ne:DataRank": 7, 
         "ne:Shape_Area": 0.101224461003, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19790101", 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
         "ne:VALIDTO_1": "Present", 
@@ -586,14 +576,15 @@
         "sw_longitude": 6.83739179889244, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.327, 
+        "iso": "CH", 
         "ne:FIPS_1": "SZ26", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "date_indexed": "2010-12-02T18:19:21Z", 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 160, 
+        "ne:VertexCou": 131.0, 
+        "ne:VALIDFR_1": "19790101", 
+        "ne:DataRank": 7, 
         "ne:Postal": "JU", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Giura", 
@@ -612,10 +603,17 @@
           "Kanton Jura"
         ], 
         "woe:id": "2347108", 
-        "name": "Canton de Jura", 
-        "ne:VertexCou": 131.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "CH.JU", 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          2347085, 
+          2347087, 
+          2347094, 
+          2347100, 
+          7153317, 
+          7153330
+        ], 
+        "name": "Canton de Jura", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424957, 
         "alias_UNK_Q": [
@@ -626,8 +624,9 @@
         "alias_FRE_A": [
           "JU"
         ], 
-        "iso": "CH", 
+        "ne:OBJECTID": 160, 
         "sw_latitude": 47.15430552797778, 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Canton Jura"
         ], 

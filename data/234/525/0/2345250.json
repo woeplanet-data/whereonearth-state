@@ -1079,28 +1079,17 @@
           "Contae an Chabhain"
         ], 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "2345250", 
-        "adjacent_woeid": [
-          2345259, 
-          2345262, 
-          2345265, 
-          2345266, 
-          2345272
-        ], 
         "ne_latitude": 54.29911489483658, 
         "ne:Shape_Area": 0.259346280671, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
-        "alias_UNK_V": [
-          "Contae an Chabh\u00e1in"
-        ], 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "CAV"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 79, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -8.048676316658657, 
@@ -1111,9 +1100,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 53.77335887271386, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 79, 
+        "ne:VertexCou": 236.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "CN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "An Cabh\u00e1n", 
@@ -1129,10 +1118,16 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 1893.2, 
         "woe:id": "2345250", 
-        "name": "Cavan", 
-        "ne:VertexCou": 236.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IE.CN", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345259, 
+          2345262, 
+          2345265, 
+          2345266, 
+          2345272
+        ], 
+        "name": "Cavan", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae an Chabhain"
@@ -1141,10 +1136,14 @@
         "alias_UNK_Q": [
           "An Cabh\u00e1n"
         ], 
-        "ne_longitude": -6.748290574850103, 
+        "alias_UNK_V": [
+          "Contae an Chabh\u00e1in"
+        ], 
         "longitude": -7.413, 
+        "ne_longitude": -6.748290574850103, 
         "iso": "IE", 
         "date_indexed": "2010-12-02T12:07:35Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Cavan, Ireland", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Ireland", 

@@ -4007,26 +4007,17 @@
       "properties": {
         "ne:ProvNumber": 13, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "2345720", 
         "alias_ENG_P": [
           "West Kalimantan"
-        ], 
-        "adjacent_woeid": [
-          2345722, 
-          2345723, 
-          2346305
         ], 
         "ne_latitude": 2.083335679797813, 
         "ne:Shape_Area": 12.0374338875, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1956", 
-        "alias_UNK_V": [
-          "Kalbar"
-        ], 
+        "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IDN", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 1228, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 108.67758385621005, 
@@ -4037,9 +4028,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -3.080690199493063, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 1228, 
+        "ne:VertexCou": 948.0, 
+        "ne:VALIDFR_1": "1956", 
+        "ne:DataRank": 1, 
         "ne:Postal": "KB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kalbar", 
@@ -4055,16 +4046,24 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 148145.4, 
         "woe:id": "2345720", 
-        "name": "Kalimantan Barat", 
-        "ne:VertexCou": 948.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "ID.KB", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          2345722, 
+          2345723, 
+          2346305
+        ], 
+        "name": "Kalimantan Barat", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424846, 
-        "ne_longitude": 114.20892581567387, 
+        "alias_UNK_V": [
+          "Kalbar"
+        ], 
         "longitude": 111.534, 
+        "ne_longitude": 114.20892581567387, 
         "iso": "ID", 
         "date_indexed": "2010-12-02T16:52:36Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Kalimantan Barat, West Kalimantan, Indonesia", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Indonesia", 

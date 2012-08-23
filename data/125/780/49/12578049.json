@@ -137,12 +137,11 @@
       "properties": {
         "ne:ProvNumber": 3, 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "12578049", 
         "ne_latitude": 51.79453908990712, 
         "ne:Shape_Area": 0.017151512004, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 3, 
         "alias_POR_Q": [
           "Pa\u00eds de Gales"
         ], 
@@ -158,7 +157,7 @@
         "alias_ITA_Q": [
           "Galles"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 2134, 
         "alias_JPN_Q": [
           "\u30a6\u30a7\u30fc\u30eb\u30ba"
         ], 
@@ -179,9 +178,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Unitary Authority (wales", 
         "date_indexed": "2010-12-02T12:16:52Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 2134, 
+        "ne:VertexCou": 30.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 5, 
         "ne:Postal": "TF", 
         "ne:Region_Cod": "GBR-WLS", 
         "ne:VARNAME_1": null, 
@@ -197,13 +196,14 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 131.9, 
         "woe:id": "12578049", 
-        "name": "Wales", 
-        "ne:VertexCou": 30.0, 
+        "ne:HASC_1": "GB.TF", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           24554868
         ], 
-        "ne:HASC_1": "GB.TF", 
+        "name": "Wales", 
         "ne:REMARKS_1": null, 
+        "ne:sameAsCity": -99, 
         "parent_woeid": 23424975, 
         "alias_UNK_Q": [
           "Cymru"
@@ -215,13 +215,12 @@
         "sw_latitude": 51.60573924437068, 
         "ne:NL_NAME_1": null, 
         "fullname": "Wales, United Kingdom", 
-        "alias_FRE_Q": [
-          "Pays de Galles"
-        ], 
         "ne:Region": "Wales", 
         "ne:NEV_Countr": "United Kingdom", 
         "ne:RegionVar": "Cymru", 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Pays de Galles"
+        ]
       }, 
       "id": 12578049
     }

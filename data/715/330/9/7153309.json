@@ -3067,20 +3067,11 @@
         "alias_SWE_Q": [
           "Akvitanien"
         ], 
-        "ne:woe:id": "7153309", 
-        "adjacent_woeid": [
-          7153321, 
-          7153323, 
-          7153327, 
-          12578026, 
-          12578030, 
-          12578037
-        ], 
         "ne_latitude": 45.71033681888912, 
         "ne:Shape_Area": 4.76148615712, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_POR_Q": [
           "Aquitana"
         ], 
@@ -3093,18 +3084,18 @@
         "alias_CHI_Q": [
           "\u963f\u57fa\u5766"
         ], 
-        "alias_SPA_Q": [
-          "Aquitania"
-        ], 
+        "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_Q": [
           "Aquitania"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2665, 
         "alias_JPN_Q": [
           "\u30a2\u30ad\u30c6\u30fc\u30cc"
         ], 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Unknown", 
+        "alias_SPA_Q": [
+          "Aquitania"
+        ], 
         "alias_FIN_Q": [
           "Akvitania"
         ], 
@@ -3116,9 +3107,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2665, 
+        "ne:VertexCou": 761.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -3141,10 +3132,17 @@
           "Aquitanien"
         ], 
         "woe:id": "7153309", 
-        "name": "Aquitaine", 
-        "ne:VertexCou": 761.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          7153321, 
+          7153323, 
+          7153327, 
+          12578026, 
+          12578030, 
+          12578037
+        ], 
+        "name": "Aquitaine", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424819, 
@@ -3153,6 +3151,7 @@
         "ne:NAME_1": "Aquitaine", 
         "iso": "FR", 
         "sw_latitude": 42.77302256893648, 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Aquitaine Region"
         ], 

@@ -1862,20 +1862,11 @@
         "alias_KOR_Q": [
           "\uc624\ud074\ub77c\ud638\ub9c8"
         ], 
-        "ne:woe:id": "2347595", 
-        "adjacent_woeid": [
-          2347562, 
-          2347564, 
-          2347575, 
-          2347584, 
-          2347590, 
-          2347602
-        ], 
         "ne_latitude": 36.99980877525485, 
         "ne:Shape_Area": 17.9661927579, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19071116", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "Okla"
         ], 
@@ -1885,7 +1876,7 @@
         "alias_CHI_Q": [
           "\u4fc4\u514b\u62c9\u4f55\u9a6c"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3533, 
         "alias_JPN_Q": [
           "\u30aa\u30af\u30e9\u30db\u30de"
         ], 
@@ -1899,9 +1890,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 33.647416196800066, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3533, 
+        "ne:VertexCou": 460.0, 
+        "ne:VALIDFR_1": "19071116", 
+        "ne:DataRank": 1, 
         "ne:Postal": "OK", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "OK|Okla.", 
@@ -1917,16 +1908,24 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 180637.2, 
         "woe:id": "2347595", 
-        "name": "Oklahoma", 
-        "ne:VertexCou": 460.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.OK", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347562, 
+          2347564, 
+          2347575, 
+          2347584, 
+          2347590, 
+          2347602
+        ], 
+        "name": "Oklahoma", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -94.43908085349858, 
         "longitude": -98.521, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Oklahoma, United States", 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 

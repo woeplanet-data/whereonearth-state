@@ -2439,18 +2439,11 @@
         "alias_SWE_Q": [
           "Tananarive"
         ], 
-        "ne:woe:id": "2346150", 
-        "adjacent_woeid": [
-          2346147, 
-          2346148, 
-          2346149, 
-          2346151
-        ], 
         "ne_latitude": -17.722122084466605, 
         "ne:Shape_Area": 5.01261593815, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\uc548\ud0c0\ub098\ub098\ub9ac\ubcf4"
         ], 
@@ -2460,7 +2453,7 @@
         "alias_CHI_Q": [
           "\u5854\u90a3\u90a3\u5229\u4f5b"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 1217, 
         "alias_JPN_Q": [
           "\u30a2\u30f3\u30bf\u30ca\u30ca\u30ea\u30dc"
         ], 
@@ -2474,9 +2467,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Province", 
         "sw_latitude": -20.279898777006906, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1217, 
+        "ne:VertexCou": 605.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 6, 
         "ne:Postal": "AV", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Tananarive", 
@@ -2492,16 +2485,22 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 58436.4, 
         "woe:id": "2346150", 
-        "name": "Antananarivo", 
-        "ne:VertexCou": 605.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "MG.AV", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2346147, 
+          2346148, 
+          2346149, 
+          2346151
+        ], 
+        "name": "Antananarivo", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424883, 
         "ne_longitude": 48.033636915711156, 
         "longitude": 46.741, 
         "iso": "MG", 
         "date_indexed": "2010-12-02T16:43:41Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Antananarivo, Madagascar", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Madagascar", 

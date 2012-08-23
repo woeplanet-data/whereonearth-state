@@ -723,26 +723,17 @@
           "Pt. Lairge"
         ], 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "2345271", 
-        "adjacent_woeid": [
-          2345252, 
-          2345258, 
-          2345270
-        ], 
         "ne_latitude": 52.35985342089873, 
         "ne:Shape_Area": 0.241218099716, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1898", 
-        "alias_UNK_V": [
-          "Pt L\u00e1irge"
-        ], 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "WAT"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 1444, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -8.147740037672577, 
@@ -753,9 +744,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 51.94468496324049, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 1444, 
+        "ne:VertexCou": 175.0, 
+        "ne:VALIDFR_1": "1898", 
+        "ne:DataRank": 8, 
         "ne:Postal": "WD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Port L\u00e1irge", 
@@ -771,10 +762,14 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 1836.2, 
         "woe:id": "2345271", 
-        "name": "Waterford", 
-        "ne:VertexCou": 175.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IE.WD", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345252, 
+          2345258, 
+          2345270
+        ], 
+        "name": "Waterford", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Port Lairge"
@@ -783,10 +778,14 @@
         "alias_UNK_Q": [
           "Port L\u00e1irge"
         ], 
-        "ne_longitude": -6.954996303636449, 
+        "alias_UNK_V": [
+          "Pt L\u00e1irge"
+        ], 
         "longitude": -7.555, 
+        "ne_longitude": -6.954996303636449, 
         "iso": "IE", 
         "date_indexed": "2010-12-02T12:07:35Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Waterford, Ireland", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Ireland", 

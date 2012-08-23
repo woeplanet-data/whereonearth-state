@@ -2235,20 +2235,11 @@
         "alias_KOR_Q": [
           "\ub9e4\ub2c8\ud1a0\ubc14"
         ], 
-        "ne:woe:id": "2344917", 
-        "adjacent_woeid": [
-          2344920, 
-          2344922, 
-          2344925, 
-          2347582, 
-          2347593, 
-          20069920
-        ], 
         "ne_latitude": 60.00005890539421, 
         "ne:Shape_Area": 91.5536409658, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19120515", 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "MB"
         ], 
@@ -2258,7 +2249,7 @@
         "alias_CHI_Q": [
           "\u9a6c\u5c3c\u6258\u5df4\u7701"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 630, 
         "alias_JPN_Q": [
           "\u30de\u30cb\u30c8\u30d0"
         ], 
@@ -2272,9 +2263,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 48.99305634187675, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 630, 
+        "ne:VertexCou": 553.0, 
+        "ne:VALIDFR_1": "19120515", 
+        "ne:DataRank": 2, 
         "ne:Postal": "MB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2290,16 +2281,24 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 652596.7, 
         "woe:id": "2344917", 
-        "name": "Manitoba", 
-        "ne:VertexCou": 553.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "CA.MB", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344920, 
+          2344922, 
+          2344925, 
+          2347582, 
+          2347593, 
+          20069920
+        ], 
+        "name": "Manitoba", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424775, 
         "ne_longitude": -88.94673580561289, 
         "longitude": -95.494, 
         "iso": "CA", 
         "date_indexed": "2010-12-02T10:22:50Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Manitoba, Canada", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Canada", 

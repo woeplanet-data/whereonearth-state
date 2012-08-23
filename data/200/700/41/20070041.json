@@ -707,18 +707,11 @@
       "properties": {
         "ne:ProvNumber": 2, 
         "ne:ScaleRank": 6, 
-        "ne:woe:id": "20070041", 
-        "adjacent_woeid": [
-          20070040, 
-          20070042, 
-          20070047, 
-          56189857
-        ], 
         "ne_latitude": 13.911993516387724, 
         "ne:Shape_Area": 0.867377326052, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19980729", 
+        "ne:MAP_COLOR": 11, 
         "alias_KOR_Q": [
           "\ud0c0\uc774\uc988"
         ], 
@@ -727,10 +720,11 @@
         "alias_CHI_Q": [
           "\u5854\u4f0a\u5179"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 158, 
         "alias_JPN_Q": [
           "\u30bf\u30a4\u30ba"
         ], 
+        "ne:sameAsCity": 7, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 43.22654015470442, 
@@ -741,9 +735,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Governorate", 
         "sw_latitude": 12.63225250894618, 
-        "lang": "ARA", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 158, 
+        "ne:VertexCou": 170.0, 
+        "ne:VALIDFR_1": "19980729", 
+        "ne:DataRank": 6, 
         "ne:Postal": "TA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Taez|Taiz|Taizz", 
@@ -762,27 +756,32 @@
           "Taizz"
         ], 
         "woe:id": "20070041", 
-        "name": "Ta`izz", 
-        "ne:VertexCou": 170.0, 
-        "ne:NL_NAME_1": "???", 
         "ne:HASC_1": "YE.TA", 
+        "lang": "ARA", 
+        "adjacent_woeid": [
+          20070040, 
+          20070042, 
+          20070047, 
+          56189857
+        ], 
+        "name": "Ta`izz", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23425002, 
         "ne_longitude": 44.533230421946485, 
         "longitude": 43.879, 
         "iso": "YE", 
         "date_indexed": "2010-12-02T16:39:35Z", 
+        "ne:NL_NAME_1": "???", 
         "alias_FRE_V": [
           "Taizz"
         ], 
         "fullname": "Ta`izz, Yemen", 
-        "alias_FRE_Q": [
-          "Taiz"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Yemen", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": 7
+        "alias_FRE_Q": [
+          "Taiz"
+        ]
       }, 
       "id": 20070041
     }

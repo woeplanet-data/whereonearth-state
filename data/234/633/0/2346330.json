@@ -833,20 +833,11 @@
       "properties": {
         "ne:ProvNumber": 2, 
         "ne:ScaleRank": 4, 
-        "ne:woe:id": "2346330", 
-        "adjacent_woeid": [
-          2346324, 
-          2346325, 
-          2346327, 
-          2346352, 
-          2346367, 
-          2346372
-        ], 
         "ne_latitude": 17.500379136388062, 
         "ne:Shape_Area": 12.2805385131, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19640717", 
+        "ne:MAP_COLOR": 13, 
         "alias_KOR_Q": [
           "\uc9c4\ub370\ub974"
         ], 
@@ -855,7 +846,7 @@
         "alias_CHI_Q": [
           "\u6d25\u5fb7\u5c14"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 92, 
         "alias_JPN_Q": [
           "\u30b8\u30f3\u30c7\u30eb"
         ], 
@@ -869,9 +860,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Department", 
         "sw_latitude": 12.801647854464989, 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 13, 
-        "ne:OBJECTID": 92, 
+        "ne:VertexCou": 197.0, 
+        "ne:VALIDFR_1": "19640717", 
+        "ne:DataRank": 6, 
         "ne:Postal": "ZI", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -887,16 +878,24 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 146116.9, 
         "woe:id": "2346330", 
-        "name": "Zinder", 
-        "ne:VertexCou": 197.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "NE.ZI", 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          2346324, 
+          2346325, 
+          2346327, 
+          2346352, 
+          2346367, 
+          2346372
+        ], 
+        "name": "Zinder", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424906, 
         "ne_longitude": 12.000125766990607, 
         "longitude": 9.622, 
         "iso": "NE", 
         "date_indexed": "2010-12-02T17:43:23Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Zinder, Niger", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Niger", 

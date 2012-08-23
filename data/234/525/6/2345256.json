@@ -1939,19 +1939,11 @@
         "alias_KOR_Q": [
           "\ucf00\ub9ac"
         ], 
-        "ne:woe:id": "2345256", 
-        "adjacent_woeid": [
-          2345252, 
-          2345261
-        ], 
         "ne_latitude": 52.577307847679094, 
         "ne:Shape_Area": 0.629421314976, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
-        "alias_UNK_V": [
-          "Contae Chiarra\u00ed"
-        ], 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "KER"
         ], 
@@ -1961,7 +1953,7 @@
         "alias_CHI_Q": [
           "\u51ef\u91cc"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 725, 
         "alias_JPN_Q": [
           "\u30b1\u30ea\u30fc"
         ], 
@@ -1975,9 +1967,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T12:07:35Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 725, 
+        "ne:VertexCou": 476.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "KY", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Ciarra\u00ed", 
@@ -1993,10 +1985,13 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 4797.9, 
         "woe:id": "2345256", 
-        "name": "Kerry", 
-        "ne:VertexCou": 476.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IE.KY", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345252, 
+          2345261
+        ], 
+        "name": "Kerry", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae Chiarrai"
@@ -2005,10 +2000,14 @@
         "alias_UNK_Q": [
           "Chiarra\u00ed"
         ], 
-        "ne_longitude": -9.118171759419113, 
+        "alias_UNK_V": [
+          "Contae Chiarra\u00ed"
+        ], 
         "longitude": -9.514, 
+        "ne_longitude": -9.118171759419113, 
         "iso": "IE", 
         "sw_latitude": 51.686561184451136, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Kerry, Ireland", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Ireland", 

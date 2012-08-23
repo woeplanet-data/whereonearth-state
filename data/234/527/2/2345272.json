@@ -967,28 +967,17 @@
           "Contae na hIarmhi"
         ], 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "2345272", 
-        "adjacent_woeid": [
-          2345250, 
-          2345262, 
-          2345265, 
-          2345267, 
-          2345268
-        ], 
         "ne_latitude": 53.79537303353874, 
         "ne:Shape_Area": 0.252295356274, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
-        "alias_UNK_V": [
-          "Contae na hIarmh\u00ed"
-        ], 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "WEM"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 717, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -7.962996791968351, 
@@ -999,9 +988,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 53.324652411679494, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 717, 
+        "ne:VertexCou": 236.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "WH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "An Iarmh\u00ed", 
@@ -1017,10 +1006,16 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 1862.1, 
         "woe:id": "2345272", 
-        "name": "Westmeath", 
-        "ne:VertexCou": 236.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IE.WH", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345250, 
+          2345262, 
+          2345265, 
+          2345267, 
+          2345268
+        ], 
+        "name": "Westmeath", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae na hIarmhi"
@@ -1029,10 +1024,14 @@
         "alias_UNK_Q": [
           "An Iarmh\u00ed"
         ], 
-        "ne_longitude": -6.947606573484506, 
+        "alias_UNK_V": [
+          "Contae na hIarmh\u00ed"
+        ], 
         "longitude": -7.466, 
+        "ne_longitude": -6.947606573484506, 
         "iso": "IE", 
         "date_indexed": "2010-12-02T12:07:35Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Westmeath, Ireland", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Ireland", 

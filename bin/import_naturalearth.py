@@ -92,8 +92,12 @@ if __name__ == '__main__':
 
             features['properties'][k] = v
 
-        if features['properties'].has_key('woeid'):
-            del(features['properties']['woeid'])
+        to_delete = ('woeid', 'ne:woe:id')
+        
+        for k in to_delete:
+        
+            if features['properties'].has_key(k):
+                del(features['properties'][k])
 
         features['properties']['woe:id'] = woeid  
 

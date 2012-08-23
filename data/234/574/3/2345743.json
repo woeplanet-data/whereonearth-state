@@ -7515,20 +7515,11 @@
         "alias_KOR_Q": [
           "\uad6c\uc790\ub77c\ud2b8"
         ], 
-        "ne:woe:id": "2345743", 
-        "adjacent_woeid": [
-          2345749, 
-          2345750, 
-          2345757, 
-          2346499, 
-          20070457, 
-          20070460
-        ], 
         "ne_latitude": 24.708362941596533, 
         "ne:Shape_Area": 16.2139822992, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "GUJ"
         ], 
@@ -7538,7 +7529,7 @@
         "alias_CHI_Q": [
           "\u6208\u52a0\u745e"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3264, 
         "alias_JPN_Q": [
           "\u30b0\u30b8\u30e3\u30e9\u30fc\u30c8"
         ], 
@@ -7552,9 +7543,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": null, 
         "sw_latitude": 20.072676906813854, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3264, 
+        "ne:VertexCou": 1842.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -7570,16 +7561,24 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 184439.9, 
         "woe:id": "2345743", 
-        "name": "Gujarat", 
-        "ne:VertexCou": 1842.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345749, 
+          2345750, 
+          2345757, 
+          2346499, 
+          20070457, 
+          20070460
+        ], 
+        "name": "Gujarat", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424848, 
         "ne_longitude": 74.45905236227674, 
         "longitude": 71.305, 
         "iso": "IN", 
         "date_indexed": "2010-12-02T08:59:14Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Gujarat, India", 
         "ne:Region": null, 
         "ne:NEV_Countr": "India", 

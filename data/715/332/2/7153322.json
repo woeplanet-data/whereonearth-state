@@ -2447,22 +2447,11 @@
         "alias_SWE_Q": [
           "Lothringen"
         ], 
-        "ne:woe:id": "7153322", 
-        "adjacent_woeid": [
-          2345488, 
-          2345489, 
-          7153302, 
-          7153315, 
-          7153317, 
-          7153330, 
-          20070559, 
-          20070560
-        ], 
         "ne_latitude": 49.60893606214961, 
         "ne:Shape_Area": 2.88005051654, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_POR_Q": [
           "Lorena"
         ], 
@@ -2475,18 +2464,18 @@
         "alias_CHI_Q": [
           "\u6d1b\u6797"
         ], 
-        "alias_SPA_Q": [
-          "Lorena"
-        ], 
+        "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_Q": [
           "Lorena"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2687, 
         "alias_JPN_Q": [
           "\u30ed\u30ec\u30fc\u30cc"
         ], 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Unknown", 
+        "alias_SPA_Q": [
+          "Lorena"
+        ], 
         "alias_FIN_Q": [
           "Lothringen"
         ], 
@@ -2498,9 +2487,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2687, 
+        "ne:VertexCou": 579.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lorena", 
@@ -2521,10 +2510,19 @@
           "Lothringen"
         ], 
         "woe:id": "7153322", 
-        "name": "Lorraine", 
-        "ne:VertexCou": 579.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          2345488, 
+          2345489, 
+          7153302, 
+          7153315, 
+          7153317, 
+          7153330, 
+          20070559, 
+          20070560
+        ], 
+        "name": "Lorraine", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424819, 
@@ -2532,6 +2530,7 @@
         "longitude": 6.264, 
         "iso": "FR", 
         "sw_latitude": 47.81899363834577, 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Lorraine Region"
         ], 

@@ -2833,48 +2833,39 @@
       "properties": {
         "ne:ProvNumber": 21, 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "7153334", 
-        "adjacent_woeid": [
-          7153337, 
-          7153338, 
-          7153339, 
-          7153341, 
-          7153345, 
-          7153349
-        ], 
         "ne_latitude": 45.138485419366646, 
-        "ne:DataRank": 3, 
         "ne:Shape_Area": 2.51246296882, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1895", 
+        "ne:MAP_COLOR": 7, 
         "alias_POR_Q": [
           "Em\u00edlia Romana"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
-        "alias_SPA_Q": [
-          "Emilia Romana"
-        ], 
+        "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_V": [
           "Emiliaromagna"
         ], 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Unknown", 
+        "alias_SPA_Q": [
+          "Emilia Romana"
+        ], 
         "alias_ITA_A": [
           "ER"
         ], 
         "sw_longitude": 9.201433546920725, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 44.44, 
+        "iso": "IT", 
         "ne:FIPS_1": "IT05", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 813, 
+        "ne:VertexCou": 704.0, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Emilia Romagna|Emilia|Emilia-Roma\u00f1a|\u00c9milie-Romagne", 
@@ -2890,16 +2881,24 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 22189.1, 
         "woe:id": "7153334", 
-        "name": "Emilia Romagna", 
-        "ne:VertexCou": 704.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "ITA", 
+        "adjacent_woeid": [
+          7153337, 
+          7153338, 
+          7153339, 
+          7153341, 
+          7153345, 
+          7153349
+        ], 
+        "name": "Emilia Romagna", 
         "ne:REMARKS_1": "ITD", 
         "parent_woeid": 23424853, 
         "ne_longitude": 12.753878208312699, 
         "longitude": 10.977, 
-        "iso": "IT", 
+        "ne:OBJECTID": 813, 
         "sw_latitude": 43.754177151154636, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Emilia Romagna, Italy", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 

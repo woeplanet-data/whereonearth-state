@@ -1308,22 +1308,14 @@
         "alias_SWE_Q": [
           "Hiroshima Prefektur"
         ], 
-        "ne:woe:id": "2345861", 
         "alias_ENG_P": [
           "Hiroshima Prefecture"
-        ], 
-        "adjacent_woeid": [
-          2345855, 
-          2345880, 
-          2345885, 
-          2345890, 
-          2345894
         ], 
         "ne_latitude": 35.08054637281691, 
         "ne:Shape_Area": 0.822065690323, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "alias_KOR_Q": [
           "\ud788\ub85c\uc2dc\ub9c8\ucf04"
         ], 
@@ -1333,7 +1325,7 @@
         "alias_CHI_Q": [
           "\u5e83\u5cf6\u53bf"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1821, 
         "alias_JPN_V": [
           "\u5e83\u5cf6"
         ], 
@@ -1352,9 +1344,9 @@
         "ne:FIRST_HASC": "JP.CH", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1821, 
+        "ne:VertexCou": 311.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "HS", 
         "ne:Region_Cod": "JPN-CGK", 
         "ne:VARNAME_1": "Hirosima", 
@@ -1373,17 +1365,24 @@
           "Pr\u00e4fektur Hiroshima"
         ], 
         "woe:id": "2345861", 
-        "name": "\u5e83\u5cf6\u770c", 
-        "ne:VertexCou": 311.0, 
-        "ne:NL_NAME_1": "???", 
-        "ne:FIRST_FIPS": "JA04", 
         "ne:HASC_1": "JP.HS", 
+        "lang": "JPN", 
+        "adjacent_woeid": [
+          2345855, 
+          2345880, 
+          2345885, 
+          2345890, 
+          2345894
+        ], 
+        "ne:FIRST_FIPS": "JA04", 
+        "name": "\u5e83\u5cf6\u770c", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424856, 
         "ne_longitude": 133.44914676331257, 
         "longitude": 132.747, 
         "iso": "JP", 
         "sw_latitude": 34.07146067976663, 
+        "ne:NL_NAME_1": "???", 
         "fullname": "\u5e83\u5cf6\u770c, Hiroshima Prefecture, Japan", 
         "ne:Region": "Chugoku", 
         "ne:NEV_Countr": "Japan", 

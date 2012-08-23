@@ -1959,18 +1959,11 @@
         "alias_SWE_Q": [
           "Apulien"
         ], 
-        "ne:woe:id": "7153342", 
-        "adjacent_woeid": [
-          7153331, 
-          7153333, 
-          7153340
-        ], 
         "ne_latitude": 41.94426178655226, 
-        "ne:DataRank": 3, 
         "ne:Shape_Area": 2.08210641316, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1895", 
+        "ne:MAP_COLOR": 7, 
         "alias_POR_Q": [
           "Ap\u00falia"
         ], 
@@ -1980,12 +1973,11 @@
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
         "ne:ScaleRank": 3, 
-        "alias_DAN_Q": [
-          "Apulien"
-        ], 
+        "ne:Area_sqkm": 19457.4, 
         "alias_ITA_V": [
           "Puglia Regione"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -1994,14 +1986,15 @@
         "sw_longitude": 14.931936476287376, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.87, 
+        "iso": "IT", 
         "ne:FIPS_1": "IT13", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 822, 
+        "ne:VertexCou": 485.0, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Apulien|Pouilles|Pouille|Puglia|Puglie", 
@@ -2019,31 +2012,37 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 19457.4, 
+        "alias_DAN_Q": [
+          "Apulien"
+        ], 
         "alias_GER_Q": [
           "Apulien"
         ], 
         "woe:id": "7153342", 
-        "name": "Puglia", 
-        "ne:VertexCou": 485.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "ITA", 
+        "adjacent_woeid": [
+          7153331, 
+          7153333, 
+          7153340
+        ], 
+        "name": "Puglia", 
         "ne:REMARKS_1": "ITF", 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424853, 
         "ne_longitude": 18.51760908359239, 
         "longitude": 16.727, 
         "ne:NAME_1": "Apulia", 
-        "iso": "IT", 
+        "ne:OBJECTID": 822, 
         "sw_latitude": 39.79674428931753, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Puglia, Italy", 
-        "alias_FRE_Q": [
-          "Les Pouilles"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Les Pouilles"
+        ]
       }, 
       "id": 7153342
     }

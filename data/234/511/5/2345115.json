@@ -965,17 +965,11 @@
         "alias_SWE_Q": [
           "Havanna"
         ], 
-        "ne:woe:id": "2345115", 
-        "adjacent_woeid": [
-          2345106, 
-          2345107, 
-          2345108
-        ], 
         "ne_latitude": 23.200548000589833, 
         "ne:Shape_Area": 0.506619503505, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19760605", 
+        "ne:MAP_COLOR": 4, 
         "alias_KOR_Q": [
           "\uc544\ubc14\ub098"
         ], 
@@ -985,7 +979,7 @@
         "alias_SPA_A": [
           "LH"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 1429, 
         "alias_JPN_Q": [
           "\u30e9\u30fb\u30cf\u30d0\u30ca"
         ], 
@@ -1010,8 +1004,8 @@
         "alias_CHI_Q": [
           "\u54c8\u74e6\u90a3"
         ], 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1429, 
+        "ne:VALIDFR_1": "19760605", 
+        "ne:DataRank": 6, 
         "ne:Postal": "LH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1030,10 +1024,14 @@
           "Havanna"
         ], 
         "woe:id": "2345115", 
-        "name": "La Habana", 
-        "lang": "SPA", 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "CU.LH", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2345106, 
+          2345107, 
+          2345108
+        ], 
+        "name": "La Habana", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424793, 
         "provider": "geoplanet 7.6.0", 
@@ -1042,6 +1040,7 @@
         "ne_longitude": -81.59617672437628, 
         "iso": "CU", 
         "sw_latitude": 22.559346828493403, 
+        "ne:NL_NAME_1": null, 
         "fullname": "La Habana, Cuba", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Cuba", 

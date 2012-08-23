@@ -341,27 +341,17 @@
       "properties": {
         "ne:ProvNumber": 2006, 
         "ne:ScaleRank": 10, 
-        "ne:woe:id": "24550746", 
         "alias_ENG_P": [
           "Debarca Municipality"
-        ], 
-        "adjacent_woeid": [
-          24550759, 
-          24550764, 
-          24550834, 
-          24550846
         ], 
         "ne_latitude": 41.42868602164265, 
         "ne:Shape_Area": 0.0445127664896, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
-        "alias_UNK_V": [
-          "Opstina Debarca"
-        ], 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "MKD", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 2899, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 20.687347446327635, 
@@ -372,9 +362,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Statistical Region", 
         "sw_latitude": 41.17092397715987, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 2899, 
+        "ne:VertexCou": 81.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -390,16 +380,25 @@
         "ne:LabelRank": 10, 
         "ne:Area_sqkm": 413.9, 
         "woe:id": "24550746", 
-        "name": "Debarca", 
-        "ne:VertexCou": 81.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          24550759, 
+          24550764, 
+          24550834, 
+          24550846
+        ], 
+        "name": "Debarca", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424890, 
-        "ne_longitude": 21.031512485013195, 
+        "alias_UNK_V": [
+          "Opstina Debarca"
+        ], 
         "longitude": 20.826, 
+        "ne_longitude": 21.031512485013195, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Debarca, Debarca Municipality, Macedonia", 
         "ne:Region": "Southwestern", 
         "ne:NEV_Countr": "Macedonia", 

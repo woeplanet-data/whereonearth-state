@@ -12187,17 +12187,11 @@
         "alias_SWE_Q": [
           "Norra territoriet"
         ], 
-        "ne:woe:id": "2344701", 
-        "adjacent_woeid": [
-          2344702, 
-          2344703, 
-          2344706
-        ], 
         "ne_latitude": -10.968219089739137, 
         "ne:Shape_Area": 116.266974204, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19110101", 
+        "ne:MAP_COLOR": 7, 
         "alias_KOR_Q": [
           "\ub178\ub358\ud14c\ub9ac\ud1a0\ub9ac"
         ], 
@@ -12207,7 +12201,7 @@
         "alias_CHI_Q": [
           "\u5317\u90e8\u9886\u5730"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2650, 
         "alias_JPN_Q": [
           "\u30ce\u30fc\u30b6\u30f3\u30fb\u30c6\u30ea\u30c8\u30ea\u30fc"
         ], 
@@ -12226,12 +12220,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Territory", 
         "date_indexed": "2010-12-02T17:43:32Z", 
-        "lang": "ENG", 
+        "ne:VertexCou": 2982.0, 
         "alias_ENG_A": [
           "NT"
         ], 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 2650, 
+        "ne:VALIDFR_1": "19110101", 
+        "ne:DataRank": 3, 
         "ne:Postal": "NT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -12247,17 +12241,22 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 1348630.2, 
         "woe:id": "2344701", 
-        "name": "Northern Territory", 
-        "ne:VertexCou": 2982.0, 
-        "ne:NL_NAME_1": null, 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": "AU.NT", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344702, 
+          2344703, 
+          2344706
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "Northern Territory", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424748, 
         "ne_longitude": 138.0001868021792, 
         "longitude": 133.501, 
         "iso": "AU", 
         "sw_latitude": -25.99991139079799, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Northern Territory, Australia", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Australia", 

@@ -2374,18 +2374,11 @@
         "alias_KOR_Q": [
           "\uc704\uc2a4\ucf58\uc2e0"
         ], 
-        "ne:woe:id": "2347608", 
-        "adjacent_woeid": [
-          2347572, 
-          2347574, 
-          2347581, 
-          2347582
-        ], 
         "ne_latitude": 47.30806072871968, 
         "ne:Shape_Area": 19.213652671, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18380704", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "Wis"
         ], 
@@ -2395,7 +2388,7 @@
         "alias_CHI_Q": [
           "\u5a01\u65af\u5eb7\u661f"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3553, 
         "alias_JPN_Q": [
           "\u30a6\u30a3\u30b9\u30b3\u30f3\u30b7\u30f3"
         ], 
@@ -2409,9 +2402,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 42.491776548548955, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3553, 
+        "ne:VertexCou": 588.0, 
+        "ne:VALIDFR_1": "18380704", 
+        "ne:DataRank": 1, 
         "ne:Postal": "WI", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "WI|Wis.", 
@@ -2427,16 +2420,22 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 169349.3, 
         "woe:id": "2347608", 
-        "name": "Wisconsin", 
-        "ne:VertexCou": 588.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.WI", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347572, 
+          2347574, 
+          2347581, 
+          2347582
+        ], 
+        "name": "Wisconsin", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -86.26447147867577, 
         "longitude": -90.101, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Wisconsin, United States", 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 

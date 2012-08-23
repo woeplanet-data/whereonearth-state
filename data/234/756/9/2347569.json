@@ -3040,12 +3040,11 @@
         "alias_KOR_Q": [
           "\uc870\uc9c0\uc544"
         ], 
-        "ne:woe:id": "2347569", 
         "ne_latitude": 35.00044354143637, 
         "ne:Shape_Area": 14.643609474, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1804", 
+        "ne:MAP_COLOR": 1, 
         "alias_POR_Q": [
           "Ge\u00f3rgia"
         ], 
@@ -3058,10 +3057,11 @@
         "alias_CHI_Q": [
           "\u4f50\u6cbb\u4e9a"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3543, 
         "alias_JPN_Q": [
           "\u30b8\u30e7\u30fc\u30b8\u30a2"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": "Ga.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -85.60568241551101, 
@@ -3072,9 +3072,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 30.362699400057295, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3543, 
+        "ne:VertexCou": 755.0, 
+        "ne:VALIDFR_1": "1804", 
+        "ne:DataRank": 1, 
         "ne:Postal": "GA", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "GA|Ga.", 
@@ -3092,8 +3092,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 152651.9, 
         "woe:id": "2347569", 
-        "name": "Georgia", 
-        "ne:VertexCou": 755.0, 
+        "ne:HASC_1": "US.GA", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347559, 
           2347568, 
@@ -3101,7 +3101,7 @@
           2347599, 
           2347601
         ], 
-        "ne:HASC_1": "US.GA", 
+        "name": "Georgia", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424977, 
@@ -3111,13 +3111,12 @@
         "date_indexed": "2010-12-02T18:21:30Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Georgia, United States", 
-        "alias_FRE_Q": [
-          "G\u00e9orgie"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "G\u00e9orgie"
+        ]
       }, 
       "id": 2347569
     }

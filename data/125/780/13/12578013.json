@@ -4061,27 +4061,20 @@
       "properties": {
         "ne:ProvNumber": 35, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "12578013", 
         "alias_ENG_P": [
           "Shanxi"
-        ], 
-        "adjacent_woeid": [
-          12577999, 
-          12578000, 
-          12578009, 
-          12578015
         ], 
         "ne_latitude": 40.74257802965241, 
         "ne:Shape_Area": 15.925610237, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\uc0b0\uc2dc"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 1805, 
         "alias_CHI_V": [
           "\u5c71\u897f"
         ], 
@@ -4101,9 +4094,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 34.58367747683417, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1805, 
+        "ne:VertexCou": 1011.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "SX", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Shanxi", 
@@ -4119,16 +4112,22 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 156093.5, 
         "woe:id": "12578013", 
-        "name": "\u5c71\u897f\u7701", 
-        "ne:VertexCou": 1011.0, 
-        "ne:NL_NAME_1": "??", 
         "ne:HASC_1": "CN.SX", 
+        "lang": "CHI", 
+        "adjacent_woeid": [
+          12577999, 
+          12578000, 
+          12578009, 
+          12578015
+        ], 
+        "name": "\u5c71\u897f\u7701", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424781, 
         "ne_longitude": 114.54094689328451, 
         "longitude": 112.392, 
         "iso": "CN", 
         "date_indexed": "2010-12-02T08:51:01Z", 
+        "ne:NL_NAME_1": "??", 
         "fullname": "\u5c71\u897f\u7701, Shanxi, China", 
         "ne:Region": null, 
         "ne:NEV_Countr": "China", 

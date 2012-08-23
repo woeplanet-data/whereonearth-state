@@ -838,17 +838,11 @@
         "alias_KOR_Q": [
           "\ucf54\ub124\ud2f0\ucef7"
         ], 
-        "ne:woe:id": "2347565", 
-        "adjacent_woeid": [
-          2347580, 
-          2347591, 
-          2347598
-        ], 
         "ne_latitude": 42.05454510317401, 
         "ne:Shape_Area": 1.36706991196, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "17760704", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "CT"
         ], 
@@ -858,7 +852,7 @@
         "alias_CHI_Q": [
           "\u5eb7\u6d85\u72c4\u683c"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3537, 
         "alias_JPN_Q": [
           "\u30b3\u30cd\u30c1\u30ab\u30c3\u30c8"
         ], 
@@ -872,9 +866,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 41.01089275949329, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3537, 
+        "ne:VertexCou": 206.0, 
+        "ne:VALIDFR_1": "17760704", 
+        "ne:DataRank": 1, 
         "ne:Postal": "CT", 
         "ne:Region_Cod": "Northeast", 
         "ne:VARNAME_1": "CT|Conn.", 
@@ -890,16 +884,21 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 12652.9, 
         "woe:id": "2347565", 
-        "name": "Connecticut", 
-        "ne:VertexCou": 206.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.CT", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347580, 
+          2347591, 
+          2347598
+        ], 
+        "name": "Connecticut", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -71.7957458922591, 
         "longitude": -72.758, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Connecticut, United States", 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 

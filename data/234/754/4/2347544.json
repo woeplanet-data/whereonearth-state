@@ -4790,25 +4790,17 @@
           "Crimean Peninsula"
         ], 
         "ne:ScaleRank": 5, 
-        "ne:woe:id": "2347544", 
         "alias_ENG_P": [
           "Crimea"
-        ], 
-        "adjacent_woeid": [
-          2347541, 
-          20070189
         ], 
         "ne_latitude": 47.58285818106026, 
         "ne:Shape_Area": 6.18537018755, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "~1922", 
-        "alias_UNK_V": [
-          "Qirim Muhtar Cumhuriyeti"
-        ], 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "UKR", 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 283, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 31.50467166516529, 
@@ -4819,9 +4811,9 @@
         "ne:FIRST_HASC": "UA.MY|UKR-KRN", 
         "ne:ENGTYPE_1": "Autonomous Republic", 
         "sw_latitude": 44.38111562778403, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 283, 
+        "ne:VertexCou": 1196.0, 
+        "ne:VALIDFR_1": "~1922", 
+        "ne:DataRank": 5, 
         "ne:Postal": "KR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Crim\u00e9e|Crim\u00e9ia|Krim|Krymskaya Respublika|Respublika Krym", 
@@ -4837,16 +4829,23 @@
         "ne:LabelRank": 5, 
         "ne:Area_sqkm": 53268.3, 
         "woe:id": "2347544", 
-        "name": "Avtonomna Respublika Krym", 
-        "ne:VertexCou": 1196.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "UA.KR", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          2347541, 
+          20070189
+        ], 
+        "name": "Avtonomna Respublika Krym", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424976, 
-        "ne_longitude": 36.6385185080228, 
+        "alias_UNK_V": [
+          "Qirim Muhtar Cumhuriyeti"
+        ], 
         "longitude": 34.565, 
+        "ne_longitude": 36.6385185080228, 
         "iso": "UA", 
         "date_indexed": "2010-12-02T08:52:18Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Avtonomna Respublika Krym, Crimea, Ukraine", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Ukraine", 

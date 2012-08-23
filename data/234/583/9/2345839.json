@@ -237,19 +237,11 @@
       "properties": {
         "ne:ProvNumber": 2000, 
         "ne:ScaleRank": 5, 
-        "ne:woe:id": "2345839", 
-        "adjacent_woeid": [
-          2345833, 
-          2345838, 
-          2345842, 
-          2345848, 
-          2345850
-        ], 
         "ne_latitude": 33.43250743237218, 
         "ne:Shape_Area": 0.0637193781899, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19760201", 
+        "ne:MAP_COLOR": 1, 
         "alias_KOR_Q": [
           "\ubc14\uadf8\ub2e4\ub4dc"
         ], 
@@ -258,7 +250,7 @@
         "alias_CHI_Q": [
           "\u5df4\u683c\u8fbe"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 3063, 
         "alias_JPN_Q": [
           "\u30d0\u30b0\u30c0\u30fc\u30c9"
         ], 
@@ -272,9 +264,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 33.17601146066045, 
-        "lang": "ARA", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3063, 
+        "ne:VertexCou": 54.0, 
+        "ne:VALIDFR_1": "19760201", 
+        "ne:DataRank": 5, 
         "ne:Postal": "BG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Bagd\u00a0|Bagdad", 
@@ -293,16 +285,23 @@
           "Bagdad"
         ], 
         "woe:id": "2345839", 
-        "name": "Baghdad", 
-        "ne:VertexCou": 54.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IQ.BG", 
+        "lang": "ARA", 
+        "adjacent_woeid": [
+          2345833, 
+          2345838, 
+          2345842, 
+          2345848, 
+          2345850
+        ], 
+        "name": "Baghdad", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424855, 
         "ne_longitude": 44.543255649528646, 
         "longitude": 44.424, 
         "iso": "IQ", 
         "date_indexed": "2010-12-02T16:42:51Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Baghdad, Iraq", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Iraq", 

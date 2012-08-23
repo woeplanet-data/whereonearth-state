@@ -9387,21 +9387,11 @@
         "alias_KOR_Q": [
           "\ub9c8\ud558\ub77c\uc288\ud2b8\ub77c"
         ], 
-        "ne:woe:id": "2345750", 
-        "adjacent_woeid": [
-          2345740, 
-          2345743, 
-          2345749, 
-          2345753, 
-          2345764, 
-          20070457, 
-          20070464
-        ], 
         "ne_latitude": 22.023048813951675, 
         "ne:Shape_Area": 26.3558495648, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "MAH"
         ], 
@@ -9411,7 +9401,7 @@
         "alias_CHI_Q": [
           "\u9a6c\u54c8\u62c9\u65bd\u7279\u62c9\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 2447, 
         "alias_JPN_Q": [
           "\u30de\u30cf\u30e9\u30b7\u30e5\u30c8\u30e9"
         ], 
@@ -9425,9 +9415,9 @@
         "ne:FIRST_HASC": "IN.MP|IND-MHR", 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 15.613517564384154, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 2447, 
+        "ne:VertexCou": 2342.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "MH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -9443,16 +9433,25 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 306250.6, 
         "woe:id": "2345750", 
-        "name": "Maharashtra", 
-        "ne:VertexCou": 2342.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IN.MH", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345740, 
+          2345743, 
+          2345749, 
+          2345753, 
+          2345764, 
+          20070457, 
+          20070464
+        ], 
+        "name": "Maharashtra", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424848, 
         "ne_longitude": 80.89700564999083, 
         "longitude": 76.766, 
         "iso": "IN", 
         "date_indexed": "2010-12-02T08:59:14Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Maharashtra, India", 
         "ne:Region": null, 
         "ne:NEV_Countr": "India", 

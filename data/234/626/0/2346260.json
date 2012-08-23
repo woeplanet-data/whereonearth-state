@@ -349,28 +349,22 @@
       "properties": {
         "ne:ProvNumber": 2000, 
         "ne:ScaleRank": 7, 
-        "ne:woe:id": "2346260", 
-        "adjacent_woeid": [
-          2346256, 
-          2346261, 
-          7038775
-        ], 
         "ne_latitude": 23.7141083847942, 
         "ne:Shape_Area": 0.407726770654, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 6, 
         "ne:gadm_level": 1.0, 
         "alias_ARA_V": [
           "Matrah"
         ], 
         "ne:ADM0_A3": "OMN", 
+        "ne:VALIDTO_1": "Present", 
+        "ne:OBJECTID": 2426, 
+        "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Mascat"
         ], 
-        "ne:DataRank": 8, 
-        "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
         "sw_longitude": 58.092816196610215, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 23.252, 
@@ -379,9 +373,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 22.79385447870129, 
-        "lang": "ARA", 
-        "ne:MAP_COLOR": 6, 
-        "ne:OBJECTID": 2426, 
+        "ne:VertexCou": 83.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "MA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Masqat", 
@@ -400,10 +394,14 @@
           "Maskat"
         ], 
         "woe:id": "2346260", 
-        "name": "Masqat", 
-        "ne:VertexCou": 83.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "OM.MA", 
+        "lang": "ARA", 
+        "adjacent_woeid": [
+          2346256, 
+          2346261, 
+          7038775
+        ], 
+        "name": "Masqat", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424898, 
         "alias_UNK_Q": [
@@ -413,6 +411,7 @@
         "longitude": 58.664, 
         "iso": "OM", 
         "date_indexed": "2010-12-02T09:35:38Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Masqat, Oman", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Oman", 

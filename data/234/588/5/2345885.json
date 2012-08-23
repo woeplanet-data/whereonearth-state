@@ -1450,23 +1450,17 @@
           "Shimane"
         ], 
         "ne:ScaleRank": 6, 
-        "ne:woe:id": "2345885", 
         "alias_ENG_P": [
           "Shimane Prefecture"
-        ], 
-        "adjacent_woeid": [
-          2345861, 
-          2345890, 
-          2345894
         ], 
         "ne_latitude": 36.342562364161836, 
         "ne:Shape_Area": 0.663618366818, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1824, 
         "alias_JPN_V": [
           "\u5cf6\u6839"
         ], 
@@ -1480,9 +1474,9 @@
         "ne:FIRST_HASC": "JP.FI", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 34.29963796611929, 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1824, 
+        "ne:VertexCou": 349.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "SM", 
         "ne:Region_Cod": "JPN-CGK", 
         "ne:VARNAME_1": "Simane", 
@@ -1498,16 +1492,21 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 6715.5, 
         "woe:id": "2345885", 
-        "name": "\u5cf6\u6839\u770c", 
-        "ne:VertexCou": 349.0, 
-        "ne:NL_NAME_1": "???", 
         "ne:HASC_1": "JP.SM", 
+        "lang": "JPN", 
+        "adjacent_woeid": [
+          2345861, 
+          2345890, 
+          2345894
+        ], 
+        "name": "\u5cf6\u6839\u770c", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424856, 
         "ne_longitude": 133.3821741066498, 
         "longitude": 132.497, 
         "iso": "JP", 
         "date_indexed": "2010-12-02T07:50:42Z", 
+        "ne:NL_NAME_1": "???", 
         "fullname": "\u5cf6\u6839\u770c, Shimane Prefecture, Japan", 
         "ne:Region": "Chugoku", 
         "ne:NEV_Countr": "Japan", 

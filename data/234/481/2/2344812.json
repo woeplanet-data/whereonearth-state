@@ -2501,17 +2501,11 @@
         "alias_SWE_Q": [
           "Irawaddy"
         ], 
-        "ne:woe:id": "2344812", 
-        "adjacent_woeid": [
-          2344810, 
-          2344818, 
-          2344823
-        ], 
         "ne_latitude": 18.47127594612806, 
         "ne:Shape_Area": 2.82701096526, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1900", 
+        "ne:MAP_COLOR": 13, 
         "alias_KOR_Q": [
           "\uc5d0\uc57c\uc6cc\ub514"
         ], 
@@ -2521,7 +2515,7 @@
         "alias_CHI_Q": [
           "\u4f0a\u6d1b\u74e6\u5e95"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 3275, 
         "alias_JPN_Q": [
           "\u30a8\u30fc\u30e4\u30ef\u30c7\u30a3\u30fc\u5ddd"
         ], 
@@ -2537,9 +2531,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Division", 
         "sw_latitude": 14.064671535263187, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 13, 
-        "ne:OBJECTID": 3275, 
+        "ne:VertexCou": 543.0, 
+        "ne:VALIDFR_1": "1900", 
+        "ne:DataRank": 5, 
         "ne:Postal": "AY", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Irrawaddy|Ayeyarwaddy|Ayeyawady|Irawadi|Irraouaddi|Irrauaddy", 
@@ -2558,17 +2552,22 @@
           "Irrawaddy"
         ], 
         "woe:id": "2344812", 
-        "name": "Ayeyarwady", 
-        "ne:VertexCou": 543.0, 
-        "ne:NL_NAME_1": null, 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": "MM.AY", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344810, 
+          2344818, 
+          2344823
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "Ayeyarwady", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424763, 
         "ne_longitude": 96.06755252492917, 
         "longitude": 95.063, 
         "iso": "MM", 
         "date_indexed": "2010-12-02T17:58:12Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Ayeyarwady, Myanmar", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Burma", 

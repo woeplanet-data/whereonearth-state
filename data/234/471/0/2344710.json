@@ -260,41 +260,29 @@
       "type": "Feature", 
       "properties": {
         "ne:ProvNumber": 1, 
+        "ne:ISO": "AUT", 
         "alias_SWE_Q": [
           "Nedre-\u00d6sterike"
         ], 
-        "ne:woe:id": "2344710", 
         "alias_SWE_S": [
           "Nedre-Oesterike"
         ], 
-        "adjacent_woeid": [
-          2344708, 
-          2344711, 
-          2344713, 
-          2344716, 
-          20070502, 
-          20070503, 
-          20070504, 
-          20070505
-        ], 
         "ne_latitude": 48.330125230694875, 
-        "alias_GER_A": [
-          "N\u00f6"
-        ], 
         "ne:Shape_Area": 0.0496135799596, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1954", 
+        "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "AUT", 
         "ne:ScaleRank": 6, 
         "alias_ITA_Q": [
           "Bassa Austria"
         ], 
-        "ne:DataRank": 7, 
+        "ne:OBJECTID": 2331, 
         "alias_ENG_P": [
           "Lower Austria"
         ], 
+        "ne:sameAsCity": 9, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
@@ -316,13 +304,15 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T16:33:25Z", 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 2331, 
+        "ne:VertexCou": 61.0, 
+        "ne:VALIDFR_1": "1954", 
+        "ne:DataRank": 7, 
         "ne:Postal": "WI", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Vienna|Viena", 
-        "ne:ISO": "AUT", 
+        "alias_GER_A": [
+          "N\u00f6"
+        ], 
         "ne:TYPE_1": "Bundesl\u00e4nd|L\u00e4nd", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 1.0235340941, 
@@ -339,11 +329,20 @@
         "alias_GER_S": [
           "NO"
         ], 
-        "name": "Nieder\u00f6sterreich", 
-        "ne:VertexCou": 61.0, 
-        "ne:NL_NAME_1": null, 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": "AT.WI", 
+        "lang": "GER", 
+        "adjacent_woeid": [
+          2344708, 
+          2344711, 
+          2344713, 
+          2344716, 
+          20070502, 
+          20070503, 
+          20070504, 
+          20070505
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "Nieder\u00f6sterreich", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424750, 
@@ -351,17 +350,17 @@
         "longitude": 15.761, 
         "iso": "AT", 
         "sw_latitude": 48.13525340462098, 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "La Basse-Autriche"
         ], 
         "fullname": "Nieder\u00f6sterreich, Lower Austria, Austria", 
-        "alias_FRE_Q": [
-          "Basse Autriche"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Austria", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": 9
+        "alias_FRE_Q": [
+          "Basse Autriche"
+        ]
       }, 
       "id": 2344710
     }

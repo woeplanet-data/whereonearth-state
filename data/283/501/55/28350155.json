@@ -1149,25 +1149,17 @@
       "properties": {
         "ne:ProvNumber": 24, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "28350155", 
         "alias_ENG_P": [
           "West Sulawesi"
-        ], 
-        "adjacent_woeid": [
-          2345729, 
-          2345730
         ], 
         "ne_latitude": -0.833695570094449, 
         "ne:Shape_Area": 1.35208124337, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "20041016", 
-        "alias_UNK_V": [
-          "Sulbar"
-        ], 
+        "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IDN", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 1237, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 118.75758873952873, 
@@ -1178,9 +1170,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -3.573890069271215, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 1237, 
+        "ne:VertexCou": 283.0, 
+        "ne:VALIDFR_1": "20041016", 
+        "ne:DataRank": 1, 
         "ne:Postal": "SR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Sulsel", 
@@ -1196,16 +1188,23 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 16626.9, 
         "woe:id": "28350155", 
-        "name": "Sulawesi Barat", 
-        "ne:VertexCou": 283.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "ID.SR", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          2345729, 
+          2345730
+        ], 
+        "name": "Sulawesi Barat", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424846, 
-        "ne_longitude": 119.87348961805151, 
+        "alias_UNK_V": [
+          "Sulbar"
+        ], 
         "longitude": 119.315, 
+        "ne_longitude": 119.87348961805151, 
         "iso": "ID", 
         "date_indexed": "2010-12-02T16:52:36Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Sulawesi Barat, West Sulawesi, Indonesia", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Indonesia", 

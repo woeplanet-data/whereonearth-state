@@ -4167,20 +4167,11 @@
         "alias_KOR_Q": [
           "\ud560\ub9ac\uc2a4\ucf54"
         ], 
-        "ne:woe:id": "2346277", 
-        "adjacent_woeid": [
-          2346264, 
-          2346271, 
-          2346274, 
-          2346279, 
-          2346281, 
-          2346295
-        ], 
         "ne_latitude": 22.771581936357336, 
         "ne:Shape_Area": 6.93238603301, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18241004", 
+        "ne:MAP_COLOR": 3, 
         "alias_ENG_A": [
           "JA"
         ], 
@@ -4190,7 +4181,7 @@
         "alias_CHI_Q": [
           "\u54c8\u5229\u65af\u79d1"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 2719, 
         "alias_JPN_Q": [
           "\u30cf\u30ea\u30b9\u30b3"
         ], 
@@ -4206,9 +4197,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 18.95383047159902, 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 2719, 
+        "ne:VertexCou": 1037.0, 
+        "ne:VALIDFR_1": "18241004", 
+        "ne:DataRank": 2, 
         "ne:Postal": "JA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -4224,10 +4215,17 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 79999.4, 
         "woe:id": "2346277", 
-        "name": "Jalisco", 
-        "ne:VertexCou": 1037.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "MX.JA", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2346264, 
+          2346271, 
+          2346274, 
+          2346279, 
+          2346281, 
+          2346295
+        ], 
+        "name": "Jalisco", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424900, 
         "provider": "geoplanet 7.6.0", 
@@ -4235,6 +4233,7 @@
         "ne_longitude": -101.52054195834467, 
         "iso": "MX", 
         "date_indexed": "2010-12-02T16:55:36Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Jalisco, Mexico", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Mexico", 

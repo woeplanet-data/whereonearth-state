@@ -546,21 +546,14 @@
         "alias_SWE_Q": [
           "Ibaraki Prefektur"
         ], 
-        "ne:woe:id": "2345863", 
         "alias_ENG_P": [
           "Ibaraki Prefecture"
-        ], 
-        "adjacent_woeid": [
-          2345854, 
-          2345858, 
-          2345883, 
-          2345887
         ], 
         "ne_latitude": 36.92673859281189, 
         "ne:Shape_Area": 0.635728749243, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "alias_KOR_Q": [
           "\uc774\ubc14\ub77c\ud0a4\ucf04"
         ], 
@@ -570,7 +563,7 @@
         "alias_CHI_Q": [
           "\u8328\u57ce\u53bf"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1856, 
         "alias_JPN_V": [
           "\u8328\u57ce"
         ], 
@@ -589,9 +582,9 @@
         "ne:FIRST_HASC": "JP.IW", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1856, 
+        "ne:VertexCou": 131.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "IB", 
         "ne:Region_Cod": "JPN-KNT", 
         "ne:VARNAME_1": null, 
@@ -610,17 +603,23 @@
           "Pr\u00e4fektur Ibaraki"
         ], 
         "woe:id": "2345863", 
-        "name": "\u8328\u57ce\u770c", 
-        "ne:VertexCou": 131.0, 
-        "ne:NL_NAME_1": "???", 
-        "ne:FIRST_FIPS": "JA16", 
         "ne:HASC_1": "JP.IB", 
+        "lang": "JPN", 
+        "adjacent_woeid": [
+          2345854, 
+          2345858, 
+          2345883, 
+          2345887
+        ], 
+        "ne:FIRST_FIPS": "JA16", 
+        "name": "\u8328\u57ce\u770c", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424856, 
         "ne_longitude": 140.85959883032183, 
         "longitude": 140.27, 
         "iso": "JP", 
         "sw_latitude": 35.73244456606392, 
+        "ne:NL_NAME_1": "???", 
         "fullname": "\u8328\u57ce\u770c, Ibaraki Prefecture, Japan", 
         "ne:Region": "Kanto", 
         "ne:NEV_Countr": "Japan", 

@@ -432,19 +432,11 @@
           "St. Andrew"
         ], 
         "ne:ScaleRank": 9, 
-        "ne:woe:id": "2345916", 
-        "adjacent_woeid": [
-          2345915, 
-          2345918, 
-          2345921, 
-          2345922, 
-          2345925
-        ], 
         "ne_latitude": 18.16692759872973, 
         "ne:Shape_Area": 0.0372240429083, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 10, 
         "alias_KOR_Q": [
           "\uc138\uc778\ud2b8\uc564\ub4dc\ub958"
         ], 
@@ -453,7 +445,7 @@
         "alias_CHI_Q": [
           "\u5723\u5b89\u5fb7\u9c81"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 1382, 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30fb\u30a2\u30f3\u30c9\u30ea\u30e5\u30fc\u30ba"
         ], 
@@ -467,9 +459,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Parish", 
         "sw_latitude": 17.92970693582646, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 10, 
-        "ne:OBJECTID": 1382, 
+        "ne:VertexCou": 103.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "SD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -485,16 +477,23 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 436.2, 
         "woe:id": "2345916", 
-        "name": "Saint Andrew", 
-        "ne:VertexCou": 103.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "JM.SD", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345915, 
+          2345918, 
+          2345921, 
+          2345922, 
+          2345925
+        ], 
+        "name": "Saint Andrew", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424858, 
         "ne_longitude": -76.61624813474356, 
         "longitude": -76.761, 
         "iso": "JM", 
         "date_indexed": "2010-12-02T08:58:58Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Saint Andrew, Jamaica", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Jamaica", 

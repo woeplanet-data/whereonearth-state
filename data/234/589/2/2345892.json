@@ -672,23 +672,17 @@
           "Wakayama"
         ], 
         "ne:ScaleRank": 6, 
-        "ne:woe:id": "2345892", 
         "alias_ENG_P": [
           "Wakayama Prefecture"
-        ], 
-        "adjacent_woeid": [
-          2345872, 
-          2345877, 
-          2345881
         ], 
         "ne_latitude": 34.371752427332694, 
         "ne:Shape_Area": 0.432959958059, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1854, 
         "alias_JPN_V": [
           "\u548c\u6b4c\u5c71"
         ], 
@@ -702,9 +696,9 @@
         "ne:FIRST_HASC": "JP.NN", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 33.433437608358986, 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1854, 
+        "ne:VertexCou": 163.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "WK", 
         "ne:Region_Cod": "JPN-KIN", 
         "ne:VARNAME_1": null, 
@@ -720,16 +714,21 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 4441.8, 
         "woe:id": "2345892", 
-        "name": "\u548c\u6b4c\u5c71\u770c", 
-        "ne:VertexCou": 163.0, 
-        "ne:NL_NAME_1": "????", 
         "ne:HASC_1": "JP.WK", 
+        "lang": "JPN", 
+        "adjacent_woeid": [
+          2345872, 
+          2345877, 
+          2345881
+        ], 
+        "name": "\u548c\u6b4c\u5c71\u770c", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424856, 
         "ne_longitude": 135.99395267157854, 
         "longitude": 135.534, 
         "iso": "JP", 
         "date_indexed": "2010-12-02T07:50:42Z", 
+        "ne:NL_NAME_1": "????", 
         "fullname": "\u548c\u6b4c\u5c71\u770c, Wakayama Prefecture, Japan", 
         "ne:Region": "Kinki", 
         "ne:NEV_Countr": "Japan", 

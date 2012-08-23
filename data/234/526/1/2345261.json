@@ -1272,27 +1272,17 @@
           "County Limerick"
         ], 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "2345261", 
-        "adjacent_woeid": [
-          2345251, 
-          2345252, 
-          2345256, 
-          2345270
-        ], 
         "ne_latitude": 52.7550747743814, 
         "ne:Shape_Area": 0.359549698369, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1898", 
-        "alias_UNK_V": [
-          "Contae Luimnigh"
-        ], 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "LIM"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 726, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -9.362601284421714, 
@@ -1303,9 +1293,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.27680939363864, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 726, 
+        "ne:VertexCou": 314.0, 
+        "ne:VALIDFR_1": "1898", 
+        "ne:DataRank": 8, 
         "ne:Postal": "LK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Luimneach", 
@@ -1321,19 +1311,28 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 2717.7, 
         "woe:id": "2345261", 
-        "name": "Limerick", 
-        "ne:VertexCou": 314.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IE.LK", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345251, 
+          2345252, 
+          2345256, 
+          2345270
+        ], 
+        "name": "Limerick", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Luimneach"
         ], 
-        "ne_longitude": -8.155233119712648, 
+        "alias_UNK_V": [
+          "Contae Luimnigh"
+        ], 
         "longitude": -8.766, 
+        "ne_longitude": -8.155233119712648, 
         "iso": "IE", 
         "date_indexed": "2010-12-02T12:07:35Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Limerick, Ireland", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Ireland", 

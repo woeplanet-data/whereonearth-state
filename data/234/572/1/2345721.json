@@ -1635,25 +1635,17 @@
       "properties": {
         "ne:ProvNumber": 16, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "2345721", 
         "alias_ENG_P": [
           "South Kalimantan"
-        ], 
-        "adjacent_woeid": [
-          2345722, 
-          2345723
         ], 
         "ne_latitude": -1.360743503409935, 
         "ne:Shape_Area": 3.14290127673, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1956", 
-        "alias_UNK_V": [
-          "Kalsel"
-        ], 
+        "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IDN", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 1234, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 114.31072838780494, 
@@ -1664,9 +1656,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -4.827715345686613, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 1234, 
+        "ne:VertexCou": 398.0, 
+        "ne:VALIDFR_1": "1956", 
+        "ne:DataRank": 1, 
         "ne:Postal": "KS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kalsel", 
@@ -1682,16 +1674,23 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 38633.4, 
         "woe:id": "2345721", 
-        "name": "Kalimantan Selatan", 
-        "ne:VertexCou": 398.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "ID.KS", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          2345722, 
+          2345723
+        ], 
+        "name": "Kalimantan Selatan", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424846, 
-        "ne_longitude": 116.5731225933331, 
+        "alias_UNK_V": [
+          "Kalsel"
+        ], 
         "longitude": 115.463, 
+        "ne_longitude": 116.5731225933331, 
         "iso": "ID", 
         "date_indexed": "2010-12-02T16:52:36Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Kalimantan Selatan, South Kalimantan, Indonesia", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Indonesia", 

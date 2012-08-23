@@ -902,19 +902,11 @@
         "alias_KOR_Q": [
           "\ub124\ubc14\ub2e4"
         ], 
-        "ne:woe:id": "2347587", 
-        "adjacent_woeid": [
-          2347561, 
-          2347563, 
-          2347571, 
-          2347596, 
-          2347603
-        ], 
         "ne_latitude": 42.00007732980498, 
         "ne:Shape_Area": 30.0134963358, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18670118", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "NV"
         ], 
@@ -924,7 +916,7 @@
         "alias_CHI_Q": [
           "\u5185\u534e\u8fbe"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3523, 
         "alias_JPN_Q": [
           "\u30cd\u30d0\u30c0"
         ], 
@@ -938,9 +930,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 35.00356854075562, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3523, 
+        "ne:VertexCou": 219.0, 
+        "ne:VALIDFR_1": "18670118", 
+        "ne:DataRank": 1, 
         "ne:Postal": "NV", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "NV|Nev.", 
@@ -956,16 +948,23 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 287088.9, 
         "woe:id": "2347587", 
-        "name": "Nevada", 
-        "ne:VertexCou": 219.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.NV", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347561, 
+          2347563, 
+          2347571, 
+          2347596, 
+          2347603
+        ], 
+        "name": "Nevada", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -114.04020390028973, 
         "longitude": -117.023, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Nevada, United States", 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 

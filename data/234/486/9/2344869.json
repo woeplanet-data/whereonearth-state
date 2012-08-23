@@ -1497,11 +1497,6 @@
       "properties": {
         "ne:ProvNumber": 15, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "2344869", 
-        "adjacent_woeid": [
-          2344845, 
-          2344848
-        ], 
         "ne_latitude": -9.526756686871579, 
         "ne:Shape_Area": 1.78507694062, 
         "placetype": "State", 
@@ -1509,13 +1504,13 @@
         "alias_POR_V": [
           "Estado Sergipe"
         ], 
-        "ne:VALIDFR_1": "1820", 
+        "ne:MAP_COLOR": 7, 
         "alias_ENG_A": [
           "SE"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BRA", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 629, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -38.24484351211834, 
@@ -1526,9 +1521,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -11.568905938558146, 
-        "lang": "POR", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 629, 
+        "ne:VertexCou": 370.0, 
+        "ne:VALIDFR_1": "1820", 
+        "ne:DataRank": 1, 
         "ne:Postal": "SE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1544,16 +1539,20 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 21608.2, 
         "woe:id": "2344869", 
-        "name": "Sergipe", 
-        "ne:VertexCou": 370.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "BR.SE", 
+        "lang": "POR", 
+        "adjacent_woeid": [
+          2344845, 
+          2344848
+        ], 
+        "name": "Sergipe", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424768, 
         "ne_longitude": -36.405498419916114, 
         "longitude": -37.323, 
         "iso": "BR", 
         "date_indexed": "2010-12-02T17:58:27Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Sergipe, Brazil", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Brazil", 

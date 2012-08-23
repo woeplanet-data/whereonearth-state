@@ -1017,26 +1017,17 @@
       "properties": {
         "ne:ProvNumber": 8, 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "2346380", 
         "alias_ENG_P": [
           "Overyssel"
-        ], 
-        "adjacent_woeid": [
-          2346384, 
-          2345486, 
-          2346373, 
-          2345487, 
-          2346375, 
-          2346374
         ], 
         "ne_latitude": 52.85341502588278, 
         "ne:Shape_Area": 0.441874568838, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19860101", 
+        "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 899, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 5.7851562842352, 
@@ -1050,8 +1041,8 @@
         "alias_DUT_A": [
           "OV"
         ], 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 899, 
+        "ne:VALIDFR_1": "19860101", 
+        "ne:DataRank": 8, 
         "ne:Postal": "OV", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1067,10 +1058,17 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 3343.1, 
         "woe:id": "2346380", 
-        "name": "Overijssel", 
-        "lang": "DUT", 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "NL.OV", 
+        "lang": "DUT", 
+        "adjacent_woeid": [
+          2346384, 
+          2345486, 
+          2346373, 
+          2345487, 
+          2346375, 
+          2346374
+        ], 
+        "name": "Overijssel", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424909, 
         "ne_longitude": 7.047818230726818, 
@@ -1081,6 +1079,7 @@
         ], 
         "iso": "NL", 
         "date_indexed": "2010-12-02T18:16:21Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Overijssel, Overyssel, Netherlands", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Netherlands", 

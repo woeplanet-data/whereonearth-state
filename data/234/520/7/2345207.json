@@ -625,20 +625,11 @@
       "properties": {
         "ne:ProvNumber": 18, 
         "ne:ScaleRank": 7, 
-        "ne:woe:id": "2345207", 
-        "adjacent_woeid": [
-          2345203, 
-          2345204, 
-          2345205, 
-          2345211, 
-          2345216, 
-          2345220
-        ], 
         "ne_latitude": -1.424357191331239, 
         "ne:Shape_Area": 0.467702577401, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 12, 
         "alias_KOR_Q": [
           "\uce68\ubcf4\ub77c\uc18c"
         ], 
@@ -647,7 +638,7 @@
         "alias_CHI_Q": [
           "\u94a6\u535a\u62c9\u7d22\u5c71"
         ], 
-        "ne:DataRank": 7, 
+        "ne:OBJECTID": 1284, 
         "alias_JPN_Q": [
           "\u30c1\u30f3\u30dc\u30e9\u30bd"
         ], 
@@ -661,9 +652,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -2.400369968099483, 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 12, 
-        "ne:OBJECTID": 1284, 
+        "ne:VertexCou": 152.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 7, 
         "ne:Postal": "CB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -679,16 +670,24 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 5753.7, 
         "woe:id": "2345207", 
-        "name": "Chimborazo", 
-        "ne:VertexCou": 152.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "EC.CB", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2345203, 
+          2345204, 
+          2345205, 
+          2345211, 
+          2345216, 
+          2345220
+        ], 
+        "name": "Chimborazo", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424801, 
         "ne_longitude": -78.35337724456417, 
         "longitude": -78.801, 
         "iso": "EC", 
         "date_indexed": "2010-12-02T17:51:25Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Chimborazo, Ecuador", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Ecuador", 

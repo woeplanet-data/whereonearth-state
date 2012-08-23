@@ -2143,22 +2143,11 @@
       "properties": {
         "ne:ProvNumber": 1, 
         "ne:ScaleRank": 7, 
-        "ne:woe:id": "2345211", 
-        "adjacent_woeid": [
-          2345203, 
-          2345204, 
-          2345205, 
-          2345207, 
-          2345209, 
-          2345214, 
-          2345215, 
-          56189815
-        ], 
         "ne_latitude": -0.837312920354918, 
         "ne:Shape_Area": 1.54588706024, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 12, 
         "alias_KOR_Q": [
           "\uacfc\uc57c\uc2a4"
         ], 
@@ -2167,7 +2156,7 @@
         "alias_CHI_Q": [
           "\u74dc\u4e9a\u65af"
         ], 
-        "ne:DataRank": 7, 
+        "ne:OBJECTID": 1280, 
         "alias_JPN_Q": [
           "\u30b0\u30a2\u30e4\u30b9\u5dde"
         ], 
@@ -2181,9 +2170,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -3.064670505739173, 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 12, 
-        "ne:OBJECTID": 1280, 
+        "ne:VertexCou": 529.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 7, 
         "ne:Postal": "GU", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2199,16 +2188,26 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 19015.6, 
         "woe:id": "2345211", 
-        "name": "Guayas", 
-        "ne:VertexCou": 529.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "EC.GU", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2345203, 
+          2345204, 
+          2345205, 
+          2345207, 
+          2345209, 
+          2345214, 
+          2345215, 
+          56189815
+        ], 
+        "name": "Guayas", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424801, 
         "ne_longitude": -79.12728349473747, 
         "longitude": -80.055, 
         "iso": "EC", 
         "date_indexed": "2010-12-02T17:51:25Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Guayas, Ecuador", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Ecuador", 

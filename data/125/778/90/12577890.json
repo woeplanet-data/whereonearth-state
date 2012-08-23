@@ -2201,11 +2201,9 @@
         "alias_ENG_V": [
           "Nisia Boriou Aygaiou"
         ], 
-        "ne:ISO": "GRC", 
         "alias_POL_S": [
           "Wyspy Egejskie Polnocne"
         ], 
-        "ne:woe:id": "12577890", 
         "alias_POL_Q": [
           "Wyspy Egejskie P\u00f3\u0142nocne"
         ], 
@@ -2217,7 +2215,7 @@
         "ne:Shape_Area": 0.395120665653, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1913", 
+        "ne:MAP_COLOR": 9, 
         "alias_POR_Q": [
           "Egeu Setentrional"
         ], 
@@ -2228,28 +2226,31 @@
         "alias_ARA_Q": [
           "\u0634\u0645\u0627\u0644 \u0625\u064a\u062c\u0629"
         ], 
-        "ne:Region_Cod": null, 
         "alias_SWE_Q": [
           "Norra Egeiska \u00d6arna"
         ], 
         "alias_CHI_Q": [
           "\u5317\u611b\u7434"
         ], 
-        "alias_SPA_Q": [
-          "Egeo Septentrional"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Egeo Settentrionale"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 2988, 
+        "alias_CZE_Q": [
+          "Severn\u00ed Egeis"
+        ], 
         "alias_JPN_Q": [
           "\u5317\u30a8\u30fc\u30b2"
         ], 
         "alias_SWE_S": [
           "Norra Egeiska Oearna"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Egeo Septentrional"
+        ], 
         "alias_FIN_Q": [
           "Pohjois-Egean Saaret"
         ], 
@@ -2266,13 +2267,13 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 2988, 
+        "ne:VertexCou": 533.0, 
+        "ne:VALIDFR_1": "1913", 
+        "ne:DataRank": 6, 
         "ne:Postal": "AN", 
-        "ne:LabelRank": 6, 
+        "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Aegean North", 
-        "ne:Region_C_1": null, 
+        "ne:ISO": "GRC", 
         "ne:TYPE_1": "Diamerismata", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 9.35039398291, 
@@ -2283,13 +2284,9 @@
         "alias_DUT_S": [
           "Noord-Egeische Eilanden"
         ], 
-        "alias_CZE_S": [
-          "Severni Egeis"
-        ], 
+        "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
-        "alias_CZE_Q": [
-          "Severn\u00ed Egeis"
-        ], 
+        "ne:LabelRank": 6, 
         "ne:ADM0_A3": "GRC", 
         "ne:Area_sqkm": 3809.7, 
         "alias_GER_Q": [
@@ -2299,11 +2296,11 @@
         "alias_GER_S": [
           "Noerdliche Aegaeis"
         ], 
-        "name": "North Aegean", 
-        "ne:VertexCou": 533.0, 
+        "ne:HASC_1": "GR.AN", 
+        "lang": "ENG", 
         "ne:NL_NAME_1": "???e??? ???a???", 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": "GR.AN", 
+        "name": "North Aegean", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "alias_UNK_S": [
@@ -2318,23 +2315,25 @@
         ], 
         "ne_longitude": 27.067939894710435, 
         "longitude": 26.399, 
-        "alias_FRE_S": [
-          "Egee-Septentrionale"
-        ], 
+        "ne:NEV_Countr": "Greece", 
         "ne:NAME_1": "Voreio Aigaio", 
         "iso": "GR", 
         "sw_latitude": 37.51316274706318, 
         "alias_HUN_S": [
           "Eszak-Egei-Szigetek"
         ], 
+        "alias_CZE_S": [
+          "Severni Egeis"
+        ], 
         "fullname": "North Aegean, Voreio Aigaio, Greece", 
+        "ne:Region": null, 
+        "alias_FRE_S": [
+          "Egee-Septentrionale"
+        ], 
+        "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "\u00c9g\u00e9e-Septentrionale"
-        ], 
-        "ne:Region": null, 
-        "ne:NEV_Countr": "Greece", 
-        "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        ]
       }, 
       "id": 12577890
     }

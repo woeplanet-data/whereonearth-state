@@ -6847,33 +6847,16 @@
         "alias_ENG_V": [
           "Lowersaxony"
         ], 
+        "ne:ISO": "DEU", 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "2345486", 
         "alias_ENG_P": [
           "Lower Saxony"
         ], 
-        "adjacent_woeid": [
-          2345483, 
-          2345484, 
-          2345485, 
-          2345487, 
-          2345490, 
-          2345491, 
-          2345492, 
-          2345494, 
-          2345495, 
-          2346373, 
-          2346376, 
-          2346380
-        ], 
         "ne_latitude": 53.8926022410007, 
-        "alias_GER_A": [
-          "NI"
-        ], 
         "ne:Shape_Area": 6.33713161674, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 1, 
         "alias_KOR_Q": [
           "\ub2c8\ub354\uc791\uc13c"
         ], 
@@ -6885,13 +6868,12 @@
         "alias_ITA_Q": [
           "Bassa Sassonia"
         ], 
-        "alias_GER_V": [
-          "Land Niedersachsen"
-        ], 
-        "ne:DataRank": 3, 
+        "ne:Area_sqkm": 47601.3, 
+        "ne:OBJECTID": 1576, 
         "alias_JPN_Q": [
           "\u30cb\u30fc\u30c0\u30fc\u30b6\u30af\u30bb\u30f3"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
@@ -6907,13 +6889,15 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T09:36:24Z", 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 1576, 
+        "ne:VertexCou": 1679.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": "NI", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lower Saxony", 
-        "ne:ISO": "DEU", 
+        "alias_GER_A": [
+          "NI"
+        ], 
         "ne:TYPE_1": "Land", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 24.2886445709, 
@@ -6925,13 +6909,28 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 47601.3, 
+        "alias_GER_V": [
+          "Land Niedersachsen"
+        ], 
         "woe:id": "2345486", 
-        "name": "Niedersachsen", 
-        "ne:VertexCou": 1679.0, 
-        "ne:NL_NAME_1": null, 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": "DE.NI", 
+        "lang": "GER", 
+        "adjacent_woeid": [
+          2345483, 
+          2345484, 
+          2345485, 
+          2345487, 
+          2345490, 
+          2345491, 
+          2345492, 
+          2345494, 
+          2345495, 
+          2346373, 
+          2346376, 
+          2346380
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "Niedersachsen", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424829, 
@@ -6939,14 +6938,14 @@
         "longitude": 9.139, 
         "iso": "DE", 
         "sw_latitude": 51.29046133092572, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Niedersachsen, Lower Saxony, Germany", 
-        "alias_FRE_Q": [
-          "Basse Saxe"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Germany", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Basse Saxe"
+        ]
       }, 
       "id": 2345486
     }

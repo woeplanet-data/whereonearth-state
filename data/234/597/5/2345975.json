@@ -194,13 +194,8 @@
         "alias_SWE_Q": [
           "Daejeon"
         ], 
-        "ne:woe:id": "2345975", 
         "alias_ENG_P": [
           "Daejon"
-        ], 
-        "adjacent_woeid": [
-          2345965, 
-          2345973
         ], 
         "ne_latitude": 36.54753693308305, 
         "ne:Shape_Area": 0.0418469474821, 
@@ -208,14 +203,14 @@
         "alias_KOR_V": [
           "\ub300\uc804\uad11\uc5ed"
         ], 
-        "ne:VALIDFR_1": "1989", 
+        "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u5927\u7530"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2503, 
         "alias_JPN_Q": [
           "\u30c6\u30b8\u30e7\u30f3"
         ], 
@@ -232,9 +227,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Metropolitan City", 
         "sw_latitude": 36.2698277862234, 
-        "lang": "KOR", 
-        "ne:MAP_COLOR": 5, 
-        "ne:OBJECTID": 2503, 
+        "ne:VertexCou": 43.0, 
+        "ne:VALIDFR_1": "1989", 
+        "ne:DataRank": 3, 
         "ne:Postal": "TJ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Daejeon Gwang'yeogsi|Taejon-gwangyoksi|Taiden", 
@@ -250,10 +245,13 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 416.4, 
         "woe:id": "2345975", 
-        "name": "\ub300\uc804", 
-        "ne:VertexCou": 43.0, 
-        "ne:NL_NAME_1": "????? | ?????", 
         "ne:HASC_1": "KR.TJ", 
+        "lang": "KOR", 
+        "adjacent_woeid": [
+          2345965, 
+          2345973
+        ], 
+        "name": "\ub300\uc804", 
         "ne:REMARKS_1": "25 (NSO Code)", 
         "ne:Country_Pr": null, 
         "parent_woeid": 23424868, 
@@ -261,6 +259,7 @@
         "longitude": 127.406, 
         "iso": "KR", 
         "date_indexed": "2010-12-02T17:52:39Z", 
+        "ne:NL_NAME_1": "????? | ?????", 
         "fullname": "\ub300\uc804, Daejon, South Korea", 
         "ne:Region": null, 
         "ne:NEV_Countr": "South Korea", 

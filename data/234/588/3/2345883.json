@@ -374,24 +374,14 @@
         "alias_SWE_Q": [
           "Saitama Prefektur"
         ], 
-        "ne:woe:id": "2345883", 
         "alias_ENG_P": [
           "Saitama Prefecture"
-        ], 
-        "adjacent_woeid": [
-          2345854, 
-          2345860, 
-          2345863, 
-          2345875, 
-          2345887, 
-          2345889, 
-          2345895
         ], 
         "ne_latitude": 36.2708613140984, 
         "ne:Shape_Area": 0.388227610273, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "alias_KOR_Q": [
           "\uc0ac\uc774\ud0c0\ub9c8\ucf04"
         ], 
@@ -401,7 +391,7 @@
         "alias_CHI_Q": [
           "\u57fc\u7389\u53bf"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1858, 
         "alias_JPN_V": [
           "\u3055\u3044\u305f\u307e\u30fb\u3051\u3093"
         ], 
@@ -420,9 +410,9 @@
         "ne:FIRST_HASC": "JP.KS", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1858, 
+        "ne:VertexCou": 88.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "ST", 
         "ne:Region_Cod": "JPN-KNT", 
         "ne:VARNAME_1": null, 
@@ -441,17 +431,26 @@
           "Pr\u00e4fektur Saitama"
         ], 
         "woe:id": "2345883", 
-        "name": "\u57fc\u7389\u770c", 
-        "ne:VertexCou": 88.0, 
-        "ne:NL_NAME_1": "???", 
-        "ne:FIRST_FIPS": "JA18", 
         "ne:HASC_1": "JP.ST", 
+        "lang": "JPN", 
+        "adjacent_woeid": [
+          2345854, 
+          2345860, 
+          2345863, 
+          2345875, 
+          2345887, 
+          2345889, 
+          2345895
+        ], 
+        "ne:FIRST_FIPS": "JA18", 
+        "name": "\u57fc\u7389\u770c", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424856, 
         "ne_longitude": 139.8748010603207, 
         "longitude": 139.306, 
         "iso": "JP", 
         "sw_latitude": 35.75156484614081, 
+        "ne:NL_NAME_1": "???", 
         "fullname": "\u57fc\u7389\u770c, Saitama Prefecture, Japan", 
         "ne:Region": "Kanto", 
         "ne:NEV_Countr": "Japan", 

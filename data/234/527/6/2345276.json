@@ -1180,24 +1180,14 @@
         "alias_SWE_Q": [
           "Harju L\u00e4n"
         ], 
-        "ne:woe:id": "2345276", 
         "alias_SWE_S": [
           "Harju Lan"
-        ], 
-        "adjacent_woeid": [
-          2345279, 
-          2345281, 
-          2345282, 
-          2345285
         ], 
         "ne_latitude": 59.670983384475676, 
         "ne:Shape_Area": 0.710033062572, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
-        "alias_UNK_V": [
-          "Harju Maakond"
-        ], 
+        "ne:MAP_COLOR": 10, 
         "alias_KOR_Q": [
           "\ud558\ub958\ub9c8"
         ], 
@@ -1207,10 +1197,11 @@
         "alias_CHI_Q": [
           "\u54c8\u5c14\u5c24"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 1654, 
         "alias_ENG_P": [
           "Harju County"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 23.718428582213335, 
@@ -1221,9 +1212,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 58.984668687809744, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 10, 
-        "ne:OBJECTID": 1654, 
+        "ne:VertexCou": 287.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "HA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Harjumaa|Harju maakond", 
@@ -1239,24 +1230,32 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 4505.1, 
         "woe:id": "2345276", 
-        "name": "Harjumaa", 
-        "ne:VertexCou": 287.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "EE.HA", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          2345279, 
+          2345281, 
+          2345282, 
+          2345285
+        ], 
+        "name": "Harjumaa", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424805, 
-        "ne_longitude": 25.945476108335754, 
+        "alias_UNK_V": [
+          "Harju Maakond"
+        ], 
         "longitude": 24.843, 
+        "ne_longitude": 25.945476108335754, 
         "iso": "EE", 
         "date_indexed": "2010-12-02T16:42:58Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Harjumaa, Harju County, Estonia", 
-        "alias_FRE_Q": [
-          "Maakond de Harju"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Estonia", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Maakond de Harju"
+        ]
       }, 
       "id": 2345276
     }

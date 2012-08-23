@@ -1306,25 +1306,14 @@
         "alias_SWE_Q": [
           "Nagano Prefektur"
         ], 
-        "ne:woe:id": "2345875", 
         "alias_ENG_P": [
           "Nagano Prefecture"
-        ], 
-        "adjacent_woeid": [
-          2345851, 
-          2345859, 
-          2345860, 
-          2345878, 
-          2345883, 
-          2345886, 
-          2345891, 
-          2345895
         ], 
         "ne_latitude": 37.01538951261597, 
         "ne:Shape_Area": 1.37121822021, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "alias_KOR_Q": [
           "\ub098\uac00\ub178\ucf04"
         ], 
@@ -1334,7 +1323,7 @@
         "alias_CHI_Q": [
           "\u9577\u91ce\u53bf"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1844, 
         "alias_JPN_V": [
           "\u9577\u91ce"
         ], 
@@ -1353,9 +1342,9 @@
         "ne:FIRST_HASC": "JP.AK", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1844, 
+        "ne:VertexCou": 321.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "NN", 
         "ne:Region_Cod": "JPN-CHB", 
         "ne:VARNAME_1": null, 
@@ -1374,17 +1363,27 @@
           "Pr\u00e4fektur Nagano"
         ], 
         "woe:id": "2345875", 
-        "name": "\u9577\u91ce\u770c", 
-        "ne:VertexCou": 321.0, 
-        "ne:NL_NAME_1": "???", 
-        "ne:FIRST_FIPS": "JA02", 
         "ne:HASC_1": "JP.NN", 
+        "lang": "JPN", 
+        "adjacent_woeid": [
+          2345851, 
+          2345859, 
+          2345860, 
+          2345878, 
+          2345883, 
+          2345886, 
+          2345891, 
+          2345895
+        ], 
+        "ne:FIRST_FIPS": "JA02", 
+        "name": "\u9577\u91ce\u770c", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424856, 
         "ne_longitude": 138.71569868424695, 
         "longitude": 138.032, 
         "iso": "JP", 
         "sw_latitude": 35.18816254306694, 
+        "ne:NL_NAME_1": "???", 
         "fullname": "\u9577\u91ce\u770c, Nagano Prefecture, Japan", 
         "ne:Region": "Chubu", 
         "ne:NEV_Countr": "Japan", 

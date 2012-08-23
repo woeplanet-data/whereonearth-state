@@ -4203,19 +4203,14 @@
       "properties": {
         "ne:ProvNumber": 2, 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "7153313", 
         "alias_ENG_P": [
           "Brittany"
-        ], 
-        "adjacent_woeid": [
-          7153311, 
-          7153325
         ], 
         "ne_latitude": 48.87675853118134, 
         "ne:Shape_Area": 3.30646936365, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_POR_Q": [
           "Bretanha"
         ], 
@@ -4227,18 +4222,18 @@
         "alias_CHI_Q": [
           "\u5e03\u5217\u5854\u5c3c"
         ], 
-        "alias_SPA_Q": [
-          "Breta\u00f1a"
-        ], 
+        "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_Q": [
           "Bretagna"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2662, 
         "alias_JPN_Q": [
           "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5"
         ], 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Unknown", 
+        "alias_SPA_Q": [
+          "Breta\u00f1a"
+        ], 
         "alias_SPA_S": [
           "Bretanya"
         ], 
@@ -4250,9 +4245,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2662, 
+        "ne:VertexCou": 1042.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Breta\u00f1a|Brittany", 
@@ -4268,25 +4263,29 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 27338.4, 
         "woe:id": "7153313", 
-        "name": "Bretagne", 
-        "ne:VertexCou": 1042.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          7153311, 
+          7153325
+        ], 
+        "name": "Bretagne", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424819, 
         "ne_longitude": -1.039336717415551, 
         "longitude": -2.906, 
-        "alias_FRE_S": [
-          "Brittany Region"
-        ], 
+        "ne:NEV_Countr": "France", 
         "iso": "FR", 
         "sw_latitude": 47.296751613696074, 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Bretagne Region"
         ], 
         "fullname": "Bretagne, Brittany, France", 
         "ne:Region": "Bretagne", 
-        "ne:NEV_Countr": "France", 
+        "alias_FRE_S": [
+          "Brittany Region"
+        ], 
         "ne:RegionVar": null, 
         "ne:sameAsCity": -99
       }, 

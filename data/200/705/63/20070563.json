@@ -624,13 +624,11 @@
           "n.ireland"
         ], 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "20070563", 
         "ne_latitude": 54.60488434553616, 
         "ne:Shape_Area": 0.260575699432, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
         "ne:VALIDFR_1": null, 
-        "ne:Region_C_3": null, 
         "alias_POR_Q": [
           "Irlanda do Norte"
         ], 
@@ -642,9 +640,7 @@
         "alias_CHI_Q": [
           "\u5317\u611b\u723e\u862d"
         ], 
-        "alias_SPA_Q": [
-          "Irlanda del Norte"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Irlanda del Nord"
         ], 
@@ -658,8 +654,11 @@
         "alias_JPN_Q": [
           "\u5317\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Irlanda del Norte"
+        ], 
         "alias_FIN_Q": [
           "Pohjois-Irlanti"
         ], 
@@ -680,7 +679,7 @@
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
         "ne:ISO": "GBR", 
-        "ne:TYPE_1": "District", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 2.92051041123, 
         "alias_DUT_Q": [
@@ -689,7 +688,7 @@
         "ne:NAME_0": "United Kingdom", 
         "ne:NAME_1": "Fermanagh", 
         "ne:Region_C_1": "Northern Ireland", 
-        "ne:sameAsCity": -99, 
+        "ne:TYPE_1": "District", 
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 1886.0, 
         "alias_GER_Q": [

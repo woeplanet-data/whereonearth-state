@@ -765,21 +765,11 @@
       "properties": {
         "ne:ProvNumber": 2007, 
         "ne:ScaleRank": 6, 
-        "ne:woe:id": "2347263", 
-        "adjacent_woeid": [
-          2347271, 
-          2347275, 
-          2347283, 
-          2347295, 
-          2347321, 
-          2347325, 
-          2347329
-        ], 
         "ne_latitude": 40.70759308545257, 
         "ne:Shape_Area": 2.82866156792, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1989", 
+        "ne:MAP_COLOR": 4, 
         "alias_KOR_Q": [
           "\uc559\uce74\ub77c"
         ], 
@@ -788,7 +778,7 @@
         "alias_CHI_Q": [
           "\u5b89\u5361\u62c9"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 3008, 
         "alias_JPN_Q": [
           "\u30a2\u30f3\u30ab\u30e9"
         ], 
@@ -802,9 +792,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 38.64358470347133, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 3008, 
+        "ne:VertexCou": 187.0, 
+        "ne:VALIDFR_1": "1989", 
+        "ne:DataRank": 5, 
         "ne:Postal": "AN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Ancara|Angora", 
@@ -820,16 +810,25 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 26904.7, 
         "woe:id": "2347263", 
-        "name": "Ankara", 
-        "ne:VertexCou": 187.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "TR.AN", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          2347271, 
+          2347275, 
+          2347283, 
+          2347295, 
+          2347321, 
+          2347325, 
+          2347329
+        ], 
+        "name": "Ankara", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424969, 
         "ne_longitude": 33.93739139129974, 
         "longitude": 32.365, 
         "iso": "TR", 
         "date_indexed": "2010-12-02T16:22:51Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Ankara, Turkey", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Turkey", 

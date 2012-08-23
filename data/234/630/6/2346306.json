@@ -2151,19 +2151,11 @@
       "properties": {
         "ne:ProvNumber": 4, 
         "ne:ScaleRank": 6, 
-        "ne:woe:id": "2346306", 
-        "adjacent_woeid": [
-          2346300, 
-          2346301, 
-          2346302, 
-          28350159, 
-          56014685
-        ], 
         "ne_latitude": 3.861676743986607, 
         "ne:Shape_Area": 0.62862498652, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19740201", 
+        "ne:MAP_COLOR": 6, 
         "alias_KOR_Q": [
           "\uc140\ub791\uace0\ub974"
         ], 
@@ -2172,7 +2164,7 @@
         "alias_CHI_Q": [
           "\u9a6c\u6765\u897f\u4e9a"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 1148, 
         "alias_JPN_Q": [
           "\u30bb\u30e9\u30f3\u30b4\u30fc\u30eb\u5dde"
         ], 
@@ -2186,9 +2178,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 2.595965888015371, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 6, 
-        "ne:OBJECTID": 1148, 
+        "ne:VertexCou": 526.0, 
+        "ne:VALIDFR_1": "19740201", 
+        "ne:DataRank": 6, 
         "ne:Postal": "SL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Selangor Darul Ehsan", 
@@ -2204,16 +2196,23 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 7725.3, 
         "woe:id": "2346306", 
-        "name": "Selangor", 
-        "ne:VertexCou": 526.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "MY.SL", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          2346300, 
+          2346301, 
+          2346302, 
+          28350159, 
+          56014685
+        ], 
+        "name": "Selangor", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424901, 
         "ne_longitude": 101.96450524312252, 
         "longitude": 101.378, 
         "iso": "MY", 
         "date_indexed": "2010-12-02T18:03:44Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Selangor, Malaysia", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Malaysia", 

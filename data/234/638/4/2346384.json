@@ -309,22 +309,14 @@
       "properties": {
         "ne:ProvNumber": 5, 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "2346384", 
-        "adjacent_woeid": [
-          2346374, 
-          2346375, 
-          2346379, 
-          2346380
-        ], 
         "ne_latitude": 52.83873891836646, 
         "ne:Shape_Area": 0.317572300598, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19860101", 
+        "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
-        "ne:Region_Cod": null, 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 902, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 5.095160082371933, 
@@ -338,10 +330,13 @@
         "alias_DUT_A": [
           "FL"
         ], 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 902, 
+        "ne:VALIDFR_1": "19860101", 
+        "ne:DataRank": 8, 
         "ne:Postal": "FL", 
-        "ne:LabelRank": 8, 
+        "alias_DUT_V": [
+          "Flevoland Provincie"
+        ], 
+        "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
         "ne:ISO": "NLD", 
         "ne:TYPE_1": "Provincie", 
@@ -352,15 +347,18 @@
         "ne:NAME_1": "Flevoland", 
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
-        "alias_DUT_V": [
-          "Flevoland Provincie"
-        ], 
+        "ne:LabelRank": 8, 
         "ne:Area_sqkm": 2396.7, 
         "woe:id": "2346384", 
-        "name": "Flevoland", 
-        "lang": "DUT", 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "NL.FL", 
+        "lang": "DUT", 
+        "adjacent_woeid": [
+          2346374, 
+          2346375, 
+          2346379, 
+          2346380
+        ], 
+        "name": "Flevoland", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424909, 
         "ne_longitude": 6.019767287230593, 
@@ -368,6 +366,7 @@
         "ne:VertexCou": 95.0, 
         "iso": "NL", 
         "date_indexed": "2010-12-02T18:16:21Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Flevoland, Netherlands", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Netherlands", 

@@ -333,18 +333,11 @@
       "properties": {
         "ne:ProvNumber": 14, 
         "ne:ScaleRank": 9, 
-        "ne:woe:id": "28358196", 
-        "adjacent_woeid": [
-          2345176, 
-          2345192, 
-          2345200, 
-          2345201
-        ], 
         "ne_latitude": 18.73167348894043, 
         "ne:Shape_Area": 0.107843645621, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "20011016", 
+        "ne:MAP_COLOR": 7, 
         "alias_KOR_Q": [
           "\uc0b0\ud1a0\ub3c4\ubc0d\uace0"
         ], 
@@ -353,7 +346,7 @@
         "alias_CHI_Q": [
           "\u5723\u591a\u660e\u5404"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 1394, 
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30c8\u30c9\u30df\u30f3\u30b4"
         ], 
@@ -369,9 +362,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 18.41034943248036, 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 1394, 
+        "ne:VertexCou": 79.0, 
+        "ne:VALIDFR_1": "20011016", 
+        "ne:DataRank": 8, 
         "ne:Postal": "SD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -387,10 +380,15 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 1260.0, 
         "woe:id": "28358196", 
-        "name": "Santo Domingo", 
-        "ne:VertexCou": 79.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "DO.SD", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2345176, 
+          2345192, 
+          2345200, 
+          2345201
+        ], 
+        "name": "Santo Domingo", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424800, 
         "provider": "geoplanet 7.6.0", 
@@ -398,6 +396,7 @@
         "ne_longitude": -69.51825761569637, 
         "iso": "DO", 
         "date_indexed": "2010-12-02T16:32:46Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Santo Domingo, Dominican Republic", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Dominican Republic", 

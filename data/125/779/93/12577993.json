@@ -5913,29 +5913,20 @@
       "properties": {
         "ne:ProvNumber": 34, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "12577993", 
         "alias_ENG_P": [
           "Jiangxi"
-        ], 
-        "adjacent_woeid": [
-          12577992, 
-          12577997, 
-          12578001, 
-          12578002, 
-          12578019, 
-          12578022
         ], 
         "ne_latitude": 30.05646027302322, 
         "ne:Shape_Area": 15.3448016975, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\uc7a5\uc2dc"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 1817, 
         "alias_CHI_V": [
           "\u6c5f\u897f"
         ], 
@@ -5955,9 +5946,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 24.4995901552615, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1817, 
+        "ne:VertexCou": 1474.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "JX", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Jiangxi", 
@@ -5973,16 +5964,24 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 167798.2, 
         "woe:id": "12577993", 
-        "name": "\u6c5f\u897f\u7701", 
-        "ne:VertexCou": 1474.0, 
-        "ne:NL_NAME_1": "??", 
         "ne:HASC_1": "CN.JX", 
+        "lang": "CHI", 
+        "adjacent_woeid": [
+          12577992, 
+          12577997, 
+          12578001, 
+          12578002, 
+          12578019, 
+          12578022
+        ], 
+        "name": "\u6c5f\u897f\u7701", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424781, 
         "ne_longitude": 118.47626224150929, 
         "longitude": 116.026, 
         "iso": "CN", 
         "date_indexed": "2010-12-02T08:51:01Z", 
+        "ne:NL_NAME_1": "??", 
         "fullname": "\u6c5f\u897f\u7701, Jiangxi, China", 
         "ne:Region": null, 
         "ne:NEV_Countr": "China", 

@@ -4539,23 +4539,11 @@
         "alias_SWE_Q": [
           "Panjab"
         ], 
-        "ne:woe:id": "2346498", 
-        "adjacent_woeid": [
-          2345746, 
-          2345756, 
-          2345757, 
-          2346495, 
-          2346496, 
-          2346497, 
-          2346499, 
-          2346500, 
-          20070149
-        ], 
         "ne_latitude": 34.02278148088067, 
         "ne:Shape_Area": 19.2177685785, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19700701", 
+        "ne:MAP_COLOR": 11, 
         "alias_KOR_Q": [
           "\ud380\uc790\ube0c"
         ], 
@@ -4565,7 +4553,7 @@
         "alias_CHI_Q": [
           "\u65c1\u906e\u666e"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1113, 
         "alias_JPN_Q": [
           "\u30d1\u30f3\u30b8\u30e3\u30d6"
         ], 
@@ -4579,9 +4567,9 @@
         "ne:FIRST_HASC": "PK.IS|PAK-PNJ", 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 27.70179779743046, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 1113, 
+        "ne:VertexCou": 1068.0, 
+        "ne:VALIDFR_1": "19700701", 
+        "ne:DataRank": 2, 
         "ne:Postal": "PB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Pendjab|Penjab", 
@@ -4597,16 +4585,27 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 203787.6, 
         "woe:id": "2346498", 
-        "name": "Punjab", 
-        "ne:VertexCou": 1068.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "PK.PB", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345746, 
+          2345756, 
+          2345757, 
+          2346495, 
+          2346496, 
+          2346497, 
+          2346499, 
+          2346500, 
+          20070149
+        ], 
+        "name": "Punjab", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424922, 
         "ne_longitude": 75.35889407710005, 
         "longitude": 72.374, 
         "iso": "PK", 
         "date_indexed": "2010-12-02T17:56:39Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Punjab, Pakistan", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Pakistan", 

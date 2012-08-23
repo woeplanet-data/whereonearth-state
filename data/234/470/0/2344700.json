@@ -6290,21 +6290,14 @@
           "Newsouthwales"
         ], 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "2344700", 
         "alias_SWE_S": [
           "Nya Sodra Wales"
-        ], 
-        "adjacent_woeid": [
-          2344699, 
-          2344702, 
-          2344703, 
-          2344705
         ], 
         "ne_latitude": -28.149030856688626, 
         "ne:Shape_Area": 76.768120722, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19010101", 
+        "ne:MAP_COLOR": 7, 
         "alias_ENG_A": [
           "NSW"
         ], 
@@ -6316,7 +6309,7 @@
         "alias_CHI_Q": [
           "\u65b0\u5357\u5a01\u5c14\u58eb\u5dde"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2654, 
         "alias_JPN_Q": [
           "\u30cb\u30e5\u30fc\u30fb\u30b5\u30a6\u30b9\u30fb\u30a6\u30a7\u30fc\u30eb\u30ba"
         ], 
@@ -6330,12 +6323,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -37.51037159567255, 
-        "lang": "ENG", 
+        "ne:VertexCou": 1566.0, 
         "alias_KOR_Q": [
           "\ub274\uc0ac\uc6b0\uc2a4\uc6e8\uc77c\uc988"
         ], 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 2654, 
+        "ne:VALIDFR_1": "19010101", 
+        "ne:DataRank": 3, 
         "ne:Postal": "NS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -6351,16 +6344,22 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 802395.0, 
         "woe:id": "2344700", 
-        "name": "New South Wales", 
-        "ne:VertexCou": 1566.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "AU.NS", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344699, 
+          2344702, 
+          2344703, 
+          2344705
+        ], 
+        "name": "New South Wales", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424748, 
         "ne_longitude": 153.63096398340122, 
         "longitude": 147.319, 
         "iso": "AU", 
         "date_indexed": "2010-12-02T17:43:32Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "New South Wales, Australia", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Australia", 

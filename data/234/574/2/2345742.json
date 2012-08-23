@@ -4163,20 +4163,11 @@
         "alias_KOR_Q": [
           "\ube44\ud558\ub974"
         ], 
-        "ne:woe:id": "2345742", 
-        "adjacent_woeid": [
-          2345760, 
-          2345761, 
-          20070023, 
-          20070026, 
-          20070029, 
-          20070463
-        ], 
         "ne_latitude": 27.517080390147953, 
         "ne:Shape_Area": 8.51403942564, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "BR"
         ], 
@@ -4186,7 +4177,7 @@
         "alias_CHI_Q": [
           "\u6bd4\u54c8\u5c14"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3258, 
         "alias_JPN_Q": [
           "\u30d3\u30cf\u30fc\u30eb"
         ], 
@@ -4200,9 +4191,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 24.30166941970799, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3258, 
+        "ne:VertexCou": 1004.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "BR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -4218,16 +4209,24 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 94693.5, 
         "woe:id": "2345742", 
-        "name": "Bihar", 
-        "ne:VertexCou": 1004.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IN.BR", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345760, 
+          2345761, 
+          20070023, 
+          20070026, 
+          20070029, 
+          20070463
+        ], 
+        "name": "Bihar", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424848, 
         "ne_longitude": 88.30389204268369, 
         "longitude": 85.801, 
         "iso": "IN", 
         "date_indexed": "2010-12-02T08:59:14Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Bihar, India", 
         "ne:Region": null, 
         "ne:NEV_Countr": "India", 

@@ -1730,18 +1730,11 @@
         "alias_KOR_Q": [
           "\uc778\ub514\uc544\ub098"
         ], 
-        "ne:woe:id": "2347573", 
-        "adjacent_woeid": [
-          2347572, 
-          2347576, 
-          2347581, 
-          2347594
-        ], 
         "ne_latitude": 41.7597208847111, 
         "ne:Shape_Area": 9.94219856009, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18161211", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "Ind"
         ], 
@@ -1751,7 +1744,7 @@
         "alias_CHI_Q": [
           "\u5370\u5730\u5b89\u90a3"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3547, 
         "alias_JPN_Q": [
           "\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca"
         ], 
@@ -1765,9 +1758,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 37.78193768157877, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3547, 
+        "ne:VertexCou": 427.0, 
+        "ne:VALIDFR_1": "18161211", 
+        "ne:DataRank": 1, 
         "ne:Postal": "IN", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "IN|Ind.", 
@@ -1783,16 +1776,22 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 94362.6, 
         "woe:id": "2347573", 
-        "name": "Indiana", 
-        "ne:VertexCou": 427.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.IN", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347572, 
+          2347576, 
+          2347581, 
+          2347594
+        ], 
+        "name": "Indiana", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -84.78395389985258, 
         "longitude": -86.441, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Indiana, United States", 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 

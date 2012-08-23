@@ -1236,11 +1236,57 @@
       "type": "Feature", 
       "properties": {
         "ne:ProvNumber": 5, 
+        "ne:ISO": "AUT", 
         "ne:ScaleRank": 6, 
-        "ne:woe:id": "2344713", 
         "alias_ENG_P": [
           "Styria"
         ], 
+        "ne_latitude": 47.8253498397234, 
+        "ne:Shape_Area": 1.95383651012, 
+        "placetype": "State", 
+        "ne:Country_Pr": null, 
+        "ne:MAP_COLOR": 4, 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "AUT", 
+        "alias_ITA_Q": [
+          "Stiria"
+        ], 
+        "ne:OBJECTID": 2323, 
+        "ne:sameAsCity": -99, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
+        "sw_longitude": 13.565198195440416, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.22, 
+        "ne:FIPS_1": "AU06", 
+        "ne:FIRST_FIPS": null, 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "State", 
+        "sw_latitude": 46.6150361192216, 
+        "ne:VertexCou": 296.0, 
+        "ne:VALIDFR_1": "19500429", 
+        "ne:DataRank": 7, 
+        "ne:Postal": "ST", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": "Styria|Est\u00a1ria|Estiria", 
+        "alias_GER_A": [
+          "STM"
+        ], 
+        "ne:TYPE_1": "Bundesl\u00e4nd|L\u00e4nd", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 7.68668997478, 
+        "alias_DUT_Q": [
+          "Stiermarken"
+        ], 
+        "ne:NAME_0": "Austria", 
+        "ne:NAME_1": "Steiermark", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 6, 
+        "ne:Area_sqkm": 16436.0, 
+        "woe:id": "2344713", 
+        "ne:HASC_1": "AT.ST", 
+        "lang": "GER", 
         "adjacent_woeid": [
           2344708, 
           2344709, 
@@ -1255,54 +1301,7 @@
           55848378, 
           55848382
         ], 
-        "ne_latitude": 47.8253498397234, 
-        "alias_GER_A": [
-          "STM"
-        ], 
-        "ne:Shape_Area": 1.95383651012, 
-        "placetype": "State", 
-        "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19500429", 
-        "ne:gadm_level": 1.0, 
-        "ne:ADM0_A3": "AUT", 
-        "alias_ITA_Q": [
-          "Stiria"
-        ], 
-        "ne:DataRank": 7, 
-        "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
-        "sw_longitude": 13.565198195440416, 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 47.22, 
-        "ne:FIPS_1": "AU06", 
-        "ne:FIRST_FIPS": null, 
-        "ne:FIRST_HASC": null, 
-        "ne:ENGTYPE_1": "State", 
-        "sw_latitude": 46.6150361192216, 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 2323, 
-        "ne:Postal": "ST", 
-        "ne:Region_Cod": null, 
-        "ne:VARNAME_1": "Styria|Est\u00a1ria|Estiria", 
-        "ne:ISO": "AUT", 
-        "ne:TYPE_1": "Bundesl\u00e4nd|L\u00e4nd", 
-        "ne:Region_C_2": null, 
-        "ne:Shape_Leng": 7.68668997478, 
-        "alias_DUT_Q": [
-          "Stiermarken"
-        ], 
-        "ne:NAME_0": "Austria", 
-        "ne:NAME_1": "Steiermark", 
-        "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
-        "ne:LabelRank": 6, 
-        "ne:Area_sqkm": 16436.0, 
-        "woe:id": "2344713", 
         "name": "Steiermark", 
-        "ne:VertexCou": 296.0, 
-        "ne:NL_NAME_1": null, 
-        "ne:HASC_1": "AT.ST", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424750, 
@@ -1310,17 +1309,17 @@
         "longitude": 14.868, 
         "iso": "AT", 
         "date_indexed": "2010-12-02T16:33:25Z", 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Styrie"
         ], 
         "fullname": "Steiermark, Styria, Austria", 
-        "alias_FRE_Q": [
-          "La Styrie"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Austria", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "La Styrie"
+        ]
       }, 
       "id": 2344713
     }

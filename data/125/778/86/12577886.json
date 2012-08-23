@@ -5229,11 +5229,9 @@
         "alias_ENG_V": [
           "Notio Aigaio"
         ], 
-        "ne:ISO": "GRC", 
         "alias_POL_S": [
           "Wyspy Egejskie Poludniowe"
         ], 
-        "ne:woe:id": "12577886", 
         "alias_POL_Q": [
           "Wyspy Egejskie Po\u0142udniowe"
         ], 
@@ -5245,7 +5243,7 @@
         "ne:Shape_Area": 0.508304087967, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1913", 
+        "ne:MAP_COLOR": 9, 
         "alias_POR_Q": [
           "Egeu Meridional"
         ], 
@@ -5256,28 +5254,31 @@
         "alias_ARA_Q": [
           "\u062c\u0646\u0648\u0628 \u0625\u064a\u062c\u0629"
         ], 
-        "ne:Region_Cod": null, 
         "alias_SWE_Q": [
           "S\u00f6dra Egeiska \u00d6arna"
         ], 
         "alias_CHI_Q": [
           "\u5357\u611b\u7434"
         ], 
-        "alias_SPA_Q": [
-          "Egeo Meridional"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Egeo Meridionale"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 3013, 
+        "alias_CZE_Q": [
+          "Ji\u017en\u00ed Egeis"
+        ], 
         "alias_JPN_Q": [
           "\u5357\u30a8\u30fc\u30b2"
         ], 
         "alias_SWE_S": [
           "Soedra Egeiska Oearna"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Egeo Meridional"
+        ], 
         "alias_FIN_Q": [
           "Etel\u00e4-Egean Saaret"
         ], 
@@ -5297,13 +5298,13 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 3013, 
+        "ne:VertexCou": 1232.0, 
+        "ne:VALIDFR_1": "1913", 
+        "ne:DataRank": 6, 
         "ne:Postal": "AS", 
-        "ne:LabelRank": 6, 
+        "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Aegean South", 
-        "ne:Region_C_1": null, 
+        "ne:ISO": "GRC", 
         "ne:TYPE_1": "Diamerismata", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 19.7361334434, 
@@ -5314,13 +5315,9 @@
         "alias_DUT_S": [
           "Zuid-Egeische Eilanden"
         ], 
-        "alias_CZE_S": [
-          "Jizni Egeis"
-        ], 
+        "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
-        "alias_CZE_Q": [
-          "Ji\u017en\u00ed Egeis"
-        ], 
+        "ne:LabelRank": 6, 
         "ne:ADM0_A3": "GRC", 
         "ne:Area_sqkm": 5038.2, 
         "alias_GER_Q": [
@@ -5330,11 +5327,11 @@
         "alias_GER_S": [
           "Suedliche Aegaeis"
         ], 
-        "name": "South Aegean", 
-        "ne:VertexCou": 1232.0, 
+        "ne:HASC_1": "GR.AS", 
+        "lang": "ENG", 
         "ne:NL_NAME_1": "??t??? ???a???", 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": "GR.AS", 
+        "name": "South Aegean", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "alias_UNK_S": [
@@ -5349,23 +5346,25 @@
         ], 
         "ne_longitude": 28.23975467264006, 
         "longitude": 27.965, 
-        "alias_FRE_S": [
-          "Egee-Meridionale"
-        ], 
+        "ne:NEV_Countr": "Greece", 
         "ne:NAME_1": "Notio Aigaio", 
         "iso": "GR", 
         "sw_latitude": 35.3493154977121, 
         "alias_HUN_S": [
           "Del-Egei-Szigetek"
         ], 
+        "alias_CZE_S": [
+          "Jizni Egeis"
+        ], 
         "fullname": "South Aegean, Notio Aigaio, Greece", 
+        "ne:Region": null, 
+        "alias_FRE_S": [
+          "Egee-Meridionale"
+        ], 
+        "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "\u00c9g\u00e9e-M\u00e9ridionale"
-        ], 
-        "ne:Region": null, 
-        "ne:NEV_Countr": "Greece", 
-        "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        ]
       }, 
       "id": 12577886
     }

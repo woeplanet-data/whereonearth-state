@@ -245,27 +245,17 @@
       "properties": {
         "ne:ProvNumber": 2002, 
         "ne:ScaleRank": 10, 
-        "ne:woe:id": "24550860", 
         "alias_ENG_P": [
           "Star Dojran Municipality"
-        ], 
-        "adjacent_woeid": [
-          12577884, 
-          24550808, 
-          24550813, 
-          24550827
         ], 
         "ne_latitude": 41.29414643001377, 
         "ne:Shape_Area": 0.0147193415738, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
-        "alias_UNK_V": [
-          "Opstina Star Dojran"
-        ], 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "MKD", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 3000, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 22.566405877029638, 
@@ -276,9 +266,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Statistical Region", 
         "sw_latitude": 41.13986644158308, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 3000, 
+        "ne:VertexCou": 64.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "SD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -294,16 +284,25 @@
         "ne:LabelRank": 10, 
         "ne:Area_sqkm": 137.0, 
         "woe:id": "24550860", 
-        "name": "Star Dojran", 
-        "ne:VertexCou": 64.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "MK.SD", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          12577884, 
+          24550808, 
+          24550813, 
+          24550827
+        ], 
+        "name": "Star Dojran", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424890, 
-        "ne_longitude": 22.741382276670777, 
+        "alias_UNK_V": [
+          "Opstina Star Dojran"
+        ], 
         "longitude": 22.721, 
+        "ne_longitude": 22.741382276670777, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Star Dojran, Star Dojran Municipality, Macedonia", 
         "ne:Region": "Southeastern", 
         "ne:NEV_Countr": "Macedonia", 

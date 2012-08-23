@@ -1249,12 +1249,6 @@
       "properties": {
         "ne:ProvNumber": 16, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "2344845", 
-        "adjacent_woeid": [
-          2344848, 
-          2344860, 
-          2344869
-        ], 
         "ne_latitude": -8.8325871720603, 
         "ne:Shape_Area": 2.27447898199, 
         "placetype": "State", 
@@ -1262,13 +1256,13 @@
         "alias_POR_V": [
           "Estado Alagoas"
         ], 
-        "ne:VALIDFR_1": "18170916", 
+        "ne:MAP_COLOR": 7, 
         "alias_ENG_A": [
           "AL"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BRA", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 623, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -38.235180019742074, 
@@ -1279,9 +1273,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -10.49899708374835, 
-        "lang": "POR", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 623, 
+        "ne:VertexCou": 310.0, 
+        "ne:VALIDFR_1": "18170916", 
+        "ne:DataRank": 1, 
         "ne:Postal": "AL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1297,16 +1291,21 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 27621.2, 
         "woe:id": "2344845", 
-        "name": "Alagoas", 
-        "ne:VertexCou": 310.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "BR.AL", 
+        "lang": "POR", 
+        "adjacent_woeid": [
+          2344848, 
+          2344860, 
+          2344869
+        ], 
+        "name": "Alagoas", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424768, 
         "ne_longitude": -35.14831417475932, 
         "longitude": -36.694, 
         "iso": "BR", 
         "date_indexed": "2010-12-02T17:58:27Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Alagoas, Brazil", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Brazil", 

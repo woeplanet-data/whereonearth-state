@@ -788,17 +788,11 @@
         "alias_KOR_Q": [
           "\ud3f0\ub514\uccb4\ub9ac"
         ], 
-        "ne:woe:id": "20070459", 
-        "adjacent_woeid": [
-          2345740, 
-          2345747, 
-          2345758
-        ], 
         "ne_latitude": 16.75029572216988, 
         "ne:Shape_Area": 0.043687569649, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "PDY"
         ], 
@@ -808,7 +802,7 @@
         "alias_CHI_Q": [
           "\u672c\u5730\u6cbb\u91cc"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3262, 
         "alias_JPN_Q": [
           "\u30dd\u30f3\u30c7\u30a3\u30c1\u30a7\u30ea"
         ], 
@@ -822,9 +816,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Union Territory", 
         "sw_latitude": 10.809107977651081, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3262, 
+        "ne:VertexCou": 185.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "PY", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Pondicherry|Puduchcheri|Pondich\u00e9ry", 
@@ -840,16 +834,21 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 526.2, 
         "woe:id": "20070459", 
-        "name": "Puducherry", 
-        "ne:VertexCou": 185.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IN.PY", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345740, 
+          2345747, 
+          2345758
+        ], 
+        "name": "Puducherry", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424848, 
         "ne_longitude": 82.30136437336722, 
         "longitude": 79.753, 
         "iso": "IN", 
         "date_indexed": "2010-12-02T08:59:14Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Puducherry, India", 
         "ne:Region": null, 
         "ne:NEV_Countr": "India", 

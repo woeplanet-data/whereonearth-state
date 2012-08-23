@@ -2716,27 +2716,16 @@
       "type": "Feature", 
       "properties": {
         "ne:ProvNumber": 13, 
+        "ne:ISO": "DEU", 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "2345493", 
         "alias_ENG_P": [
           "Saxony"
         ], 
-        "adjacent_woeid": [
-          2345482, 
-          2345491, 
-          2345494, 
-          2345495, 
-          12577935, 
-          12577939
-        ], 
         "ne_latitude": 51.6700764027039, 
-        "alias_GER_A": [
-          "SN"
-        ], 
         "ne:Shape_Area": 2.32707896403, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 1, 
         "alias_POR_Q": [
           "Sax\u00f3nia"
         ], 
@@ -2751,18 +2740,19 @@
         "alias_CHI_Q": [
           "\u8428\u514b\u68ee"
         ], 
-        "alias_SPA_Q": [
-          "Sajonia"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Sassonia"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 1601, 
         "alias_JPN_Q": [
           "\u30b6\u30af\u30bb\u30f3"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Sajonia"
+        ], 
         "alias_FIN_Q": [
           "Saksin Vapaavaltio"
         ], 
@@ -2774,13 +2764,15 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T09:36:24Z", 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 1601, 
+        "ne:VertexCou": 642.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": "SN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Saxony", 
-        "ne:ISO": "DEU", 
+        "alias_GER_A": [
+          "SN"
+        ], 
         "ne:TYPE_1": "Land", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 10.4506435029, 
@@ -2794,10 +2786,17 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 18155.3, 
         "woe:id": "2345493", 
-        "name": "Sachsen", 
-        "ne:VertexCou": 642.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "DE.SN", 
+        "lang": "GER", 
+        "adjacent_woeid": [
+          2345482, 
+          2345491, 
+          2345494, 
+          2345495, 
+          12577935, 
+          12577939
+        ], 
+        "name": "Sachsen", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424829, 
@@ -2805,14 +2804,14 @@
         "longitude": 13.457, 
         "iso": "DE", 
         "sw_latitude": 50.16122793202351, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Sachsen, Saxony, Germany", 
-        "alias_FRE_Q": [
-          "Saxe"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Germany", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Saxe"
+        ]
       }, 
       "id": 2345493
     }

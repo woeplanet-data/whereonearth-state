@@ -2030,12 +2030,11 @@
         "alias_KOR_Q": [
           "\uc544\uc774\uc624\uc640\uc2dc\ud2f0"
         ], 
-        "ne:woe:id": "2347574", 
         "ne_latitude": 43.50095623604153, 
         "ne:Shape_Area": 15.8257866916, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18461228", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "IA"
         ], 
@@ -2045,7 +2044,7 @@
         "alias_CHI_Q": [
           "\u8863\u963f\u534e"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3529, 
         "alias_JPN_Q": [
           "\u30a2\u30a4\u30aa\u30ef"
         ], 
@@ -2059,9 +2058,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 40.37952068902865, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3529, 
+        "ne:VertexCou": 486.0, 
+        "ne:VALIDFR_1": "18461228", 
+        "ne:DataRank": 1, 
         "ne:Postal": "IA", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "IA|Iowa", 
@@ -2077,8 +2076,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 144523.3, 
         "woe:id": "2347574", 
-        "name": "Iowa", 
-        "ne:VertexCou": 486.0, 
+        "ne:HASC_1": "US.IA", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347572, 
           2347582, 
@@ -2087,7 +2086,7 @@
           2347600, 
           2347608
         ], 
-        "ne:HASC_1": "US.IA", 
+        "name": "Iowa", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -90.1402771420764, 

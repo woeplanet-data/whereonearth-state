@@ -1590,22 +1590,11 @@
         "alias_SWE_Q": [
           "Alsass"
         ], 
-        "ne:woe:id": "7153330", 
-        "adjacent_woeid": [
-          2345481, 
-          2345488, 
-          2347085, 
-          2347086, 
-          2347100, 
-          2347108, 
-          7153317, 
-          7153322
-        ], 
         "ne_latitude": 49.065687567927, 
         "ne:Shape_Area": 0.975254746973, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_POR_Q": [
           "Alsacia"
         ], 
@@ -1618,18 +1607,18 @@
         "alias_CHI_Q": [
           "\u963f\u5c14\u8428\u65af"
         ], 
-        "alias_SPA_Q": [
-          "Alsacia"
-        ], 
+        "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_Q": [
           "Alsazia"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2686, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30b6\u30b9"
         ], 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Unknown", 
+        "alias_SPA_Q": [
+          "Alsacia"
+        ], 
         "alias_FIN_Q": [
           "Elsass"
         ], 
@@ -1641,9 +1630,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2686, 
+        "ne:VertexCou": 369.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Alsacia", 
@@ -1664,10 +1653,19 @@
           "Elsass"
         ], 
         "woe:id": "7153330", 
-        "name": "Alsace", 
-        "ne:VertexCou": 369.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          2345481, 
+          2345488, 
+          2347085, 
+          2347086, 
+          2347100, 
+          2347108, 
+          7153317, 
+          7153322
+        ], 
+        "name": "Alsace", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "parent_woeid": 23424819, 
@@ -1675,6 +1673,7 @@
         "longitude": 7.537, 
         "iso": "FR", 
         "sw_latitude": 47.41715770106708, 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Alsace Region"
         ], 

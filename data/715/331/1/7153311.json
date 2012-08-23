@@ -2173,21 +2173,14 @@
       "properties": {
         "ne:ProvNumber": 21, 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "7153311", 
         "alias_ENG_P": [
           "Lower Normandy"
-        ], 
-        "adjacent_woeid": [
-          7153313, 
-          7153314, 
-          7153318, 
-          7153325
         ], 
         "ne_latitude": 49.72647410719435, 
         "ne:Shape_Area": 2.19383375673, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_POR_Q": [
           "Baixa Normandia"
         ], 
@@ -2199,21 +2192,19 @@
         "alias_CHI_Q": [
           "\u4e0b\u8bfa\u66fc\u5e95"
         ], 
-        "alias_SPA_Q": [
-          "Baja Normand\u00eda"
-        ], 
+        "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_Q": [
           "Bassa Normandia"
         ], 
-        "alias_DAN_Q": [
-          "Sydnormandiet"
-        ], 
-        "ne:DataRank": 3, 
+        "ne:Area_sqkm": 17876.8, 
+        "ne:OBJECTID": 2661, 
         "alias_JPN_Q": [
           "\u30d0\u30b9\u30fc\u30ce\u30eb\u30de\u30f3\u30c7\u30a3\u30fc"
         ], 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Unknown", 
+        "alias_SPA_Q": [
+          "Baja Normand\u00eda"
+        ], 
         "alias_SPA_S": [
           "Baja Normandia"
         ], 
@@ -2227,9 +2218,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2661, 
+        "ne:VertexCou": 539.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Baja Normand\u00a1a|Lower Normandy", 
@@ -2247,13 +2238,20 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 17876.8, 
+        "alias_DAN_Q": [
+          "Sydnormandiet"
+        ], 
         "woe:id": "7153311", 
-        "name": "Basse-Normandie", 
-        "ne:VertexCou": 539.0, 
-        "ne:NL_NAME_1": null, 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": null, 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          7153313, 
+          7153314, 
+          7153318, 
+          7153325
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "Basse-Normandie", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424819, 
@@ -2262,6 +2260,7 @@
         "ne:NAME_1": "Basse-Normandie", 
         "iso": "FR", 
         "sw_latitude": 48.18083201718389, 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Basse-Normandie Region"
         ], 

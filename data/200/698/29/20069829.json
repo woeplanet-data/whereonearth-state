@@ -1601,7 +1601,6 @@
       "properties": {
         "ne:ProvNumber": 4, 
         "ne:ScaleRank": 5, 
-        "ne:woe:id": "20069829", 
         "alias_ENG_P": [
           "South Kivu"
         ], 
@@ -1609,10 +1608,10 @@
         "ne:Shape_Area": 5.16139256723, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19660701", 
+        "ne:MAP_COLOR": 7, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "COD", 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 1894, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "20060201", 
         "sw_longitude": 26.821236606584193, 
@@ -1623,9 +1622,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -4.999952895109971, 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 1894, 
+        "ne:VertexCou": 380.0, 
+        "ne:VALIDFR_1": "19660701", 
+        "ne:DataRank": 3, 
         "ne:Postal": "KV", 
         "ne:Region_Cod": "ZAR-KIV", 
         "ne:VARNAME_1": "Sud-Kivou|Sud Kivou|Sud Kivu", 
@@ -1641,8 +1640,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 63428.7, 
         "woe:id": "20069829", 
-        "name": "Sud-Kivu", 
-        "ne:VertexCou": 380.0, 
+        "ne:HASC_1": "CD.KV", 
+        "lang": "FRE", 
         "adjacent_woeid": [
           2344900, 
           2344902, 
@@ -1656,7 +1655,7 @@
           55864753, 
           56017453
         ], 
-        "ne:HASC_1": "CD.KV", 
+        "name": "Sud-Kivu", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424780, 
         "ne_longitude": 29.410639275482254, 

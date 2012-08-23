@@ -2041,19 +2041,11 @@
         "alias_ENG_V": [
           "Dytiki Ellada"
         ], 
-        "ne:ISO": "GRC", 
         "alias_SWE_Q": [
           "V\u00e4stra Grekland"
         ], 
-        "ne:woe:id": "12577880", 
         "alias_POL_Q": [
           "Grecja Zachodnia"
-        ], 
-        "adjacent_woeid": [
-          12577883, 
-          12577887, 
-          12577888, 
-          12577889
         ], 
         "ne_latitude": 39.153941148565195, 
         "alias_RUM_Q": [
@@ -2062,7 +2054,7 @@
         "ne:Shape_Area": 1.12597211112, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1923", 
+        "ne:MAP_COLOR": 9, 
         "alias_POR_Q": [
           "Gr\u00e9cia Ocidental"
         ], 
@@ -2076,26 +2068,30 @@
         "alias_ARA_Q": [
           "\u063a\u0631\u0628 \u0627\u0644\u064a\u0648\u0646\u0627\u0646"
         ], 
-        "ne:Region_Cod": "GRC-PLP", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u897f\u5e0c\u814a"
         ], 
-        "alias_SPA_Q": [
-          "Grecia Occidental"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Grecia Occidentale"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 2886, 
+        "ne:NEV_Countr": "Greece", 
+        "alias_CZE_Q": [
+          "Z\u00e1padn\u00ed \u0158ecko"
+        ], 
         "alias_JPN_Q": [
           "\u897f\u30ae\u30ea\u30b7\u30e3"
         ], 
         "alias_SWE_S": [
           "Vaestra Grekland"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Grecia Occidental"
+        ], 
         "alias_FIN_Q": [
           "L\u00e4nsi-Kreikka"
         ], 
@@ -2112,13 +2108,13 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 2886, 
+        "ne:VertexCou": 503.0, 
+        "ne:VALIDFR_1": "1923", 
+        "ne:DataRank": 6, 
         "ne:Postal": "GW", 
-        "ne:LabelRank": 6, 
+        "ne:Region_Cod": "GRC-PLP", 
         "ne:VARNAME_1": "Greece West", 
-        "ne:Region_C_1": null, 
+        "ne:ISO": "GRC", 
         "ne:TYPE_1": "Diamerismata", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 10.2277611682, 
@@ -2127,24 +2123,25 @@
         ], 
         "ne:NAME_0": "Greece", 
         "ne:NAME_1": "Dytiki Ellada", 
-        "alias_CZE_S": [
-          "Zapadni Recko"
-        ], 
+        "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
-        "alias_CZE_Q": [
-          "Z\u00e1padn\u00ed \u0158ecko"
-        ], 
+        "ne:LabelRank": 6, 
         "ne:ADM0_A3": "GRC", 
         "ne:Area_sqkm": 10936.5, 
         "alias_GER_Q": [
           "Westgriechenland"
         ], 
         "woe:id": "12577880", 
-        "name": "West Greece", 
-        "ne:VertexCou": 503.0, 
-        "ne:NL_NAME_1": "??t???? ????d??", 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": "GR.GW", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          12577883, 
+          12577887, 
+          12577888, 
+          12577889
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "West Greece", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "alias_UNK_S": [
@@ -2159,22 +2156,24 @@
         ], 
         "ne_longitude": 22.37220584452416, 
         "longitude": 21.741, 
-        "alias_FRE_S": [
-          "Grece-Occidentale"
-        ], 
-        "iso": "GR", 
-        "sw_latitude": 37.37306793883437, 
         "alias_HUN_S": [
           "Nyugat-Goeroegorszag"
         ], 
+        "iso": "GR", 
+        "sw_latitude": 37.37306793883437, 
+        "ne:NL_NAME_1": "??t???? ????d??", 
+        "alias_CZE_S": [
+          "Zapadni Recko"
+        ], 
         "fullname": "West Greece, Dytiki Ellada, Greece", 
+        "ne:Region": "Peloponnisos", 
+        "alias_FRE_S": [
+          "Grece-Occidentale"
+        ], 
+        "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Gr\u00e8ce-Occidentale"
-        ], 
-        "ne:Region": "Peloponnisos", 
-        "ne:NEV_Countr": "Greece", 
-        "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        ]
       }, 
       "id": 12577880
     }

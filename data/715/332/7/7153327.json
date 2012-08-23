@@ -2543,18 +2543,11 @@
       "properties": {
         "ne:ProvNumber": 1, 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "7153327", 
-        "adjacent_woeid": [
-          7153309, 
-          7153314, 
-          7153321, 
-          7153325
-        ], 
         "ne_latitude": 47.16058421498957, 
         "ne:Shape_Area": 3.0104190826, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_KOR_Q": [
           "\ud478\uc544\ud22c\uc0e4\ub791\ud2b8"
         ], 
@@ -2563,7 +2556,7 @@
         "alias_CHI_Q": [
           "\u666e\u74e6\u56fe-\u590f\u6717\u5fb7"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2663, 
         "alias_JPN_Q": [
           "\u30dd\u30ef\u30c8\u30a5\u30fc\u30fb\u30b7\u30e3\u30e9\u30f3\u30c8\u5730\u57df\u570f"
         ], 
@@ -2577,9 +2570,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 45.10114919677807, 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2663, 
+        "ne:VertexCou": 627.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2595,16 +2588,22 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 25842.7, 
         "woe:id": "7153327", 
-        "name": "Poitou-Charentes", 
-        "ne:VertexCou": 627.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          7153309, 
+          7153314, 
+          7153321, 
+          7153325
+        ], 
+        "name": "Poitou-Charentes", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424819, 
         "ne_longitude": 1.194687127708846, 
         "longitude": -0.015, 
         "iso": "FR", 
         "date_indexed": "2010-12-02T11:51:35Z", 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Poitou-Charentes Region"
         ], 

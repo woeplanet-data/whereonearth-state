@@ -861,20 +861,15 @@
         "alias_ENG_V": [
           "Silesian Voivodeship"
         ], 
-        "alias_POL_S": [
-          "Slaskie"
-        ], 
-        "ne:woe:id": "12577946", 
+        "ne:ScaleRank": 5, 
         "alias_ENG_P": [
           "Silesian"
         ], 
         "ne_latitude": 51.037117621481116, 
-        "ne:ScaleRank": 5, 
         "ne:Shape_Area": 1.54580799397, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
         "ne:VALIDFR_1": "19980727", 
-        "ne:Region_C_3": null, 
         "alias_POR_Q": [
           "Silesia"
         ], 
@@ -887,15 +882,16 @@
         "alias_ITA_Q": [
           "Slesia"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30b7\u30ed\u30f3\u30b9\u30af\u770c"
         ], 
+        "fullname": "Sl\u0105skie, Silesian, Poland", 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Silesia"
         ], 
-        "ne:ProvNumber": 2000, 
         "sw_longitude": 18.01908654121098, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.247, 
@@ -913,7 +909,7 @@
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Slaskie", 
         "ne:ISO": "POL", 
-        "ne:TYPE_1": "Wojew\u00f3dztwo", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 7.4563877529, 
         "alias_DUT_Q": [
@@ -924,8 +920,11 @@
           "Silezie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:sameAsCity": -99, 
+        "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne:LabelRank": 5, 
+        "alias_POL_S": [
+          "Slaskie"
+        ], 
         "ne:Area_sqkm": 12248.3, 
         "alias_GER_Q": [
           "Oberschlesien"
@@ -954,7 +953,7 @@
         "iso": "PL", 
         "sw_latitude": 49.387011623487695, 
         "ne:NL_NAME_1": null, 
-        "fullname": "Sl\u0105skie, Silesian, Poland", 
+        "ne:ProvNumber": 2000, 
         "ne:Region": null, 
         "ne:NEV_Countr": "Poland", 
         "ne:RegionVar": null, 

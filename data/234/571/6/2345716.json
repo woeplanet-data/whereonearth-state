@@ -1487,26 +1487,17 @@
       "properties": {
         "ne:ProvNumber": 19, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "2345716", 
         "alias_ENG_P": [
           "Central Java"
-        ], 
-        "adjacent_woeid": [
-          2345715, 
-          2345717, 
-          2345719
         ], 
         "ne_latitude": -5.831581719820463, 
         "ne:Shape_Area": 2.78885022258, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1950", 
-        "alias_UNK_V": [
-          "Jawa Tengah"
-        ], 
+        "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IDN", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 1224, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 108.54689415883843, 
@@ -1517,9 +1508,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -8.22611256264463, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 1224, 
+        "ne:VertexCou": 363.0, 
+        "ne:VALIDFR_1": "1950", 
+        "ne:DataRank": 1, 
         "ne:Postal": "JT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Jateng", 
@@ -1535,16 +1526,24 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 34058.9, 
         "woe:id": "2345716", 
-        "name": "Provinsi Jawa Tengah", 
-        "ne:VertexCou": 363.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "ID.JT", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          2345715, 
+          2345717, 
+          2345719
+        ], 
+        "name": "Provinsi Jawa Tengah", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424846, 
-        "ne_longitude": 111.67295657748411, 
+        "alias_UNK_V": [
+          "Jawa Tengah"
+        ], 
         "longitude": 110.137, 
+        "ne_longitude": 111.67295657748411, 
         "iso": "ID", 
         "date_indexed": "2010-12-02T16:52:36Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Provinsi Jawa Tengah, Central Java, Indonesia", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Indonesia", 

@@ -5167,28 +5167,16 @@
         "alias_ENG_V": [
           "N Rhine-Westphalia"
         ], 
+        "ne:ISO": "DEU", 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "2345487", 
         "alias_ENG_P": [
           "North Rhine-Westphalia"
         ], 
-        "adjacent_woeid": [
-          2345485, 
-          2345486, 
-          2345488, 
-          2346375, 
-          2346377, 
-          2346380, 
-          7153300
-        ], 
         "ne_latitude": 52.5241844753333, 
-        "alias_GER_A": [
-          "NRW"
-        ], 
         "ne:Shape_Area": 4.46910821674, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 1, 
         "alias_KOR_Q": [
           "\ub178\ub974\ud2b8\ub77c\uc778\ubca0\uc2a4\ud2b8\ud314\ub80c\uc8fc"
         ], 
@@ -5200,13 +5188,12 @@
         "alias_ITA_Q": [
           "Renania Settentrionale-Vestfalia"
         ], 
-        "alias_GER_V": [
-          "Land Nordrhein-Westfalen"
-        ], 
-        "ne:DataRank": 3, 
+        "ne:Area_sqkm": 34545.9, 
+        "ne:OBJECTID": 1572, 
         "alias_JPN_Q": [
           "\u30ce\u30eb\u30c8\u30e9\u30a4\u30f3\u30fb\u30a6\u30a7\u30b9\u30c8\u30d5\u30a1\u30fc\u30ec\u30f3"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 5.852025587211131, 
@@ -5217,13 +5204,15 @@
         "ne:FIRST_HASC": "DE.NI|DEU-NWS", 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T09:36:24Z", 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 1572, 
+        "ne:VertexCou": 1241.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": "NW", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "North Rhine-Westphalia", 
-        "ne:ISO": "DEU", 
+        "alias_GER_A": [
+          "NRW"
+        ], 
         "ne:TYPE_1": "Land", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 15.3315761528, 
@@ -5235,33 +5224,43 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 34545.9, 
+        "alias_GER_V": [
+          "Land Nordrhein-Westfalen"
+        ], 
         "woe:id": "2345487", 
-        "name": "Nordrhein-Westfalen", 
-        "ne:VertexCou": 1241.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "DE.NW", 
+        "lang": "GER", 
+        "adjacent_woeid": [
+          2345485, 
+          2345486, 
+          2345488, 
+          2346375, 
+          2346377, 
+          2346380, 
+          7153300
+        ], 
+        "name": "Nordrhein-Westfalen", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "parent_woeid": 23424829, 
         "ne_longitude": 9.462141147196235, 
         "longitude": 7.664, 
-        "alias_FRE_S": [
-          "Rhenanie-du-Nord-Westphalie"
-        ], 
+        "ne:NEV_Countr": "Germany", 
         "iso": "DE", 
         "sw_latitude": 50.32307851865875, 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Rh\u00e9nanie-du-Nord-Westphalie"
         ], 
         "fullname": "Nordrhein-Westfalen, North Rhine-Westphalia, Germany", 
+        "ne:Region": null, 
+        "alias_FRE_S": [
+          "Rhenanie-du-Nord-Westphalie"
+        ], 
+        "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Rhin-du-Nord-Westphalie"
-        ], 
-        "ne:Region": null, 
-        "ne:NEV_Countr": "Germany", 
-        "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        ]
       }, 
       "id": 2345487
     }

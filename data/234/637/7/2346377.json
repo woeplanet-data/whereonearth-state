@@ -993,34 +993,26 @@
       "properties": {
         "ne:ProvNumber": 10, 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "2346377", 
-        "adjacent_woeid": [
-          2345487, 
-          2346375, 
-          2346378, 
-          7153300, 
-          7153301
-        ], 
         "ne_latitude": 51.777925116950655, 
         "ne:Shape_Area": 0.268997547262, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 9, 
         "alias_POR_Q": [
           "Limburgo"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
-        "ne:Region_Cod": null, 
-        "alias_SPA_Q": [
-          "Limburgo"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Limburgo"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 898, 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Limburgo"
+        ], 
         "sw_longitude": 5.551630486857505, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 51.264, 
@@ -1032,10 +1024,13 @@
         "alias_DUT_A": [
           "LM"
         ], 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 898, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "LI", 
-        "ne:LabelRank": 8, 
+        "alias_DUT_V": [
+          "Limburg Provincie"
+        ], 
+        "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Limbourg|Limburgo", 
         "ne:ISO": "NLD", 
         "ne:TYPE_1": "Provincie", 
@@ -1046,15 +1041,19 @@
         "ne:NAME_1": "Limburg", 
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
-        "alias_DUT_V": [
-          "Limburg Provincie"
-        ], 
+        "ne:LabelRank": 8, 
         "ne:Area_sqkm": 2091.8, 
         "woe:id": "2346377", 
-        "name": "Limburg", 
-        "lang": "DUT", 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "NL.LI", 
+        "lang": "DUT", 
+        "adjacent_woeid": [
+          2345487, 
+          2346375, 
+          2346378, 
+          7153300, 
+          7153301
+        ], 
+        "name": "Limburg", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424909, 
         "ne_longitude": 6.20740441278349, 
@@ -1062,14 +1061,14 @@
         "ne:VertexCou": 206.0, 
         "iso": "NL", 
         "sw_latitude": 50.74791046779393, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Limburg, Netherlands", 
-        "alias_FRE_Q": [
-          "Limbourg"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Netherlands", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Limbourg"
+        ]
       }, 
       "id": 2346377
     }

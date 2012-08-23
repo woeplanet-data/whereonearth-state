@@ -2194,17 +2194,11 @@
         "alias_KOR_Q": [
           "\ubbf8\uc2dc\uac04"
         ], 
-        "ne:woe:id": "2347581", 
-        "adjacent_woeid": [
-          2347573, 
-          2347594, 
-          2347608
-        ], 
         "ne_latitude": 48.305448423705855, 
         "ne:Shape_Area": 28.4888638, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18360704", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "Mich"
         ], 
@@ -2214,7 +2208,7 @@
         "alias_CHI_Q": [
           "\u5bc6\u6267\u5b89"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3562, 
         "alias_JPN_Q": [
           "\u30df\u30b7\u30ac\u30f3"
         ], 
@@ -2228,9 +2222,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 41.700394712845764, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3562, 
+        "ne:VertexCou": 542.0, 
+        "ne:VALIDFR_1": "18360704", 
+        "ne:DataRank": 1, 
         "ne:Postal": "MI", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "MI|Mich.", 
@@ -2246,16 +2240,21 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 250046.7, 
         "woe:id": "2347581", 
-        "name": "Michigan", 
-        "ne:VertexCou": 542.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.MI", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347573, 
+          2347594, 
+          2347608
+        ], 
+        "name": "Michigan", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -82.1461121033908, 
         "longitude": -84.622, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Michigan, United States", 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 

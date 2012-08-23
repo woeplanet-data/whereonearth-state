@@ -7136,28 +7136,14 @@
         "alias_SWE_Q": [
           "V\u00e4stbengalen"
         ], 
-        "ne:woe:id": "2345761", 
         "alias_SWE_S": [
           "Vastbengalen"
-        ], 
-        "adjacent_woeid": [
-          2344792, 
-          2344793, 
-          2344873, 
-          2344876, 
-          2344883, 
-          2345741, 
-          2345742, 
-          2345755, 
-          2345762, 
-          20070023, 
-          20070463
         ], 
         "ne_latitude": 27.24929311808296, 
         "ne:Shape_Area": 7.65342257657, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_KOR_Q": [
           "\uc11c\ubcb5\uace8"
         ], 
@@ -7167,7 +7153,7 @@
         "alias_CHI_Q": [
           "\u897f\u5b5f\u52a0\u62c9\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3257, 
         "alias_JPN_Q": [
           "\u897f\u30d9\u30f3\u30ac\u30eb"
         ], 
@@ -7189,12 +7175,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T08:59:14Z", 
-        "lang": "ENG", 
+        "ne:VertexCou": 1633.0, 
         "alias_ENG_A": [
           "WB"
         ], 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3257, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "WB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Bangla|Bengala Occidentale|Bengala Ocidental|Bengale occidental", 
@@ -7210,17 +7196,30 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 86348.8, 
         "woe:id": "2345761", 
-        "name": "West Bengal", 
-        "ne:VertexCou": 1633.0, 
-        "ne:NL_NAME_1": null, 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": "IN.WB", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344792, 
+          2344793, 
+          2344873, 
+          2344876, 
+          2344883, 
+          2345741, 
+          2345742, 
+          2345755, 
+          2345762, 
+          20070023, 
+          20070463
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "West Bengal", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424848, 
         "ne_longitude": 89.88849816236035, 
         "longitude": 87.853, 
         "iso": "IN", 
         "sw_latitude": 21.523492743695215, 
+        "ne:NL_NAME_1": null, 
         "fullname": "West Bengal, India", 
         "ne:Region": null, 
         "ne:NEV_Countr": "India", 

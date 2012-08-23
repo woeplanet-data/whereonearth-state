@@ -1050,7 +1050,6 @@
           "Gotlands L\u00e4ns"
         ], 
         "ne:ScaleRank": 7, 
-        "ne:woe:id": "2347048", 
         "alias_ENG_P": [
           "Gotland"
         ], 
@@ -1058,27 +1057,26 @@
         "ne:Shape_Area": 0.464536877459, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "alias_POR_Q": [
           "Gotland"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "SWE", 
-        "alias_SPA_Q": [
-          "Gotland"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Gotland"
         ], 
-        "alias_DAN_Q": [
-          "Gotland"
-        ], 
-        "ne:DataRank": 7, 
+        "ne:Area_sqkm": 3100.8, 
+        "ne:OBJECTID": 193, 
         "alias_SWE_S": [
           "Gotlands"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Gotland"
+        ], 
         "alias_FIN_Q": [
           "Gotlanti"
         ], 
@@ -1092,9 +1090,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T16:43:54Z", 
-        "lang": "SWE", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 193, 
+        "ne:VertexCou": 253.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 7, 
         "ne:Postal": "GT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Gotlands l\u00e4n|Gothland|Gottland", 
@@ -1110,16 +1108,18 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 7, 
-        "ne:Area_sqkm": 3100.8, 
+        "alias_DAN_Q": [
+          "Gotland"
+        ], 
         "alias_GER_Q": [
           "Gotland"
         ], 
         "woe:id": "2347048", 
-        "name": "Gotlands L\u00e4n", 
-        "ne:VertexCou": 253.0, 
+        "ne:HASC_1": "SE.GT", 
+        "lang": "SWE", 
         "ne:NL_NAME_1": null, 
         "ne:FIRST_FIPS": "SW05", 
-        "ne:HASC_1": "SE.GT", 
+        "name": "Gotlands L\u00e4n", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "parent_woeid": 23424954, 
@@ -1128,13 +1128,12 @@
         "iso": "SE", 
         "sw_latitude": 56.91208201727136, 
         "fullname": "Gotlands L\u00e4n, Gotland, Sweden", 
-        "alias_FRE_Q": [
-          "Gotland"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Sweden", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Gotland"
+        ]
       }, 
       "id": 2347048
     }

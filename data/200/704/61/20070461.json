@@ -1557,19 +1557,11 @@
       "properties": {
         "ne:ProvNumber": 2004, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "20070461", 
-        "adjacent_woeid": [
-          2344790, 
-          2344811, 
-          2345741, 
-          2345751, 
-          2345759
-        ], 
         "ne_latitude": 24.482950343883317, 
         "ne:Shape_Area": 1.87479612455, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_KOR_Q": [
           "\ubbf8\uc870\ub78c"
         ], 
@@ -1578,7 +1570,7 @@
         "alias_CHI_Q": [
           "\u7c73\u4f50\u62c9\u59c6\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3300, 
         "alias_JPN_Q": [
           "\u30df\u30be\u30e9\u30e0"
         ], 
@@ -1592,9 +1584,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 21.95721303975006, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3300, 
+        "ne:VertexCou": 355.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "MZ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1610,16 +1602,23 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 21239.6, 
         "woe:id": "20070461", 
-        "name": "Mizoram", 
-        "ne:VertexCou": 355.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IN.MZ", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344790, 
+          2344811, 
+          2345741, 
+          2345751, 
+          2345759
+        ], 
+        "name": "Mizoram", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424848, 
         "ne_longitude": 93.43205447773204, 
         "longitude": 92.84, 
         "iso": "IN", 
         "date_indexed": "2010-12-02T08:59:14Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Mizoram, India", 
         "ne:Region": null, 
         "ne:NEV_Countr": "India", 

@@ -456,50 +456,44 @@
           "Nidwalden"
         ], 
         "ne:ScaleRank": 9, 
-        "ne:woe:id": "2347095", 
         "alias_ENG_P": [
           "Canton of Nidwalden"
         ], 
-        "adjacent_woeid": [
-          2347087, 
-          2347093, 
-          2347096, 
-          2347099, 
-          2347103
-        ], 
         "ne_latitude": 47.0112910023779, 
-        "ne:DataRank": 7, 
+        "alias_GER_A": [
+          "NW"
+        ], 
         "ne:Shape_Area": 0.0320848783795, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
-        "alias_SPA_Q": [
-          "Unterwalden bajo"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Canton Nidvaldo"
         ], 
-        "alias_GER_V": [
-          "Nidwalden"
-        ], 
+        "ne:Area_sqkm": 271.6, 
         "alias_ITA_V": [
           "Nidvaldo"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Unterwalden bajo"
+        ], 
         "sw_longitude": 8.222320183829481, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.896, 
+        "iso": "CH", 
         "ne:FIPS_1": "SZ13", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "date_indexed": "2010-12-02T18:19:21Z", 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 164, 
+        "ne:VertexCou": 109.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 7, 
         "ne:Postal": "NW", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Nidvaldo|Nidwald|Unterwalden-le-Bas|Nidwaldo", 
@@ -513,15 +507,20 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 9, 
-        "alias_GER_A": [
-          "NW"
+        "alias_GER_V": [
+          "Nidwalden"
         ], 
-        "ne:Area_sqkm": 271.6, 
         "woe:id": "2347095", 
-        "name": "Kanton Nidwalden", 
-        "ne:VertexCou": 109.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "CH.NW", 
+        "lang": "GER", 
+        "adjacent_woeid": [
+          2347087, 
+          2347093, 
+          2347096, 
+          2347099, 
+          2347103
+        ], 
+        "name": "Kanton Nidwalden", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424957, 
         "alias_UNK_Q": [
@@ -529,19 +528,19 @@
         ], 
         "ne_longitude": 8.563229607460471, 
         "longitude": 8.397, 
-        "iso": "CH", 
+        "ne:OBJECTID": 164, 
         "sw_latitude": 46.77510386824895, 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Nidwald"
         ], 
         "fullname": "Kanton Nidwalden, Canton of Nidwalden, Switzerland", 
-        "alias_FRE_Q": [
-          "Canton de Nidwald"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Switzerland", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Canton de Nidwald"
+        ]
       }, 
       "id": 2347095
     }

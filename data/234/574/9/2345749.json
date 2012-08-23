@@ -10103,19 +10103,11 @@
         "alias_KOR_Q": [
           "\ub9c8\ub514\uc57c\ud504\ub808\ub370\uc2dc"
         ], 
-        "ne:woe:id": "2345749", 
-        "adjacent_woeid": [
-          2345743, 
-          2345750, 
-          2345757, 
-          2345760, 
-          20070464
-        ], 
         "ne_latitude": 26.85980784745425, 
         "ne:Shape_Area": 27.3759098122, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "MP"
         ], 
@@ -10125,7 +10117,7 @@
         "alias_CHI_Q": [
           "\u4e2d\u592e\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3261, 
         "alias_JPN_Q": [
           "\u30de\u30c9\u30e4\u30fb\u30d1\u30e9\u30c7\u30b7\u30e5"
         ], 
@@ -10139,9 +10131,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 21.074786281761533, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3261, 
+        "ne:VertexCou": 2521.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "MP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -10157,16 +10149,23 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 309518.8, 
         "woe:id": "2345749", 
-        "name": "Madhya Pradesh", 
-        "ne:VertexCou": 2521.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IN.MP", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345743, 
+          2345750, 
+          2345757, 
+          2345760, 
+          20070464
+        ], 
+        "name": "Madhya Pradesh", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424848, 
         "ne_longitude": 82.81802534389459, 
         "longitude": 78.429, 
         "iso": "IN", 
         "date_indexed": "2010-12-02T08:59:14Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Madhya Pradesh, India", 
         "ne:Region": null, 
         "ne:NEV_Countr": "India", 

@@ -1879,21 +1879,11 @@
         "alias_SWE_Q": [
           "Alma-Ata"
         ], 
-        "ne:woe:id": "20070180", 
-        "adjacent_woeid": [
-          2345983, 
-          12578003, 
-          20070175, 
-          20070178, 
-          20070179, 
-          20070190, 
-          20070195
-        ], 
         "ne_latitude": 47.304296373478905, 
         "ne:Shape_Area": 25.3398050467, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19970422", 
+        "ne:MAP_COLOR": 1, 
         "alias_KOR_Q": [
           "\uc54c\ub9c8\ud2f0"
         ], 
@@ -1903,7 +1893,7 @@
         "alias_CHI_Q": [
           "\u963f\u62c9\u6728\u56fe"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 3207, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30de\u30c8\u30a4"
         ], 
@@ -1917,9 +1907,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 42.18969900190746, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3207, 
+        "ne:VertexCou": 431.0, 
+        "ne:VALIDFR_1": "19970422", 
+        "ne:DataRank": 6, 
         "ne:Postal": "AA", 
         "ne:Region_Cod": "KAZ-TKG", 
         "ne:VARNAME_1": "Alma-Ata|Alma-Atinskaya Oblast'|Almatinskaya Oblast'", 
@@ -1935,16 +1925,25 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 222133.3, 
         "woe:id": "20070180", 
-        "name": "Almaty", 
-        "ne:VertexCou": 431.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "KZ.AA", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345983, 
+          12578003, 
+          20070175, 
+          20070178, 
+          20070179, 
+          20070190, 
+          20070195
+        ], 
+        "name": "Almaty", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424871, 
         "ne_longitude": 82.63602094930741, 
         "longitude": 78.016, 
         "iso": "KZ", 
         "date_indexed": "2010-12-02T08:54:03Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Almaty, Kazakhstan", 
         "ne:Region": "Taldy Kurgan", 
         "ne:NEV_Countr": "Kazakhstan", 

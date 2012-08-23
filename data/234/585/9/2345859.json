@@ -1034,24 +1034,14 @@
         "alias_SWE_Q": [
           "Gifu Prefektur"
         ], 
-        "ne:woe:id": "2345859", 
         "alias_ENG_P": [
           "Gifu Prefecture"
-        ], 
-        "adjacent_woeid": [
-          2345851, 
-          2345856, 
-          2345864, 
-          2345872, 
-          2345875, 
-          2345884, 
-          2345891
         ], 
         "ne_latitude": 36.45224559196055, 
         "ne:Shape_Area": 1.06503764363, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "alias_KOR_Q": [
           "\uae30\ud6c4\ucf04"
         ], 
@@ -1061,7 +1051,7 @@
         "alias_CHI_Q": [
           "\u5c90\u961c\u53bf"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1841, 
         "alias_JPN_V": [
           "\u5c90\u961c"
         ], 
@@ -1080,9 +1070,9 @@
         "ne:FIRST_HASC": "JP.AI", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1841, 
+        "ne:VertexCou": 253.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "GF", 
         "ne:Region_Cod": "JPN-CHB", 
         "ne:VARNAME_1": "Gihu", 
@@ -1101,17 +1091,26 @@
           "Pr\u00e4fektur Gifu"
         ], 
         "woe:id": "2345859", 
-        "name": "\u5c90\u961c\u770c", 
-        "ne:VertexCou": 253.0, 
-        "ne:NL_NAME_1": "???", 
-        "ne:FIRST_FIPS": "JA01", 
         "ne:HASC_1": "JP.GF", 
+        "lang": "JPN", 
+        "adjacent_woeid": [
+          2345851, 
+          2345856, 
+          2345864, 
+          2345872, 
+          2345875, 
+          2345884, 
+          2345891
+        ], 
+        "ne:FIRST_FIPS": "JA01", 
+        "name": "\u5c90\u961c\u770c", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424856, 
         "ne_longitude": 137.6244991399234, 
         "longitude": 136.965, 
         "iso": "JP", 
         "sw_latitude": 35.138811550612616, 
+        "ne:NL_NAME_1": "???", 
         "fullname": "\u5c90\u961c\u770c, Gifu Prefecture, Japan", 
         "ne:Region": "Chubu", 
         "ne:NEV_Countr": "Japan", 

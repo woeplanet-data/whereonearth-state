@@ -925,25 +925,17 @@
       "properties": {
         "ne:ProvNumber": 2, 
         "ne:ScaleRank": 7, 
-        "ne:woe:id": "55848078", 
         "alias_ENG_P": [
           "Marijampole County"
-        ], 
-        "adjacent_woeid": [
-          12577944, 
-          12577948, 
-          55848082, 
-          55848084, 
-          55848087
         ], 
         "ne_latitude": 55.10537059177943, 
         "ne:Shape_Area": 0.659490702667, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1990", 
+        "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "LTU", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 1070, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 22.57131513848293, 
@@ -954,9 +946,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 54.22648366968565, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 1070, 
+        "ne:VertexCou": 222.0, 
+        "ne:VALIDFR_1": "1990", 
+        "ne:DataRank": 8, 
         "ne:Postal": "MA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Marijampole|Mariampol", 
@@ -972,10 +964,16 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 4732.8, 
         "woe:id": "55848078", 
-        "name": "Marijampol\u00ecs Apskritis", 
-        "ne:VertexCou": 222.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "LT.MA", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          12577944, 
+          12577948, 
+          55848082, 
+          55848084, 
+          55848087
+        ], 
+        "name": "Marijampol\u00ecs Apskritis", 
         "ne:REMARKS_1": "NUTS code LT004", 
         "alias_UNK_S": [
           "Marijampolis Apskritis"
@@ -985,6 +983,7 @@
         "longitude": 23.192, 
         "iso": "LT", 
         "date_indexed": "2010-12-02T09:35:48Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Marijampol\u00ecs Apskritis, Marijampole County, Lithuania", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Lithuania", 

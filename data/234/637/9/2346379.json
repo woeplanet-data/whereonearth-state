@@ -632,39 +632,31 @@
         "alias_SWE_Q": [
           "Norra Holland"
         ], 
-        "ne:woe:id": "2346379", 
         "alias_ENG_P": [
           "North Holland"
-        ], 
-        "adjacent_woeid": [
-          2346381, 
-          2346383, 
-          2346384
         ], 
         "ne_latitude": 53.187864895348696, 
         "ne:Shape_Area": 0.462163102284, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1930", 
+        "ne:MAP_COLOR": 9, 
         "alias_POR_Q": [
           "Holando do Norte"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
-        "ne:Region_Cod": null, 
         "ne:ScaleRank": 8, 
-        "alias_SPA_Q": [
-          "Holanda Septentrional"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Olanda Settentrionale"
         ], 
-        "alias_DAN_Q": [
-          "Nordholland"
-        ], 
-        "ne:DataRank": 8, 
+        "ne:Area_sqkm": 3484.3, 
+        "ne:OBJECTID": 3486, 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Holanda Septentrional"
+        ], 
         "sw_longitude": 4.499033236994364, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.583, 
@@ -678,10 +670,13 @@
         "alias_DUT_A": [
           "NH"
         ], 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 3486, 
+        "ne:VALIDFR_1": "1930", 
+        "ne:DataRank": 8, 
         "ne:Postal": null, 
-        "ne:LabelRank": 8, 
+        "alias_DUT_V": [
+          "Noordholland"
+        ], 
+        "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Holanda do Norte|Hollande-septentrionale|North Holland", 
         "ne:ISO": "NLD", 
         "ne:TYPE_1": "Provincie", 
@@ -692,16 +687,20 @@
         "ne:NAME_1": "Noord-Holland", 
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
-        "alias_DUT_V": [
-          "Noordholland"
+        "ne:LabelRank": 8, 
+        "alias_DAN_Q": [
+          "Nordholland"
         ], 
-        "ne:Area_sqkm": 3484.3, 
         "woe:id": "2346379", 
-        "name": "Noord-Holland", 
-        "lang": "DUT", 
-        "ne:NL_NAME_1": null, 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": "NL.NH", 
+        "lang": "DUT", 
+        "adjacent_woeid": [
+          2346381, 
+          2346383, 
+          2346384
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "Noord-Holland", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424909, 
         "ne_longitude": 5.370207544442678, 
@@ -709,14 +708,14 @@
         "ne:VertexCou": 205.0, 
         "iso": "NL", 
         "sw_latitude": 52.168110315538684, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Noord-Holland, North Holland, Netherlands", 
-        "alias_FRE_Q": [
-          "Hollande Septentrionale"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Hollande Septentrionale"
+        ]
       }, 
       "id": 2346379
     }

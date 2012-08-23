@@ -3046,29 +3046,18 @@
           "Kwa Zulu Natal"
         ], 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "2346982", 
-        "adjacent_woeid": [
-          2346314, 
-          2346979, 
-          2346980, 
-          2346983, 
-          20069861, 
-          20069864, 
-          20069866, 
-          20069890, 
-          20069891
-        ], 
         "ne_latitude": -26.80818246844609, 
         "ne:Shape_Area": 8.61205602369, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 2, 
         "alias_KOR_Q": [
           "\ud06c\uc640\uc904\ub8e8\ub098\ud0c8"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ZAF", 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 1216, 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 28.752849968851024, 
@@ -3081,9 +3070,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -31.078051038924286, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 1216, 
+        "ne:VertexCou": 736.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": "NL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Natal and Zululand", 
@@ -3099,28 +3088,38 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 93247.7, 
         "woe:id": "2346982", 
-        "name": "Kwazulu Natal", 
-        "ne:VertexCou": 736.0, 
-        "ne:NL_NAME_1": null, 
-        "ne:FIRST_FIPS": "SF02", 
         "ne:HASC_1": "ZA.NL", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2346314, 
+          2346979, 
+          2346980, 
+          2346983, 
+          20069861, 
+          20069864, 
+          20069866, 
+          20069890, 
+          20069891
+        ], 
+        "ne:FIRST_FIPS": "SF02", 
+        "name": "Kwazulu Natal", 
         "ne:REMARKS_1": "CSS 5, Formerly part of Natal, Cape of Good Hope", 
         "parent_woeid": 23424942, 
         "ne_longitude": 32.893320754049626, 
         "longitude": 30.827, 
         "iso": "ZA", 
         "date_indexed": "2010-12-02T08:57:23Z", 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "KZN"
         ], 
         "fullname": "Kwazulu Natal, South Africa", 
-        "alias_FRE_Q": [
-          "KwaZulu-Natal"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "South Africa", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "KwaZulu-Natal"
+        ]
       }, 
       "id": 2346982
     }

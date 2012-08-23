@@ -7859,28 +7859,20 @@
       "properties": {
         "ne:ProvNumber": 4, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "12577992", 
         "alias_ENG_P": [
           "Zhejiang"
-        ], 
-        "adjacent_woeid": [
-          12577993, 
-          12577994, 
-          12577997, 
-          12578012, 
-          12578022
         ], 
         "ne_latitude": 31.177838853780145, 
         "ne:Shape_Area": 9.27604078142, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\uc800\uc7a5\uc131"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 1820, 
         "alias_CHI_V": [
           "\u6d59\u6c5f"
         ], 
@@ -7900,9 +7892,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 27.18224294705442, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1820, 
+        "ne:VertexCou": 1930.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "ZJ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Zh\u00e8jiang", 
@@ -7918,16 +7910,23 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 100005.5, 
         "woe:id": "12577992", 
-        "name": "\u6d59\u6c5f\u7701", 
-        "ne:VertexCou": 1930.0, 
-        "ne:NL_NAME_1": "??", 
         "ne:HASC_1": "CN.ZJ", 
+        "lang": "CHI", 
+        "adjacent_woeid": [
+          12577993, 
+          12577994, 
+          12577997, 
+          12578012, 
+          12578022
+        ], 
+        "name": "\u6d59\u6c5f\u7701", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424781, 
         "ne_longitude": 122.53115685390571, 
         "longitude": 120.084, 
         "iso": "CN", 
         "date_indexed": "2010-12-02T08:51:01Z", 
+        "ne:NL_NAME_1": "??", 
         "fullname": "\u6d59\u6c5f\u7701, Zhejiang, China", 
         "ne:Region": null, 
         "ne:NEV_Countr": "China", 

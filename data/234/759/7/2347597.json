@@ -1306,20 +1306,11 @@
         "alias_ENG_A": [
           "Penn"
         ], 
-        "ne:woe:id": "2347597", 
-        "adjacent_woeid": [
-          2347566, 
-          2347579, 
-          2347589, 
-          2347591, 
-          2347594, 
-          2347607
-        ], 
         "ne_latitude": 42.538334165789195, 
         "ne:Shape_Area": 12.7562059199, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "17760704", 
+        "ne:MAP_COLOR": 1, 
         "alias_POR_Q": [
           "Pensilv\u00e2nia"
         ], 
@@ -1332,10 +1323,9 @@
         "alias_CHI_Q": [
           "\u5bbe\u5915\u6cd5\u5c3c\u4e9a"
         ], 
-        "alias_SPA_Q": [
-          "Pensilvania"
-        ], 
-        "ne:DataRank": 1, 
+        "ne:VALIDTO_1": "Present", 
+        "ne:sameAsCity": -99, 
+        "ne:OBJECTID": 3560, 
         "alias_JPN_Q": [
           "\u30da\u30f3\u30b7\u30eb\u30d0\u30cb\u30a2"
         ], 
@@ -1343,7 +1333,9 @@
           "\u30da\u30f3\u30b7\u30eb\u30d9\u30cb\u30a2"
         ], 
         "ne:Abbrev": "Pa.", 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Pensilvania"
+        ], 
         "sw_longitude": -80.52023319740408, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.995, 
@@ -1352,9 +1344,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3560, 
+        "ne:VertexCou": 319.0, 
+        "ne:VALIDFR_1": "17760704", 
+        "ne:DataRank": 1, 
         "ne:Postal": "PA", 
         "ne:Region_Cod": "Northeast", 
         "ne:VARNAME_1": "Commonwealth of Pennsylvania|PA", 
@@ -1372,10 +1364,17 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 119322.5, 
         "woe:id": "2347597", 
-        "name": "Pennsylvania", 
-        "ne:VertexCou": 319.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.PA", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347566, 
+          2347579, 
+          2347589, 
+          2347591, 
+          2347594, 
+          2347607
+        ], 
+        "name": "Pennsylvania", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424977, 
@@ -1383,14 +1382,14 @@
         "longitude": -77.605, 
         "iso": "US", 
         "sw_latitude": 39.7210490101038, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Pennsylvania, United States", 
-        "alias_FRE_Q": [
-          "Pennsylvanie"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Pennsylvanie"
+        ]
       }, 
       "id": 2347597
     }

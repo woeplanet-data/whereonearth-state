@@ -8446,26 +8446,11 @@
         "alias_KOR_Q": [
           "\uc6b0\ud0c0\ub974\ud504\ub77c\ub370\uc2dc"
         ], 
-        "ne:woe:id": "2345760", 
-        "adjacent_woeid": [
-          2345742, 
-          2345744, 
-          2345745, 
-          2345749, 
-          2345757, 
-          20070018, 
-          20070026, 
-          20070030, 
-          20070458, 
-          20070462, 
-          20070463, 
-          20070464
-        ], 
         "ne_latitude": 30.40202057568905, 
         "ne:Shape_Area": 21.8397879594, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "UP"
         ], 
@@ -8475,7 +8460,7 @@
         "alias_CHI_Q": [
           "\u5317\u65b9\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3253, 
         "alias_JPN_Q": [
           "\u30a6\u30c3\u30bf\u30eb\u30d7\u30e9\u30c7\u30b7\u5dde"
         ], 
@@ -8489,9 +8474,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 23.91104726841678, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3253, 
+        "ne:VertexCou": 2096.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "UP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "United Provinces", 
@@ -8507,16 +8492,30 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 240262.4, 
         "woe:id": "2345760", 
-        "name": "Uttar Pradesh", 
-        "ne:VertexCou": 2096.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IN.UP", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345742, 
+          2345744, 
+          2345745, 
+          2345749, 
+          2345757, 
+          20070018, 
+          20070026, 
+          20070030, 
+          20070458, 
+          20070462, 
+          20070463, 
+          20070464
+        ], 
+        "name": "Uttar Pradesh", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424848, 
         "ne_longitude": 84.6124377786806, 
         "longitude": 80.862, 
         "iso": "IN", 
         "date_indexed": "2010-12-02T08:59:14Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Uttar Pradesh, India", 
         "ne:Region": null, 
         "ne:NEV_Countr": "India", 

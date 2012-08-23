@@ -959,27 +959,17 @@
           "Contae Chill Mhantain"
         ], 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "2345274", 
-        "adjacent_woeid": [
-          2345249, 
-          2345254, 
-          2345257, 
-          2345273
-        ], 
         "ne_latitude": 53.22398672111035, 
         "ne:Shape_Area": 0.265343037893, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
-        "alias_UNK_V": [
-          "Contae Chill Mhant\u00e1in"
-        ], 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "WIC"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 719, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -6.783637254255837, 
@@ -990,9 +980,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.681797594083775, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 719, 
+        "ne:VertexCou": 234.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "WW", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Cill Mhant\u00e1in", 
@@ -1008,10 +998,15 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 1983.5, 
         "woe:id": "2345274", 
-        "name": "Wicklow", 
-        "ne:VertexCou": 234.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IE.WW", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345249, 
+          2345254, 
+          2345257, 
+          2345273
+        ], 
+        "name": "Wicklow", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae Chill Mhantain"
@@ -1020,10 +1015,14 @@
         "alias_UNK_Q": [
           "Cill Mhant\u00e1in"
         ], 
-        "ne_longitude": -5.99334957512275, 
+        "alias_UNK_V": [
+          "Contae Chill Mhant\u00e1in"
+        ], 
         "longitude": -6.399, 
+        "ne_longitude": -5.99334957512275, 
         "iso": "IE", 
         "date_indexed": "2010-12-02T12:07:35Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Wicklow, Ireland", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Ireland", 

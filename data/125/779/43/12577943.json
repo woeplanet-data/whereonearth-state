@@ -946,31 +946,23 @@
           "Subcarpathia Voivodeship"
         ], 
         "ne:ScaleRank": 5, 
-        "ne:woe:id": "12577943", 
         "alias_ENG_P": [
           "Subcarpathia"
-        ], 
-        "adjacent_woeid": [
-          2347547, 
-          2347556, 
-          12577938, 
-          12577940, 
-          12577947, 
-          20070496
         ], 
         "ne_latitude": 50.8297659366487, 
         "ne:Shape_Area": 2.2558879013, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19980727", 
+        "ne:MAP_COLOR": 2, 
+        "ne:sameAsCity": -99, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "POL", 
         "ne:VALIDTO_1": "Present", 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 3152, 
         "alias_JPN_Q": [
           "\u30dd\u30c8\u30ab\u30eb\u30d1\u30c1\u30a7\u770c"
         ], 
-        "ne:REMARKS_1": null, 
+        "fullname": "Podkarpackie, Subcarpathia, Poland", 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Subcarpatica"
@@ -983,9 +975,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "sw_latitude": 48.99421906186029, 
-        "lang": "POL", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3152, 
+        "ne:VertexCou": 212.0, 
+        "ne:VALIDFR_1": "19980727", 
+        "ne:DataRank": 5, 
         "ne:Postal": "PK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Podkarpackie", 
@@ -1004,24 +996,31 @@
           "Vorkarpaten"
         ], 
         "woe:id": "12577943", 
-        "name": "Podkarpackie", 
-        "ne:VertexCou": 212.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "PL.PK", 
-        "ne:ProvNumber": 2000, 
+        "lang": "POL", 
+        "adjacent_woeid": [
+          2347547, 
+          2347556, 
+          12577938, 
+          12577940, 
+          12577947, 
+          20070496
+        ], 
+        "name": "Podkarpackie", 
+        "ne:REMARKS_1": null, 
         "parent_woeid": 23424923, 
         "ne_longitude": 23.658122186189985, 
         "longitude": 22.345, 
         "iso": "PL", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "fullname": "Podkarpackie, Subcarpathia, Poland", 
-        "alias_FRE_Q": [
-          "Les Basses Carpates"
-        ], 
+        "ne:NL_NAME_1": null, 
+        "ne:ProvNumber": 2000, 
         "ne:Region": null, 
         "ne:NEV_Countr": "Poland", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Les Basses Carpates"
+        ]
       }, 
       "id": 12577943
     }

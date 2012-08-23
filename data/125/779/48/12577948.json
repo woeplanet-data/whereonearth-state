@@ -564,22 +564,15 @@
         "alias_SWE_Q": [
           "Ermland-Mazurien"
         ], 
-        "ne:woe:id": "12577948", 
         "alias_ENG_P": [
           "Warmian-Masurian"
-        ], 
-        "adjacent_woeid": [
-          12577936, 
-          12577941, 
-          12577944, 
-          12577945, 
-          55848078
         ], 
         "ne_latitude": 54.43442963282138, 
         "ne:Shape_Area": 3.35200208071, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19980727", 
+        "ne:MAP_COLOR": 2, 
+        "ne:sameAsCity": -99, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "POL", 
         "ne:ScaleRank": 5, 
@@ -587,11 +580,11 @@
         "alias_ITA_Q": [
           "Varmia-Masuria"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 3139, 
         "alias_JPN_Q": [
           "\u30f4\u30a1\u30eb\u30df\u30a2\uff1d\u30de\u30ba\u30fc\u30eb\u30a3\u770c"
         ], 
-        "ne:REMARKS_1": null, 
+        "fullname": "Warminsko-Mazurskie, Warmian-Masurian, Poland", 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Warmia y Mazuria"
@@ -604,9 +597,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "lang": "POL", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3139, 
+        "ne:VertexCou": 143.0, 
+        "ne:VALIDFR_1": "19980727", 
+        "ne:DataRank": 5, 
         "ne:Postal": "WN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Warminsko-Mazurskie", 
@@ -629,11 +622,17 @@
           "Ermland-Masuren"
         ], 
         "woe:id": "12577948", 
-        "name": "Warminsko-Mazurskie", 
-        "ne:VertexCou": 143.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "PL.WN", 
-        "ne:ProvNumber": 2001, 
+        "lang": "POL", 
+        "adjacent_woeid": [
+          12577936, 
+          12577941, 
+          12577944, 
+          12577945, 
+          55848078
+        ], 
+        "name": "Warminsko-Mazurskie", 
+        "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "parent_woeid": 23424923, 
         "ne_longitude": 22.81393598835524, 
@@ -641,14 +640,14 @@
         "ne:NAME_1": "Warmian-Masurian", 
         "iso": "PL", 
         "sw_latitude": 53.0931419950071, 
-        "fullname": "Warminsko-Mazurskie, Warmian-Masurian, Poland", 
-        "alias_FRE_Q": [
-          "La Warmie-Mazurie"
-        ], 
+        "ne:NL_NAME_1": null, 
+        "ne:ProvNumber": 2001, 
         "ne:Region": null, 
         "ne:NEV_Countr": "Poland", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "La Warmie-Mazurie"
+        ]
       }, 
       "id": 12577948
     }

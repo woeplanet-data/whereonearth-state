@@ -2370,22 +2370,11 @@
         "alias_KOR_Q": [
           "\ubbf8\uc8fc\ub9ac"
         ], 
-        "ne:woe:id": "2347584", 
-        "adjacent_woeid": [
-          2347562, 
-          2347572, 
-          2347574, 
-          2347575, 
-          2347576, 
-          2347586, 
-          2347595, 
-          2347601
-        ], 
         "ne_latitude": 40.61880291642149, 
         "ne:Shape_Area": 18.6090373606, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18210810", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "MO"
         ], 
@@ -2396,7 +2385,7 @@
           "\u5bc6\u82cf\u91cc"
         ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3531, 
         "alias_JPN_Q": [
           "\u30df\u30ba\u30fc\u30ea"
         ], 
@@ -2412,9 +2401,9 @@
         "ne:FIRST_HASC": "US.IL|USA-MOS", 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 35.98618572818884, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3531, 
+        "ne:VertexCou": 571.0, 
+        "ne:VALIDFR_1": "18210810", 
+        "ne:DataRank": 1, 
         "ne:Postal": "MO", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "MO", 
@@ -2430,16 +2419,26 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 181398.7, 
         "woe:id": "2347584", 
-        "name": "Missouri", 
-        "ne:VertexCou": 571.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.MO", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347562, 
+          2347572, 
+          2347574, 
+          2347575, 
+          2347576, 
+          2347586, 
+          2347595, 
+          2347601
+        ], 
+        "name": "Missouri", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -89.1188904240538, 
         "longitude": -92.437, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Missouri, United States", 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 

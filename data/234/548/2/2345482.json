@@ -7652,25 +7652,16 @@
       "type": "Feature", 
       "properties": {
         "ne:ProvNumber": 14, 
+        "ne:ISO": "DEU", 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "2345482", 
         "alias_ENG_P": [
           "Bavaria"
         ], 
-        "adjacent_woeid": [
-          2345481, 
-          2345485, 
-          2345493, 
-          2345495
-        ], 
         "ne_latitude": 50.56285716372719, 
-        "alias_GER_A": [
-          "BY"
-        ], 
         "ne:Shape_Area": 8.59409254247, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 1, 
         "alias_POR_Q": [
           "Baviera"
         ], 
@@ -7682,18 +7673,19 @@
         "alias_CHI_Q": [
           "\u5df4\u4f10\u5229\u4e9a"
         ], 
-        "alias_SPA_Q": [
-          "Baviera"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Baviera"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 1591, 
         "alias_JPN_Q": [
           "\u30d0\u30a4\u30a8\u30eb\u30f3"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Baviera"
+        ], 
         "sw_longitude": 8.976589389988419, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.917, 
@@ -7702,13 +7694,15 @@
         "ne:FIRST_HASC": "DE.TH|DEU-BYR", 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T09:36:24Z", 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 1591, 
+        "ne:VertexCou": 1889.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": "BY", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Bavaria", 
-        "ne:ISO": "DEU", 
+        "alias_GER_A": [
+          "BY"
+        ], 
         "ne:TYPE_1": "Land", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 21.808912985, 
@@ -7722,28 +7716,33 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 70006.9, 
         "woe:id": "2345482", 
-        "name": "Bayern", 
-        "ne:VertexCou": 1889.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "DE.BY", 
+        "lang": "GER", 
+        "adjacent_woeid": [
+          2345481, 
+          2345485, 
+          2345493, 
+          2345495
+        ], 
+        "name": "Bayern", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "parent_woeid": 23424829, 
         "ne_longitude": 13.816552361702179, 
         "longitude": 11.408, 
+        "ne:NEV_Countr": "Germany", 
+        "iso": "DE", 
+        "sw_latitude": 47.27153351466001, 
+        "ne:NL_NAME_1": null, 
+        "fullname": "Bayern, Bavaria, Germany", 
+        "ne:Region": null, 
         "alias_FRE_S": [
           "La Baviere"
         ], 
-        "iso": "DE", 
-        "sw_latitude": 47.27153351466001, 
-        "fullname": "Bayern, Bavaria, Germany", 
+        "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "La Bavi\u00e8re"
-        ], 
-        "ne:Region": null, 
-        "ne:NEV_Countr": "Germany", 
-        "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        ]
       }, 
       "id": 2345482
     }

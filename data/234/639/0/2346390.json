@@ -4871,18 +4871,11 @@
       "properties": {
         "ne:ProvNumber": 2, 
         "ne:ScaleRank": 7, 
-        "ne:woe:id": "2346390", 
-        "adjacent_woeid": [
-          2346387, 
-          2346397, 
-          2346398, 
-          2346400
-        ], 
         "ne_latitude": 61.03317413997462, 
         "ne:Shape_Area": 2.40368935858, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1973", 
+        "ne:MAP_COLOR": 12, 
         "alias_KOR_Q": [
           "\ud638\ub974\ub2ec\ub780\ub4dc"
         ], 
@@ -4891,7 +4884,7 @@
         "alias_CHI_Q": [
           "\u970d\u8fbe\u5170"
         ], 
-        "ne:DataRank": 7, 
+        "ne:OBJECTID": 913, 
         "alias_JPN_Q": [
           "\u30db\u30eb\u30c0\u30e9\u30f3"
         ], 
@@ -4905,9 +4898,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 59.48019399665566, 
-        "lang": "NOR", 
-        "ne:MAP_COLOR": 12, 
-        "ne:OBJECTID": 913, 
+        "ne:VertexCou": 1193.0, 
+        "ne:VALIDFR_1": "1973", 
+        "ne:DataRank": 7, 
         "ne:Postal": "HO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Hordaland fylke|H\u00f6r\u00f0aland|S\u00f8ndre Bergenhus", 
@@ -4923,10 +4916,15 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 14787.8, 
         "woe:id": "2346390", 
-        "name": "Hordaland Fylke", 
-        "ne:VertexCou": 1193.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "NO.HO", 
+        "lang": "NOR", 
+        "adjacent_woeid": [
+          2346387, 
+          2346397, 
+          2346398, 
+          2346400
+        ], 
+        "name": "Hordaland Fylke", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424910, 
         "ne_longitude": 7.678890821554205, 
@@ -4936,6 +4934,7 @@
         ], 
         "iso": "NO", 
         "date_indexed": "2010-12-02T10:19:56Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Hordaland Fylke, Norway", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Norway", 

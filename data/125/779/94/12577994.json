@@ -5827,27 +5827,20 @@
       "properties": {
         "ne:ProvNumber": 8, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "12577994", 
         "alias_ENG_P": [
           "Jiangsu"
-        ], 
-        "adjacent_woeid": [
-          12577992, 
-          12578012, 
-          12578014, 
-          12578022
         ], 
         "ne_latitude": 35.112585761223954, 
         "ne:Shape_Area": 9.62787232406, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\uc7a5\uc464"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 1818, 
         "alias_CHI_V": [
           "\u6c5f\u8607"
         ], 
@@ -5867,9 +5860,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 30.763703924896276, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1818, 
+        "ne:VertexCou": 1450.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "JS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Jiangsu", 
@@ -5885,16 +5878,22 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 99789.8, 
         "woe:id": "12577994", 
-        "name": "\u6c5f\u82cf\u7701", 
-        "ne:VertexCou": 1450.0, 
-        "ne:NL_NAME_1": "??|??", 
         "ne:HASC_1": "CN.JS", 
+        "lang": "CHI", 
+        "adjacent_woeid": [
+          12577992, 
+          12578012, 
+          12578014, 
+          12578022
+        ], 
+        "name": "\u6c5f\u82cf\u7701", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424781, 
         "ne_longitude": 121.89584679609288, 
         "longitude": 119.119, 
         "iso": "CN", 
         "date_indexed": "2010-12-02T08:51:01Z", 
+        "ne:NL_NAME_1": "??|??", 
         "fullname": "\u6c5f\u82cf\u7701, Jiangsu, China", 
         "ne:Region": null, 
         "ne:NEV_Countr": "China", 

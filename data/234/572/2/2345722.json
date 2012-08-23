@@ -2673,26 +2673,17 @@
       "properties": {
         "ne:ProvNumber": 14, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "2345722", 
         "alias_ENG_P": [
           "Central Kalimantan"
-        ], 
-        "adjacent_woeid": [
-          2345720, 
-          2345721, 
-          2345723
         ], 
         "ne_latitude": 0.740058498800749, 
         "ne:Shape_Area": 12.357357098, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1958", 
-        "alias_UNK_V": [
-          "Kalteng"
-        ], 
+        "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IDN", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 1931, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 110.75456302246556, 
@@ -2703,9 +2694,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -3.571978041353475, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 1931, 
+        "ne:VertexCou": 666.0, 
+        "ne:VALIDFR_1": "1958", 
+        "ne:DataRank": 1, 
         "ne:Postal": "KT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kalteng", 
@@ -2721,16 +2712,24 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 152028.2, 
         "woe:id": "2345722", 
-        "name": "Kalimantan Tengah", 
-        "ne:VertexCou": 666.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "ID.KT", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          2345720, 
+          2345721, 
+          2345723
+        ], 
+        "name": "Kalimantan Tengah", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424846, 
-        "ne_longitude": 115.81657962405052, 
+        "alias_UNK_V": [
+          "Kalteng"
+        ], 
         "longitude": 113.295, 
+        "ne_longitude": 115.81657962405052, 
         "iso": "ID", 
         "date_indexed": "2010-12-02T16:52:36Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Kalimantan Tengah, Central Kalimantan, Indonesia", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Indonesia", 

@@ -1102,21 +1102,14 @@
         "alias_SWE_Q": [
           "Shizuoka Prefektur"
         ], 
-        "ne:woe:id": "2345886", 
         "alias_ENG_P": [
           "Shizuoka Prefecture"
-        ], 
-        "adjacent_woeid": [
-          2345851, 
-          2345868, 
-          2345875, 
-          2345895
         ], 
         "ne_latitude": 35.62785146777105, 
         "ne:Shape_Area": 0.775356273752, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "alias_KOR_Q": [
           "\uc2dc\uc988\uc624\uce74\ucf04"
         ], 
@@ -1126,7 +1119,7 @@
         "alias_CHI_Q": [
           "\u9759\u5ca1\u53bf"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1845, 
         "alias_JPN_V": [
           "\u9759\u5ca1"
         ], 
@@ -1145,9 +1138,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1845, 
+        "ne:VertexCou": 270.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "SZ", 
         "ne:Region_Cod": "JPN-CHB", 
         "ne:VARNAME_1": "Sizuoka", 
@@ -1166,17 +1159,23 @@
           "Pr\u00e4fektur Shizuoka"
         ], 
         "woe:id": "2345886", 
-        "name": "\u9759\u5ca1\u770c", 
-        "ne:VertexCou": 270.0, 
-        "ne:NL_NAME_1": null, 
-        "ne:FIRST_FIPS": "JA46", 
         "ne:HASC_1": "JP.SZ", 
+        "lang": "JPN", 
+        "adjacent_woeid": [
+          2345851, 
+          2345868, 
+          2345875, 
+          2345895
+        ], 
+        "ne:FIRST_FIPS": "JA46", 
+        "name": "\u9759\u5ca1\u770c", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424856, 
         "ne_longitude": 139.14859215710248, 
         "longitude": 138.311, 
         "iso": "JP", 
         "sw_latitude": 34.58910350222487, 
+        "ne:NL_NAME_1": null, 
         "fullname": "\u9759\u5ca1\u770c, Shizuoka Prefecture, Japan", 
         "ne:Region": "Chubu", 
         "ne:NEV_Countr": "Japan", 

@@ -1656,7 +1656,6 @@
         "alias_SWE_Q": [
           "Kreta"
         ], 
-        "ne:woe:id": "12577885", 
         "alias_POL_Q": [
           "Kreta"
         ], 
@@ -1666,10 +1665,8 @@
         ], 
         "ne:Shape_Area": 0.823316116691, 
         "placetype": "State", 
-        "alias_KOR_V": [
-          "\ud06c\ub9ac\ud2f0"
-        ], 
-        "ne:VALIDFR_1": "1913", 
+        "ne:Country_Pr": null, 
+        "ne:MAP_COLOR": 9, 
         "alias_POR_Q": [
           "Creta"
         ], 
@@ -1680,29 +1677,32 @@
         "alias_ARA_Q": [
           "\u0643\u0631\u064a\u062a"
         ], 
-        "ne:Region_Cod": null, 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u514b\u91cc\u7279"
         ], 
-        "alias_SPA_Q": [
-          "Creta"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Creta"
         ], 
-        "alias_DAN_Q": [
-          "Kreta"
+        "ne:Area_sqkm": 8314.9, 
+        "ne:OBJECTID": 2990, 
+        "alias_CZE_Q": [
+          "Kr\u00e9ta"
         ], 
-        "ne:Country_Pr": null, 
-        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30af\u30ec\u30bf\u5cf6"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Creta"
+        ], 
         "alias_FIN_Q": [
           "Kreeta"
+        ], 
+        "alias_DUT_Q": [
+          "Kreta"
         ], 
         "sw_longitude": 23.518182407592064, 
         "alias_FIN_V": [
@@ -1717,11 +1717,11 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 2990, 
+        "ne:VertexCou": 406.0, 
+        "ne:VALIDFR_1": "1913", 
+        "ne:DataRank": 6, 
         "ne:Postal": "CR", 
-        "ne:LabelRank": 6, 
+        "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Crete", 
         "ne:ISO": "GRC", 
         "ne:TYPE_1": "Diamerismata", 
@@ -1732,23 +1732,23 @@
         "ne:NAME_1": "Kriti", 
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
-        "alias_CZE_Q": [
-          "Kr\u00e9ta"
-        ], 
+        "ne:LabelRank": 6, 
         "ne:ADM0_A3": "GRC", 
-        "ne:Area_sqkm": 8314.9, 
+        "alias_DAN_Q": [
+          "Kreta"
+        ], 
         "alias_GER_Q": [
           "Kreta"
         ], 
         "woe:id": "12577885", 
-        "name": "Crete", 
-        "ne:VertexCou": 406.0, 
+        "ne:HASC_1": "GR.CR", 
+        "lang": "ENG", 
         "ne:NL_NAME_1": "???t?", 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": "GR.CR", 
+        "name": "Crete", 
         "ne:REMARKS_1": null, 
-        "alias_DUT_Q": [
-          "Kreta"
+        "alias_KOR_V": [
+          "\ud06c\ub9ac\ud2f0"
         ], 
         "alias_UNK_S": [
           "Krit"
@@ -1765,13 +1765,12 @@
         "iso": "GR", 
         "sw_latitude": 34.81492951108811, 
         "fullname": "Crete, Kriti, Greece", 
-        "alias_FRE_Q": [
-          "Cr\u00e8te"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Greece", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Cr\u00e8te"
+        ]
       }, 
       "id": 12577885
     }

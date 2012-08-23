@@ -1018,30 +1018,21 @@
         "alias_SWE_Q": [
           "Kyoto Prefektur"
         ], 
-        "ne:woe:id": "2345871", 
         "alias_ENG_P": [
           "Kyoto Prefecture"
-        ], 
-        "adjacent_woeid": [
-          2345856, 
-          2345862, 
-          2345872, 
-          2345877, 
-          2345881, 
-          2345884
         ], 
         "ne_latitude": 35.76345042569665, 
         "ne:Shape_Area": 0.453395971058, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "alias_KOR_Q": [
           "\ucfc4\ud1a0\ud6c4"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
         "ne:ScaleRank": 6, 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1850, 
         "alias_JPN_V": [
           "\u4eac\u90fd"
         ], 
@@ -1060,9 +1051,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Urban Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1850, 
+        "ne:VertexCou": 249.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "KY", 
         "ne:Region_Cod": "JPN-KIN", 
         "ne:VARNAME_1": "Kioto", 
@@ -1081,17 +1072,25 @@
           "Pr\u00e4fektur Kyoto"
         ], 
         "woe:id": "2345871", 
-        "name": "\u4eac\u90fd\u5e9c", 
-        "ne:VertexCou": 249.0, 
-        "ne:NL_NAME_1": "???", 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": "JP.KY", 
+        "lang": "JPN", 
+        "adjacent_woeid": [
+          2345856, 
+          2345862, 
+          2345872, 
+          2345877, 
+          2345881, 
+          2345884
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "\u4eac\u90fd\u5e9c", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424856, 
         "ne_longitude": 136.03648237556126, 
         "longitude": 135.455, 
         "iso": "JP", 
         "sw_latitude": 34.695918687697315, 
+        "ne:NL_NAME_1": "???", 
         "fullname": "\u4eac\u90fd\u5e9c, Kyoto Prefecture, Japan", 
         "ne:Region": "Kinki", 
         "ne:NEV_Countr": "Japan", 

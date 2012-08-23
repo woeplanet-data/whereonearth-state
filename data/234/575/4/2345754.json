@@ -1455,18 +1455,11 @@
         "alias_KOR_Q": [
           "\ub098\uac08\ub780\ub4dc"
         ], 
-        "ne:woe:id": "2345754", 
-        "adjacent_woeid": [
-          2344819, 
-          2345741, 
-          2345751, 
-          2345763
-        ], 
         "ne_latitude": 27.033182277540106, 
         "ne:Shape_Area": 1.46724116562, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "NLD"
         ], 
@@ -1476,7 +1469,7 @@
         "alias_CHI_Q": [
           "\u90a3\u52a0\u5170\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 2479, 
         "alias_JPN_Q": [
           "\u30ca\u30ac\u30e9\u30f3\u30c9"
         ], 
@@ -1490,9 +1483,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 25.205800279259506, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 2479, 
+        "ne:VertexCou": 346.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "NL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1508,16 +1501,22 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 16265.8, 
         "woe:id": "2345754", 
-        "name": "Nagaland", 
-        "ne:VertexCou": 346.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IN.NL", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344819, 
+          2345741, 
+          2345751, 
+          2345763
+        ], 
+        "name": "Nagaland", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424848, 
         "ne_longitude": 95.24693077973177, 
         "longitude": 94.284, 
         "iso": "IN", 
         "date_indexed": "2010-12-02T08:59:14Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Nagaland, India", 
         "ne:Region": null, 
         "ne:NEV_Countr": "India", 

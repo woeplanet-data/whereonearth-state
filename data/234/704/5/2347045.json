@@ -966,40 +966,33 @@
           "Blekinge L\u00e4ns"
         ], 
         "ne:ScaleRank": 7, 
-        "ne:woe:id": "2347045", 
         "alias_SWE_S": [
           "Blekinge Lans"
-        ], 
-        "adjacent_woeid": [
-          2347052, 
-          2347055, 
-          20070561
         ], 
         "ne_latitude": 56.51024607999267, 
         "ne:Shape_Area": 0.437978478958, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1714", 
+        "ne:MAP_COLOR": 4, 
         "alias_POR_Q": [
           "Blekinge"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "SWE", 
-        "alias_SPA_Q": [
-          "Blekinge"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Blekinge"
         ], 
-        "alias_DAN_Q": [
-          "Blekinge"
-        ], 
-        "ne:DataRank": 7, 
+        "ne:Area_sqkm": 3019.6, 
+        "ne:OBJECTID": 262, 
         "alias_ENG_P": [
           "Blekinge"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Blekinge"
+        ], 
         "alias_FIN_Q": [
           "Blekinge"
         ], 
@@ -1013,9 +1006,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T16:43:54Z", 
-        "lang": "SWE", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 262, 
+        "ne:VertexCou": 234.0, 
+        "ne:VALIDFR_1": "1714", 
+        "ne:DataRank": 7, 
         "ne:Postal": "BL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Blekinge l\u00e4n", 
@@ -1031,16 +1024,22 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 7, 
-        "ne:Area_sqkm": 3019.6, 
+        "alias_DAN_Q": [
+          "Blekinge"
+        ], 
         "alias_GER_Q": [
           "Blekinge"
         ], 
         "woe:id": "2347045", 
-        "name": "Blekinge L\u00e4n", 
-        "ne:VertexCou": 234.0, 
-        "ne:NL_NAME_1": null, 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": "SE.BL", 
+        "lang": "SWE", 
+        "adjacent_woeid": [
+          2347052, 
+          2347055, 
+          20070561
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "Blekinge L\u00e4n", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424954, 
@@ -1048,14 +1047,14 @@
         "longitude": 15.225, 
         "iso": "SE", 
         "sw_latitude": 56.00242178044084, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Blekinge L\u00e4n, Blekinge, Sweden", 
-        "alias_FRE_Q": [
-          "Blekinge"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Sweden", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Blekinge"
+        ]
       }, 
       "id": 2347045
     }

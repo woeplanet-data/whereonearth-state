@@ -3331,24 +3331,14 @@
         "alias_SWE_Q": [
           "Lombardiet"
         ], 
-        "ne:woe:id": "7153338", 
         "alias_ENG_P": [
           "Lombardy"
         ], 
-        "adjacent_woeid": [
-          2347091, 
-          2347102, 
-          7153334, 
-          7153341, 
-          7153346, 
-          7153349
-        ], 
         "ne_latitude": 46.62738678677084, 
-        "ne:DataRank": 3, 
         "ne:Shape_Area": 2.76707320911, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1895", 
+        "ne:MAP_COLOR": 7, 
         "alias_KOR_Q": [
           "\ub86c\ubc14\ub974\ub514\uc544"
         ], 
@@ -3358,15 +3348,14 @@
         "alias_CHI_Q": [
           "\u4f26\u5df4\u5e95"
         ], 
-        "alias_DAN_Q": [
-          "Lombardiet"
-        ], 
+        "ne:Area_sqkm": 23984.0, 
         "alias_ITA_V": [
           "Lombardia Regione"
         ], 
         "alias_JPN_Q": [
           "\u30ed\u30f3\u30d0\u30eb\u30c7\u30a3"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -3375,14 +3364,15 @@
         "sw_longitude": 8.498375685189785, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 45.658, 
+        "iso": "IT", 
         "ne:FIPS_1": "IT09", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 909, 
+        "ne:VertexCou": 799.0, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lombardy|Lombardei|Lombardie", 
@@ -3398,30 +3388,39 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 23984.0, 
+        "alias_DAN_Q": [
+          "Lombardiet"
+        ], 
         "alias_GER_Q": [
           "Lombardei"
         ], 
         "woe:id": "7153338", 
-        "name": "Lombardia", 
-        "ne:VertexCou": 799.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "ITA", 
+        "adjacent_woeid": [
+          2347091, 
+          2347102, 
+          7153334, 
+          7153341, 
+          7153346, 
+          7153349
+        ], 
+        "name": "Lombardia", 
         "ne:REMARKS_1": "ITC", 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424853, 
         "ne_longitude": 11.421504754041223, 
         "longitude": 9.964, 
-        "iso": "IT", 
+        "ne:OBJECTID": 909, 
         "sw_latitude": 44.67882355386399, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Lombardia, Lombardy, Italy", 
-        "alias_FRE_Q": [
-          "La Lombardie"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "La Lombardie"
+        ]
       }, 
       "id": 7153338
     }

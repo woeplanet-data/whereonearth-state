@@ -1974,22 +1974,11 @@
         "alias_KOR_Q": [
           "\ud14c\ub124\uc2dc"
         ], 
-        "ne:woe:id": "2347601", 
-        "adjacent_woeid": [
-          2347559, 
-          2347562, 
-          2347569, 
-          2347576, 
-          2347583, 
-          2347584, 
-          2347592, 
-          2347605
-        ], 
         "ne_latitude": 36.68970135383444, 
         "ne:Shape_Area": 10.9045286185, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "17960601", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "TN"
         ], 
@@ -1999,7 +1988,7 @@
         "alias_CHI_Q": [
           "\u7530\u7eb3\u897f"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3551, 
         "alias_JPN_Q": [
           "\u30c6\u30cd\u30b7\u30fc"
         ], 
@@ -2013,9 +2002,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 34.98364666616078, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3551, 
+        "ne:VertexCou": 489.0, 
+        "ne:VALIDFR_1": "17960601", 
+        "ne:DataRank": 1, 
         "ne:Postal": "TN", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "TN|Tenn.", 
@@ -2031,16 +2020,26 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 108908.4, 
         "woe:id": "2347601", 
-        "name": "Tennessee", 
-        "ne:VertexCou": 489.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.TN", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347559, 
+          2347562, 
+          2347569, 
+          2347576, 
+          2347583, 
+          2347584, 
+          2347592, 
+          2347605
+        ], 
+        "name": "Tennessee", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -81.65885624422026, 
         "longitude": -85.979, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Tennessee, United States", 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 

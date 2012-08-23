@@ -5496,20 +5496,11 @@
         "alias_KOR_Q": [
           "\ubc84\uc9c0\ub2c8\uc544"
         ], 
-        "ne:woe:id": "2347605", 
-        "adjacent_woeid": [
-          2347567, 
-          2347576, 
-          2347579, 
-          2347592, 
-          2347601, 
-          2347607
-        ], 
         "ne_latitude": 39.450834165664276, 
         "ne:Shape_Area": 10.6084912542, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18630619", 
+        "ne:MAP_COLOR": 1, 
         "alias_POR_Q": [
           "Virg\u00ednia"
         ], 
@@ -5522,10 +5513,11 @@
         "alias_CHI_Q": [
           "\u5f17\u5409\u5c3c\u4e9a"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3552, 
         "alias_JPN_Q": [
           "\u30d0\u30fc\u30b8\u30cb\u30a2"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": "Va.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -83.66747440831728, 
@@ -5536,9 +5528,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 36.53977459582097, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3552, 
+        "ne:VertexCou": 1326.0, 
+        "ne:VALIDFR_1": "18630619", 
+        "ne:DataRank": 1, 
         "ne:Postal": "VA", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "VA", 
@@ -5556,10 +5548,17 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 102867.5, 
         "woe:id": "2347605", 
-        "name": "Virginia", 
-        "ne:VertexCou": 1326.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.VA", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347567, 
+          2347576, 
+          2347579, 
+          2347592, 
+          2347601, 
+          2347607
+        ], 
+        "name": "Virginia", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424977, 
@@ -5567,14 +5566,14 @@
         "longitude": -79.771, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Virginia, United States", 
-        "alias_FRE_Q": [
-          "Virginie"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Virginie"
+        ]
       }, 
       "id": 2347605
     }

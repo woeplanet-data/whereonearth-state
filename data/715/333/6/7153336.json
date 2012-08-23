@@ -2777,21 +2777,11 @@
       "properties": {
         "ne:ProvNumber": 6, 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "7153336", 
-        "adjacent_woeid": [
-          7153333, 
-          7153339, 
-          7153340, 
-          7153345, 
-          7153347, 
-          7153350
-        ], 
         "ne_latitude": 42.85038218838736, 
-        "ne:DataRank": 3, 
         "ne:Shape_Area": 1.85052891194, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1895", 
+        "ne:MAP_COLOR": 7, 
         "alias_POR_Q": [
           "L\u00e1zio"
         ], 
@@ -2809,6 +2799,7 @@
         "alias_JPN_Q": [
           "\u30e9\u30c4\u30a3\u30aa"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -2817,14 +2808,15 @@
         "sw_longitude": 11.451580437687085, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.022, 
+        "iso": "IT", 
         "ne:FIPS_1": "IT07", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 40.78588287999099, 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 825, 
+        "ne:VertexCou": 681.0, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lacio|Latium", 
@@ -2843,24 +2835,31 @@
           "Latium"
         ], 
         "woe:id": "7153336", 
-        "name": "Lazio", 
-        "ne:VertexCou": 681.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "ITA", 
+        "adjacent_woeid": [
+          7153333, 
+          7153339, 
+          7153340, 
+          7153345, 
+          7153347, 
+          7153350
+        ], 
+        "name": "Lazio", 
         "ne:REMARKS_1": "ITE", 
         "parent_woeid": 23424853, 
         "ne_longitude": 14.010080600639242, 
         "longitude": 12.738, 
-        "iso": "IT", 
+        "ne:OBJECTID": 825, 
         "date_indexed": "2010-12-02T16:24:07Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Lazio, Italy", 
-        "alias_FRE_Q": [
-          "Latium"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Latium"
+        ]
       }, 
       "id": 7153336
     }

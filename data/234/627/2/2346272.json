@@ -627,16 +627,11 @@
         "alias_KOR_Q": [
           "\ub514\uc2a4\ud2b8\ub9ac\ud1a0 \ud398\ub354\ub7f4"
         ], 
-        "ne:woe:id": "2346272", 
-        "adjacent_woeid": [
-          2346278, 
-          2346280
-        ], 
         "ne_latitude": 19.571053778109444, 
         "ne:Shape_Area": 0.118177437493, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18241118", 
+        "ne:MAP_COLOR": 3, 
         "alias_ENG_A": [
           "DF"
         ], 
@@ -646,7 +641,7 @@
         "alias_CHI_Q": [
           "\u8054\u90a6\u9996\u90fd"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 2727, 
         "alias_JPN_Q": [
           "\u30e1\u30ad\u30b7\u30b3\u9023\u90a6\u533a"
         ], 
@@ -668,9 +663,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Federal District", 
         "date_indexed": "2010-12-02T16:55:36Z", 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 2727, 
+        "ne:VertexCou": 152.0, 
+        "ne:VALIDFR_1": "18241118", 
+        "ne:DataRank": 1, 
         "ne:Postal": "DF", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -689,10 +684,13 @@
           "Bundesdistrikt"
         ], 
         "woe:id": "2346272", 
-        "name": "Distrito Federal", 
-        "ne:VertexCou": 152.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "MX.DF", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2346278, 
+          2346280
+        ], 
+        "name": "Distrito Federal", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424900, 
         "provider": "geoplanet 7.6.0", 
@@ -700,6 +698,7 @@
         "ne_longitude": -98.93914913632352, 
         "iso": "MX", 
         "sw_latitude": 19.057803453166855, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Distrito Federal, Mexico", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Mexico", 

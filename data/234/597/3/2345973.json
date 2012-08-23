@@ -2052,15 +2052,8 @@
         "alias_SWE_Q": [
           "Sydchungcheong"
         ], 
-        "ne:woe:id": "2345973", 
         "alias_ENG_P": [
           "Chungcheongnam-Do"
-        ], 
-        "adjacent_woeid": [
-          2345964, 
-          2345965, 
-          2345969, 
-          2345975
         ], 
         "ne_latitude": 37.05536123263482, 
         "ne:Shape_Area": 0.778125495593, 
@@ -2068,14 +2061,14 @@
         "alias_KOR_V": [
           "\ucda9\ub0a8\ub3c4"
         ], 
-        "ne:VALIDFR_1": "1989", 
+        "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u5fe0\u6e05\u5357\u9053"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2502, 
         "alias_JPN_Q": [
           "\u30c1\u30e5\u30f3\u30c1\u30e7\u30f3\u30ca\u30e0\u30c9"
         ], 
@@ -2094,9 +2087,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "date_indexed": "2010-12-02T17:52:39Z", 
-        "lang": "KOR", 
-        "ne:MAP_COLOR": 5, 
-        "ne:OBJECTID": 2502, 
+        "ne:VertexCou": 505.0, 
+        "ne:VALIDFR_1": "1989", 
+        "ne:DataRank": 3, 
         "ne:Postal": "GN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Chungchongnam-Do|Ch'ungch'ong-namdo|Chusei Nan-do|South Chungchong|Ch'ungch'ong-namdo", 
@@ -2112,11 +2105,16 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 7735.9, 
         "woe:id": "2345973", 
-        "name": "\ucda9\uccad\ub0a8\ub3c4", 
-        "ne:VertexCou": 505.0, 
-        "ne:NL_NAME_1": "???? | ????", 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": "KR.GN", 
+        "lang": "KOR", 
+        "adjacent_woeid": [
+          2345964, 
+          2345965, 
+          2345969, 
+          2345975
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "\ucda9\uccad\ub0a8\ub3c4", 
         "ne:REMARKS_1": "34 (NSO Code)", 
         "ne:Country_Pr": null, 
         "parent_woeid": 23424868, 
@@ -2124,6 +2122,7 @@
         "longitude": 126.87, 
         "iso": "KR", 
         "sw_latitude": 35.98093069089873, 
+        "ne:NL_NAME_1": "???? | ????", 
         "fullname": "\ucda9\uccad\ub0a8\ub3c4, Chungcheongnam-Do, South Korea", 
         "ne:Region": null, 
         "ne:NEV_Countr": "South Korea", 

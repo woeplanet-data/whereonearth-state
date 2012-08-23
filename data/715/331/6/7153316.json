@@ -1622,7 +1622,6 @@
         "alias_SWE_Q": [
           "Korsika"
         ], 
-        "ne:woe:id": "7153316", 
         "alias_ENG_P": [
           "Corsica"
         ], 
@@ -1630,7 +1629,7 @@
         "ne:Shape_Area": 0.94395838956, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_POR_Q": [
           "C\u00f3rsega"
         ], 
@@ -1646,21 +1645,19 @@
         "alias_CHI_Q": [
           "\u79d1\u897f\u5609"
         ], 
-        "alias_SPA_Q": [
-          "C\u00f3rcega"
-        ], 
+        "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_Q": [
           "Corsica"
         ], 
-        "alias_DAN_Q": [
-          "Korsika"
-        ], 
-        "ne:DataRank": 3, 
+        "ne:Area_sqkm": 8665.6, 
+        "ne:OBJECTID": 2666, 
         "alias_JPN_Q": [
           "\u30b3\u30eb\u30b9"
         ], 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Unknown", 
+        "alias_SPA_Q": [
+          "C\u00f3rcega"
+        ], 
         "alias_FIN_Q": [
           "Korsika"
         ], 
@@ -1677,9 +1674,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2666, 
+        "ne:VertexCou": 400.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "C\u00a2rcega|C\u00a2rsega|Corsica", 
@@ -1695,24 +1692,24 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 8665.6, 
+        "alias_DAN_Q": [
+          "Korsika"
+        ], 
         "alias_GER_Q": [
           "Korsika"
         ], 
         "woe:id": "7153316", 
-        "name": "Corse", 
-        "ne:VertexCou": 400.0, 
+        "ne:HASC_1": null, 
+        "lang": "FRE", 
         "ne:NL_NAME_1": null, 
         "ne:FIRST_FIPS": "FRA5", 
-        "ne:HASC_1": null, 
+        "name": "Corse", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "parent_woeid": 23424819, 
         "ne_longitude": 9.55975792828582, 
         "longitude": 9.05, 
-        "alias_FRE_S": [
-          "Corsica Region"
-        ], 
+        "ne:NEV_Countr": "France", 
         "iso": "FR", 
         "sw_latitude": 41.366002508808776, 
         "alias_FRE_V": [
@@ -1720,7 +1717,9 @@
         ], 
         "fullname": "Corse, Corsica, France", 
         "ne:Region": "Corse", 
-        "ne:NEV_Countr": "France", 
+        "alias_FRE_S": [
+          "Corsica Region"
+        ], 
         "ne:RegionVar": null, 
         "ne:sameAsCity": -99
       }, 

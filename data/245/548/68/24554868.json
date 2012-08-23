@@ -619,7 +619,6 @@
       "properties": {
         "ne:ProvNumber": 2000, 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "24554868", 
         "ne_latitude": 51.48765859606743, 
         "ne:Shape_Area": 0.456722855186, 
         "placetype": "State", 
@@ -644,6 +643,7 @@
         "alias_JPN_Q": [
           "\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": "Kent", 
         "alias_SPA_Q": [
           "Inglaterra"
@@ -669,7 +669,7 @@
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
         "ne:ISO": "GBR", 
-        "ne:TYPE_1": "Administrative County", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 4.50264808282, 
         "alias_DUT_Q": [
@@ -678,7 +678,7 @@
         "ne:NAME_0": "United Kingdom", 
         "ne:NAME_1": "Kent", 
         "ne:Region_C_1": "South East", 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Administrative County", 
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 3549.9, 
         "woe:id": "24554868", 
@@ -698,13 +698,12 @@
         "sw_latitude": 50.90934764237983, 
         "ne:NL_NAME_1": null, 
         "fullname": "England, United Kingdom", 
-        "alias_FRE_Q": [
-          "Angleterre"
-        ], 
         "ne:Region": "England", 
         "ne:NEV_Countr": "United Kingdom", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Angleterre"
+        ]
       }, 
       "id": 24554868
     }

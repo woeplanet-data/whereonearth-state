@@ -2974,18 +2974,8 @@
         "alias_SWE_Q": [
           "Kyeongki"
         ], 
-        "ne:woe:id": "2345969", 
         "alias_ENG_P": [
           "Kyeongki-Do"
-        ], 
-        "adjacent_woeid": [
-          2345953, 
-          2345954, 
-          2345965, 
-          2345966, 
-          2345973, 
-          20069922, 
-          20069923
         ], 
         "ne_latitude": 38.21317169841518, 
         "ne:Shape_Area": 0.994110779418, 
@@ -2993,11 +2983,11 @@
         "alias_KOR_V": [
           "\uacbd\uae30"
         ], 
-        "ne:VALIDFR_1": "1981", 
+        "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
         "ne:ScaleRank": 6, 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2498, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 124.61361372239548, 
@@ -3008,9 +2998,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 36.87893789306935, 
-        "lang": "KOR", 
-        "ne:MAP_COLOR": 5, 
-        "ne:OBJECTID": 2498, 
+        "ne:VertexCou": 614.0, 
+        "ne:VALIDFR_1": "1981", 
+        "ne:DataRank": 3, 
         "ne:Postal": "KG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kyonggi-do|Keiki-do|Kyunggi", 
@@ -3026,10 +3016,18 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 9753.4, 
         "woe:id": "2345969", 
-        "name": "\uacbd\uae30\ub3c4", 
-        "ne:VertexCou": 614.0, 
-        "ne:NL_NAME_1": "??? | ???", 
         "ne:HASC_1": "KR.KG", 
+        "lang": "KOR", 
+        "adjacent_woeid": [
+          2345953, 
+          2345954, 
+          2345965, 
+          2345966, 
+          2345973, 
+          20069922, 
+          20069923
+        ], 
+        "name": "\uacbd\uae30\ub3c4", 
         "ne:REMARKS_1": "31 (NSO Code)", 
         "ne:Country_Pr": null, 
         "parent_woeid": 23424868, 
@@ -3037,6 +3035,7 @@
         "longitude": 127.181, 
         "iso": "KR", 
         "date_indexed": "2010-12-02T17:52:39Z", 
+        "ne:NL_NAME_1": "??? | ???", 
         "fullname": "\uacbd\uae30\ub3c4, Kyeongki-Do, South Korea", 
         "ne:Region": null, 
         "ne:NEV_Countr": "South Korea", 

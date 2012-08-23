@@ -3492,12 +3492,11 @@
         "alias_KOR_Q": [
           "\uc77c\ub9ac\ub178\uc774"
         ], 
-        "ne:woe:id": "2347591", 
         "ne_latitude": 45.01042889287913, 
         "ne:Shape_Area": 15.1042011568, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "17710304", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "Ill"
         ], 
@@ -3507,7 +3506,7 @@
         "alias_CHI_Q": [
           "\u4f0a\u5229\u8bfa\u4f0a"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3559, 
         "alias_JPN_Q": [
           "\u30a4\u30ea\u30ce\u30a4"
         ], 
@@ -3521,9 +3520,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 40.50925701779721, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3559, 
+        "ne:VertexCou": 856.0, 
+        "ne:VALIDFR_1": "17710304", 
+        "ne:DataRank": 1, 
         "ne:Postal": "NY", 
         "ne:Region_Cod": "Northeast", 
         "ne:VARNAME_1": "NY|N.Y.", 
@@ -3539,8 +3538,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 136819.2, 
         "woe:id": "2347572", 
-        "name": "Illinois", 
-        "ne:VertexCou": 856.0, 
+        "ne:HASC_1": "US.NY", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347573, 
           2347574, 
@@ -3548,7 +3547,7 @@
           2347584, 
           2347608
         ], 
-        "ne:HASC_1": "US.NY", 
+        "name": "Illinois", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -71.8573425717023, 

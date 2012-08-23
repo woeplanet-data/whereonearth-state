@@ -9484,16 +9484,11 @@
         "alias_KOR_Q": [
           "\ud50c\ub85c\ub9ac\ub2e4"
         ], 
-        "ne:woe:id": "2347568", 
-        "adjacent_woeid": [
-          2347559, 
-          2347569
-        ], 
         "ne_latitude": 31.000101744100277, 
         "ne:Shape_Area": 13.553479777, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18220330", 
+        "ne:MAP_COLOR": 1, 
         "alias_POR_Q": [
           "Fl\u00f3rida"
         ], 
@@ -9506,10 +9501,11 @@
         "alias_CHI_Q": [
           "\u4f5b\u7f57\u91cc\u8fbe"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 3542, 
         "alias_JPN_Q": [
           "\u30d5\u30ed\u30ea\u30c0"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": "Fla.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -87.6269226499603, 
@@ -9520,9 +9516,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 24.54263104108975, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3542, 
+        "ne:VertexCou": 2282.0, 
+        "ne:VALIDFR_1": "18220330", 
+        "ne:DataRank": 8, 
         "ne:Postal": "FL", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "FL|Fla.", 
@@ -9538,24 +9534,27 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 146797.9, 
         "woe:id": "2347568", 
-        "name": "Florida", 
-        "ne:VertexCou": 2282.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.FL", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347559, 
+          2347569
+        ], 
+        "name": "Florida", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -80.03226932986564, 
         "longitude": -81.541, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Florida, United States", 
-        "alias_FRE_Q": [
-          "Floride"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Floride"
+        ]
       }, 
       "id": 2347568
     }

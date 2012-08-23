@@ -643,15 +643,11 @@
         "alias_KOR_Q": [
           "\uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc544\uc218\ub3c4\ud2b9\ubcc4\uc9c0\uc5ed"
         ], 
-        "ne:woe:id": "2344699", 
-        "adjacent_woeid": [
-          2344700
-        ], 
         "ne_latitude": -35.13950855917261, 
         "ne:Shape_Area": 0.23337056026, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19110101", 
+        "ne:MAP_COLOR": 7, 
         "alias_ENG_A": [
           "ACT"
         ], 
@@ -661,7 +657,7 @@
         "alias_CHI_Q": [
           "\u6fb3\u6d32\u9996\u5e9c\u5730\u57df"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2653, 
         "alias_JPN_Q": [
           "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u30f3\u30fb\u30ad\u30e3\u30d4\u30bf\u30eb\u30fb\u30c6\u30ea\u30c8\u30ea\u30fc"
         ], 
@@ -675,9 +671,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Territory", 
         "sw_latitude": -35.91961598109259, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 2653, 
+        "ne:VertexCou": 156.0, 
+        "ne:VALIDFR_1": "19110101", 
+        "ne:DataRank": 3, 
         "ne:Postal": "CT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -693,16 +689,19 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 2349.2, 
         "woe:id": "2344699", 
-        "name": "Australian Capital Territory", 
-        "ne:VertexCou": 156.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "AU.CT", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344700
+        ], 
+        "name": "Australian Capital Territory", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424748, 
         "ne_longitude": 149.4044002623623, 
         "longitude": 149.081, 
         "iso": "AU", 
         "date_indexed": "2010-12-02T17:43:32Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Australian Capital Territory, Australia", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Australia", 

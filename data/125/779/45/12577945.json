@@ -898,21 +898,14 @@
           "Pomeranian Voivodeship"
         ], 
         "ne:ScaleRank": 5, 
-        "ne:woe:id": "12577945", 
         "alias_ENG_P": [
           "Pomeranian"
-        ], 
-        "adjacent_woeid": [
-          12577936, 
-          12577948, 
-          12577949, 
-          12577950
         ], 
         "ne_latitude": 54.838306790126296, 
         "ne:Shape_Area": 2.56331778446, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19980727", 
+        "ne:MAP_COLOR": 2, 
         "alias_POR_Q": [
           "Pomerania"
         ], 
@@ -922,11 +915,12 @@
         "alias_ITA_Q": [
           "Pomerania"
         ], 
-        "ne:DataRank": 5, 
+        "ne:sameAsCity": -99, 
+        "ne:OBJECTID": 3140, 
         "alias_JPN_Q": [
           "\u30dd\u30e2\u30fc\u30b8\u30a7\u770c"
         ], 
-        "ne:REMARKS_1": null, 
+        "fullname": "Pomorskie, Pomeranian, Poland", 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Pomerania"
@@ -939,9 +933,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "lang": "POL", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3140, 
+        "ne:VertexCou": 221.0, 
+        "ne:VALIDFR_1": "19980727", 
+        "ne:DataRank": 5, 
         "ne:Postal": "PM", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Pomorskie", 
@@ -962,28 +956,33 @@
           "Pommern"
         ], 
         "woe:id": "12577945", 
-        "name": "Pomorskie", 
-        "ne:VertexCou": 221.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "PL.PM", 
-        "ne:ProvNumber": 2000, 
+        "lang": "POL", 
+        "adjacent_woeid": [
+          12577936, 
+          12577948, 
+          12577949, 
+          12577950
+        ], 
+        "name": "Pomorskie", 
+        "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "parent_woeid": 23424923, 
         "ne_longitude": 19.758825310939415, 
         "longitude": 18.174, 
+        "ne:NEV_Countr": "Poland", 
+        "iso": "PL", 
+        "sw_latitude": 53.4337930362197, 
+        "ne:NL_NAME_1": null, 
+        "ne:ProvNumber": 2000, 
+        "ne:Region": null, 
         "alias_FRE_S": [
           "La Pomeranie"
         ], 
-        "iso": "PL", 
-        "sw_latitude": 53.4337930362197, 
-        "fullname": "Pomorskie, Pomeranian, Poland", 
+        "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "La Pom\u00e9ranie"
-        ], 
-        "ne:Region": null, 
-        "ne:NEV_Countr": "Poland", 
-        "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        ]
       }, 
       "id": 12577945
     }

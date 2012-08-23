@@ -1821,21 +1821,11 @@
       "properties": {
         "ne:ProvNumber": 11, 
         "ne:ScaleRank": 4, 
-        "ne:woe:id": "2346482", 
-        "adjacent_woeid": [
-          2346469, 
-          2346476, 
-          2346477, 
-          2346478, 
-          2346479, 
-          2346486, 
-          28358302
-        ], 
         "ne_latitude": -10.286813653627178, 
         "ne:Shape_Area": 2.70668751385, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18550625", 
+        "ne:MAP_COLOR": 11, 
         "alias_KOR_Q": [
           "\ub9ac\ub9c8"
         ], 
@@ -1844,7 +1834,7 @@
         "alias_CHI_Q": [
           "\u5229\u9a6c"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 591, 
         "alias_JPN_Q": [
           "\u30ea\u30de"
         ], 
@@ -1858,9 +1848,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Department", 
         "sw_latitude": -13.321822198135862, 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 591, 
+        "ne:VertexCou": 451.0, 
+        "ne:VALIDFR_1": "18550625", 
+        "ne:DataRank": 5, 
         "ne:Postal": "LR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lima province", 
@@ -1876,16 +1866,25 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 32631.3, 
         "woe:id": "2346482", 
-        "name": "Lima", 
-        "ne:VertexCou": 451.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "PE.LR", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2346469, 
+          2346476, 
+          2346477, 
+          2346478, 
+          2346479, 
+          2346486, 
+          28358302
+        ], 
+        "name": "Lima", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424919, 
         "ne_longitude": -75.46719682467369, 
         "longitude": -76.687, 
         "iso": "PE", 
         "date_indexed": "2010-12-02T16:12:03Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Lima, Peru", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Peru", 

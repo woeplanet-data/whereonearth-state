@@ -1745,18 +1745,11 @@
       "properties": {
         "ne:ProvNumber": 10, 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "7153331", 
-        "adjacent_woeid": [
-          7153332, 
-          7153333, 
-          7153342
-        ], 
         "ne_latitude": 41.136817532103464, 
-        "ne:DataRank": 3, 
         "ne:Shape_Area": 1.06889102735, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1895", 
+        "ne:MAP_COLOR": 7, 
         "alias_KOR_Q": [
           "\ubc14\uc2e4\ub9ac\uce74\ud0c0"
         ], 
@@ -1771,6 +1764,7 @@
         "alias_JPN_Q": [
           "\u30d0\u30b8\u30ea\u30ab\u30fc\u30bf"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -1779,14 +1773,15 @@
         "sw_longitude": 15.34426272914169, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.517, 
+        "iso": "IT", 
         "ne:FIPS_1": "IT02", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 39.90079478615053, 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 818, 
+        "ne:VertexCou": 432.0, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Basilicate|Lucania", 
@@ -1802,24 +1797,28 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 10061.1, 
         "woe:id": "7153331", 
-        "name": "Basilicata", 
-        "ne:VertexCou": 432.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "ITA", 
+        "adjacent_woeid": [
+          7153332, 
+          7153333, 
+          7153342
+        ], 
+        "name": "Basilicata", 
         "ne:REMARKS_1": "ITF", 
         "parent_woeid": 23424853, 
         "ne_longitude": 16.86329145703519, 
         "longitude": 16.102, 
-        "iso": "IT", 
+        "ne:OBJECTID": 818, 
         "date_indexed": "2010-12-02T16:24:07Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Basilicata, Italy", 
-        "alias_FRE_Q": [
-          "Basilicate"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Basilicate"
+        ]
       }, 
       "id": 7153331
     }

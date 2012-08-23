@@ -5747,18 +5747,11 @@
         "alias_KOR_Q": [
           "\uc624\ub9ac\uc0ac"
         ], 
-        "ne:woe:id": "2345755", 
-        "adjacent_woeid": [
-          2345740, 
-          2345761, 
-          20070463, 
-          20070464
-        ], 
         "ne_latitude": 22.55676300700719, 
         "ne:Shape_Area": 13.4418783621, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "OR"
         ], 
@@ -5768,7 +5761,7 @@
         "alias_CHI_Q": [
           "\u5965\u91cc\u8428\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 2444, 
         "alias_JPN_Q": [
           "\u30aa\u30ea\u30c3\u30b5"
         ], 
@@ -5782,9 +5775,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 17.787235012585825, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 2444, 
+        "ne:VertexCou": 1432.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "OR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -5800,16 +5793,22 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 155190.9, 
         "woe:id": "2345755", 
-        "name": "Orissa", 
-        "ne:VertexCou": 1432.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IN.OR", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345740, 
+          2345761, 
+          20070463, 
+          20070464
+        ], 
+        "name": "Orissa", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424848, 
         "ne_longitude": 87.47737918500144, 
         "longitude": 84.44, 
         "iso": "IN", 
         "date_indexed": "2010-12-02T08:59:14Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Orissa, India", 
         "ne:Region": null, 
         "ne:NEV_Countr": "India", 

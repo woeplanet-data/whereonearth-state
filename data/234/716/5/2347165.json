@@ -500,20 +500,11 @@
           "Changwat Bangkok"
         ], 
         "ne:ScaleRank": 7, 
-        "ne:woe:id": "2347165", 
-        "adjacent_woeid": [
-          2347163, 
-          2347164, 
-          2347167, 
-          2347169, 
-          2347177, 
-          2347179
-        ], 
         "ne_latitude": 13.949794826969764, 
         "ne:Shape_Area": 0.130696974211, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "~1980", 
+        "ne:MAP_COLOR": 1, 
         "alias_KOR_Q": [
           "\ubc29\ucf55"
         ], 
@@ -522,7 +513,7 @@
         "alias_CHI_Q": [
           "\u66fc\u8c37"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 416, 
         "alias_JPN_Q": [
           "\u30af\u30eb\u30f3\u30c6\u30d7"
         ], 
@@ -536,9 +527,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 13.489409491055198, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 416, 
+        "ne:VertexCou": 120.0, 
+        "ne:VALIDFR_1": "~1980", 
+        "ne:DataRank": 5, 
         "ne:Postal": "BM", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Bangkok|Krung Thep|Krung Thep Maha Nakhon|Phra Nakhon-Thonburi", 
@@ -554,16 +545,24 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 1563.6, 
         "woe:id": "2347165", 
-        "name": "Bangkok", 
-        "ne:VertexCou": 120.0, 
-        "ne:NL_NAME_1": "????????????????", 
         "ne:HASC_1": "TH.BM", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347163, 
+          2347164, 
+          2347167, 
+          2347169, 
+          2347177, 
+          2347179
+        ], 
+        "name": "Bangkok", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424960, 
         "ne_longitude": 100.92425866080862, 
         "longitude": 100.634, 
         "iso": "TH", 
         "date_indexed": "2010-12-02T17:04:11Z", 
+        "ne:NL_NAME_1": "????????????????", 
         "fullname": "Bangkok, Thailand", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Thailand", 

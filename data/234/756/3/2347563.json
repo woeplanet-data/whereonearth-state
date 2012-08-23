@@ -4828,17 +4828,11 @@
         "alias_KOR_Q": [
           "\uce98\ub9ac\ud3ec\ub2c8\uc544"
         ], 
-        "ne:woe:id": "2347563", 
-        "adjacent_woeid": [
-          2347561, 
-          2347587, 
-          2347596
-        ], 
         "ne_latitude": 41.9995402205048, 
         "ne:Shape_Area": 41.6210491194, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18500909", 
+        "ne:MAP_COLOR": 1, 
         "alias_POR_Q": [
           "Calif\u00f3rnia"
         ], 
@@ -4851,13 +4845,12 @@
         "alias_CHI_Q": [
           "\u52a0\u5229\u798f\u5c3c\u4e9a"
         ], 
-        "alias_DAN_Q": [
-          "Californien"
-        ], 
-        "ne:DataRank": 1, 
+        "ne:Area_sqkm": 409437.5, 
+        "ne:OBJECTID": 3521, 
         "alias_JPN_Q": [
           "\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": "Calif.", 
         "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
@@ -4874,9 +4867,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3521, 
+        "ne:VertexCou": 1217.0, 
+        "ne:VALIDFR_1": "18500909", 
+        "ne:DataRank": 1, 
         "ne:Postal": "CA", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "CA|Calif.", 
@@ -4892,15 +4885,21 @@
         "ne:Region_C_1": "Pacific", 
         "ne:Region_C_3": "Pacific", 
         "ne:LabelRank": 0, 
-        "ne:Area_sqkm": 409437.5, 
+        "alias_DAN_Q": [
+          "Californien"
+        ], 
         "alias_GER_Q": [
           "Kalifornien"
         ], 
         "woe:id": "2347563", 
-        "name": "California", 
-        "ne:VertexCou": 1217.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.CA", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347561, 
+          2347587, 
+          2347596
+        ], 
+        "name": "California", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424977, 
@@ -4908,14 +4907,14 @@
         "longitude": -119.27, 
         "iso": "US", 
         "sw_latitude": 32.53213299424232, 
+        "ne:NL_NAME_1": null, 
         "fullname": "California, United States", 
-        "alias_FRE_Q": [
-          "Californie"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Californie"
+        ]
       }, 
       "id": 2347563
     }

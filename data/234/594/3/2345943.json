@@ -5059,28 +5059,14 @@
         "alias_SWE_Q": [
           "\u00d6stafrikanska gravs\u00e4nkesystemet"
         ], 
-        "ne:woe:id": "2345943", 
         "alias_SWE_S": [
           "Ostafrikanska gravsankesystemet"
-        ], 
-        "adjacent_woeid": [
-          2345937, 
-          2345938, 
-          2345939, 
-          2345940, 
-          2345942, 
-          2345944, 
-          2347352, 
-          2347357, 
-          2347359, 
-          20069901, 
-          56013536
         ], 
         "ne_latitude": 5.491938991491338, 
         "ne:Shape_Area": 15.2128103226, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1962", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\ub9ac\ud504\ud2b8\ubc38\ub9ac"
         ], 
@@ -5090,7 +5076,7 @@
         "alias_CHI_Q": [
           "\u91cc\u592b\u7279\u5c71\u8c37"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 890, 
         "alias_JPN_Q": [
           "\u30ea\u30d5\u30c8\u30d0\u30ec\u30fc"
         ], 
@@ -5104,9 +5090,9 @@
         "ne:FIRST_HASC": "KE.RV|KEN-RVL", 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -3.19220793994441, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 890, 
+        "ne:VertexCou": 1228.0, 
+        "ne:VALIDFR_1": "1962", 
+        "ne:DataRank": 5, 
         "ne:Postal": "RV", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -5122,16 +5108,29 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 187082.0, 
         "woe:id": "2345943", 
-        "name": "Rift Valley", 
-        "ne:VertexCou": 1228.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345937, 
+          2345938, 
+          2345939, 
+          2345940, 
+          2345942, 
+          2345944, 
+          2347352, 
+          2347357, 
+          2347359, 
+          20069901, 
+          56013536
+        ], 
+        "name": "Rift Valley", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424863, 
         "ne_longitude": 38.05698489723528, 
         "longitude": 36.035, 
         "iso": "KE", 
         "date_indexed": "2010-12-02T08:53:52Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Rift Valley, Kenya", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Kenya", 

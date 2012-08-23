@@ -593,16 +593,11 @@
       "properties": {
         "ne:ProvNumber": 2000, 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "2346342", 
-        "adjacent_woeid": [
-          2344828, 
-          2346346
-        ], 
         "ne_latitude": 6.704707343169389, 
         "ne:Shape_Area": 0.28995410831, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1968", 
+        "ne:MAP_COLOR": 2, 
         "alias_KOR_Q": [
           "\ub77c\uace0\uc2a4"
         ], 
@@ -611,7 +606,7 @@
         "alias_CHI_Q": [
           "\u62c9\u5404\u65af"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 2850, 
         "alias_JPN_Q": [
           "\u30e9\u30b4\u30b9"
         ], 
@@ -625,9 +620,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 6.368190416154846, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 2850, 
+        "ne:VertexCou": 142.0, 
+        "ne:VALIDFR_1": "1968", 
+        "ne:DataRank": 2, 
         "ne:Postal": "LA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -643,16 +638,20 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 3546.5, 
         "woe:id": "2346342", 
-        "name": "Lagos", 
-        "ne:VertexCou": 142.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "NG.LA", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344828, 
+          2346346
+        ], 
+        "name": "Lagos", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424908, 
         "ne_longitude": 4.346329379697181, 
         "longitude": 3.524, 
         "iso": "NG", 
         "date_indexed": "2010-12-02T09:34:55Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Lagos, Nigeria", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Nigeria", 

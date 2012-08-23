@@ -1721,22 +1721,11 @@
       "properties": {
         "ne:ProvNumber": 11, 
         "ne:ScaleRank": 5, 
-        "ne:woe:id": "2347699", 
-        "adjacent_woeid": [
-          2345056, 
-          2345062, 
-          2345066, 
-          2347687, 
-          2347689, 
-          2347690, 
-          2347696, 
-          2347697
-        ], 
         "ne_latitude": 11.851034043886045, 
         "ne:Shape_Area": 3.09990094865, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19090805", 
+        "ne:MAP_COLOR": 4, 
         "alias_KOR_Q": [
           "\uc220\ub9ac\uc544"
         ], 
@@ -1745,7 +1734,7 @@
         "alias_CHI_Q": [
           "\u82cf\u5229\u4e9a"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 31, 
         "alias_JPN_Q": [
           "\u30b9\u30ea\u30a2\u5dde"
         ], 
@@ -1759,9 +1748,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 8.382615261685032, 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 31, 
+        "ne:VertexCou": 425.0, 
+        "ne:VALIDFR_1": "19090805", 
+        "ne:DataRank": 6, 
         "ne:Postal": "ZU", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1777,16 +1766,26 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 37605.1, 
         "woe:id": "2347699", 
-        "name": "Zulia", 
-        "ne:VertexCou": 425.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "VE.ZU", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2345056, 
+          2345062, 
+          2345066, 
+          2347687, 
+          2347689, 
+          2347690, 
+          2347696, 
+          2347697
+        ], 
+        "name": "Zulia", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424982, 
         "ne_longitude": -71.14242204424193, 
         "longitude": -72.224, 
         "iso": "VE", 
         "date_indexed": "2010-12-02T16:11:23Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Zulia, Venezuela", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Venezeula", 

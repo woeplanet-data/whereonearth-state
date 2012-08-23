@@ -1244,41 +1244,33 @@
           "Hallands L\u00e4ns"
         ], 
         "ne:ScaleRank": 7, 
-        "ne:woe:id": "2347049", 
         "alias_SWE_S": [
           "Hallands"
-        ], 
-        "adjacent_woeid": [
-          2347051, 
-          2347055, 
-          20070561, 
-          20070562
         ], 
         "ne_latitude": 57.61643179019501, 
         "ne:Shape_Area": 0.871853792345, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1719", 
+        "ne:MAP_COLOR": 4, 
         "alias_POR_Q": [
           "Halland"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "SWE", 
-        "alias_SPA_Q": [
-          "Halland"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Halland"
         ], 
-        "alias_DAN_Q": [
-          "Halland"
-        ], 
-        "ne:DataRank": 7, 
+        "ne:Area_sqkm": 5904.1, 
+        "ne:OBJECTID": 187, 
         "alias_ENG_P": [
           "Halland"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Halland"
+        ], 
         "alias_FIN_Q": [
           "Halland"
         ], 
@@ -1292,9 +1284,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T16:43:54Z", 
-        "lang": "SWE", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 187, 
+        "ne:VertexCou": 306.0, 
+        "ne:VALIDFR_1": "1719", 
+        "ne:DataRank": 7, 
         "ne:Postal": "HA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Hallands l\u00e4n", 
@@ -1310,16 +1302,23 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 7, 
-        "ne:Area_sqkm": 5904.1, 
+        "alias_DAN_Q": [
+          "Halland"
+        ], 
         "alias_GER_Q": [
           "Halland"
         ], 
         "woe:id": "2347049", 
-        "name": "Hallands L\u00e4n", 
-        "ne:VertexCou": 306.0, 
-        "ne:NL_NAME_1": null, 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": "SE.HA", 
+        "lang": "SWE", 
+        "adjacent_woeid": [
+          2347051, 
+          2347055, 
+          20070561, 
+          20070562
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "Hallands L\u00e4n", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424954, 
@@ -1327,14 +1326,14 @@
         "longitude": 12.798, 
         "iso": "SE", 
         "sw_latitude": 56.33800853146863, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Hallands L\u00e4n, Halland, Sweden", 
-        "alias_FRE_Q": [
-          "Halland"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Sweden", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Halland"
+        ]
       }, 
       "id": 2347049
     }

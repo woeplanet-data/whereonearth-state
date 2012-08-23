@@ -808,32 +808,22 @@
           "Ticino"
         ], 
         "ne:ScaleRank": 9, 
-        "ne:woe:id": "2347102", 
         "alias_ENG_P": [
           "Canton of Ticino"
         ], 
-        "adjacent_woeid": [
-          2347091, 
-          2347103, 
-          2347104, 
-          7153338, 
-          7153341
-        ], 
         "ne_latitude": 46.6323477241682, 
-        "ne:DataRank": 7, 
         "ne:Shape_Area": 0.34086152665, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
         "ne:VALIDTO_1": "Present", 
-        "alias_GER_V": [
-          "Tessin"
-        ], 
+        "ne:Area_sqkm": 2919.4, 
         "alias_ITA_V": [
           "Ticino"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Tesino"
@@ -844,14 +834,15 @@
         "sw_longitude": 8.384635857558806, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.225, 
+        "iso": "CH", 
         "ne:FIPS_1": "SZ20", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "date_indexed": "2010-12-02T18:19:21Z", 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 168, 
+        "ne:VertexCou": 182.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 7, 
         "ne:Postal": "TI", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Tesino|Tessin", 
@@ -867,15 +858,23 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 9, 
-        "ne:Area_sqkm": 2919.4, 
+        "alias_GER_V": [
+          "Tessin"
+        ], 
         "alias_GER_Q": [
           "Kanton Tessin"
         ], 
         "woe:id": "2347102", 
-        "name": "Cantone Ticino", 
-        "ne:VertexCou": 182.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "CH.TI", 
+        "lang": "ITA", 
+        "adjacent_woeid": [
+          2347091, 
+          2347103, 
+          2347104, 
+          7153338, 
+          7153341
+        ], 
+        "name": "Cantone Ticino", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424957, 
@@ -884,19 +883,19 @@
         ], 
         "ne_longitude": 9.16334801639789, 
         "longitude": 8.771, 
-        "iso": "CH", 
+        "ne:OBJECTID": 168, 
         "sw_latitude": 45.821105251406266, 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Tessin"
         ], 
         "fullname": "Cantone Ticino, Canton of Ticino, Switzerland", 
-        "alias_FRE_Q": [
-          "Canton de Tessin"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Switzerland", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Canton de Tessin"
+        ]
       }, 
       "id": 2347102
     }

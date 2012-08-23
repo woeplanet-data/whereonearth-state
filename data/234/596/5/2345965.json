@@ -946,17 +946,8 @@
         "alias_SWE_Q": [
           "Nordchungcheong"
         ], 
-        "ne:woe:id": "2345965", 
         "alias_ENG_P": [
           "Chungcheongbuk-Do"
-        ], 
-        "adjacent_woeid": [
-          2345964, 
-          2345966, 
-          2345969, 
-          2345970, 
-          2345973, 
-          2345975
         ], 
         "ne_latitude": 37.218271185566834, 
         "ne:Shape_Area": 0.77257739029, 
@@ -964,14 +955,14 @@
         "alias_KOR_V": [
           "\ucda9\ubd81\ub3c4"
         ], 
-        "ne:VALIDFR_1": "18960804", 
+        "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u5fe0\u6e05\u5317\u9053"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2494, 
         "alias_JPN_Q": [
           "\u30c1\u30e5\u30f3\u30c1\u30e7\u30f3\u30d6\u30af\u30c9"
         ], 
@@ -990,9 +981,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "date_indexed": "2010-12-02T17:52:39Z", 
-        "lang": "KOR", 
-        "ne:MAP_COLOR": 5, 
-        "ne:OBJECTID": 2494, 
+        "ne:VertexCou": 231.0, 
+        "ne:VALIDFR_1": "18960804", 
+        "ne:DataRank": 3, 
         "ne:Postal": "GB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Chungchongbuk-Do|Chungcheongbugdo|Ch'ungch'ong-bukto|Chusei Hoku-do|North Chungchong|Ch'ungch'ong-bukto", 
@@ -1008,11 +999,18 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 7660.6, 
         "woe:id": "2345965", 
-        "name": "\ucda9\uccad\ubd81\ub3c4", 
-        "ne:VertexCou": 231.0, 
-        "ne:NL_NAME_1": "???? | ????", 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": "KR.GB", 
+        "lang": "KOR", 
+        "adjacent_woeid": [
+          2345964, 
+          2345966, 
+          2345969, 
+          2345970, 
+          2345973, 
+          2345975
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "\ucda9\uccad\ubd81\ub3c4", 
         "ne:REMARKS_1": "33 (NSO Code)", 
         "ne:Country_Pr": null, 
         "parent_woeid": 23424868, 
@@ -1020,6 +1018,7 @@
         "longitude": 127.915, 
         "iso": "KR", 
         "sw_latitude": 35.975220445567174, 
+        "ne:NL_NAME_1": "???? | ????", 
         "fullname": "\ucda9\uccad\ubd81\ub3c4, Chungcheongbuk-Do, South Korea", 
         "ne:Region": null, 
         "ne:NEV_Countr": "South Korea", 

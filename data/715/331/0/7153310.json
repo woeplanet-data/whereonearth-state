@@ -2985,20 +2985,11 @@
       "properties": {
         "ne:ProvNumber": 18, 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "7153310", 
-        "adjacent_woeid": [
-          7153312, 
-          7153314, 
-          7153320, 
-          7153321, 
-          7153323, 
-          7153329
-        ], 
         "ne_latitude": 46.79321645797319, 
         "ne:Shape_Area": 3.01292483983, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_KOR_Q": [
           "\uc624\ubca0\ub974\ub274"
         ], 
@@ -3010,7 +3001,7 @@
         "alias_ITA_Q": [
           "Alvernia"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2670, 
         "alias_JPN_Q": [
           "\u30aa\u30fc\u30d9\u30eb\u30cb\u30e5"
         ], 
@@ -3024,9 +3015,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 44.62234121367612, 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2670, 
+        "ne:VertexCou": 742.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -3042,16 +3033,24 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 26100.0, 
         "woe:id": "7153310", 
-        "name": "Auvergne", 
-        "ne:VertexCou": 742.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          7153312, 
+          7153314, 
+          7153320, 
+          7153321, 
+          7153323, 
+          7153329
+        ], 
+        "name": "Auvergne", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424819, 
         "ne_longitude": 4.478155958630623, 
         "longitude": 3.276, 
         "iso": "FR", 
         "date_indexed": "2010-12-02T11:51:35Z", 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Auvergne Region"
         ], 

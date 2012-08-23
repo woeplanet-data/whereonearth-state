@@ -1805,7 +1805,6 @@
       "properties": {
         "ne:ProvNumber": 8, 
         "ne:ScaleRank": 7, 
-        "ne:woe:id": "55848084", 
         "alias_ENG_P": [
           "Kaunas County"
         ], 
@@ -1813,10 +1812,10 @@
         "ne:Shape_Area": 1.15085644214, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1990", 
+        "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "LTU", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 1069, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 22.645729201241693, 
@@ -1827,9 +1826,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 54.45900177671069, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 1069, 
+        "ne:VertexCou": 447.0, 
+        "ne:VALIDFR_1": "1990", 
+        "ne:DataRank": 8, 
         "ne:Postal": "KS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kaunas|Kowno|Kovno", 
@@ -1845,8 +1844,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 8181.7, 
         "woe:id": "55848084", 
-        "name": "Kauno Apskritis", 
-        "ne:VertexCou": 447.0, 
+        "ne:HASC_1": "LT.KS", 
+        "lang": "UNK", 
         "adjacent_woeid": [
           55848078, 
           55848079, 
@@ -1855,7 +1854,7 @@
           55848086, 
           55848087
         ], 
-        "ne:HASC_1": "LT.KS", 
+        "name": "Kauno Apskritis", 
         "ne:REMARKS_1": "NUTS code LT002", 
         "parent_woeid": 23424875, 
         "ne_longitude": 24.799964634160574, 

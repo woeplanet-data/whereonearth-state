@@ -9671,20 +9671,11 @@
         "alias_KOR_Q": [
           "\uc548\ub4dc\ub77c\ud504\ub77c\ub370\uc2dc"
         ], 
-        "ne:woe:id": "2345740", 
-        "adjacent_woeid": [
-          2345750, 
-          2345753, 
-          2345755, 
-          2345758, 
-          20070459, 
-          20070464
-        ], 
         "ne_latitude": 19.891292629851023, 
         "ne:Shape_Area": 23.3569558297, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "AP"
         ], 
@@ -9694,7 +9685,7 @@
         "alias_CHI_Q": [
           "\u5b89\u5f97\u62c9\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 2441, 
         "alias_JPN_Q": [
           "\u30a2\u30f3\u30c9\u30e9\u30d7\u30e9\u30c7\u30b7"
         ], 
@@ -9708,9 +9699,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 12.631890773740281, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 2441, 
+        "ne:VertexCou": 2398.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "AP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -9726,16 +9717,24 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 275715.7, 
         "woe:id": "2345740", 
-        "name": "Andhra Pradesh", 
-        "ne:VertexCou": 2398.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IN.AP", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345750, 
+          2345753, 
+          2345755, 
+          2345758, 
+          20070459, 
+          20070464
+        ], 
+        "name": "Andhra Pradesh", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424848, 
         "ne_longitude": 84.78007612501324, 
         "longitude": 80.764, 
         "iso": "IN", 
         "date_indexed": "2010-12-02T08:59:14Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Andhra Pradesh, India", 
         "ne:Region": null, 
         "ne:NEV_Countr": "India", 

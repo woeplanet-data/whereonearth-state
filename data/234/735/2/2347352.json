@@ -521,20 +521,11 @@
       "properties": {
         "ne:ProvNumber": 2001, 
         "ne:ScaleRank": 5, 
-        "ne:woe:id": "2347352", 
-        "adjacent_woeid": [
-          2345943, 
-          2347357, 
-          2347359, 
-          2347366, 
-          2347367, 
-          56025085
-        ], 
         "ne_latitude": -1.707027276487565, 
         "ne:Shape_Area": 3.14089796773, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "between 1922-1966", 
+        "ne:MAP_COLOR": 2, 
         "alias_KOR_Q": [
           "\uc544\ub8e8\uc0e4"
         ], 
@@ -543,7 +534,7 @@
         "alias_CHI_Q": [
           "\u963f\u9c81\u6c99"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 3391, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30fc\u30b7\u30e3"
         ], 
@@ -557,9 +548,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": -4.129454147590764, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3391, 
+        "ne:VertexCou": 127.0, 
+        "ne:VALIDFR_1": "between 1922-1966", 
+        "ne:DataRank": 5, 
         "ne:Postal": "AS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -575,16 +566,24 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 38610.2, 
         "woe:id": "2347352", 
-        "name": "Arusha", 
-        "ne:VertexCou": 127.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "TZ.AS", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345943, 
+          2347357, 
+          2347359, 
+          2347366, 
+          2347367, 
+          56025085
+        ], 
+        "name": "Arusha", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424973, 
         "ne_longitude": 37.423586867340134, 
         "longitude": 36.044, 
         "iso": "TZ", 
         "date_indexed": "2010-12-02T12:15:58Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Arusha, Tanzania", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Tanzania", 

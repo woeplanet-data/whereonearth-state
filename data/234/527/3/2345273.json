@@ -1024,26 +1024,17 @@
           "County Wexford"
         ], 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "2345273", 
-        "adjacent_woeid": [
-          2345249, 
-          2345258, 
-          2345274
-        ], 
         "ne_latitude": 52.791610012192336, 
         "ne:Shape_Area": 0.309177200776, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
-        "alias_UNK_V": [
-          "Contae Loch Garman"
-        ], 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "WEX"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 718, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -7.019333461969666, 
@@ -1054,9 +1045,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.124777329909875, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 718, 
+        "ne:VertexCou": 251.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "WX", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Loch Garman", 
@@ -1072,19 +1063,27 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 2338.5, 
         "woe:id": "2345273", 
-        "name": "Wexford", 
-        "ne:VertexCou": 251.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IE.WX", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345249, 
+          2345258, 
+          2345274
+        ], 
+        "name": "Wexford", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Loch Garman"
         ], 
-        "ne_longitude": -6.15101436981729, 
+        "alias_UNK_V": [
+          "Contae Loch Garman"
+        ], 
         "longitude": -6.58, 
+        "ne_longitude": -6.15101436981729, 
         "iso": "IE", 
         "date_indexed": "2010-12-02T12:07:35Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Wexford, Ireland", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Ireland", 

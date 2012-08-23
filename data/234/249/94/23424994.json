@@ -236,18 +236,14 @@
           "Republic of Cyprus"
         ], 
         "ne:ScaleRank": 9, 
-        "ne:woe:id": "23424994", 
-        "adjacent_woeid": [
-          23424995
-        ], 
         "ne_latitude": 35.073311672295915, 
         "ne:Shape_Area": 0.0192452465131, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1901", 
+        "ne:MAP_COLOR": 7, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CYP", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 3466, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 33.79858849426364, 
@@ -257,9 +253,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "District", 
         "sw_latitude": 34.95450755448013, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 3466, 
+        "ne:VertexCou": 130.0, 
+        "ne:VALIDFR_1": "1901", 
+        "ne:DataRank": 8, 
         "ne:Postal": "FA", 
         "supercededby_woeid": 26812346, 
         "ne:Region_Cod": null, 
@@ -279,10 +275,12 @@
           "Republik Zypern"
         ], 
         "woe:id": "23424994", 
-        "name": "Cyprus Greek Cypriot Rep", 
-        "ne:VertexCou": 130.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "CY.FA", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          23424995
+        ], 
+        "name": "Cyprus Greek Cypriot Rep", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 26812346, 
         "alias_UNK_Q": [
@@ -291,6 +289,7 @@
         "ne_longitude": 34.099138625147475, 
         "iso": "CY", 
         "date_indexed": "2010-06-05T10:05:20Z", 
+        "ne:NL_NAME_1": null, 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 
         "ne:RegionVar": null, 

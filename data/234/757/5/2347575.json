@@ -854,18 +854,11 @@
         "alias_KOR_Q": [
           "\uce94\uc0ac\uc2a4"
         ], 
-        "ne:woe:id": "2347575", 
-        "adjacent_woeid": [
-          2347564, 
-          2347584, 
-          2347586, 
-          2347595
-        ], 
         "ne_latitude": 40.00010174410028, 
         "ne:Shape_Area": 21.9763199252, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18540530", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "KS"
         ], 
@@ -875,7 +868,7 @@
         "alias_CHI_Q": [
           "\u582a\u8428\u5e02"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3530, 
         "alias_JPN_Q": [
           "\u30ab\u30f3\u30b6\u30b9"
         ], 
@@ -892,9 +885,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 36.99980877525485, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3530, 
+        "ne:VertexCou": 208.0, 
+        "ne:VALIDFR_1": "18540530", 
+        "ne:DataRank": 1, 
         "ne:Postal": "KS", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "KS|Kans.", 
@@ -910,16 +903,22 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 212045.4, 
         "woe:id": "2347575", 
-        "name": "Kansas", 
-        "ne:VertexCou": 208.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.KS", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347564, 
+          2347584, 
+          2347586, 
+          2347595
+        ], 
+        "name": "Kansas", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -94.61046757232054, 
         "longitude": -98.32, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Kansas, United States", 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 

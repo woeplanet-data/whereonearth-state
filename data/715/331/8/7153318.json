@@ -1157,21 +1157,14 @@
       "properties": {
         "ne:ProvNumber": 22, 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "7153318", 
         "alias_ENG_P": [
           "Upper Normandy"
-        ], 
-        "adjacent_woeid": [
-          7153311, 
-          7153314, 
-          7153319, 
-          7153326
         ], 
         "ne_latitude": 50.06572988532599, 
         "ne:Shape_Area": 1.51782813853, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_POR_Q": [
           "Alta Normandia"
         ], 
@@ -1183,21 +1176,19 @@
         "alias_CHI_Q": [
           "\u4e0a\u8bfa\u66fc\u5e95"
         ], 
-        "alias_SPA_Q": [
-          "Alta Normand\u00eda"
-        ], 
+        "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_Q": [
           "Alta Normandia"
         ], 
-        "alias_DAN_Q": [
-          "Nordnormandiet"
-        ], 
-        "ne:DataRank": 3, 
+        "ne:Area_sqkm": 12255.2, 
+        "ne:OBJECTID": 2673, 
         "alias_JPN_Q": [
           "\u30ce\u30eb\u30de\u30f3\u30c7\u30a3"
         ], 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Unknown", 
+        "alias_SPA_Q": [
+          "Alta Normand\u00eda"
+        ], 
         "sw_longitude": 0.075582309176298, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.369, 
@@ -1208,9 +1199,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2673, 
+        "ne:VertexCou": 285.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Alta Normand\u00a1a|Upper Normandy", 
@@ -1228,13 +1219,20 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 12255.2, 
+        "alias_DAN_Q": [
+          "Nordnormandiet"
+        ], 
         "woe:id": "7153318", 
-        "name": "Haute-Normandie", 
-        "ne:VertexCou": 285.0, 
-        "ne:NL_NAME_1": null, 
-        "ne:FIRST_FIPS": null, 
         "ne:HASC_1": null, 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          7153311, 
+          7153314, 
+          7153319, 
+          7153326
+        ], 
+        "ne:FIRST_FIPS": null, 
+        "name": "Haute-Normandie", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424819, 
@@ -1243,6 +1241,7 @@
         "ne:NAME_1": "Haute-Normandie", 
         "iso": "FR", 
         "sw_latitude": 48.665091864997635, 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Haute-Normandie Region"
         ], 

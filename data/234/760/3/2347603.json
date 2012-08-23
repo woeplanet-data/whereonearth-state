@@ -626,20 +626,11 @@
         "alias_KOR_Q": [
           "\uc720\ud0c0"
         ], 
-        "ne:woe:id": "2347603", 
-        "adjacent_woeid": [
-          2347561, 
-          2347564, 
-          2347571, 
-          2347587, 
-          2347590, 
-          2347609
-        ], 
         "ne_latitude": 42.00007732980498, 
         "ne:Shape_Area": 22.9629975394, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18660505", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "UT"
         ], 
@@ -649,7 +640,7 @@
         "alias_CHI_Q": [
           "\u72b9\u4ed6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3526, 
         "alias_JPN_Q": [
           "\u30e6\u30bf"
         ], 
@@ -663,9 +654,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 36.99980877525485, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3526, 
+        "ne:VertexCou": 151.0, 
+        "ne:VALIDFR_1": "18660505", 
+        "ne:DataRank": 1, 
         "ne:Postal": "UT", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "UT", 
@@ -681,16 +672,24 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 219762.4, 
         "woe:id": "2347603", 
-        "name": "Utah", 
-        "ne:VertexCou": 151.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.UT", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347561, 
+          2347564, 
+          2347571, 
+          2347587, 
+          2347590, 
+          2347609
+        ], 
+        "name": "Utah", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": -109.04633182955024, 
         "longitude": -111.547, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Utah, United States", 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 

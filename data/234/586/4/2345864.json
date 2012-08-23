@@ -834,23 +834,17 @@
           "Ishikawa"
         ], 
         "ne:ScaleRank": 6, 
-        "ne:woe:id": "2345864", 
         "alias_ENG_P": [
           "Ishikawa Prefecture"
-        ], 
-        "adjacent_woeid": [
-          2345856, 
-          2345859, 
-          2345891
         ], 
         "ne_latitude": 37.528200588886136, 
         "ne:Shape_Area": 0.403476181455, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1842, 
         "alias_JPN_V": [
           "\u77f3\u5ddd"
         ], 
@@ -864,9 +858,9 @@
         "ne:FIRST_HASC": "JP.HS", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 36.06343211490025, 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1842, 
+        "ne:VertexCou": 201.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "IS", 
         "ne:Region_Cod": "JPN-CHB", 
         "ne:VARNAME_1": "Isikawa", 
@@ -882,16 +876,21 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 3997.0, 
         "woe:id": "2345864", 
-        "name": "\u77f3\u5ddd\u770c", 
-        "ne:VertexCou": 201.0, 
-        "ne:NL_NAME_1": "???", 
         "ne:HASC_1": "JP.IS", 
+        "lang": "JPN", 
+        "adjacent_woeid": [
+          2345856, 
+          2345859, 
+          2345891
+        ], 
+        "name": "\u77f3\u5ddd\u770c", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424856, 
         "ne_longitude": 137.36332645075515, 
         "longitude": 136.802, 
         "iso": "JP", 
         "date_indexed": "2010-12-02T07:50:42Z", 
+        "ne:NL_NAME_1": "???", 
         "fullname": "\u77f3\u5ddd\u770c, Ishikawa Prefecture, Japan", 
         "ne:Region": "Chubu", 
         "ne:NEV_Countr": "Japan", 

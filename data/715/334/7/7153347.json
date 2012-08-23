@@ -2075,18 +2075,11 @@
         "alias_SWE_Q": [
           "Umbrien"
         ], 
-        "ne:woe:id": "7153347", 
-        "adjacent_woeid": [
-          7153336, 
-          7153339, 
-          7153345
-        ], 
         "ne_latitude": 43.62059357393434, 
-        "ne:DataRank": 3, 
         "ne:Shape_Area": 0.936560533324, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1895", 
+        "ne:MAP_COLOR": 7, 
         "alias_POR_Q": [
           "\u00dambria"
         ], 
@@ -2099,15 +2092,14 @@
         "alias_CHI_Q": [
           "\u7fc1\u5e03\u91cc\u4e9a"
         ], 
-        "alias_DAN_Q": [
-          "Umbrien"
-        ], 
+        "ne:Area_sqkm": 8488.5, 
         "alias_ITA_V": [
           "Umbria Regione"
         ], 
         "alias_JPN_Q": [
           "\u30a6\u30f3\u30d6\u30ea\u30a2"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -2116,14 +2108,15 @@
         "sw_longitude": 11.889021436789903, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.991, 
+        "iso": "IT", 
         "ne:FIPS_1": "IT18", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 827, 
+        "ne:VertexCou": 514.0, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Ombrie|Umbrien", 
@@ -2141,31 +2134,37 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 8488.5, 
+        "alias_DAN_Q": [
+          "Umbrien"
+        ], 
         "alias_GER_Q": [
           "Umbrien"
         ], 
         "woe:id": "7153347", 
-        "name": "Umbria", 
-        "ne:VertexCou": 514.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "ITA", 
+        "adjacent_woeid": [
+          7153336, 
+          7153339, 
+          7153345
+        ], 
+        "name": "Umbria", 
         "ne:REMARKS_1": "ITE", 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424853, 
         "ne_longitude": 13.256379835261214, 
         "longitude": 12.578, 
         "ne:NAME_1": "Umbria", 
-        "iso": "IT", 
+        "ne:OBJECTID": 827, 
         "sw_latitude": 42.36847361896241, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Umbria, Italy", 
-        "alias_FRE_Q": [
-          "Ombrie"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Ombrie"
+        ]
       }, 
       "id": 7153347
     }

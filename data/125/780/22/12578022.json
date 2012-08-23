@@ -7017,29 +7017,20 @@
       "properties": {
         "ne:ProvNumber": 31, 
         "ne:ScaleRank": 2, 
-        "ne:woe:id": "12578022", 
         "alias_ENG_P": [
           "Anhui"
-        ], 
-        "adjacent_woeid": [
-          12577992, 
-          12577993, 
-          12577994, 
-          12577999, 
-          12578002, 
-          12578014
         ], 
         "ne_latitude": 34.64284699129564, 
         "ne:Shape_Area": 13.3573933161, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\uc548\ud6c4\uc774"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 1179, 
         "alias_CHI_V": [
           "\u5b89\u5fbd"
         ], 
@@ -7059,9 +7050,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 29.407869370774904, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1179, 
+        "ne:VertexCou": 1750.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "AH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Anhui", 
@@ -7077,16 +7068,24 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 140193.6, 
         "woe:id": "12578022", 
-        "name": "\u5b89\u5fbd\u7701", 
-        "ne:VertexCou": 1750.0, 
-        "ne:NL_NAME_1": "??|??", 
         "ne:HASC_1": "CN.AH", 
+        "lang": "CHI", 
+        "adjacent_woeid": [
+          12577992, 
+          12577993, 
+          12577994, 
+          12577999, 
+          12578002, 
+          12578014
+        ], 
+        "name": "\u5b89\u5fbd\u7701", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424781, 
         "ne_longitude": 119.6297835634607, 
         "longitude": 117.246, 
         "iso": "CN", 
         "date_indexed": "2010-12-02T08:51:01Z", 
+        "ne:NL_NAME_1": "??|??", 
         "fullname": "\u5b89\u5fbd\u7701, Anhui, China", 
         "ne:Region": null, 
         "ne:NEV_Countr": "China", 

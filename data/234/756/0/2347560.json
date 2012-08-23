@@ -76668,16 +76668,11 @@
         "alias_KOR_Q": [
           "\uc54c\ub798\uc2a4\uce74"
         ], 
-        "ne:woe:id": "2347560", 
-        "adjacent_woeid": [
-          2344926, 
-          2344916
-        ], 
         "ne_latitude": 71.41262615817072, 
         "ne:Shape_Area": 279.194428907, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18671011", 
+        "ne:MAP_COLOR": 1, 
         "alias_POR_Q": [
           "Alasca"
         ], 
@@ -76690,7 +76685,7 @@
         "alias_CHI_Q": [
           "\u963f\u62c9\u65af\u52a0"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3563, 
         "alias_JPN_Q": [
           "\u30a2\u30e9\u30b9\u30ab"
         ], 
@@ -76704,9 +76699,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 51.21555584532604, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3563, 
+        "ne:VertexCou": 18825.0, 
+        "ne:VALIDFR_1": "18671011", 
+        "ne:DataRank": 1, 
         "ne:Postal": "AK", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "AK|Alaska", 
@@ -76722,16 +76717,20 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 1505052.0, 
         "woe:id": "2347560", 
-        "name": "Alaska", 
-        "ne:VertexCou": 18825.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.AK", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344926, 
+          2344916
+        ], 
+        "name": "Alaska", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424977, 
         "ne_longitude": 179.7812316467232, 
         "longitude": -149.106, 
         "iso": "US", 
         "date_indexed": "2010-12-02T18:21:30Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Alaska, United States", 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 

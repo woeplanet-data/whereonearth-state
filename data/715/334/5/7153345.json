@@ -3287,23 +3287,14 @@
       "properties": {
         "ne:ProvNumber": 3, 
         "ne:ScaleRank": 3, 
-        "ne:woe:id": "7153345", 
         "alias_ENG_P": [
           "Tuscany"
         ], 
-        "adjacent_woeid": [
-          7153334, 
-          7153336, 
-          7153337, 
-          7153339, 
-          7153347
-        ], 
         "ne_latitude": 44.48296987585911, 
-        "ne:DataRank": 3, 
         "ne:Shape_Area": 2.55055830608, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1895", 
+        "ne:MAP_COLOR": 7, 
         "alias_KOR_Q": [
           "\ud22c\uc2a4\uce74\ub2c8"
         ], 
@@ -3318,6 +3309,7 @@
         "alias_JPN_Q": [
           "\u30c8\u30b9\u30ab\u30fc\u30ca"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -3326,14 +3318,15 @@
         "sw_longitude": 9.686985304128541, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 43.417, 
+        "iso": "IT", 
         "ne:FIPS_1": "IT16", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 7, 
-        "ne:OBJECTID": 816, 
+        "ne:VertexCou": 807.0, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Tuscany|Toscane|Toskana", 
@@ -3354,25 +3347,31 @@
           "Toskana"
         ], 
         "woe:id": "7153345", 
-        "name": "Toscana", 
-        "ne:VertexCou": 807.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": null, 
+        "lang": "ITA", 
+        "adjacent_woeid": [
+          7153334, 
+          7153336, 
+          7153337, 
+          7153339, 
+          7153347
+        ], 
+        "name": "Toscana", 
         "ne:REMARKS_1": "ITE", 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424853, 
         "ne_longitude": 12.357623325156396, 
         "longitude": 11.029, 
-        "iso": "IT", 
+        "ne:OBJECTID": 816, 
         "sw_latitude": 42.3239285342745, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Toscana, Tuscany, Italy", 
-        "alias_FRE_Q": [
-          "La Toscane"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "La Toscane"
+        ]
       }, 
       "id": 7153345
     }

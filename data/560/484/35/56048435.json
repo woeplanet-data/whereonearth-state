@@ -1269,25 +1269,17 @@
       "properties": {
         "ne:ProvNumber": 3, 
         "ne:ScaleRank": 6, 
-        "ne:woe:id": "56048435", 
         "alias_ENG_P": [
           "Kara Region"
-        ], 
-        "adjacent_woeid": [
-          2344824, 
-          2345467, 
-          55967671, 
-          56048434, 
-          56048436
         ], 
         "ne_latitude": 10.21650849007483, 
         "ne:Shape_Area": 0.954654282955, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1981", 
+        "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TGO", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 88, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 0.222705112351093, 
@@ -1298,9 +1290,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 8.834784044248295, 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 5, 
-        "ne:OBJECTID": 88, 
+        "ne:VertexCou": 307.0, 
+        "ne:VALIDFR_1": "1981", 
+        "ne:DataRank": 8, 
         "ne:Postal": "KA", 
         "ne:Region_Cod": "TGO-ASL", 
         "ne:VARNAME_1": "R\u00e9gion de la Kara", 
@@ -1316,25 +1308,32 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 11591.0, 
         "woe:id": "56048435", 
-        "name": "Kara", 
-        "ne:VertexCou": 307.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "TG.KA", 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          2344824, 
+          2345467, 
+          55967671, 
+          56048434, 
+          56048436
+        ], 
+        "name": "Kara", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424965, 
         "ne_longitude": 1.419996371735238, 
         "longitude": 0.822, 
-        "alias_FRE_S": [
-          "Region de la Kara"
-        ], 
+        "ne:NEV_Countr": "Togo", 
         "iso": "TG", 
         "date_indexed": "2010-12-02T17:04:11Z", 
+        "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "R\u00e9gion de la Kara"
         ], 
         "fullname": "Kara, Kara Region, Togo", 
         "ne:Region": "Assoli", 
-        "ne:NEV_Countr": "Togo", 
+        "alias_FRE_S": [
+          "Region de la Kara"
+        ], 
         "ne:RegionVar": null, 
         "ne:sameAsCity": -99
       }, 

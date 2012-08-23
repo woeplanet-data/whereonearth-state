@@ -818,21 +818,14 @@
         "alias_SWE_Q": [
           "Aichi Prefektur"
         ], 
-        "ne:woe:id": "2345851", 
         "alias_ENG_P": [
           "Aichi Prefecture"
-        ], 
-        "adjacent_woeid": [
-          2345859, 
-          2345872, 
-          2345875, 
-          2345886
         ], 
         "ne_latitude": 35.384145413180306, 
         "ne:Shape_Area": 0.485360297793, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "alias_KOR_Q": [
           "\uc544\uc774\uce58\ucf04"
         ], 
@@ -842,7 +835,7 @@
         "alias_CHI_Q": [
           "\u611b\u77e5\u53bf"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1840, 
         "alias_JPN_V": [
           "\u611b\u77e5"
         ], 
@@ -861,9 +854,9 @@
         "ne:FIRST_HASC": "JP.YT", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1840, 
+        "ne:VertexCou": 199.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "AI", 
         "ne:Region_Cod": "JPN-CHB", 
         "ne:VARNAME_1": "Aiti", 
@@ -882,17 +875,23 @@
           "Pr\u00e4fektur Aichi"
         ], 
         "woe:id": "2345851", 
-        "name": "\u611b\u77e5\u770c", 
-        "ne:VertexCou": 199.0, 
-        "ne:NL_NAME_1": "???", 
-        "ne:FIRST_FIPS": "JA44", 
         "ne:HASC_1": "JP.AI", 
+        "lang": "JPN", 
+        "adjacent_woeid": [
+          2345859, 
+          2345872, 
+          2345875, 
+          2345886
+        ], 
+        "ne:FIRST_FIPS": "JA44", 
+        "name": "\u611b\u77e5\u770c", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424856, 
         "ne_longitude": 137.8055733585237, 
         "longitude": 137.255, 
         "iso": "JP", 
         "sw_latitude": 34.56863963501121, 
+        "ne:NL_NAME_1": "???", 
         "fullname": "\u611b\u77e5\u770c, Aichi Prefecture, Japan", 
         "ne:Region": "Chubu", 
         "ne:NEV_Countr": "Japan", 

@@ -1316,26 +1316,17 @@
           "County Sligo"
         ], 
         "ne:ScaleRank": 8, 
-        "ne:woe:id": "2345269", 
-        "adjacent_woeid": [
-          2345259, 
-          2345264, 
-          2345268
-        ], 
         "ne_latitude": 54.47507314730797, 
         "ne:Shape_Area": 0.252240297104, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
-        "alias_UNK_V": [
-          "Contae Shligigh"
-        ], 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "SLI"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 728, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -9.134811570797297, 
@@ -1346,9 +1337,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 53.91164500581243, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 728, 
+        "ne:VertexCou": 324.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "SO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Sligeach", 
@@ -1364,19 +1355,27 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 1834.1, 
         "woe:id": "2345269", 
-        "name": "Sligo", 
-        "ne:VertexCou": 324.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IE.SO", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345259, 
+          2345264, 
+          2345268
+        ], 
+        "name": "Sligo", 
         "ne:REMARKS_1": null, 
         "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Sligeach"
         ], 
-        "ne_longitude": -8.156990118898818, 
+        "alias_UNK_V": [
+          "Contae Shligigh"
+        ], 
         "longitude": -8.654, 
+        "ne_longitude": -8.156990118898818, 
         "iso": "IE", 
         "date_indexed": "2010-12-02T12:07:35Z", 
+        "ne:NL_NAME_1": null, 
         "fullname": "Sligo, Ireland", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Ireland", 

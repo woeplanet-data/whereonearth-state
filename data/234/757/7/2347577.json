@@ -6760,17 +6760,11 @@
         "alias_KOR_Q": [
           "\ub8e8\uc774\uc9c0\uc560\ub098"
         ], 
-        "ne:woe:id": "2347577", 
-        "adjacent_woeid": [
-          2347562, 
-          2347583, 
-          2347602
-        ], 
         "ne_latitude": 33.01433514285259, 
         "ne:Shape_Area": 11.2890550844, 
         "placetype": "State", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18121207", 
+        "ne:MAP_COLOR": 1, 
         "alias_POR_Q": [
           "Luisiana"
         ], 
@@ -6783,15 +6777,16 @@
         "alias_CHI_Q": [
           "\u8def\u6613\u65af\u5b89\u90a3"
         ], 
-        "alias_SPA_Q": [
-          "Luisiana"
-        ], 
-        "ne:DataRank": 1, 
+        "ne:VALIDTO_1": "Present", 
+        "ne:OBJECTID": 3535, 
         "alias_JPN_Q": [
           "\u30eb\u30a4\u30b8\u30a2\u30ca"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": "La.", 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Luisiana"
+        ], 
         "sw_longitude": -94.04323124442635, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 30.974, 
@@ -6800,9 +6795,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3535, 
+        "ne:VertexCou": 1642.0, 
+        "ne:VALIDFR_1": "18121207", 
+        "ne:DataRank": 1, 
         "ne:Postal": "LA", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "LA", 
@@ -6820,10 +6815,14 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 119413.7, 
         "woe:id": "2347577", 
-        "name": "Louisiana", 
-        "ne:VertexCou": 1642.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "US.LA", 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347562, 
+          2347583, 
+          2347602
+        ], 
+        "name": "Louisiana", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "parent_woeid": 23424977, 
@@ -6831,14 +6830,14 @@
         "longitude": -91.524, 
         "iso": "US", 
         "sw_latitude": 28.92844647082802, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Louisiana, United States", 
-        "alias_FRE_Q": [
-          "Louisiane"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Louisiane"
+        ]
       }, 
       "id": 2347577
     }
