@@ -7,56 +7,97 @@
         "coordinates": [
           [
             [
-              176.043, 
-              -40.431
+              176.94561323466314, 
+              -39.67866301848346
             ], 
             [
-              176.043, 
-              -38.584
+              176.95057417206044, 
+              -39.68135019275712
             ], 
             [
-              178.002, 
-              -38.584
+              176.9437528835888, 
+              -39.68135019275712
             ], 
             [
-              178.002, 
-              -40.431
-            ], 
-            [
-              176.043, 
-              -40.431
+              176.94561323466314, 
+              -39.67866301848346
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "woeid": 15021760, 
-        "name": "Hawke's Bay", 
+        "ne:ProvNumber": 2000, 
+        "alias_ENG_V": [
+          "Hawkes Bay"
+        ], 
+        "ne:ScaleRank": 6, 
+        "ne:woe:id": "15021760", 
         "adjacent_woeid": [
           15021753, 
           15021761, 
           15021764, 
           15021765
         ], 
-        "ne_latitude": -38.584, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "Hawkes Bay"
-        ], 
-        "ne_longitude": 178.002, 
-        "longitude": 177.022, 
+        "ne_latitude": -39.67866301848346, 
+        "ne:Shape_Area": 9.164995447e-06, 
         "placetype": "State", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "NZL", 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
+        "sw_longitude": 176.9437528835888, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -39.508, 
+        "ne:FIPS_1": "NZF2", 
+        "ne:FIRST_FIPS": "NZ31", 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "Regional Council", 
+        "sw_latitude": -39.68135019275712, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 3397, 
+        "ne:Postal": "HB", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": "Hawkes Bay", 
+        "ne:ISO": "NZL", 
+        "ne:TYPE_1": "Regional Council", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.0157315607964, 
+        "ne:CheckMe": 10, 
+        "ne:NAME_0": "New Zealand", 
+        "ne:NAME_1": "Hawke's Bay", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 6, 
+        "ne:Area_sqkm": 0.0, 
+        "woe:id": "15021760", 
+        "name": "Hawke's Bay", 
+        "ne:VertexCou": 3.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "NZ.HB", 
+        "ne:REMARKS_1": null, 
+        "parent_woeid": 23424916, 
+        "ne_longitude": 176.95057417206044, 
+        "longitude": 177.022, 
         "iso": "NZ", 
         "date_indexed": "2010-12-02T17:02:10Z", 
-        "parent_woeid": 23424916, 
-        "latitude": -39.508, 
-        "sw_longitude": 176.043, 
         "fullname": "Hawke's Bay, New Zealand", 
-        "sw_latitude": -40.431
+        "ne:Region": null, 
+        "ne:NEV_Countr": "New Zealand", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": -99
       }, 
       "id": 15021760
     }
+  ], 
+  "bbox": [
+    176.9437528835888, 
+    -39.68135019275712, 
+    176.95057417206044, 
+    -39.67866301848346
   ]
 }

@@ -7,59 +7,112 @@
         "coordinates": [
           [
             [
-              28.991, 
-              47.075
+              29.16326419468686, 
+              47.23081248670695
             ], 
             [
-              28.991, 
-              47.415
+              29.150965203981002, 
+              47.24481679975554
             ], 
             [
-              29.363, 
-              47.415
+              29.125178664164082, 
+              47.27424652735539
             ], 
             [
-              29.363, 
-              47.075
+              29.133550246246898, 
+              47.27907827444284
             ], 
             [
-              28.991, 
-              47.075
+              29.17447798067434, 
+              47.290292059531
+            ], 
+            [
+              29.189567498441363, 
+              47.262490139008776
+            ], 
+            [
+              29.16326419468686, 
+              47.23081248670695
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "UNK", 
-        "woeid": 20069876, 
-        "name": "Dubasari", 
-        "alias_ENG_P": [
-          "Transnistria"
-        ], 
-        "ne_latitude": 47.415, 
-        "provider": "geoplanet 7.6.0", 
+        "ne:ProvNumber": 29, 
         "alias_ENG_V": [
           "Stinga Nistrului"
         ], 
-        "ne_longitude": 29.363, 
-        "longitude": 29.151, 
+        "ne:ScaleRank": 9, 
+        "ne:woe:id": "20069876", 
+        "alias_ENG_P": [
+          "Transnistria"
+        ], 
+        "ne_latitude": 47.290292059531, 
+        "ne:Shape_Area": 0.00203318124492, 
         "placetype": "State", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "MDA", 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Unknown", 
+        "sw_longitude": 29.125178664164082, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.317, 
+        "ne:FIPS_1": "MD72", 
+        "ne:FIRST_FIPS": "MD58", 
+        "ne:FIRST_HASC": "MD.DU", 
+        "ne:ENGTYPE_1": "District", 
+        "sw_latitude": 47.23081248670695, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 1638, 
+        "ne:Postal": "DB", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": null, 
+        "ne:ISO": "MDA", 
+        "ne:TYPE_1": "Raion", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.182676404614, 
+        "ne:CheckMe": 10, 
+        "ne:NAME_0": "Moldova", 
+        "ne:NAME_1": "Transnistria", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 9, 
+        "ne:Area_sqkm": 17.1, 
+        "woe:id": "20069876", 
+        "name": "Dubasari", 
+        "ne:VertexCou": 6.0, 
         "adjacent_woeid": [
           20069875, 
           20069878, 
           55948185, 
           55948201
         ], 
+        "ne:HASC_1": "MD.DB", 
+        "ne:REMARKS_1": null, 
+        "parent_woeid": 23424885, 
+        "ne_longitude": 29.189567498441363, 
+        "longitude": 29.151, 
         "iso": "MD", 
         "date_indexed": "2010-12-02T17:57:50Z", 
-        "parent_woeid": 23424885, 
-        "latitude": 47.317, 
-        "sw_longitude": 28.991, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Dubasari, Transnistria, Moldova", 
-        "sw_latitude": 47.075
+        "ne:Region": "Dubasari", 
+        "ne:NEV_Countr": "Moldova", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": -99
       }, 
       "id": 20069876
     }
+  ], 
+  "bbox": [
+    29.125178664164082, 
+    47.23081248670695, 
+    29.189567498441363, 
+    47.290292059531
   ]
 }

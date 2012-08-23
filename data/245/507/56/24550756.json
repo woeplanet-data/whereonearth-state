@@ -7,44 +7,76 @@
         "coordinates": [
           [
             [
-              21.425, 
-              41.960
+              21.445854119472074, 
+              41.99707510053554
             ], 
             [
-              21.425, 
-              42.030
+              21.445854119472074, 
+              41.99237254465726
             ], 
             [
-              21.501, 
-              42.030
+              21.444303826760233, 
+              41.98276072822506
             ], 
             [
-              21.501, 
-              41.960
+              21.4421334164241, 
+              41.98374258105531
             ], 
             [
-              21.425, 
-              41.960
+              21.438309360588562, 
+              41.98278656664678
+            ], 
+            [
+              21.435312127053066, 
+              41.987334092894116
+            ], 
+            [
+              21.429937778505746, 
+              41.987334092894116
+            ], 
+            [
+              21.42725060423203, 
+              41.986739813691486
+            ], 
+            [
+              21.42694054497025, 
+              41.99115814872965
+            ], 
+            [
+              21.42766401538205, 
+              41.99500804298685
+            ], 
+            [
+              21.427974073744565, 
+              42.002888698654544
+            ], 
+            [
+              21.428180779319575, 
+              42.00570506413743
+            ], 
+            [
+              21.43055789523072, 
+              42.00461985941905
+            ], 
+            [
+              21.440996534862222, 
+              42.000020657227594
+            ], 
+            [
+              21.445854119472074, 
+              41.99707510053554
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "UNK", 
-        "woeid": 24550756, 
-        "alias_UNK_V": [
-          "Opstina Centar"
-        ], 
-        "name": "Centar", 
+        "ne:ProvNumber": 2007, 
+        "ne:ScaleRank": 10, 
+        "ne:woe:id": "24550756", 
         "alias_ENG_P": [
           "Centar Municipality"
         ], 
-        "ne_latitude": 42.030, 
-        "ne_longitude": 21.501, 
-        "longitude": 21.449, 
-        "parent_woeid": 482940, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550752, 
           24550766, 
@@ -53,15 +85,68 @@
           24550809, 
           24550866
         ], 
-        "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "ne_latitude": 42.00570506413743, 
+        "ne:Shape_Area": 0.000295728711998, 
+        "placetype": "State", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": "Unknown", 
+        "alias_UNK_V": [
+          "Opstina Centar"
+        ], 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "MKD", 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
+        "sw_longitude": 21.42694054497025, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.002, 
-        "sw_longitude": 21.425, 
+        "ne:FIPS_1": "MK17", 
+        "ne:FIRST_FIPS": null, 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "Statistical Region", 
+        "sw_latitude": 41.98276072822506, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 2923, 
+        "ne:Postal": "CE", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": null, 
+        "ne:ISO": "MKD", 
+        "ne:TYPE_1": "Statistical Region", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.0730934619129, 
+        "ne:CheckMe": 11, 
+        "ne:NAME_0": "Macedonia", 
+        "ne:NAME_1": "Centar", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 10, 
+        "ne:Area_sqkm": 2.7, 
+        "woe:id": "24550756", 
+        "name": "Centar", 
+        "ne:VertexCou": 14.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "MK.CE", 
+        "ne:REMARKS_1": null, 
+        "parent_woeid": 482940, 
+        "ne_longitude": 21.445854119472074, 
+        "longitude": 21.449, 
+        "iso": "MK", 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "fullname": "Centar, Skopje, Centar Municipality, Macedonia", 
-        "sw_latitude": 41.960
+        "ne:Region": "Skopje", 
+        "ne:NEV_Countr": "Macedonia", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": -99
       }, 
       "id": 24550756
     }
+  ], 
+  "bbox": [
+    21.42694054497025, 
+    41.98276072822506, 
+    21.445854119472074, 
+    42.00570506413743
   ]
 }

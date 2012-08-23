@@ -3,81 +3,208 @@
   "features": [
     {
       "geometry": {
-        "type": "Polygon", 
+        "type": "MultiPolygon", 
         "coordinates": [
           [
             [
-              70.871, 
-              20.359
-            ], 
+              [
+                72.86603801764045, 
+                20.38082666152127
+              ], 
+              [
+                72.83897314549432, 
+                20.376315849197113
+              ], 
+              [
+                72.81815945999114, 
+                20.378764517868262
+              ], 
+              [
+                72.82080610541749, 
+                20.386042792341016
+              ], 
+              [
+                72.82328657411614, 
+                20.41679026955535
+              ], 
+              [
+                72.82948774586282, 
+                20.437925930337485
+              ], 
+              [
+                72.84002973828183, 
+                20.458699855913665
+              ], 
+              [
+                72.84704396460734, 
+                20.468298270648745
+              ], 
+              [
+                72.86378261147837, 
+                20.46202127885897
+              ], 
+              [
+                72.87957045371354, 
+                20.43946721813768
+              ], 
+              [
+                72.88408126603764, 
+                20.41916856357841
+              ], 
+              [
+                72.88182585987556, 
+                20.392103691432283
+              ], 
+              [
+                72.86603801764045, 
+                20.38082666152127
+              ]
+            ]
+          ], 
+          [
             [
-              70.871, 
-              20.756
-            ], 
-            [
-              72.884, 
-              20.756
-            ], 
-            [
-              72.884, 
-              20.359
-            ], 
-            [
-              70.871, 
-              20.359
+              [
+                70.98236534988104, 
+                20.710054023074747
+              ], 
+              [
+                70.97303716073645, 
+                20.70951468435527
+              ], 
+              [
+                70.97156229776186, 
+                20.715709107589305
+              ], 
+              [
+                70.97156229776186, 
+                20.724657378135532
+              ], 
+              [
+                70.976036433035, 
+                20.732859959619475
+              ], 
+              [
+                70.98200194643272, 
+                20.738079783954902
+              ], 
+              [
+                70.990950216979, 
+                20.739571162079528
+              ], 
+              [
+                70.99915279756362, 
+                20.738825473017243
+              ], 
+              [
+                71.00594019148673, 
+                20.736563008076416
+              ], 
+              [
+                71.0008655132329, 
+                20.722146308205595
+              ], 
+              [
+                70.98236534988104, 
+                20.710054023074747
+              ]
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "ne:ProvNumber": 2006, 
         "alias_ENG_V": [
           "Daman & Diu"
         ], 
         "alias_SWE_Q": [
           "Daman och Diu"
         ], 
-        "ne_latitude": 20.756, 
+        "ne:woe:id": "20070460", 
+        "adjacent_woeid": [
+          2345743
+        ], 
+        "ne_latitude": 20.739571162079528, 
+        "ne:Shape_Area": 0.00506216121508, 
         "placetype": "State", 
-        "alias_ENG_A": [
-          "DD"
-        ], 
-        "alias_CHI_Q": [
-          "\u8fbe\u66fc-\u7b2c\u4e4c"
-        ], 
-        "woeid": 20070460, 
-        "alias_JPN_Q": [
-          "\u30c0\u30de\u30f3\u30fb\u30c7\u30a3\u30fc\u30a6\u9023\u90a6\u76f4\u8f44\u5730\u57df"
-        ], 
-        "alias_FIN_Q": [
-          "Daman ja Diu"
-        ], 
-        "sw_longitude": 70.871, 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 20.728, 
-        "alias_NOR_Q": [
-          "Daman og Diu"
-        ], 
-        "date_indexed": "2010-12-02T08:59:14Z", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": null, 
         "alias_KOR_Q": [
           "\ub2e4\ub9cc\ub514\uc6b0"
+        ], 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "IND", 
+        "ne:ScaleRank": 2, 
+        "alias_CHI_Q": [
+          "\u8fbe\u66fc-\u7b2c\u4e4c"
         ], 
         "alias_DAN_Q": [
           "Daman og Diu"
         ], 
-        "lang": "ENG", 
-        "adjacent_woeid": [
-          2345743
+        "ne:DataRank": 1, 
+        "alias_JPN_Q": [
+          "\u30c0\u30de\u30f3\u30fb\u30c7\u30a3\u30fc\u30a6\u9023\u90a6\u76f4\u8f44\u5730\u57df"
         ], 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": null, 
+        "alias_FIN_Q": [
+          "Daman ja Diu"
+        ], 
+        "sw_longitude": 70.97156229776186, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.728, 
+        "ne:FIPS_1": "IN32", 
+        "alias_NOR_Q": [
+          "Daman og Diu"
+        ], 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": null, 
+        "date_indexed": "2010-12-02T08:59:14Z", 
+        "lang": "ENG", 
+        "alias_ENG_A": [
+          "DD"
+        ], 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3504, 
+        "ne:Postal": null, 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": null, 
+        "ne:ISO": "IND", 
+        "ne:TYPE_1": null, 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.360737527974, 
+        "ne:CheckMe": 10, 
+        "ne:NAME_0": "India", 
+        "ne:NAME_1": "Daman and Diu", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 2, 
+        "ne:Area_sqkm": 58.4, 
+        "woe:id": "20070460", 
         "name": "Daman and Diu", 
+        "ne:VertexCou": 1842.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:FIRST_FIPS": null, 
+        "ne:HASC_1": null, 
+        "ne:REMARKS_1": null, 
         "parent_woeid": 23424848, 
-        "ne_longitude": 72.884, 
+        "ne_longitude": 72.88408126603764, 
         "longitude": 70.947, 
         "iso": "IN", 
-        "sw_latitude": 20.359, 
-        "fullname": "Daman and Diu, India"
+        "sw_latitude": 20.376315849197113, 
+        "fullname": "Daman and Diu, India", 
+        "ne:Region": null, 
+        "ne:NEV_Countr": "India", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": -99
       }, 
       "id": 20070460
     }
+  ], 
+  "bbox": [
+    70.97156229776186, 
+    20.376315849197113, 
+    72.88408126603764, 
+    20.739571162079528
   ]
 }

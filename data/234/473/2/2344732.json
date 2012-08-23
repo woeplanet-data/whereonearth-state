@@ -7,33 +7,64 @@
         "coordinates": [
           [
             [
-              -59.575, 
-              13.092
+              -59.50871354809175, 
+              13.145761216307164
             ], 
             [
-              -59.575, 
-              13.171
+              -59.51310604470814, 
+              13.129431464190759
             ], 
             [
-              -59.498, 
-              13.171
+              -59.57046688493875, 
+              13.108192450621175
             ], 
             [
-              -59.498, 
-              13.092
+              -59.58710669631694, 
+              13.161315822966912
             ], 
             [
-              -59.575, 
-              13.092
+              -59.56351640525787, 
+              13.170410874562265
+            ], 
+            [
+              -59.56150102365331, 
+              13.171599432967525
+            ], 
+            [
+              -59.554292161553974, 
+              13.180074367837847
+            ], 
+            [
+              -59.54088212770796, 
+              13.182451483749048
+            ], 
+            [
+              -59.540210334139545, 
+              13.182503159693113
+            ], 
+            [
+              -59.519229702089035, 
+              13.163589586090552
+            ], 
+            [
+              -59.51724015980551, 
+              13.161419175754418
+            ], 
+            [
+              -59.50871354809175, 
+              13.145761216307164
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "woeid": 2344732, 
-        "name": "Saint George", 
+        "ne:ProvNumber": 8, 
+        "alias_ENG_V": [
+          "St. George"
+        ], 
+        "ne:ScaleRank": 10, 
+        "ne:woe:id": "2344732", 
         "adjacent_woeid": [
           2344730, 
           2344734, 
@@ -42,23 +73,65 @@
           2344739, 
           2344740
         ], 
-        "ne_latitude": 13.171, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "St. George"
-        ], 
-        "ne_longitude": -59.498, 
-        "longitude": -59.536, 
+        "ne_latitude": 13.182503159693113, 
+        "ne:Shape_Area": 0.00368002533769, 
         "placetype": "State", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "BRB", 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
+        "sw_longitude": -59.58710669631694, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.131, 
+        "ne:FIPS_1": "BB03", 
+        "ne:FIRST_FIPS": null, 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "Parish", 
+        "sw_latitude": 13.108192450621175, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1991, 
+        "ne:Postal": "GE", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": null, 
+        "ne:ISO": "BRB", 
+        "ne:TYPE_1": "Parish", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.235807627831, 
+        "ne:CheckMe": 0, 
+        "ne:NAME_0": "Barbados", 
+        "ne:NAME_1": "Saint George", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 10, 
+        "ne:Area_sqkm": 44.1, 
+        "woe:id": "2344732", 
+        "name": "Saint George", 
+        "ne:VertexCou": 11.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "BB.GE", 
+        "ne:REMARKS_1": null, 
+        "parent_woeid": 23424754, 
+        "ne_longitude": -59.50871354809175, 
+        "longitude": -59.536, 
         "iso": "BB", 
         "date_indexed": "2010-12-02T09:35:19Z", 
-        "parent_woeid": 23424754, 
-        "latitude": 13.131, 
-        "sw_longitude": -59.575, 
         "fullname": "Saint George, Barbados", 
-        "sw_latitude": 13.092
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Barbados", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": -99
       }, 
       "id": 2344732
     }
+  ], 
+  "bbox": [
+    -59.58710669631694, 
+    13.108192450621175, 
+    -59.50871354809175, 
+    13.182503159693113
   ]
 }

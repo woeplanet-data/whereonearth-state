@@ -7,44 +7,116 @@
         "coordinates": [
           [
             [
-              21.528, 
-              41.911
+              21.444303826760233, 
+              41.98276072822506
             ], 
             [
-              21.528, 
-              41.996
+              21.45081505686943, 
+              41.980021878007335
             ], 
             [
-              21.602, 
-              41.996
+              21.455672641479282, 
+              41.97754140840931
             ], 
             [
-              21.602, 
-              41.911
+              21.46559451627394, 
+              41.976301174059984
             ], 
             [
-              21.528, 
-              41.911
+              21.48047732936533, 
+              41.97012584073502
+            ], 
+            [
+              21.501457960516518, 
+              41.95774933566338
+            ], 
+            [
+              21.528743117101214, 
+              41.94787913681279
+            ], 
+            [
+              21.54600304520443, 
+              41.937957262018074
+            ], 
+            [
+              21.55427127449974, 
+              41.92788035759247
+            ], 
+            [
+              21.547449985128765, 
+              41.92475393284775
+            ], 
+            [
+              21.540628696657052, 
+              41.920206407499734
+            ], 
+            [
+              21.536081170409716, 
+              41.918681952310294
+            ], 
+            [
+              21.52750288275189, 
+              41.92808706316748
+            ], 
+            [
+              21.512620069660557, 
+              41.93671702766875
+            ], 
+            [
+              21.498977491817868, 
+              41.9391974963674
+            ], 
+            [
+              21.47799686066662, 
+              41.94539866811408
+            ], 
+            [
+              21.46683475062332, 
+              41.95157400143904
+            ], 
+            [
+              21.455672641479282, 
+              41.96271027306068
+            ], 
+            [
+              21.443373650773424, 
+              41.96395050741006
+            ], 
+            [
+              21.434485304753082, 
+              41.97180532465609
+            ], 
+            [
+              21.432211541629385, 
+              41.973820705361334
+            ], 
+            [
+              21.437172479026742, 
+              41.982502346705985
+            ], 
+            [
+              21.438309360588562, 
+              41.98278656664678
+            ], 
+            [
+              21.4421334164241, 
+              41.98374258105531
+            ], 
+            [
+              21.444303826760233, 
+              41.98276072822506
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "UNK", 
-        "woeid": 55848400, 
-        "alias_UNK_V": [
-          "Opstina Aerodrom"
-        ], 
-        "name": "Aerodrom", 
+        "ne:ProvNumber": 2006, 
+        "ne:ScaleRank": 10, 
+        "ne:woe:id": "55848400", 
         "alias_ENG_P": [
           "Aerodrom Municipality"
         ], 
-        "ne_latitude": 41.996, 
-        "ne_longitude": 21.602, 
-        "longitude": 21.565, 
-        "parent_woeid": 482940, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550766, 
           24550769, 
@@ -52,15 +124,68 @@
           24550820, 
           24550866
         ], 
-        "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "ne_latitude": 41.98374258105531, 
+        "ne:Shape_Area": 0.00230551345817, 
+        "placetype": "State", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": "Unknown", 
+        "alias_UNK_V": [
+          "Opstina Aerodrom"
+        ], 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "MKD", 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
+        "sw_longitude": 21.432211541629385, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.954, 
-        "sw_longitude": 21.528, 
+        "ne:FIPS_1": "MK44", 
+        "ne:FIRST_FIPS": null, 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "Statistical Region", 
+        "sw_latitude": 41.918681952310294, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 2937, 
+        "ne:Postal": "AD", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": null, 
+        "ne:ISO": "MKD", 
+        "ne:TYPE_1": "Statistical Region", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.28440410912, 
+        "ne:CheckMe": 11, 
+        "ne:NAME_0": "Macedonia", 
+        "ne:NAME_1": "Aerodrom", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 10, 
+        "ne:Area_sqkm": 21.2, 
+        "woe:id": "55848400", 
+        "name": "Aerodrom", 
+        "ne:VertexCou": 24.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "MK.AD", 
+        "ne:REMARKS_1": null, 
+        "parent_woeid": 482940, 
+        "ne_longitude": 21.55427127449974, 
+        "longitude": 21.565, 
+        "iso": "MK", 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "fullname": "Aerodrom, Skopje, Aerodrom Municipality, Macedonia", 
-        "sw_latitude": 41.911
+        "ne:Region": "Skopje", 
+        "ne:NEV_Countr": "Macedonia", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": -99
       }, 
       "id": 55848400
     }
+  ], 
+  "bbox": [
+    21.432211541629385, 
+    41.918681952310294, 
+    21.55427127449974, 
+    41.98374258105531
   ]
 }

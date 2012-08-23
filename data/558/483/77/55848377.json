@@ -7,33 +7,123 @@
         "coordinates": [
           [
             [
-              15.665, 
-              46.254
+              15.924123976440399, 
+              46.534369208772034
             ], 
             [
-              15.665, 
-              46.553
+              15.93032514818708, 
+              46.5298216825247
             ], 
             [
-              16.078, 
-              46.553
+              15.932340528892325, 
+              46.52734121382599
             ], 
             [
-              16.078, 
-              46.254
+              15.933735792872596, 
+              46.52269033479115
             ], 
             [
-              15.665, 
-              46.254
+              15.934200880866001, 
+              46.518917954899734
+            ], 
+            [
+              15.92861982584435, 
+              46.504086818651786
+            ], 
+            [
+              15.88795047383536, 
+              46.499849351666285
+            ], 
+            [
+              15.86733157699075, 
+              46.500056057241295
+            ], 
+            [
+              15.854464145503982, 
+              46.50630890583142
+            ], 
+            [
+              15.856944614202632, 
+              46.51579153105439
+            ], 
+            [
+              15.860045200525633, 
+              46.519899807729985
+            ], 
+            [
+              15.861905551599989, 
+              46.52563589148326
+            ], 
+            [
+              15.86500613792299, 
+              46.52948578574046
+            ], 
+            [
+              15.867641636252586, 
+              46.53372325272596
+            ], 
+            [
+              15.872912632012401, 
+              46.53793488218912
+            ], 
+            [
+              15.884229770787329, 
+              46.54222402601806
+            ], 
+            [
+              15.892136264876797, 
+              46.54640981705944
+            ], 
+            [
+              15.924123976440399, 
+              46.534369208772034
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "ne:ProvNumber": 129, 
+        "ne:ScaleRank": 10, 
+        "ne:woe:id": "55848377", 
+        "ne_latitude": 46.54640981705944, 
+        "ne:Shape_Area": 0.0026956453981, 
+        "placetype": "State", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:gadm_level": 2.0, 
+        "ne:ADM0_A3": "SVN", 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
+        "sw_longitude": 15.854464145503982, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.404, 
+        "ne:FIPS_1": "SI00", 
+        "ne:FIRST_FIPS": "SIM7", 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "Commune|Municipality", 
+        "sw_latitude": 46.499849351666285, 
         "lang": "UNK", 
-        "woeid": 55848377, 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 230, 
+        "ne:Postal": "TV", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": null, 
+        "ne:ISO": "SVN", 
+        "ne:TYPE_1": "Opcine", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.20409151956, 
+        "ne:CheckMe": 10, 
+        "ne:NAME_0": "Slovenia", 
+        "ne:NAME_1": "Trnovska Vas", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 10, 
+        "ne:Area_sqkm": 22.9, 
+        "woe:id": "55848377", 
         "name": "Ptuj", 
+        "ne:VertexCou": 17.0, 
         "adjacent_woeid": [
           12577977, 
           12577986, 
@@ -45,20 +135,27 @@
           55848388, 
           55848390
         ], 
-        "ne_latitude": 46.553, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 16.078, 
+        "ne:HASC_1": "SI.PD.TV", 
+        "ne:REMARKS_1": null, 
+        "parent_woeid": 23424945, 
+        "ne_longitude": 15.934200880866001, 
         "longitude": 15.872, 
-        "placetype": "State", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
-        "latitude": 46.404, 
-        "sw_longitude": 15.665, 
+        "ne:NL_NAME_1": null, 
         "fullname": "Ptuj, Slovenia", 
-        "sw_latitude": 46.254
+        "ne:Region": "Podravska", 
+        "ne:NEV_Countr": "Slovenia", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": -99
       }, 
       "id": 55848377
     }
+  ], 
+  "bbox": [
+    15.854464145503982, 
+    46.499849351666285, 
+    15.934200880866001, 
+    46.54640981705944
   ]
 }

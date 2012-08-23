@@ -7,51 +7,132 @@
         "coordinates": [
           [
             [
-              2.328, 
-              6.339
+              2.483962436317427, 
+              6.34801076888192
             ], 
             [
-              2.328, 
-              6.390
+              2.359887322741827, 
+              6.336486924531982
             ], 
             [
-              2.484, 
-              6.390
+              2.369034051180563, 
+              6.360852362846344
             ], 
             [
-              2.484, 
-              6.339
+              2.38148807151731, 
+              6.372712103980462
             ], 
             [
-              2.328, 
-              6.339
+              2.399161410770546, 
+              6.384132595542894
+            ], 
+            [
+              2.420400425239507, 
+              6.39002370892706
+            ], 
+            [
+              2.467581007357637, 
+              6.395837307046122
+            ], 
+            [
+              2.464480421933956, 
+              6.375192572679111
+            ], 
+            [
+              2.467270948995122, 
+              6.372091986356111
+            ], 
+            [
+              2.471766798399074, 
+              6.368758856935756
+            ], 
+            [
+              2.47688276542732, 
+              6.367983710579836
+            ], 
+            [
+              2.481533644462161, 
+              6.36480560989105
+            ], 
+            [
+              2.482928907543112, 
+              6.360387274852883
+            ], 
+            [
+              2.483962436317427, 
+              6.34801076888192
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FRE", 
-        "woeid": 55967673, 
-        "name": "Littoral", 
+        "ne:ProvNumber": 3, 
+        "ne:ScaleRank": 7, 
+        "ne:woe:id": "55967673", 
         "adjacent_woeid": [
           2344825, 
           2344828
         ], 
-        "ne_latitude": 6.390, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 2.484, 
-        "longitude": 2.406, 
+        "ne_latitude": 6.395837307046122, 
+        "ne:Shape_Area": 0.00471370925256, 
         "placetype": "State", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": "19990115", 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "BEN", 
+        "ne:DataRank": 6, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
+        "sw_longitude": 2.359887322741827, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 6.365, 
+        "ne:FIPS_1": "BN14", 
+        "ne:FIRST_FIPS": "BN02", 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "Department", 
+        "sw_latitude": 6.336486924531982, 
+        "lang": "FRE", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 2175, 
+        "ne:Postal": "LI", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": null, 
+        "ne:ISO": "BEN", 
+        "ne:TYPE_1": "D\u00e9partement", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.31695759421, 
+        "ne:CheckMe": 10, 
+        "ne:NAME_0": "Benin", 
+        "ne:NAME_1": "Littoral", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 7, 
+        "ne:Area_sqkm": 57.6, 
+        "woe:id": "55967673", 
+        "name": "Littoral", 
+        "ne:VertexCou": 13.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "BJ.LI", 
+        "ne:REMARKS_1": null, 
+        "parent_woeid": 23424764, 
+        "ne_longitude": 2.483962436317427, 
+        "longitude": 2.406, 
         "iso": "BJ", 
         "date_indexed": "2010-12-02T18:05:31Z", 
-        "parent_woeid": 23424764, 
-        "latitude": 6.365, 
-        "sw_longitude": 2.328, 
         "fullname": "Littoral, Benin", 
-        "sw_latitude": 6.339
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Benin", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": -99
       }, 
       "id": 55967673
     }
+  ], 
+  "bbox": [
+    2.359887322741827, 
+    6.336486924531982, 
+    2.483962436317427, 
+    6.395837307046122
   ]
 }

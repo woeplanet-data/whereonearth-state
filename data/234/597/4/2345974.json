@@ -7,71 +7,140 @@
         "coordinates": [
           [
             [
-              126.647, 
-              35.046
+              126.93398888577849, 
+              35.254592597370504
             ], 
             [
-              126.647, 
-              35.254
+              126.98556196541244, 
+              35.23877960829236
             ], 
             [
-              127.021, 
-              35.254
+              127.00581912615178, 
+              35.19304596609851
             ], 
             [
-              127.021, 
-              35.046
+              126.96644168533555, 
+              35.15007701254416
             ], 
             [
-              126.647, 
-              35.046
+              126.90474002533199, 
+              35.15813853626452
+            ], 
+            [
+              126.8502730649501, 
+              35.18488108959065
+            ], 
+            [
+              126.8228845564771, 
+              35.2340770533134
+            ], 
+            [
+              126.84448530525265, 
+              35.250768540635704
+            ], 
+            [
+              126.8803487485959, 
+              35.24299123775546
+            ], 
+            [
+              126.90660037640635, 
+              35.24787466078703
+            ], 
+            [
+              126.93398888577849, 
+              35.254592597370504
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "ne:ProvNumber": 2001, 
         "alias_ENG_V": [
           "Gwangju Metropolitan City"
         ], 
         "alias_SWE_Q": [
           "Gyeonggi"
         ], 
+        "ne:woe:id": "2345974", 
         "alias_ENG_P": [
           "Gwangju"
         ], 
-        "ne_latitude": 35.254, 
+        "adjacent_woeid": [
+          2345972
+        ], 
+        "ne_latitude": 35.254592597370504, 
+        "ne:Shape_Area": 0.0131672525553, 
         "placetype": "State", 
         "alias_KOR_V": [
           "\uad11\uc8fc\uad11\uc5ed"
         ], 
+        "ne:VALIDFR_1": "1986", 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "KOR", 
+        "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u5149\u5dde"
         ], 
-        "woeid": 2345974, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30af\u30a1\u30f3\u30b8\u30e5"
         ], 
         "alias_JPN_V": [
           "\u5149\u5dde"
         ], 
-        "sw_longitude": 126.647, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
+        "sw_longitude": 126.8228845564771, 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 35.150, 
-        "date_indexed": "2010-12-02T17:52:39Z", 
+        "latitude": 35.15, 
+        "ne:FIPS_1": "KS18", 
+        "ne:FIRST_FIPS": null, 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "Metropolitan City", 
+        "sw_latitude": 35.15007701254416, 
         "lang": "KOR", 
-        "adjacent_woeid": [
-          2345972
-        ], 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 2506, 
+        "ne:Postal": "KJ", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": "Kwangju|Kwangju-gwangyoksi", 
+        "ne:ISO": "KOR", 
+        "ne:TYPE_1": "Gwangyeoksi", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.46035290036, 
+        "ne:CheckMe": 11, 
+        "ne:NAME_0": "Korea, South", 
+        "ne:NAME_1": "Kwangju-gwangyoksi", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 6, 
+        "ne:Area_sqkm": 133.0, 
+        "woe:id": "2345974", 
         "name": "\uad11\uc8fc", 
+        "ne:VertexCou": 10.0, 
+        "ne:NL_NAME_1": "????? | ?????", 
+        "ne:HASC_1": "KR.KJ", 
+        "ne:REMARKS_1": "24 (NSO Code)", 
+        "ne:Country_Pr": null, 
         "parent_woeid": 23424868, 
-        "ne_longitude": 127.021, 
+        "ne_longitude": 127.00581912615178, 
         "longitude": 126.834, 
         "iso": "KR", 
-        "sw_latitude": 35.046, 
-        "fullname": "\uad11\uc8fc, Gwangju, South Korea"
+        "date_indexed": "2010-12-02T17:52:39Z", 
+        "fullname": "\uad11\uc8fc, Gwangju, South Korea", 
+        "ne:Region": "Gwangju", 
+        "ne:NEV_Countr": "South Korea", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": -99
       }, 
       "id": 2345974
     }
+  ], 
+  "bbox": [
+    126.8228845564771, 
+    35.15007701254416, 
+    127.00581912615178, 
+    35.254592597370504
   ]
 }

@@ -7,33 +7,111 @@
         "coordinates": [
           [
             [
-              28.630, 
-              46.858
+              28.842508579007756, 
+              47.09529104224788
             ], 
             [
-              28.630, 
-              47.156
+              28.867468295625372, 
+              47.07232086881311
             ], 
             [
-              29.123, 
-              47.156
+              28.90390018064886, 
+              47.07053803120522
             ], 
             [
-              29.123, 
-              46.858
+              28.949272088536134, 
+              47.02689728408245
             ], 
             [
-              28.630, 
-              46.858
+              28.959865756899205, 
+              47.040436510036955
+            ], 
+            [
+              28.967358839838653, 
+              47.05945343642702
+            ], 
+            [
+              28.982086622399777, 
+              47.04322703709812
+            ], 
+            [
+              28.97443851072876, 
+              47.01036082639109
+            ], 
+            [
+              28.93376915871977, 
+              46.99658905733918
+            ], 
+            [
+              28.908137648533682, 
+              46.9611131858249
+            ], 
+            [
+              28.810520867444154, 
+              46.98385081616232
+            ], 
+            [
+              28.79326093934094, 
+              46.98374746337481
+            ], 
+            [
+              28.777602979893686, 
+              46.98811412246886
+            ], 
+            [
+              28.78034183101073, 
+              46.999017849194445
+            ], 
+            [
+              28.789901971498864, 
+              47.00912059204177
+            ], 
+            [
+              28.787524855587662, 
+              47.03552724858372
+            ], 
+            [
+              28.771815220196288, 
+              47.05320058873622
+            ], 
+            [
+              28.735538364803745, 
+              47.063432521893446
+            ], 
+            [
+              28.6626229188127, 
+              47.11007050255171
+            ], 
+            [
+              28.66184777155746, 
+              47.13924184863248
+            ], 
+            [
+              28.709390089780868, 
+              47.12009573013387
+            ], 
+            [
+              28.75274661606352, 
+              47.08673859301172
+            ], 
+            [
+              28.798531935100755, 
+              47.080692450895924
+            ], 
+            [
+              28.842508579007756, 
+              47.09529104224788
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "UNK", 
-        "woeid": 20069878, 
-        "name": "Chisinau", 
+        "ne:ProvNumber": 28, 
+        "alias_SWE_Q": [
+          "Kisjinjov"
+        ], 
+        "ne:woe:id": "20069878", 
         "adjacent_woeid": [
           20069876, 
           55948185, 
@@ -41,32 +119,75 @@
           55948202, 
           55948205
         ], 
-        "ne_latitude": 47.156, 
-        "alias_JPN_Q": [
-          "\u30ad\u30b7\u30ca\u30a6"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 29.123, 
-        "longitude": 28.877, 
-        "alias_CHI_Q": [
-          "\u57fa\u5e0c\u8bb7\u4e4c"
-        ], 
+        "ne_latitude": 47.13924184863248, 
+        "ne:Shape_Area": 0.0208581583766, 
         "placetype": "State", 
-        "iso": "MD", 
-        "date_indexed": "2010-12-02T17:57:50Z", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud0a4\uc2dc\ub098\uc6b0"
         ], 
-        "parent_woeid": 23424885, 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "MDA", 
+        "ne:ScaleRank": 9, 
+        "alias_CHI_Q": [
+          "\u57fa\u5e0c\u8bb7\u4e4c"
+        ], 
+        "ne:DataRank": 8, 
+        "alias_JPN_Q": [
+          "\u30ad\u30b7\u30ca\u30a6"
+        ], 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Unknown", 
+        "sw_longitude": 28.66184777155746, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 47.007, 
-        "sw_longitude": 28.630, 
+        "ne:FIPS_1": "MD57", 
+        "ne:FIRST_FIPS": null, 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "City", 
+        "sw_latitude": 46.9611131858249, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 1627, 
+        "ne:Postal": "CV", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": null, 
+        "ne:ISO": "MDA", 
+        "ne:TYPE_1": "Municipiu", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.87430405373, 
+        "ne:CheckMe": 0, 
+        "ne:NAME_0": "Moldova", 
+        "ne:NAME_1": "Chisinau", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 9, 
+        "ne:Area_sqkm": 176.2, 
+        "woe:id": "20069878", 
+        "name": "Chisinau", 
+        "ne:VertexCou": 23.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "MD.CV", 
+        "ne:REMARKS_1": null, 
+        "parent_woeid": 23424885, 
+        "ne_longitude": 28.982086622399777, 
+        "longitude": 28.877, 
+        "iso": "MD", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
         "fullname": "Chisinau, Moldova", 
-        "sw_latitude": 46.858, 
-        "alias_SWE_Q": [
-          "Kisjinjov"
-        ]
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Moldova", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": 9
       }, 
       "id": 20069878
     }
+  ], 
+  "bbox": [
+    28.66184777155746, 
+    46.9611131858249, 
+    28.982086622399777, 
+    47.13924184863248
   ]
 }

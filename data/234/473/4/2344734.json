@@ -7,55 +7,164 @@
         "coordinates": [
           [
             [
-              -59.544, 
-              13.126
+              -59.4676824608768, 
+              13.186533922002923
             ], 
             [
-              -59.544, 
-              13.196
+              -59.4692069160663, 
+              13.184156806091778
             ], 
             [
-              -59.452, 
-              13.196
+              -59.480162319635326, 
+              13.171134344974064
             ], 
             [
-              -59.452, 
-              13.126
+              -59.481454229928715, 
+              13.169894110624739
             ], 
             [
-              -59.544, 
-              13.126
+              -59.48819800493396, 
+              13.165759996426743
+            ], 
+            [
+              -59.495355191089175, 
+              13.162969468466258
+            ], 
+            [
+              -59.50871354809175, 
+              13.145761216307164
+            ], 
+            [
+              -59.51724015980551, 
+              13.161419175754418
+            ], 
+            [
+              -59.519229702089035, 
+              13.163589586090552
+            ], 
+            [
+              -59.540210334139545, 
+              13.182503159693113
+            ], 
+            [
+              -59.539280158152735, 
+              13.198161119140366
+            ], 
+            [
+              -59.539047614156004, 
+              13.199556383120637
+            ], 
+            [
+              -59.53855668774088, 
+              13.201416734194993
+            ], 
+            [
+              -59.53767818859751, 
+              13.201416734194993
+            ], 
+            [
+              -59.53726477744749, 
+              13.201468411038377
+            ], 
+            [
+              -59.53682552787575, 
+              13.201571763825882
+            ], 
+            [
+              -59.520418260494296, 
+              13.216506252861336
+            ], 
+            [
+              -59.51798946773971, 
+              13.217539780736331
+            ], 
+            [
+              -59.49176367835105, 
+              13.197902736721971
+            ], 
+            [
+              -59.476622483740584, 
+              13.18942780185165
+            ], 
+            [
+              -59.4676824608768, 
+              13.186533922002923
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "woeid": 2344734, 
-        "name": "Saint John", 
+        "ne:ProvNumber": 10, 
+        "alias_ENG_V": [
+          "St. John"
+        ], 
+        "ne:ScaleRank": 10, 
+        "ne:woe:id": "2344734", 
         "adjacent_woeid": [
           2344732, 
           2344735, 
           2344739
         ], 
-        "ne_latitude": 13.196, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "St. John"
-        ], 
-        "ne_longitude": -59.452, 
-        "longitude": -59.498, 
+        "ne_latitude": 13.217539780736331, 
+        "ne:Shape_Area": 0.00260504557197, 
         "placetype": "State", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "BRB", 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
+        "sw_longitude": -59.540210334139545, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.161, 
+        "ne:FIPS_1": "BB05", 
+        "ne:FIRST_FIPS": null, 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "Parish", 
+        "sw_latitude": 13.145761216307164, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1993, 
+        "ne:Postal": "JN", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": null, 
+        "ne:ISO": "BRB", 
+        "ne:TYPE_1": "Parish", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.213137634113, 
+        "ne:CheckMe": 0, 
+        "ne:NAME_0": "Barbados", 
+        "ne:NAME_1": "Saint John", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 10, 
+        "ne:Area_sqkm": 31.2, 
+        "woe:id": "2344734", 
+        "name": "Saint John", 
+        "ne:VertexCou": 20.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "BB.JN", 
+        "ne:REMARKS_1": null, 
+        "parent_woeid": 23424754, 
+        "ne_longitude": -59.4676824608768, 
+        "longitude": -59.498, 
         "iso": "BB", 
         "date_indexed": "2010-12-02T09:35:19Z", 
-        "parent_woeid": 23424754, 
-        "latitude": 13.161, 
-        "sw_longitude": -59.544, 
         "fullname": "Saint John, Barbados", 
-        "sw_latitude": 13.126
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Barbados", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": -99
       }, 
       "id": 2344734
     }
+  ], 
+  "bbox": [
+    -59.540210334139545, 
+    13.145761216307164, 
+    -59.4676824608768, 
+    13.217539780736331
   ]
 }

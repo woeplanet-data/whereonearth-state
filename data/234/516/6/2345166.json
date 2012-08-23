@@ -7,55 +7,108 @@
         "coordinates": [
           [
             [
-              -61.385, 
-              15.238
+              -61.35661109042945, 
+              15.253797919038789
             ], 
             [
-              -61.385, 
-              15.262
+              -61.35565507692024, 
+              15.24379852987829
             ], 
             [
-              -61.353, 
-              15.262
+              -61.372837490657616, 
+              15.23591787331128
             ], 
             [
-              -61.353, 
-              15.238
+              -61.37294084344512, 
+              15.23589203578888
             ], 
             [
-              -61.385, 
-              15.238
+              -61.37275997539251, 
+              15.237209784503989
+            ], 
+            [
+              -61.37314754902013, 
+              15.26033498756965
+            ], 
+            [
+              -61.35661109042945, 
+              15.253797919038789
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "woeid": 2345166, 
-        "name": "Saint Luke", 
+        "ne:ProvNumber": 2, 
+        "alias_ENG_V": [
+          "St. Luke"
+        ], 
+        "ne:ScaleRank": 10, 
+        "ne:woe:id": "2345166", 
         "adjacent_woeid": [
           2345163, 
           2345167, 
           2345168
         ], 
-        "ne_latitude": 15.262, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "St. Luke"
-        ], 
-        "ne_longitude": -61.353, 
-        "longitude": -61.369, 
+        "ne_latitude": 15.26033498756965, 
+        "ne:Shape_Area": 0.000289465817378, 
         "placetype": "State", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "DMA", 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
+        "sw_longitude": -61.37314754902013, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.25, 
+        "ne:FIPS_1": "DO07", 
+        "ne:FIRST_FIPS": null, 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "Parish", 
+        "sw_latitude": 15.23589203578888, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 1437, 
+        "ne:Postal": "LU", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": null, 
+        "ne:ISO": "DMA", 
+        "ne:TYPE_1": "Parish", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.0712951830715, 
+        "ne:CheckMe": 0, 
+        "ne:NAME_0": "Dominica", 
+        "ne:NAME_1": "Saint Luke", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 10, 
+        "ne:Area_sqkm": 3.4, 
+        "woe:id": "2345166", 
+        "name": "Saint Luke", 
+        "ne:VertexCou": 6.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "DM.LU", 
+        "ne:REMARKS_1": null, 
+        "parent_woeid": 23424798, 
+        "ne_longitude": -61.35565507692024, 
+        "longitude": -61.369, 
         "iso": "DM", 
         "date_indexed": "2010-12-02T16:32:46Z", 
-        "parent_woeid": 23424798, 
-        "latitude": 15.250, 
-        "sw_longitude": -61.385, 
         "fullname": "Saint Luke, Dominica", 
-        "sw_latitude": 15.238
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Dominica", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": -99
       }, 
       "id": 2345166
     }
+  ], 
+  "bbox": [
+    -61.37314754902013, 
+    15.23589203578888, 
+    -61.35565507692024, 
+    15.26033498756965
   ]
 }

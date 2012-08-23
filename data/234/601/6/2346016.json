@@ -7,53 +7,162 @@
         "coordinates": [
           [
             [
-              35.467, 
-              33.869
+              35.54809411005516, 
+              33.90622528776686
             ], 
             [
-              35.467, 
-              33.907
+              35.54793908042427, 
+              33.9016519230978
             ], 
             [
-              35.552, 
-              33.907
+              35.53631188328683, 
+              33.87198965060196
             ], 
             [
-              35.552, 
-              33.869
+              35.525304802874416, 
+              33.87116282830192
             ], 
             [
-              35.467, 
-              33.869
+              35.52266930544414, 
+              33.86868235960327
+            ], 
+            [
+              35.51894860239611, 
+              33.86408315651249
+            ], 
+            [
+              35.5153829280797, 
+              33.86222280543819
+            ], 
+            [
+              35.50205040859953, 
+              33.86180939428817
+            ], 
+            [
+              35.48298180536608, 
+              33.86516836213025
+            ], 
+            [
+              35.483240186885155, 
+              33.872454738595366
+            ], 
+            [
+              35.47993289588646, 
+              33.88431447972948
+            ], 
+            [
+              35.4737834000839, 
+              33.89390045863928
+            ], 
+            [
+              35.47052778502933, 
+              33.90211701109126
+            ], 
+            [
+              35.47579878078915, 
+              33.909997666758954
+            ], 
+            [
+              35.48665083157067, 
+              33.912969061872786
+            ], 
+            [
+              35.49977664547583, 
+              33.91123790110828
+            ], 
+            [
+              35.51124881388171, 
+              33.9070521100669
+            ], 
+            [
+              35.51739830878495, 
+              33.90255626066295
+            ], 
+            [
+              35.52421959815598, 
+              33.90255626066295
+            ], 
+            [
+              35.53377973774474, 
+              33.90707794848856
+            ], 
+            [
+              35.54809411005516, 
+              33.90622528776686
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ARA", 
-        "woeid": 2346016, 
-        "name": "Bayrut", 
-        "adjacent_woeid": [
-          2346017
-        ], 
-        "ne_latitude": 33.907, 
-        "provider": "geoplanet 7.6.0", 
+        "ne:ProvNumber": 2000, 
         "alias_ENG_V": [
           "Beirut"
         ], 
-        "ne_longitude": 35.552, 
-        "longitude": 35.514, 
+        "ne:ScaleRank": 9, 
+        "ne:woe:id": "2346016", 
+        "adjacent_woeid": [
+          2346017
+        ], 
+        "ne_latitude": 33.912969061872786, 
+        "ne:Shape_Area": 0.00274932950242, 
         "placetype": "State", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "LBN", 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
+        "sw_longitude": 35.47052778502933, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 33.888, 
+        "ne:FIPS_1": "LE04", 
+        "ne:FIRST_FIPS": null, 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "Province", 
+        "sw_latitude": 33.86180939428817, 
+        "lang": "ARA", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 3024, 
+        "ne:Postal": "BA", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": "Bayrut|Beirute|Beyrouth", 
+        "ne:ISO": "LBN", 
+        "ne:TYPE_1": "Muhafazah", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.219099943256, 
+        "ne:CheckMe": 0, 
+        "ne:NAME_0": "Lebanon", 
+        "ne:NAME_1": "Beirut", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 9, 
+        "ne:Area_sqkm": 28.2, 
+        "woe:id": "2346016", 
+        "name": "Bayrut", 
+        "ne:VertexCou": 20.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "LB.BA", 
+        "ne:REMARKS_1": null, 
+        "parent_woeid": 23424873, 
+        "ne_longitude": 35.54809411005516, 
+        "longitude": 35.514, 
         "iso": "LB", 
         "date_indexed": "2010-12-02T16:50:02Z", 
-        "parent_woeid": 23424873, 
-        "latitude": 33.888, 
-        "sw_longitude": 35.467, 
         "fullname": "Bayrut, Lebanon", 
-        "sw_latitude": 33.869
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Lebanon", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": 9
       }, 
       "id": 2346016
     }
+  ], 
+  "bbox": [
+    35.47052778502933, 
+    33.86180939428817, 
+    35.54809411005516, 
+    33.912969061872786
   ]
 }

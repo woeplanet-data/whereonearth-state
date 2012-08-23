@@ -7,54 +7,115 @@
         "coordinates": [
           [
             [
-              -61.380, 
-              15.202
+              -61.346379157272224, 
+              15.211681627105463
             ], 
             [
-              -61.380, 
-              15.242
+              -61.35071997704529, 
+              15.205118720152882
             ], 
             [
-              -61.345, 
-              15.242
+              -61.3628381005978, 
+              15.20181142825487
             ], 
             [
-              -61.345, 
-              15.202
+              -61.37400021064116, 
+              15.20486033773443
             ], 
             [
-              -61.380, 
-              15.202
+              -61.37611894413391, 
+              15.212844346189684
+            ], 
+            [
+              -61.37294084344512, 
+              15.23589203578888
+            ], 
+            [
+              -61.372837490657616, 
+              15.23591787331128
+            ], 
+            [
+              -61.35565507692024, 
+              15.24379852987829
+            ], 
+            [
+              -61.346379157272224, 
+              15.211681627105463
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "woeid": 2345167, 
-        "name": "Saint Mark", 
+        "ne:ProvNumber": 3, 
+        "alias_ENG_V": [
+          "St. Mark"
+        ], 
+        "ne:ScaleRank": 10, 
+        "ne:woe:id": "2345167", 
         "adjacent_woeid": [
           2345166, 
           2345168
         ], 
-        "ne_latitude": 15.242, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "St. Mark"
-        ], 
-        "ne_longitude": -61.345, 
-        "longitude": -61.362, 
+        "ne_latitude": 15.24379852987829, 
+        "ne:Shape_Area": 0.000888885207865, 
         "placetype": "State", 
+        "ne:Country_Pr": null, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:gadm_level": 1.0, 
+        "ne:ADM0_A3": "DMA", 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
+        "sw_longitude": -61.37611894413391, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.222, 
+        "ne:FIPS_1": "DO08", 
+        "ne:FIRST_FIPS": null, 
+        "ne:FIRST_HASC": null, 
+        "ne:ENGTYPE_1": "Parish", 
+        "sw_latitude": 15.20181142825487, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 1438, 
+        "ne:Postal": "MA", 
+        "ne:Region_Cod": null, 
+        "ne:VARNAME_1": null, 
+        "ne:ISO": "DMA", 
+        "ne:TYPE_1": "Parish", 
+        "ne:Region_C_2": null, 
+        "ne:Shape_Leng": 0.115966632321, 
+        "ne:CheckMe": 0, 
+        "ne:NAME_0": "Dominica", 
+        "ne:NAME_1": "Saint Mark", 
+        "ne:Region_C_1": null, 
+        "ne:Region_C_3": null, 
+        "ne:LabelRank": 10, 
+        "ne:Area_sqkm": 10.5, 
+        "woe:id": "2345167", 
+        "name": "Saint Mark", 
+        "ne:VertexCou": 8.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "DM.MA", 
+        "ne:REMARKS_1": null, 
+        "parent_woeid": 23424798, 
+        "ne_longitude": -61.346379157272224, 
+        "longitude": -61.362, 
         "iso": "DM", 
         "date_indexed": "2010-12-02T16:32:46Z", 
-        "parent_woeid": 23424798, 
-        "latitude": 15.222, 
-        "sw_longitude": -61.380, 
         "fullname": "Saint Mark, Dominica", 
-        "sw_latitude": 15.202
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Dominica", 
+        "ne:RegionVar": null, 
+        "ne:sameAsCity": -99
       }, 
       "id": 2345167
     }
+  ], 
+  "bbox": [
+    -61.37611894413391, 
+    15.20181142825487, 
+    -61.346379157272224, 
+    15.24379852987829
   ]
 }
