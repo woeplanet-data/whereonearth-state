@@ -1,6 +1,9 @@
+#!/usr/bin/env python
+
 import sys
 import json
 import Flickr.API
+import csv
 import pprint
 
 key = sys.argv[1]
@@ -13,15 +16,24 @@ fh = open(infile, 'r')
 data = json.load(fh)
 fh.close()
 
+out = open(outfile, 'w')
+writer = csv.writer(out)
+writer.writerow(('iso', 'fips', 'woeid'))
+
 count = len(data['features'])
-print count
 
 i = 0
 
 while count > i:
 
-    region = data['features'][i]['properties'].get('NAME_1', '')
-    iso = data['features'][i]['properties'].get('ISO', '')
+    props = data['features'][i]['properties']
+
+    region = props.get('NAME_1', '')
+    iso = props.get('ISO', '')
+    fips = props.get('FIPS_1', '')
+
+    # print pprint.pformat(props)
+    # sys.exit()
 
     n = "%s, %s" % (region, iso)
 
@@ -31,7 +43,7 @@ while count > i:
     rsp = api.execute_request(req)
 
     fl_data = json.load(rsp)
-    woeid = None
+    woeid = 0
 
     for pl in fl_data['places']['place']:
 
@@ -52,8 +64,6 @@ while count > i:
         # print pprint.pformat(data['features'][i]['properties'])
         # sys.exit()
 
-    i += 1
+    writer.writerow((iso, fips, woeid))
 
-fh = open(outfile, 'w')
-json.dump(data, fh)
-fh.close()
+    i += 1
