@@ -6,11 +6,11 @@ import Flickr.API
 import csv
 import pprint
 
-key = sys.argv[1]
+apikey = sys.argv[1]
 infile = sys.argv[2]
 outfile = sys.argv[3]
 
-api = Flickr.API.API(key)
+api = Flickr.API.API(apikey)
 
 fh = open(infile, 'r')
 data = json.load(fh)
@@ -18,7 +18,7 @@ fh.close()
 
 out = open(outfile, 'w')
 writer = csv.writer(out)
-writer.writerow(('iso', 'fips', 'woeid'))
+writer.writerow(('name', 'iso', 'fips', 'woeid'))
 
 count = len(data['features'])
 
@@ -28,14 +28,18 @@ while count > i:
 
     props = data['features'][i]['properties']
 
+    country = props.get('NAME_0', '')
     region = props.get('NAME_1', '')
     iso = props.get('ISO', '')
     fips = props.get('FIPS_1', '')
 
-    # print pprint.pformat(props)
-    # sys.exit()
+    if not country or country == '':
+        country = iso
 
-    n = "%s, %s" % (region, iso)
+    if not fips or fips == '':
+        n = "%s %s" % (region, country)
+    else:
+        n = "%s (%s) %s" % (region, fips, country)
 
     query = n.encode('utf8')
 
@@ -54,16 +58,14 @@ while count > i:
         break
 
     if woeid:
-        print "%s: %s" % (n.encode("ascii", "ignore"), woeid)
-        data['features'][i]['properties']['woe:id'] = woeid
+        print "[OK] %s: %s" % (n.encode("ascii", "ignore"), woeid)
 
     else:
+        print "[FAIL] %s" % n
 
-        print "FAILED: %s" % n
-        # print pprint.pformat(fl_data)
-        # print pprint.pformat(data['features'][i]['properties'])
-        # sys.exit()
+    if region:
+        region = region.encode('utf8')
 
-    writer.writerow((iso, fips, woeid))
+    writer.writerow((region, iso, fips, woeid))
 
     i += 1
