@@ -573,7 +573,6 @@
         "alias_ENG_V": [
           "Obwalden"
         ], 
-        "ne:ISO": "CHE", 
         "ne:ScaleRank": 9, 
         "alias_ENG_P": [
           "Canton of Obwalden"
@@ -584,24 +583,24 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 46.97940664360175, 
-        "ne:OBJECTID": 3427, 
+        "ne:DataRank": 7, 
         "ne:Shape_Area": 0.0569747455847, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
+        "children": [
+          "woe:county=12593100"
+        ], 
         "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Canton Obvaldo"
         ], 
-        "alias_GER_V": [
-          "Obwalden"
-        ], 
+        "ne:Area_sqkm": 483.0, 
         "alias_ITA_V": [
           "Obvaldo"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Unterwalden alto"
@@ -620,15 +619,13 @@
         "ne:FIRST_HASC": "CH.LU|CHE-OBW", 
         "ne:ENGTYPE_1": "Canton", 
         "sw_latitude": 46.75877411523328, 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 3, 
-        "ne:DataRank": 7, 
+        "ne:VertexCou": 67.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:OBJECTID": 3427, 
         "ne:Postal": "NW", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Obvaldo|Obwald|Unterwalden-le-Haut|Obwaldo|Sursilvania", 
-        "alias_GER_A": [
-          "OW"
-        ], 
+        "ne:ISO": "CHE", 
         "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 1.4650436824, 
@@ -636,20 +633,26 @@
         "ne:NAME_0": "Switzerland", 
         "ne:NAME_1": "Obwalden", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Canton|Kanton|Chantun", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 9, 
-        "ne:Area_sqkm": 483.0, 
+        "alias_GER_A": [
+          "OW"
+        ], 
+        "alias_GER_V": [
+          "Obwalden"
+        ], 
         "woe:id": "2347096", 
-        "name": "Kanton Obwalden", 
-        "ne:VertexCou": 67.0, 
+        "ne:HASC_1": "CH.NW", 
+        "lang": "GER", 
         "adjacent_woeid": [
           2347087, 
           2347093, 
           2347095, 
           2347103
         ], 
-        "ne:HASC_1": "CH.NW", 
+        "name": "Kanton Obwalden", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Canton|Kanton|Chantun", 
         "alias_UNK_Q": [
           "Sursilvania"
         ], 

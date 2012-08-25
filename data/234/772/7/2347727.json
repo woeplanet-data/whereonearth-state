@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 2347727, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.029, 
         "longitude": 105.873, 
         "placetype": "state", 
+        "latitude": 21.144, 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 20.917, 
         "adjacent": [
           "woe:state=20070087", 
           "woe:state=20070088", 
@@ -61,11 +61,23 @@
           "woe:state=20070083", 
           "woe:state=20070090"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 21.371, 
-        "latitude": 21.144, 
         "sw_longitude": 105.718, 
         "fullname": "Ha Noi, Vietnam", 
-        "sw_latitude": 20.917
+        "children": [
+          "woe:town=1229352", 
+          "woe:town=56123510", 
+          "woe:town=1236594", 
+          "woe:town=56124014", 
+          "woe:town=56124744", 
+          "woe:town=1249947", 
+          "woe:town=56123508", 
+          "woe:town=56123551", 
+          "woe:town=56124741", 
+          "woe:town=56123525"
+        ], 
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 2347727
     }

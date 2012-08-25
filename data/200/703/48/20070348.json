@@ -43,18 +43,18 @@
           "Akhaltsrikhis Raioni"
         ], 
         "name": "Akhalts\u00b4ikhis Raioni", 
-        "ne_latitude": 41.835, 
         "hierarchy": [
           "woe:state=20070348", 
           "woe:country=23424823", 
           "woe:planet=1"
         ], 
-        "woeid": 20070348, 
+        "ne_latitude": 41.835, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 43.305, 
         "longitude": 43.049, 
         "placetype": "state", 
         "iso": "GE", 
-        "sw_latitude": 41.437, 
+        "date_indexed": "2010-12-02T17:51:52Z", 
         "adjacent": [
           "woe:state=20070347", 
           "woe:state=20070350", 
@@ -62,11 +62,30 @@
           "woe:state=20070349", 
           "woe:state=20070385"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 20070348, 
         "latitude": 41.636, 
         "sw_longitude": 42.793, 
         "fullname": "Akhalts\u00b4ikhis Raioni, Georgia", 
-        "date_indexed": "2010-12-02T17:51:52Z"
+        "children": [
+          "woe:town=1962168", 
+          "woe:town=1962250", 
+          "woe:town=1962343", 
+          "woe:town=1962442", 
+          "woe:town=1962855", 
+          "woe:town=1963143", 
+          "woe:town=1963273", 
+          "woe:town=1964070", 
+          "woe:town=1964864", 
+          "woe:town=1965433", 
+          "woe:town=1965817", 
+          "woe:town=1965874", 
+          "woe:town=1966185", 
+          "woe:town=1966225", 
+          "woe:town=1966234", 
+          "woe:town=1966326", 
+          "woe:town=1966931"
+        ], 
+        "sw_latitude": 41.437
       }, 
       "id": 20070348
     }

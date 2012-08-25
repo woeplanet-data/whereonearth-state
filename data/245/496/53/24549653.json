@@ -44,22 +44,26 @@
           "woe:planet=1"
         ], 
         "woeid": 24549653, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -62.916, 
         "longitude": -62.994, 
         "placetype": "state", 
+        "latitude": 18.266, 
         "iso": "AI", 
-        "date_indexed": "2010-12-02T17:42:25Z", 
+        "sw_latitude": 18.249, 
         "adjacent": [
           "woe:state=24549654", 
           "woe:state=24549652", 
           "woe:state=24549655"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 18.303, 
-        "latitude": 18.266, 
         "sw_longitude": -63.016, 
         "fullname": "Island Harbour, Anguilla", 
-        "sw_latitude": 18.249
+        "children": [
+          "woe:town=56254", 
+          "woe:island=12481171"
+        ], 
+        "date_indexed": "2010-12-02T17:42:25Z"
       }, 
       "id": 24549653
     }

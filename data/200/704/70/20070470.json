@@ -31,27 +31,22 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "CZE", 
-        "adjacent_woeid": [
-          20070465, 
-          20070469, 
-          20070471, 
-          20070503
-        ], 
-        "name": "Olomouck\u00fd", 
         "hierarchy": [
           "woe:state=20070470", 
           "woe:country=23424810", 
           "woe:planet=1"
         ], 
         "ne_latitude": 50.449, 
-        "sw_latitude": 49.267, 
-        "ne_longitude": 17.917, 
-        "longitude": 16.955, 
-        "date_indexed": "2010-12-02T08:54:50Z", 
         "placetype": "state", 
+        "children": [
+          "woe:county=12582572", 
+          "woe:county=12582575", 
+          "woe:county=12582552", 
+          "woe:county=12582578", 
+          "woe:county=12582579"
+        ], 
+        "woeid": 20070470, 
         "sw_longitude": 16.712, 
-        "iso": "CZ", 
         "adjacent": [
           "woe:state=20070503", 
           "woe:state=20070471", 
@@ -60,17 +55,29 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.858, 
+        "date_indexed": "2010-12-02T08:54:50Z", 
         "alias_CZE_S": [
           "Olomoucky"
         ], 
-        "fullname": "Olomouck\u00fd, Czech Republic", 
         "alias_GER_Q": [
           "Olm\u00fctz"
         ], 
-        "woeid": 20070470, 
         "alias_GER_S": [
           "Olmutz"
         ], 
+        "lang": "CZE", 
+        "adjacent_woeid": [
+          20070465, 
+          20070469, 
+          20070471, 
+          20070503
+        ], 
+        "name": "Olomouck\u00fd", 
+        "ne_longitude": 17.917, 
+        "longitude": 16.955, 
+        "iso": "CZ", 
+        "sw_latitude": 49.267, 
+        "fullname": "Olomouck\u00fd, Czech Republic", 
         "alias_FRE_Q": [
           "Olomouc"
         ]

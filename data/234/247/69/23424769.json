@@ -32,24 +32,27 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -21.292, 
         "name": "Bassas da India", 
         "hierarchy": [
           "woe:state=23424769", 
           "woe:country=28289406", 
           "woe:planet=1"
         ], 
-        "woeid": 23424769, 
+        "ne_latitude": -21.292, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 39.513, 
         "longitude": 39.503, 
         "placetype": "state", 
         "iso": "TF", 
-        "sw_latitude": -21.309, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "woeid": 23424769, 
         "latitude": -21.301, 
         "sw_longitude": 39.493, 
         "fullname": "Bassas da India, French Southern Territories", 
-        "date_indexed": "2010-12-02T08:53:34Z"
+        "children": [
+          "woe:island=12465361"
+        ], 
+        "sw_latitude": -21.309
       }, 
       "id": 23424769
     }

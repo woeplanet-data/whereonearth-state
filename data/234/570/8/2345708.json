@@ -37,6 +37,7 @@
           2345706
         ], 
         "name": "Vestur-Isafjardarsysla", 
+        "ne_latitude": 66.182, 
         "hierarchy": [
           "woe:state=2345708", 
           "woe:country=23424845", 
@@ -45,22 +46,28 @@
         "woeid": 2345708, 
         "ne_longitude": -23.005, 
         "longitude": -23.442, 
+        "children": [
+          "woe:town=980127", 
+          "woe:town=980188", 
+          "woe:town=980484", 
+          "woe:town=980395", 
+          "woe:town=980495"
+        ], 
         "placetype": "state", 
-        "latitude": 65.931, 
         "iso": "IS", 
-        "sw_latitude": 65.68, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345697", 
           "woe:state=2345706"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 66.182, 
+        "latitude": 65.931, 
         "sw_longitude": -23.879, 
         "fullname": "Vestur-Isafjardarsysla, Iceland", 
         "alias_UNK_A": [
           "V-ISF"
         ], 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "sw_latitude": 65.68
       }, 
       "id": 2345708
     }

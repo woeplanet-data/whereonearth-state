@@ -31,11 +31,9 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
         "alias_ENG_V": [
           "Arica and Parinacota"
         ], 
-        "name": "Arica y Parinacota", 
         "alias_ENG_P": [
           "Arica and Parinacota Region"
         ], 
@@ -44,36 +42,42 @@
           "woe:country=23424782", 
           "woe:planet=1"
         ], 
-        "woeid": 56043702, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -68.909, 
-        "longitude": -69.642, 
-        "date_indexed": "2010-12-02T12:15:28Z", 
+        "ne_latitude": -17.508, 
         "placetype": "state", 
+        "children": [
+          "woe:county=26793977", 
+          "woe:county=26794010"
+        ], 
+        "woeid": 56043702, 
         "alias_SPA_S": [
           "Region de Arica y Parinacota"
         ], 
-        "adjacent_woeid": [
-          2344804, 
-          2344805, 
-          2345030, 
-          2346490
-        ], 
         "sw_longitude": -70.374, 
-        "iso": "CL", 
         "adjacent": [
           "woe:state=2344804", 
           "woe:state=2344805", 
           "woe:state=2346490", 
           "woe:state=2345030"
         ], 
-        "ne_latitude": -17.508, 
-        "latitude": -18.365, 
         "alias_SPA_V": [
           "Regi\u00f3n de Arica y Parinacota"
         ], 
-        "fullname": "Arica y Parinacota, Arica and Parinacota Region, Chile", 
-        "sw_latitude": -19.222
+        "latitude": -18.365, 
+        "sw_latitude": -19.222, 
+        "provider": "geoplanet 7.6.0", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2344804, 
+          2344805, 
+          2345030, 
+          2346490
+        ], 
+        "name": "Arica y Parinacota", 
+        "ne_longitude": -68.909, 
+        "longitude": -69.642, 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "fullname": "Arica y Parinacota, Arica and Parinacota Region, Chile"
       }, 
       "id": 56043702
     }

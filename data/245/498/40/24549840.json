@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 4.675, 
         "name": "Ebon", 
         "hierarchy": [
           "woe:state=24549840", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549840, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 168.775, 
         "longitude": 168.749, 
         "placetype": "state", 
         "iso": "MH", 
-        "date_indexed": "2010-12-02T09:35:31Z", 
-        "ne_latitude": 4.675, 
+        "sw_latitude": 4.575, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 4.595, 
         "sw_longitude": 168.648, 
         "fullname": "Ebon, Marshall Islands", 
-        "sw_latitude": 4.575
+        "children": [
+          "woe:island=12509480"
+        ], 
+        "date_indexed": "2010-12-02T09:35:31Z"
       }, 
       "id": 24549840
     }

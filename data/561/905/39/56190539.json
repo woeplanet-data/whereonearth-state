@@ -14,14 +14,15 @@
           56190534
         ], 
         "name": "Paavi\u0144as Novads", 
-        "alias_UNK_S": [
-          "Paavinas Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190539", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190539, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Paavinas Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -33,7 +34,12 @@
           "woe:state=56190537"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190539, 
+        "children": [
+          "woe:county=55844403", 
+          "woe:county=55844209", 
+          "woe:county=55844243", 
+          "woe:county=55844694"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190539

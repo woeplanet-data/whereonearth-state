@@ -3042,12 +3042,20 @@
         "ne:Shape_Area": 3.8346565082, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_KOR_Q": [
           "\ud398\uc774 \ub4dc \ub77c \ub974\uc640\ub974"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "FRA", 
+        "children": [
+          "woe:county=12597177", 
+          "woe:county=12597202", 
+          "woe:county=12597166", 
+          "woe:county=12597159", 
+          "woe:county=12597200", 
+          "woe:colloquial=23511802"
+        ], 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u5362\u74e6\u5c14\u6cb3\u8c37"
@@ -3056,7 +3064,7 @@
         "alias_ITA_Q": [
           "Paesi della Loira"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2664, 
         "alias_JPN_Q": [
           "\u30da\u30a4\u30fb\u30c9\u30fb\u30e9\u30fb\u30ed\u30ef\u30fc\u30eb\u5730\u57df\u570f"
         ], 
@@ -3081,9 +3089,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 46.279190985775415, 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2664, 
+        "ne:VertexCou": 749.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -3099,15 +3107,15 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 32129.5, 
         "woe:id": "7153325", 
-        "name": "Pays de la Loire", 
-        "ne:VertexCou": 749.0, 
+        "ne:HASC_1": null, 
+        "lang": "FRE", 
         "adjacent_woeid": [
           7153311, 
           7153313, 
           7153314, 
           7153327
         ], 
-        "ne:HASC_1": null, 
+        "name": "Pays de la Loire", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 0.912895541695946, 
         "longitude": -0.821, 

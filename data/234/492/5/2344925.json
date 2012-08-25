@@ -564,17 +564,21 @@
         "ne:Shape_Area": 90.2156554854, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19050901", 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "SK"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CAN", 
+        "children": [
+          "woe:county=29375232", 
+          "woe:timezone=56043687"
+        ], 
         "ne:ScaleRank": 2, 
         "alias_CHI_Q": [
           "\u8428\u65af\u5580\u5f7b\u6e29"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 631, 
         "alias_JPN_Q": [
           "\u30b5\u30b9\u30ab\u30c1\u30e5\u30ef\u30f3"
         ], 
@@ -596,9 +600,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 48.99297882751091, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 631, 
+        "ne:VertexCou": 133.0, 
+        "ne:VALIDFR_1": "19050901", 
+        "ne:DataRank": 2, 
         "ne:Postal": "SK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -614,8 +618,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 650843.7, 
         "woe:id": "2344925", 
-        "name": "Saskatchewan", 
-        "ne:VertexCou": 133.0, 
+        "ne:HASC_1": "CA.SK", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2344915, 
           2344917, 
@@ -624,7 +628,7 @@
           2347593, 
           20069920
         ], 
-        "ne:HASC_1": "CA.SK", 
+        "name": "Saskatchewan", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -101.3643757804179, 
         "longitude": -105.684, 

@@ -40,28 +40,7 @@
           2344689, 
           2345026
         ], 
-        "alias_ENG_A": [
-          "RN"
-        ], 
         "name": "Rio Negro", 
-        "hierarchy": [
-          "woe:state=2344690", 
-          "woe:country=23424747", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2344690, 
-        "alias_SPA_V": [
-          "Rionegro"
-        ], 
-        "ne_longitude": -62.788, 
-        "longitude": -67.353, 
-        "placetype": "state", 
-        "latitude": -39.793, 
-        "alias_SPA_S": [
-          "Provincia de Rio Negro"
-        ], 
-        "sw_longitude": -71.893, 
-        "sw_latitude": -42.007, 
         "adjacent": [
           "woe:state=2344675", 
           "woe:state=2344678", 
@@ -70,11 +49,47 @@
           "woe:state=2344687", 
           "woe:state=2344689"
         ], 
+        "hierarchy": [
+          "woe:state=2344690", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344690, 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -62.788, 
+        "longitude": -67.353, 
         "ne_latitude": -37.578, 
+        "placetype": "state", 
+        "alias_SPA_S": [
+          "Provincia de Rio Negro"
+        ], 
+        "sw_longitude": -71.893, 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "alias_ENG_A": [
+          "RN"
+        ], 
+        "alias_SPA_V": [
+          "Rionegro"
+        ], 
+        "latitude": -39.793, 
         "iso": "AR", 
         "fullname": "Rio Negro, Argentina", 
-        "date_indexed": "2010-12-02T17:40:36Z"
+        "children": [
+          "woe:county=20070727", 
+          "woe:county=20070728", 
+          "woe:county=20070729", 
+          "woe:county=20071006", 
+          "woe:county=20071047", 
+          "woe:county=20070730", 
+          "woe:county=20071005", 
+          "woe:county=20071007", 
+          "woe:county=20071004", 
+          "woe:county=20071048", 
+          "woe:county=20070732", 
+          "woe:county=20070731", 
+          "woe:county=20071049"
+        ], 
+        "sw_latitude": -42.007
       }, 
       "id": 2344690
     }

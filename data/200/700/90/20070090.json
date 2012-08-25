@@ -40,6 +40,7 @@
           20070091
         ], 
         "name": "Vinh Phuc", 
+        "ne_latitude": 21.527, 
         "hierarchy": [
           "woe:state=20070090", 
           "woe:country=23424984", 
@@ -49,9 +50,8 @@
         "ne_longitude": 105.796, 
         "longitude": 105.56, 
         "placetype": "state", 
-        "latitude": 21.313, 
         "iso": "VN", 
-        "sw_latitude": 21.099, 
+        "date_indexed": "2010-12-02T08:52:39Z", 
         "adjacent": [
           "woe:state=2347727", 
           "woe:state=2347735", 
@@ -60,10 +60,18 @@
           "woe:state=2347751"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 21.527, 
+        "latitude": 21.313, 
         "sw_longitude": 105.324, 
         "fullname": "Vinh Phuc, Vietnam", 
-        "date_indexed": "2010-12-02T08:52:39Z"
+        "children": [
+          "woe:town=1252561", 
+          "woe:town=56123822", 
+          "woe:town=56123556", 
+          "woe:town=56124751", 
+          "woe:town=1252671", 
+          "woe:town=1252390"
+        ], 
+        "sw_latitude": 21.099
       }, 
       "id": 20070090
     }

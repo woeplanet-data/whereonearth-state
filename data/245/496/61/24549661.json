@@ -332,18 +332,32 @@
         "ne:Shape_Area": 0.0375985847869, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ubcf4\uc2a4\ub2c8\uc544\ud5e4\ub974\uccb4\ucf54\ube44\ub098"
         ], 
         "ne:gadm_level": 2.0, 
         "ne:ADM0_A3": "BIH", 
+        "children": [
+          "woe:county=24551280", 
+          "woe:county=24551284", 
+          "woe:county=24551287", 
+          "woe:county=24551282", 
+          "woe:county=29389657", 
+          "woe:county=24551285", 
+          "woe:county=24551278", 
+          "woe:county=24551286", 
+          "woe:county=24551283", 
+          "woe:county=24551279"
+        ], 
         "ne:ScaleRank": 7, 
         "alias_CHI_Q": [
           "\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3"
         ], 
-        "ne:Area_sqkm": 329.4, 
-        "ne:OBJECTID": 3154, 
+        "alias_DAN_Q": [
+          "Bosnien og Hercegovina"
+        ], 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca"
         ], 
@@ -375,9 +389,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "date_indexed": "2010-12-02T12:15:51Z", 
-        "ne:VertexCou": 67.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3154, 
         "ne:Postal": "SR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Bosanskoposavski|Posavski", 
@@ -391,15 +405,13 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 7, 
-        "alias_DAN_Q": [
-          "Bosnien og Hercegovina"
-        ], 
+        "ne:Area_sqkm": 329.4, 
         "alias_GER_Q": [
           "Bosnien und Herzegowina"
         ], 
         "woe:id": "24549661", 
-        "ne:HASC_1": "BA.SR", 
-        "lang": "UNK", 
+        "name": "Federacija Bosne I Hercegovine", 
+        "ne:VertexCou": 67.0, 
         "adjacent_woeid": [
           12577972, 
           12577973, 
@@ -414,7 +426,7 @@
           29389649
         ], 
         "ne:FIRST_FIPS": "BKO2", 
-        "name": "Federacija Bosne I Hercegovine", 
+        "ne:HASC_1": "BA.SR", 
         "ne:REMARKS_1": null, 
         "alias_UNK_V": [
           "Bosnia and Herzegovina"

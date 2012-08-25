@@ -43,21 +43,24 @@
           "woe:planet=1"
         ], 
         "woeid": 56043628, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 16.749, 
         "longitude": 16.585, 
         "placetype": "state", 
+        "latitude": 47.69, 
         "iso": "HU", 
-        "date_indexed": "2010-12-02T09:55:38Z", 
+        "sw_latitude": 47.62, 
         "adjacent": [
           "woe:state=2344708", 
           "woe:state=12577918"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 47.759, 
-        "latitude": 47.69, 
         "sw_longitude": 16.421, 
         "fullname": "Sopron, Hungary", 
-        "sw_latitude": 47.62
+        "children": [
+          "woe:county=12594045"
+        ], 
+        "date_indexed": "2010-12-02T09:55:38Z"
       }, 
       "id": 56043628
     }

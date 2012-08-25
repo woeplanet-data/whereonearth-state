@@ -45,23 +45,33 @@
           "woe:planet=1"
         ], 
         "woeid": 24549896, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 125.443, 
         "longitude": 125.188, 
         "placetype": "state", 
+        "latitude": -8.988, 
         "iso": "TL", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
+        "sw_latitude": -9.225, 
         "adjacent": [
           "woe:state=24549900", 
           "woe:state=24549894", 
           "woe:state=24549895", 
           "woe:state=2345727"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -8.751, 
-        "latitude": -8.988, 
         "sw_longitude": 124.934, 
         "fullname": "Bobonaro, East Timor", 
-        "sw_latitude": -9.225
+        "children": [
+          "woe:town=1029100", 
+          "woe:town=1029116", 
+          "woe:town=1029437", 
+          "woe:town=1047281", 
+          "woe:town=1031111", 
+          "woe:town=1048883", 
+          "woe:town=1047786", 
+          "woe:town=1047848"
+        ], 
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 24549896
     }

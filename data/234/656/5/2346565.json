@@ -40,22 +40,24 @@
           12578036
         ], 
         "name": "Bragan\u00e7a", 
-        "placetype": "state", 
-        "ne_latitude": 41.993, 
+        "alias_SPA_Q": [
+          "Braganza"
+        ], 
         "hierarchy": [
           "woe:state=2346565", 
           "woe:country=23424925", 
           "woe:planet=1"
         ], 
-        "woeid": 2346565, 
+        "ne_latitude": 41.993, 
         "provider": "geoplanet 7.6.0", 
+        "alias_POR_S": [
+          "Braganca"
+        ], 
         "ne_longitude": -6.189, 
         "longitude": -6.811, 
-        "alias_SPA_Q": [
-          "Braganza"
-        ], 
+        "placetype": "state", 
         "iso": "PT", 
-        "sw_latitude": 41.025, 
+        "date_indexed": "2010-12-02T09:58:14Z", 
         "adjacent": [
           "woe:state=12578033", 
           "woe:state=12578036", 
@@ -63,13 +65,26 @@
           "woe:state=2346579", 
           "woe:state=2346580"
         ], 
-        "alias_POR_S": [
-          "Braganca"
-        ], 
+        "woeid": 2346565, 
         "latitude": 41.509, 
         "sw_longitude": -7.432, 
         "fullname": "Bragan\u00e7a, Portugal", 
-        "date_indexed": "2010-12-02T09:58:14Z", 
+        "children": [
+          "woe:county=12596530", 
+          "woe:county=12596613", 
+          "woe:county=12596560", 
+          "woe:county=12596686", 
+          "woe:county=12596559", 
+          "woe:county=12596547", 
+          "woe:county=12596445", 
+          "woe:county=12596622", 
+          "woe:county=12596491", 
+          "woe:county=12596660", 
+          "woe:county=12596623", 
+          "woe:county=12596460", 
+          "woe:landfeature=56058361"
+        ], 
+        "sw_latitude": 41.025, 
         "alias_FRE_Q": [
           "Bragance"
         ]

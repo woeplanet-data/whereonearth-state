@@ -54,10 +54,10 @@
         "woeid": 2347169, 
         "ne_longitude": 101.99, 
         "longitude": 101.419, 
+        "ne_latitude": 13.977, 
         "placetype": "state", 
-        "latitude": 13.578, 
         "iso": "TH", 
-        "sw_latitude": 13.179, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347165", 
           "woe:state=2347172", 
@@ -69,10 +69,23 @@
           "woe:state=2347167"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.977, 
+        "latitude": 13.578, 
         "sw_longitude": 100.849, 
         "fullname": "Chachoengsao, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341343", 
+          "woe:county=28341342", 
+          "woe:county=28341333", 
+          "woe:county=28341335", 
+          "woe:county=28341339", 
+          "woe:county=28341337", 
+          "woe:county=28341340", 
+          "woe:county=28341338", 
+          "woe:county=28341334", 
+          "woe:county=28341336", 
+          "woe:county=28341341"
+        ], 
+        "sw_latitude": 13.179
       }, 
       "id": 2347169
     }

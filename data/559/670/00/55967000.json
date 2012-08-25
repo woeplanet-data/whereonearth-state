@@ -48,12 +48,16 @@
           "woe:planet=1"
         ], 
         "woeid": 55967000, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -3.071, 
         "longitude": -3.437, 
+        "children": [
+          "woe:county=20069992", 
+          "woe:county=20069991"
+        ], 
         "placetype": "state", 
+        "latitude": 6.559, 
         "iso": "CI", 
-        "date_indexed": "2010-12-02T09:35:13Z", 
+        "sw_latitude": 5.766, 
         "adjacent": [
           "woe:state=55966991", 
           "woe:state=2345464", 
@@ -63,14 +67,14 @@
           "woe:state=2345469", 
           "woe:state=55967007"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 7.353, 
-        "latitude": 6.559, 
         "sw_longitude": -3.803, 
         "fullname": "Moyen-Como\u00e9, Ivory Coast", 
         "alias_FRE_S": [
           "Moyen-Comoe"
         ], 
-        "sw_latitude": 5.766
+        "date_indexed": "2010-12-02T09:35:13Z"
       }, 
       "id": 55967000
     }

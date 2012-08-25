@@ -42,20 +42,28 @@
           "woe:planet=1"
         ], 
         "woeid": 24549646, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -170.548, 
         "longitude": -170.65, 
         "placetype": "state", 
+        "latitude": -14.284, 
         "iso": "AS", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
+        "sw_latitude": -14.33, 
         "adjacent": [
           "woe:state=24549645"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -14.237, 
-        "latitude": -14.284, 
         "sw_longitude": -170.736, 
         "fullname": "Eastern, American Samoa", 
-        "sw_latitude": -14.33
+        "children": [
+          "woe:county=24551266", 
+          "woe:county=24551267", 
+          "woe:county=24551271", 
+          "woe:county=24551269", 
+          "woe:county=24551268", 
+          "woe:county=24551270"
+        ], 
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 24549646
     }

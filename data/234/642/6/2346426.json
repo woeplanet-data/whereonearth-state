@@ -40,8 +40,28 @@
           2346427, 
           2346428
         ], 
-        "ne_latitude": 12.638, 
+        "alias_KOR_Q": [
+          "\ub9c8\ub098\uacfc"
+        ], 
         "name": "Managua", 
+        "hierarchy": [
+          "woe:state=2346426", 
+          "woe:country=23424915", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 12.638, 
+        "alias_JPN_Q": [
+          "\u30de\u30ca\u30b0\u30a2"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -85.809, 
+        "longitude": -86.244, 
+        "alias_CHI_Q": [
+          "\u9a6c\u90a3\u74dc"
+        ], 
+        "placetype": "state", 
+        "iso": "NI", 
+        "date_indexed": "2010-12-02T18:19:07Z", 
         "adjacent": [
           "woe:state=2346417", 
           "woe:state=2346418", 
@@ -50,31 +70,22 @@
           "woe:state=2346427", 
           "woe:state=2346428"
         ], 
-        "hierarchy": [
-          "woe:state=2346426", 
-          "woe:country=23424915", 
-          "woe:planet=1"
-        ], 
         "woeid": 2346426, 
-        "alias_JPN_Q": [
-          "\u30de\u30ca\u30b0\u30a2"
-        ], 
-        "ne_longitude": -85.809, 
-        "longitude": -86.244, 
-        "alias_CHI_Q": [
-          "\u9a6c\u90a3\u74dc"
-        ], 
-        "placetype": "state", 
-        "iso": "NI", 
-        "sw_latitude": 11.714, 
-        "alias_KOR_Q": [
-          "\ub9c8\ub098\uacfc"
-        ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 12.176, 
         "sw_longitude": -86.679, 
         "fullname": "Managua, Nicaragua", 
-        "date_indexed": "2010-12-02T18:19:07Z"
+        "children": [
+          "woe:county=28358282", 
+          "woe:county=28358281", 
+          "woe:county=26813365", 
+          "woe:county=26813363", 
+          "woe:county=26813361", 
+          "woe:county=26813366", 
+          "woe:county=26813367", 
+          "woe:county=26813362", 
+          "woe:county=26813364"
+        ], 
+        "sw_latitude": 11.714
       }, 
       "id": 2346426
     }

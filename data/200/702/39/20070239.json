@@ -40,6 +40,7 @@
           20070263
         ], 
         "name": "Masalli", 
+        "ne_latitude": 39.228, 
         "hierarchy": [
           "woe:state=20070239", 
           "woe:country=23424741", 
@@ -49,9 +50,8 @@
         "ne_longitude": 48.868, 
         "longitude": 48.672, 
         "placetype": "state", 
-        "latitude": 39.039, 
         "iso": "AZ", 
-        "sw_latitude": 38.85, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=20070223", 
           "woe:state=20070263", 
@@ -60,10 +60,17 @@
           "woe:state=20070251"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 39.228, 
+        "latitude": 39.039, 
         "sw_longitude": 48.477, 
         "fullname": "Masalli, Azerbaijan", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1948187", 
+          "woe:town=1951953", 
+          "woe:town=1951968", 
+          "woe:town=1951967", 
+          "woe:town=1950097"
+        ], 
+        "sw_latitude": 38.85
       }, 
       "id": 20070239
     }

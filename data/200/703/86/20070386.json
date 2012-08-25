@@ -43,18 +43,18 @@
           "Zestapronis Raioni"
         ], 
         "name": "Zestap\u00b4onis Raioni", 
-        "ne_latitude": 42.256, 
         "hierarchy": [
           "woe:state=20070386", 
           "woe:country=23424823", 
           "woe:planet=1"
         ], 
-        "woeid": 20070386, 
+        "ne_latitude": 42.256, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 43.38, 
         "longitude": 43.052, 
         "placetype": "state", 
         "iso": "GE", 
-        "sw_latitude": 41.973, 
+        "date_indexed": "2010-12-02T17:51:52Z", 
         "adjacent": [
           "woe:state=20070388", 
           "woe:state=20070384", 
@@ -62,11 +62,29 @@
           "woe:state=20070390", 
           "woe:state=20070387"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 20070386, 
         "latitude": 42.114, 
         "sw_longitude": 42.724, 
         "fullname": "Zestap\u00b4onis Raioni, Georgia", 
-        "date_indexed": "2010-12-02T17:51:52Z"
+        "children": [
+          "woe:town=1962297", 
+          "woe:town=1962394", 
+          "woe:town=1963348", 
+          "woe:town=1963583", 
+          "woe:town=1964290", 
+          "woe:town=1964676", 
+          "woe:town=1965091", 
+          "woe:town=1965340", 
+          "woe:town=1965387", 
+          "woe:town=1965724", 
+          "woe:town=1966913", 
+          "woe:town=1966213", 
+          "woe:town=1966542", 
+          "woe:town=1966556", 
+          "woe:town=1966722", 
+          "woe:town=56122739"
+        ], 
+        "sw_latitude": 41.973
       }, 
       "id": 20070386
     }

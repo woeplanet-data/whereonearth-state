@@ -50,10 +50,10 @@
         "woeid": 2347157, 
         "ne_longitude": 100.353, 
         "longitude": 100.034, 
+        "ne_latitude": 15.418, 
         "placetype": "state", 
-        "latitude": 15.16, 
         "iso": "TH", 
-        "sw_latitude": 14.902, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347143", 
           "woe:state=2347158", 
@@ -61,10 +61,20 @@
           "woe:state=2347142"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 15.418, 
+        "latitude": 15.16, 
         "sw_longitude": 99.716, 
         "fullname": "Chai Nat, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341466", 
+          "woe:county=28341462", 
+          "woe:county=28341467", 
+          "woe:county=28341464", 
+          "woe:county=28341460", 
+          "woe:county=28341461", 
+          "woe:county=28341465", 
+          "woe:county=28341463"
+        ], 
+        "sw_latitude": 14.902
       }, 
       "id": 2347157
     }

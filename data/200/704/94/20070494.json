@@ -40,13 +40,13 @@
           20070496
         ], 
         "name": "Zilinsky", 
-        "ne_latitude": 49.614, 
         "hierarchy": [
           "woe:state=20070494", 
           "woe:country=23424877", 
           "woe:planet=1"
         ], 
         "woeid": 20070494, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Zilina"
         ], 
@@ -54,7 +54,7 @@
         "ne_longitude": 20.06, 
         "placetype": "state", 
         "iso": "SK", 
-        "sw_latitude": 48.741, 
+        "date_indexed": "2010-12-02T08:50:01Z", 
         "adjacent": [
           "woe:state=20070495", 
           "woe:state=12577940", 
@@ -62,14 +62,27 @@
           "woe:state=12577946", 
           "woe:state=20070493"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 49.614, 
         "latitude": 49.178, 
         "sw_longitude": 18.323, 
         "fullname": "Zilinsky, Slovakia", 
         "alias_GER_Q": [
           "Sillein"
         ], 
-        "date_indexed": "2010-12-02T08:50:01Z"
+        "children": [
+          "woe:county=29399301", 
+          "woe:county=29399293", 
+          "woe:county=29399302", 
+          "woe:county=29399299", 
+          "woe:county=29399306", 
+          "woe:county=29399310", 
+          "woe:county=29399291", 
+          "woe:county=29399311", 
+          "woe:county=29399319", 
+          "woe:county=29399298", 
+          "woe:county=29399353"
+        ], 
+        "sw_latitude": 48.741
       }, 
       "id": 20070494
     }

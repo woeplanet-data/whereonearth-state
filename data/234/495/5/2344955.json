@@ -40,6 +40,7 @@
           56013482
         ], 
         "name": "Moyen-Chari", 
+        "ne_latitude": 10.634, 
         "hierarchy": [
           "woe:state=2344955", 
           "woe:country=23424777", 
@@ -52,9 +53,8 @@
           "MC"
         ], 
         "placetype": "state", 
-        "latitude": 9.328, 
         "iso": "TD", 
-        "sw_latitude": 8.021, 
+        "date_indexed": "2010-12-02T08:53:18Z", 
         "adjacent": [
           "woe:state=2344948", 
           "woe:state=2344949", 
@@ -63,10 +63,15 @@
           "woe:state=2344958"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 10.634, 
+        "latitude": 9.328, 
         "sw_longitude": 17.389, 
         "fullname": "Moyen-Chari, Chad", 
-        "date_indexed": "2010-12-02T08:53:18Z"
+        "children": [
+          "woe:county=56013497", 
+          "woe:county=56013500", 
+          "woe:county=56013501"
+        ], 
+        "sw_latitude": 8.021
       }, 
       "id": 2344955
     }

@@ -44,22 +44,26 @@
           "woe:planet=1"
         ], 
         "woeid": 55848396, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.421, 
         "longitude": 14.305, 
         "placetype": "state", 
+        "latitude": 45.944, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 45.857, 
         "adjacent": [
           "woe:state=55848344", 
           "woe:state=55848364", 
           "woe:state=55848366"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.031, 
-        "latitude": 45.944, 
         "sw_longitude": 14.189, 
         "fullname": "Vrhnika, Slovenia", 
-        "sw_latitude": 45.857
+        "children": [
+          "woe:county=12591512", 
+          "woe:county=12591647"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848396
     }

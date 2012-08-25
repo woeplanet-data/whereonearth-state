@@ -743,7 +743,6 @@
         "alias_ENG_V": [
           "Aargau"
         ], 
-        "ne:ISO": "CHE", 
         "ne:ScaleRank": 9, 
         "alias_ENG_P": [
           "Canton of Aargau"
@@ -754,24 +753,35 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 47.62236481398503, 
-        "ne:OBJECTID": 162, 
+        "ne:DataRank": 7, 
         "ne:Shape_Area": 0.170058522576, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
+        "children": [
+          "woe:county=12593085", 
+          "woe:county=12593187", 
+          "woe:county=12593205", 
+          "woe:county=12593186", 
+          "woe:county=12593201", 
+          "woe:county=12593252", 
+          "woe:county=12593173", 
+          "woe:county=12593113", 
+          "woe:county=12593265", 
+          "woe:county=12593087", 
+          "woe:county=12593092", 
+          "woe:zone=24874864"
+        ], 
         "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Canton Argovia"
         ], 
-        "alias_GER_V": [
-          "Aargau"
-        ], 
+        "ne:Area_sqkm": 1426.8, 
         "alias_ITA_V": [
           "Argovia"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Argovia"
@@ -793,15 +803,13 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "sw_latitude": 47.14231659563444, 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 3, 
-        "ne:DataRank": 7, 
+        "ne:VertexCou": 181.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:OBJECTID": 162, 
         "ne:Postal": "AG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Argovia|Arg\u00a2via|Argovie", 
-        "alias_GER_A": [
-          "AG"
-        ], 
+        "ne:ISO": "CHE", 
         "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 2.84812122449, 
@@ -809,12 +817,17 @@
         "ne:NAME_0": "Switzerland", 
         "ne:NAME_1": "Aargau", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Canton|Kanton|Chantun", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 9, 
-        "ne:Area_sqkm": 1426.8, 
+        "alias_GER_A": [
+          "AG"
+        ], 
+        "alias_GER_V": [
+          "Aargau"
+        ], 
         "woe:id": "2347083", 
-        "name": "Kanton Aargau", 
-        "ne:VertexCou": 181.0, 
+        "ne:HASC_1": "CH.AG", 
+        "lang": "GER", 
         "adjacent_woeid": [
           2345481, 
           2347085, 
@@ -824,8 +837,9 @@
           2347106, 
           2347107
         ], 
-        "ne:HASC_1": "CH.AG", 
+        "name": "Kanton Aargau", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Canton|Kanton|Chantun", 
         "alias_UNK_Q": [
           "Argovia"
         ], 

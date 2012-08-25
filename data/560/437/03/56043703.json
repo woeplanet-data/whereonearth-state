@@ -37,7 +37,6 @@
           2345021, 
           2345026
         ], 
-        "sw_longitude": -73.731, 
         "name": "Los Rios", 
         "alias_ENG_P": [
           "Los Rios Region"
@@ -48,27 +47,32 @@
           "woe:planet=1"
         ], 
         "woeid": 56043703, 
-        "provider": "geoplanet 7.6.0", 
+        "alias_SPA_V": [
+          "Regi\u00f3n de Los R\u00edos"
+        ], 
         "ne_longitude": -71.589, 
         "longitude": -72.66, 
         "placetype": "state", 
+        "latitude": -39.972, 
         "alias_SPA_S": [
           "Region de Los Rios"
         ], 
-        "iso": "CL", 
-        "date_indexed": "2010-12-02T12:15:28Z", 
+        "sw_longitude": -73.731, 
+        "sw_latitude": -40.664, 
         "adjacent": [
           "woe:state=2345021", 
           "woe:state=2345026", 
           "woe:state=2344689"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -39.281, 
-        "latitude": -39.972, 
-        "alias_SPA_V": [
-          "Regi\u00f3n de Los R\u00edos"
-        ], 
+        "iso": "CL", 
         "fullname": "Los Rios, Los Rios Region, Chile", 
-        "sw_latitude": -40.664
+        "children": [
+          "woe:county=56043705", 
+          "woe:county=26794021"
+        ], 
+        "date_indexed": "2010-12-02T12:15:28Z"
       }, 
       "id": 56043703
     }

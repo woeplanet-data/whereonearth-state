@@ -49,20 +49,30 @@
         "woeid": 2346960, 
         "ne_longitude": 47.544, 
         "longitude": 45.549, 
+        "ne_latitude": 19.898, 
         "placetype": "state", 
-        "latitude": 18.424, 
         "iso": "SA", 
-        "sw_latitude": 16.95, 
+        "date_indexed": "2010-12-02T09:34:37Z", 
         "adjacent": [
           "woe:state=2346955", 
           "woe:state=2346951", 
           "woe:state=2346954"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 19.898, 
+        "latitude": 18.424, 
         "sw_longitude": 43.553, 
         "fullname": "Najran, Saudi Arabia", 
-        "date_indexed": "2010-12-02T09:34:37Z"
+        "children": [
+          "woe:county=56120126", 
+          "woe:county=56120128", 
+          "woe:county=56120129", 
+          "woe:county=56120130", 
+          "woe:county=56120127", 
+          "woe:county=56120132", 
+          "woe:county=56120125", 
+          "woe:county=56120131"
+        ], 
+        "sw_latitude": 16.95
       }, 
       "id": 2346960
     }

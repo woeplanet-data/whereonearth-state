@@ -2666,14 +2666,19 @@
         "ne:Shape_Area": 4.39111036958, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1983", 
+        "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ESP", 
+        "children": [
+          "woe:county=12602128", 
+          "woe:county=12602129", 
+          "woe:zone=24874543", 
+          "woe:zone=24874546"
+        ], 
         "alias_ITA_Q": [
           "Estremadura"
         ], 
-        "ne:DataRank": 3, 
-        "ne:sameAsCity": -99, 
+        "ne:OBJECTID": 742, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -7.557698533160703, 
@@ -2696,9 +2701,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Community", 
         "sw_latitude": 37.93897654902855, 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 5, 
-        "ne:OBJECTID": 742, 
+        "ne:VertexCou": 657.0, 
+        "ne:VALIDFR_1": "1983", 
+        "ne:DataRank": 3, 
         "ne:Postal": "EX", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Estremadura|Estr\u00e9madure", 
@@ -2710,15 +2715,15 @@
         "ne:NAME_0": "Spain", 
         "ne:NAME_1": "Extremadura", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Comunidad Aut\u00f3noma", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 42114.1, 
         "alias_GER_Q": [
           "Estremadura"
         ], 
         "woe:id": "12578035", 
-        "name": "Extremadura", 
-        "ne:VertexCou": 657.0, 
+        "ne:HASC_1": "ES.EX", 
+        "lang": "SPA", 
         "adjacent_woeid": [
           2346563, 
           2346566, 
@@ -2729,13 +2734,12 @@
           12578032, 
           12578033
         ], 
-        "ne:HASC_1": "ES.EX", 
+        "name": "Extremadura", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Comunidad Aut\u00f3noma", 
         "provider": "geoplanet 7.6.0", 
         "longitude": -6.095, 
-        "alias_FRE_S": [
-          "Extremadure"
-        ], 
+        "ne:NEV_Countr": "Spain", 
         "ne_longitude": -4.658392299365062, 
         "iso": "ES", 
         "date_indexed": "2010-12-02T17:07:37Z", 
@@ -2745,7 +2749,9 @@
         ], 
         "fullname": "Extremadura, Spain", 
         "ne:Region": null, 
-        "ne:NEV_Countr": "Spain", 
+        "alias_FRE_S": [
+          "Extremadure"
+        ], 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Estr\u00e9madure"

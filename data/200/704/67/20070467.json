@@ -39,7 +39,7 @@
           20070503
         ], 
         "name": "Vyso\u010dina", 
-        "latitude": 49.399, 
+        "ne_latitude": 49.861, 
         "hierarchy": [
           "woe:state=20070467", 
           "woe:country=23424810", 
@@ -53,7 +53,7 @@
           "Vysocina"
         ], 
         "iso": "CZ", 
-        "sw_latitude": 48.938, 
+        "date_indexed": "2010-12-02T08:54:50Z", 
         "adjacent": [
           "woe:state=20070503", 
           "woe:state=20070502", 
@@ -61,13 +61,20 @@
           "woe:state=20070468"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 49.861, 
+        "latitude": 49.399, 
         "sw_longitude": 14.889, 
         "fullname": "Vyso\u010dina, Czech Republic", 
         "alias_GER_Q": [
           "Iglau"
         ], 
-        "date_indexed": "2010-12-02T08:54:50Z"
+        "children": [
+          "woe:county=12582594", 
+          "woe:county=12582550", 
+          "woe:county=12582540", 
+          "woe:county=12582553", 
+          "woe:county=12582556"
+        ], 
+        "sw_latitude": 48.938
       }, 
       "id": 20070467
     }

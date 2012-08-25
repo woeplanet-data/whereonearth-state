@@ -32,24 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -16.25, 
         "name": "Cargados Carajos", 
         "hierarchy": [
           "woe:state=2346238", 
           "woe:country=23424894", 
           "woe:planet=1"
         ], 
-        "woeid": 2346238, 
+        "ne_latitude": -16.25, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 59.7, 
         "longitude": 59.546, 
         "placetype": "state", 
         "iso": "MU", 
-        "sw_latitude": -16.812, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woeid": 2346238, 
         "latitude": -16.801, 
         "sw_longitude": 59.5, 
         "fullname": "Cargados Carajos, Mauritius", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:island=12466060", 
+          "woe:island=12466110"
+        ], 
+        "sw_latitude": -16.812
       }, 
       "id": 2346238
     }

@@ -40,6 +40,7 @@
           2344621
         ], 
         "name": "Tissemsilt", 
+        "ne_latitude": 36.004, 
         "hierarchy": [
           "woe:state=2344626", 
           "woe:country=23424740", 
@@ -49,9 +50,8 @@
         "ne_longitude": 2.442, 
         "longitude": 1.844, 
         "placetype": "state", 
-        "latitude": 35.775, 
         "iso": "DZ", 
-        "sw_latitude": 35.545, 
+        "date_indexed": "2010-12-02T17:07:10Z", 
         "adjacent": [
           "woe:state=2344605", 
           "woe:state=2344611", 
@@ -60,10 +60,22 @@
           "woe:state=2344587"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 36.004, 
+        "latitude": 35.775, 
         "sw_longitude": 1.247, 
         "fullname": "Tissemsilt, Algeria", 
-        "date_indexed": "2010-12-02T17:07:10Z"
+        "children": [
+          "woe:town=1253588", 
+          "woe:town=1255201", 
+          "woe:town=1255280", 
+          "woe:town=1255281", 
+          "woe:town=1256905", 
+          "woe:town=1253511", 
+          "woe:town=22662682", 
+          "woe:town=1257736", 
+          "woe:town=1257753", 
+          "woe:town=1257852"
+        ], 
+        "sw_latitude": 35.545
       }, 
       "id": 2344626
     }

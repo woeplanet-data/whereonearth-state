@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": -14.092, 
         "name": "Tuamotu-Gambier", 
         "hierarchy": [
           "woe:state=24549702", 
@@ -39,17 +40,36 @@
           "woe:planet=1"
         ], 
         "woeid": 24549702, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -134.483, 
         "longitude": -140.635, 
         "placetype": "state", 
         "iso": "PF", 
-        "date_indexed": "2010-12-02T17:05:43Z", 
-        "ne_latitude": -14.092, 
+        "sw_latitude": -23.334, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -21.688, 
         "sw_longitude": -148.715, 
         "fullname": "Tuamotu-Gambier, French Polynesia", 
-        "sw_latitude": -23.334
+        "children": [
+          "woe:county=28743689", 
+          "woe:county=28743690", 
+          "woe:county=28743691", 
+          "woe:county=28743692", 
+          "woe:county=28743693", 
+          "woe:county=28743694", 
+          "woe:county=28743695", 
+          "woe:county=28743696", 
+          "woe:county=28743697", 
+          "woe:county=28743698", 
+          "woe:county=28743699", 
+          "woe:county=28743700", 
+          "woe:county=28743701", 
+          "woe:county=28743702", 
+          "woe:county=28743703", 
+          "woe:county=28743704", 
+          "woe:county=28743705", 
+          "woe:island=12490293"
+        ], 
+        "date_indexed": "2010-12-02T17:05:43Z"
       }, 
       "id": 24549702
     }

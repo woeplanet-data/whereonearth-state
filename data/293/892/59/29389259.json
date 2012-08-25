@@ -47,6 +47,20 @@
         ], 
         "ne_latitude": 63.93, 
         "placetype": "state", 
+        "children": [
+          "woe:county=56120853", 
+          "woe:county=29389298", 
+          "woe:county=56120894", 
+          "woe:county=56120889", 
+          "woe:colloquial=29389328", 
+          "woe:drainage=29354332", 
+          "woe:drainage=29354251", 
+          "woe:drainage=29357948", 
+          "woe:drainage=29355552", 
+          "woe:drainage=29355910", 
+          "woe:drainage=29357418", 
+          "woe:drainage=29357788"
+        ], 
         "woeid": 29389259, 
         "alias_SWE_S": [
           "Osterbotten"
@@ -57,7 +71,7 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 62.873, 
-        "date_indexed": "2010-12-02T16:39:41Z", 
+        "sw_latitude": 61.954, 
         "adjacent": [
           "woe:state=29389256", 
           "woe:state=29389257", 
@@ -73,7 +87,7 @@
         "ne_longitude": 23.744, 
         "longitude": 21.831, 
         "iso": "FI", 
-        "sw_latitude": 61.954, 
+        "date_indexed": "2010-12-02T16:39:41Z", 
         "fullname": "Pohjanmaan maakunta, Western Finland, Ostrobothnia, Finland"
       }, 
       "id": 29389259

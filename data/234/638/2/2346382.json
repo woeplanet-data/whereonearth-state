@@ -895,7 +895,7 @@
         "ne:Shape_Area": 0.245002315532, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 9, 
         "alias_POR_Q": [
           "Zel\u00e2ndia"
         ], 
@@ -904,16 +904,31 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
+        "children": [
+          "woe:county=12592088", 
+          "woe:county=12592167", 
+          "woe:county=12592226", 
+          "woe:county=12592232", 
+          "woe:county=12592290", 
+          "woe:county=12592317", 
+          "woe:county=12592358", 
+          "woe:county=12592391", 
+          "woe:county=23388410", 
+          "woe:county=12592379", 
+          "woe:county=12592423", 
+          "woe:county=12592441", 
+          "woe:county=12592452"
+        ], 
         "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Zelanda"
         ], 
-        "ne:DataRank": 8, 
-        "ne:sameAsCity": -99, 
+        "ne:OBJECTID": 903, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Zel\u00e1ndia"
         ], 
+        "ne:LabelRank": 8, 
         "alias_SPA_S": [
           "Zelandia"
         ], 
@@ -935,12 +950,9 @@
         "alias_DUT_A": [
           "ZLD"
         ], 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 903, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "ZE", 
-        "alias_DUT_V": [
-          "Zeeland Provincie"
-        ], 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Zelanda|Z\u00e9lande|Zel\u00e2ndia", 
         "ne:ISO": "NLD", 
@@ -951,11 +963,13 @@
         "ne:NAME_0": "Netherlands", 
         "ne:NAME_1": "Zeeland", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Provincie", 
-        "ne:LabelRank": 8, 
+        "ne:sameAsCity": -99, 
+        "alias_DUT_V": [
+          "Zeeland Provincie"
+        ], 
         "ne:Area_sqkm": 1894.9, 
         "woe:id": "2346382", 
-        "name": "Zeeland", 
+        "ne:HASC_1": "NL.ZE", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2346378, 
@@ -964,20 +978,21 @@
           7153305, 
           7153308
         ], 
-        "ne:HASC_1": "NL.ZE", 
+        "name": "Zeeland", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Provincie", 
         "ne_longitude": 4.281062046276475, 
         "longitude": 3.819, 
-        "alias_FRE_S": [
-          "Zelande"
-        ], 
+        "ne:NEV_Countr": "Netherlands", 
         "ne:VertexCou": 205.0, 
         "iso": "NL", 
         "sw_latitude": 51.20566030537884, 
         "ne:NL_NAME_1": null, 
         "fullname": "Zeeland, Netherlands", 
         "ne:Region": null, 
-        "ne:NEV_Countr": "Netherlands", 
+        "alias_FRE_S": [
+          "Zelande"
+        ], 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Z\u00e9lande"

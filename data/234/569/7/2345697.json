@@ -40,6 +40,7 @@
           20070104
         ], 
         "name": "Nordur-Isafjardarsysla", 
+        "ne_latitude": 66.47, 
         "hierarchy": [
           "woe:state=2345697", 
           "woe:country=23424845", 
@@ -48,10 +49,28 @@
         "woeid": 2345697, 
         "ne_longitude": -21.959, 
         "longitude": -22.231, 
+        "children": [
+          "woe:town=980064", 
+          "woe:town=980132", 
+          "woe:town=980184", 
+          "woe:town=980206", 
+          "woe:town=980232", 
+          "woe:town=980235", 
+          "woe:town=980312", 
+          "woe:town=980339", 
+          "woe:town=980381", 
+          "woe:town=980443", 
+          "woe:town=980483", 
+          "woe:town=980520", 
+          "woe:town=980521", 
+          "woe:island=12475904", 
+          "woe:island=12475884", 
+          "woe:island=12476030", 
+          "woe:island=12476086"
+        ], 
         "placetype": "state", 
-        "latitude": 66.062, 
         "iso": "IS", 
-        "sw_latitude": 65.654, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345688", 
           "woe:state=20070104", 
@@ -60,13 +79,13 @@
           "woe:state=2345708"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 66.47, 
+        "latitude": 66.062, 
         "sw_longitude": -23.488, 
         "fullname": "Nordur-Isafjardarsysla, Iceland", 
         "alias_UNK_A": [
           "N-ISF"
         ], 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "sw_latitude": 65.654
       }, 
       "id": 2345697
     }

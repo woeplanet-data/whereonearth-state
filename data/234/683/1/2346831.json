@@ -38,31 +38,41 @@
           2346832
         ], 
         "name": "Santa Isabel", 
+        "ne_latitude": 18.043, 
         "hierarchy": [
           "woe:state=2346831", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346831, 
-        "alias_SPA_V": [
-          "Sta. Isabel Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.331, 
         "longitude": -66.392, 
         "placetype": "state", 
-        "latitude": 17.991, 
         "sw_longitude": -66.452, 
-        "sw_latitude": 17.92, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346795", 
           "woe:state=2346832", 
           "woe:state=2346830"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.043, 
+        "alias_SPA_V": [
+          "Sta. Isabel Municipios"
+        ], 
+        "latitude": 17.991, 
         "iso": "PR", 
         "fullname": "Santa Isabel, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806744", 
+          "woe:county=26806745", 
+          "woe:county=26806746", 
+          "woe:county=26806747", 
+          "woe:county=26806748", 
+          "woe:county=26806749", 
+          "woe:county=26806750", 
+          "woe:county=26806751"
+        ], 
+        "sw_latitude": 17.92
       }, 
       "id": 2346831
     }

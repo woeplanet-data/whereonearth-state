@@ -50,10 +50,10 @@
         "woeid": 2347187, 
         "ne_longitude": 99.416, 
         "longitude": 99.019, 
+        "ne_latitude": 8.675, 
         "placetype": "state", 
-        "latitude": 8.165, 
         "iso": "TH", 
-        "sw_latitude": 7.149, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347188", 
           "woe:state=2347185", 
@@ -61,10 +61,22 @@
           "woe:state=2347189"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 8.675, 
+        "latitude": 8.165, 
         "sw_longitude": 98.615, 
         "fullname": "Krabi, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341645", 
+          "woe:county=28341647", 
+          "woe:county=28341649", 
+          "woe:county=28341648", 
+          "woe:county=28341644", 
+          "woe:county=28341643", 
+          "woe:county=28341646", 
+          "woe:county=28341642", 
+          "woe:landfeature=56057341", 
+          "woe:landfeature=56057377"
+        ], 
+        "sw_latitude": 7.149
       }, 
       "id": 2347187
     }

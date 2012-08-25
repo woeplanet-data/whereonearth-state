@@ -42,21 +42,19 @@
           2346855
         ], 
         "name": "Cayey", 
+        "ne_latitude": 18.169, 
         "hierarchy": [
           "woe:state=2346792", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346792, 
-        "alias_SPA_V": [
-          "Cayey Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.051, 
         "longitude": -66.139, 
         "placetype": "state", 
-        "latitude": 18.103, 
         "sw_longitude": -66.227, 
-        "sw_latitude": 18.037, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346790", 
           "woe:state=2346855", 
@@ -66,11 +64,37 @@
           "woe:state=2346830", 
           "woe:state=2346806"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.169, 
+        "alias_SPA_V": [
+          "Cayey Municipios"
+        ], 
+        "latitude": 18.103, 
         "iso": "PR", 
         "fullname": "Cayey, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806165", 
+          "woe:county=26806166", 
+          "woe:county=26806167", 
+          "woe:county=26806168", 
+          "woe:county=26806169", 
+          "woe:county=26806170", 
+          "woe:county=26806171", 
+          "woe:county=26806172", 
+          "woe:county=26806173", 
+          "woe:county=26806174", 
+          "woe:county=26806175", 
+          "woe:county=26806176", 
+          "woe:county=26806177", 
+          "woe:county=26806178", 
+          "woe:county=26806179", 
+          "woe:county=26806180", 
+          "woe:county=26806181", 
+          "woe:county=26806182", 
+          "woe:county=26806183", 
+          "woe:county=26806184", 
+          "woe:county=26806185", 
+          "woe:county=26806186"
+        ], 
+        "sw_latitude": 18.037
       }, 
       "id": 2346792
     }

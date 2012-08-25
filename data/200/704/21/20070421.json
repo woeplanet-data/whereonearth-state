@@ -35,20 +35,20 @@
         "adjacent_woeid": [
           24550740
         ], 
-        "ne_latitude": 0.443, 
-        "name": "Kampala", 
-        "adjacent": [
-          "woe:state=24550740"
+        "alias_KOR_Q": [
+          "\uce84\ud314\ub77c"
         ], 
+        "name": "Kampala", 
         "hierarchy": [
           "woe:state=20070421", 
           "woe:country=23424974", 
           "woe:planet=1"
         ], 
-        "woeid": 20070421, 
+        "ne_latitude": 0.443, 
         "alias_JPN_Q": [
           "\u30ab\u30f3\u30d1\u30e9"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.666, 
         "longitude": 32.583, 
         "alias_CHI_Q": [
@@ -56,15 +56,18 @@
         ], 
         "placetype": "state", 
         "iso": "UG", 
-        "sw_latitude": 0.202, 
-        "alias_KOR_Q": [
-          "\uce84\ud314\ub77c"
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "adjacent": [
+          "woe:state=24550740"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 20070421, 
         "latitude": 0.322, 
         "sw_longitude": 32.5, 
         "fullname": "Kampala, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190280"
+        ], 
+        "sw_latitude": 0.202
       }, 
       "id": 20070421
     }

@@ -39,6 +39,7 @@
           2345570
         ], 
         "name": "Totonicapan", 
+        "ne_latitude": 15.252, 
         "hierarchy": [
           "woe:state=2345572", 
           "woe:country=23424834", 
@@ -48,9 +49,8 @@
         "ne_longitude": -91.176, 
         "longitude": -91.365, 
         "placetype": "state", 
-        "latitude": 15.037, 
         "iso": "GT", 
-        "sw_latitude": 14.823, 
+        "date_indexed": "2010-12-02T16:55:18Z", 
         "adjacent": [
           "woe:state=2345559", 
           "woe:state=2345564", 
@@ -58,10 +58,20 @@
           "woe:state=2345570"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 15.252, 
+        "latitude": 15.037, 
         "sw_longitude": -91.554, 
         "fullname": "Totonicapan, Guatemala", 
-        "date_indexed": "2010-12-02T16:55:18Z"
+        "children": [
+          "woe:county=26807226", 
+          "woe:county=26807233", 
+          "woe:county=26807228", 
+          "woe:county=26807231", 
+          "woe:county=26807230", 
+          "woe:county=26807105", 
+          "woe:county=26807229", 
+          "woe:county=26807232"
+        ], 
+        "sw_latitude": 14.823
       }, 
       "id": 2345572
     }

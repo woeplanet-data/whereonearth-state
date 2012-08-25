@@ -1269,22 +1269,30 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 40.136852729070256, 
+        "ne:RegionVar": null, 
         "ne:Shape_Area": 1.57463251059, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1895", 
-        "ne:Region_C_3": null, 
+        "ne:MAP_COLOR": 7, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
-        "ne:ScaleRank": 3, 
-        "alias_DAN_Q": [
-          "Calabrien"
+        "children": [
+          "woe:county=12591839", 
+          "woe:county=12591833", 
+          "woe:county=15022638", 
+          "woe:county=12591831", 
+          "woe:county=15022640", 
+          "woe:landfeature=56058415", 
+          "woe:zone=24874082", 
+          "woe:zone=24874084", 
+          "woe:zone=24874094"
         ], 
+        "ne:ScaleRank": 3, 
+        "ne:Area_sqkm": 15127.1, 
         "alias_ITA_V": [
           "Calabria Regione"
         ], 
         "ne:Abbrev": null, 
-        "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
           "CI"
@@ -1299,15 +1307,15 @@
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
-        "sw_latitude": 37.919184475383304, 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 7, 
+        "date_indexed": "2010-12-02T16:24:07Z", 
+        "ne:VertexCou": 311.0, 
+        "ne:VALIDFR_1": "1895", 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Calabre|Calabrie|Kalabrien", 
         "ne:ISO": "ITA", 
-        "ne:TYPE_1": "Regione", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 7.90202645229, 
         "alias_DUT_Q": [
@@ -1318,34 +1326,37 @@
           "Calabrie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:sameAsCity": -99, 
+        "ne:TYPE_1": "Regione", 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 15127.1, 
+        "alias_DAN_Q": [
+          "Calabrien"
+        ], 
         "alias_GER_Q": [
           "Kalabrien"
         ], 
         "woe:id": "7153332", 
-        "name": "Calabria", 
-        "ne:VertexCou": 311.0, 
+        "ne:HASC_1": null, 
+        "lang": "ITA", 
         "adjacent_woeid": [
           7153331
         ], 
-        "ne:HASC_1": null, 
+        "name": "Calabria", 
         "ne:REMARKS_1": "ITF", 
         "ne:CheckMe": 0, 
         "ne_longitude": 17.206629672521444, 
         "longitude": 16.418, 
         "ne:NAME_1": "Calabria", 
         "iso": "IT", 
-        "ne:OBJECTID": 819, 
+        "sw_latitude": 37.919184475383304, 
         "ne:NL_NAME_1": null, 
         "fullname": "Calabria, Italy", 
-        "ne:Region": null, 
-        "ne:NEV_Countr": "Italy", 
-        "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "La Calabre"
-        ]
+        ], 
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Italy", 
+        "ne:OBJECTID": 819, 
+        "ne:sameAsCity": -99
       }, 
       "id": 7153332
     }

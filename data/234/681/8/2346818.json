@@ -38,31 +38,39 @@
           2346820
         ], 
         "name": "Luquillo", 
+        "ne_latitude": 18.39, 
         "hierarchy": [
           "woe:state=2346818", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346818, 
-        "alias_SPA_V": [
-          "Luquillo Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -65.67, 
         "longitude": -65.72, 
         "placetype": "state", 
-        "latitude": 18.339, 
         "sw_longitude": -65.77, 
-        "sw_latitude": 18.288, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346820", 
           "woe:state=2346819", 
           "woe:state=2346817"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.39, 
+        "alias_SPA_V": [
+          "Luquillo Municipios"
+        ], 
+        "latitude": 18.339, 
         "iso": "PR", 
         "fullname": "Luquillo, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806458", 
+          "woe:county=26806459", 
+          "woe:county=26806460", 
+          "woe:county=26806461", 
+          "woe:county=26806462", 
+          "woe:county=26806463"
+        ], 
+        "sw_latitude": 18.288
       }, 
       "id": 2346818
     }

@@ -40,6 +40,7 @@
           20070262
         ], 
         "name": "Lankaran", 
+        "ne_latitude": 39.304, 
         "hierarchy": [
           "woe:state=20070263", 
           "woe:country=23424741", 
@@ -49,9 +50,8 @@
         "ne_longitude": 49.235, 
         "longitude": 48.881, 
         "placetype": "state", 
-        "latitude": 38.94, 
         "iso": "AZ", 
-        "sw_latitude": 38.575, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=20070217", 
           "woe:state=20070262", 
@@ -60,10 +60,19 @@
           "woe:state=20070241"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 39.304, 
+        "latitude": 38.94, 
         "sw_longitude": 48.528, 
         "fullname": "Lankaran, Azerbaijan", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1951871", 
+          "woe:town=1948825", 
+          "woe:town=1948897", 
+          "woe:town=56121509", 
+          "woe:town=1951980", 
+          "woe:town=1950618", 
+          "woe:town=1952045"
+        ], 
+        "sw_latitude": 38.575
       }, 
       "id": 20070263
     }

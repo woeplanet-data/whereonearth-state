@@ -41,21 +41,19 @@
           2346863
         ], 
         "name": "Toa Alta", 
+        "ne_latitude": 18.401, 
         "hierarchy": [
           "woe:state=2346807", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346807, 
-        "alias_SPA_V": [
-          "Toa Alta Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.197, 
         "longitude": -66.258, 
         "placetype": "state", 
-        "latitude": 18.359, 
         "sw_longitude": -66.319, 
-        "sw_latitude": 18.316, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346859", 
           "woe:state=2346862", 
@@ -64,11 +62,24 @@
           "woe:state=2346812", 
           "woe:state=2346863"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.401, 
+        "alias_SPA_V": [
+          "Toa Alta Municipios"
+        ], 
+        "latitude": 18.359, 
         "iso": "PR", 
         "fullname": "Toa Alta, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806752", 
+          "woe:county=26806753", 
+          "woe:county=26806754", 
+          "woe:county=26806755", 
+          "woe:county=26806756", 
+          "woe:county=26806757", 
+          "woe:county=26806758", 
+          "woe:county=26806759", 
+          "woe:county=26806760"
+        ], 
+        "sw_latitude": 18.316
       }, 
       "id": 2346807
     }

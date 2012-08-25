@@ -47,12 +47,19 @@
           "woe:planet=1"
         ], 
         "woeid": 56059374, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -11.08, 
         "longitude": -12.035, 
+        "children": [
+          "woe:county=56059728", 
+          "woe:county=2345593", 
+          "woe:county=56059729", 
+          "woe:county=2345595", 
+          "woe:county=2345601"
+        ], 
         "placetype": "state", 
+        "latitude": 11.722, 
         "iso": "GN", 
-        "date_indexed": "2010-12-02T16:11:50Z", 
+        "sw_latitude": 11.001, 
         "adjacent": [
           "woe:state=56059373", 
           "woe:state=56059379", 
@@ -61,14 +68,14 @@
           "woe:state=56055613", 
           "woe:state=56059375"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 12.443, 
-        "latitude": 11.722, 
         "sw_longitude": -12.99, 
         "fullname": "Lab\u00e9, Guinea", 
         "alias_FRE_S": [
           "Labe"
         ], 
-        "sw_latitude": 11.001
+        "date_indexed": "2010-12-02T16:11:50Z"
       }, 
       "id": 56059374
     }

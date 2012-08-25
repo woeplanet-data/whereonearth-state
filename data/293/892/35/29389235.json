@@ -42,7 +42,7 @@
           29389238
         ], 
         "name": "Kola\u0161in", 
-        "latitude": 42.791, 
+        "ne_latitude": 42.928, 
         "alias_UNK_S": [
           "Kolasin"
         ], 
@@ -56,7 +56,7 @@
           "woe:planet=1"
         ], 
         "iso": "ME", 
-        "date_indexed": "2010-12-02T07:50:42Z", 
+        "sw_latitude": 42.654, 
         "adjacent": [
           "woe:state=29389233", 
           "woe:state=29389228", 
@@ -67,10 +67,14 @@
           "woe:state=29389234"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.928, 
+        "latitude": 42.791, 
         "sw_longitude": 19.22, 
         "fullname": "Kola\u0161in, Montenegro", 
-        "sw_latitude": 42.654
+        "children": [
+          "woe:town=534628", 
+          "woe:town=535339"
+        ], 
+        "date_indexed": "2010-12-02T07:50:42Z"
       }, 
       "id": 29389235
     }

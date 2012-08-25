@@ -43,21 +43,35 @@
           "woe:planet=1"
         ], 
         "woeid": 24549744, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -60.816, 
         "longitude": -60.96, 
         "placetype": "state", 
+        "latitude": 14.523, 
         "iso": "MQ", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
+        "sw_latitude": 14.382, 
         "adjacent": [
           "woe:state=24549745", 
           "woe:state=24549747"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 14.655, 
-        "latitude": 14.523, 
         "sw_longitude": -61.104, 
         "fullname": "Marin, Martinique", 
-        "sw_latitude": 14.382
+        "children": [
+          "woe:county=24551339", 
+          "woe:county=24551345", 
+          "woe:county=24551346", 
+          "woe:county=24551341", 
+          "woe:county=24551349", 
+          "woe:county=24551338", 
+          "woe:county=24551342", 
+          "woe:county=24551347", 
+          "woe:county=24551348", 
+          "woe:county=24551343", 
+          "woe:county=24551344", 
+          "woe:county=24551340"
+        ], 
+        "date_indexed": "2010-12-02T17:06:00Z"
       }, 
       "id": 24549744
     }

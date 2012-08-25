@@ -40,25 +40,7 @@
           2345022, 
           2345024
         ], 
-        "alias_ENG_A": [
-          "SJ"
-        ], 
         "name": "San Juan", 
-        "hierarchy": [
-          "woe:state=2344692", 
-          "woe:country=23424747", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2344692, 
-        "alias_SPA_V": [
-          "S Juan"
-        ], 
-        "ne_longitude": -66.715, 
-        "longitude": -68.648, 
-        "placetype": "state", 
-        "latitude": -30.503, 
-        "sw_longitude": -70.562, 
-        "sw_latitude": -32.632, 
         "adjacent": [
           "woe:state=2345022", 
           "woe:state=2345024", 
@@ -67,11 +49,50 @@
           "woe:state=2344693", 
           "woe:state=2345018"
         ], 
+        "hierarchy": [
+          "woe:state=2344692", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344692, 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -66.715, 
+        "longitude": -68.648, 
         "ne_latitude": -28.377, 
+        "placetype": "state", 
+        "sw_longitude": -70.562, 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "alias_ENG_A": [
+          "SJ"
+        ], 
+        "alias_SPA_V": [
+          "S Juan"
+        ], 
+        "latitude": -30.503, 
         "iso": "AR", 
         "fullname": "San Juan, Argentina", 
-        "date_indexed": "2010-12-02T17:40:36Z"
+        "children": [
+          "woe:county=20070923", 
+          "woe:county=20070918", 
+          "woe:county=20070914", 
+          "woe:county=20070916", 
+          "woe:county=20070925", 
+          "woe:county=20070919", 
+          "woe:county=20070913", 
+          "woe:county=20070924", 
+          "woe:county=20070908", 
+          "woe:county=20070920", 
+          "woe:county=20070921", 
+          "woe:county=20070911", 
+          "woe:county=20070775", 
+          "woe:county=20070917", 
+          "woe:county=20070915", 
+          "woe:county=20070922", 
+          "woe:county=20070912", 
+          "woe:county=20070909", 
+          "woe:county=20070910"
+        ], 
+        "sw_latitude": -32.632
       }, 
       "id": 2344692
     }

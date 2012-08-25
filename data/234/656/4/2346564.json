@@ -38,23 +38,20 @@
           2346579, 
           12578036
         ], 
-        "ne_latitude": 41.82, 
-        "name": "Braga", 
-        "adjacent": [
-          "woe:state=12578036", 
-          "woe:state=2346575", 
-          "woe:state=2346578", 
-          "woe:state=2346579"
+        "alias_KOR_Q": [
+          "\ube0c\ub77c\uac00"
         ], 
+        "name": "Braga", 
         "hierarchy": [
           "woe:state=2346564", 
           "woe:country=23424925", 
           "woe:planet=1"
         ], 
-        "woeid": 2346564, 
+        "ne_latitude": 41.82, 
         "alias_JPN_Q": [
           "\u30d7\u30e9\u30ac"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -7.811, 
         "longitude": -8.311, 
         "alias_CHI_Q": [
@@ -62,15 +59,34 @@
         ], 
         "placetype": "state", 
         "iso": "PT", 
-        "sw_latitude": 41.319, 
-        "alias_KOR_Q": [
-          "\ube0c\ub77c\uac00"
+        "date_indexed": "2010-12-02T09:58:14Z", 
+        "adjacent": [
+          "woe:state=12578036", 
+          "woe:state=2346575", 
+          "woe:state=2346578", 
+          "woe:state=2346579"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2346564, 
         "latitude": 41.57, 
         "sw_longitude": -8.811, 
         "fullname": "Braga, Portugal", 
-        "date_indexed": "2010-12-02T09:58:14Z"
+        "children": [
+          "woe:county=12596650", 
+          "woe:county=12596439", 
+          "woe:county=12596498", 
+          "woe:county=12596444", 
+          "woe:county=12596517", 
+          "woe:county=12596521", 
+          "woe:county=12596469", 
+          "woe:county=12596437", 
+          "woe:county=12596545", 
+          "woe:county=12596656", 
+          "woe:county=12596452", 
+          "woe:county=12596440", 
+          "woe:county=12596470", 
+          "woe:county=23388414"
+        ], 
+        "sw_latitude": 41.319
       }, 
       "id": 2346564
     }

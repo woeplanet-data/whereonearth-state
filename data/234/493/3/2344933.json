@@ -43,6 +43,7 @@
           20070095
         ], 
         "name": "Kandal", 
+        "ne_latitude": 11.889, 
         "hierarchy": [
           "woe:state=2344933", 
           "woe:country=23424776", 
@@ -52,9 +53,8 @@
         "ne_longitude": 105.281, 
         "longitude": 104.971, 
         "placetype": "state", 
-        "latitude": 11.4, 
         "iso": "KH", 
-        "sw_latitude": 10.911, 
+        "date_indexed": "2010-12-02T16:11:17Z", 
         "adjacent": [
           "woe:state=2347719", 
           "woe:state=2347722", 
@@ -66,10 +66,23 @@
           "woe:state=2344944"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 11.889, 
+        "latitude": 11.4, 
         "sw_longitude": 104.662, 
         "fullname": "Kandal, Cambodia", 
-        "date_indexed": "2010-12-02T16:11:17Z"
+        "children": [
+          "woe:county=56063276", 
+          "woe:county=56063405", 
+          "woe:county=56063277", 
+          "woe:county=56063278", 
+          "woe:county=56063279", 
+          "woe:county=56063280", 
+          "woe:county=56063281", 
+          "woe:county=56063282", 
+          "woe:county=56063283", 
+          "woe:county=56063284", 
+          "woe:county=56063285"
+        ], 
+        "sw_latitude": 10.911
       }, 
       "id": 2344933
     }

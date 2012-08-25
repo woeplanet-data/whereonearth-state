@@ -782,6 +782,7 @@
         "alias_SWE_Q": [
           "V\u00e4stra Makedonien"
         ], 
+        "ne:NL_NAME_1": "??t???? ?a?ed???a?", 
         "alias_POL_Q": [
           "Macedonia Zachodnia"
         ], 
@@ -797,7 +798,7 @@
         "ne:Shape_Area": 1.03007715375, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1987", 
+        "ne:MAP_COLOR": 9, 
         "alias_POR_Q": [
           "Maced\u00f4nia Ocidental"
         ], 
@@ -809,17 +810,23 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "GRC", 
+        "children": [
+          "woe:county=12591096", 
+          "woe:county=12591094", 
+          "woe:county=12591093", 
+          "woe:county=12591095", 
+          "woe:zone=24873681", 
+          "woe:zone=24873685"
+        ], 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u897f\u9a6c\u5176\u987f"
         ], 
-        "alias_SPA_Q": [
-          "Macedonia Occidental"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Macedonia Occidentale"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 2892, 
         "alias_ARA_Q": [
           "\u0645\u0642\u062f\u0648\u0646\u064a\u0627 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
         ], 
@@ -829,9 +836,10 @@
         "alias_SWE_S": [
           "Vaestra Makedonien"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Macedonia Occidental"
+        ], 
         "alias_FIN_Q": [
           "L\u00e4nsi-Makedonia"
         ], 
@@ -856,9 +864,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 2892, 
+        "ne:VertexCou": 175.0, 
+        "ne:VALIDFR_1": "1987", 
+        "ne:DataRank": 6, 
         "ne:Postal": "MW", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Macedonia West", 
@@ -874,15 +882,15 @@
           "West-Macedonie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Diamerismata", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 9718.7, 
         "alias_GER_Q": [
           "Westmakedonien"
         ], 
         "woe:id": "12577881", 
-        "name": "West Macedonia", 
-        "ne:VertexCou": 175.0, 
+        "ne:HASC_1": "GR.MW", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           12577883, 
           12577884, 
@@ -892,15 +900,13 @@
           24550855
         ], 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": "GR.MW", 
+        "name": "West Macedonia", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "alias_UNK_S": [
           "Bati Makedonya"
         ], 
-        "alias_HUN_S": [
-          "Nyugat-Makedonia"
-        ], 
+        "ne:TYPE_1": "Diamerismata", 
         "alias_UNK_Q": [
           "Katundan Nga Macedonia"
         ], 
@@ -909,16 +915,18 @@
         ], 
         "ne_longitude": 22.171081170759464, 
         "longitude": 21.486, 
-        "alias_FRE_S": [
-          "Macedoine-Occidentale"
-        ], 
+        "ne:NEV_Countr": "Greece", 
         "ne:NAME_1": "Dytiki Makedonia", 
         "iso": "GR", 
         "sw_latitude": 39.79519399660569, 
-        "ne:NL_NAME_1": "??t???? ?a?ed???a?", 
+        "alias_HUN_S": [
+          "Nyugat-Makedonia"
+        ], 
         "fullname": "West Macedonia, Dytiki Makedonia, Greece", 
         "ne:Region": null, 
-        "ne:NEV_Countr": "Greece", 
+        "alias_FRE_S": [
+          "Macedoine-Occidentale"
+        ], 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Mac\u00e9doine-Occidentale"

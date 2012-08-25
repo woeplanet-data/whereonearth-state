@@ -1710,14 +1710,33 @@
         "ne:Shape_Area": 0.388730076449, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
-        "ne:VALIDTO_1": "Present", 
-        "alias_GER_V": [
-          "Waadt"
+        "children": [
+          "woe:county=12593122", 
+          "woe:county=12593158", 
+          "woe:county=12593180", 
+          "woe:county=12593240", 
+          "woe:county=12593169", 
+          "woe:county=12593219", 
+          "woe:county=12593262", 
+          "woe:county=12593172", 
+          "woe:county=12593237", 
+          "woe:county=12593230", 
+          "woe:county=12593221", 
+          "woe:county=12593167", 
+          "woe:county=12593120", 
+          "woe:county=12593234", 
+          "woe:county=12593241", 
+          "woe:county=12593236", 
+          "woe:county=12593132", 
+          "woe:county=12593218", 
+          "woe:county=12593235"
         ], 
-        "ne:DataRank": 7, 
+        "ne:VALIDTO_1": "Present", 
+        "ne:Area_sqkm": 3312.7, 
+        "ne:OBJECTID": 3422, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Vaud"
@@ -1739,9 +1758,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "sw_latitude": 46.18986827240292, 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 3422, 
+        "ne:VertexCou": 30.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 7, 
         "ne:Postal": "VD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Vad|Waadt|Waadtland", 
@@ -1755,13 +1774,15 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 9, 
-        "ne:Area_sqkm": 3312.7, 
+        "alias_GER_V": [
+          "Waadt"
+        ], 
         "alias_GER_Q": [
           "Kanton Waadt"
         ], 
         "woe:id": "2347105", 
-        "name": "Canton de Vaud", 
-        "ne:VertexCou": 30.0, 
+        "ne:HASC_1": "CH.VD", 
+        "lang": "FRE", 
         "adjacent_woeid": [
           2347087, 
           2347088, 
@@ -1771,7 +1792,7 @@
           7153317, 
           7153329
         ], 
-        "ne:HASC_1": "CH.VD", 
+        "name": "Canton de Vaud", 
         "ne:REMARKS_1": null, 
         "alias_UNK_Q": [
           "Vad"

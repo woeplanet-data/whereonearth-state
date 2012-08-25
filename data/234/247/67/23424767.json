@@ -32,27 +32,27 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "state", 
+        "alias_SPA_Q": [
+          "Isla Navassa"
+        ], 
         "name": "Navassa Island", 
+        "ne_latitude": 18.421, 
         "hierarchy": [
           "woe:state=23424767", 
           "woe:country=28289407", 
           "woe:planet=1"
         ], 
         "woeid": 23424767, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -75.0, 
         "longitude": -75.014, 
-        "alias_SPA_Q": [
-          "Isla Navassa"
-        ], 
-        "latitude": 18.409, 
-        "iso": "UM", 
-        "sw_latitude": 18.397, 
-        "ne_latitude": 18.421, 
+        "placetype": "state", 
         "alias_FRE_V": [
           "Navassa"
         ], 
+        "iso": "UM", 
+        "date_indexed": "2010-12-02T16:52:36Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.409, 
         "sw_longitude": -75.028, 
         "fullname": "Navassa Island, United States Minor Outlying Islands", 
         "alias_GER_Q": [
@@ -61,7 +61,7 @@
         "alias_FRE_S": [
           "Ile Navassa"
         ], 
-        "date_indexed": "2010-12-02T16:52:36Z", 
+        "sw_latitude": 18.397, 
         "alias_FRE_Q": [
           "\u00cele Navassa"
         ]

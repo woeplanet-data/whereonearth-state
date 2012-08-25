@@ -54,10 +54,10 @@
         "woeid": 20070063, 
         "ne_longitude": 26.173, 
         "longitude": 25.624, 
+        "ne_latitude": 43.655, 
         "placetype": "state", 
-        "latitude": 43.217, 
         "iso": "BG", 
-        "sw_latitude": 42.779, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=20070062", 
           "woe:state=20070064", 
@@ -69,10 +69,22 @@
           "woe:state=20070072"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 43.655, 
+        "latitude": 43.217, 
         "sw_longitude": 25.075, 
         "fullname": "Veliko Turnovo, Bulgaria", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:county=55873709", 
+          "woe:county=55873865", 
+          "woe:county=55873951", 
+          "woe:county=55873802", 
+          "woe:county=55873932", 
+          "woe:county=55873722", 
+          "woe:county=55873789", 
+          "woe:county=55873917", 
+          "woe:county=55873767", 
+          "woe:county=55873900"
+        ], 
+        "sw_latitude": 42.779
       }, 
       "id": 20070063
     }

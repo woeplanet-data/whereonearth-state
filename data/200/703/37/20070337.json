@@ -39,6 +39,7 @@
           20070344
         ], 
         "name": "Gagaifomauga", 
+        "ne_latitude": -13.439, 
         "hierarchy": [
           "woe:state=20070337", 
           "woe:country=23424992", 
@@ -48,9 +49,8 @@
         "ne_longitude": -172.38, 
         "longitude": -172.503, 
         "placetype": "state", 
-        "latitude": -13.525, 
         "iso": "WS", 
-        "sw_latitude": -13.612, 
+        "date_indexed": "2010-12-02T16:50:25Z", 
         "adjacent": [
           "woe:state=20070344", 
           "woe:state=20070343", 
@@ -58,10 +58,14 @@
           "woe:state=20070336"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -13.439, 
+        "latitude": -13.525, 
         "sw_longitude": -172.627, 
         "fullname": "Gagaifomauga, Samoa", 
-        "date_indexed": "2010-12-02T16:50:25Z"
+        "children": [
+          "woe:town=980572", 
+          "woe:town=980856"
+        ], 
+        "sw_latitude": -13.612
       }, 
       "id": 20070337
     }

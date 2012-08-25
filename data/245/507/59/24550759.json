@@ -40,6 +40,7 @@
           24550834, 
           24550855
         ], 
+        "ne_latitude": 41.402, 
         "name": "Demir Hisar", 
         "alias_ENG_P": [
           "Demir Hisar Municipality"
@@ -56,9 +57,8 @@
         "longitude": 21.099, 
         "ne_longitude": 21.263, 
         "placetype": "state", 
-        "latitude": 41.269, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.136, 
         "adjacent": [
           "woe:state=24550747", 
           "woe:state=24550746", 
@@ -68,10 +68,17 @@
           "woe:state=24550855"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.402, 
+        "latitude": 41.269, 
         "sw_longitude": 20.935, 
         "fullname": "Demir Hisar, Demir Hisar Municipality, Macedonia", 
-        "sw_latitude": 41.136
+        "children": [
+          "woe:town=24220868", 
+          "woe:town=482563", 
+          "woe:town=482962", 
+          "woe:town=482978", 
+          "woe:town=483296"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550759
     }

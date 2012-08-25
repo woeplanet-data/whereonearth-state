@@ -50,17 +50,17 @@
           "woe:planet=1"
         ], 
         "woeid": 56013536, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 39.154, 
         "longitude": 36.133, 
         "placetype": "state", 
+        "latitude": 5.903, 
         "iso": "ET", 
-        "date_indexed": "2010-12-02T08:52:12Z", 
+        "sw_latitude": 4.44, 
         "alias_ENG_A": [
           "SNNPR"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 8.517, 
-        "latitude": 5.903, 
         "sw_longitude": 34.529, 
         "fullname": "Southern Nations Nationalities and People's Region, Ethiopia", 
         "adjacent": [
@@ -71,7 +71,23 @@
           "woe:state=2345943", 
           "woe:state=20069901"
         ], 
-        "sw_latitude": 4.44
+        "children": [
+          "woe:county=56017409", 
+          "woe:county=56017410", 
+          "woe:county=56017411", 
+          "woe:county=56017434", 
+          "woe:county=56017413", 
+          "woe:county=56017414", 
+          "woe:county=56017415", 
+          "woe:county=56017416", 
+          "woe:county=56017417", 
+          "woe:county=56017418", 
+          "woe:county=56017419", 
+          "woe:county=56017412", 
+          "woe:county=56017420", 
+          "woe:county=56017421"
+        ], 
+        "date_indexed": "2010-12-02T08:52:12Z"
       }, 
       "id": 56013536
     }

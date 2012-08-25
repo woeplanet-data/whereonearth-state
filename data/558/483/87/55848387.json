@@ -48,12 +48,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55848387, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.328, 
         "longitude": 15.141, 
         "placetype": "state", 
+        "latitude": 46.476, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 46.387, 
         "adjacent": [
           "woe:state=55848343", 
           "woe:state=55848347", 
@@ -63,11 +63,15 @@
           "woe:state=55848389", 
           "woe:state=55848395"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.566, 
-        "latitude": 46.476, 
         "sw_longitude": 14.953, 
         "fullname": "Slovenj Gradec, Slovenia", 
-        "sw_latitude": 46.387
+        "children": [
+          "woe:county=12591583", 
+          "woe:county=12591619"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848387
     }

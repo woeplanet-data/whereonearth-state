@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 24.419, 
         "name": "Spanish Wells", 
         "hierarchy": [
           "woe:state=24551256", 
@@ -39,17 +40,25 @@
           "woe:planet=1"
         ], 
         "woeid": 24551256, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -77.68, 
         "longitude": -77.875, 
         "placetype": "state", 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "ne_latitude": 24.419, 
+        "sw_latitude": 24.154, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 24.209, 
         "sw_longitude": -77.99, 
         "fullname": "Spanish Wells, The Bahamas", 
-        "sw_latitude": 24.154
+        "children": [
+          "woe:island=12481300", 
+          "woe:island=12481394", 
+          "woe:island=12481433", 
+          "woe:island=12481503", 
+          "woe:island=12481519", 
+          "woe:island=12481627", 
+          "woe:island=12481664"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551256
     }

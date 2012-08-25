@@ -31,13 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FIN", 
-        "adjacent_woeid": [
-          29389249, 
-          29389250, 
-          29389251, 
-          29389255
-        ], 
         "alias_SWE_V": [
           "Nyland"
         ], 
@@ -53,27 +46,48 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 60.841, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 25.526, 
-        "longitude": 24.168, 
         "placetype": "state", 
+        "children": [
+          "woe:historicalcounty=12591023", 
+          "woe:historicalcounty=12590997", 
+          "woe:historicalcounty=12591014", 
+          "woe:historicalcounty=12591020", 
+          "woe:landfeature=29358056", 
+          "woe:landfeature=29358052", 
+          "woe:landfeature=29358036", 
+          "woe:zone=24868285", 
+          "woe:zone=24868291", 
+          "woe:county=56120851", 
+          "woe:county=56120878", 
+          "woe:drainage=29355677"
+        ], 
+        "woeid": 29389247, 
         "sw_longitude": 22.809, 
-        "date_indexed": "2010-12-02T16:39:41Z", 
         "alias_FIN_V": [
           "Uudenmaan maakuntana"
         ], 
-        "woeid": 29389247, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 60.324, 
-        "iso": "FI", 
-        "fullname": "Uudenmaan maakunta, Southern Finland, Uudenmaan maakunta, Finland", 
+        "sw_latitude": 59.765, 
         "adjacent": [
           "woe:state=29389251", 
           "woe:state=29389249", 
           "woe:state=29389255", 
           "woe:state=29389250"
         ], 
-        "sw_latitude": 59.765, 
-        "name": "Uudenmaan maakunta"
+        "lang": "FIN", 
+        "adjacent_woeid": [
+          29389249, 
+          29389250, 
+          29389251, 
+          29389255
+        ], 
+        "name": "Uudenmaan maakunta", 
+        "ne_longitude": 25.526, 
+        "longitude": 24.168, 
+        "iso": "FI", 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "fullname": "Uudenmaan maakunta, Southern Finland, Uudenmaan maakunta, Finland"
       }, 
       "id": 29389247
     }

@@ -41,6 +41,7 @@
           56190214
         ], 
         "name": "Iganga", 
+        "ne_latitude": 1.093, 
         "hierarchy": [
           "woe:state=20070449", 
           "woe:country=23424974", 
@@ -50,9 +51,8 @@
         "ne_longitude": 33.893, 
         "longitude": 33.55, 
         "placetype": "state", 
-        "latitude": 0.77, 
         "iso": "UG", 
-        "sw_latitude": 0.446, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=20070448", 
           "woe:state=20070417", 
@@ -62,10 +62,15 @@
           "woe:state=56190200"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 1.093, 
+        "latitude": 0.77, 
         "sw_longitude": 33.208, 
         "fullname": "Iganga, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190257", 
+          "woe:county=56190258", 
+          "woe:county=56190259"
+        ], 
+        "sw_latitude": 0.446
       }, 
       "id": 20070449
     }

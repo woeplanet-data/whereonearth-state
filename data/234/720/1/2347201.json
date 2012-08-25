@@ -50,10 +50,10 @@
         "woeid": 2347201, 
         "ne_longitude": 105.06, 
         "longitude": 104.739, 
+        "ne_latitude": 16.283, 
         "placetype": "state", 
-        "latitude": 15.91, 
         "iso": "TH", 
-        "sw_latitude": 15.537, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347197", 
           "woe:state=2346008", 
@@ -61,10 +61,19 @@
           "woe:state=2347195"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 16.283, 
+        "latitude": 15.91, 
         "sw_longitude": 104.418, 
         "fullname": "Amnat Charoen, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341214", 
+          "woe:county=28341216", 
+          "woe:county=28341219", 
+          "woe:county=28341220", 
+          "woe:county=28341217", 
+          "woe:county=28341215", 
+          "woe:county=28341218"
+        ], 
+        "sw_latitude": 15.537
       }, 
       "id": 2347201
     }

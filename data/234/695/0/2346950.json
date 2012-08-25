@@ -52,10 +52,10 @@
         "woeid": 2346950, 
         "ne_longitude": 41.225, 
         "longitude": 39.115, 
+        "ne_latitude": 31.676, 
         "placetype": "state", 
-        "latitude": 29.923, 
         "iso": "SA", 
-        "sw_latitude": 28.17, 
+        "date_indexed": "2010-12-02T09:34:37Z", 
         "adjacent": [
           "woe:state=20070289", 
           "woe:state=2346961", 
@@ -65,10 +65,16 @@
           "woe:state=2346962"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 31.676, 
+        "latitude": 29.923, 
         "sw_longitude": 37.006, 
         "fullname": "Al Jawf, Saudi Arabia", 
-        "date_indexed": "2010-12-02T09:34:37Z"
+        "children": [
+          "woe:county=56120098", 
+          "woe:county=56120097", 
+          "woe:county=56120211", 
+          "woe:historicalcounty=55948208"
+        ], 
+        "sw_latitude": 28.17
       }, 
       "id": 2346950
     }

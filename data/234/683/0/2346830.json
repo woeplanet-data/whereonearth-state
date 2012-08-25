@@ -40,21 +40,19 @@
           2346831
         ], 
         "name": "Salinas", 
+        "ne_latitude": 18.096, 
         "hierarchy": [
           "woe:state=2346830", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346830, 
-        "alias_SPA_V": [
-          "Salinas Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.166, 
         "longitude": -66.254, 
         "placetype": "state", 
-        "latitude": 18.013, 
         "sw_longitude": -66.343, 
-        "sw_latitude": 17.913, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346790", 
           "woe:state=2346792", 
@@ -62,11 +60,21 @@
           "woe:state=2346829", 
           "woe:state=2346831"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.096, 
+        "alias_SPA_V": [
+          "Salinas Municipios"
+        ], 
+        "latitude": 18.013, 
         "iso": "PR", 
         "fullname": "Salinas, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806666", 
+          "woe:county=26806667", 
+          "woe:county=26806668", 
+          "woe:county=26806669", 
+          "woe:county=26806670", 
+          "woe:county=26806671"
+        ], 
+        "sw_latitude": 17.913
       }, 
       "id": 2346830
     }

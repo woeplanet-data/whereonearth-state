@@ -41,6 +41,7 @@
           24550801, 
           24550840
         ], 
+        "ne_latitude": 41.515, 
         "name": "Kavadarci", 
         "alias_ENG_P": [
           "Kavadarci Municipality"
@@ -57,9 +58,8 @@
         "longitude": 21.993, 
         "ne_longitude": 22.273, 
         "placetype": "state", 
-        "latitude": 41.303, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.091, 
         "adjacent": [
           "woe:state=12577884", 
           "woe:state=24550760", 
@@ -70,10 +70,20 @@
           "woe:state=24550754"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.515, 
+        "latitude": 41.303, 
         "sw_longitude": 21.713, 
         "fullname": "Kavadarci, Kavadarci Municipality, Macedonia", 
-        "sw_latitude": 41.091
+        "children": [
+          "woe:town=482011", 
+          "woe:town=482271", 
+          "woe:town=482311", 
+          "woe:town=482364", 
+          "woe:town=482501", 
+          "woe:town=482862", 
+          "woe:town=482976", 
+          "woe:town=483169"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550774
     }

@@ -39,7 +39,7 @@
           29389558
         ], 
         "name": "Tiran\u00eb", 
-        "latitude": 41.255, 
+        "ne_latitude": 41.511, 
         "alias_UNK_S": [
           "Tirane"
         ], 
@@ -53,7 +53,7 @@
           "woe:planet=1"
         ], 
         "iso": "AL", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 41.0, 
         "adjacent": [
           "woe:state=29389555", 
           "woe:state=29389556", 
@@ -61,10 +61,14 @@
           "woe:state=29389558"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.511, 
+        "latitude": 41.255, 
         "sw_longitude": 19.437, 
         "fullname": "Tiran\u00eb, Albania", 
-        "sw_latitude": 41.0
+        "children": [
+          "woe:county=20069942", 
+          "woe:county=20069963"
+        ], 
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 29389564
     }

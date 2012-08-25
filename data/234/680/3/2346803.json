@@ -43,21 +43,19 @@
           2346862
         ], 
         "name": "Orocovis", 
+        "ne_latitude": 18.294, 
         "hierarchy": [
           "woe:state=2346803", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346803, 
-        "alias_SPA_V": [
-          "Orocovis Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.35, 
         "longitude": -66.449, 
         "placetype": "state", 
-        "latitude": 18.221, 
         "sw_longitude": -66.547, 
-        "sw_latitude": 18.147, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346791", 
           "woe:state=2346793", 
@@ -68,11 +66,32 @@
           "woe:state=2346802", 
           "woe:state=2346809"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.294, 
+        "alias_SPA_V": [
+          "Orocovis Municipios"
+        ], 
+        "latitude": 18.221, 
         "iso": "PR", 
         "fullname": "Orocovis, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806554", 
+          "woe:county=26806555", 
+          "woe:county=26806556", 
+          "woe:county=26806557", 
+          "woe:county=26806558", 
+          "woe:county=26806559", 
+          "woe:county=26806560", 
+          "woe:county=26806561", 
+          "woe:county=26806562", 
+          "woe:county=26806563", 
+          "woe:county=26806564", 
+          "woe:county=26806565", 
+          "woe:county=26806567", 
+          "woe:county=26806566", 
+          "woe:county=26806568", 
+          "woe:county=26806569", 
+          "woe:county=26806570"
+        ], 
+        "sw_latitude": 18.147
       }, 
       "id": 2346803
     }

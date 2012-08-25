@@ -51,10 +51,10 @@
         "woeid": 2347166, 
         "ne_longitude": 100.651, 
         "longitude": 100.167, 
+        "ne_latitude": 19.736, 
         "placetype": "state", 
-        "latitude": 19.272, 
         "iso": "TH", 
-        "sw_latitude": 18.807, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347130", 
           "woe:state=2347133", 
@@ -63,10 +63,22 @@
           "woe:state=2346010"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 19.736, 
+        "latitude": 19.272, 
         "sw_longitude": 99.683, 
         "fullname": "Phayao, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341731", 
+          "woe:county=28340885", 
+          "woe:county=28340887", 
+          "woe:county=28340888", 
+          "woe:county=28340886", 
+          "woe:county=28340889", 
+          "woe:county=28340884", 
+          "woe:county=28341729", 
+          "woe:county=28340883", 
+          "woe:landfeature=56057318"
+        ], 
+        "sw_latitude": 18.807
       }, 
       "id": 2347166
     }

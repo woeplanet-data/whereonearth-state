@@ -31,23 +31,8 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u6e05\u8fc8"
-        ], 
         "alias_ENG_V": [
           "Changwat Chiang Mai"
-        ], 
-        "alias_KOR_Q": [
-          "\uce58\uc559\ub9c8\uc774"
-        ], 
-        "name": "Chiang Mai", 
-        "adjacent_woeid": [
-          2344820, 
-          2347128, 
-          2347130, 
-          2347132, 
-          2347133, 
-          2347135
         ], 
         "hierarchy": [
           "woe:state=2347129", 
@@ -55,14 +40,51 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 20.147, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\uce58\uc559\ub9c8\uc774"
+        ], 
+        "children": [
+          "woe:county=28340808", 
+          "woe:county=28340810", 
+          "woe:county=28340816", 
+          "woe:county=28340817", 
+          "woe:county=28340826", 
+          "woe:county=28341728", 
+          "woe:county=28340807", 
+          "woe:county=28340821", 
+          "woe:county=28340814", 
+          "woe:county=28340806", 
+          "woe:county=28340815", 
+          "woe:county=28340827", 
+          "woe:county=28340823", 
+          "woe:county=28340812", 
+          "woe:county=28340819", 
+          "woe:county=28340822", 
+          "woe:county=28340813", 
+          "woe:county=28340809", 
+          "woe:county=28340818", 
+          "woe:county=28340824", 
+          "woe:county=28340820", 
+          "woe:county=28340825", 
+          "woe:county=28341727", 
+          "woe:county=28340811", 
+          "woe:landfeature=56057312", 
+          "woe:landfeature=56057319", 
+          "woe:landfeature=56057364", 
+          "woe:landfeature=56057374", 
+          "woe:landfeature=56057396", 
+          "woe:landfeature=56057397", 
+          "woe:landfeature=56057420"
+        ], 
+        "alias_CHI_Q": [
+          "\u6e05\u8fc8"
+        ], 
+        "woeid": 2347129, 
         "alias_JPN_Q": [
           "\u30c1\u30a2\u30f3\u30de\u30a4"
         ], 
-        "ne_longitude": 99.573, 
-        "longitude": 98.791, 
-        "placetype": "state", 
         "sw_longitude": 98.009, 
-        "sw_latitude": 17.272, 
         "adjacent": [
           "woe:state=2347130", 
           "woe:state=2347133", 
@@ -73,11 +95,22 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 18.71, 
-        "iso": "TH", 
-        "fullname": "Chiang Mai, Thailand", 
-        "woeid": 2347129, 
         "date_indexed": "2010-12-02T17:04:11Z", 
-        "lang": "ENG"
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344820, 
+          2347128, 
+          2347130, 
+          2347132, 
+          2347133, 
+          2347135
+        ], 
+        "name": "Chiang Mai", 
+        "ne_longitude": 99.573, 
+        "longitude": 98.791, 
+        "iso": "TH", 
+        "sw_latitude": 17.272, 
+        "fullname": "Chiang Mai, Thailand"
       }, 
       "id": 2347129
     }

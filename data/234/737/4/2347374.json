@@ -47,18 +47,23 @@
         "woeid": 2347374, 
         "ne_longitude": 39.547, 
         "longitude": 39.287, 
+        "ne_latitude": -6.612, 
         "placetype": "state", 
-        "latitude": -6.811, 
         "iso": "TZ", 
-        "sw_latitude": -7.009, 
+        "date_indexed": "2010-12-02T12:15:58Z", 
         "adjacent": [
           "woe:state=2347353"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -6.612, 
+        "latitude": -6.811, 
         "sw_longitude": 39.143, 
         "fullname": "Dar es Salaam, Tanzania", 
-        "date_indexed": "2010-12-02T12:15:58Z"
+        "children": [
+          "woe:county=56025105", 
+          "woe:county=56025127", 
+          "woe:county=56025208"
+        ], 
+        "sw_latitude": -7.009
       }, 
       "id": 2347374
     }

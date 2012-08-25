@@ -41,6 +41,7 @@
           55927046
         ], 
         "name": "Az Zahirah", 
+        "ne_latitude": 24.14, 
         "hierarchy": [
           "woe:state=2346255", 
           "woe:country=23424898", 
@@ -50,9 +51,8 @@
         "ne_longitude": 56.875, 
         "longitude": 56.041, 
         "placetype": "state", 
-        "latitude": 23.405, 
         "iso": "OM", 
-        "sw_latitude": 21.87, 
+        "date_indexed": "2010-12-02T09:35:38Z", 
         "adjacent": [
           "woe:state=2347109", 
           "woe:state=2346261", 
@@ -62,13 +62,18 @@
           "woe:state=55927046"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 24.14, 
+        "latitude": 23.405, 
         "sw_longitude": 55.207, 
         "fullname": "Az Zahirah, Oman", 
         "alias_ARA_V": [
           "Ad Dhahirah"
         ], 
-        "date_indexed": "2010-12-02T09:35:38Z"
+        "children": [
+          "woe:county=55927047", 
+          "woe:county=55927077", 
+          "woe:county=55927057"
+        ], 
+        "sw_latitude": 21.87
       }, 
       "id": 2346255
     }

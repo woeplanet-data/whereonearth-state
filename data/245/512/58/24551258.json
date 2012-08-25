@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 24.117, 
         "name": "Black Point", 
         "hierarchy": [
           "woe:state=24551258", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24551258, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.316, 
         "longitude": -76.365, 
         "placetype": "state", 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "ne_latitude": 24.117, 
+        "sw_latitude": 23.974, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 24.045, 
         "sw_longitude": -76.414, 
         "fullname": "Black Point, The Bahamas", 
-        "sw_latitude": 23.974
+        "children": [
+          "woe:island=12481407"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551258
     }

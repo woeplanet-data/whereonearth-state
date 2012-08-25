@@ -40,19 +40,21 @@
           2345104
         ], 
         "name": "Ouham-Pend\u00e9", 
+        "ne_latitude": 7.88, 
         "hierarchy": [
           "woe:state=2345100", 
           "woe:country=23424792", 
           "woe:planet=1"
         ], 
         "woeid": 2345100, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 17.132, 
         "longitude": 16.039, 
         "placetype": "state", 
-        "latitude": 6.707, 
+        "alias_FRE_V": [
+          "Ouham-Pende"
+        ], 
         "iso": "CF", 
-        "sw_latitude": 5.533, 
+        "date_indexed": "2010-12-02T17:43:23Z", 
         "adjacent": [
           "woe:state=2345038", 
           "woe:state=2345097", 
@@ -60,13 +62,19 @@
           "woe:state=2345104", 
           "woe:state=2345099"
         ], 
-        "ne_latitude": 7.88, 
-        "alias_FRE_V": [
-          "Ouham-Pende"
-        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 6.707, 
         "sw_longitude": 14.945, 
         "fullname": "Ouham-Pend\u00e9, Central African Republic", 
-        "date_indexed": "2010-12-02T17:43:23Z"
+        "children": [
+          "woe:county=55998351", 
+          "woe:county=55998354", 
+          "woe:county=55998353", 
+          "woe:county=55998350", 
+          "woe:county=55998352", 
+          "woe:county=55998337"
+        ], 
+        "sw_latitude": 5.533
       }, 
       "id": 2345100
     }

@@ -40,6 +40,7 @@
           20070147
         ], 
         "name": "Nkhotakota", 
+        "ne_latitude": -12.161, 
         "hierarchy": [
           "woe:state=20070129", 
           "woe:country=23424889", 
@@ -49,9 +50,8 @@
         "ne_longitude": 34.561, 
         "longitude": 34.158, 
         "placetype": "state", 
-        "latitude": -12.834, 
         "iso": "MW", 
-        "sw_latitude": -13.507, 
+        "date_indexed": "2010-12-02T17:40:22Z", 
         "adjacent": [
           "woe:state=20070128", 
           "woe:state=20070127", 
@@ -60,10 +60,15 @@
           "woe:state=20070133"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -12.161, 
+        "latitude": -12.834, 
         "sw_longitude": 33.754, 
         "fullname": "Nkhotakota, Malawi", 
-        "date_indexed": "2010-12-02T17:40:22Z"
+        "children": [
+          "woe:town=1366507", 
+          "woe:town=1500910", 
+          "woe:town=1368783"
+        ], 
+        "sw_latitude": -13.507
       }, 
       "id": 20070129
     }

@@ -36,6 +36,7 @@
           2345694
         ], 
         "name": "Hafnarfjordur", 
+        "ne_latitude": 64.074, 
         "hierarchy": [
           "woe:state=20070102", 
           "woe:country=23424845", 
@@ -45,17 +46,19 @@
         "ne_longitude": -21.913, 
         "longitude": -21.941, 
         "placetype": "state", 
-        "latitude": 64.063, 
         "iso": "IS", 
-        "sw_latitude": 64.052, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345694"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 64.074, 
+        "latitude": 64.063, 
         "sw_longitude": -21.969, 
         "fullname": "Hafnarfjordur, Iceland", 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "children": [
+          "woe:town=980167"
+        ], 
+        "sw_latitude": 64.052
       }, 
       "id": 20070102
     }

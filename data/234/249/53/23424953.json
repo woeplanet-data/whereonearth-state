@@ -32,24 +32,29 @@
       "type": "Feature", 
       "properties": {
         "lang": "NOR", 
-        "ne_latitude": 80.834, 
         "name": "Svalbard", 
         "hierarchy": [
           "woe:state=23424953", 
           "woe:country=28289413", 
           "woe:planet=1"
         ], 
-        "woeid": 23424953, 
+        "ne_latitude": 80.834, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 36.815, 
         "longitude": 16.097, 
         "placetype": "state", 
         "iso": "SJ", 
-        "sw_latitude": 74.346, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:58:18Z", 
+        "woeid": 23424953, 
         "latitude": 78.316, 
         "sw_longitude": 10.491, 
         "fullname": "Svalbard, Svalbard and Jan Mayen", 
-        "date_indexed": "2010-12-02T17:58:18Z"
+        "children": [
+          "woe:county=24549928", 
+          "woe:county=24549926", 
+          "woe:county=24549927"
+        ], 
+        "sw_latitude": 74.346
       }, 
       "id": 23424953
     }

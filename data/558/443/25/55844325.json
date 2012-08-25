@@ -45,23 +45,27 @@
           "woe:planet=1"
         ], 
         "woeid": 55844325, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 25.313, 
         "longitude": 25.222, 
         "placetype": "state", 
+        "latitude": 56.65, 
         "iso": "LV", 
-        "date_indexed": "2010-12-02T08:49:33Z", 
+        "sw_latitude": 56.587, 
         "adjacent": [
           "woe:state=56190592", 
           "woe:state=56190513", 
           "woe:state=55844512", 
           "woe:state=56190566"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 56.712, 
-        "latitude": 56.65, 
         "sw_longitude": 25.13, 
         "fullname": "Aizkraukles Novads, Aizjrayjkes Rajons, Aizkraukle Novads, Latvia", 
-        "sw_latitude": 56.587
+        "children": [
+          "woe:county=55844484", 
+          "woe:county=56190463"
+        ], 
+        "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 55844325
     }

@@ -482,17 +482,20 @@
         "ne:Shape_Area": 0.00281369678988, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "LKP"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IND", 
+        "children": [
+          "woe:county=12586478"
+        ], 
         "ne:ScaleRank": 2, 
         "alias_CHI_Q": [
           "\u62c9\u514b\u6c99\u7fa4\u5c9b"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 2443, 
         "alias_JPN_Q": [
           "\u30e9\u30af\u30b7\u30e3\u30c9\u30a6\u30a3\u30fc\u30d7"
         ], 
@@ -509,9 +512,9 @@
         "ne:FIRST_HASC": "IN.KL|IND-KER", 
         "ne:ENGTYPE_1": "Union Territory", 
         "sw_latitude": 8.249470933137104, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 2443, 
+        "ne:VertexCou": 7.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "LD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "\u00cdles Laquedives|Laccadive|Minicoy and Amindivi Islands|Laccadives|Lackadiverna|Lakkadiven|Lakkadi", 
@@ -527,10 +530,10 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 34.1, 
         "woe:id": "2345748", 
-        "name": "Lakshadweep", 
-        "ne:VertexCou": 7.0, 
-        "ne:NL_NAME_1": null, 
         "ne:HASC_1": "IN.LD", 
+        "lang": "ENG", 
+        "ne:NL_NAME_1": null, 
+        "name": "Lakshadweep", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 73.68442264169164, 
         "longitude": 73.641, 

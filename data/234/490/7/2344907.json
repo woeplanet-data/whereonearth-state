@@ -40,6 +40,7 @@
           2344914
         ], 
         "name": "Karuzi", 
+        "ne_latitude": -2.904, 
         "hierarchy": [
           "woe:state=2344907", 
           "woe:country=23424774", 
@@ -49,9 +50,8 @@
         "ne_longitude": 30.351, 
         "longitude": 30.121, 
         "placetype": "state", 
-        "latitude": -3.147, 
         "iso": "BI", 
-        "sw_latitude": -3.39, 
+        "date_indexed": "2010-12-02T08:58:47Z", 
         "adjacent": [
           "woe:state=2344904", 
           "woe:state=2344906", 
@@ -60,10 +60,19 @@
           "woe:state=2344914"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -2.904, 
+        "latitude": -3.147, 
         "sw_longitude": 29.89, 
         "fullname": "Karuzi, Burundi", 
-        "date_indexed": "2010-12-02T08:58:47Z"
+        "children": [
+          "woe:county=56017498", 
+          "woe:county=56017499", 
+          "woe:county=56017500", 
+          "woe:county=56017497", 
+          "woe:county=56017496", 
+          "woe:county=56017501", 
+          "woe:county=56017502"
+        ], 
+        "sw_latitude": -3.39
       }, 
       "id": 2344907
     }

@@ -52,12 +52,12 @@
           "woe:planet=1"
         ], 
         "woeid": 2344935, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.851, 
         "longitude": 106.245, 
-        "ne_latitude": 13.309, 
         "placetype": "state", 
         "iso": "KH", 
-        "sw_latitude": 11.947, 
+        "date_indexed": "2010-12-02T16:11:17Z", 
         "adjacent": [
           "woe:state=20070086", 
           "woe:state=2344928", 
@@ -65,11 +65,18 @@
           "woe:state=2344936", 
           "woe:state=2344942"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.309, 
         "latitude": 12.628, 
         "sw_longitude": 105.652, 
         "fullname": "Krachen, Cambodia", 
-        "date_indexed": "2010-12-02T16:11:17Z"
+        "children": [
+          "woe:county=56063294", 
+          "woe:county=56063295", 
+          "woe:county=56063296", 
+          "woe:county=56063297", 
+          "woe:county=56063298"
+        ], 
+        "sw_latitude": 11.947
       }, 
       "id": 2344935
     }

@@ -38,6 +38,7 @@
           20069893
         ], 
         "name": "Vakaga", 
+        "ne_latitude": 11.008, 
         "hierarchy": [
           "woe:state=2345101", 
           "woe:country=23424792", 
@@ -47,19 +48,22 @@
         "ne_longitude": 23.698, 
         "longitude": 22.261, 
         "placetype": "state", 
-        "latitude": 9.788, 
         "iso": "CF", 
-        "sw_latitude": 8.569, 
+        "date_indexed": "2010-12-02T17:43:23Z", 
         "adjacent": [
           "woe:state=2345089", 
           "woe:state=2345091", 
           "woe:state=20069893"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 11.008, 
+        "latitude": 9.788, 
         "sw_longitude": 20.825, 
         "fullname": "Vakaga, Central African Republic", 
-        "date_indexed": "2010-12-02T17:43:23Z"
+        "children": [
+          "woe:county=55998339", 
+          "woe:county=55998338"
+        ], 
+        "sw_latitude": 8.569
       }, 
       "id": 2345101
     }

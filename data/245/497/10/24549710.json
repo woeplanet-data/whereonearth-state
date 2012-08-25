@@ -45,23 +45,26 @@
           "woe:planet=1"
         ], 
         "woeid": 24549710, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.691, 
         "longitude": 144.667, 
         "placetype": "state", 
+        "latitude": 13.305, 
         "iso": "GU", 
-        "date_indexed": "2010-12-02T18:21:30Z", 
+        "sw_latitude": 13.273, 
         "adjacent": [
           "woe:state=24549713", 
           "woe:state=24549711", 
           "woe:state=24549709", 
           "woe:state=24549712"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 13.337, 
-        "latitude": 13.305, 
         "sw_longitude": 144.643, 
         "fullname": "Umatac, Guam", 
-        "sw_latitude": 13.273
+        "children": [
+          "woe:town=15021079"
+        ], 
+        "date_indexed": "2010-12-02T18:21:30Z"
       }, 
       "id": 24549710
     }

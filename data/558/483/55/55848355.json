@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55848355, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.928, 
         "longitude": 14.631, 
         "placetype": "state", 
+        "latitude": 46.27, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 46.172, 
         "adjacent": [
           "woe:state=55848346", 
           "woe:state=55848358", 
@@ -61,11 +61,15 @@
           "woe:state=55848397", 
           "woe:state=55848398"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.368, 
-        "latitude": 46.27, 
         "sw_longitude": 14.501, 
         "fullname": "Kamnik, Slovenia", 
-        "sw_latitude": 46.172
+        "children": [
+          "woe:county=12591550", 
+          "woe:county=55848306"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848355
     }

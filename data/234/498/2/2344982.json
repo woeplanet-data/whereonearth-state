@@ -39,6 +39,7 @@
           2344984
         ], 
         "name": "Kinshasa", 
+        "ne_latitude": -3.972, 
         "hierarchy": [
           "woe:state=2344982", 
           "woe:country=23424780", 
@@ -48,9 +49,8 @@
         "ne_longitude": 16.61, 
         "longitude": 15.851, 
         "placetype": "state", 
-        "latitude": -4.511, 
         "iso": "CD", 
-        "sw_latitude": -5.049, 
+        "date_indexed": "2010-12-02T16:33:06Z", 
         "adjacent": [
           "woe:state=2344977", 
           "woe:state=2344984", 
@@ -58,10 +58,32 @@
           "woe:state=2344975"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -3.972, 
+        "latitude": -4.511, 
         "sw_longitude": 15.092, 
         "fullname": "Kinshasa, Democratic Republic of Congo", 
-        "date_indexed": "2010-12-02T16:33:06Z"
+        "children": [
+          "woe:town=56125382", 
+          "woe:town=1283447", 
+          "woe:town=56120934", 
+          "woe:town=56120957", 
+          "woe:town=1473802", 
+          "woe:town=56125378", 
+          "woe:town=1286852", 
+          "woe:town=56125373", 
+          "woe:town=56120937", 
+          "woe:town=1475240", 
+          "woe:town=1290062", 
+          "woe:town=56120936", 
+          "woe:town=56125381", 
+          "woe:town=56120935", 
+          "woe:town=1292430", 
+          "woe:town=56125375", 
+          "woe:town=1294538", 
+          "woe:town=56120959", 
+          "woe:town=56120958", 
+          "woe:town=56125372"
+        ], 
+        "sw_latitude": -5.049
       }, 
       "id": 2344982
     }

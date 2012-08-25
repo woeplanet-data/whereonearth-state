@@ -40,21 +40,19 @@
           20070567
         ], 
         "name": "Arecibo", 
+        "ne_latitude": 18.494, 
         "hierarchy": [
           "woe:state=2346811", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346811, 
-        "alias_SPA_V": [
-          "Arecibo Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.58, 
         "longitude": -66.675, 
         "placetype": "state", 
-        "latitude": 18.405, 
         "sw_longitude": -66.771, 
-        "sw_latitude": 18.315, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346852", 
           "woe:state=2346793", 
@@ -62,11 +60,34 @@
           "woe:state=2346847", 
           "woe:state=2346808"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.494, 
+        "alias_SPA_V": [
+          "Arecibo Municipios"
+        ], 
+        "latitude": 18.405, 
         "iso": "PR", 
         "fullname": "Arecibo, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806062", 
+          "woe:county=26806063", 
+          "woe:county=26806064", 
+          "woe:county=26806065", 
+          "woe:county=26806066", 
+          "woe:county=26806067", 
+          "woe:county=26806068", 
+          "woe:county=26806069", 
+          "woe:county=26806070", 
+          "woe:county=26806071", 
+          "woe:county=26806072", 
+          "woe:county=26806073", 
+          "woe:county=26806074", 
+          "woe:county=26806075", 
+          "woe:county=26806076", 
+          "woe:county=26806077", 
+          "woe:county=26806078", 
+          "woe:county=26806079", 
+          "woe:county=26806080"
+        ], 
+        "sw_latitude": 18.315
       }, 
       "id": 2346811
     }

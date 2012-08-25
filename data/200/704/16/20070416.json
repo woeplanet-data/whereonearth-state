@@ -38,6 +38,7 @@
           20070432
         ], 
         "name": "Hoima", 
+        "ne_latitude": 1.909, 
         "hierarchy": [
           "woe:state=20070416", 
           "woe:country=23424974", 
@@ -47,19 +48,22 @@
         "ne_longitude": 31.523, 
         "longitude": 31.032, 
         "placetype": "state", 
-        "latitude": 1.491, 
         "iso": "UG", 
-        "sw_latitude": 1.072, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=20070425", 
           "woe:state=20070426", 
           "woe:state=20070432"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 1.909, 
+        "latitude": 1.491, 
         "sw_longitude": 30.541, 
         "fullname": "Hoima, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190254", 
+          "woe:county=56190255"
+        ], 
+        "sw_latitude": 1.072
       }, 
       "id": 20070416
     }

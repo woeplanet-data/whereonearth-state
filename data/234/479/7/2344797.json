@@ -40,6 +40,7 @@
           2346286
         ], 
         "name": "Orange Walk", 
+        "ne_latitude": 18.25, 
         "hierarchy": [
           "woe:state=2344797", 
           "woe:country=23424760", 
@@ -49,9 +50,8 @@
         "ne_longitude": -88.242, 
         "longitude": -88.695, 
         "placetype": "state", 
-        "latitude": 17.792, 
         "iso": "BZ", 
-        "sw_latitude": 17.334, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=2344794", 
           "woe:state=2344795", 
@@ -60,10 +60,28 @@
           "woe:state=2346286"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.25, 
+        "latitude": 17.792, 
         "sw_longitude": -89.147, 
         "fullname": "Orange Walk, Belize", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:town=57156", 
+          "woe:town=57254", 
+          "woe:town=57276", 
+          "woe:town=57320", 
+          "woe:town=57399", 
+          "woe:town=57430", 
+          "woe:town=57463", 
+          "woe:town=57466", 
+          "woe:town=57473", 
+          "woe:town=57479", 
+          "woe:town=57480", 
+          "woe:town=57487", 
+          "woe:town=57522", 
+          "woe:town=57544", 
+          "woe:town=57564", 
+          "woe:town=57575"
+        ], 
+        "sw_latitude": 17.334
       }, 
       "id": 2344797
     }

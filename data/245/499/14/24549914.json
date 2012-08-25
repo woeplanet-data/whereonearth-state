@@ -42,20 +42,23 @@
           "woe:planet=1"
         ], 
         "woeid": 24549914, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -178.147, 
         "longitude": -178.167, 
         "placetype": "state", 
+        "latitude": -14.286, 
         "iso": "WF", 
-        "date_indexed": "2010-12-02T09:35:31Z", 
+        "sw_latitude": -14.325, 
         "adjacent": [
           "woe:state=24549913"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -14.244, 
-        "latitude": -14.286, 
         "sw_longitude": -178.207, 
         "fullname": "Singave, Wallis and Futuna", 
-        "sw_latitude": -14.325
+        "children": [
+          "woe:island=12502666"
+        ], 
+        "date_indexed": "2010-12-02T09:35:31Z"
       }, 
       "id": 24549914
     }

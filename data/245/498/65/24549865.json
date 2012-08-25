@@ -32,27 +32,31 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "ne_latitude": 46.819, 
         "name": "St.-Pierre", 
         "hierarchy": [
           "woe:state=24549865", 
           "woe:country=23424939", 
           "woe:planet=1"
         ], 
-        "woeid": 24549865, 
+        "ne_latitude": 46.819, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -56.157, 
         "longitude": -56.211, 
         "placetype": "state", 
+        "latitude": 46.786, 
+        "iso": "PM", 
+        "sw_latitude": 46.753, 
+        "woeid": 24549865, 
         "alias_FRE_V": [
           "St-Pierre"
         ], 
-        "iso": "PM", 
-        "date_indexed": "2010-12-02T12:15:58Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 46.786, 
         "sw_longitude": -56.255, 
         "fullname": "St.-Pierre, Saint Pierre and Miquelon", 
-        "sw_latitude": 46.753
+        "children": [
+          "woe:town=161844", 
+          "woe:island=12485261"
+        ], 
+        "date_indexed": "2010-12-02T12:15:58Z"
       }, 
       "id": 24549865
     }

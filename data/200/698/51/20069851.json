@@ -39,6 +39,7 @@
           20069852
         ], 
         "name": "Kie-Ntem", 
+        "ne_latitude": 2.187, 
         "hierarchy": [
           "woe:state=20069851", 
           "woe:country=23424804", 
@@ -48,9 +49,8 @@
         "ne_longitude": 11.336, 
         "longitude": 10.867, 
         "placetype": "state", 
-        "latitude": 1.954, 
         "iso": "GQ", 
-        "sw_latitude": 1.72, 
+        "date_indexed": "2010-12-02T16:55:36Z", 
         "adjacent": [
           "woe:state=20069850", 
           "woe:state=2345042", 
@@ -58,10 +58,14 @@
           "woe:state=2345457"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 2.187, 
+        "latitude": 1.954, 
         "sw_longitude": 10.399, 
         "fullname": "Kie-Ntem, Equatorial Guinea", 
-        "date_indexed": "2010-12-02T16:55:36Z"
+        "children": [
+          "woe:town=1480376", 
+          "woe:town=1311566"
+        ], 
+        "sw_latitude": 1.72
       }, 
       "id": 20069851
     }

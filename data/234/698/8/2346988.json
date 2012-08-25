@@ -35,20 +35,20 @@
         "adjacent_woeid": [
           2346992
         ], 
-        "ne_latitude": 14.901, 
-        "name": "Dakar", 
-        "adjacent": [
-          "woe:state=2346992"
+        "alias_KOR_Q": [
+          "\ub2e4\uce74\ub974"
         ], 
+        "name": "Dakar", 
         "hierarchy": [
           "woe:state=2346988", 
           "woe:country=23424943", 
           "woe:planet=1"
         ], 
-        "woeid": 2346988, 
+        "ne_latitude": 14.901, 
         "alias_JPN_Q": [
           "\u30c0\u30ab\u30fc\u30eb"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -17.118, 
         "longitude": -17.327, 
         "alias_CHI_Q": [
@@ -56,15 +56,21 @@
         ], 
         "placetype": "state", 
         "iso": "SN", 
-        "sw_latitude": 14.588, 
-        "alias_KOR_Q": [
-          "\ub2e4\uce74\ub974"
+        "date_indexed": "2010-12-02T08:57:18Z", 
+        "adjacent": [
+          "woe:state=2346992"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2346988, 
         "latitude": 14.744, 
         "sw_longitude": -17.535, 
         "fullname": "Dakar, Senegal", 
-        "date_indexed": "2010-12-02T08:57:18Z"
+        "children": [
+          "woe:county=56055803", 
+          "woe:county=56055826", 
+          "woe:county=56055825", 
+          "woe:county=56055802"
+        ], 
+        "sw_latitude": 14.588
       }, 
       "id": 2346988
     }

@@ -41,6 +41,7 @@
           2346488
         ], 
         "name": "Arequipa", 
+        "ne_latitude": -14.627, 
         "hierarchy": [
           "woe:state=2346471", 
           "woe:country=23424919", 
@@ -50,9 +51,8 @@
         "ne_longitude": -70.849, 
         "longitude": -72.963, 
         "placetype": "state", 
-        "latitude": -15.963, 
         "iso": "PE", 
-        "sw_latitude": -17.299, 
+        "date_indexed": "2010-12-02T16:12:03Z", 
         "adjacent": [
           "woe:state=2346470", 
           "woe:state=2346472", 
@@ -62,10 +62,20 @@
           "woe:state=2346488"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -14.627, 
+        "latitude": -15.963, 
         "sw_longitude": -75.077, 
         "fullname": "Arequipa, Peru", 
-        "date_indexed": "2010-12-02T16:12:03Z"
+        "children": [
+          "woe:county=26805784", 
+          "woe:county=26805801", 
+          "woe:county=26805809", 
+          "woe:county=26805813", 
+          "woe:county=26805815", 
+          "woe:county=26805828", 
+          "woe:county=26805867", 
+          "woe:county=26805875"
+        ], 
+        "sw_latitude": -17.299
       }, 
       "id": 2346471
     }

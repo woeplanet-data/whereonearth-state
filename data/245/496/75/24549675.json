@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": -21.183, 
         "name": "Rarotonga", 
         "hierarchy": [
           "woe:state=24549675", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549675, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -159.715, 
         "longitude": -159.771, 
         "placetype": "state", 
         "iso": "CK", 
-        "date_indexed": "2010-12-02T17:57:50Z", 
-        "ne_latitude": -21.183, 
+        "sw_latitude": -21.266, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -21.227, 
         "sw_longitude": -159.825, 
         "fullname": "Rarotonga, Cook Islands", 
-        "sw_latitude": -21.266
+        "children": [
+          "woe:town=1064303"
+        ], 
+        "date_indexed": "2010-12-02T17:57:50Z"
       }, 
       "id": 24549675
     }

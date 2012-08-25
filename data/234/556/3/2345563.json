@@ -43,6 +43,7 @@
           2346290
         ], 
         "name": "Peten", 
+        "ne_latitude": 17.815, 
         "hierarchy": [
           "woe:state=2345563", 
           "woe:country=23424834", 
@@ -52,9 +53,8 @@
         "ne_longitude": -89.145, 
         "longitude": -90.291, 
         "placetype": "state", 
-        "latitude": 16.83, 
         "iso": "GT", 
-        "sw_latitude": 15.844, 
+        "date_indexed": "2010-12-02T16:55:18Z", 
         "adjacent": [
           "woe:state=2345552", 
           "woe:state=2346267", 
@@ -66,10 +66,24 @@
           "woe:state=2344799"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 17.815, 
+        "latitude": 16.83, 
         "sw_longitude": -91.438, 
         "fullname": "Peten, Guatemala", 
-        "date_indexed": "2010-12-02T16:55:18Z"
+        "children": [
+          "woe:county=26807068", 
+          "woe:county=26807062", 
+          "woe:county=26807065", 
+          "woe:county=26807061", 
+          "woe:county=26807071", 
+          "woe:county=26807064", 
+          "woe:county=26807066", 
+          "woe:county=26807069", 
+          "woe:county=26807063", 
+          "woe:county=26807072", 
+          "woe:county=26807067", 
+          "woe:county=26807070"
+        ], 
+        "sw_latitude": 15.844
       }, 
       "id": 2345563
     }

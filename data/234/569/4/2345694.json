@@ -41,6 +41,7 @@
           20070109
         ], 
         "name": "Gullbringusysla", 
+        "ne_latitude": 64.178, 
         "hierarchy": [
           "woe:state=2345694", 
           "woe:country=23424845", 
@@ -49,10 +50,25 @@
         "woeid": 2345694, 
         "ne_longitude": -21.364, 
         "longitude": -22.066, 
+        "children": [
+          "woe:town=980057", 
+          "woe:town=980088", 
+          "woe:town=980133", 
+          "woe:town=980561", 
+          "woe:town=980144", 
+          "woe:town=980157", 
+          "woe:town=980170", 
+          "woe:town=980249", 
+          "woe:town=980360", 
+          "woe:town=980398", 
+          "woe:town=980414", 
+          "woe:town=980554", 
+          "woe:island=12475918", 
+          "woe:drainage=55863648"
+        ], 
         "placetype": "state", 
-        "latitude": 63.98, 
         "iso": "IS", 
-        "sw_latitude": 63.798, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345687", 
           "woe:state=20070102", 
@@ -62,13 +78,13 @@
           "woe:state=20070109"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 64.178, 
+        "latitude": 63.98, 
         "sw_longitude": -22.769, 
         "fullname": "Gullbringusysla, Iceland", 
         "alias_UNK_A": [
           "GULL"
         ], 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "sw_latitude": 63.798
       }, 
       "id": 2345694
     }

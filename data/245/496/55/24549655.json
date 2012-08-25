@@ -45,23 +45,26 @@
           "woe:planet=1"
         ], 
         "woeid": 24549655, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -63.007, 
         "longitude": -63.023, 
         "placetype": "state", 
+        "latitude": 18.246, 
         "iso": "AI", 
-        "date_indexed": "2010-12-02T17:42:25Z", 
+        "sw_latitude": 18.229, 
         "adjacent": [
           "woe:state=24549654", 
           "woe:state=24549653", 
           "woe:state=24549652", 
           "woe:state=24549656"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 18.254, 
-        "latitude": 18.246, 
         "sw_longitude": -63.03, 
         "fullname": "Sandy Hill, Anguilla", 
-        "sw_latitude": 18.229
+        "children": [
+          "woe:town=24602713"
+        ], 
+        "date_indexed": "2010-12-02T17:42:25Z"
       }, 
       "id": 24549655
     }

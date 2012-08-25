@@ -50,10 +50,10 @@
         "woeid": 2347163, 
         "ne_longitude": 100.568, 
         "longitude": 100.416, 
+        "ne_latitude": 14.141, 
         "placetype": "state", 
-        "latitude": 13.965, 
         "iso": "TH", 
-        "sw_latitude": 13.789, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347165", 
           "woe:state=2347177", 
@@ -61,10 +61,18 @@
           "woe:state=2347161"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.141, 
+        "latitude": 13.965, 
         "sw_longitude": 100.265, 
         "fullname": "Nonthaburi, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341533", 
+          "woe:county=28341534", 
+          "woe:county=28341536", 
+          "woe:county=28341532", 
+          "woe:county=28341535", 
+          "woe:county=28341531"
+        ], 
+        "sw_latitude": 13.789
       }, 
       "id": 2347163
     }

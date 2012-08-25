@@ -12,14 +12,15 @@
           56190568
         ], 
         "name": "Lub\u0105nas Novads", 
-        "alias_UNK_S": [
-          "Lubanas Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190587", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190587, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Lubanas Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -29,7 +30,10 @@
           "woe:state=56190526"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190587, 
+        "children": [
+          "woe:county=55844424", 
+          "woe:county=55844176"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190587

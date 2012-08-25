@@ -43,6 +43,7 @@
           20070373
         ], 
         "name": "Tovuz", 
+        "ne_latitude": 41.253, 
         "hierarchy": [
           "woe:state=20070248", 
           "woe:country=23424741", 
@@ -52,9 +53,8 @@
         "ne_longitude": 46.053, 
         "longitude": 45.743, 
         "placetype": "state", 
-        "latitude": 40.914, 
         "iso": "AZ", 
-        "sw_latitude": 40.575, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=20070266", 
           "woe:state=20070371", 
@@ -66,10 +66,21 @@
           "woe:state=20070202"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.253, 
+        "latitude": 40.914, 
         "sw_longitude": 45.433, 
         "fullname": "Tovuz, Azerbaijan", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1951861", 
+          "woe:town=1951868", 
+          "woe:town=1947879", 
+          "woe:town=1949583", 
+          "woe:town=1952026", 
+          "woe:town=1951590", 
+          "woe:town=1951671", 
+          "woe:town=1951712", 
+          "woe:town=1951728"
+        ], 
+        "sw_latitude": 40.575
       }, 
       "id": 20070248
     }

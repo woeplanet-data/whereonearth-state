@@ -32,24 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 55.291, 
         "name": "Kaliningradskaya Oblast", 
         "hierarchy": [
           "woe:state=2346938", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346938, 
+        "ne_latitude": 55.291, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 22.893, 
         "longitude": 21.339, 
         "placetype": "state", 
         "iso": "RU", 
-        "sw_latitude": 54.317, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woeid": 2346938, 
         "latitude": 54.806, 
         "sw_longitude": 19.642, 
         "fullname": "Kaliningradskaya Oblast, Russia", 
-        "date_indexed": "2010-12-02T16:07:50Z"
+        "children": [
+          "woe:county=12598323", 
+          "woe:county=12598324", 
+          "woe:county=12598325", 
+          "woe:county=12598326", 
+          "woe:county=12598328", 
+          "woe:county=12598329", 
+          "woe:county=12598330", 
+          "woe:county=12598331", 
+          "woe:county=12598332", 
+          "woe:county=12598333", 
+          "woe:county=12598334", 
+          "woe:county=12598335", 
+          "woe:county=12598336", 
+          "woe:county=24505200", 
+          "woe:county=12598337", 
+          "woe:county=12598338", 
+          "woe:county=12598339", 
+          "woe:county=12598340", 
+          "woe:county=12598341", 
+          "woe:county=12598342", 
+          "woe:county=12598343"
+        ], 
+        "sw_latitude": 54.317
       }, 
       "id": 2346938
     }

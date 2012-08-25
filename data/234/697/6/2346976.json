@@ -50,10 +50,10 @@
         "woeid": 2346976, 
         "ne_longitude": -62.776, 
         "longitude": -62.811, 
+        "ne_latitude": 17.374, 
         "placetype": "state", 
-        "latitude": 17.345, 
         "iso": "KN", 
-        "sw_latitude": 17.315, 
+        "date_indexed": "2010-12-02T08:52:18Z", 
         "adjacent": [
           "woe:state=2346964", 
           "woe:state=2346965", 
@@ -61,10 +61,13 @@
           "woe:state=2346977"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 17.374, 
+        "latitude": 17.345, 
         "sw_longitude": -62.847, 
         "fullname": "Saint Thomas Middle Island, Saint Kitts and Nevis", 
-        "date_indexed": "2010-12-02T08:52:18Z"
+        "children": [
+          "woe:town=161920"
+        ], 
+        "sw_latitude": 17.315
       }, 
       "id": 2346976
     }

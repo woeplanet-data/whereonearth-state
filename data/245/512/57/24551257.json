@@ -45,20 +45,26 @@
           "woe:planet=1"
         ], 
         "woeid": 24551257, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -78.741, 
         "longitude": -78.873, 
         "placetype": "state", 
+        "latitude": 26.607, 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
+        "sw_latitude": 26.509, 
         "adjacent": [
           "woe:state=2344779"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 26.817, 
-        "latitude": 26.607, 
         "sw_longitude": -79.034, 
         "fullname": "West Grand Bahama, The Bahamas", 
-        "sw_latitude": 26.509
+        "children": [
+          "woe:town=57089", 
+          "woe:town=57135", 
+          "woe:island=12481299", 
+          "woe:island=12481515"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551257
     }

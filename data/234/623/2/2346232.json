@@ -39,6 +39,7 @@
           2346235
         ], 
         "name": "Pamplemousses", 
+        "ne_latitude": -20.003, 
         "hierarchy": [
           "woe:state=2346232", 
           "woe:country=23424894", 
@@ -48,9 +49,8 @@
         "ne_longitude": 57.641, 
         "longitude": 57.566, 
         "placetype": "state", 
-        "latitude": -20.1, 
         "iso": "MU", 
-        "sw_latitude": -20.197, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=2346229", 
           "woe:state=2346231", 
@@ -58,10 +58,17 @@
           "woe:state=2346235"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -20.003, 
+        "latitude": -20.1, 
         "sw_longitude": 57.483, 
         "fullname": "Pamplemousses, Mauritius", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1377378", 
+          "woe:town=1377416", 
+          "woe:town=1377428", 
+          "woe:town=1377504", 
+          "woe:town=1377506"
+        ], 
+        "sw_latitude": -20.197
       }, 
       "id": 2346232
     }

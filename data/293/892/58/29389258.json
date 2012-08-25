@@ -31,16 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FIN", 
-        "adjacent_woeid": [
-          29389248, 
-          29389255, 
-          29389256, 
-          29389257, 
-          29389260, 
-          29389262, 
-          29389265
-        ], 
         "alias_SWE_V": [
           "Mellersta Finland"
         ], 
@@ -56,19 +46,49 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 63.612, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 26.78, 
-        "longitude": 25.397, 
         "placetype": "state", 
+        "children": [
+          "woe:historicalcounty=12590705", 
+          "woe:historicalcounty=12590702", 
+          "woe:historicalcounty=12590712", 
+          "woe:historicalcounty=12590716", 
+          "woe:historicalcounty=12590722", 
+          "woe:landfeature=29358075", 
+          "woe:zone=24868280", 
+          "woe:colloquial=29389329", 
+          "woe:county=56120856", 
+          "woe:county=56120857", 
+          "woe:county=56120854", 
+          "woe:county=56120861", 
+          "woe:county=56120882", 
+          "woe:county=56120895", 
+          "woe:drainage=29353952", 
+          "woe:drainage=29357914", 
+          "woe:drainage=29354273", 
+          "woe:drainage=29355145", 
+          "woe:drainage=29355265", 
+          "woe:drainage=29355476", 
+          "woe:drainage=29355538", 
+          "woe:drainage=29355632", 
+          "woe:drainage=29356102", 
+          "woe:drainage=29356290", 
+          "woe:drainage=29356590", 
+          "woe:drainage=29356842", 
+          "woe:drainage=29356877", 
+          "woe:drainage=29356978", 
+          "woe:drainage=29357116", 
+          "woe:drainage=29357228", 
+          "woe:drainage=29357521", 
+          "woe:drainage=29357651"
+        ], 
+        "woeid": 29389258, 
         "sw_longitude": 24.013, 
-        "date_indexed": "2010-12-02T16:39:41Z", 
         "alias_FIN_V": [
           "Keski-Suomen maakuntana"
         ], 
-        "woeid": 29389258, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 62.532, 
-        "iso": "FI", 
-        "fullname": "Keski-Suomen maakunta, Western Finland, Central Finland, Finland", 
+        "sw_latitude": 61.451, 
         "adjacent": [
           "woe:state=29389256", 
           "woe:state=29389260", 
@@ -78,8 +98,22 @@
           "woe:state=29389262", 
           "woe:state=29389255"
         ], 
-        "sw_latitude": 61.451, 
-        "name": "Keski-Suomen maakunta"
+        "lang": "FIN", 
+        "adjacent_woeid": [
+          29389248, 
+          29389255, 
+          29389256, 
+          29389257, 
+          29389260, 
+          29389262, 
+          29389265
+        ], 
+        "name": "Keski-Suomen maakunta", 
+        "ne_longitude": 26.78, 
+        "longitude": 25.397, 
+        "iso": "FI", 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "fullname": "Keski-Suomen maakunta, Western Finland, Central Finland, Finland"
       }, 
       "id": 29389258
     }

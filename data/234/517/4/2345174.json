@@ -48,26 +48,36 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 18.465, 
-        "alias_SPA_V": [
-          "Sta. Cruz de Barahona"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -70.946, 
         "longitude": -71.23, 
+        "children": [
+          "woe:town=69721", 
+          "woe:town=71301", 
+          "woe:town=71581", 
+          "woe:town=72549", 
+          "woe:town=72650", 
+          "woe:town=75627", 
+          "woe:town=75821", 
+          "woe:town=76421"
+        ], 
         "placetype": "state", 
         "iso": "DO", 
-        "sw_latitude": 17.846, 
+        "date_indexed": "2010-12-02T16:32:46Z", 
         "adjacent": [
           "woe:state=2345172", 
           "woe:state=2345173", 
           "woe:state=2345179", 
           "woe:state=2345185"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "alias_SPA_V": [
+          "Sta. Cruz de Barahona"
+        ], 
         "latitude": 18.155, 
         "sw_longitude": -71.515, 
         "fullname": "Barahona, Dominican Republic", 
         "woeid": 2345174, 
-        "date_indexed": "2010-12-02T16:32:46Z"
+        "sw_latitude": 17.846
       }, 
       "id": 2345174
     }

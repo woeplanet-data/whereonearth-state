@@ -40,7 +40,7 @@
           29389238
         ], 
         "name": "\u0160avnik", 
-        "latitude": 42.98, 
+        "ne_latitude": 43.111, 
         "alias_UNK_S": [
           "Savnik"
         ], 
@@ -54,7 +54,7 @@
           "woe:planet=1"
         ], 
         "iso": "ME", 
-        "date_indexed": "2010-12-02T07:50:42Z", 
+        "sw_latitude": 42.848, 
         "adjacent": [
           "woe:state=29389235", 
           "woe:state=29389232", 
@@ -63,10 +63,13 @@
           "woe:state=29389231"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 43.111, 
+        "latitude": 42.98, 
         "sw_longitude": 18.955, 
         "fullname": "\u0160avnik, Montenegro", 
-        "sw_latitude": 42.848
+        "children": [
+          "woe:town=536563"
+        ], 
+        "date_indexed": "2010-12-02T07:50:42Z"
       }, 
       "id": 29389234
     }

@@ -39,28 +39,7 @@
           2346279, 
           2346287
         ], 
-        "alias_ENG_A": [
-          "QT"
-        ], 
         "name": "Queretaro de Arteaga", 
-        "hierarchy": [
-          "woe:state=2346285", 
-          "woe:country=23424900", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2346285, 
-        "alias_SPA_V": [
-          "Estado de Queretaro de Arteaga"
-        ], 
-        "ne_longitude": -99.047, 
-        "longitude": -99.821, 
-        "placetype": "state", 
-        "latitude": 20.843, 
-        "alias_SPA_S": [
-          "Queretaro"
-        ], 
-        "sw_longitude": -100.596, 
-        "sw_latitude": 20.017, 
         "adjacent": [
           "woe:state=2346274", 
           "woe:state=2346276", 
@@ -68,11 +47,60 @@
           "woe:state=2346279", 
           "woe:state=2346287"
         ], 
+        "hierarchy": [
+          "woe:state=2346285", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346285, 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -99.047, 
+        "longitude": -99.821, 
         "ne_latitude": 21.669, 
+        "placetype": "state", 
+        "alias_SPA_S": [
+          "Queretaro"
+        ], 
+        "sw_longitude": -100.596, 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "QT"
+        ], 
+        "alias_SPA_V": [
+          "Estado de Queretaro de Arteaga"
+        ], 
+        "latitude": 20.843, 
         "iso": "MX", 
         "fullname": "Queretaro de Arteaga, Mexico", 
-        "date_indexed": "2010-12-02T16:55:36Z"
+        "children": [
+          "woe:county=12601444", 
+          "woe:county=12601445", 
+          "woe:county=12601446", 
+          "woe:county=12601447", 
+          "woe:county=12601448", 
+          "woe:county=12601449", 
+          "woe:county=12601450", 
+          "woe:county=12601451", 
+          "woe:county=12601452", 
+          "woe:county=12601453", 
+          "woe:county=12601454", 
+          "woe:county=12601455", 
+          "woe:county=12601456", 
+          "woe:county=12601457", 
+          "woe:county=12601458", 
+          "woe:county=12601459", 
+          "woe:county=12601460", 
+          "woe:county=12601461", 
+          "woe:town=55905742", 
+          "woe:town=116812", 
+          "woe:town=55894849", 
+          "woe:town=55890400", 
+          "woe:town=127592", 
+          "woe:town=55894450", 
+          "woe:town=55883321", 
+          "woe:town=55893878"
+        ], 
+        "sw_latitude": 20.017
       }, 
       "id": 2346285
     }

@@ -44,6 +44,14 @@
         ], 
         "ne_latitude": 47.808, 
         "placetype": "state", 
+        "children": [
+          "woe:county=12593256", 
+          "woe:county=12593212", 
+          "woe:county=12593206", 
+          "woe:county=12593200", 
+          "woe:county=12593259", 
+          "woe:county=12593258"
+        ], 
         "alias_ITA_Q": [
           "Canton Sciaffusa"
         ], 
@@ -56,7 +64,7 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.723, 
-        "sw_latitude": 47.552, 
+        "date_indexed": "2010-12-02T18:19:21Z", 
         "alias_GER_A": [
           "SH"
         ], 
@@ -70,7 +78,7 @@
         "ne_longitude": 8.876, 
         "longitude": 8.573, 
         "iso": "CH", 
-        "date_indexed": "2010-12-02T18:19:21Z", 
+        "sw_latitude": 47.552, 
         "fullname": "Kanton Schaffhausen, Canton of Schaffhausen, Switzerland", 
         "alias_FRE_Q": [
           "Canton de Schaffhouse"

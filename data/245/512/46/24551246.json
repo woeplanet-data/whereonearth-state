@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 27.934, 
         "name": "Grand Cay", 
         "hierarchy": [
           "woe:state=24551246", 
@@ -39,17 +40,20 @@
           "woe:planet=1"
         ], 
         "woeid": 24551246, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -77.766, 
         "longitude": -78.211, 
         "placetype": "state", 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "ne_latitude": 27.934, 
+        "sw_latitude": 26.948, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 26.989, 
         "sw_longitude": -78.401, 
         "fullname": "Grand Cay, The Bahamas", 
-        "sw_latitude": 26.948
+        "children": [
+          "woe:island=12481408", 
+          "woe:airport=12524027"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551246
     }

@@ -636,17 +636,37 @@
         "ne:Shape_Area": 0.118177437493, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18241118", 
+        "ne:MAP_COLOR": 3, 
         "alias_ENG_A": [
           "DF"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "MEX", 
+        "children": [
+          "woe:county=12599934", 
+          "woe:county=12599935", 
+          "woe:county=12599936", 
+          "woe:county=12599937", 
+          "woe:county=12599938", 
+          "woe:county=12599939", 
+          "woe:county=12599940", 
+          "woe:county=12599941", 
+          "woe:county=12599942", 
+          "woe:county=12599943", 
+          "woe:county=12599944", 
+          "woe:county=12599945", 
+          "woe:county=12599946", 
+          "woe:county=12599947", 
+          "woe:county=12599948", 
+          "woe:county=12599949", 
+          "woe:town=116545", 
+          "woe:landfeature=56058451"
+        ], 
         "ne:ScaleRank": 4, 
         "alias_CHI_Q": [
           "\u8054\u90a6\u9996\u90fd"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 2727, 
         "alias_JPN_Q": [
           "\u30e1\u30ad\u30b7\u30b3\u9023\u90a6\u533a"
         ], 
@@ -668,13 +688,13 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Federal District", 
         "date_indexed": "2010-12-02T16:55:36Z", 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 3, 
+        "ne:VertexCou": 152.0, 
+        "ne:VALIDFR_1": "18241118", 
         "adjacent": [
           "woe:state=2346278", 
           "woe:state=2346280"
         ], 
-        "ne:OBJECTID": 2727, 
+        "ne:DataRank": 1, 
         "ne:Postal": "DF", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -693,13 +713,13 @@
           "Bundesdistrikt"
         ], 
         "woe:id": "2346272", 
-        "name": "Distrito Federal", 
-        "ne:VertexCou": 152.0, 
+        "ne:HASC_1": "MX.DF", 
+        "lang": "SPA", 
         "adjacent_woeid": [
           2346278, 
           2346280
         ], 
-        "ne:HASC_1": "MX.DF", 
+        "name": "Distrito Federal", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -99.152, 

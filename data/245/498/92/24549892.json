@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": -9.116, 
         "name": "Nukunonu", 
         "hierarchy": [
           "woe:state=24549892", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549892, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -171.833, 
         "longitude": -171.833, 
         "placetype": "state", 
         "iso": "TK", 
-        "date_indexed": "2010-12-02T08:53:23Z", 
-        "ne_latitude": -9.116, 
+        "sw_latitude": -9.217, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -9.217, 
         "sw_longitude": -171.934, 
         "fullname": "Nukunonu, Tokelau", 
-        "sw_latitude": -9.217
+        "children": [
+          "woe:island=12502076"
+        ], 
+        "date_indexed": "2010-12-02T08:53:23Z"
       }, 
       "id": 24549892
     }

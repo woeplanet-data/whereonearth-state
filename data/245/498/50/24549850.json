@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 7.224, 
         "name": "Majuro", 
         "hierarchy": [
           "woe:state=24549850", 
@@ -39,17 +40,20 @@
           "woe:planet=1"
         ], 
         "woeid": 24549850, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 171.389, 
         "longitude": 171.082, 
         "placetype": "state", 
         "iso": "MH", 
-        "date_indexed": "2010-12-02T09:35:31Z", 
-        "ne_latitude": 7.224, 
+        "sw_latitude": 7.055, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 7.11, 
         "sw_longitude": 171.033, 
         "fullname": "Majuro, Marshall Islands", 
-        "sw_latitude": 7.055
+        "children": [
+          "woe:town=1064287", 
+          "woe:island=12509500"
+        ], 
+        "date_indexed": "2010-12-02T09:35:31Z"
       }, 
       "id": 24549850
     }

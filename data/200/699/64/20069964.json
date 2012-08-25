@@ -37,6 +37,7 @@
           56051556
         ], 
         "name": "Paul", 
+        "ne_latitude": 17.156, 
         "hierarchy": [
           "woe:state=20069964", 
           "woe:country=23424794", 
@@ -46,18 +47,20 @@
         "ne_longitude": -24.97, 
         "longitude": -25.019, 
         "placetype": "state", 
-        "latitude": 17.117, 
         "iso": "CV", 
-        "sw_latitude": 17.078, 
+        "date_indexed": "2010-12-02T12:16:16Z", 
         "adjacent": [
           "woe:state=56051556", 
           "woe:state=2345126"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 17.156, 
+        "latitude": 17.117, 
         "sw_longitude": -25.067, 
         "fullname": "Paul, Cape Verde", 
-        "date_indexed": "2010-12-02T12:16:16Z"
+        "children": [
+          "woe:town=1310844"
+        ], 
+        "sw_latitude": 17.078
       }, 
       "id": 20069964
     }

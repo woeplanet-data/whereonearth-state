@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 10.19, 
         "name": "Wotho", 
         "hierarchy": [
           "woe:state=24549860", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549860, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 166.038, 
         "longitude": 166.018, 
         "placetype": "state", 
         "iso": "MH", 
-        "date_indexed": "2010-12-02T09:35:31Z", 
-        "ne_latitude": 10.19, 
+        "sw_latitude": 10.028, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 10.178, 
         "sw_longitude": 165.931, 
         "fullname": "Wotho, Marshall Islands", 
-        "sw_latitude": 10.028
+        "children": [
+          "woe:island=12509529"
+        ], 
+        "date_indexed": "2010-12-02T09:35:31Z"
       }, 
       "id": 24549860
     }

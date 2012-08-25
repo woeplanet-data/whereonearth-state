@@ -40,6 +40,7 @@
           2344965
         ], 
         "name": "Central", 
+        "ne_latitude": 8.029, 
         "hierarchy": [
           "woe:state=2344959", 
           "woe:country=23424778", 
@@ -49,9 +50,8 @@
         "ne_longitude": 81.02, 
         "longitude": 80.72, 
         "placetype": "state", 
-        "latitude": 7.385, 
         "iso": "LK", 
-        "sw_latitude": 6.741, 
+        "date_indexed": "2010-12-02T17:56:32Z", 
         "adjacent": [
           "woe:state=2344960", 
           "woe:state=2344961", 
@@ -60,10 +60,15 @@
           "woe:state=2344965"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 8.029, 
+        "latitude": 7.385, 
         "sw_longitude": 80.42, 
         "fullname": "Central, Sri Lanka", 
-        "date_indexed": "2010-12-02T17:56:32Z"
+        "children": [
+          "woe:county=23706513", 
+          "woe:county=23706512", 
+          "woe:county=23706511"
+        ], 
+        "sw_latitude": 6.741
       }, 
       "id": 2344959
     }

@@ -51,10 +51,10 @@
         "woeid": 2347128, 
         "ne_longitude": 98.652, 
         "longitude": 97.998, 
+        "ne_latitude": 19.814, 
         "placetype": "state", 
-        "latitude": 18.726, 
         "iso": "TH", 
-        "sw_latitude": 17.637, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347129", 
           "woe:state=2344814", 
@@ -63,10 +63,22 @@
           "woe:state=2347135"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 19.814, 
+        "latitude": 18.726, 
         "sw_longitude": 97.344, 
         "fullname": "Mae Hong Son, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28340832", 
+          "woe:county=28340829", 
+          "woe:county=28340834", 
+          "woe:county=28340833", 
+          "woe:county=28340828", 
+          "woe:county=28340831", 
+          "woe:county=28340830", 
+          "woe:landfeature=56057370", 
+          "woe:landfeature=56057419", 
+          "woe:landfeature=56057436"
+        ], 
+        "sw_latitude": 17.637
       }, 
       "id": 2347128
     }

@@ -41,8 +41,28 @@
           2345567, 
           2345569
         ], 
-        "ne_latitude": 14.915, 
+        "alias_KOR_Q": [
+          "\uacfc\ud14c\ub9d0\ub77c"
+        ], 
         "name": "Guatemala", 
+        "hierarchy": [
+          "woe:state=2345558", 
+          "woe:country=23424834", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 14.915, 
+        "alias_JPN_Q": [
+          "\u30b0\u30a2\u30c6\u30de\u30e9"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -90.212, 
+        "longitude": -90.487, 
+        "alias_CHI_Q": [
+          "\u5371\u5730\u9a6c\u62c9"
+        ], 
+        "placetype": "state", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
         "adjacent": [
           "woe:state=2345553", 
           "woe:state=2345554", 
@@ -52,31 +72,30 @@
           "woe:state=2345567", 
           "woe:state=2345569"
         ], 
-        "hierarchy": [
-          "woe:state=2345558", 
-          "woe:country=23424834", 
-          "woe:planet=1"
-        ], 
         "woeid": 2345558, 
-        "alias_JPN_Q": [
-          "\u30b0\u30a2\u30c6\u30de\u30e9"
-        ], 
-        "ne_longitude": -90.212, 
-        "longitude": -90.487, 
-        "alias_CHI_Q": [
-          "\u5371\u5730\u9a6c\u62c9"
-        ], 
-        "placetype": "state", 
-        "iso": "GT", 
-        "sw_latitude": 14.242, 
-        "alias_KOR_Q": [
-          "\uacfc\ud14c\ub9d0\ub77c"
-        ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 14.578, 
         "sw_longitude": -90.763, 
         "fullname": "Guatemala", 
-        "date_indexed": "2010-12-02T16:55:18Z"
+        "children": [
+          "woe:county=26806997", 
+          "woe:county=26806986", 
+          "woe:county=26806981", 
+          "woe:county=26806995", 
+          "woe:county=26806989", 
+          "woe:county=26806990", 
+          "woe:county=26806987", 
+          "woe:county=26806996", 
+          "woe:county=26806984", 
+          "woe:county=26806991", 
+          "woe:county=26806983", 
+          "woe:county=26806985", 
+          "woe:county=26806988", 
+          "woe:county=26806982", 
+          "woe:county=26806992", 
+          "woe:county=26806994", 
+          "woe:county=26806993"
+        ], 
+        "sw_latitude": 14.242
       }, 
       "id": 2345558
     }

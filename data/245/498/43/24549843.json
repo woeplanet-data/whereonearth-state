@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 6.283, 
         "name": "Jaluit", 
         "hierarchy": [
           "woe:state=24549843", 
@@ -39,17 +40,20 @@
           "woe:planet=1"
         ], 
         "woeid": 24549843, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 169.729, 
         "longitude": 169.63, 
         "placetype": "state", 
         "iso": "MH", 
-        "date_indexed": "2010-12-02T09:35:31Z", 
-        "ne_latitude": 6.283, 
+        "sw_latitude": 5.785, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 5.849, 
         "sw_longitude": 169.415, 
         "fullname": "Jaluit, Marshall Islands", 
-        "sw_latitude": 5.785
+        "children": [
+          "woe:island=12509494", 
+          "woe:island=12498920"
+        ], 
+        "date_indexed": "2010-12-02T09:35:31Z"
       }, 
       "id": 24549843
     }

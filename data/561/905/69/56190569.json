@@ -12,14 +12,15 @@
           56190568
         ], 
         "name": "Al\u017eksne Novads", 
-        "alias_UNK_S": [
-          "Alzksne Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190569", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190569, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Alzksne Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -29,7 +30,24 @@
           "woe:state=56190599"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190569, 
+        "children": [
+          "woe:county=55844674", 
+          "woe:county=55844197", 
+          "woe:county=55844272", 
+          "woe:county=55844587", 
+          "woe:county=55844458", 
+          "woe:county=55844613", 
+          "woe:county=55844212", 
+          "woe:county=55844368", 
+          "woe:county=55844528", 
+          "woe:county=55844682", 
+          "woe:county=55844285", 
+          "woe:county=55844444", 
+          "woe:county=55844335", 
+          "woe:county=55844648", 
+          "woe:county=55844410", 
+          "woe:county=55844568"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190569

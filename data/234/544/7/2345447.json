@@ -39,6 +39,7 @@
           56055614
         ], 
         "name": "Western", 
+        "ne_latitude": 13.489, 
         "hierarchy": [
           "woe:state=2345447", 
           "woe:country=23424821", 
@@ -48,9 +49,8 @@
         "ne_longitude": -15.81, 
         "longitude": -16.318, 
         "placetype": "state", 
-        "latitude": 13.276, 
         "iso": "GM", 
-        "sw_latitude": 13.064, 
+        "date_indexed": "2010-12-02T08:51:00Z", 
         "adjacent": [
           "woe:state=2345443", 
           "woe:state=2345444", 
@@ -58,10 +58,32 @@
           "woe:state=2346997"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.489, 
+        "latitude": 13.276, 
         "sw_longitude": -16.825, 
         "fullname": "Western, The Gambia", 
-        "date_indexed": "2010-12-02T08:51:00Z"
+        "children": [
+          "woe:town=1321121", 
+          "woe:town=1321214", 
+          "woe:town=1483060", 
+          "woe:town=28752623", 
+          "woe:town=1321238", 
+          "woe:town=1321243", 
+          "woe:town=1321287", 
+          "woe:town=1483104", 
+          "woe:town=1483123", 
+          "woe:town=1321713", 
+          "woe:town=1321870", 
+          "woe:town=1321882", 
+          "woe:town=1322362", 
+          "woe:town=1322490", 
+          "woe:town=1322497", 
+          "woe:town=28752625", 
+          "woe:town=1322556", 
+          "woe:town=1483330", 
+          "woe:town=1322689", 
+          "woe:town=1483364"
+        ], 
+        "sw_latitude": 13.064
       }, 
       "id": 2345447
     }

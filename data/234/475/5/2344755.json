@@ -48,19 +48,30 @@
         "woeid": 2344755, 
         "ne_longitude": -64.654, 
         "longitude": -64.716, 
+        "ne_latitude": 32.394, 
         "placetype": "state", 
-        "latitude": 32.341, 
         "iso": "BM", 
-        "sw_latitude": 32.323, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=20069917", 
           "woe:state=2344757"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 32.394, 
+        "latitude": 32.341, 
         "sw_longitude": -64.751, 
         "fullname": "Saint George's, Bermuda", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:town=56804", 
+          "woe:island=12481195", 
+          "woe:island=12481197", 
+          "woe:island=12481220", 
+          "woe:island=12481232", 
+          "woe:island=12481234", 
+          "woe:island=12481241", 
+          "woe:island=12481244", 
+          "woe:island=12481247"
+        ], 
+        "sw_latitude": 32.323
       }, 
       "id": 2344755
     }

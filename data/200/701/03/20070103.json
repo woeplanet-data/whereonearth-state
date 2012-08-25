@@ -36,6 +36,7 @@
           2345705
         ], 
         "name": "Husavik", 
+        "ne_latitude": 66.081, 
         "hierarchy": [
           "woe:state=20070103", 
           "woe:country=23424845", 
@@ -45,17 +46,19 @@
         "ne_longitude": -17.28, 
         "longitude": -17.324, 
         "placetype": "state", 
-        "latitude": 66.055, 
         "iso": "IS", 
-        "sw_latitude": 66.028, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345705"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 66.081, 
+        "latitude": 66.055, 
         "sw_longitude": -17.368, 
         "fullname": "Husavik, Iceland", 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "children": [
+          "woe:town=980244"
+        ], 
+        "sw_latitude": 66.028
       }, 
       "id": 20070103
     }

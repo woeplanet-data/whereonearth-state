@@ -44,6 +44,7 @@
           56190217
         ], 
         "name": "Lira", 
+        "ne_latitude": 2.654, 
         "hierarchy": [
           "woe:state=20070431", 
           "woe:country=23424974", 
@@ -53,9 +54,8 @@
         "ne_longitude": 33.678, 
         "longitude": 32.999, 
         "placetype": "state", 
-        "latitude": 2.052, 
         "iso": "UG", 
-        "sw_latitude": 1.451, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=56190217", 
           "woe:state=56190194", 
@@ -68,10 +68,16 @@
           "woe:state=24550736"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 2.654, 
+        "latitude": 2.052, 
         "sw_longitude": 32.321, 
         "fullname": "Lira, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190297", 
+          "woe:county=56190298", 
+          "woe:county=56190299", 
+          "woe:county=56190300"
+        ], 
+        "sw_latitude": 1.451
       }, 
       "id": 20070431
     }

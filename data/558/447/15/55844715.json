@@ -39,7 +39,7 @@
           56190572
         ], 
         "name": "Stopi\u0144u Novads", 
-        "latitude": 56.92, 
+        "ne_latitude": 56.969, 
         "alias_UNK_S": [
           "Stopinu Novads"
         ], 
@@ -53,7 +53,7 @@
           "woe:planet=1"
         ], 
         "iso": "LV", 
-        "date_indexed": "2010-12-02T08:49:33Z", 
+        "sw_latitude": 56.872, 
         "adjacent": [
           "woe:state=56190572", 
           "woe:state=55844402", 
@@ -61,10 +61,13 @@
           "woe:state=55844352"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 56.969, 
+        "latitude": 56.92, 
         "sw_longitude": 24.228, 
         "fullname": "Stopi\u0144u Novads, Rigas Rajons, Stopi\u0144u Novads, Latvia", 
-        "sw_latitude": 56.872
+        "children": [
+          "woe:county=56190487"
+        ], 
+        "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 55844715
     }

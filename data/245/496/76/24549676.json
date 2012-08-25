@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": -18.826, 
         "name": "Aitutaki", 
         "hierarchy": [
           "woe:state=24549676", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549676, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -159.716, 
         "longitude": -159.786, 
         "placetype": "state", 
         "iso": "CK", 
-        "date_indexed": "2010-12-02T17:57:50Z", 
-        "ne_latitude": -18.826, 
+        "sw_latitude": -18.95, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -18.86, 
         "sw_longitude": -159.839, 
         "fullname": "Aitutaki, Cook Islands", 
-        "sw_latitude": -18.95
+        "children": [
+          "woe:island=12489408"
+        ], 
+        "date_indexed": "2010-12-02T17:57:50Z"
       }, 
       "id": 24549676
     }

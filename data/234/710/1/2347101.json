@@ -727,7 +727,6 @@
         "alias_ENG_V": [
           "Thurgau"
         ], 
-        "ne:ISO": "CHE", 
         "ne:ScaleRank": 9, 
         "alias_ENG_P": [
           "Canton of Thurgau"
@@ -738,24 +737,31 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 47.68225779885836, 
-        "ne:OBJECTID": 174, 
+        "ne:DataRank": 7, 
         "ne:Shape_Area": 0.112900926971, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
+        "children": [
+          "woe:county=12593160", 
+          "woe:county=12593156", 
+          "woe:county=12593195", 
+          "woe:county=12593084", 
+          "woe:county=12593152", 
+          "woe:county=12593115", 
+          "woe:county=12593255", 
+          "woe:county=12593204"
+        ], 
         "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Canton Turgovia"
         ], 
-        "alias_GER_V": [
-          "Kanton Thurgovia"
-        ], 
+        "ne:Area_sqkm": 944.5, 
         "alias_ITA_V": [
           "Turgovia"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Turgovia"
@@ -774,15 +780,13 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "sw_latitude": 47.37995066968773, 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 3, 
-        "ne:DataRank": 7, 
+        "ne:VertexCou": 177.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:OBJECTID": 174, 
         "ne:Postal": "TG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Thurgovie|Turgovia|Turg\u00a2via", 
-        "alias_GER_A": [
-          "TG"
-        ], 
+        "ne:ISO": "CHE", 
         "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 2.30508296687, 
@@ -790,20 +794,26 @@
         "ne:NAME_0": "Switzerland", 
         "ne:NAME_1": "Thurgau", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Canton|Kanton|Chantun", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 9, 
-        "ne:Area_sqkm": 944.5, 
+        "alias_GER_A": [
+          "TG"
+        ], 
+        "alias_GER_V": [
+          "Kanton Thurgovia"
+        ], 
         "woe:id": "2347101", 
-        "name": "Kanton Thurgau", 
-        "ne:VertexCou": 177.0, 
+        "ne:HASC_1": "CH.TG", 
+        "lang": "GER", 
         "adjacent_woeid": [
           2345481, 
           2347097, 
           2347098, 
           2347107
         ], 
-        "ne:HASC_1": "CH.TG", 
+        "name": "Kanton Thurgau", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Canton|Kanton|Chantun", 
         "alias_UNK_Q": [
           "Turgovia"
         ], 

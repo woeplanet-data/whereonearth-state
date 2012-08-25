@@ -40,21 +40,19 @@
           2346862
         ], 
         "name": "Naranjito", 
+        "ne_latitude": 18.334, 
         "hierarchy": [
           "woe:state=2346860", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346860, 
-        "alias_SPA_V": [
-          "Naranjito Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.205, 
         "longitude": -66.26, 
         "placetype": "state", 
-        "latitude": 18.287, 
         "sw_longitude": -66.314, 
-        "sw_latitude": 18.241, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346791", 
           "woe:state=2346859", 
@@ -62,11 +60,23 @@
           "woe:state=2346862", 
           "woe:state=2346807"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.334, 
+        "alias_SPA_V": [
+          "Naranjito Municipios"
+        ], 
+        "latitude": 18.287, 
         "iso": "PR", 
         "fullname": "Naranjito, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806546", 
+          "woe:county=26806547", 
+          "woe:county=26806548", 
+          "woe:county=26806549", 
+          "woe:county=26806550", 
+          "woe:county=26806551", 
+          "woe:county=26806552", 
+          "woe:county=26806553"
+        ], 
+        "sw_latitude": 18.241
       }, 
       "id": 2346860
     }

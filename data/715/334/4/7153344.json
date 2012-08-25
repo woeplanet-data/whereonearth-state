@@ -2170,11 +2170,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 38.81194651931645, 
+        "ne:RegionVar": null, 
         "ne:Shape_Area": 2.63897352539, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1895", 
-        "ne:Region_C_3": null, 
+        "ne:MAP_COLOR": 7, 
         "alias_POR_Q": [
           "Sic\u00edlia"
         ], 
@@ -2183,20 +2183,38 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
+        "children": [
+          "woe:county=12591870", 
+          "woe:county=12591851", 
+          "woe:county=12591830", 
+          "woe:county=12591863", 
+          "woe:county=12591837", 
+          "woe:county=12591846", 
+          "woe:county=12591822", 
+          "woe:county=12591894", 
+          "woe:county=12591885", 
+          "woe:island=12476314", 
+          "woe:zone=24874064", 
+          "woe:zone=24874065", 
+          "woe:zone=24874067", 
+          "woe:zone=24874070", 
+          "woe:zone=24874071", 
+          "woe:zone=24874072", 
+          "woe:zone=24874073", 
+          "woe:zone=24874075", 
+          "woe:zone=24874076"
+        ], 
         "ne:ScaleRank": 3, 
         "alias_ITA_S": [
           "Sicily Regione"
         ], 
-        "alias_DAN_Q": [
-          "Sicilien"
-        ], 
+        "ne:Area_sqkm": 25867.6, 
         "alias_ITA_V": [
           "Sicilia Regione"
         ], 
         "alias_JPN_Q": [
           "\u30b7\u30c1\u30ea\u30a2"
         ], 
-        "sw_latitude": 35.48925527631002, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_FIN_Q": [
@@ -2215,17 +2233,17 @@
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Region", 
-        "date_indexed": "2010-12-02T16:24:07Z", 
+        "sw_latitude": 35.48925527631002, 
         "alias_CHI_Q": [
           "\u897f\u897f\u91cc"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Sicilia", 
         "ne:ISO": "ITA", 
-        "ne:TYPE_1": "Regione", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 11.9213993691, 
         "alias_DUT_Q": [
@@ -2236,17 +2254,19 @@
           "Sicilie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:sameAsCity": -99, 
+        "ne:TYPE_1": "Regione", 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 25867.6, 
+        "alias_DAN_Q": [
+          "Sicilien"
+        ], 
         "alias_GER_Q": [
           "Sizilien"
         ], 
         "woe:id": "7153344", 
-        "name": "Sicilia", 
+        "ne:HASC_1": null, 
         "lang": "ITA", 
         "ne:NL_NAME_1": null, 
-        "ne:HASC_1": null, 
+        "name": "Sicilia", 
         "ne:REMARKS_1": "ITG", 
         "ne:CheckMe": 0, 
         "ne_longitude": 15.651789178128126, 
@@ -2254,14 +2274,15 @@
         "ne:VertexCou": 516.0, 
         "ne:NAME_1": "Sicily", 
         "iso": "IT", 
-        "ne:OBJECTID": 823, 
+        "date_indexed": "2010-12-02T16:24:07Z", 
         "fullname": "Sicilia, Sicily, Italy", 
-        "ne:Region": null, 
-        "ne:NEV_Countr": "Italy", 
-        "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "La Sicile"
-        ]
+        ], 
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Italy", 
+        "ne:OBJECTID": 823, 
+        "ne:sameAsCity": -99
       }, 
       "id": 7153344
     }

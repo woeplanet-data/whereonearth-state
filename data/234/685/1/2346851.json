@@ -40,24 +40,22 @@
           20070567
         ], 
         "name": "Manat\u00ed", 
+        "ne_latitude": 18.486, 
         "hierarchy": [
           "woe:state=2346851", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346851, 
-        "alias_SPA_V": [
-          "Manat\u00ed Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.439, 
         "longitude": -66.491, 
         "placetype": "state", 
-        "latitude": 18.418, 
         "alias_SPA_S": [
           "Manati Municipios"
         ], 
         "sw_longitude": -66.544, 
-        "sw_latitude": 18.35, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346852", 
           "woe:state=2346793", 
@@ -65,11 +63,24 @@
           "woe:state=2346802", 
           "woe:state=2346864"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.486, 
+        "alias_SPA_V": [
+          "Manat\u00ed Municipios"
+        ], 
+        "latitude": 18.418, 
         "iso": "PR", 
         "fullname": "Manat\u00ed, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806464", 
+          "woe:county=26806465", 
+          "woe:county=26806466", 
+          "woe:county=26806467", 
+          "woe:county=26806468", 
+          "woe:county=26806469", 
+          "woe:county=26806470", 
+          "woe:county=26806471", 
+          "woe:county=26806472"
+        ], 
+        "sw_latitude": 18.35
       }, 
       "id": 2346851
     }

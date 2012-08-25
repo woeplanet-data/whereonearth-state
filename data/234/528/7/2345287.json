@@ -39,7 +39,6 @@
           2345288, 
           2345289
         ], 
-        "ne_latitude": 58.785, 
         "name": "Tartumaa", 
         "alias_ENG_P": [
           "Tartu County"
@@ -49,7 +48,8 @@
           "woe:country=23424805", 
           "woe:planet=1"
         ], 
-        "woeid": 2345287, 
+        "ne_latitude": 58.785, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Tartu Maakond"
         ], 
@@ -57,7 +57,7 @@
         "ne_longitude": 27.55, 
         "placetype": "state", 
         "iso": "EE", 
-        "sw_latitude": 58.113, 
+        "date_indexed": "2010-12-02T16:42:58Z", 
         "adjacent": [
           "woe:state=2345278", 
           "woe:state=2345280", 
@@ -65,11 +65,35 @@
           "woe:state=2345288", 
           "woe:state=2345289"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2345287, 
         "latitude": 58.449, 
         "sw_longitude": 26.049, 
         "fullname": "Tartumaa, Tartu County, Estonia", 
-        "date_indexed": "2010-12-02T16:42:58Z"
+        "children": [
+          "woe:county=29389804", 
+          "woe:county=29389834", 
+          "woe:county=29389869", 
+          "woe:county=29389910", 
+          "woe:county=29389700", 
+          "woe:county=29389729", 
+          "woe:county=29389751", 
+          "woe:county=29389783", 
+          "woe:county=29389801", 
+          "woe:county=29389831", 
+          "woe:county=29389863", 
+          "woe:county=29389891", 
+          "woe:county=29389922", 
+          "woe:county=29389712", 
+          "woe:county=29389747", 
+          "woe:county=29389780", 
+          "woe:county=29389859", 
+          "woe:county=29389828", 
+          "woe:county=29389892", 
+          "woe:county=29389934", 
+          "woe:county=29389722", 
+          "woe:county=29389750"
+        ], 
+        "sw_latitude": 58.113
       }, 
       "id": 2345287
     }

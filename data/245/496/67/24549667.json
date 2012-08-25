@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": -19.761, 
         "name": "Mitiaro", 
         "hierarchy": [
           "woe:state=24549667", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549667, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -157.705, 
         "longitude": -157.72, 
         "placetype": "state", 
         "iso": "CK", 
-        "date_indexed": "2010-12-02T17:57:50Z", 
-        "ne_latitude": -19.761, 
+        "sw_latitude": -19.857, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -19.809, 
         "sw_longitude": -157.735, 
         "fullname": "Mitiaro, Cook Islands", 
-        "sw_latitude": -19.857
+        "children": [
+          "woe:island=12489360"
+        ], 
+        "date_indexed": "2010-12-02T17:57:50Z"
       }, 
       "id": 24549667
     }

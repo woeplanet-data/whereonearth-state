@@ -36,6 +36,7 @@
           2345953
         ], 
         "name": "Kaesong-si", 
+        "ne_latitude": 37.982, 
         "hierarchy": [
           "woe:state=20070116", 
           "woe:country=23424865", 
@@ -45,17 +46,19 @@
         "ne_longitude": 126.578, 
         "longitude": 126.556, 
         "placetype": "state", 
-        "latitude": 37.967, 
         "iso": "KP", 
-        "sw_latitude": 37.953, 
+        "date_indexed": "2010-12-02T10:22:43Z", 
         "adjacent": [
           "woe:state=2345953"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 37.982, 
+        "latitude": 37.967, 
         "sw_longitude": 126.535, 
         "fullname": "Kaesong-si, North Korea", 
-        "date_indexed": "2010-12-02T10:22:43Z"
+        "children": [
+          "woe:town=1093886"
+        ], 
+        "sw_latitude": 37.953
       }, 
       "id": 20070116
     }

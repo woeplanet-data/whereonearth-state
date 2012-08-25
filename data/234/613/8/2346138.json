@@ -39,6 +39,7 @@
           2346132
         ], 
         "name": "Darnah", 
+        "ne_latitude": 32.934, 
         "hierarchy": [
           "woe:state=2346138", 
           "woe:country=23424882", 
@@ -48,9 +49,8 @@
         "ne_longitude": 23.26, 
         "longitude": 22.599, 
         "placetype": "state", 
-        "latitude": 31.892, 
         "iso": "LY", 
-        "sw_latitude": 30.85, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=2346130", 
           "woe:state=2346131", 
@@ -58,10 +58,20 @@
           "woe:state=2346128"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 32.934, 
+        "latitude": 31.892, 
         "sw_longitude": 21.938, 
         "fullname": "Darnah, Libya", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1352755", 
+          "woe:town=1352853", 
+          "woe:town=1352880", 
+          "woe:town=1353206", 
+          "woe:town=1353235", 
+          "woe:town=1353339", 
+          "woe:town=1353343", 
+          "woe:town=1353348"
+        ], 
+        "sw_latitude": 30.85
       }, 
       "id": 2346138
     }

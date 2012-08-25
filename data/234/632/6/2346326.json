@@ -40,6 +40,7 @@
           55967672
         ], 
         "name": "Dosso", 
+        "ne_latitude": 14.552, 
         "hierarchy": [
           "woe:state=2346326", 
           "woe:country=23424906", 
@@ -49,9 +50,8 @@
         "ne_longitude": 4.595, 
         "longitude": 3.536, 
         "placetype": "state", 
-        "latitude": 13.124, 
         "iso": "NE", 
-        "sw_latitude": 11.697, 
+        "date_indexed": "2010-12-02T17:43:23Z", 
         "adjacent": [
           "woe:state=55967672", 
           "woe:state=2346368", 
@@ -60,10 +60,17 @@
           "woe:state=20069995"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.552, 
+        "latitude": 13.124, 
         "sw_longitude": 2.478, 
         "fullname": "Dosso, Niger", 
-        "date_indexed": "2010-12-02T17:43:23Z"
+        "children": [
+          "woe:county=56055516", 
+          "woe:county=56055515", 
+          "woe:county=56055512", 
+          "woe:county=56055514", 
+          "woe:county=56055513"
+        ], 
+        "sw_latitude": 11.697
       }, 
       "id": 2346326
     }

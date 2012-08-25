@@ -47,28 +47,34 @@
           "woe:planet=1"
         ], 
         "woeid": 2345023, 
-        "alias_SPA_V": [
-          "Regi\u00f3n del Biob\u00edo"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -70.997, 
         "longitude": -72.34, 
+        "ne_latitude": -26.466, 
         "placetype": "state", 
-        "latitude": -37.265, 
         "alias_SPA_S": [
           "Region del Biobio"
         ], 
         "sw_longitude": -105.467, 
-        "sw_latitude": -38.507, 
+        "date_indexed": "2010-12-02T12:15:28Z", 
         "adjacent": [
           "woe:state=2345021", 
           "woe:state=2345028", 
           "woe:state=2344689"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -26.466, 
+        "alias_SPA_V": [
+          "Regi\u00f3n del Biob\u00edo"
+        ], 
+        "latitude": -37.265, 
         "iso": "CL", 
         "fullname": "Biobio, Biobio Region, Chile", 
-        "date_indexed": "2010-12-02T12:15:28Z"
+        "children": [
+          "woe:county=26793976", 
+          "woe:county=26793978", 
+          "woe:county=26793990", 
+          "woe:county=26794007"
+        ], 
+        "sw_latitude": -38.507
       }, 
       "id": 2345023
     }

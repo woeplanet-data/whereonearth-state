@@ -31,13 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FIN", 
-        "adjacent_woeid": [
-          29389248, 
-          29389250, 
-          29389256, 
-          29389259
-        ], 
         "alias_SWE_V": [
           "Satakunda"
         ], 
@@ -53,27 +46,57 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 62.311, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 23.006, 
-        "longitude": 22.171, 
         "placetype": "state", 
+        "children": [
+          "woe:historicalcounty=12590924", 
+          "woe:historicalcounty=12590934", 
+          "woe:historicalcounty=12590952", 
+          "woe:historicalcounty=12590984", 
+          "woe:zone=24868286", 
+          "woe:colloquial=29389310", 
+          "woe:colloquial=29389331", 
+          "woe:county=56120874", 
+          "woe:county=56120875", 
+          "woe:county=56120879", 
+          "woe:drainage=29354140", 
+          "woe:drainage=29354414", 
+          "woe:drainage=29354914", 
+          "woe:drainage=29357930", 
+          "woe:drainage=29355473", 
+          "woe:drainage=29355617", 
+          "woe:drainage=29357964", 
+          "woe:drainage=29355906", 
+          "woe:drainage=29356029", 
+          "woe:drainage=29356452", 
+          "woe:drainage=29356795"
+        ], 
+        "woeid": 29389252, 
         "sw_longitude": 21.327, 
-        "date_indexed": "2010-12-02T16:39:41Z", 
         "alias_FIN_V": [
           "Satakunnan maakunnaksi"
         ], 
-        "woeid": 29389252, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 61.591, 
-        "iso": "FI", 
-        "fullname": "Satakunnan maakunta, Western Finland, Satakunnan maakunta, Finland", 
+        "sw_latitude": 60.872, 
         "adjacent": [
           "woe:state=29389256", 
           "woe:state=29389248", 
           "woe:state=29389259", 
           "woe:state=29389250"
         ], 
-        "sw_latitude": 60.872, 
-        "name": "Satakunnan maakunta"
+        "lang": "FIN", 
+        "adjacent_woeid": [
+          29389248, 
+          29389250, 
+          29389256, 
+          29389259
+        ], 
+        "name": "Satakunnan maakunta", 
+        "ne_longitude": 23.006, 
+        "longitude": 22.171, 
+        "iso": "FI", 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "fullname": "Satakunnan maakunta, Western Finland, Satakunnan maakunta, Finland"
       }, 
       "id": 29389252
     }

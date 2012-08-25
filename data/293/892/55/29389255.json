@@ -47,6 +47,11 @@
         ], 
         "ne_latitude": 61.801, 
         "placetype": "state", 
+        "children": [
+          "woe:county=56203658", 
+          "woe:county=56203659", 
+          "woe:historicalcounty=56120865"
+        ], 
         "woeid": 29389255, 
         "alias_ENG_P": [
           "Paijanne Tavastia"
@@ -60,7 +65,7 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 61.237, 
-        "date_indexed": "2010-12-02T16:39:41Z", 
+        "sw_latitude": 60.672, 
         "adjacent": [
           "woe:state=29389260", 
           "woe:state=29389251", 
@@ -84,7 +89,7 @@
         "ne_longitude": 26.514, 
         "longitude": 25.682, 
         "iso": "FI", 
-        "sw_latitude": 60.672, 
+        "date_indexed": "2010-12-02T16:39:41Z", 
         "fullname": "P\u00e4ijat-H\u00e4meen maakunta, Southern Finland, P\u00e4ijat-H\u00e4meen maakunta, Finland"
       }, 
       "id": 29389255

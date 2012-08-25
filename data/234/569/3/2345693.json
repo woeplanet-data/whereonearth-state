@@ -42,6 +42,7 @@
           20070112
         ], 
         "name": "Eyjafjardarsysla", 
+        "ne_latitude": 66.197, 
         "hierarchy": [
           "woe:state=2345693", 
           "woe:country=23424845", 
@@ -50,10 +51,21 @@
         "woeid": 2345693, 
         "ne_longitude": -17.662, 
         "longitude": -18.375, 
+        "children": [
+          "woe:town=980051", 
+          "woe:town=980098", 
+          "woe:town=28752658", 
+          "woe:town=980236", 
+          "woe:town=980241", 
+          "woe:town=28752659", 
+          "woe:town=980314", 
+          "woe:town=980341", 
+          "woe:town=28752665", 
+          "woe:island=12475967"
+        ], 
         "placetype": "state", 
-        "latitude": 65.44, 
         "iso": "IS", 
-        "sw_latitude": 64.682, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=20070101", 
           "woe:state=20070108", 
@@ -64,13 +76,13 @@
           "woe:state=2345709"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 66.197, 
+        "latitude": 65.44, 
         "sw_longitude": -19.088, 
         "fullname": "Eyjafjardarsysla, Iceland", 
         "alias_UNK_A": [
           "EYF"
         ], 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "sw_latitude": 64.682
       }, 
       "id": 2345693
     }

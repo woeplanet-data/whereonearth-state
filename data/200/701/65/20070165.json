@@ -683,13 +683,16 @@
         "ne:Shape_Area": 1.1253697416, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1979", 
+        "ne:MAP_COLOR": 2, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KWT", 
+        "children": [
+          "woe:county=55943086"
+        ], 
         "alias_ARA_S": [
           "Al Jahrar"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 1667, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 46.5319714696077, 
@@ -707,9 +710,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 28.97613861790296, 
-        "lang": "ARA", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 1667, 
+        "ne:VertexCou": 90.0, 
+        "ne:VALIDFR_1": "1979", 
+        "ne:DataRank": 8, 
         "ne:Postal": "JA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Jahra", 
@@ -725,8 +728,8 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 12090.5, 
         "woe:id": "20070165", 
-        "name": "Al Jahra\u00b4", 
-        "ne:VertexCou": 90.0, 
+        "ne:HASC_1": "KW.JA", 
+        "lang": "ARA", 
         "adjacent_woeid": [
           2345834, 
           2346954, 
@@ -734,7 +737,7 @@
           20070168, 
           20070169
         ], 
-        "ne:HASC_1": "KW.JA", 
+        "name": "Al Jahra\u00b4", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 48.35945682157512, 
         "longitude": 47.373, 

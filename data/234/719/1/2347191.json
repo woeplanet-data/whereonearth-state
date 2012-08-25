@@ -50,10 +50,10 @@
         "woeid": 2347191, 
         "ne_longitude": 100.221, 
         "longitude": 99.945, 
+        "ne_latitude": 7.132, 
         "placetype": "state", 
-        "latitude": 6.777, 
         "iso": "TH", 
-        "sw_latitude": 6.423, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2346303", 
           "woe:state=2347190", 
@@ -61,10 +61,21 @@
           "woe:state=2347189"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 7.132, 
+        "latitude": 6.777, 
         "sw_longitude": 99.153, 
         "fullname": "Satun, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341674", 
+          "woe:county=28341676", 
+          "woe:county=28341675", 
+          "woe:county=28341673", 
+          "woe:county=28341677", 
+          "woe:county=28341672", 
+          "woe:county=28341671", 
+          "woe:landfeature=56057382", 
+          "woe:landfeature=56057434"
+        ], 
+        "sw_latitude": 6.423
       }, 
       "id": 2347191
     }

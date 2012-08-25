@@ -1830,16 +1830,27 @@
         "ne:Shape_Area": 2.70668751385, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18550625", 
+        "ne:MAP_COLOR": 11, 
         "alias_KOR_Q": [
           "\ub9ac\ub9c8"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "PER", 
+        "children": [
+          "woe:county=26805792", 
+          "woe:county=26805799", 
+          "woe:county=26805807", 
+          "woe:county=26805805", 
+          "woe:county=26805857", 
+          "woe:county=26805861", 
+          "woe:county=26805862", 
+          "woe:county=26805899", 
+          "woe:county=26805959"
+        ], 
         "alias_CHI_Q": [
           "\u5229\u9a6c"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 591, 
         "alias_JPN_Q": [
           "\u30ea\u30de"
         ], 
@@ -1862,9 +1873,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Department", 
         "sw_latitude": -13.321822198135862, 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 591, 
+        "ne:VertexCou": 451.0, 
+        "ne:VALIDFR_1": "18550625", 
+        "ne:DataRank": 5, 
         "ne:Postal": "LR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lima province", 
@@ -1880,8 +1891,8 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 32631.3, 
         "woe:id": "2346482", 
-        "name": "Lima", 
-        "ne:VertexCou": 451.0, 
+        "ne:HASC_1": "PE.LR", 
+        "lang": "SPA", 
         "adjacent_woeid": [
           2346469, 
           2346476, 
@@ -1891,7 +1902,7 @@
           2346486, 
           28358302
         ], 
-        "ne:HASC_1": "PE.LR", 
+        "name": "Lima", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -75.46719682467369, 
         "longitude": -76.687, 

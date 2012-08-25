@@ -48,29 +48,35 @@
           "woe:planet=1"
         ], 
         "woeid": 2345019, 
-        "alias_SPA_V": [
-          "Regi\u00f3n Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -71.11, 
         "longitude": -73.402, 
+        "ne_latitude": -43.627, 
         "placetype": "state", 
-        "latitude": -46.422, 
         "alias_SPA_S": [
           "Region Aisen del General Carlos Ibanez del Campo"
         ], 
         "sw_longitude": -75.694, 
-        "sw_latitude": -49.218, 
+        "date_indexed": "2010-12-02T12:15:28Z", 
         "adjacent": [
           "woe:state=2344678", 
           "woe:state=2345026", 
           "woe:state=2345027", 
           "woe:state=2344694"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -43.627, 
+        "alias_SPA_V": [
+          "Regi\u00f3n Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+        ], 
+        "latitude": -46.422, 
         "iso": "CL", 
         "fullname": "Aisen del General Carlos Ibanez Del Campo, Aisen Region, Chile", 
-        "date_indexed": "2010-12-02T12:15:28Z"
+        "children": [
+          "woe:county=26793973", 
+          "woe:county=26793980", 
+          "woe:county=26793988", 
+          "woe:county=26793996"
+        ], 
+        "sw_latitude": -49.218
       }, 
       "id": 2345019
     }

@@ -44,6 +44,7 @@
           20070530
         ], 
         "name": "Tyva", 
+        "ne_latitude": 53.571, 
         "hierarchy": [
           "woe:state=2346879", 
           "woe:country=23424936", 
@@ -53,9 +54,8 @@
         "ne_longitude": 99.206, 
         "longitude": 94.149, 
         "placetype": "state", 
-        "latitude": 51.664, 
         "iso": "RU", 
-        "sw_latitude": 49.757, 
+        "date_indexed": "2010-12-02T16:07:50Z", 
         "adjacent": [
           "woe:state=20070530", 
           "woe:state=2346159", 
@@ -68,10 +68,30 @@
           "woe:state=2346173"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 53.571, 
+        "latitude": 51.664, 
         "sw_longitude": 89.092, 
         "fullname": "Tyva, Russia", 
-        "date_indexed": "2010-12-02T16:07:50Z"
+        "children": [
+          "woe:county=24701161", 
+          "woe:county=12597573", 
+          "woe:county=12597574", 
+          "woe:county=12597575", 
+          "woe:county=12597576", 
+          "woe:county=12597577", 
+          "woe:county=12597578", 
+          "woe:county=12597579", 
+          "woe:county=12597580", 
+          "woe:county=12597581", 
+          "woe:county=12597582", 
+          "woe:county=12597583", 
+          "woe:county=12597584", 
+          "woe:county=12597585", 
+          "woe:county=12597586", 
+          "woe:county=12597587", 
+          "woe:county=12597588", 
+          "woe:county=12597589"
+        ], 
+        "sw_latitude": 49.757
       }, 
       "id": 2346879
     }

@@ -14761,13 +14761,27 @@
         "ne:Shape_Area": 128.885957861, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\ub0b4\ubabd\uace8"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "children": [
+          "woe:county=26198283", 
+          "woe:county=26198045", 
+          "woe:county=26198066", 
+          "woe:county=26198284", 
+          "woe:county=26198222", 
+          "woe:county=26198285", 
+          "woe:county=26198055", 
+          "woe:county=26198068", 
+          "woe:county=26198078", 
+          "woe:county=26198286", 
+          "woe:county=26198067", 
+          "woe:county=26198054"
+        ], 
+        "ne:OBJECTID": 1838, 
         "alias_CHI_V": [
           "\u5167\u8499\u53e4"
         ], 
@@ -14801,9 +14815,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Region", 
         "sw_latitude": 37.39032786693758, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1838, 
+        "ne:VertexCou": 3522.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "NM", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Inner Mongol|N\u00e8imenggu", 
@@ -14819,8 +14833,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 1144556.8, 
         "woe:id": "12578009", 
-        "name": "\u5185\u8499\u53e4\u81ea\u6cbb\u533a", 
-        "ne:VertexCou": 3522.0, 
+        "ne:HASC_1": "CN.NM", 
+        "lang": "CHI", 
         "adjacent_woeid": [
           2346158, 
           2346160, 
@@ -14838,7 +14852,7 @@
           12578013, 
           12578015
         ], 
-        "ne:HASC_1": "CN.NM", 
+        "name": "\u5185\u8499\u53e4\u81ea\u6cbb\u533a", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 126.05626468276898, 
         "longitude": 118.719, 

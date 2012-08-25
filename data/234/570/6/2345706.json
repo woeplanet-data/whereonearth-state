@@ -38,6 +38,7 @@
           2345708
         ], 
         "name": "Vestur-Bardastrandarsysla", 
+        "ne_latitude": 65.802, 
         "hierarchy": [
           "woe:state=2345706", 
           "woe:country=23424845", 
@@ -46,23 +47,47 @@
         "woeid": 2345706, 
         "ne_longitude": -22.599, 
         "longitude": -23.639, 
+        "children": [
+          "woe:town=980083", 
+          "woe:town=980058", 
+          "woe:town=980126", 
+          "woe:town=980248", 
+          "woe:town=980362", 
+          "woe:town=980409", 
+          "woe:town=980412", 
+          "woe:town=980475", 
+          "woe:town=10645001", 
+          "woe:town=980535", 
+          "woe:island=12476110", 
+          "woe:island=12475906", 
+          "woe:island=12475922", 
+          "woe:island=12475928", 
+          "woe:island=12475958", 
+          "woe:island=12475966", 
+          "woe:island=12476112", 
+          "woe:island=12475988", 
+          "woe:island=12508159", 
+          "woe:island=12476021", 
+          "woe:island=12476113", 
+          "woe:island=12476111", 
+          "woe:island=12508164"
+        ], 
         "placetype": "state", 
-        "latitude": 65.603, 
         "iso": "IS", 
-        "sw_latitude": 65.266, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345688", 
           "woe:state=2345697", 
           "woe:state=2345708"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 65.802, 
+        "latitude": 65.603, 
         "sw_longitude": -24.547, 
         "fullname": "Vestur-Bardastrandarsysla, Iceland", 
         "alias_UNK_A": [
           "V-BARD"
         ], 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "sw_latitude": 65.266
       }, 
       "id": 2345706
     }

@@ -44,22 +44,26 @@
           "woe:planet=1"
         ], 
         "woeid": 24549758, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.087, 
         "longitude": 45.069, 
         "placetype": "state", 
+        "latitude": -12.719, 
         "iso": "YT", 
-        "date_indexed": "2010-12-02T16:11:57Z", 
+        "sw_latitude": -12.73, 
         "adjacent": [
           "woe:state=24549755", 
           "woe:state=24549762", 
           "woe:state=24549750"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -12.634, 
-        "latitude": -12.719, 
         "sw_longitude": 45.015, 
         "fullname": "Mtsamboro, Mayotte", 
-        "sw_latitude": -12.73
+        "children": [
+          "woe:town=1365579", 
+          "woe:island=12465406"
+        ], 
+        "date_indexed": "2010-12-02T16:11:57Z"
       }, 
       "id": 24549758
     }

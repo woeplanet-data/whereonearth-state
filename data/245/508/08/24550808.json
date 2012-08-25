@@ -41,6 +41,7 @@
           24550853, 
           24550860
         ], 
+        "ne_latitude": 41.505, 
         "name": "Strumica", 
         "alias_ENG_P": [
           "Strumica Municipality"
@@ -57,9 +58,8 @@
         "longitude": 22.626, 
         "ne_longitude": 22.803, 
         "placetype": "state", 
-        "latitude": 41.404, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.303, 
         "adjacent": [
           "woe:state=24550750", 
           "woe:state=12577884", 
@@ -70,10 +70,19 @@
           "woe:state=24550814"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.505, 
+        "latitude": 41.404, 
         "sw_longitude": 22.45, 
         "fullname": "Strumica, Strumica Municipality, Macedonia", 
-        "sw_latitude": 41.303
+        "children": [
+          "woe:town=481689", 
+          "woe:town=481887", 
+          "woe:town=482335", 
+          "woe:town=482385", 
+          "woe:town=482564", 
+          "woe:town=483041", 
+          "woe:town=483177"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550808
     }

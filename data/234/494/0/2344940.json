@@ -53,12 +53,12 @@
           "woe:planet=1"
         ], 
         "woeid": 2344940, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 107.628, 
         "longitude": 107.058, 
-        "ne_latitude": 14.686, 
         "placetype": "state", 
         "iso": "KH", 
-        "sw_latitude": 13.146, 
+        "date_indexed": "2010-12-02T16:11:17Z", 
         "adjacent": [
           "woe:state=20070159", 
           "woe:state=2347720", 
@@ -67,11 +67,22 @@
           "woe:state=2344936", 
           "woe:state=2344942"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.686, 
         "latitude": 13.916, 
         "sw_longitude": 106.489, 
         "fullname": "Ratanah Kiri, Cambodia", 
-        "date_indexed": "2010-12-02T16:11:17Z"
+        "children": [
+          "woe:county=56063329", 
+          "woe:county=56063330", 
+          "woe:county=56063331", 
+          "woe:county=56063332", 
+          "woe:county=56063333", 
+          "woe:county=56063334", 
+          "woe:county=56063335", 
+          "woe:county=56063336", 
+          "woe:county=56063337"
+        ], 
+        "sw_latitude": 13.146
       }, 
       "id": 2344940
     }

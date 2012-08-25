@@ -246,16 +246,25 @@
         "ne:Shape_Area": 0.0637193781899, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19760201", 
+        "ne:MAP_COLOR": 1, 
         "alias_KOR_Q": [
           "\ubc14\uadf8\ub2e4\ub4dc"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRQ", 
+        "children": [
+          "woe:county=55999981", 
+          "woe:county=55999980", 
+          "woe:county=55999982", 
+          "woe:county=55999977", 
+          "woe:county=55999983", 
+          "woe:county=55999979", 
+          "woe:county=55999978"
+        ], 
         "alias_CHI_Q": [
           "\u5df4\u683c\u8fbe"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 3063, 
         "alias_JPN_Q": [
           "\u30d0\u30b0\u30c0\u30fc\u30c9"
         ], 
@@ -276,9 +285,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 33.17601146066045, 
-        "lang": "ARA", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3063, 
+        "ne:VertexCou": 54.0, 
+        "ne:VALIDFR_1": "19760201", 
+        "ne:DataRank": 5, 
         "ne:Postal": "BG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Bagd\u00a0|Bagdad", 
@@ -297,8 +306,8 @@
           "Bagdad"
         ], 
         "woe:id": "2345839", 
-        "name": "Baghdad", 
-        "ne:VertexCou": 54.0, 
+        "ne:HASC_1": "IQ.BG", 
+        "lang": "ARA", 
         "adjacent_woeid": [
           2345833, 
           2345838, 
@@ -306,7 +315,7 @@
           2345848, 
           2345850
         ], 
-        "ne:HASC_1": "IQ.BG", 
+        "name": "Baghdad", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 44.543255649528646, 
         "longitude": 44.424, 

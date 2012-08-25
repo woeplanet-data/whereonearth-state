@@ -37,6 +37,7 @@
           2346149
         ], 
         "name": "Antsiranana", 
+        "ne_latitude": -11.945, 
         "hierarchy": [
           "woe:state=2346146", 
           "woe:country=23424883", 
@@ -46,18 +47,28 @@
         "ne_longitude": 50.484, 
         "longitude": 49.173, 
         "placetype": "state", 
-        "latitude": -13.971, 
         "iso": "MG", 
-        "sw_latitude": -16.0, 
+        "date_indexed": "2010-12-02T16:43:41Z", 
         "adjacent": [
           "woe:state=2346148", 
           "woe:state=2346149"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -11.945, 
+        "latitude": -13.971, 
         "sw_longitude": 47.809, 
         "fullname": "Antsiranana, Madagascar", 
-        "date_indexed": "2010-12-02T16:43:41Z"
+        "children": [
+          "woe:county=23706590", 
+          "woe:county=23706593", 
+          "woe:county=23706597", 
+          "woe:county=23706531", 
+          "woe:county=23706535", 
+          "woe:county=23706572", 
+          "woe:county=23706575", 
+          "woe:county=23706550", 
+          "woe:island=12466024"
+        ], 
+        "sw_latitude": -16.0
       }, 
       "id": 2346146
     }

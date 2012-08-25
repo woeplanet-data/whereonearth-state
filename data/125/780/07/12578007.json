@@ -6837,13 +6837,24 @@
         "ne:Shape_Area": 15.9034697023, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\uad6c\uc774\uc800\uc6b0"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "children": [
+          "woe:county=26198220", 
+          "woe:county=26198355", 
+          "woe:county=26198221", 
+          "woe:county=26198356", 
+          "woe:county=26198206", 
+          "woe:county=26198358", 
+          "woe:county=26198359", 
+          "woe:county=26198357", 
+          "woe:county=26198354"
+        ], 
+        "ne:OBJECTID": 1153, 
         "alias_CHI_V": [
           "\u8cb4\u5dde\u7701"
         ], 
@@ -6870,9 +6881,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 24.63139089577328, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1153, 
+        "ne:VertexCou": 1702.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "GZ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "G\u00f9izhou", 
@@ -6888,8 +6899,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 175156.7, 
         "woe:id": "12578007", 
-        "name": "\u8d35\u5dde\u7701", 
-        "ne:VertexCou": 1702.0, 
+        "ne:HASC_1": "CN.GZ", 
+        "lang": "CHI", 
         "adjacent_woeid": [
           12578001, 
           12578006, 
@@ -6897,7 +6908,7 @@
           12578018, 
           20070171
         ], 
-        "ne:HASC_1": "CN.GZ", 
+        "name": "\u8d35\u5dde\u7701", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 109.5214083188389, 
         "longitude": 106.585, 

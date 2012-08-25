@@ -354,10 +354,18 @@
         "ne:Shape_Area": 0.806253263492, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1946", 
+        "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
-        "ne:DataRank": 5, 
+        "children": [
+          "woe:county=29390183", 
+          "woe:county=29390411", 
+          "woe:county=29390510", 
+          "woe:county=29390549", 
+          "woe:county=29390607", 
+          "woe:county=29390850"
+        ], 
+        "ne:OBJECTID": 2310, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 41.16434044785342, 
@@ -376,9 +384,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 38.53459910766276, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 2310, 
+        "ne:VertexCou": 82.0, 
+        "ne:VALIDFR_1": "1946", 
+        "ne:DataRank": 5, 
         "ne:Postal": "MS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Mus", 
@@ -394,8 +402,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 7751.3, 
         "woe:id": "2347302", 
-        "name": "Mu\u015f", 
-        "ne:VertexCou": 82.0, 
+        "ne:HASC_1": "TR.MS", 
+        "lang": "UNK", 
         "adjacent_woeid": [
           2347261, 
           2347269, 
@@ -404,7 +412,7 @@
           2347282, 
           2347326
         ], 
-        "ne:HASC_1": "TR.MS", 
+        "name": "Mu\u015f", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Mus"

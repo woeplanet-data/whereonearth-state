@@ -37,6 +37,7 @@
           20070146
         ], 
         "name": "Nsanje", 
+        "ne_latitude": -16.314, 
         "hierarchy": [
           "woe:state=20070145", 
           "woe:country=23424889", 
@@ -46,18 +47,24 @@
         "ne_longitude": 35.313, 
         "longitude": 35.103, 
         "placetype": "state", 
-        "latitude": -16.719, 
         "iso": "MW", 
-        "sw_latitude": -17.125, 
+        "date_indexed": "2010-12-02T17:40:22Z", 
         "adjacent": [
           "woe:state=20070146", 
           "woe:state=20070144"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -16.314, 
+        "latitude": -16.719, 
         "sw_longitude": 34.894, 
         "fullname": "Nsanje, Malawi", 
-        "date_indexed": "2010-12-02T17:40:22Z"
+        "children": [
+          "woe:town=1365642", 
+          "woe:town=1366225", 
+          "woe:town=1367527", 
+          "woe:town=1368847", 
+          "woe:town=1369076"
+        ], 
+        "sw_latitude": -17.125
       }, 
       "id": 20070145
     }

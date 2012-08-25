@@ -45,23 +45,26 @@
           "woe:planet=1"
         ], 
         "woeid": 24549750, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.134, 
         "longitude": 45.092, 
         "placetype": "state", 
+        "latitude": -12.766, 
         "iso": "YT", 
-        "date_indexed": "2010-12-02T16:11:57Z", 
+        "sw_latitude": -12.791, 
         "adjacent": [
           "woe:state=24549755", 
           "woe:state=24549762", 
           "woe:state=24549758", 
           "woe:state=24549759"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -12.727, 
-        "latitude": -12.766, 
         "sw_longitude": 45.062, 
         "fullname": "M'Tsangamouji, Mayotte", 
-        "sw_latitude": -12.791
+        "children": [
+          "woe:town=24602719"
+        ], 
+        "date_indexed": "2010-12-02T16:11:57Z"
       }, 
       "id": 24549750
     }

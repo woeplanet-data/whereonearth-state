@@ -37,6 +37,7 @@
           29389214
         ], 
         "name": "Prizren", 
+        "ne_latitude": 42.544, 
         "hierarchy": [
           "woe:state=29389209", 
           "woe:country=20069818", 
@@ -52,18 +53,39 @@
         "longitude": 20.739, 
         "ne_longitude": 20.996, 
         "placetype": "state", 
-        "latitude": 42.238, 
         "iso": "RS", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
+        "sw_latitude": 41.909, 
         "adjacent": [
           "woe:state=29389201", 
           "woe:state=29389214"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.544, 
+        "latitude": 42.238, 
         "sw_longitude": 20.483, 
         "fullname": "Prizren, Serbia", 
-        "sw_latitude": 41.909
+        "children": [
+          "woe:county=56072665", 
+          "woe:county=56072662", 
+          "woe:county=56072664", 
+          "woe:county=56072663", 
+          "woe:town=532541", 
+          "woe:town=532766", 
+          "woe:town=533643", 
+          "woe:town=535563", 
+          "woe:town=535736", 
+          "woe:town=535950", 
+          "woe:town=536153", 
+          "woe:town=536319", 
+          "woe:town=536817", 
+          "woe:town=536968", 
+          "woe:town=537027", 
+          "woe:town=537342", 
+          "woe:town=537542", 
+          "woe:town=537576", 
+          "woe:town=537769", 
+          "woe:town=537818"
+        ], 
+        "date_indexed": "2010-12-02T10:22:30Z"
       }, 
       "id": 29389209
     }

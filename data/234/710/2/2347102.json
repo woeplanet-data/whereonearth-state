@@ -817,21 +817,28 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 46.6323477241682, 
-        "ne:OBJECTID": 168, 
+        "ne:DataRank": 7, 
         "ne:Shape_Area": 0.34086152665, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
-        "ne:VALIDTO_1": "Present", 
-        "alias_GER_V": [
-          "Tessin"
+        "children": [
+          "woe:county=12593127", 
+          "woe:county=12593096", 
+          "woe:county=12593125", 
+          "woe:county=12593143", 
+          "woe:county=12593121", 
+          "woe:county=12593168", 
+          "woe:county=12593139", 
+          "woe:county=12593126"
         ], 
+        "ne:VALIDTO_1": "Present", 
+        "ne:Area_sqkm": 2919.4, 
         "alias_ITA_V": [
           "Ticino"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Tesino"
@@ -854,9 +861,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "sw_latitude": 45.821105251406266, 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 3, 
-        "ne:DataRank": 7, 
+        "ne:VertexCou": 182.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:OBJECTID": 168, 
         "ne:Postal": "TI", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Tesino|Tessin", 
@@ -870,15 +877,17 @@
         "ne:NAME_0": "Switzerland", 
         "ne:NAME_1": "Ticino", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Canton|Kanton|Chantun", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 9, 
-        "ne:Area_sqkm": 2919.4, 
+        "alias_GER_V": [
+          "Tessin"
+        ], 
         "alias_GER_Q": [
           "Kanton Tessin"
         ], 
         "woe:id": "2347102", 
-        "name": "Cantone Ticino", 
-        "ne:VertexCou": 182.0, 
+        "ne:HASC_1": "CH.TI", 
+        "lang": "ITA", 
         "adjacent_woeid": [
           2347091, 
           2347103, 
@@ -886,9 +895,10 @@
           7153338, 
           7153341
         ], 
-        "ne:HASC_1": "CH.TI", 
+        "name": "Cantone Ticino", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
+        "ne:TYPE_1": "Canton|Kanton|Chantun", 
         "alias_UNK_Q": [
           "Tessin"
         ], 

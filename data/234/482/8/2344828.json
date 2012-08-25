@@ -41,6 +41,7 @@
           55967673
         ], 
         "name": "Oueme", 
+        "ne_latitude": 6.962, 
         "hierarchy": [
           "woe:state=2344828", 
           "woe:country=23424764", 
@@ -50,16 +51,17 @@
         "alias_JPN_Q": [
           "\u30a6\u30a8\u30e1\u5ddd"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 2.729, 
         "longitude": 2.561, 
         "alias_CHI_Q": [
           "\u97e6\u6885"
         ], 
         "placetype": "state", 
-        "latitude": 6.654, 
+        "alias_FRE_V": [
+          "Ou\u00e9m\u00e9"
+        ], 
         "iso": "BJ", 
-        "sw_latitude": 6.347, 
+        "date_indexed": "2010-12-02T18:05:31Z", 
         "adjacent": [
           "woe:state=2344825", 
           "woe:state=2346342", 
@@ -68,13 +70,22 @@
           "woe:state=55967669", 
           "woe:state=2344829"
         ], 
-        "ne_latitude": 6.962, 
-        "alias_FRE_V": [
-          "Ou\u00e9m\u00e9"
-        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 6.654, 
         "sw_longitude": 2.393, 
         "fullname": "Oueme, Benin", 
-        "date_indexed": "2010-12-02T18:05:31Z"
+        "children": [
+          "woe:county=55967706", 
+          "woe:county=55967704", 
+          "woe:county=55967747", 
+          "woe:county=55967705", 
+          "woe:county=55967702", 
+          "woe:county=55967703", 
+          "woe:county=55967701", 
+          "woe:county=55967746", 
+          "woe:county=55967748"
+        ], 
+        "sw_latitude": 6.347
       }, 
       "id": 2344828
     }

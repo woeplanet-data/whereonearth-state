@@ -32,24 +32,29 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 21.702, 
         "name": "Inagua", 
         "hierarchy": [
           "woe:state=2344772", 
           "woe:country=23424758", 
           "woe:planet=1"
         ], 
-        "woeid": 2344772, 
+        "ne_latitude": 21.702, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -72.915, 
         "longitude": -73.36, 
         "placetype": "state", 
         "iso": "BS", 
-        "sw_latitude": 20.916, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "woeid": 2344772, 
         "latitude": 21.125, 
         "sw_longitude": -73.855, 
         "fullname": "Inagua, The Bahamas", 
-        "date_indexed": "2010-12-02T07:50:25Z"
+        "children": [
+          "woe:town=56998", 
+          "woe:island=12481773", 
+          "woe:island=12481545"
+        ], 
+        "sw_latitude": 20.916
       }, 
       "id": 2344772
     }

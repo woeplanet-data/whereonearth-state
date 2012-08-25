@@ -49,12 +49,12 @@
           "woe:planet=1"
         ], 
         "woeid": 56000466, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 67.381, 
         "longitude": 66.305, 
         "placetype": "state", 
+        "latitude": 33.735, 
         "iso": "AF", 
-        "date_indexed": "2010-12-02T18:03:37Z", 
+        "sw_latitude": 33.074, 
         "adjacent": [
           "woe:state=2344552", 
           "woe:state=2344555", 
@@ -62,11 +62,17 @@
           "woe:state=2344557", 
           "woe:state=2344566"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 34.396, 
-        "latitude": 33.735, 
         "sw_longitude": 65.229, 
         "fullname": "Daykundi, Afghanistan", 
-        "sw_latitude": 33.074
+        "children": [
+          "woe:county=56000638", 
+          "woe:county=56000640", 
+          "woe:county=56000641", 
+          "woe:county=56000639"
+        ], 
+        "date_indexed": "2010-12-02T18:03:37Z"
       }, 
       "id": 56000466
     }

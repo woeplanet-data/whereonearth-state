@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": -9.333, 
         "name": "Nukulaelae", 
         "hierarchy": [
           "woe:state=24549920", 
@@ -39,17 +40,23 @@
           "woe:planet=1"
         ], 
         "woeid": 24549920, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 179.884, 
         "longitude": 179.86, 
         "placetype": "state", 
         "iso": "TV", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "ne_latitude": -9.333, 
+        "sw_latitude": -9.436, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -9.416, 
         "sw_longitude": 179.816, 
         "fullname": "Nukulaelae, Tuvalu", 
-        "sw_latitude": -9.436
+        "children": [
+          "woe:island=12502312", 
+          "woe:island=12502317", 
+          "woe:island=12502335", 
+          "woe:island=12502339", 
+          "woe:island=12502342"
+        ], 
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 24549920
     }

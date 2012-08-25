@@ -41,21 +41,19 @@
           28358195
         ], 
         "name": "Azua", 
+        "ne_latitude": 18.994, 
         "hierarchy": [
           "woe:state=2345172", 
           "woe:country=23424800", 
           "woe:planet=1"
         ], 
         "woeid": 2345172, 
-        "alias_SPA_V": [
-          "Compostela de Azua"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -70.469, 
         "longitude": -70.765, 
         "placetype": "state", 
-        "latitude": 18.623, 
         "sw_longitude": -71.061, 
-        "sw_latitude": 18.179, 
+        "date_indexed": "2010-12-02T16:32:46Z", 
         "adjacent": [
           "woe:state=2345173", 
           "woe:state=2345174", 
@@ -64,11 +62,22 @@
           "woe:state=28358195", 
           "woe:state=2345191"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.994, 
+        "alias_SPA_V": [
+          "Compostela de Azua"
+        ], 
+        "latitude": 18.623, 
         "iso": "DO", 
         "fullname": "Azua, Dominican Republic", 
-        "date_indexed": "2010-12-02T16:32:46Z"
+        "children": [
+          "woe:town=69173", 
+          "woe:town=71191", 
+          "woe:town=74774", 
+          "woe:town=75489", 
+          "woe:town=76746", 
+          "woe:island=12483963", 
+          "woe:island=12483971"
+        ], 
+        "sw_latitude": 18.179
       }, 
       "id": 2345172
     }

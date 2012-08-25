@@ -47,22 +47,37 @@
           "woe:planet=1"
         ], 
         "woeid": 56051601, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 50.672, 
         "longitude": 50.594, 
         "placetype": "state", 
+        "latitude": 26.15, 
         "iso": "BH", 
-        "date_indexed": "2010-12-02T16:11:57Z", 
+        "sw_latitude": 26.095, 
         "adjacent": [
           "woe:state=2344720", 
           "woe:state=56051603", 
           "woe:state=56051602"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 26.204, 
-        "latitude": 26.15, 
         "sw_longitude": 50.516, 
         "fullname": "Central, Bahrain", 
-        "sw_latitude": 26.095
+        "children": [
+          "woe:town=1966959", 
+          "woe:town=1966962", 
+          "woe:town=1967060", 
+          "woe:town=1966983", 
+          "woe:town=1967018", 
+          "woe:town=1967021", 
+          "woe:town=1967030", 
+          "woe:town=1967042", 
+          "woe:town=1967045", 
+          "woe:town=1967048", 
+          "woe:town=1967051", 
+          "woe:town=55927491", 
+          "woe:town=1966979"
+        ], 
+        "date_indexed": "2010-12-02T16:11:57Z"
       }, 
       "id": 56051601
     }

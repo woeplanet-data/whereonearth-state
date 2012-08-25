@@ -43,21 +43,39 @@
           "woe:planet=1"
         ], 
         "woeid": 24551242, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.966, 
         "longitude": -77.2, 
         "placetype": "state", 
+        "latitude": 26.241, 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
+        "sw_latitude": 26.151, 
         "adjacent": [
           "woe:state=24551249", 
           "woe:state=24551253"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 26.721, 
-        "latitude": 26.241, 
         "sw_longitude": -77.378, 
         "fullname": "Central Abaco, The Bahamas", 
-        "sw_latitude": 26.151
+        "children": [
+          "woe:town=56868", 
+          "woe:town=56994", 
+          "woe:island=12481285", 
+          "woe:island=12481369", 
+          "woe:island=12481370", 
+          "woe:island=12481386", 
+          "woe:island=12481406", 
+          "woe:island=12481434", 
+          "woe:island=12481439", 
+          "woe:island=12481501", 
+          "woe:island=12481511", 
+          "woe:island=12481589", 
+          "woe:island=12481614", 
+          "woe:island=12481767", 
+          "woe:island=12481662", 
+          "woe:island=12481671"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551242
     }

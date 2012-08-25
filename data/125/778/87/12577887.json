@@ -2514,6 +2514,7 @@
           "Peloponnisos"
         ], 
         "ne:ScaleRank": 6, 
+        "ne:NL_NAME_1": "??e??p????s??", 
         "hierarchy": [
           "woe:state=12577887", 
           "woe:country=23424833", 
@@ -2523,23 +2524,30 @@
         "ne:Shape_Area": 1.57876862083, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1923", 
+        "ne:MAP_COLOR": 9, 
         "alias_KOR_Q": [
           "\ud3a0\ub85c\ud3f0\ub2c8\uc18c\uc2a4 \uc8fc"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "GRC", 
+        "children": [
+          "woe:county=12591119", 
+          "woe:county=24543542", 
+          "woe:county=12591121", 
+          "woe:county=12591120", 
+          "woe:county=12591122", 
+          "woe:zone=24873760"
+        ], 
         "alias_CHI_Q": [
           "\u4f2f\u7f57\u5954\u5c3c\u6492\u5927\u533a"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 2885, 
         "alias_ARA_Q": [
           "\u0628\u064a\u0644\u0648\u0628\u0648\u0646\u064a\u0632"
         ], 
         "alias_JPN_Q": [
           "\u30da\u30ed\u30dd\u30cd\u30bd\u30b9"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 21.567500441192465, 
@@ -2556,9 +2564,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 2885, 
+        "ne:VertexCou": 592.0, 
+        "ne:VALIDFR_1": "1923", 
+        "ne:DataRank": 6, 
         "ne:Postal": "PP", 
         "ne:Region_Cod": "GRC-PLP", 
         "ne:VARNAME_1": "Peloponnese", 
@@ -2572,26 +2580,24 @@
         "ne:NAME_0": "Greece", 
         "ne:NAME_1": "Peloponnisos", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Diamerismata", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 15524.4, 
         "alias_GER_Q": [
           "Peloponnes"
         ], 
         "woe:id": "12577887", 
-        "name": "Peloponnese", 
-        "ne:VertexCou": 592.0, 
+        "ne:HASC_1": "GR.PP", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           12577879, 
           12577880
         ], 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": "GR.PP", 
+        "name": "Peloponnese", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
-        "alias_HUN_S": [
-          "Peloponneszosz"
-        ], 
+        "ne:TYPE_1": "Diamerismata", 
         "alias_UNK_Q": [
           "Peloponeso"
         ], 
@@ -2602,7 +2608,9 @@
         "longitude": 22.51, 
         "iso": "GR", 
         "sw_latitude": 36.39085399031944, 
-        "ne:NL_NAME_1": "??e??p????s??", 
+        "alias_HUN_S": [
+          "Peloponneszosz"
+        ], 
         "fullname": "Peloponnese, Peloponnisos, Greece", 
         "ne:Region": "Peloponnisos", 
         "ne:NEV_Countr": "Greece", 

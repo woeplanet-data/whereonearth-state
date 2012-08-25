@@ -2113,11 +2113,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 44.68476634409154, 
+        "ne:RegionVar": null, 
         "ne:Shape_Area": 0.618797607549, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Before 1900", 
-        "ne:Region_C_3": null, 
+        "ne:MAP_COLOR": 7, 
         "alias_POR_Q": [
           "Lig\u00faria"
         ], 
@@ -2126,20 +2126,24 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
+        "children": [
+          "woe:county=12591832", 
+          "woe:county=12591858", 
+          "woe:county=12591883", 
+          "woe:county=12591879", 
+          "woe:landfeature=56058419"
+        ], 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u5229\u53e4\u91cc\u4e9a"
         ], 
-        "alias_DAN_Q": [
-          "Ligurien"
-        ], 
+        "ne:Area_sqkm": 5490.3, 
         "alias_ITA_V": [
           "Liguria Regione"
         ], 
         "alias_JPN_Q": [
           "\u30ea\u30b0\u30ea\u30a2"
         ], 
-        "sw_latitude": 43.784614570006454, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_ITA_A": [
@@ -2158,15 +2162,15 @@
         "ne:FIRST_FIPS": "IT08", 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
-        "date_indexed": "2010-12-02T16:24:07Z", 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 7, 
+        "sw_latitude": 43.784614570006454, 
+        "ne:VertexCou": 520.0, 
+        "ne:VALIDFR_1": "Before 1900", 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lacio|Latium", 
         "ne:ISO": "ITA", 
-        "ne:TYPE_1": "Regione", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 7.23144649835, 
         "alias_DUT_Q": [
@@ -2177,37 +2181,40 @@
           "Ligurie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:sameAsCity": -99, 
+        "ne:TYPE_1": "Regione", 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 5490.3, 
+        "alias_DAN_Q": [
+          "Ligurien"
+        ], 
         "alias_GER_Q": [
           "Ligurien"
         ], 
         "woe:id": "7153337", 
-        "name": "Liguria", 
-        "ne:VertexCou": 520.0, 
+        "ne:HASC_1": null, 
+        "lang": "ITA", 
         "adjacent_woeid": [
           7153328, 
           7153334, 
           7153341, 
           7153345
         ], 
-        "ne:HASC_1": null, 
+        "name": "Liguria", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "ne_longitude": 10.056885206687014, 
         "longitude": 9.685, 
         "ne:NAME_1": "Liguria", 
         "iso": "IT", 
-        "ne:OBJECTID": 814, 
+        "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Liguria, Italy", 
-        "ne:Region": null, 
-        "ne:NEV_Countr": "Italy", 
-        "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "La Ligurie"
-        ]
+        ], 
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Italy", 
+        "ne:OBJECTID": 814, 
+        "ne:sameAsCity": -99
       }, 
       "id": 7153337
     }

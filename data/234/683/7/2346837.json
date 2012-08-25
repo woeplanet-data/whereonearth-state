@@ -39,32 +39,46 @@
           2346849
         ], 
         "name": "Lajas", 
+        "ne_latitude": 18.066, 
         "hierarchy": [
           "woe:state=2346837", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346837, 
-        "alias_SPA_V": [
-          "Lajas Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.959, 
         "longitude": -67.037, 
         "placetype": "state", 
-        "latitude": 18.006, 
         "sw_longitude": -67.116, 
-        "sw_latitude": 17.946, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346849", 
           "woe:state=2346836", 
           "woe:state=2346804", 
           "woe:state=2346805"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.066, 
+        "alias_SPA_V": [
+          "Lajas Municipios"
+        ], 
+        "latitude": 18.006, 
         "iso": "PR", 
         "fullname": "Lajas, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806404", 
+          "woe:county=26806405", 
+          "woe:county=26806407", 
+          "woe:county=26806406", 
+          "woe:county=26806408", 
+          "woe:county=26806409", 
+          "woe:county=26806410", 
+          "woe:county=26806411", 
+          "woe:county=26806412", 
+          "woe:county=26806413", 
+          "woe:county=26806414", 
+          "woe:county=26806415"
+        ], 
+        "sw_latitude": 17.946
       }, 
       "id": 2346837
     }

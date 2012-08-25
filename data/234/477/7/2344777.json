@@ -32,24 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 25.2, 
         "name": "New Providence", 
         "hierarchy": [
           "woe:state=2344777", 
           "woe:country=23424758", 
           "woe:planet=1"
         ], 
-        "woeid": 2344777, 
+        "ne_latitude": 25.2, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.766, 
         "longitude": -77.407, 
         "placetype": "state", 
         "iso": "BS", 
-        "sw_latitude": 24.973, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "woeid": 2344777, 
         "latitude": 25.026, 
         "sw_longitude": -77.601, 
         "fullname": "New Providence, The Bahamas", 
-        "date_indexed": "2010-12-02T07:50:25Z"
+        "children": [
+          "woe:town=56810", 
+          "woe:town=56835", 
+          "woe:town=56882", 
+          "woe:town=56932", 
+          "woe:town=56958", 
+          "woe:town=57005", 
+          "woe:town=57024", 
+          "woe:town=57044", 
+          "woe:town=57075", 
+          "woe:town=57095", 
+          "woe:town=57141", 
+          "woe:town=57142", 
+          "woe:island=12481779", 
+          "woe:island=12481776", 
+          "woe:island=12481581", 
+          "woe:island=12481592", 
+          "woe:landfeature=56057287"
+        ], 
+        "sw_latitude": 24.973
       }, 
       "id": 2344777
     }

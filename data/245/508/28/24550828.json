@@ -37,6 +37,7 @@
           24550819, 
           24550862
         ], 
+        "ne_latitude": 42.043, 
         "name": "Bogovinje", 
         "alias_ENG_P": [
           "Bogovinje Municipality"
@@ -53,19 +54,23 @@
         "longitude": 20.85, 
         "ne_longitude": 20.97, 
         "placetype": "state", 
-        "latitude": 41.974, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.905, 
         "adjacent": [
           "woe:state=24550751", 
           "woe:state=24550862", 
           "woe:state=24550819"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.043, 
+        "latitude": 41.974, 
         "sw_longitude": 20.73, 
         "fullname": "Bogovinje, Bogovinje Municipality, Macedonia", 
-        "sw_latitude": 41.905
+        "children": [
+          "woe:town=481760", 
+          "woe:town=482258", 
+          "woe:town=483269"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550828
     }

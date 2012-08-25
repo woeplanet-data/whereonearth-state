@@ -40,6 +40,7 @@
           20069843
         ], 
         "name": "Oshikoto", 
+        "ne_latitude": -17.69, 
         "hierarchy": [
           "woe:state=20069841", 
           "woe:country=23424987", 
@@ -49,9 +50,8 @@
         "ne_longitude": 18.199, 
         "longitude": 17.019, 
         "placetype": "state", 
-        "latitude": -18.613, 
         "iso": "NA", 
-        "sw_latitude": -19.535, 
+        "date_indexed": "2010-12-02T07:50:17Z", 
         "adjacent": [
           "woe:state=20069839", 
           "woe:state=20069840", 
@@ -60,10 +60,22 @@
           "woe:state=20069835"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -17.69, 
+        "latitude": -18.613, 
         "sw_longitude": 15.839, 
         "fullname": "Oshikoto, Namibia", 
-        "date_indexed": "2010-12-02T07:50:17Z"
+        "children": [
+          "woe:county=55921128", 
+          "woe:county=55921156", 
+          "woe:county=55921116", 
+          "woe:county=55921152", 
+          "woe:county=55921189", 
+          "woe:county=55921159", 
+          "woe:county=55921130", 
+          "woe:county=55921147", 
+          "woe:county=55921163", 
+          "woe:county=55921111"
+        ], 
+        "sw_latitude": -19.535
       }, 
       "id": 20069841
     }

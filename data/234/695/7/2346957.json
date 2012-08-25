@@ -52,10 +52,10 @@
         "woeid": 2346957, 
         "ne_longitude": 42.916, 
         "longitude": 40.815, 
+        "ne_latitude": 29.082, 
         "placetype": "state", 
-        "latitude": 27.219, 
         "iso": "SA", 
-        "sw_latitude": 25.356, 
+        "date_indexed": "2010-12-02T09:34:37Z", 
         "adjacent": [
           "woe:state=2346961", 
           "woe:state=2346950", 
@@ -65,10 +65,17 @@
           "woe:state=2346962"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 29.082, 
+        "latitude": 27.219, 
         "sw_longitude": 38.715, 
         "fullname": "Ha'il, Hail, Saudi Arabia", 
-        "date_indexed": "2010-12-02T09:34:37Z"
+        "children": [
+          "woe:county=56120139", 
+          "woe:county=56120140", 
+          "woe:county=56120138", 
+          "woe:county=56120141", 
+          "woe:historicalcounty=55948223"
+        ], 
+        "sw_latitude": 25.356
       }, 
       "id": 2346957
     }

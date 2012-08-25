@@ -46,12 +46,12 @@
           "woe:planet=1"
         ], 
         "woeid": 24549899, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 125.827, 
         "longitude": 125.649, 
         "placetype": "state", 
+        "latitude": -8.701, 
         "iso": "TL", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
+        "sw_latitude": -8.845, 
         "adjacent": [
           "woe:state=24549900", 
           "woe:state=24549898", 
@@ -59,11 +59,14 @@
           "woe:state=24549897", 
           "woe:state=24549902"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -8.556, 
-        "latitude": -8.701, 
         "sw_longitude": 125.471, 
         "fullname": "Aileu, East Timor", 
-        "sw_latitude": -8.845
+        "children": [
+          "woe:town=1028723"
+        ], 
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 24549899
     }

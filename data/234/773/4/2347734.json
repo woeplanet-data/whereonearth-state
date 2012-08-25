@@ -31,12 +31,58 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u6cb3\u6c5f"
-        ], 
         "alias_ENG_V": [
           "Hagiang"
         ], 
+        "hierarchy": [
+          "woe:state=2347734", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 23.389, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ud558\uc9c0\uc559"
+        ], 
+        "children": [
+          "woe:town=56124283", 
+          "woe:town=56124451", 
+          "woe:town=56124272", 
+          "woe:town=56124488", 
+          "woe:town=1229272", 
+          "woe:town=1252320", 
+          "woe:town=1252321", 
+          "woe:town=1252285", 
+          "woe:town=1252287", 
+          "woe:town=1252367", 
+          "woe:town=1252420", 
+          "woe:town=1252477", 
+          "woe:town=1252457", 
+          "woe:town=1252710", 
+          "woe:town=1252517", 
+          "woe:town=56124453", 
+          "woe:town=56124466", 
+          "woe:town=56124469", 
+          "woe:town=1252603", 
+          "woe:town=1252612", 
+          "woe:town=56124291", 
+          "woe:town=56124303", 
+          "woe:town=56124473", 
+          "woe:town=56124435", 
+          "woe:town=56123540", 
+          "woe:town=56124481", 
+          "woe:town=1252670", 
+          "woe:town=56124444", 
+          "woe:town=1252697"
+        ], 
+        "alias_CHI_Q": [
+          "\u6cb3\u6c5f"
+        ], 
+        "woeid": 2347734, 
+        "alias_JPN_Q": [
+          "\u30cf\u30b8\u30e3\u30f3"
+        ], 
+        "sw_longitude": 104.338, 
         "adjacent": [
           "woe:state=2347704", 
           "woe:state=2347740", 
@@ -45,6 +91,10 @@
           "woe:state=12578018", 
           "woe:state=12578006"
         ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.776, 
+        "sw_latitude": 22.164, 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347704, 
           2347740, 
@@ -53,31 +103,12 @@
           12578006, 
           12578018
         ], 
-        "hierarchy": [
-          "woe:state=2347734", 
-          "woe:country=23424984", 
-          "woe:planet=1"
-        ], 
-        "ne_latitude": 23.389, 
-        "alias_JPN_Q": [
-          "\u30cf\u30b8\u30e3\u30f3"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ha Giang", 
         "ne_longitude": 105.576, 
         "longitude": 104.957, 
-        "name": "Ha Giang", 
-        "placetype": "state", 
-        "sw_longitude": 104.338, 
-        "date_indexed": "2010-12-02T08:52:39Z", 
-        "alias_KOR_Q": [
-          "\ud558\uc9c0\uc559"
-        ], 
-        "woeid": 2347734, 
-        "latitude": 22.776, 
         "iso": "VN", 
-        "fullname": "Ha Giang, Vietnam", 
-        "sw_latitude": 22.164, 
-        "lang": "ENG"
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "fullname": "Ha Giang, Vietnam"
       }, 
       "id": 2347734
     }

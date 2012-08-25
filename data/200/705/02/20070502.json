@@ -38,6 +38,15 @@
         ], 
         "ne_latitude": 49.621, 
         "placetype": "state", 
+        "children": [
+          "woe:county=12582539", 
+          "woe:county=12582542", 
+          "woe:county=12582541", 
+          "woe:county=12582543", 
+          "woe:county=12582544", 
+          "woe:county=12582537", 
+          "woe:county=12582538"
+        ], 
         "alias_ITA_Q": [
           "Boemia Meridionale"
         ], 
@@ -57,8 +66,8 @@
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.087, 
         "sw_latitude": 48.552, 
-        "alias_DUT_Q": [
-          "Zuid-Bohemen"
+        "alias_CZE_V": [
+          "S Bohemia"
         ], 
         "alias_CZE_S": [
           "Jihocesky"
@@ -79,8 +88,8 @@
           20070503
         ], 
         "name": "Jiho\u010desk\u00fd", 
-        "alias_CZE_V": [
-          "S Bohemia"
+        "alias_DUT_Q": [
+          "Zuid-Bohemen"
         ], 
         "ne_longitude": 15.603, 
         "longitude": 14.57, 

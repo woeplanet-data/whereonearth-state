@@ -50,10 +50,10 @@
         "woeid": 2346003, 
         "ne_longitude": 101.79, 
         "longitude": 100.942, 
+        "ne_latitude": 21.564, 
         "placetype": "state", 
-        "latitude": 20.852, 
         "iso": "LA", 
-        "sw_latitude": 20.381, 
+        "date_indexed": "2010-12-02T16:42:51Z", 
         "adjacent": [
           "woe:state=20070156", 
           "woe:state=2346005", 
@@ -61,10 +61,17 @@
           "woe:state=12578018"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 21.564, 
+        "latitude": 20.852, 
         "sw_longitude": 100.515, 
         "fullname": "Louang Namtha Province, Laos", 
-        "date_indexed": "2010-12-02T16:42:51Z"
+        "children": [
+          "woe:town=1139679", 
+          "woe:town=1140558", 
+          "woe:town=1139814", 
+          "woe:town=1140590", 
+          "woe:town=1140381"
+        ], 
+        "sw_latitude": 20.381
       }, 
       "id": 2346003
     }

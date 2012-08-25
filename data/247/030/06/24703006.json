@@ -46,21 +46,28 @@
           "woe:planet=1"
         ], 
         "woeid": 24703006, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 114.246, 
         "longitude": 114.159, 
         "placetype": "state", 
+        "latitude": 22.333, 
         "iso": "HK", 
-        "date_indexed": "2010-12-02T12:08:18Z", 
+        "sw_latitude": 22.286, 
         "adjacent": [
           "woe:state=24703004", 
           "woe:state=24703007"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 22.359, 
-        "latitude": 22.333, 
         "sw_longitude": 114.122, 
         "fullname": "\u4e5d\u9f8d, Kowloon, Hong Kong", 
-        "sw_latitude": 22.286
+        "children": [
+          "woe:county=24703135", 
+          "woe:county=24703134", 
+          "woe:county=24703133", 
+          "woe:county=24703136", 
+          "woe:county=24703137"
+        ], 
+        "date_indexed": "2010-12-02T12:08:18Z"
       }, 
       "id": 24703006
     }

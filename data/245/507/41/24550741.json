@@ -45,20 +45,23 @@
           "woe:planet=1"
         ], 
         "woeid": 24550741, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 70.158, 
         "longitude": 69.851, 
         "placetype": "state", 
+        "latitude": 33.379, 
         "iso": "AF", 
-        "date_indexed": "2010-12-02T18:03:37Z", 
+        "sw_latitude": 33.208, 
         "adjacent": [
           "woe:state=2344567"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 33.481, 
-        "latitude": 33.379, 
         "sw_longitude": 69.819, 
         "fullname": "Khowst, Afghanistan", 
-        "sw_latitude": 33.208
+        "children": [
+          "woe:county=56000783"
+        ], 
+        "date_indexed": "2010-12-02T18:03:37Z"
       }, 
       "id": 24550741
     }

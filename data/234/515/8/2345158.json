@@ -38,6 +38,7 @@
           2347021
         ], 
         "name": "Djibouti", 
+        "ne_latitude": 11.733, 
         "hierarchy": [
           "woe:state=2345158", 
           "woe:country=23424797", 
@@ -47,19 +48,24 @@
         "ne_longitude": 43.255, 
         "longitude": 43.034, 
         "placetype": "state", 
-        "latitude": 11.51, 
         "iso": "DJ", 
-        "sw_latitude": 11.404, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=2345156", 
           "woe:state=2345157", 
           "woe:state=2347021"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 11.733, 
+        "latitude": 11.51, 
         "sw_longitude": 42.813, 
         "fullname": "Djibouti", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:town=1310941", 
+          "woe:town=1310942", 
+          "woe:town=1310956", 
+          "woe:island=12465461"
+        ], 
+        "sw_latitude": 11.404
       }, 
       "id": 2345158
     }

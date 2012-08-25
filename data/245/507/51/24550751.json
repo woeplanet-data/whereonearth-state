@@ -40,6 +40,7 @@
           24550828, 
           24550862
         ], 
+        "ne_latitude": 41.987, 
         "name": "Brvenica", 
         "alias_ENG_P": [
           "Brvenica Municipality"
@@ -56,9 +57,8 @@
         "longitude": 21.033, 
         "ne_longitude": 21.117, 
         "placetype": "state", 
-        "latitude": 41.895, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.803, 
         "adjacent": [
           "woe:state=24550828", 
           "woe:state=24550767", 
@@ -68,10 +68,13 @@
           "woe:state=24550821"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.987, 
+        "latitude": 41.895, 
         "sw_longitude": 20.95, 
         "fullname": "Brvenica, Brvenica Municipality, Macedonia", 
-        "sw_latitude": 41.803
+        "children": [
+          "woe:town=481802"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550751
     }

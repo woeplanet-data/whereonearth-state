@@ -46,12 +46,22 @@
           "woe:planet=1"
         ], 
         "woeid": 55967358, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -2.529, 
         "longitude": -3.078, 
+        "children": [
+          "woe:county=55967606", 
+          "woe:county=55967605", 
+          "woe:county=55967607", 
+          "woe:county=55967611", 
+          "woe:county=55967604", 
+          "woe:county=55967610", 
+          "woe:county=55967609", 
+          "woe:county=55967608"
+        ], 
         "placetype": "state", 
+        "latitude": 11.685, 
         "iso": "BF", 
-        "date_indexed": "2010-12-02T09:36:17Z", 
+        "sw_latitude": 11.246, 
         "adjacent": [
           "woe:state=55967357", 
           "woe:state=2347624", 
@@ -59,14 +69,14 @@
           "woe:state=2347634", 
           "woe:state=55967366"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 12.124, 
-        "latitude": 11.685, 
         "sw_longitude": -3.628, 
         "fullname": "Bal\u00e9, Burkina Faso", 
         "alias_FRE_S": [
           "Bale"
         ], 
-        "sw_latitude": 11.246
+        "date_indexed": "2010-12-02T09:36:17Z"
       }, 
       "id": 55967358
     }

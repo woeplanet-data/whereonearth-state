@@ -41,6 +41,7 @@
           24550811, 
           24550820
         ], 
+        "ne_latitude": 41.918, 
         "name": "Veles", 
         "alias_ENG_P": [
           "Veles Municipality"
@@ -57,9 +58,8 @@
         "longitude": 21.667, 
         "ne_longitude": 21.884, 
         "placetype": "state", 
-        "latitude": 41.767, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.616, 
         "adjacent": [
           "woe:state=24550768", 
           "woe:state=24550785", 
@@ -70,10 +70,16 @@
           "woe:state=24550754"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.918, 
+        "latitude": 41.767, 
         "sw_longitude": 21.449, 
         "fullname": "Veles, Veles Municipality, Macedonia", 
-        "sw_latitude": 41.616
+        "children": [
+          "woe:town=481700", 
+          "woe:town=482141", 
+          "woe:town=482212", 
+          "woe:town=483099"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550815
     }

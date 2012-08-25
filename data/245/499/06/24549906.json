@@ -42,20 +42,28 @@
           "woe:planet=1"
         ], 
         "woeid": 24549906, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 124.501, 
         "longitude": 124.288, 
         "placetype": "state", 
+        "latitude": -9.344, 
         "iso": "TL", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
+        "sw_latitude": -9.513, 
         "adjacent": [
           "woe:state=2345727"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -9.175, 
-        "latitude": -9.344, 
         "sw_longitude": 124.075, 
         "fullname": "Oecussi-Ambeno, East Timor", 
-        "sw_latitude": -9.513
+        "children": [
+          "woe:town=1048880", 
+          "woe:town=28752699", 
+          "woe:town=1048089", 
+          "woe:town=1040242", 
+          "woe:town=1048113", 
+          "woe:town=1048881"
+        ], 
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 24549906
     }

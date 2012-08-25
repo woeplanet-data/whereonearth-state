@@ -41,6 +41,7 @@
           56059379
         ], 
         "name": "Eastern", 
+        "ne_latitude": 9.074, 
         "hierarchy": [
           "woe:state=2347000", 
           "woe:country=23424946", 
@@ -50,9 +51,8 @@
         "ne_longitude": -10.284, 
         "longitude": -10.94, 
         "placetype": "state", 
-        "latitude": 8.208, 
         "iso": "SL", 
-        "sw_latitude": 7.341, 
+        "date_indexed": "2010-12-02T12:08:44Z", 
         "adjacent": [
           "woe:state=56059379", 
           "woe:state=2346106", 
@@ -62,10 +62,34 @@
           "woe:state=2347002"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 9.074, 
+        "latitude": 8.208, 
         "sw_longitude": -11.597, 
         "fullname": "Eastern, Sierra Leone", 
-        "date_indexed": "2010-12-02T12:08:44Z"
+        "children": [
+          "woe:town=1512807", 
+          "woe:town=1419102", 
+          "woe:town=56123196", 
+          "woe:town=1419205", 
+          "woe:town=1512965", 
+          "woe:town=1513276", 
+          "woe:town=1513589", 
+          "woe:town=56125596", 
+          "woe:town=1513626", 
+          "woe:town=1513707", 
+          "woe:town=1420284", 
+          "woe:town=1513826", 
+          "woe:town=56125568", 
+          "woe:town=1513857", 
+          "woe:town=1422959", 
+          "woe:town=1515047", 
+          "woe:town=1515061", 
+          "woe:town=1423687", 
+          "woe:town=1515353", 
+          "woe:town=1424323", 
+          "woe:town=1424724", 
+          "woe:town=1515866"
+        ], 
+        "sw_latitude": 7.341
       }, 
       "id": 2347000
     }

@@ -40,25 +40,7 @@
           2344695, 
           2344698
         ], 
-        "alias_ENG_A": [
-          "SE"
-        ], 
         "name": "Santiago del Estero", 
-        "hierarchy": [
-          "woe:state=2344696", 
-          "woe:country=23424747", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2344696, 
-        "alias_SPA_V": [
-          "Provincia de Santiago del Estero"
-        ], 
-        "ne_longitude": -61.709, 
-        "longitude": -63.448, 
-        "placetype": "state", 
-        "latitude": -28.065, 
-        "sw_longitude": -65.187, 
-        "sw_latitude": -30.479, 
         "adjacent": [
           "woe:state=2344676", 
           "woe:state=2344677", 
@@ -67,11 +49,58 @@
           "woe:state=2344695", 
           "woe:state=2344698"
         ], 
+        "hierarchy": [
+          "woe:state=2344696", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344696, 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -61.709, 
+        "longitude": -63.448, 
         "ne_latitude": -25.652, 
+        "placetype": "state", 
+        "sw_longitude": -65.187, 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "alias_ENG_A": [
+          "SE"
+        ], 
+        "alias_SPA_V": [
+          "Provincia de Santiago del Estero"
+        ], 
+        "latitude": -28.065, 
         "iso": "AR", 
         "fullname": "Santiago del Estero, Argentina", 
-        "date_indexed": "2010-12-02T17:40:36Z"
+        "children": [
+          "woe:county=20070886", 
+          "woe:county=20070853", 
+          "woe:county=20070877", 
+          "woe:county=20070884", 
+          "woe:county=20070870", 
+          "woe:county=20070888", 
+          "woe:county=20070777", 
+          "woe:county=20070851", 
+          "woe:county=20070881", 
+          "woe:county=20070885", 
+          "woe:county=20070749", 
+          "woe:county=20070854", 
+          "woe:county=20070883", 
+          "woe:county=20070875", 
+          "woe:county=20070879", 
+          "woe:county=20070776", 
+          "woe:county=20070876", 
+          "woe:county=20070852", 
+          "woe:county=20070880", 
+          "woe:county=20070887", 
+          "woe:county=20070872", 
+          "woe:county=20070869", 
+          "woe:county=20070878", 
+          "woe:county=20070874", 
+          "woe:county=20070871", 
+          "woe:county=20070882", 
+          "woe:county=20070873"
+        ], 
+        "sw_latitude": -30.479
       }, 
       "id": 2344696
     }

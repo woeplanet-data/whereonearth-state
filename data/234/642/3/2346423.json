@@ -42,6 +42,7 @@
           20069833
         ], 
         "name": "Jinotega", 
+        "ne_latitude": 14.58, 
         "hierarchy": [
           "woe:state=2346423", 
           "woe:country=23424915", 
@@ -51,9 +52,8 @@
         "ne_longitude": -84.884, 
         "longitude": -85.575, 
         "placetype": "state", 
-        "latitude": 13.787, 
         "iso": "NI", 
-        "sw_latitude": 12.993, 
+        "date_indexed": "2010-12-02T18:19:07Z", 
         "adjacent": [
           "woe:state=2345629", 
           "woe:state=2346421", 
@@ -64,10 +64,20 @@
           "woe:state=20069833"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.58, 
+        "latitude": 13.787, 
         "sw_longitude": -86.267, 
         "fullname": "Jinotega, Nicaragua", 
-        "date_indexed": "2010-12-02T18:19:07Z"
+        "children": [
+          "woe:county=28358280", 
+          "woe:county=26813341", 
+          "woe:county=26813340", 
+          "woe:county=28358279", 
+          "woe:county=26813338", 
+          "woe:county=26813339", 
+          "woe:county=26813337", 
+          "woe:county=26813335"
+        ], 
+        "sw_latitude": 12.993
       }, 
       "id": 2346423
     }

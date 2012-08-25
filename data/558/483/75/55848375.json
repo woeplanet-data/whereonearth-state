@@ -44,22 +44,25 @@
           "woe:planet=1"
         ], 
         "woeid": 55848375, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 13.712, 
         "longitude": 13.638, 
         "placetype": "state", 
+        "latitude": 45.493, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 45.446, 
         "adjacent": [
           "woe:state=12577974", 
           "woe:state=55848353", 
           "woe:state=55848357"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 45.54, 
-        "latitude": 45.493, 
         "sw_longitude": 13.563, 
         "fullname": "Piran, Slovenia", 
-        "sw_latitude": 45.446
+        "children": [
+          "woe:county=12591597"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848375
     }

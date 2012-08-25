@@ -36,32 +36,36 @@
           24549690
         ], 
         "name": "Klaksvik", 
-        "alias_DAN_S": [
-          "Klakksvik"
-        ], 
+        "ne_latitude": 62.244, 
         "hierarchy": [
           "woe:state=24549689", 
           "woe:country=23424816", 
           "woe:planet=1"
         ], 
         "woeid": 24549689, 
+        "sw_latitude": 62.17, 
         "ne_longitude": -6.534, 
         "longitude": -6.579, 
         "placetype": "state", 
-        "latitude": 62.207, 
         "sw_longitude": -6.624, 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "iso": "FO", 
         "adjacent": [
           "woe:state=24549690"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 62.244, 
-        "iso": "FO", 
+        "latitude": 62.207, 
+        "alias_DAN_S": [
+          "Klakksvik"
+        ], 
         "fullname": "Klaksvik, Faroe Islands", 
         "alias_DAN_V": [
           "Klaksvig"
         ], 
-        "sw_latitude": 62.17
+        "children": [
+          "woe:town=472674", 
+          "woe:town=472784"
+        ], 
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 24549689
     }

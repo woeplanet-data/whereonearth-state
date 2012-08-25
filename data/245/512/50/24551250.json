@@ -45,20 +45,25 @@
           "woe:planet=1"
         ], 
         "woeid": 24551250, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -77.883, 
         "longitude": -78.099, 
         "placetype": "state", 
+        "latitude": 25.116, 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
+        "sw_latitude": 25.026, 
         "adjacent": [
           "woe:state=24551243"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 25.327, 
-        "latitude": 25.116, 
         "sw_longitude": -78.239, 
         "fullname": "North Andros, The Bahamas", 
-        "sw_latitude": 25.026
+        "children": [
+          "woe:town=57028", 
+          "woe:island=12481695", 
+          "woe:island=12481490"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551250
     }

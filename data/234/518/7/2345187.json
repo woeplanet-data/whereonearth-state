@@ -48,26 +48,35 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 19.93, 
-        "alias_SPA_V": [
-          "Pto Plata"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -70.332, 
         "longitude": -70.795, 
+        "children": [
+          "woe:town=69700", 
+          "woe:town=71130", 
+          "woe:town=72025", 
+          "woe:town=75017", 
+          "woe:town=76282", 
+          "woe:town=76321", 
+          "woe:town=76505"
+        ], 
         "placetype": "state", 
         "iso": "DO", 
-        "sw_latitude": 19.543, 
+        "date_indexed": "2010-12-02T16:32:46Z", 
         "adjacent": [
           "woe:state=2345178", 
           "woe:state=2345184", 
           "woe:state=2345193", 
           "woe:state=2345195"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "alias_SPA_V": [
+          "Pto Plata"
+        ], 
         "latitude": 19.737, 
         "sw_longitude": -71.258, 
         "fullname": "Puerto Plata, Dominican Republic", 
         "woeid": 2345187, 
-        "date_indexed": "2010-12-02T16:32:46Z"
+        "sw_latitude": 19.543
       }, 
       "id": 2345187
     }

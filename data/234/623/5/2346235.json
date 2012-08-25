@@ -37,6 +37,7 @@
           2346232
         ], 
         "name": "Riviere du Rempart", 
+        "ne_latitude": -19.816, 
         "hierarchy": [
           "woe:state=2346235", 
           "woe:country=23424894", 
@@ -46,18 +47,23 @@
         "ne_longitude": 57.8, 
         "longitude": 57.649, 
         "placetype": "state", 
-        "latitude": -20.069, 
         "iso": "MU", 
-        "sw_latitude": -20.152, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=2346229", 
           "woe:state=2346232"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -19.816, 
+        "latitude": -20.069, 
         "sw_longitude": 57.567, 
         "fullname": "Riviere du Rempart, Mauritius", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1377323", 
+          "woe:town=1377460", 
+          "woe:town=1377484", 
+          "woe:island=12466051"
+        ], 
+        "sw_latitude": -20.152
       }, 
       "id": 2346235
     }

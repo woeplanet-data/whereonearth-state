@@ -39,7 +39,6 @@
           2345287, 
           2345288
         ], 
-        "ne_latitude": 58.69, 
         "name": "Viljandimaa", 
         "alias_ENG_P": [
           "Viljandi County"
@@ -49,7 +48,8 @@
           "woe:country=23424805", 
           "woe:planet=1"
         ], 
-        "woeid": 2345289, 
+        "ne_latitude": 58.69, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Viljandi Maakond"
         ], 
@@ -57,7 +57,7 @@
         "ne_longitude": 26.191, 
         "placetype": "state", 
         "iso": "EE", 
-        "sw_latitude": 57.956, 
+        "date_indexed": "2010-12-02T16:42:58Z", 
         "adjacent": [
           "woe:state=2345279", 
           "woe:state=2345280", 
@@ -65,11 +65,31 @@
           "woe:state=2345287", 
           "woe:state=2345288"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2345289, 
         "latitude": 58.323, 
         "sw_longitude": 24.972, 
         "fullname": "Viljandimaa, Viljandi County, Estonia", 
-        "date_indexed": "2010-12-02T16:42:58Z"
+        "children": [
+          "woe:county=29389862", 
+          "woe:county=29389896", 
+          "woe:county=29389845", 
+          "woe:county=29389927", 
+          "woe:county=29389708", 
+          "woe:county=29389742", 
+          "woe:county=29389755", 
+          "woe:county=29389816", 
+          "woe:county=29389877", 
+          "woe:county=29389908", 
+          "woe:county=29389703", 
+          "woe:county=29389919", 
+          "woe:county=29389812", 
+          "woe:county=29389846", 
+          "woe:county=29389887", 
+          "woe:historicalcounty=29389785", 
+          "woe:historicalcounty=29389738", 
+          "woe:historicalcounty=29389781"
+        ], 
+        "sw_latitude": 57.956
       }, 
       "id": 2345289
     }

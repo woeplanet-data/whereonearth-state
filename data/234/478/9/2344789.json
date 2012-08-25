@@ -36,6 +36,7 @@
           "S. Salvador"
         ], 
         "name": "San Salvador", 
+        "ne_latitude": 24.167, 
         "hierarchy": [
           "woe:state=2344789", 
           "woe:country=23424758", 
@@ -45,14 +46,19 @@
         "ne_longitude": -73.25, 
         "longitude": -74.493, 
         "placetype": "state", 
-        "latitude": 24.041, 
         "iso": "BS", 
-        "sw_latitude": 23.814, 
+        "date_indexed": "2010-12-02T07:50:25Z", 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 24.167, 
+        "latitude": 24.041, 
         "sw_longitude": -75.134, 
         "fullname": "San Salvador, The Bahamas", 
-        "date_indexed": "2010-12-02T07:50:25Z"
+        "children": [
+          "woe:town=56874", 
+          "woe:town=56900", 
+          "woe:island=12481309", 
+          "woe:island=12481343"
+        ], 
+        "sw_latitude": 23.814
       }, 
       "id": 2344789
     }

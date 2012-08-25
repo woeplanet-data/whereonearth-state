@@ -53,10 +53,10 @@
         "woeid": 2347141, 
         "ne_longitude": 101.796, 
         "longitude": 101.215, 
+        "ne_latitude": 17.178, 
         "placetype": "state", 
-        "latitude": 16.241, 
         "iso": "TH", 
-        "sw_latitude": 15.304, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347151", 
           "woe:state=2347147", 
@@ -67,10 +67,23 @@
           "woe:state=2347139"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 17.178, 
+        "latitude": 16.241, 
         "sw_longitude": 100.635, 
         "fullname": "Phetchabun, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28340967", 
+          "woe:county=28340963", 
+          "woe:county=28340962", 
+          "woe:county=28341009", 
+          "woe:county=28340965", 
+          "woe:county=28340968", 
+          "woe:county=28341008", 
+          "woe:county=28340970", 
+          "woe:county=28340964", 
+          "woe:county=28340966", 
+          "woe:county=28340969"
+        ], 
+        "sw_latitude": 15.304
       }, 
       "id": 2347141
     }

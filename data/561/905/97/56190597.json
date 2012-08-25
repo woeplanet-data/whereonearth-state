@@ -18,14 +18,15 @@
           56190555
         ], 
         "name": "R\u0157zekne Novads", 
-        "alias_UNK_S": [
-          "Rrzekne Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190597", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190597, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Rrzekne Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -41,7 +42,33 @@
           "woe:state=56190530"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190597, 
+        "children": [
+          "woe:county=55844169", 
+          "woe:county=55844327", 
+          "woe:county=55844239", 
+          "woe:county=55844396", 
+          "woe:county=55844560", 
+          "woe:county=55844717", 
+          "woe:county=55844602", 
+          "woe:county=55844201", 
+          "woe:county=55844360", 
+          "woe:county=55844524", 
+          "woe:county=55844680", 
+          "woe:county=55844277", 
+          "woe:county=55844433", 
+          "woe:county=55844591", 
+          "woe:county=55844619", 
+          "woe:county=55844219", 
+          "woe:county=55844371", 
+          "woe:county=55844532", 
+          "woe:county=55844462", 
+          "woe:county=55844686", 
+          "woe:county=55844291", 
+          "woe:county=55844498", 
+          "woe:county=55844651", 
+          "woe:county=55844250", 
+          "woe:county=55844488"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190597

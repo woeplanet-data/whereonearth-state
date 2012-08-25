@@ -17,21 +17,28 @@
           "woe:planet=1"
         ], 
         "woeid": 56120062, 
-        "provider": "geoplanet 7.6.0", 
         "placetype": "state", 
         "iso": "MA", 
-        "date_indexed": "2010-12-02T18:19:13Z", 
+        "alias_ARA_S": [
+          "Tangier-Tetouan"
+        ], 
         "adjacent": [
           "woe:state=55862983", 
           "woe:state=56120053", 
           "woe:state=56120063"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "alias_ARA_V": [
           "Tanger-T\u00e9touan"
         ], 
-        "alias_ARA_S": [
-          "Tangier-Tetouan"
-        ]
+        "children": [
+          "woe:county=2346196", 
+          "woe:county=56120076", 
+          "woe:county=2346227", 
+          "woe:county=56120064", 
+          "woe:county=2346226"
+        ], 
+        "date_indexed": "2010-12-02T18:19:13Z"
       }, 
       "id": 56120062
     }

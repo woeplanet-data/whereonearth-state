@@ -41,21 +41,19 @@
           2346836
         ], 
         "name": "Yauco", 
+        "ne_latitude": 18.171, 
         "hierarchy": [
           "woe:state=2346810", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346810, 
-        "alias_SPA_V": [
-          "Yauco Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.796, 
         "longitude": -66.861, 
         "placetype": "state", 
-        "latitude": 18.063, 
         "sw_longitude": -66.926, 
-        "sw_latitude": 17.955, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346789", 
           "woe:state=2346835", 
@@ -64,11 +62,36 @@
           "woe:state=2346800", 
           "woe:state=2346804"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.171, 
+        "alias_SPA_V": [
+          "Yauco Municipios"
+        ], 
+        "latitude": 18.063, 
         "iso": "PR", 
         "fullname": "Yauco, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806845", 
+          "woe:county=26806846", 
+          "woe:county=26806847", 
+          "woe:county=26806848", 
+          "woe:county=26806849", 
+          "woe:county=26806850", 
+          "woe:county=26806851", 
+          "woe:county=26806852", 
+          "woe:county=26806853", 
+          "woe:county=26806854", 
+          "woe:county=26806855", 
+          "woe:county=26806856", 
+          "woe:county=26806857", 
+          "woe:county=26806858", 
+          "woe:county=26806859", 
+          "woe:county=26806860", 
+          "woe:county=26806861", 
+          "woe:county=26806862", 
+          "woe:county=26806863", 
+          "woe:county=26806864", 
+          "woe:county=26806865"
+        ], 
+        "sw_latitude": 17.955
       }, 
       "id": 2346810
     }

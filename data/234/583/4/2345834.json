@@ -41,6 +41,7 @@
           20070165
         ], 
         "name": "Al Basrah", 
+        "ne_latitude": 31.329, 
         "hierarchy": [
           "woe:state=2345834", 
           "woe:country=23424855", 
@@ -50,9 +51,8 @@
         "ne_longitude": 48.576, 
         "longitude": 47.513, 
         "placetype": "state", 
-        "latitude": 30.216, 
         "iso": "IQ", 
-        "sw_latitude": 29.103, 
+        "date_indexed": "2010-12-02T16:42:51Z", 
         "adjacent": [
           "woe:state=20070165", 
           "woe:state=2345835", 
@@ -62,13 +62,24 @@
           "woe:state=2345846"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 31.329, 
+        "latitude": 30.216, 
         "sw_longitude": 46.451, 
         "fullname": "Al Basrah, Iraq", 
         "alias_ARA_V": [
           "Basrah"
         ], 
-        "date_indexed": "2010-12-02T16:42:51Z"
+        "children": [
+          "woe:county=55999905", 
+          "woe:county=55999902", 
+          "woe:county=55999903", 
+          "woe:county=55999900", 
+          "woe:county=55999901", 
+          "woe:county=55999987", 
+          "woe:county=55999904", 
+          "woe:drainage=26354142", 
+          "woe:drainage=26354143"
+        ], 
+        "sw_latitude": 29.103
       }, 
       "id": 2345834
     }

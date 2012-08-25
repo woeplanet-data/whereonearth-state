@@ -37,6 +37,7 @@
           20070252
         ], 
         "name": "Mingacevir", 
+        "ne_latitude": 40.86, 
         "hierarchy": [
           "woe:state=20070240", 
           "woe:country=23424741", 
@@ -46,18 +47,20 @@
         "ne_longitude": 47.134, 
         "longitude": 47.053, 
         "placetype": "state", 
-        "latitude": 40.774, 
         "iso": "AZ", 
-        "sw_latitude": 40.688, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=20070245", 
           "woe:state=20070252"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 40.86, 
+        "latitude": 40.774, 
         "sw_longitude": 46.972, 
         "fullname": "Mingacevir, Azerbaijan", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1951972"
+        ], 
+        "sw_latitude": 40.688
       }, 
       "id": 20070240
     }

@@ -40,21 +40,19 @@
           2347658
         ], 
         "name": "Lavalleja", 
+        "ne_latitude": -33.327, 
         "hierarchy": [
           "woe:state=2347647", 
           "woe:country=23424979", 
           "woe:planet=1"
         ], 
         "woeid": 2347647, 
-        "alias_SPA_V": [
-          "Minas"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -54.114, 
         "longitude": -55.066, 
         "placetype": "state", 
-        "latitude": -33.976, 
         "sw_longitude": -56.017, 
-        "sw_latitude": -34.624, 
+        "date_indexed": "2010-12-02T17:58:18Z", 
         "adjacent": [
           "woe:state=2347641", 
           "woe:state=2347646", 
@@ -62,11 +60,30 @@
           "woe:state=2347653", 
           "woe:state=2347658"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -33.327, 
+        "alias_SPA_V": [
+          "Minas"
+        ], 
+        "latitude": -33.976, 
         "iso": "UY", 
         "fullname": "Lavalleja, Uruguay", 
-        "date_indexed": "2010-12-02T17:58:18Z"
+        "children": [
+          "woe:town=380898", 
+          "woe:town=26794426", 
+          "woe:town=380927", 
+          "woe:town=468794", 
+          "woe:town=468091", 
+          "woe:town=420102", 
+          "woe:town=468030", 
+          "woe:town=468068", 
+          "woe:town=380632", 
+          "woe:town=468095", 
+          "woe:town=380745", 
+          "woe:town=380939", 
+          "woe:town=380947", 
+          "woe:town=380843", 
+          "woe:town=468114"
+        ], 
+        "sw_latitude": -34.624
       }, 
       "id": 2347647
     }

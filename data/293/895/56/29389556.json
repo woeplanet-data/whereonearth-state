@@ -38,7 +38,7 @@
           29389564
         ], 
         "name": "Durr\u00ebs", 
-        "latitude": 41.435, 
+        "ne_latitude": 41.705, 
         "alias_UNK_S": [
           "Durres"
         ], 
@@ -52,17 +52,21 @@
           "woe:planet=1"
         ], 
         "iso": "AL", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 41.165, 
         "adjacent": [
           "woe:state=29389555", 
           "woe:state=29389562", 
           "woe:state=29389564"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.705, 
+        "latitude": 41.435, 
         "sw_longitude": 19.393, 
         "fullname": "Durr\u00ebs, Albania", 
-        "sw_latitude": 41.165
+        "children": [
+          "woe:county=20069937", 
+          "woe:county=20069936"
+        ], 
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 29389556
     }

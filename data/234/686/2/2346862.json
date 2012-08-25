@@ -41,21 +41,19 @@
           2346863
         ], 
         "name": "Corozal", 
+        "ne_latitude": 18.37, 
         "hierarchy": [
           "woe:state=2346862", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346862, 
-        "alias_SPA_V": [
-          "Corozal Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.278, 
         "longitude": -66.331, 
         "placetype": "state", 
-        "latitude": 18.304, 
         "sw_longitude": -66.383, 
-        "sw_latitude": 18.239, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346791", 
           "woe:state=2346802", 
@@ -64,11 +62,28 @@
           "woe:state=2346807", 
           "woe:state=2346863"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.37, 
+        "alias_SPA_V": [
+          "Corozal Municipios"
+        ], 
+        "latitude": 18.304, 
         "iso": "PR", 
         "fullname": "Corozal, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806237", 
+          "woe:county=26806238", 
+          "woe:county=26806239", 
+          "woe:county=26806240", 
+          "woe:county=26806241", 
+          "woe:county=26806242", 
+          "woe:county=26806243", 
+          "woe:county=26806244", 
+          "woe:county=26806245", 
+          "woe:county=26806246", 
+          "woe:county=26806247", 
+          "woe:county=26806248", 
+          "woe:county=26806249"
+        ], 
+        "sw_latitude": 18.239
       }, 
       "id": 2346862
     }

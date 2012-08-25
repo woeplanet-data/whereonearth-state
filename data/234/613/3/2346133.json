@@ -38,6 +38,7 @@
           2346144
         ], 
         "name": "Al Khums", 
+        "ne_latitude": 32.776, 
         "hierarchy": [
           "woe:state=2346133", 
           "woe:country=23424882", 
@@ -47,19 +48,22 @@
         "ne_longitude": 14.455, 
         "longitude": 14.125, 
         "placetype": "state", 
-        "latitude": 32.582, 
         "iso": "LY", 
-        "sw_latitude": 32.388, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=2346127", 
           "woe:state=2346144", 
           "woe:state=2346129"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 32.776, 
+        "latitude": 32.582, 
         "sw_longitude": 13.795, 
         "fullname": "Al Khums, Libya", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1352629", 
+          "woe:town=1352873"
+        ], 
+        "sw_latitude": 32.388
       }, 
       "id": 2346133
     }

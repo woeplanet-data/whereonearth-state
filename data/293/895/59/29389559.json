@@ -45,23 +45,28 @@
           "woe:planet=1"
         ], 
         "woeid": 29389559, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.62, 
         "longitude": 20.194, 
         "placetype": "state", 
+        "latitude": 40.149, 
         "iso": "AL", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 39.786, 
         "adjacent": [
           "woe:state=29389554", 
           "woe:state=29389558", 
           "woe:state=29389560", 
           "woe:state=29389565"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 40.512, 
-        "latitude": 40.149, 
         "sw_longitude": 19.768, 
         "fullname": "Gjirokaster, Albania", 
-        "sw_latitude": 39.786
+        "children": [
+          "woe:county=20069959", 
+          "woe:county=20069956", 
+          "woe:county=20069957"
+        ], 
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 29389559
     }

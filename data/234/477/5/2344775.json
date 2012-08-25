@@ -32,24 +32,36 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 23.02, 
         "name": "Ragged Island", 
         "hierarchy": [
           "woe:state=2344775", 
           "woe:country=23424758", 
           "woe:planet=1"
         ], 
-        "woeid": 2344775, 
+        "ne_latitude": 23.02, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -75.2, 
         "longitude": -75.731, 
         "placetype": "state", 
         "iso": "BS", 
-        "sw_latitude": 21.7, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "woeid": 2344775, 
         "latitude": 22.227, 
         "sw_longitude": -75.9, 
         "fullname": "Ragged Island, The Bahamas", 
-        "date_indexed": "2010-12-02T07:50:25Z"
+        "children": [
+          "woe:town=56905", 
+          "woe:island=12481317", 
+          "woe:island=12481360", 
+          "woe:island=12481367", 
+          "woe:island=12481385", 
+          "woe:island=12481696", 
+          "woe:island=12481478", 
+          "woe:island=12481522", 
+          "woe:island=12481548", 
+          "woe:island=12481574"
+        ], 
+        "sw_latitude": 21.7
       }, 
       "id": 2344775
     }

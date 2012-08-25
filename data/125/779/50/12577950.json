@@ -1307,27 +1307,51 @@
         "ne:Shape_Area": 3.20949913921, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19980727", 
+        "ne:MAP_COLOR": 2, 
         "alias_POR_Q": [
           "Pomerania Ocidental"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "POL", 
+        "children": [
+          "woe:county=12591488", 
+          "woe:county=12591489", 
+          "woe:county=12591490", 
+          "woe:county=12591491", 
+          "woe:county=12591492", 
+          "woe:county=12591493", 
+          "woe:county=12591494", 
+          "woe:county=12591496", 
+          "woe:county=12591497", 
+          "woe:county=12591495", 
+          "woe:county=12591498", 
+          "woe:county=12591499", 
+          "woe:county=12591500", 
+          "woe:county=12591502", 
+          "woe:county=12591505", 
+          "woe:county=12591506", 
+          "woe:county=12591501", 
+          "woe:county=12591507", 
+          "woe:county=24931025", 
+          "woe:county=12591503", 
+          "woe:county=12591504", 
+          "woe:zone=24874478", 
+          "woe:zone=24874479"
+        ], 
         "ne:ScaleRank": 5, 
-        "ne:VALIDTO_1": "Present", 
-        "ne:sameAsCity": -99, 
-        "ne:DataRank": 5, 
+        "alias_SPA_Q": [
+          "Pomerania Occidental"
+        ], 
+        "ne:OBJECTID": 3142, 
         "alias_JPN_Q": [
           "\u897f\u30dd\u30e2\u30fc\u30b8\u30a7\u770c"
         ], 
         "alias_ENG_P": [
           "West Pomeranian"
         ], 
-        "fullname": "Zachodniopomorskie, West Pomeranian, Poland", 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Pomerania Occidental"
-        ], 
+        "ne:VALIDTO_1": "Present", 
+        "ne:ProvNumber": 2000, 
         "sw_longitude": 14.123510369907706, 
         "adjacent": [
           "woe:state=2345491", 
@@ -1345,9 +1369,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "lang": "POL", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3142, 
+        "ne:VertexCou": 302.0, 
+        "ne:VALIDFR_1": "19980727", 
+        "ne:DataRank": 5, 
         "ne:Postal": "ZP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Zachodniopomorskie", 
@@ -1361,15 +1385,15 @@
         "ne:NAME_0": "Poland", 
         "ne:NAME_1": "West Pomeranian", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Wojew\u00f3dztwo", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 5, 
         "ne:Area_sqkm": 23654.6, 
         "alias_GER_Q": [
           "Westpommern"
         ], 
         "woe:id": "12577950", 
-        "name": "Zachodniopomorskie", 
-        "ne:VertexCou": 302.0, 
+        "ne:HASC_1": "PL.ZP", 
+        "lang": "POL", 
         "adjacent_woeid": [
           2345491, 
           2345492, 
@@ -1378,20 +1402,21 @@
           12577949
         ], 
         "ne:FIRST_FIPS": "PL38|PL87", 
-        "ne:HASC_1": "PL.ZP", 
+        "name": "Zachodniopomorskie", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
+        "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne_longitude": 17.057698195115677, 
         "longitude": 15.553, 
-        "alias_FRE_S": [
-          "La Pomeranie Occidentale"
-        ], 
+        "ne:NEV_Countr": "Poland", 
         "iso": "PL", 
         "sw_latitude": 52.596376450912544, 
         "ne:NL_NAME_1": null, 
-        "ne:ProvNumber": 2000, 
+        "fullname": "Zachodniopomorskie, West Pomeranian, Poland", 
         "ne:Region": null, 
-        "ne:NEV_Countr": "Poland", 
+        "alias_FRE_S": [
+          "La Pomeranie Occidentale"
+        ], 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "La Pom\u00e9ranie Occidentale"

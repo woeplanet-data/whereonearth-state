@@ -36,6 +36,7 @@
           2345693
         ], 
         "name": "Akureyri", 
+        "ne_latitude": 65.699, 
         "hierarchy": [
           "woe:state=20070101", 
           "woe:country=23424845", 
@@ -45,17 +46,19 @@
         "ne_longitude": -18.087, 
         "longitude": -18.109, 
         "placetype": "state", 
-        "latitude": 65.679, 
         "iso": "IS", 
-        "sw_latitude": 65.655, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345693"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 65.699, 
+        "latitude": 65.679, 
         "sw_longitude": -18.143, 
         "fullname": "Akureyri, Iceland", 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "children": [
+          "woe:town=980027"
+        ], 
+        "sw_latitude": 65.655
       }, 
       "id": 20070101
     }

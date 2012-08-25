@@ -45,20 +45,24 @@
           "woe:planet=1"
         ], 
         "woeid": 24549647, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -63.122, 
         "longitude": -63.148, 
         "placetype": "state", 
+        "latitude": 18.183, 
         "iso": "AI", 
-        "date_indexed": "2010-12-02T17:42:25Z", 
+        "sw_latitude": 18.15, 
         "adjacent": [
           "woe:state=24549648"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 18.613, 
-        "latitude": 18.183, 
         "sw_longitude": -63.435, 
         "fullname": "West End, Anguilla", 
-        "sw_latitude": 18.15
+        "children": [
+          "woe:island=12481164", 
+          "woe:island=12481179"
+        ], 
+        "date_indexed": "2010-12-02T17:42:25Z"
       }, 
       "id": 24549647
     }

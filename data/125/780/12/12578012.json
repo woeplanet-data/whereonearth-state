@@ -923,13 +923,17 @@
         "ne:Shape_Area": 0.567430076179, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\uc0c1\ud558\uc774"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "children": [
+          "woe:county=26198093", 
+          "woe:county=26198094"
+        ], 
+        "ne:OBJECTID": 1819, 
         "alias_CHI_V": [
           "\u4e0a\u6d77\u76f4\u8f44\u5e02"
         ], 
@@ -953,9 +957,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Municipality", 
         "sw_latitude": 30.69127940532036, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1819, 
+        "ne:VertexCou": 217.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "SH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Sh\u00e0nghai", 
@@ -974,13 +978,13 @@
           "Schanghai"
         ], 
         "woe:id": "12578012", 
-        "name": "\u4e0a\u6d77\u76f4\u8f96\u5e02", 
-        "ne:VertexCou": 217.0, 
+        "ne:HASC_1": "CN.SH", 
+        "lang": "CHI", 
         "adjacent_woeid": [
           12577992, 
           12577994
         ], 
-        "ne:HASC_1": "CN.SH", 
+        "name": "\u4e0a\u6d77\u76f4\u8f96\u5e02", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 121.89284956255733, 
         "longitude": 121.417, 

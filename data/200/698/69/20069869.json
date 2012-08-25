@@ -38,6 +38,7 @@
           20069870
         ], 
         "name": "Mafeteng", 
+        "ne_latitude": -29.527, 
         "hierarchy": [
           "woe:state=20069869", 
           "woe:country=23424880", 
@@ -47,19 +48,29 @@
         "ne_longitude": 27.825, 
         "longitude": 27.419, 
         "placetype": "state", 
-        "latitude": -29.792, 
         "iso": "LS", 
-        "sw_latitude": -30.057, 
+        "date_indexed": "2010-12-02T08:57:23Z", 
         "adjacent": [
           "woe:state=2346980", 
           "woe:state=20069870", 
           "woe:state=20069868"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -29.527, 
+        "latitude": -29.792, 
         "sw_longitude": 27.013, 
         "fullname": "Mafeteng, Lesotho", 
-        "date_indexed": "2010-12-02T08:57:23Z"
+        "children": [
+          "woe:county=55881669", 
+          "woe:county=55881659", 
+          "woe:county=55881646", 
+          "woe:county=55881665", 
+          "woe:county=55881610", 
+          "woe:county=55881667", 
+          "woe:county=55881671", 
+          "woe:county=55881660", 
+          "woe:county=55881608"
+        ], 
+        "sw_latitude": -30.057
       }, 
       "id": 20069869
     }

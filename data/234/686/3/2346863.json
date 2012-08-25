@@ -40,21 +40,19 @@
           2346864
         ], 
         "name": "Vega Alta", 
+        "ne_latitude": 18.486, 
         "hierarchy": [
           "woe:state=2346863", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346863, 
-        "alias_SPA_V": [
-          "Vega Alta Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.299, 
         "longitude": -66.339, 
         "placetype": "state", 
-        "latitude": 18.408, 
         "sw_longitude": -66.378, 
-        "sw_latitude": 18.331, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346862", 
           "woe:state=2346861", 
@@ -62,11 +60,23 @@
           "woe:state=2346807", 
           "woe:state=2346864"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.486, 
+        "alias_SPA_V": [
+          "Vega Alta Municipios"
+        ], 
+        "latitude": 18.408, 
         "iso": "PR", 
         "fullname": "Vega Alta, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806797", 
+          "woe:county=26806798", 
+          "woe:county=26806799", 
+          "woe:county=26806800", 
+          "woe:county=26806801", 
+          "woe:county=26806802", 
+          "woe:county=26806803", 
+          "woe:county=26806804"
+        ], 
+        "sw_latitude": 18.331
       }, 
       "id": 2346863
     }

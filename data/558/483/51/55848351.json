@@ -46,12 +46,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55848351, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.146, 
         "longitude": 14.001, 
         "placetype": "state", 
+        "latitude": 46.036, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 45.879, 
         "adjacent": [
           "woe:state=55848341", 
           "woe:state=55848366", 
@@ -59,11 +59,15 @@
           "woe:state=55848386", 
           "woe:state=55848391"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.193, 
-        "latitude": 46.036, 
         "sw_longitude": 13.855, 
         "fullname": "Idrija, Slovenia", 
-        "sw_latitude": 45.879
+        "children": [
+          "woe:county=12591521", 
+          "woe:county=12591543"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848351
     }

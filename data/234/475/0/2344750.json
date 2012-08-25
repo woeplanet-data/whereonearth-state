@@ -39,6 +39,7 @@
           2346984
         ], 
         "name": "Southern", 
+        "ne_latitude": -24.005, 
         "hierarchy": [
           "woe:state=2344750", 
           "woe:country=23424755", 
@@ -48,9 +49,8 @@
         "ne_longitude": 25.716, 
         "longitude": 24.387, 
         "placetype": "state", 
-        "latitude": -24.915, 
         "iso": "BW", 
-        "sw_latitude": -25.825, 
+        "date_indexed": "2010-12-02T10:22:43Z", 
         "adjacent": [
           "woe:state=2344744", 
           "woe:state=2344746", 
@@ -58,10 +58,33 @@
           "woe:state=2344749"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -24.005, 
+        "latitude": -24.915, 
         "sw_longitude": 23.059, 
         "fullname": "Southern, Botswana", 
-        "date_indexed": "2010-12-02T10:22:43Z"
+        "children": [
+          "woe:town=1265549", 
+          "woe:town=1265570", 
+          "woe:town=1265587", 
+          "woe:town=1265600", 
+          "woe:town=1265628", 
+          "woe:town=1265667", 
+          "woe:town=1265673", 
+          "woe:town=1265676", 
+          "woe:town=1265710", 
+          "woe:town=1265742", 
+          "woe:town=1265748", 
+          "woe:town=1265761", 
+          "woe:town=1265767", 
+          "woe:town=1265789", 
+          "woe:town=1265793", 
+          "woe:town=56123285", 
+          "woe:town=55949027", 
+          "woe:town=1265840", 
+          "woe:town=1265847", 
+          "woe:town=1265875", 
+          "woe:town=1265946"
+        ], 
+        "sw_latitude": -25.825
       }, 
       "id": 2344750
     }

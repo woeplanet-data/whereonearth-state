@@ -31,37 +31,33 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u585e\u53e4"
-        ], 
-        "lang": "FRE", 
-        "alias_KOR_Q": [
-          "\uc138\uad6c"
-        ], 
-        "adjacent_woeid": [
-          2346183, 
-          2346185, 
-          2346186, 
-          2346187, 
-          2346241, 
-          2347622, 
-          55967360
-        ], 
         "hierarchy": [
           "woe:state=2346184", 
           "woe:country=23424891", 
           "woe:planet=1"
         ], 
         "ne_latitude": 15.5, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\uc138\uad6c"
+        ], 
+        "children": [
+          "woe:county=56000018", 
+          "woe:county=56000019", 
+          "woe:county=56000020", 
+          "woe:county=56000021", 
+          "woe:county=56000022", 
+          "woe:county=56000023", 
+          "woe:county=56000024"
+        ], 
+        "alias_CHI_Q": [
+          "\u585e\u53e4"
+        ], 
+        "woeid": 2346184, 
         "alias_JPN_Q": [
           "\u30bb\u30b0\u30fc"
         ], 
-        "ne_longitude": -3.962, 
-        "longitude": -5.524, 
-        "placetype": "state", 
-        "latitude": 14.03, 
         "sw_longitude": -7.087, 
-        "sw_latitude": 12.559, 
         "adjacent": [
           "woe:state=55967360", 
           "woe:state=2346241", 
@@ -72,14 +68,27 @@
           "woe:state=2346187"
         ], 
         "provider": "geoplanet 7.6.0", 
+        "latitude": 14.03, 
+        "date_indexed": "2010-12-02T08:58:35Z", 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          2346183, 
+          2346185, 
+          2346186, 
+          2346187, 
+          2346241, 
+          2347622, 
+          55967360
+        ], 
+        "name": "Segou", 
+        "ne_longitude": -3.962, 
+        "longitude": -5.524, 
+        "iso": "ML", 
+        "sw_latitude": 12.559, 
         "alias_FRE_V": [
           "S\u00e9gou"
         ], 
-        "iso": "ML", 
-        "fullname": "Segou, Mali", 
-        "woeid": 2346184, 
-        "date_indexed": "2010-12-02T08:58:35Z", 
-        "name": "Segou"
+        "fullname": "Segou, Mali"
       }, 
       "id": 2346184
     }

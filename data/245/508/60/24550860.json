@@ -257,10 +257,14 @@
         "ne:Shape_Area": 0.0147193415738, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "MKD", 
-        "ne:OBJECTID": 3000, 
+        "children": [
+          "woe:town=483003", 
+          "woe:town=482608"
+        ], 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 22.566405877029638, 
@@ -277,9 +281,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Statistical Region", 
         "sw_latitude": 41.13986644158308, 
-        "ne:VertexCou": 64.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 3000, 
         "ne:Postal": "SD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -295,15 +299,15 @@
         "ne:LabelRank": 10, 
         "ne:Area_sqkm": 137.0, 
         "woe:id": "24550860", 
-        "ne:HASC_1": "MK.SD", 
-        "lang": "UNK", 
+        "name": "Star Dojran", 
+        "ne:VertexCou": 64.0, 
         "adjacent_woeid": [
           12577884, 
           24550808, 
           24550813, 
           24550827
         ], 
-        "name": "Star Dojran", 
+        "ne:HASC_1": "MK.SD", 
         "ne:REMARKS_1": null, 
         "alias_UNK_V": [
           "Opstina Star Dojran"

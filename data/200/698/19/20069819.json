@@ -31,24 +31,8 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u5580\u58eb\u7a46"
-        ], 
-        "lang": "ARA", 
-        "alias_KOR_Q": [
-          "\uc54c \uce74\ub974\ud23c"
-        ], 
         "alias_SWE_Q": [
           "Khartum"
-        ], 
-        "adjacent_woeid": [
-          20069903, 
-          20069905, 
-          20069906, 
-          20069912, 
-          20069914, 
-          20069916, 
-          20069999
         ], 
         "hierarchy": [
           "woe:state=20069819", 
@@ -56,11 +40,42 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 16.739, 
-        "ne_longitude": 34.335, 
-        "longitude": 32.957, 
         "placetype": "state", 
+        "alias_KOR_Q": [
+          "\uc54c \uce74\ub974\ud23c"
+        ], 
+        "children": [
+          "woe:town=1429750", 
+          "woe:town=1429766", 
+          "woe:town=1429940", 
+          "woe:town=1429990", 
+          "woe:town=1430423", 
+          "woe:town=1430940", 
+          "woe:town=1431044", 
+          "woe:town=1432074", 
+          "woe:town=1432138", 
+          "woe:town=1432844", 
+          "woe:town=1432873", 
+          "woe:town=1433114", 
+          "woe:town=1433166", 
+          "woe:town=1433338", 
+          "woe:town=1433559", 
+          "woe:town=1433560", 
+          "woe:town=1516901", 
+          "woe:town=1435951", 
+          "woe:town=1436000", 
+          "woe:town=1436264", 
+          "woe:town=1436788", 
+          "woe:town=1436800", 
+          "woe:town=1436817", 
+          "woe:town=1437268", 
+          "woe:town=1437353"
+        ], 
+        "alias_CHI_Q": [
+          "\u5580\u58eb\u7a46"
+        ], 
+        "woeid": 20069819, 
         "sw_longitude": 31.578, 
-        "sw_latitude": 15.188, 
         "adjacent": [
           "woe:state=20069916", 
           "woe:state=20069906", 
@@ -72,14 +87,26 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 15.963, 
-        "iso": "SD", 
-        "fullname": "Al Khartum, Sudan", 
+        "date_indexed": "2010-12-02T08:50:49Z", 
         "alias_GER_Q": [
           "Al Chartum"
         ], 
-        "woeid": 20069819, 
-        "date_indexed": "2010-12-02T08:50:49Z", 
-        "name": "Al Khartum"
+        "lang": "ARA", 
+        "adjacent_woeid": [
+          20069903, 
+          20069905, 
+          20069906, 
+          20069912, 
+          20069914, 
+          20069916, 
+          20069999
+        ], 
+        "name": "Al Khartum", 
+        "ne_longitude": 34.335, 
+        "longitude": 32.957, 
+        "iso": "SD", 
+        "sw_latitude": 15.188, 
+        "fullname": "Al Khartum, Sudan"
       }, 
       "id": 20069819
     }

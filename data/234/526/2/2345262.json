@@ -31,18 +31,8 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
         "alias_ENG_V": [
           "County Longford"
-        ], 
-        "alias_ENG_A": [
-          "LOG"
-        ], 
-        "adjacent_woeid": [
-          2345250, 
-          2345259, 
-          2345268, 
-          2345272
         ], 
         "hierarchy": [
           "woe:state=2345262", 
@@ -50,17 +40,72 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 53.942, 
-        "alias_UNK_Q": [
-          "An Longfort"
-        ], 
-        "ne_longitude": -7.375, 
-        "longitude": -7.708, 
         "alias_UNK_V": [
           "Contae an Longfoirt"
         ], 
         "placetype": "state", 
+        "alias_ENG_A": [
+          "LOG"
+        ], 
+        "children": [
+          "woe:localadmin=20073280", 
+          "woe:localadmin=20073281", 
+          "woe:localadmin=20073282", 
+          "woe:localadmin=20073283", 
+          "woe:localadmin=20073284", 
+          "woe:localadmin=20073285", 
+          "woe:localadmin=20073286", 
+          "woe:localadmin=20073287", 
+          "woe:localadmin=20073288", 
+          "woe:localadmin=20073289", 
+          "woe:localadmin=20073290", 
+          "woe:localadmin=20073291", 
+          "woe:localadmin=20073292", 
+          "woe:localadmin=20073293", 
+          "woe:localadmin=20073294", 
+          "woe:localadmin=20073295", 
+          "woe:localadmin=20073296", 
+          "woe:localadmin=20073297", 
+          "woe:localadmin=20073298", 
+          "woe:localadmin=20073299", 
+          "woe:localadmin=20073300", 
+          "woe:localadmin=20073301", 
+          "woe:localadmin=20073302", 
+          "woe:localadmin=20073303", 
+          "woe:localadmin=20073304", 
+          "woe:localadmin=20073305", 
+          "woe:localadmin=20073306", 
+          "woe:localadmin=20073307", 
+          "woe:localadmin=20073308", 
+          "woe:localadmin=20073309", 
+          "woe:localadmin=20073310", 
+          "woe:localadmin=20073311", 
+          "woe:localadmin=20073312", 
+          "woe:localadmin=20073313", 
+          "woe:localadmin=20073314", 
+          "woe:localadmin=20073315", 
+          "woe:localadmin=20073316", 
+          "woe:localadmin=20073317", 
+          "woe:localadmin=20073318", 
+          "woe:localadmin=20073319", 
+          "woe:localadmin=20073320", 
+          "woe:localadmin=20073321", 
+          "woe:localadmin=20073322", 
+          "woe:localadmin=20073324", 
+          "woe:localadmin=20073323", 
+          "woe:localadmin=20073325", 
+          "woe:localadmin=20073326", 
+          "woe:localadmin=20073327", 
+          "woe:localadmin=20073328", 
+          "woe:localadmin=20073329", 
+          "woe:localadmin=20073330", 
+          "woe:localadmin=20073331", 
+          "woe:localadmin=20073332", 
+          "woe:localadmin=20073333", 
+          "woe:localadmin=20073334"
+        ], 
+        "woeid": 2345262, 
         "sw_longitude": -8.037, 
-        "sw_latitude": 53.521, 
         "adjacent": [
           "woe:state=2345250", 
           "woe:state=2345259", 
@@ -69,11 +114,23 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 53.734, 
-        "iso": "IE", 
-        "fullname": "Longford, Ireland", 
-        "woeid": 2345262, 
         "date_indexed": "2010-12-02T12:07:35Z", 
-        "name": "Longford"
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345250, 
+          2345259, 
+          2345268, 
+          2345272
+        ], 
+        "name": "Longford", 
+        "alias_UNK_Q": [
+          "An Longfort"
+        ], 
+        "ne_longitude": -7.375, 
+        "longitude": -7.708, 
+        "iso": "IE", 
+        "sw_latitude": 53.521, 
+        "fullname": "Longford, Ireland"
       }, 
       "id": 2345262
     }

@@ -36,6 +36,7 @@
           20070195
         ], 
         "name": "Bishkek", 
+        "ne_latitude": 42.899, 
         "hierarchy": [
           "woe:state=20070194", 
           "woe:country=23424864", 
@@ -45,17 +46,19 @@
         "ne_longitude": 74.629, 
         "longitude": 74.585, 
         "placetype": "state", 
-        "latitude": 42.868, 
         "iso": "KG", 
-        "sw_latitude": 42.836, 
+        "date_indexed": "2010-12-02T08:58:47Z", 
         "adjacent": [
           "woe:state=20070195"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.899, 
+        "latitude": 42.868, 
         "sw_longitude": 74.542, 
         "fullname": "Bishkek, Kyrgyzstan", 
-        "date_indexed": "2010-12-02T08:58:47Z"
+        "children": [
+          "woe:town=1969888"
+        ], 
+        "sw_latitude": 42.836
       }, 
       "id": 20070194
     }

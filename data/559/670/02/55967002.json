@@ -48,12 +48,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55967002, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -3.782, 
         "longitude": -5.375, 
         "placetype": "state", 
+        "latitude": 9.63, 
         "iso": "CI", 
-        "date_indexed": "2010-12-02T09:35:13Z", 
+        "sw_latitude": 8.524, 
         "adjacent": [
           "woe:state=55966993", 
           "woe:state=2347621", 
@@ -63,11 +63,17 @@
           "woe:state=55967006", 
           "woe:state=55967007"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 10.737, 
-        "latitude": 9.63, 
         "sw_longitude": -6.969, 
         "fullname": "Savanes, Ivory Coast", 
-        "sw_latitude": 8.524
+        "children": [
+          "woe:county=20069801", 
+          "woe:county=20069804", 
+          "woe:county=20069807", 
+          "woe:county=20069815"
+        ], 
+        "date_indexed": "2010-12-02T09:35:13Z"
       }, 
       "id": 55967002
     }

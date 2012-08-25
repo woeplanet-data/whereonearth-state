@@ -37,6 +37,7 @@
           56190591
         ], 
         "name": "Jelgava", 
+        "ne_latitude": 56.692, 
         "hierarchy": [
           "woe:state=20070120", 
           "woe:country=23424874", 
@@ -46,18 +47,20 @@
         "ne_longitude": 23.8, 
         "longitude": 23.712, 
         "placetype": "state", 
-        "latitude": 56.644, 
         "iso": "LV", 
-        "sw_latitude": 56.597, 
+        "date_indexed": "2010-12-02T08:49:33Z", 
         "adjacent": [
           "woe:state=56190591", 
           "woe:state=55844264"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 56.692, 
+        "latitude": 56.644, 
         "sw_longitude": 23.623, 
         "fullname": "Jelgava, Latvia", 
-        "date_indexed": "2010-12-02T08:49:33Z"
+        "children": [
+          "woe:county=55844270"
+        ], 
+        "sw_latitude": 56.597
       }, 
       "id": 20070120
     }

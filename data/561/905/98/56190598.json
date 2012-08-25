@@ -16,14 +16,15 @@
           56190534
         ], 
         "name": "J\u0157kabpils Novads", 
-        "alias_UNK_S": [
-          "Jrkabpils Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190598", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190598, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Jrkabpils Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -37,7 +38,15 @@
           "woe:state=56190529"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190598, 
+        "children": [
+          "woe:county=55844663", 
+          "woe:county=55844538", 
+          "woe:county=55844446", 
+          "woe:county=55844365", 
+          "woe:county=55844569", 
+          "woe:county=55844267", 
+          "woe:county=55844507"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190598

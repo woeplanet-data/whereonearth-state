@@ -41,24 +41,22 @@
           28358195
         ], 
         "name": "Monse\u00f1or Nouel", 
+        "ne_latitude": 19.117, 
         "hierarchy": [
           "woe:state=2345199", 
           "woe:country=23424800", 
           "woe:planet=1"
         ], 
         "woeid": 2345199, 
-        "alias_SPA_V": [
-          "Bonao"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -70.202, 
         "longitude": -70.377, 
         "placetype": "state", 
-        "latitude": 18.904, 
         "alias_SPA_S": [
           "Monsenyor Nouel"
         ], 
         "sw_longitude": -70.552, 
-        "sw_latitude": 18.691, 
+        "date_indexed": "2010-12-02T16:32:46Z", 
         "adjacent": [
           "woe:state=2345177", 
           "woe:state=2345198", 
@@ -67,11 +65,17 @@
           "woe:state=28358195", 
           "woe:state=2345190"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 19.117, 
+        "alias_SPA_V": [
+          "Bonao"
+        ], 
+        "latitude": 18.904, 
         "iso": "DO", 
         "fullname": "Monse\u00f1or Nouel, Dominican Republic", 
-        "date_indexed": "2010-12-02T16:32:46Z"
+        "children": [
+          "woe:town=69559", 
+          "woe:town=69635"
+        ], 
+        "sw_latitude": 18.691
       }, 
       "id": 2345199
     }

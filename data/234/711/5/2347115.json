@@ -48,19 +48,23 @@
         "woeid": 2347115, 
         "ne_longitude": 55.953, 
         "longitude": 55.737, 
+        "ne_latitude": 25.665, 
         "placetype": "state", 
-        "latitude": 25.496, 
         "iso": "AE", 
-        "sw_latitude": 25.327, 
+        "date_indexed": "2010-12-02T08:58:41Z", 
         "adjacent": [
           "woe:state=2347113", 
           "woe:state=2347114"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 25.665, 
+        "latitude": 25.496, 
         "sw_longitude": 55.521, 
         "fullname": "Umm Al Quwain, United Arab Emirates", 
-        "date_indexed": "2010-12-02T08:58:41Z"
+        "children": [
+          "woe:county=55922624", 
+          "woe:county=55922647"
+        ], 
+        "sw_latitude": 25.327
       }, 
       "id": 2347115
     }

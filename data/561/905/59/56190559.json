@@ -10,14 +10,15 @@
           56190583
         ], 
         "name": "Salacgr\u013cvas Novads", 
-        "alias_UNK_S": [
-          "Salacgrlvas Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190559", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190559, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Salacgrlvas Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -25,7 +26,13 @@
           "woe:state=56190586"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190559, 
+        "children": [
+          "woe:county=55844220", 
+          "woe:county=55844377", 
+          "woe:county=55844439", 
+          "woe:county=55844565", 
+          "woe:county=55844718"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190559

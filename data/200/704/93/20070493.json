@@ -1674,10 +1674,21 @@
         "ne:Shape_Area": 0.5538916206, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19960724", 
+        "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "SVK", 
-        "ne:DataRank": 7, 
+        "children": [
+          "woe:county=29399322", 
+          "woe:county=29399312", 
+          "woe:county=29399325", 
+          "woe:county=29399358", 
+          "woe:county=29399332", 
+          "woe:county=29399305", 
+          "woe:county=29399320", 
+          "woe:county=29399308", 
+          "woe:county=29399317"
+        ], 
+        "ne:OBJECTID": 1055, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 17.357318149113325, 
@@ -1695,9 +1706,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 48.49176911085584, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 1055, 
+        "ne:VertexCou": 408.0, 
+        "ne:VALIDFR_1": "19960724", 
+        "ne:DataRank": 7, 
         "ne:Postal": "TC", 
         "ne:Region_Cod": "SVK-ZPD", 
         "ne:VARNAME_1": "Trenc\u00edn", 
@@ -1716,8 +1727,8 @@
           "Trentschin"
         ], 
         "woe:id": "20070493", 
-        "name": "Trenciansky", 
-        "ne:VertexCou": 408.0, 
+        "ne:HASC_1": "SK.TC", 
+        "lang": "UNK", 
         "adjacent_woeid": [
           20070492, 
           20070494, 
@@ -1725,7 +1736,7 @@
           20070503, 
           20070504
         ], 
-        "ne:HASC_1": "SK.TC", 
+        "name": "Trenciansky", 
         "ne:REMARKS_1": null, 
         "alias_UNK_V": [
           "Trencin"

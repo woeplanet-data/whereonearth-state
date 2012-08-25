@@ -38,6 +38,7 @@
           56055614
         ], 
         "name": "Ziguinchor", 
+        "ne_latitude": 13.164, 
         "hierarchy": [
           "woe:state=2346997", 
           "woe:country=23424943", 
@@ -47,19 +48,23 @@
         "ne_longitude": -15.901, 
         "longitude": -16.35, 
         "placetype": "state", 
-        "latitude": 12.746, 
         "iso": "SN", 
-        "sw_latitude": 12.328, 
+        "date_indexed": "2010-12-02T08:57:18Z", 
         "adjacent": [
           "woe:state=2346607", 
           "woe:state=56055614", 
           "woe:state=2345447"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.164, 
+        "latitude": 12.746, 
         "sw_longitude": -16.798, 
         "fullname": "Ziguinchor, Senegal", 
-        "date_indexed": "2010-12-02T08:57:18Z"
+        "children": [
+          "woe:county=56055815", 
+          "woe:county=56055817", 
+          "woe:county=56055816"
+        ], 
+        "sw_latitude": 12.328
       }, 
       "id": 2346997
     }

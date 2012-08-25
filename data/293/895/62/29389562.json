@@ -45,23 +45,28 @@
           "woe:planet=1"
         ], 
         "woeid": 29389562, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.28, 
         "longitude": 19.913, 
         "placetype": "state", 
+        "latitude": 41.775, 
         "iso": "AL", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 41.506, 
         "adjacent": [
           "woe:state=29389555", 
           "woe:state=29389556", 
           "woe:state=29389561", 
           "woe:state=29389563"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 42.043, 
-        "latitude": 41.775, 
         "sw_longitude": 19.547, 
         "fullname": "Lezhe, Albania", 
-        "sw_latitude": 41.506
+        "children": [
+          "woe:county=20069935", 
+          "woe:county=20069933", 
+          "woe:county=20069934"
+        ], 
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 29389562
     }

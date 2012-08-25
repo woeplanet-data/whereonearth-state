@@ -43,21 +43,28 @@
           "woe:planet=1"
         ], 
         "woeid": 29389239, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.089, 
         "longitude": 19.922, 
         "placetype": "state", 
+        "latitude": 42.566, 
         "iso": "ME", 
-        "date_indexed": "2010-12-02T07:50:42Z", 
+        "sw_latitude": 42.473, 
         "adjacent": [
           "woe:state=29389233", 
           "woe:state=29389228"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 42.701, 
-        "latitude": 42.566, 
         "sw_longitude": 19.753, 
         "fullname": "Plav, Montenegro", 
-        "sw_latitude": 42.473
+        "children": [
+          "woe:town=532956", 
+          "woe:town=534264", 
+          "woe:town=535558", 
+          "woe:town=535973", 
+          "woe:town=537325"
+        ], 
+        "date_indexed": "2010-12-02T07:50:42Z"
       }, 
       "id": 29389239
     }

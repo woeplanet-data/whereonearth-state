@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 24549900, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 125.844, 
         "longitude": 125.524, 
         "placetype": "state", 
+        "latitude": -8.967, 
         "iso": "TL", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
+        "sw_latitude": -9.218, 
         "adjacent": [
           "woe:state=24549899", 
           "woe:state=24549896", 
@@ -61,11 +61,17 @@
           "woe:state=24549902", 
           "woe:state=24549901"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -8.715, 
-        "latitude": -8.967, 
         "sw_longitude": 125.443, 
         "fullname": "Ainaro, East Timor", 
-        "sw_latitude": -9.218
+        "children": [
+          "woe:town=1028726", 
+          "woe:town=1047134", 
+          "woe:town=1047483", 
+          "woe:town=1038531"
+        ], 
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 24549900
     }

@@ -40,21 +40,19 @@
           2346492
         ], 
         "name": "San Martin", 
+        "ne_latitude": -5.317, 
         "hierarchy": [
           "woe:state=2346489", 
           "woe:country=23424919", 
           "woe:planet=1"
         ], 
         "woeid": 2346489, 
-        "alias_SPA_V": [
-          "S. Martin"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -75.477, 
         "longitude": -76.625, 
         "placetype": "state", 
-        "latitude": -7.031, 
         "sw_longitude": -77.773, 
-        "sw_latitude": -8.745, 
+        "date_indexed": "2010-12-02T16:12:03Z", 
         "adjacent": [
           "woe:state=2346468", 
           "woe:state=2346477", 
@@ -62,11 +60,25 @@
           "woe:state=2346483", 
           "woe:state=2346492"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -5.317, 
+        "alias_SPA_V": [
+          "S. Martin"
+        ], 
+        "latitude": -7.031, 
         "iso": "PE", 
         "fullname": "San Martin, Peru", 
-        "date_indexed": "2010-12-02T16:12:03Z"
+        "children": [
+          "woe:county=26805793", 
+          "woe:county=26805840", 
+          "woe:county=26805847", 
+          "woe:county=26805876", 
+          "woe:county=26805886", 
+          "woe:county=26805894", 
+          "woe:county=26805912", 
+          "woe:county=26805923", 
+          "woe:county=26805928", 
+          "woe:county=26805950"
+        ], 
+        "sw_latitude": -8.745
       }, 
       "id": 2346489
     }

@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
+        "ne_latitude": -1.45, 
         "name": "Marquises", 
         "alias_ENG_P": [
           "Marquesas Islands"
@@ -42,17 +43,25 @@
           "woe:planet=1"
         ], 
         "woeid": 24549701, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -138.594, 
         "longitude": -140.108, 
         "placetype": "state", 
         "iso": "PF", 
-        "date_indexed": "2010-12-02T17:05:43Z", 
-        "ne_latitude": -1.45, 
+        "sw_latitude": -10.539, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -8.891, 
         "sw_longitude": -140.721, 
         "fullname": "Marquises, Marquesas Islands, French Polynesia", 
-        "sw_latitude": -10.539
+        "children": [
+          "woe:county=28743665", 
+          "woe:county=28743666", 
+          "woe:county=28743668", 
+          "woe:county=28743673", 
+          "woe:county=28743675", 
+          "woe:county=28743676", 
+          "woe:island=12490434"
+        ], 
+        "date_indexed": "2010-12-02T17:05:43Z"
       }, 
       "id": 24549701
     }

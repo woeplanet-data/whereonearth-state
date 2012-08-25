@@ -2185,7 +2185,7 @@
         "ne:Shape_Area": 2.19383375673, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_POR_Q": [
           "Baixa Normandia"
         ], 
@@ -2194,6 +2194,12 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "FRA", 
+        "children": [
+          "woe:county=12597127", 
+          "woe:county=12591801", 
+          "woe:county=12597150", 
+          "woe:colloquial=23511718"
+        ], 
         "alias_CHI_Q": [
           "\u4e0b\u8bfa\u66fc\u5e95"
         ], 
@@ -2201,10 +2207,8 @@
         "alias_ITA_Q": [
           "Bassa Normandia"
         ], 
-        "alias_DAN_Q": [
-          "Sydnormandiet"
-        ], 
-        "ne:DataRank": 3, 
+        "ne:Area_sqkm": 17876.8, 
+        "ne:OBJECTID": 2661, 
         "alias_JPN_Q": [
           "\u30d0\u30b9\u30fc\u30ce\u30eb\u30de\u30f3\u30c7\u30a3\u30fc"
         ], 
@@ -2231,9 +2235,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2661, 
+        "ne:VertexCou": 539.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Baja Normand\u00a1a|Lower Normandy", 
@@ -2251,10 +2255,12 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 17876.8, 
+        "alias_DAN_Q": [
+          "Sydnormandiet"
+        ], 
         "woe:id": "7153311", 
-        "name": "Basse-Normandie", 
-        "ne:VertexCou": 539.0, 
+        "ne:HASC_1": null, 
+        "lang": "FRE", 
         "adjacent_woeid": [
           7153313, 
           7153314, 
@@ -2262,7 +2268,7 @@
           7153325
         ], 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": null, 
+        "name": "Basse-Normandie", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne_longitude": 0.979816521515318, 

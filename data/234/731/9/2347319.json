@@ -39,11 +39,11 @@
           2347327
         ], 
         "name": "G\u00fcm\u00fc\u015fhane", 
-        "ne_latitude": 40.832, 
         "alias_UNK_S": [
           "Gumushane"
         ], 
         "woeid": 2347319, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "G\u00fcm\u00fcshane"
         ], 
@@ -56,18 +56,26 @@
           "woe:planet=1"
         ], 
         "iso": "TR", 
-        "date_indexed": "2010-12-02T16:22:51Z", 
+        "sw_latitude": 39.8, 
         "adjacent": [
           "woe:state=2347327", 
           "woe:state=2347281", 
           "woe:state=2347285", 
           "woe:state=2347312"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.832, 
         "latitude": 40.316, 
         "sw_longitude": 38.779, 
         "fullname": "G\u00fcm\u00fc\u015fhane, Turkey", 
-        "sw_latitude": 39.8
+        "children": [
+          "woe:county=29390487", 
+          "woe:county=29390529", 
+          "woe:county=29390512", 
+          "woe:county=29390569", 
+          "woe:county=29390822", 
+          "woe:county=29390811"
+        ], 
+        "date_indexed": "2010-12-02T16:22:51Z"
       }, 
       "id": 2347319
     }

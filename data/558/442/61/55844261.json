@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55844261, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 25.158, 
         "longitude": 24.971, 
         "placetype": "state", 
+        "latitude": 57.11, 
         "iso": "LV", 
-        "date_indexed": "2010-12-02T08:49:33Z", 
+        "sw_latitude": 57.001, 
         "adjacent": [
           "woe:state=55844556", 
           "woe:state=56190562", 
@@ -61,11 +61,17 @@
           "woe:state=56190512", 
           "woe:state=55844402"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 57.219, 
-        "latitude": 57.11, 
         "sw_longitude": 24.784, 
         "fullname": "Siguldas Novads, Rigas Rajons, Siguldas Novads, Latvia", 
-        "sw_latitude": 57.001
+        "children": [
+          "woe:county=55844578", 
+          "woe:county=56190499", 
+          "woe:county=56190467", 
+          "woe:county=56190489"
+        ], 
+        "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 55844261
     }

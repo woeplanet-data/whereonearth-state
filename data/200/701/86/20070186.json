@@ -40,11 +40,11 @@
           20070187
         ], 
         "name": "Karab\u00fck", 
-        "ne_latitude": 41.587, 
         "alias_UNK_S": [
           "Karabuk"
         ], 
         "woeid": 20070186, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 33.157, 
         "longitude": 32.63, 
         "placetype": "state", 
@@ -54,7 +54,7 @@
           "woe:planet=1"
         ], 
         "iso": "TR", 
-        "sw_latitude": 40.814, 
+        "date_indexed": "2010-12-02T16:22:51Z", 
         "adjacent": [
           "woe:state=20070187", 
           "woe:state=2347271", 
@@ -62,11 +62,19 @@
           "woe:state=20070185", 
           "woe:state=2347275"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.587, 
         "latitude": 41.2, 
         "sw_longitude": 32.102, 
         "fullname": "Karab\u00fck, Turkey", 
-        "date_indexed": "2010-12-02T16:22:51Z"
+        "children": [
+          "woe:county=29390296", 
+          "woe:county=29390319", 
+          "woe:county=29390629", 
+          "woe:county=29390678", 
+          "woe:county=29390709", 
+          "woe:county=29390870"
+        ], 
+        "sw_latitude": 40.814
       }, 
       "id": 20070186
     }

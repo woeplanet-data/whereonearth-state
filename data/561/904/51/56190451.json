@@ -19,6 +19,7 @@
           "woe:country=23424777", 
           "woe:planet=1"
         ], 
+        "woeid": 56190451, 
         "placetype": "state", 
         "iso": "TD", 
         "adjacent": [
@@ -30,7 +31,9 @@
           "woe:state=2344946"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190451, 
+        "children": [
+          "woe:county=56013527"
+        ], 
         "date_indexed": "2010-12-02T08:53:18Z"
       }, 
       "id": 56190451

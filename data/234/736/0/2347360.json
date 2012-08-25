@@ -40,6 +40,7 @@
           2347807
         ], 
         "name": "Mbeya", 
+        "ne_latitude": -6.896, 
         "hierarchy": [
           "woe:state=2347360", 
           "woe:country=23424973", 
@@ -49,9 +50,8 @@
         "ne_longitude": 35.062, 
         "longitude": 33.526, 
         "placetype": "state", 
-        "latitude": -8.304, 
         "iso": "TZ", 
-        "sw_latitude": -9.712, 
+        "date_indexed": "2010-12-02T12:15:58Z", 
         "adjacent": [
           "woe:state=2347355", 
           "woe:state=2347807", 
@@ -60,10 +60,20 @@
           "woe:state=2347368"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -6.896, 
+        "latitude": -8.304, 
         "sw_longitude": 31.99, 
         "fullname": "Mbeya, Tanzania", 
-        "date_indexed": "2010-12-02T12:15:58Z"
+        "children": [
+          "woe:county=56025097", 
+          "woe:county=56025106", 
+          "woe:county=56025136", 
+          "woe:county=56025149", 
+          "woe:county=56025150", 
+          "woe:county=56025151", 
+          "woe:county=56025153", 
+          "woe:county=56025190"
+        ], 
+        "sw_latitude": -9.712
       }, 
       "id": 2347360
     }

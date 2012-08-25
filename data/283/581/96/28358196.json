@@ -342,16 +342,23 @@
         "ne:Shape_Area": 0.107843645621, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "20011016", 
         "alias_KOR_Q": [
           "\uc0b0\ud1a0\ub3c4\ubc0d\uace0"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "DOM", 
+        "children": [
+          "woe:town=68957", 
+          "woe:town=69573", 
+          "woe:town=71824", 
+          "woe:town=75271", 
+          "woe:town=56123090"
+        ], 
         "alias_CHI_Q": [
           "\u5723\u591a\u660e\u5404"
         ], 
-        "ne:OBJECTID": 1394, 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30c8\u30c9\u30df\u30f3\u30b4"
         ], 
@@ -373,9 +380,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 18.41034943248036, 
-        "ne:VertexCou": 79.0, 
-        "ne:VALIDFR_1": "20011016", 
-        "ne:DataRank": 8, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 1394, 
         "ne:Postal": "SD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -391,15 +398,15 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 1260.0, 
         "woe:id": "28358196", 
-        "ne:HASC_1": "DO.SD", 
-        "lang": "SPA", 
+        "name": "Santo Domingo", 
+        "ne:VertexCou": 79.0, 
         "adjacent_woeid": [
           2345176, 
           2345192, 
           2345200, 
           2345201
         ], 
-        "name": "Santo Domingo", 
+        "ne:HASC_1": "DO.SD", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -69.83, 

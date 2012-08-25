@@ -39,6 +39,7 @@
           56013540
         ], 
         "name": "'Ali Sabini", 
+        "ne_latitude": 11.474, 
         "hierarchy": [
           "woe:state=2345156", 
           "woe:country=23424797", 
@@ -48,9 +49,8 @@
         "ne_longitude": 43.214, 
         "longitude": 42.914, 
         "placetype": "state", 
-        "latitude": 11.224, 
         "iso": "DJ", 
-        "sw_latitude": 10.975, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=2345157", 
           "woe:state=2345158", 
@@ -58,10 +58,15 @@
           "woe:state=2347021"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 11.474, 
+        "latitude": 11.224, 
         "sw_longitude": 42.613, 
         "fullname": "'Ali Sabini, Djibouti", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:town=1310935", 
+          "woe:town=1310949", 
+          "woe:town=1310926"
+        ], 
+        "sw_latitude": 10.975
       }, 
       "id": 2345156
     }

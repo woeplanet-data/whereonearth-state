@@ -44,22 +44,26 @@
           "woe:planet=1"
         ], 
         "woeid": 55922500, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 51.63, 
         "longitude": 51.368, 
         "placetype": "state", 
+        "latitude": 24.777, 
         "iso": "QA", 
-        "date_indexed": "2010-12-02T12:16:10Z", 
+        "sw_latitude": 24.471, 
         "adjacent": [
           "woe:state=20070012", 
           "woe:state=2346954", 
           "woe:state=20070011"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 25.082, 
-        "latitude": 24.777, 
         "sw_longitude": 51.106, 
         "fullname": "Mesaieed, Qatar", 
-        "sw_latitude": 24.471
+        "children": [
+          "woe:town=1940480", 
+          "woe:town=55922569"
+        ], 
+        "date_indexed": "2010-12-02T12:16:10Z"
       }, 
       "id": 55922500
     }

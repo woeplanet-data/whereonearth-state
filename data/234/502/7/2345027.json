@@ -46,27 +46,33 @@
           "woe:planet=1"
         ], 
         "woeid": 2345027, 
-        "alias_SPA_V": [
-          "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.418, 
         "longitude": -72.721, 
+        "ne_latitude": -48.622, 
         "placetype": "state", 
-        "latitude": -51.311, 
         "alias_SPA_S": [
           "Region de Magallanes y de la Antartica Chilena"
         ], 
         "sw_longitude": -75.71, 
-        "sw_latitude": -55.979, 
+        "date_indexed": "2010-12-02T12:15:28Z", 
         "adjacent": [
           "woe:state=2345019", 
           "woe:state=2344694"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -48.622, 
+        "alias_SPA_V": [
+          "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena"
+        ], 
+        "latitude": -51.311, 
         "iso": "CL", 
         "fullname": "Magallanes y Antartica Chilena, Magallanes and Antartica Chilena Region, Chile", 
-        "date_indexed": "2010-12-02T12:15:28Z"
+        "children": [
+          "woe:county=26793974", 
+          "woe:county=26794003", 
+          "woe:county=26794018", 
+          "woe:county=26794020"
+        ], 
+        "sw_latitude": -55.979
       }, 
       "id": 2345027
     }

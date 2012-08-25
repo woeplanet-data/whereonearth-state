@@ -1280,17 +1280,23 @@
         "ne:Shape_Area": 0.951995564511, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "TRP"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IND", 
+        "children": [
+          "woe:county=28298872", 
+          "woe:county=12586709", 
+          "woe:county=12586710", 
+          "woe:county=12586711"
+        ], 
         "ne:ScaleRank": 2, 
         "alias_CHI_Q": [
           "\u7279\u91cc\u666e\u62c9\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3301, 
         "alias_JPN_Q": [
           "\u30c8\u30ea\u30d7\u30e9"
         ], 
@@ -1310,9 +1316,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 22.944646308080678, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3301, 
+        "ne:VertexCou": 271.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "TR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1328,15 +1334,15 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 10748.5, 
         "woe:id": "2345759", 
-        "name": "Tripura", 
-        "ne:VertexCou": 271.0, 
+        "ne:HASC_1": "IN.TR", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2344790, 
           2345741, 
           20070461, 
           23706411
         ], 
-        "ne:HASC_1": "IN.TR", 
+        "name": "Tripura", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 92.33196658738814, 
         "longitude": 91.745, 

@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 23.72, 
         "name": "Rum Cay", 
         "hierarchy": [
           "woe:state=24551252", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24551252, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -74.784, 
         "longitude": -74.867, 
         "placetype": "state", 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "ne_latitude": 23.72, 
+        "sw_latitude": 23.64, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 23.68, 
         "sw_longitude": -74.95, 
         "fullname": "Rum Cay, The Bahamas", 
-        "sw_latitude": 23.64
+        "children": [
+          "woe:town=57050"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551252
     }

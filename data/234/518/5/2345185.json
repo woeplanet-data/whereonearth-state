@@ -38,34 +38,41 @@
           2345622
         ], 
         "name": "Pedernales", 
+        "ne_latitude": 18.292, 
         "hierarchy": [
           "woe:state=2345185", 
           "woe:country=23424800", 
           "woe:planet=1"
         ], 
         "woeid": 2345185, 
-        "alias_SPA_V": [
-          "Pto de Pedernales"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -71.28, 
         "longitude": -71.53, 
         "placetype": "state", 
-        "latitude": 17.949, 
         "alias_SPA_S": [
           "Anse A Pitre"
         ], 
         "sw_longitude": -71.78, 
-        "sw_latitude": 17.469, 
+        "date_indexed": "2010-12-02T16:32:46Z", 
         "adjacent": [
           "woe:state=2345174", 
           "woe:state=2345179", 
           "woe:state=2345622"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.292, 
+        "alias_SPA_V": [
+          "Pto de Pedernales"
+        ], 
+        "latitude": 17.949, 
         "iso": "DO", 
         "fullname": "Pedernales, Dominican Republic", 
-        "date_indexed": "2010-12-02T16:32:46Z"
+        "children": [
+          "woe:town=75154", 
+          "woe:town=75487", 
+          "woe:town=75687", 
+          "woe:island=12483970", 
+          "woe:island=12484016"
+        ], 
+        "sw_latitude": 17.469
       }, 
       "id": 2345185
     }

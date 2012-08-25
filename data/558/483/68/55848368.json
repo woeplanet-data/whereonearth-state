@@ -44,22 +44,25 @@
           "woe:planet=1"
         ], 
         "woeid": 55848368, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.407, 
         "longitude": 15.306, 
         "placetype": "state", 
+        "latitude": 45.649, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 45.571, 
         "adjacent": [
           "woe:state=55848345", 
           "woe:state=12577975", 
           "woe:state=55848372"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 45.727, 
-        "latitude": 45.649, 
         "sw_longitude": 15.206, 
         "fullname": "Metlika, Slovenia", 
-        "sw_latitude": 45.571
+        "children": [
+          "woe:county=12591580"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848368
     }

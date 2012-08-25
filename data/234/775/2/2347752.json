@@ -48,12 +48,12 @@
           "woe:planet=1"
         ], 
         "woeid": 2347752, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.28, 
         "longitude": 105.981, 
         "placetype": "state", 
+        "latitude": 10.109, 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 9.891, 
         "adjacent": [
           "woe:state=2347703", 
           "woe:state=2347732", 
@@ -63,11 +63,23 @@
           "woe:state=2347717", 
           "woe:state=2347750"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 10.327, 
-        "latitude": 10.109, 
         "sw_longitude": 105.681, 
         "fullname": "Vinh Long, Vietnam", 
-        "sw_latitude": 9.891
+        "children": [
+          "woe:town=56123610", 
+          "woe:town=56124777", 
+          "woe:town=56124823", 
+          "woe:town=56124771", 
+          "woe:town=56124780", 
+          "woe:town=1252638", 
+          "woe:town=56124792", 
+          "woe:town=1252667", 
+          "woe:town=56124842", 
+          "woe:town=1226738"
+        ], 
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 2347752
     }

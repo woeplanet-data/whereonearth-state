@@ -41,6 +41,7 @@
           2345637
         ], 
         "name": "Yoro", 
+        "ne_latitude": 15.724, 
         "hierarchy": [
           "woe:state=2345640", 
           "woe:country=23424841", 
@@ -50,9 +51,8 @@
         "ne_longitude": -86.226, 
         "longitude": -87.083, 
         "placetype": "state", 
-        "latitude": 15.297, 
         "iso": "HN", 
-        "sw_latitude": 14.871, 
+        "date_indexed": "2010-12-02T19:20:59Z", 
         "adjacent": [
           "woe:state=2345623", 
           "woe:state=2345625", 
@@ -62,10 +62,23 @@
           "woe:state=2345637"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 15.724, 
+        "latitude": 15.297, 
         "sw_longitude": -87.939, 
         "fullname": "Yoro, Honduras", 
-        "date_indexed": "2010-12-02T19:20:59Z"
+        "children": [
+          "woe:county=26813594", 
+          "woe:county=26813641", 
+          "woe:county=26813647", 
+          "woe:county=26813677", 
+          "woe:county=26813726", 
+          "woe:county=26813738", 
+          "woe:county=26813834", 
+          "woe:county=26813847", 
+          "woe:county=26813869", 
+          "woe:county=26813880", 
+          "woe:county=26813881"
+        ], 
+        "sw_latitude": 14.871
       }, 
       "id": 2345640
     }

@@ -47,18 +47,21 @@
         "woeid": 20070246, 
         "ne_longitude": 47.221, 
         "longitude": 47.186, 
+        "ne_latitude": 41.224, 
         "placetype": "state", 
-        "latitude": 41.184, 
         "iso": "AZ", 
-        "sw_latitude": 41.144, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=20070245"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.224, 
+        "latitude": 41.184, 
         "sw_longitude": 47.152, 
         "fullname": "Saki, Azerbaijan", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1952009"
+        ], 
+        "sw_latitude": 41.144
       }, 
       "id": 20070246
     }

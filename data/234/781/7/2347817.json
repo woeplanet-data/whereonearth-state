@@ -50,12 +50,12 @@
           "woe:planet=1"
         ], 
         "woeid": 2347817, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.426, 
         "longitude": 31.09, 
         "placetype": "state", 
+        "latitude": -20.78, 
         "iso": "ZW", 
-        "date_indexed": "2010-12-02T16:52:36Z", 
+        "sw_latitude": -22.418, 
         "adjacent": [
           "woe:state=2346312", 
           "woe:state=2346986", 
@@ -64,11 +64,20 @@
           "woe:state=2347816", 
           "woe:state=2347811"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -19.143, 
-        "latitude": -20.78, 
         "sw_longitude": 29.754, 
         "fullname": "Masvingo, Zimbabwe", 
-        "sw_latitude": -22.418
+        "children": [
+          "woe:county=56048523", 
+          "woe:county=56048526", 
+          "woe:county=56048524", 
+          "woe:county=56048521", 
+          "woe:county=56048522", 
+          "woe:county=56048527", 
+          "woe:county=56048525"
+        ], 
+        "date_indexed": "2010-12-02T16:52:36Z"
       }, 
       "id": 2347817
     }

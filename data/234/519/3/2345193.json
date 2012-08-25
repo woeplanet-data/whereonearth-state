@@ -50,14 +50,23 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 19.669, 
-        "alias_SPA_V": [
-          "Santiago de Los Caballeros"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -70.531, 
         "longitude": -70.847, 
+        "children": [
+          "woe:town=56123418", 
+          "woe:town=71469", 
+          "woe:town=73105", 
+          "woe:town=56122433", 
+          "woe:town=75694", 
+          "woe:town=76354", 
+          "woe:town=76453", 
+          "woe:town=76459", 
+          "woe:town=76657"
+        ], 
         "placetype": "state", 
         "iso": "DO", 
-        "sw_latitude": 18.991, 
+        "date_indexed": "2010-12-02T16:32:46Z", 
         "adjacent": [
           "woe:state=2345178", 
           "woe:state=2345198", 
@@ -66,12 +75,14 @@
           "woe:state=2345194", 
           "woe:state=2345195"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "alias_SPA_V": [
+          "Santiago de Los Caballeros"
+        ], 
         "latitude": 19.33, 
         "sw_longitude": -71.164, 
         "fullname": "Santiago, Dominican Republic", 
         "woeid": 2345193, 
-        "date_indexed": "2010-12-02T16:32:46Z"
+        "sw_latitude": 18.991
       }, 
       "id": 2345193
     }

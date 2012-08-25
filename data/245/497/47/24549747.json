@@ -44,25 +44,36 @@
           "woe:planet=1"
         ], 
         "woeid": 24549747, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -60.866, 
         "longitude": -61.052, 
+        "children": [
+          "woe:county=24551334", 
+          "woe:county=24551330", 
+          "woe:county=24551329", 
+          "woe:county=24551333", 
+          "woe:county=24551332", 
+          "woe:county=24551336", 
+          "woe:county=24551337", 
+          "woe:county=24551331", 
+          "woe:county=24551335"
+        ], 
         "placetype": "state", 
+        "latitude": 14.75, 
         "iso": "MQ", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
+        "sw_latitude": 14.63, 
         "adjacent": [
           "woe:state=24549745", 
           "woe:state=24549744", 
           "woe:state=24549746"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 14.879, 
-        "latitude": 14.75, 
         "sw_longitude": -61.16, 
         "fullname": "Trinit\u00e9, Martinique", 
         "alias_FRE_S": [
           "Trinite"
         ], 
-        "sw_latitude": 14.63
+        "date_indexed": "2010-12-02T17:06:00Z"
       }, 
       "id": 24549747
     }

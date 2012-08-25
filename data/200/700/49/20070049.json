@@ -41,6 +41,7 @@
           20070075
         ], 
         "name": "Sliven", 
+        "ne_latitude": 43.037, 
         "hierarchy": [
           "woe:state=20070049", 
           "woe:country=23424771", 
@@ -50,9 +51,8 @@
         "ne_longitude": 26.711, 
         "longitude": 26.259, 
         "placetype": "state", 
-        "latitude": 42.641, 
         "iso": "BG", 
-        "sw_latitude": 42.245, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=20070075", 
           "woe:state=20070052", 
@@ -62,10 +62,16 @@
           "woe:state=20070074"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 43.037, 
+        "latitude": 42.641, 
         "sw_longitude": 25.807, 
         "fullname": "Sliven, Bulgaria", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:county=55873820", 
+          "woe:county=55873919", 
+          "woe:county=55873894", 
+          "woe:county=55873716"
+        ], 
+        "sw_latitude": 42.245
       }, 
       "id": 20070049
     }

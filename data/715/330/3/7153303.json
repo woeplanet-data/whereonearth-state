@@ -40,21 +40,21 @@
           22525997
         ], 
         "name": "Namur", 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=7153303", 
           "woe:country=23424757", 
           "woe:planet=1"
         ], 
         "woeid": 7153303, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 5.403, 
         "longitude": 4.844, 
-        "ne_latitude": 50.648, 
+        "placetype": "state", 
         "alias_DUT_Q": [
           "Namen"
         ], 
         "iso": "BE", 
-        "sw_latitude": 49.786, 
+        "date_indexed": "2010-12-02T16:31:49Z", 
         "adjacent": [
           "woe:state=22525997", 
           "woe:state=7153315", 
@@ -62,14 +62,19 @@
           "woe:state=7153300", 
           "woe:state=7153302"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 50.648, 
         "latitude": 50.217, 
         "sw_longitude": 4.286, 
         "fullname": "Namur, Belgium", 
         "alias_GER_Q": [
           "Namen"
         ], 
-        "date_indexed": "2010-12-02T16:31:49Z"
+        "children": [
+          "woe:county=12591789", 
+          "woe:county=12591778", 
+          "woe:county=12591794"
+        ], 
+        "sw_latitude": 49.786
       }, 
       "id": 7153303
     }

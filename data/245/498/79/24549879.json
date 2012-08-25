@@ -46,12 +46,12 @@
           "woe:planet=1"
         ], 
         "woeid": 24549879, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.506, 
         "longitude": 55.474, 
         "placetype": "state", 
+        "latitude": -4.653, 
         "iso": "SC", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
+        "sw_latitude": -4.666, 
         "adjacent": [
           "woe:state=24549871", 
           "woe:state=24549875", 
@@ -59,11 +59,14 @@
           "woe:state=24549881", 
           "woe:state=24549876"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -4.628, 
-        "latitude": -4.653, 
         "sw_longitude": 55.459, 
         "fullname": "Roche Caiman, Seychelles", 
-        "sw_latitude": -4.666
+        "children": [
+          "woe:island=12466282"
+        ], 
+        "date_indexed": "2010-12-02T08:53:34Z"
       }, 
       "id": 24549879
     }

@@ -731,7 +731,7 @@
         "ne:Shape_Area": 0.417441414885, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 9, 
         "alias_POR_Q": [
           "Holanda Meridional"
         ], 
@@ -740,29 +740,108 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
+        "children": [
+          "woe:county=12592016", 
+          "woe:county=12592027", 
+          "woe:county=12592028", 
+          "woe:county=12592029", 
+          "woe:county=12592033", 
+          "woe:county=12592053", 
+          "woe:county=12592063", 
+          "woe:county=12592072", 
+          "woe:county=12592076", 
+          "woe:county=12592082", 
+          "woe:county=12592089", 
+          "woe:county=12592094", 
+          "woe:county=12592101", 
+          "woe:county=12592105", 
+          "woe:county=12592115", 
+          "woe:county=12592017", 
+          "woe:county=12592124", 
+          "woe:county=12592131", 
+          "woe:county=12592164", 
+          "woe:county=12592166", 
+          "woe:county=12592169", 
+          "woe:county=12592171", 
+          "woe:county=12592172", 
+          "woe:county=12592189", 
+          "woe:county=12592206", 
+          "woe:county=12592208", 
+          "woe:county=12592215", 
+          "woe:county=12592230", 
+          "woe:county=12592233", 
+          "woe:county=12592238", 
+          "woe:county=12592239", 
+          "woe:county=28995429", 
+          "woe:county=12592247", 
+          "woe:county=12592251", 
+          "woe:county=12592252", 
+          "woe:county=12592253", 
+          "woe:county=12592258", 
+          "woe:county=12592259", 
+          "woe:county=12592262", 
+          "woe:county=12592279", 
+          "woe:county=12592291", 
+          "woe:county=28995432", 
+          "woe:county=12592300", 
+          "woe:county=12592305", 
+          "woe:county=12592310", 
+          "woe:county=12592312", 
+          "woe:county=12592313", 
+          "woe:county=12592321", 
+          "woe:county=12592322", 
+          "woe:county=12592328", 
+          "woe:county=12592338", 
+          "woe:county=12592344", 
+          "woe:county=12592346", 
+          "woe:county=12592349", 
+          "woe:county=23388408", 
+          "woe:county=12592356", 
+          "woe:county=12592364", 
+          "woe:county=12592367", 
+          "woe:county=12592369", 
+          "woe:county=12592374", 
+          "woe:county=12592375", 
+          "woe:county=12592385", 
+          "woe:county=12592390", 
+          "woe:county=12592399", 
+          "woe:county=12592407", 
+          "woe:county=12592415", 
+          "woe:county=12592419", 
+          "woe:county=28995438", 
+          "woe:county=12592449", 
+          "woe:county=12592453", 
+          "woe:county=12592457", 
+          "woe:county=12592464", 
+          "woe:county=12592468", 
+          "woe:county=28995436", 
+          "woe:county=12592481", 
+          "woe:county=12592502", 
+          "woe:county=12592508", 
+          "woe:county=12592510", 
+          "woe:county=12592511", 
+          "woe:county=12592517"
+        ], 
         "ne:ScaleRank": 8, 
         "alias_CHI_Q": [
           "\u5357\u8377\u5170"
         ], 
-        "alias_SPA_Q": [
-          "Holanda Meridional"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Olanda Meridionale"
         ], 
-        "alias_DAN_Q": [
-          "Sydholland"
-        ], 
-        "ne:DataRank": 8, 
+        "ne:Area_sqkm": 3194.1, 
+        "ne:OBJECTID": 3485, 
         "alias_JPN_Q": [
           "\u5357\u30aa\u30e9\u30f3\u30c0"
         ], 
         "alias_ENG_P": [
           "South Holland"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Holanda Meridional"
+        ], 
         "alias_FIN_Q": [
           "Etel\u00e4-Hollanti"
         ], 
@@ -789,8 +868,8 @@
         "alias_DUT_A": [
           "ZH"
         ], 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 3485, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Hollande-m\u00e9ridionale|South Holland", 
@@ -802,14 +881,16 @@
         "ne:NAME_0": "Netherlands", 
         "ne:NAME_1": "Zuid-Holland", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Provincie", 
+        "ne:sameAsCity": -99, 
         "alias_DUT_V": [
           "Zuidholland"
         ], 
         "ne:LabelRank": 8, 
-        "ne:Area_sqkm": 3194.1, 
+        "alias_DAN_Q": [
+          "Sydholland"
+        ], 
         "woe:id": "2346383", 
-        "name": "Zuid-Holland", 
+        "ne:HASC_1": "NL.ZH", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2346375, 
@@ -819,13 +900,12 @@
           2346382
         ], 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": "NL.ZH", 
+        "name": "Zuid-Holland", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Provincie", 
         "ne_longitude": 5.182557407498393, 
         "longitude": 4.494, 
-        "alias_FRE_S": [
-          "Hollande Meridionale"
-        ], 
+        "ne:NEV_Countr": null, 
         "ne:VertexCou": 189.0, 
         "iso": "NL", 
         "sw_latitude": 51.637571926303394, 
@@ -835,7 +915,9 @@
         ], 
         "fullname": "Zuid-Holland, South Holland, Netherlands", 
         "ne:Region": null, 
-        "ne:NEV_Countr": null, 
+        "alias_FRE_S": [
+          "Hollande Meridionale"
+        ], 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Hollande du Sud"

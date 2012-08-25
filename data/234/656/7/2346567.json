@@ -40,6 +40,7 @@
           2346580
         ], 
         "name": "Coimbra", 
+        "ne_latitude": 40.52, 
         "hierarchy": [
           "woe:state=2346567", 
           "woe:country=23424925", 
@@ -49,9 +50,8 @@
         "ne_longitude": -7.731, 
         "longitude": -8.32, 
         "placetype": "state", 
-        "latitude": 40.225, 
         "iso": "PT", 
-        "sw_latitude": 39.93, 
+        "date_indexed": "2010-12-02T09:58:14Z", 
         "adjacent": [
           "woe:state=2346562", 
           "woe:state=2346566", 
@@ -60,10 +60,29 @@
           "woe:state=2346580"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 40.52, 
+        "latitude": 40.225, 
         "sw_longitude": -8.909, 
         "fullname": "Coimbra, Portugal", 
-        "date_indexed": "2010-12-02T09:58:14Z"
+        "children": [
+          "woe:county=12596500", 
+          "woe:county=12596628", 
+          "woe:county=12596482", 
+          "woe:county=12596572", 
+          "woe:county=12596624", 
+          "woe:county=12596489", 
+          "woe:county=12596615", 
+          "woe:county=12596661", 
+          "woe:county=12596566", 
+          "woe:county=12596480", 
+          "woe:county=12596590", 
+          "woe:county=12596512", 
+          "woe:county=12596525", 
+          "woe:county=12596612", 
+          "woe:county=12596561", 
+          "woe:county=12596667", 
+          "woe:county=12596476"
+        ], 
+        "sw_latitude": 39.93
       }, 
       "id": 2346567
     }

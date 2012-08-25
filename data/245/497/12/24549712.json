@@ -46,12 +46,12 @@
           "woe:planet=1"
         ], 
         "woeid": 24549712, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.772, 
         "longitude": 144.722, 
         "placetype": "state", 
+        "latitude": 13.331, 
         "iso": "GU", 
-        "date_indexed": "2010-12-02T18:21:30Z", 
+        "sw_latitude": 13.294, 
         "adjacent": [
           "woe:state=24549713", 
           "woe:state=24549711", 
@@ -59,11 +59,14 @@
           "woe:state=24549710", 
           "woe:state=24549715"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 13.369, 
-        "latitude": 13.331, 
         "sw_longitude": 144.672, 
         "fullname": "Talofofo, Guam", 
-        "sw_latitude": 13.294
+        "children": [
+          "woe:town=1062833"
+        ], 
+        "date_indexed": "2010-12-02T18:21:30Z"
       }, 
       "id": 24549712
     }

@@ -39,6 +39,7 @@
           2346560
         ], 
         "name": "Col\u00f3n", 
+        "ne_latitude": 9.65, 
         "hierarchy": [
           "woe:state=2346554", 
           "woe:country=23424924", 
@@ -48,12 +49,11 @@
         "ne_longitude": -79.081, 
         "longitude": -79.978, 
         "placetype": "state", 
-        "latitude": 9.134, 
         "alias_SPA_S": [
           "Colon"
         ], 
         "iso": "PA", 
-        "sw_latitude": 8.63, 
+        "date_indexed": "2010-12-02T17:52:20Z", 
         "adjacent": [
           "woe:state=2346553", 
           "woe:state=2346559", 
@@ -61,10 +61,17 @@
           "woe:state=2346560"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 9.65, 
+        "latitude": 9.134, 
         "sw_longitude": -80.875, 
         "fullname": "Col\u00f3n, Panama", 
-        "date_indexed": "2010-12-02T17:52:20Z"
+        "children": [
+          "woe:county=26793097", 
+          "woe:county=26793105", 
+          "woe:county=26793109", 
+          "woe:county=26793132", 
+          "woe:county=26793143"
+        ], 
+        "sw_latitude": 8.63
       }, 
       "id": 2346554
     }

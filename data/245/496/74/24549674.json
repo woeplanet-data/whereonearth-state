@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": -19.966, 
         "name": "Atiu", 
         "hierarchy": [
           "woe:state=24549674", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549674, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -158.074, 
         "longitude": -158.104, 
         "placetype": "state", 
         "iso": "CK", 
-        "date_indexed": "2010-12-02T17:57:50Z", 
-        "ne_latitude": -19.966, 
+        "sw_latitude": -20.034, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -19.996, 
         "sw_longitude": -158.135, 
         "fullname": "Atiu, Cook Islands", 
-        "sw_latitude": -20.034
+        "children": [
+          "woe:airport=12523056"
+        ], 
+        "date_indexed": "2010-12-02T17:57:50Z"
       }, 
       "id": 24549674
     }

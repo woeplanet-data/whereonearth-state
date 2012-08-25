@@ -40,6 +40,7 @@
           20070096
         ], 
         "name": "Kaoh Kong", 
+        "ne_latitude": 12.113, 
         "hierarchy": [
           "woe:state=2344934", 
           "woe:country=23424776", 
@@ -49,9 +50,8 @@
         "ne_longitude": 104.113, 
         "longitude": 103.467, 
         "placetype": "state", 
-        "latitude": 11.43, 
         "iso": "KH", 
-        "sw_latitude": 10.65, 
+        "date_indexed": "2010-12-02T16:11:17Z", 
         "adjacent": [
           "woe:state=2344930", 
           "woe:state=2344932", 
@@ -60,10 +60,20 @@
           "woe:state=2347173"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 12.113, 
+        "latitude": 11.43, 
         "sw_longitude": 102.78, 
         "fullname": "Kaoh Kong, Cambodia", 
-        "date_indexed": "2010-12-02T16:11:17Z"
+        "children": [
+          "woe:county=56063286", 
+          "woe:county=56063287", 
+          "woe:county=56063288", 
+          "woe:county=56063289", 
+          "woe:county=56063290", 
+          "woe:county=56063291", 
+          "woe:county=56063292", 
+          "woe:county=56063293"
+        ], 
+        "sw_latitude": 10.65
       }, 
       "id": 2344934
     }

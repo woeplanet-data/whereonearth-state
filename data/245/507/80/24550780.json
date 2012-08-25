@@ -40,6 +40,7 @@
           24550844, 
           24550856
         ], 
+        "ne_latitude": 42.185, 
         "name": "Kratovo", 
         "alias_ENG_P": [
           "Kratovo Municipality"
@@ -56,9 +57,8 @@
         "longitude": 22.159, 
         "ne_longitude": 22.383, 
         "placetype": "state", 
-        "latitude": 42.105, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 42.024, 
         "adjacent": [
           "woe:state=24550777", 
           "woe:state=24550831", 
@@ -68,10 +68,14 @@
           "woe:state=24550856"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.185, 
+        "latitude": 42.105, 
         "sw_longitude": 21.935, 
         "fullname": "Kratovo, Kratovo Municipality, Macedonia", 
-        "sw_latitude": 42.024
+        "children": [
+          "woe:town=482349", 
+          "woe:town=483022"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550780
     }

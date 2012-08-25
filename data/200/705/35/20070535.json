@@ -43,6 +43,7 @@
           20070539
         ], 
         "name": "Schaan", 
+        "ne_latitude": 47.194, 
         "hierarchy": [
           "woe:state=20070535", 
           "woe:country=23424879", 
@@ -52,9 +53,8 @@
         "ne_longitude": 9.625, 
         "longitude": 9.526, 
         "placetype": "state", 
-        "latitude": 47.175, 
         "iso": "LI", 
-        "sw_latitude": 47.061, 
+        "date_indexed": "2010-12-02T08:51:00Z", 
         "adjacent": [
           "woe:state=20070533", 
           "woe:state=20070537", 
@@ -66,10 +66,13 @@
           "woe:state=2344715"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 47.194, 
+        "latitude": 47.175, 
         "sw_longitude": 9.486, 
         "fullname": "Schaan, Liechtenstein", 
-        "date_indexed": "2010-12-02T08:51:00Z"
+        "children": [
+          "woe:town=856445"
+        ], 
+        "sw_latitude": 47.061
       }, 
       "id": 20070535
     }

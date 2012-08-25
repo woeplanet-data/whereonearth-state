@@ -47,22 +47,40 @@
           "woe:planet=1"
         ], 
         "woeid": 2345213, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -79.09, 
         "longitude": -79.785, 
-        "ne_latitude": -3.327, 
         "placetype": "state", 
         "iso": "EC", 
-        "sw_latitude": -4.738, 
+        "date_indexed": "2010-12-02T17:51:25Z", 
         "adjacent": [
           "woe:state=2345203", 
           "woe:state=2345209", 
           "woe:state=2345221"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -3.327, 
         "latitude": -4.032, 
         "sw_longitude": -80.48, 
         "fullname": "Loja, Ecuador", 
-        "date_indexed": "2010-12-02T17:51:25Z"
+        "children": [
+          "woe:county=26809508", 
+          "woe:county=26809512", 
+          "woe:county=26809514", 
+          "woe:county=26809517", 
+          "woe:county=26809549", 
+          "woe:county=26809554", 
+          "woe:county=26809581", 
+          "woe:county=26809584", 
+          "woe:county=28358086", 
+          "woe:county=26809615", 
+          "woe:county=26809628", 
+          "woe:county=26809638", 
+          "woe:county=26809643", 
+          "woe:county=26809673", 
+          "woe:county=26809679", 
+          "woe:county=26809697"
+        ], 
+        "sw_latitude": -4.738
       }, 
       "id": 2345213
     }

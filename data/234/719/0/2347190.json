@@ -50,10 +50,10 @@
         "woeid": 2347190, 
         "ne_longitude": 100.428, 
         "longitude": 100.08, 
+        "ne_latitude": 7.893, 
         "placetype": "state", 
-        "latitude": 7.492, 
         "iso": "TH", 
-        "sw_latitude": 7.09, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347188", 
           "woe:state=2347191", 
@@ -61,10 +61,23 @@
           "woe:state=2347189"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 7.893, 
+        "latitude": 7.492, 
         "sw_longitude": 99.732, 
         "fullname": "Phatthalung, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341666", 
+          "woe:county=28341662", 
+          "woe:county=28341663", 
+          "woe:county=28341664", 
+          "woe:county=28341667", 
+          "woe:county=28341669", 
+          "woe:county=28341660", 
+          "woe:county=28341670", 
+          "woe:county=28341665", 
+          "woe:county=28341661", 
+          "woe:county=28341668"
+        ], 
+        "sw_latitude": 7.09
       }, 
       "id": 2347190
     }

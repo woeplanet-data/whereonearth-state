@@ -39,32 +39,44 @@
           2346824
         ], 
         "name": "Naguabo", 
+        "ne_latitude": 18.297, 
         "hierarchy": [
           "woe:state=2346823", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346823, 
-        "alias_SPA_V": [
-          "Naguabo Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -65.658, 
         "longitude": -65.745, 
         "placetype": "state", 
-        "latitude": 18.235, 
         "sw_longitude": -65.831, 
-        "sw_latitude": 18.173, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346820", 
           "woe:state=2346824", 
           "woe:state=2346799", 
           "woe:state=2346817"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.297, 
+        "alias_SPA_V": [
+          "Naguabo Municipios"
+        ], 
+        "latitude": 18.235, 
         "iso": "PR", 
         "fullname": "Naguabo, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806536", 
+          "woe:county=26806537", 
+          "woe:county=26806538", 
+          "woe:county=26806539", 
+          "woe:county=26806540", 
+          "woe:county=26806541", 
+          "woe:county=26806542", 
+          "woe:county=26806543", 
+          "woe:county=26806544", 
+          "woe:county=26806545"
+        ], 
+        "sw_latitude": 18.173
       }, 
       "id": 2346823
     }

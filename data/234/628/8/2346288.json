@@ -38,36 +38,56 @@
           2346281, 
           2346289
         ], 
-        "alias_ENG_A": [
-          "SI"
-        ], 
         "name": "Sinaloa", 
-        "hierarchy": [
-          "woe:state=2346288", 
-          "woe:country=23424900", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2346288, 
-        "alias_SPA_V": [
-          "Estado de Sinaloa"
-        ], 
-        "ne_longitude": -105.393, 
-        "longitude": -107.421, 
-        "placetype": "state", 
-        "latitude": 24.754, 
-        "sw_longitude": -109.449, 
-        "sw_latitude": 22.466, 
         "adjacent": [
           "woe:state=2346269", 
           "woe:state=2346273", 
           "woe:state=2346281", 
           "woe:state=2346289"
         ], 
+        "hierarchy": [
+          "woe:state=2346288", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346288, 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -105.393, 
+        "longitude": -107.421, 
         "ne_latitude": 27.042, 
+        "placetype": "state", 
+        "sw_longitude": -109.449, 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "SI"
+        ], 
+        "alias_SPA_V": [
+          "Estado de Sinaloa"
+        ], 
+        "latitude": 24.754, 
         "iso": "MX", 
         "fullname": "Sinaloa, Mexico", 
-        "date_indexed": "2010-12-02T16:55:36Z"
+        "children": [
+          "woe:county=12601527", 
+          "woe:county=12601528", 
+          "woe:county=12601529", 
+          "woe:county=12601530", 
+          "woe:county=12601531", 
+          "woe:county=12601532", 
+          "woe:county=12601533", 
+          "woe:county=12601534", 
+          "woe:county=12601535", 
+          "woe:county=12601536", 
+          "woe:county=12601537", 
+          "woe:county=12601538", 
+          "woe:county=12601539", 
+          "woe:county=12601540", 
+          "woe:county=12601541", 
+          "woe:county=12601542", 
+          "woe:county=12601543", 
+          "woe:county=12601544"
+        ], 
+        "sw_latitude": 22.466
       }, 
       "id": 2346288
     }

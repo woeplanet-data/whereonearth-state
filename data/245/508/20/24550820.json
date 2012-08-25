@@ -39,6 +39,7 @@
           24550866, 
           55848400
         ], 
+        "ne_latitude": 41.925, 
         "name": "Zelenikovo", 
         "alias_ENG_P": [
           "Zelenikovo Municipality"
@@ -55,9 +56,8 @@
         "longitude": 21.586, 
         "ne_longitude": 21.691, 
         "placetype": "state", 
-        "latitude": 41.839, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.754, 
         "adjacent": [
           "woe:state=55848400", 
           "woe:state=24550866", 
@@ -66,10 +66,13 @@
           "woe:state=24550815"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.925, 
+        "latitude": 41.839, 
         "sw_longitude": 21.481, 
         "fullname": "Zelenikovo, Zelenikovo Municipality, Macedonia", 
-        "sw_latitude": 41.754
+        "children": [
+          "woe:town=483262"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550820
     }

@@ -32,24 +32,39 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 4.436, 
         "name": "Alifu", 
         "hierarchy": [
           "woe:state=20070319", 
           "woe:country=23424899", 
           "woe:planet=1"
         ], 
-        "woeid": 20070319, 
+        "ne_latitude": 4.436, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 73.0, 
         "longitude": 72.92, 
         "placetype": "state", 
         "iso": "MV", 
-        "sw_latitude": 3.5, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
+        "woeid": 20070319, 
         "latitude": 3.55, 
         "sw_longitude": 72.693, 
         "fullname": "Alifu, Maldives", 
-        "date_indexed": "2010-12-02T09:35:37Z"
+        "children": [
+          "woe:island=12468352", 
+          "woe:island=12508957", 
+          "woe:island=12508960", 
+          "woe:island=12468451", 
+          "woe:island=12468466", 
+          "woe:island=12468621", 
+          "woe:island=12509014", 
+          "woe:island=12468676", 
+          "woe:island=12468678", 
+          "woe:island=12509042", 
+          "woe:island=12468774", 
+          "woe:island=12468777", 
+          "woe:island=12468786"
+        ], 
+        "sw_latitude": 3.5
       }, 
       "id": 20070319
     }

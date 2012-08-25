@@ -52,10 +52,10 @@
         "woeid": 20070425, 
         "ne_longitude": 31.563, 
         "longitude": 31.051, 
+        "ne_latitude": 1.217, 
         "placetype": "state", 
-        "latitude": 0.912, 
         "iso": "UG", 
-        "sw_latitude": 0.606, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=20070413", 
           "woe:state=20070416", 
@@ -65,10 +65,14 @@
           "woe:state=20070437"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 1.217, 
+        "latitude": 0.912, 
         "sw_longitude": 30.538, 
         "fullname": "Kibaale, Kibale, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190275", 
+          "woe:county=56190276"
+        ], 
+        "sw_latitude": 0.606
       }, 
       "id": 20070425
     }

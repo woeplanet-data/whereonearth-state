@@ -32,24 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 2.113, 
         "name": "Laamu", 
         "hierarchy": [
           "woe:state=20070325", 
           "woe:country=23424899", 
           "woe:planet=1"
         ], 
-        "woeid": 20070325, 
+        "ne_latitude": 2.113, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 73.597, 
         "longitude": 73.58, 
         "placetype": "state", 
         "iso": "MV", 
-        "sw_latitude": 1.782, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
+        "woeid": 20070325, 
         "latitude": 2.104, 
         "sw_longitude": 73.245, 
         "fullname": "Laamu, Maldives", 
-        "date_indexed": "2010-12-02T09:35:37Z"
+        "children": [
+          "woe:town=2268291", 
+          "woe:island=12468356", 
+          "woe:island=12468391", 
+          "woe:island=12468397", 
+          "woe:island=12508967", 
+          "woe:island=12508972", 
+          "woe:island=12508975", 
+          "woe:island=12468480", 
+          "woe:island=12468555", 
+          "woe:island=12468560", 
+          "woe:island=12468563", 
+          "woe:island=12468575", 
+          "woe:island=12468618", 
+          "woe:island=12468677", 
+          "woe:island=12509039", 
+          "woe:island=12468696", 
+          "woe:island=12468745", 
+          "woe:island=12468800"
+        ], 
+        "sw_latitude": 1.782
       }, 
       "id": 20070325
     }

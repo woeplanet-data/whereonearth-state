@@ -43,13 +43,13 @@
           56043635
         ], 
         "name": "Banskobystricky", 
-        "ne_latitude": 48.947, 
         "hierarchy": [
           "woe:state=20070495", 
           "woe:country=23424877", 
           "woe:planet=1"
         ], 
         "woeid": 20070495, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Banska Bystrica"
         ], 
@@ -57,7 +57,7 @@
         "ne_longitude": 20.47, 
         "placetype": "state", 
         "iso": "SK", 
-        "sw_latitude": 48.054, 
+        "date_indexed": "2010-12-02T08:50:01Z", 
         "adjacent": [
           "woe:state=12577914", 
           "woe:state=20070497", 
@@ -68,14 +68,29 @@
           "woe:state=20070493", 
           "woe:state=20070494"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 48.947, 
         "latitude": 48.5, 
         "sw_longitude": 18.479, 
         "fullname": "Banskobystricky, Slovakia", 
         "alias_GER_Q": [
           "Neusohl"
         ], 
-        "date_indexed": "2010-12-02T08:50:01Z"
+        "children": [
+          "woe:county=29399352", 
+          "woe:county=29399338", 
+          "woe:county=29399354", 
+          "woe:county=29399331", 
+          "woe:county=29399341", 
+          "woe:county=29399361", 
+          "woe:county=29399333", 
+          "woe:county=29399323", 
+          "woe:county=29399327", 
+          "woe:county=29399344", 
+          "woe:county=29399335", 
+          "woe:county=29399326", 
+          "woe:county=29399329"
+        ], 
+        "sw_latitude": 48.054
       }, 
       "id": 20070495
     }

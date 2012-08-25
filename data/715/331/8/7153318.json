@@ -1169,7 +1169,7 @@
         "ne:Shape_Area": 1.51782813853, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_POR_Q": [
           "Alta Normandia"
         ], 
@@ -1178,6 +1178,10 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "FRA", 
+        "children": [
+          "woe:county=12597139", 
+          "woe:county=12597115"
+        ], 
         "alias_CHI_Q": [
           "\u4e0a\u8bfa\u66fc\u5e95"
         ], 
@@ -1185,10 +1189,8 @@
         "alias_ITA_Q": [
           "Alta Normandia"
         ], 
-        "alias_DAN_Q": [
-          "Nordnormandiet"
-        ], 
-        "ne:DataRank": 3, 
+        "ne:Area_sqkm": 12255.2, 
+        "ne:OBJECTID": 2673, 
         "alias_JPN_Q": [
           "\u30ce\u30eb\u30de\u30f3\u30c7\u30a3"
         ], 
@@ -1212,9 +1214,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2673, 
+        "ne:VertexCou": 285.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Alta Normand\u00a1a|Upper Normandy", 
@@ -1232,10 +1234,12 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 12255.2, 
+        "alias_DAN_Q": [
+          "Nordnormandiet"
+        ], 
         "woe:id": "7153318", 
-        "name": "Haute-Normandie", 
-        "ne:VertexCou": 285.0, 
+        "ne:HASC_1": null, 
+        "lang": "FRE", 
         "adjacent_woeid": [
           7153311, 
           7153314, 
@@ -1243,7 +1247,7 @@
           7153326
         ], 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": null, 
+        "name": "Haute-Normandie", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne_longitude": 1.783436720128577, 

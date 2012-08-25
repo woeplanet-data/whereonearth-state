@@ -40,13 +40,13 @@
           20070505
         ], 
         "name": "Trnavsky", 
-        "ne_latitude": 48.876, 
         "hierarchy": [
           "woe:state=20070504", 
           "woe:country=23424877", 
           "woe:planet=1"
         ], 
         "woeid": 20070504, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Trnava"
         ], 
@@ -54,7 +54,7 @@
         "ne_longitude": 17.985, 
         "placetype": "state", 
         "iso": "SK", 
-        "sw_latitude": 47.757, 
+        "date_indexed": "2010-12-02T08:50:01Z", 
         "adjacent": [
           "woe:state=20070505", 
           "woe:state=12577918", 
@@ -62,14 +62,23 @@
           "woe:state=20070492", 
           "woe:state=20070493"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 48.876, 
         "latitude": 48.317, 
         "sw_longitude": 16.934, 
         "fullname": "Trnavsky, Slovakia", 
         "alias_GER_Q": [
           "Tyrnau"
         ], 
-        "date_indexed": "2010-12-02T08:50:01Z"
+        "children": [
+          "woe:county=29399349", 
+          "woe:county=29399345", 
+          "woe:county=29399340", 
+          "woe:county=29399334", 
+          "woe:county=29399328", 
+          "woe:county=29399324", 
+          "woe:county=29399336"
+        ], 
+        "sw_latitude": 47.757
       }, 
       "id": 20070504
     }

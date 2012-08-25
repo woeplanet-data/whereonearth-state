@@ -40,6 +40,7 @@
           20070503
         ], 
         "name": "Pardubick\u00fd", 
+        "ne_latitude": 50.208, 
         "hierarchy": [
           "woe:state=20070465", 
           "woe:country=23424810", 
@@ -48,10 +49,15 @@
         "woeid": 20070465, 
         "ne_longitude": 16.867, 
         "longitude": 16.115, 
+        "children": [
+          "woe:county=12582593", 
+          "woe:county=12582598", 
+          "woe:county=12582601", 
+          "woe:county=12582603"
+        ], 
         "placetype": "state", 
-        "latitude": 49.89, 
         "iso": "CZ", 
-        "sw_latitude": 49.573, 
+        "date_indexed": "2010-12-02T08:54:50Z", 
         "adjacent": [
           "woe:state=20070503", 
           "woe:state=20070466", 
@@ -60,7 +66,7 @@
           "woe:state=20070467"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 50.208, 
+        "latitude": 49.89, 
         "sw_longitude": 15.363, 
         "fullname": "Pardubick\u00fd, Czech Republic", 
         "alias_GER_Q": [
@@ -69,7 +75,7 @@
         "alias_CZE_S": [
           "Pardubicky"
         ], 
-        "date_indexed": "2010-12-02T08:54:50Z", 
+        "sw_latitude": 49.573, 
         "alias_FRE_Q": [
           "Pardubice"
         ]

@@ -36,6 +36,7 @@
           2345694
         ], 
         "name": "Kopavogur", 
+        "ne_latitude": 64.118, 
         "hierarchy": [
           "woe:state=20070106", 
           "woe:country=23424845", 
@@ -45,17 +46,19 @@
         "ne_longitude": -21.877, 
         "longitude": -21.909, 
         "placetype": "state", 
-        "latitude": 64.11, 
         "iso": "IS", 
-        "sw_latitude": 64.102, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345694"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 64.118, 
+        "latitude": 64.11, 
         "sw_longitude": -21.94, 
         "fullname": "Kopavogur, Iceland", 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "children": [
+          "woe:town=980302"
+        ], 
+        "sw_latitude": 64.102
       }, 
       "id": 20070106
     }

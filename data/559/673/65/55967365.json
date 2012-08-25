@@ -45,26 +45,33 @@
           "woe:planet=1"
         ], 
         "woeid": 55967365, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -1.583, 
         "longitude": -1.743, 
+        "children": [
+          "woe:county=55967642", 
+          "woe:county=55967643", 
+          "woe:county=55967640", 
+          "woe:county=55967644", 
+          "woe:county=55967641"
+        ], 
         "placetype": "state", 
+        "latitude": 12.586, 
         "iso": "BF", 
-        "date_indexed": "2010-12-02T09:36:17Z", 
+        "sw_latitude": 12.272, 
         "adjacent": [
           "woe:state=2347614", 
           "woe:state=2347619", 
           "woe:state=2347627", 
           "woe:state=2347629"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 12.901, 
-        "latitude": 12.586, 
         "sw_longitude": -2.088, 
         "fullname": "Kourw\u00e9ogo, Burkina Faso", 
         "alias_FRE_S": [
           "Kourweogo"
         ], 
-        "sw_latitude": 12.272
+        "date_indexed": "2010-12-02T09:36:17Z"
       }, 
       "id": 55967365
     }

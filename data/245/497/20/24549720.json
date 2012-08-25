@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 24549720, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.785, 
         "longitude": 144.769, 
         "placetype": "state", 
+        "latitude": 13.47, 
         "iso": "GU", 
-        "date_indexed": "2010-12-02T18:21:30Z", 
+        "sw_latitude": 13.458, 
         "adjacent": [
           "woe:state=24549718", 
           "woe:state=24549722", 
@@ -61,11 +61,16 @@
           "woe:state=24549727", 
           "woe:state=24549721"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 13.483, 
-        "latitude": 13.47, 
         "sw_longitude": 144.752, 
         "fullname": "Mongmong-Toto-Maite, Guam", 
-        "sw_latitude": 13.458
+        "children": [
+          "woe:town=15021088", 
+          "woe:town=15021089", 
+          "woe:town=15021090"
+        ], 
+        "date_indexed": "2010-12-02T18:21:30Z"
       }, 
       "id": 24549720
     }

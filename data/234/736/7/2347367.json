@@ -42,6 +42,7 @@
           56025085
         ], 
         "name": "Singida", 
+        "ne_latitude": -3.807, 
         "hierarchy": [
           "woe:state=2347367", 
           "woe:country=23424973", 
@@ -51,9 +52,8 @@
         "ne_longitude": 35.405, 
         "longitude": 34.459, 
         "placetype": "state", 
-        "latitude": -5.646, 
         "iso": "TZ", 
-        "sw_latitude": -7.486, 
+        "date_indexed": "2010-12-02T12:15:58Z", 
         "adjacent": [
           "woe:state=2347352", 
           "woe:state=2347354", 
@@ -64,10 +64,16 @@
           "woe:state=2347368"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -3.807, 
+        "latitude": -5.646, 
         "sw_longitude": 33.512, 
         "fullname": "Singida, Tanzania", 
-        "date_indexed": "2010-12-02T12:15:58Z"
+        "children": [
+          "woe:county=56025108", 
+          "woe:county=56025146", 
+          "woe:county=56025198", 
+          "woe:county=56025199"
+        ], 
+        "sw_latitude": -7.486
       }, 
       "id": 2347367
     }

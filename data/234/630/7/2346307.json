@@ -37,6 +37,7 @@
           2346301
         ], 
         "name": "Terengganu", 
+        "ne_latitude": 5.964, 
         "hierarchy": [
           "woe:state=2346307", 
           "woe:country=23424901", 
@@ -46,18 +47,27 @@
         "ne_longitude": 103.691, 
         "longitude": 102.935, 
         "placetype": "state", 
-        "latitude": 4.865, 
         "iso": "MY", 
-        "sw_latitude": 3.881, 
+        "date_indexed": "2010-12-02T18:03:44Z", 
         "adjacent": [
           "woe:state=2346298", 
           "woe:state=2346301"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 5.964, 
+        "latitude": 4.865, 
         "sw_longitude": 102.378, 
         "fullname": "Terengganu, Malaysia", 
-        "date_indexed": "2010-12-02T18:03:44Z"
+        "children": [
+          "woe:county=56013578", 
+          "woe:county=56013559", 
+          "woe:county=56013558", 
+          "woe:county=56013617", 
+          "woe:county=56013599", 
+          "woe:county=56013642", 
+          "woe:county=56013555", 
+          "woe:island=12496407"
+        ], 
+        "sw_latitude": 3.881
       }, 
       "id": 2346307
     }

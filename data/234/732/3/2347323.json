@@ -250,10 +250,18 @@
         "ne:Shape_Area": 0.682013445024, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1989", 
+        "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
-        "ne:DataRank": 5, 
+        "children": [
+          "woe:county=29390073", 
+          "woe:county=29390167", 
+          "woe:county=29390620", 
+          "woe:county=29390839", 
+          "woe:county=29390191", 
+          "woe:county=29390235"
+        ], 
+        "ne:OBJECTID": 3020, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 34.15980675637678, 
@@ -272,9 +280,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 37.35198395399635, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 3020, 
+        "ne:VertexCou": 56.0, 
+        "ne:VALIDFR_1": "1989", 
+        "ne:DataRank": 5, 
         "ne:Postal": "NG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Nigde", 
@@ -290,8 +298,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 6654.6, 
         "woe:id": "2347323", 
-        "name": "Ni\u011fde", 
-        "ne:VertexCou": 56.0, 
+        "ne:HASC_1": "TR.NG", 
+        "lang": "UNK", 
         "adjacent_woeid": [
           2347258, 
           2347287, 
@@ -300,7 +308,7 @@
           2347321, 
           2347325
         ], 
-        "ne:HASC_1": "TR.NG", 
+        "name": "Ni\u011fde", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Nigde"

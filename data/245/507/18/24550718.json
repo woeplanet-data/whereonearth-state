@@ -45,23 +45,27 @@
           "woe:planet=1"
         ], 
         "woeid": 24550718, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.84, 
         "longitude": 45.616, 
         "placetype": "state", 
+        "latitude": 39.436, 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 39.264, 
         "adjacent": [
           "woe:state=24550721", 
           "woe:state=20070275", 
           "woe:state=20070206", 
           "woe:state=20070205"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 39.607, 
-        "latitude": 39.436, 
         "sw_longitude": 45.391, 
         "fullname": "Shakhbuz, Azerbaijan", 
-        "sw_latitude": 39.264
+        "children": [
+          "woe:town=1952006", 
+          "woe:town=1950824"
+        ], 
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 24550718
     }

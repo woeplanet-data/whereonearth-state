@@ -1956,7 +1956,7 @@
         "ne:Shape_Area": 0.388732553522, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1987", 
+        "ne:MAP_COLOR": 9, 
         "alias_POR_Q": [
           "\u00c1tica"
         ], 
@@ -1968,23 +1968,27 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "GRC", 
+        "children": [
+          "woe:county=24543541", 
+          "woe:county=24543543", 
+          "woe:county=24543544", 
+          "woe:county=24543545", 
+          "woe:zone=24873569"
+        ], 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u963f\u63d0\u5361"
         ], 
-        "alias_SPA_Q": [
-          "La Periferia de \u00c1tica"
-        ], 
-        "alias_DAN_Q": [
-          "Attika"
-        ], 
-        "ne:DataRank": 6, 
+        "ne:VALIDTO_1": "Present", 
+        "ne:Area_sqkm": 3797.7, 
+        "ne:OBJECTID": 2884, 
         "alias_JPN_Q": [
           "\u30a2\u30c3\u30c6\u30a3\u30ab"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "La Periferia de \u00c1tica"
+        ], 
         "alias_FIN_Q": [
           "Attika"
         ], 
@@ -2003,9 +2007,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 2884, 
+        "ne:VertexCou": 460.0, 
+        "ne:VALIDFR_1": "1987", 
+        "ne:DataRank": 6, 
         "ne:Postal": "AT", 
         "ne:Region_Cod": "GRC-PLP", 
         "ne:VARNAME_1": "Attica", 
@@ -2017,24 +2021,27 @@
         "ne:NAME_0": "Greece", 
         "ne:NAME_1": "Attiki", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Diamerismata", 
+        "ne:sameAsCity": -99, 
         "alias_CZE_Q": [
           "Attika"
         ], 
         "ne:LabelRank": 6, 
-        "ne:Area_sqkm": 3797.7, 
+        "alias_DAN_Q": [
+          "Attika"
+        ], 
         "alias_GER_Q": [
           "Attika"
         ], 
         "woe:id": "12577879", 
-        "name": "Attica", 
-        "ne:VertexCou": 460.0, 
+        "ne:HASC_1": "GR.AT", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           12577887, 
           12577888
         ], 
-        "ne:HASC_1": "GR.AT", 
+        "name": "Attica", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Diamerismata", 
         "alias_UNK_Q": [
           "Atika"
         ], 

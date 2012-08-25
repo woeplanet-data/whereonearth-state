@@ -40,6 +40,7 @@
           20069853
         ], 
         "name": "Estuaire", 
+        "ne_latitude": 1.069, 
         "hierarchy": [
           "woe:state=2345449", 
           "woe:country=23424822", 
@@ -49,9 +50,8 @@
         "ne_longitude": 10.972, 
         "longitude": 10.135, 
         "placetype": "state", 
-        "latitude": 0.249, 
         "iso": "GA", 
-        "sw_latitude": -0.571, 
+        "date_indexed": "2010-12-02T08:50:01Z", 
         "adjacent": [
           "woe:state=20069850", 
           "woe:state=20069853", 
@@ -60,10 +60,15 @@
           "woe:state=2345457"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 1.069, 
+        "latitude": 0.249, 
         "sw_longitude": 9.298, 
         "fullname": "Estuaire, Gabon", 
-        "date_indexed": "2010-12-02T08:50:01Z"
+        "children": [
+          "woe:county=55998456", 
+          "woe:county=55998491", 
+          "woe:county=55998455"
+        ], 
+        "sw_latitude": -0.571
       }, 
       "id": 2345449
     }

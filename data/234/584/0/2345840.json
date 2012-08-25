@@ -38,6 +38,7 @@
           2347069
         ], 
         "name": "Dahuk", 
+        "ne_latitude": 37.378, 
         "hierarchy": [
           "woe:state=2345840", 
           "woe:country=23424855", 
@@ -47,19 +48,24 @@
         "ne_longitude": 44.11, 
         "longitude": 43.236, 
         "placetype": "state", 
-        "latitude": 37.037, 
         "iso": "IQ", 
-        "sw_latitude": 36.696, 
+        "date_indexed": "2010-12-02T16:42:51Z", 
         "adjacent": [
           "woe:state=2347069", 
           "woe:state=2345843", 
           "woe:state=2345847"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 37.378, 
+        "latitude": 37.037, 
         "sw_longitude": 42.362, 
         "fullname": "Dahuk, Iraq", 
-        "date_indexed": "2010-12-02T16:42:51Z"
+        "children": [
+          "woe:county=55999928", 
+          "woe:county=55999989", 
+          "woe:county=55999929", 
+          "woe:county=55999927"
+        ], 
+        "sw_latitude": 36.696
       }, 
       "id": 2345840
     }

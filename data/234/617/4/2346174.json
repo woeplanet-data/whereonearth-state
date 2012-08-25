@@ -41,16 +41,11 @@
           2346867, 
           20070015
         ], 
-        "name": "Bulgan", 
-        "adjacent": [
-          "woe:state=2346157", 
-          "woe:state=2346867", 
-          "woe:state=20070015", 
-          "woe:state=2346167", 
-          "woe:state=2346169", 
-          "woe:state=2346170", 
-          "woe:state=2346172"
+        "alias_ENG_A": [
+          "BG"
         ], 
+        "name": "Bulgan", 
+        "ne_latitude": 50.437, 
         "hierarchy": [
           "woe:state=2346174", 
           "woe:country=23424887", 
@@ -60,17 +55,45 @@
         "ne_longitude": 104.871, 
         "longitude": 103.261, 
         "placetype": "state", 
-        "latitude": 48.909, 
         "iso": "MN", 
-        "sw_latitude": 47.381, 
-        "alias_ENG_A": [
-          "BG"
+        "date_indexed": "2010-12-02T08:53:23Z", 
+        "adjacent": [
+          "woe:state=2346157", 
+          "woe:state=2346867", 
+          "woe:state=20070015", 
+          "woe:state=2346167", 
+          "woe:state=2346169", 
+          "woe:state=2346170", 
+          "woe:state=2346172"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 50.437, 
+        "latitude": 48.909, 
         "sw_longitude": 101.651, 
         "fullname": "Bulgan, Mongolia", 
-        "date_indexed": "2010-12-02T08:53:23Z"
+        "children": [
+          "woe:town=2265203", 
+          "woe:town=2266567", 
+          "woe:town=2266570", 
+          "woe:town=2266575", 
+          "woe:town=2266537", 
+          "woe:town=2265506", 
+          "woe:town=2266616", 
+          "woe:town=56122848", 
+          "woe:town=2265670", 
+          "woe:town=2266640", 
+          "woe:town=2266756", 
+          "woe:town=2265715", 
+          "woe:town=2266654", 
+          "woe:town=2265914", 
+          "woe:town=2265998", 
+          "woe:town=2266762", 
+          "woe:town=2266763", 
+          "woe:town=2266230", 
+          "woe:town=2266261", 
+          "woe:town=2266279", 
+          "woe:town=2266431"
+        ], 
+        "sw_latitude": 47.381
       }, 
       "id": 2346174
     }

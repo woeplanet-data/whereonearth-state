@@ -39,24 +39,20 @@
           20070133, 
           20070135
         ], 
-        "ne_latitude": -13.481, 
-        "name": "Lilongwe", 
-        "adjacent": [
-          "woe:state=20070135", 
-          "woe:state=20070132", 
-          "woe:state=20070128", 
-          "woe:state=20070131", 
-          "woe:state=20070133"
+        "alias_KOR_Q": [
+          "\ub9b4\ub871\uada4"
         ], 
+        "name": "Lilongwe", 
         "hierarchy": [
           "woe:state=20070134", 
           "woe:country=23424889", 
           "woe:planet=1"
         ], 
-        "woeid": 20070134, 
+        "ne_latitude": -13.481, 
         "alias_JPN_Q": [
           "\u30ea\u30ed\u30f3\u30b0\u30a6\u30a7"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 34.284, 
         "longitude": 33.764, 
         "alias_CHI_Q": [
@@ -64,15 +60,31 @@
         ], 
         "placetype": "state", 
         "iso": "MW", 
-        "sw_latitude": -14.583, 
-        "alias_KOR_Q": [
-          "\ub9b4\ub871\uada4"
+        "date_indexed": "2010-12-02T17:40:22Z", 
+        "adjacent": [
+          "woe:state=20070135", 
+          "woe:state=20070132", 
+          "woe:state=20070128", 
+          "woe:state=20070131", 
+          "woe:state=20070133"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 20070134, 
         "latitude": -14.032, 
         "sw_longitude": 33.245, 
         "fullname": "Lilongwe, Malawi", 
-        "date_indexed": "2010-12-02T17:40:22Z"
+        "children": [
+          "woe:town=1365669", 
+          "woe:town=1366263", 
+          "woe:town=1367475", 
+          "woe:town=1367476", 
+          "woe:town=1367517", 
+          "woe:town=1367705", 
+          "woe:town=1367864", 
+          "woe:town=1368031", 
+          "woe:town=1368629", 
+          "woe:town=1501496"
+        ], 
+        "sw_latitude": -14.583
       }, 
       "id": 20070134
     }

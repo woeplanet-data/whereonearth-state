@@ -41,6 +41,7 @@
           55967361
         ], 
         "name": "Sanguie", 
+        "ne_latitude": 12.807, 
         "hierarchy": [
           "woe:state=2347631", 
           "woe:country=23424978", 
@@ -50,9 +51,8 @@
         "ne_longitude": -2.234, 
         "longitude": -2.585, 
         "placetype": "state", 
-        "latitude": 12.209, 
         "iso": "BF", 
-        "sw_latitude": 11.611, 
+        "date_indexed": "2010-12-02T09:36:17Z", 
         "adjacent": [
           "woe:state=55967358", 
           "woe:state=2347614", 
@@ -62,10 +62,21 @@
           "woe:state=2347634"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 12.807, 
+        "latitude": 12.209, 
         "sw_longitude": -2.936, 
         "fullname": "Sanguie, Burkina Faso", 
-        "date_indexed": "2010-12-02T09:36:17Z"
+        "children": [
+          "woe:county=55967514", 
+          "woe:county=55967512", 
+          "woe:county=55967511", 
+          "woe:county=55967518", 
+          "woe:county=55967513", 
+          "woe:county=55967517", 
+          "woe:county=55967516", 
+          "woe:county=55967515", 
+          "woe:county=55967519"
+        ], 
+        "sw_latitude": 11.611
       }, 
       "id": 2347631
     }

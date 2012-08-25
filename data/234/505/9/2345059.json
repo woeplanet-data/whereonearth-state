@@ -40,6 +40,7 @@
           2345076
         ], 
         "name": "Guavaire", 
+        "ne_latitude": 2.921, 
         "hierarchy": [
           "woe:state=2345059", 
           "woe:country=23424787", 
@@ -49,9 +50,8 @@
         "ne_longitude": -70.001, 
         "longitude": -71.829, 
         "placetype": "state", 
-        "latitude": 1.81, 
         "iso": "CO", 
-        "sw_latitude": 0.699, 
+        "date_indexed": "2010-12-02T17:57:12Z", 
         "adjacent": [
           "woe:state=2345054", 
           "woe:state=2345060", 
@@ -60,10 +60,16 @@
           "woe:state=2345076"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 2.921, 
+        "latitude": 1.81, 
         "sw_longitude": -73.657, 
         "fullname": "Guavaire, Colombia", 
-        "date_indexed": "2010-12-02T17:57:12Z"
+        "children": [
+          "woe:county=26797663", 
+          "woe:county=26797664", 
+          "woe:county=26797662", 
+          "woe:county=26797661"
+        ], 
+        "sw_latitude": 0.699
       }, 
       "id": 2345059
     }

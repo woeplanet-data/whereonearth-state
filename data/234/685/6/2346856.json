@@ -41,21 +41,19 @@
           20070566
         ], 
         "name": "Gurabo", 
+        "ne_latitude": 18.311, 
         "hierarchy": [
           "woe:state=2346856", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346856, 
-        "alias_SPA_V": [
-          "Gurabo Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -65.919, 
         "longitude": -65.975, 
         "placetype": "state", 
-        "latitude": 18.259, 
         "sw_longitude": -66.031, 
-        "sw_latitude": 18.207, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346855", 
           "woe:state=20070566", 
@@ -64,11 +62,25 @@
           "woe:state=2346806", 
           "woe:state=2346853"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.311, 
+        "alias_SPA_V": [
+          "Gurabo Municipios"
+        ], 
+        "latitude": 18.259, 
         "iso": "PR", 
         "fullname": "Gurabo, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806316", 
+          "woe:county=26806317", 
+          "woe:county=26806318", 
+          "woe:county=26806319", 
+          "woe:county=26806320", 
+          "woe:county=26806321", 
+          "woe:county=26806322", 
+          "woe:county=26806323", 
+          "woe:county=26806324", 
+          "woe:county=26806325"
+        ], 
+        "sw_latitude": 18.207
       }, 
       "id": 2346856
     }

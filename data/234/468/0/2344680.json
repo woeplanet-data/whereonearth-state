@@ -44,25 +44,7 @@
           2347640, 
           2347654
         ], 
-        "alias_ENG_A": [
-          "CTS"
-        ], 
         "name": "Corrientes", 
-        "hierarchy": [
-          "woe:state=2344680", 
-          "woe:country=23424747", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2344680, 
-        "alias_SPA_V": [
-          "Provincia de Corrientes"
-        ], 
-        "ne_longitude": -55.618, 
-        "longitude": -57.655, 
-        "placetype": "state", 
-        "latitude": -29.006, 
-        "sw_longitude": -59.689, 
-        "sw_latitude": -30.768, 
         "adjacent": [
           "woe:state=2347640", 
           "woe:state=2344677", 
@@ -75,11 +57,56 @@
           "woe:state=2344695", 
           "woe:state=2346459"
         ], 
+        "hierarchy": [
+          "woe:state=2344680", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344680, 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -55.618, 
+        "longitude": -57.655, 
         "ne_latitude": -27.248, 
+        "placetype": "state", 
+        "sw_longitude": -59.689, 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "alias_ENG_A": [
+          "CTS"
+        ], 
+        "alias_SPA_V": [
+          "Provincia de Corrientes"
+        ], 
+        "latitude": -29.006, 
         "iso": "AR", 
         "fullname": "Corrientes, Argentina", 
-        "date_indexed": "2010-12-02T17:40:36Z"
+        "children": [
+          "woe:county=20070825", 
+          "woe:county=20070770", 
+          "woe:county=20070826", 
+          "woe:county=20070796", 
+          "woe:county=20070830", 
+          "woe:county=20070795", 
+          "woe:county=20070832", 
+          "woe:county=20070769", 
+          "woe:county=20070831", 
+          "woe:county=20070814", 
+          "woe:county=20070798", 
+          "woe:county=20070812", 
+          "woe:county=20070828", 
+          "woe:county=20070823", 
+          "woe:county=20070827", 
+          "woe:county=20070817", 
+          "woe:county=20070816", 
+          "woe:county=20070824", 
+          "woe:county=20070797", 
+          "woe:county=20070799", 
+          "woe:county=20070815", 
+          "woe:county=20070669", 
+          "woe:county=20070829", 
+          "woe:county=20070813", 
+          "woe:county=20070768"
+        ], 
+        "sw_latitude": -30.768
       }, 
       "id": 2344680
     }

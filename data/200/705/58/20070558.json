@@ -41,6 +41,7 @@
           20070557
         ], 
         "name": "Encamp", 
+        "ne_latitude": 42.558, 
         "hierarchy": [
           "woe:state=20070558", 
           "woe:country=23424744", 
@@ -50,9 +51,8 @@
         "ne_longitude": 1.736, 
         "longitude": 1.641, 
         "placetype": "state", 
-        "latitude": 42.523, 
         "iso": "AD", 
-        "sw_latitude": 42.489, 
+        "date_indexed": "2010-12-02T07:50:33Z", 
         "adjacent": [
           "woe:state=20070557", 
           "woe:state=12578034", 
@@ -62,10 +62,15 @@
           "woe:state=20070556"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.558, 
+        "latitude": 42.523, 
         "sw_longitude": 1.546, 
         "fullname": "Encamp, Andorra", 
-        "date_indexed": "2010-12-02T07:50:33Z"
+        "children": [
+          "woe:town=472568", 
+          "woe:town=472593", 
+          "woe:town=472605"
+        ], 
+        "sw_latitude": 42.489
       }, 
       "id": 20070558
     }

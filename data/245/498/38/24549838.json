@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 11.675, 
         "name": "Enewetak", 
         "hierarchy": [
           "woe:state=24549838", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549838, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 162.388, 
         "longitude": 162.33, 
         "placetype": "state", 
         "iso": "MH", 
-        "date_indexed": "2010-12-02T09:35:31Z", 
-        "ne_latitude": 11.675, 
+        "sw_latitude": 11.322, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 11.336, 
         "sw_longitude": 162.143, 
         "fullname": "Enewetak, Marshall Islands", 
-        "sw_latitude": 11.322
+        "children": [
+          "woe:airport=12515492"
+        ], 
+        "date_indexed": "2010-12-02T09:35:31Z"
       }, 
       "id": 24549838
     }

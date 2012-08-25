@@ -39,32 +39,44 @@
           2346846
         ], 
         "name": "Hatillo", 
+        "ne_latitude": 18.493, 
         "hierarchy": [
           "woe:state=2346847", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346847, 
-        "alias_SPA_V": [
-          "Hatillo Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.765, 
         "longitude": -66.802, 
         "placetype": "state", 
-        "latitude": 18.407, 
         "sw_longitude": -66.839, 
-        "sw_latitude": 18.321, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346811", 
           "woe:state=2346846", 
           "woe:state=2346798", 
           "woe:state=2346808"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.493, 
+        "alias_SPA_V": [
+          "Hatillo Municipios"
+        ], 
+        "latitude": 18.407, 
         "iso": "PR", 
         "fullname": "Hatillo, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806326", 
+          "woe:county=26806327", 
+          "woe:county=26806328", 
+          "woe:county=26806329", 
+          "woe:county=26806330", 
+          "woe:county=26806331", 
+          "woe:county=26806332", 
+          "woe:county=26806334", 
+          "woe:county=26806333", 
+          "woe:county=26806335"
+        ], 
+        "sw_latitude": 18.321
       }, 
       "id": 2346847
     }

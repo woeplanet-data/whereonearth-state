@@ -54,10 +54,10 @@
         "woeid": 2345237, 
         "ne_longitude": 32.656, 
         "longitude": 32.245, 
+        "ne_latitude": 30.274, 
         "placetype": "state", 
-        "latitude": 29.61, 
         "iso": "EG", 
-        "sw_latitude": 28.947, 
+        "date_indexed": "2010-12-02T12:16:45Z", 
         "adjacent": [
           "woe:state=2345224", 
           "woe:state=2345229", 
@@ -69,10 +69,21 @@
           "woe:state=2345248"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 30.274, 
+        "latitude": 29.61, 
         "sw_longitude": 31.835, 
         "fullname": "As Suways, Egypt", 
-        "date_indexed": "2010-12-02T12:16:45Z"
+        "children": [
+          "woe:town=1522265", 
+          "woe:town=1522319", 
+          "woe:town=56120954", 
+          "woe:town=1522746", 
+          "woe:town=23428056", 
+          "woe:town=1522965", 
+          "woe:town=1525718", 
+          "woe:town=1526398", 
+          "woe:town=56120953"
+        ], 
+        "sw_latitude": 28.947
       }, 
       "id": 2345237
     }

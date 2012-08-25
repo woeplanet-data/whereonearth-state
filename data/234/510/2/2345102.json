@@ -39,35 +39,39 @@
           2345099
         ], 
         "name": "Nana-Gr\u00e9bizi", 
+        "ne_latitude": 8.57, 
         "hierarchy": [
           "woe:state=2345102", 
           "woe:country=23424792", 
           "woe:planet=1"
         ], 
         "woeid": 2345102, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.173, 
         "longitude": 19.411, 
+        "children": [
+          "woe:county=55998340", 
+          "woe:county=55998341"
+        ], 
         "placetype": "state", 
-        "latitude": 7.491, 
+        "alias_FRE_V": [
+          "Gribingui"
+        ], 
         "iso": "CF", 
-        "sw_latitude": 6.413, 
+        "date_indexed": "2010-12-02T17:43:23Z", 
         "adjacent": [
           "woe:state=2345089", 
           "woe:state=2345094", 
           "woe:state=2345098", 
           "woe:state=2345099"
         ], 
-        "ne_latitude": 8.57, 
-        "alias_FRE_V": [
-          "Gribingui"
-        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 7.491, 
         "sw_longitude": 18.649, 
         "fullname": "Nana-Gr\u00e9bizi, Central African Republic", 
         "alias_FRE_S": [
           "Nana-Grebizi"
         ], 
-        "date_indexed": "2010-12-02T17:43:23Z"
+        "sw_latitude": 6.413
       }, 
       "id": 2345102
     }

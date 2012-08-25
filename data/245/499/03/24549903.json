@@ -44,22 +44,30 @@
           "woe:planet=1"
         ], 
         "woeid": 24549903, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 126.745, 
         "longitude": 126.12, 
         "placetype": "state", 
+        "latitude": -8.894, 
         "iso": "TL", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
+        "sw_latitude": -8.992, 
         "adjacent": [
           "woe:state=24549905", 
           "woe:state=24549904", 
           "woe:state=24549902"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -8.644, 
-        "latitude": -8.894, 
         "sw_longitude": 126.067, 
         "fullname": "Viqueque, East Timor", 
-        "sw_latitude": -8.992
+        "children": [
+          "woe:town=1030030", 
+          "woe:town=1036531", 
+          "woe:town=1047748", 
+          "woe:town=1046085", 
+          "woe:town=1046086", 
+          "woe:town=1048689"
+        ], 
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 24549903
     }

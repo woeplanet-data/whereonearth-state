@@ -38,7 +38,7 @@
           56190593
         ], 
         "name": "V\u0105rkavas Novads", 
-        "latitude": 56.224, 
+        "ne_latitude": 56.325, 
         "alias_UNK_S": [
           "Varkavas Novads"
         ], 
@@ -52,17 +52,22 @@
           "woe:planet=1"
         ], 
         "iso": "LV", 
-        "date_indexed": "2010-12-02T08:49:33Z", 
+        "sw_latitude": 56.123, 
         "adjacent": [
           "woe:state=56190593", 
           "woe:state=55844714", 
           "woe:state=55844399"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 56.325, 
+        "latitude": 56.224, 
         "sw_longitude": 26.292, 
         "fullname": "V\u0105rkavas Novads, Preiju Rajons, V\u0105rkavas Novads, Latvia", 
-        "sw_latitude": 56.123
+        "children": [
+          "woe:county=56190506", 
+          "woe:county=56190486", 
+          "woe:county=55844699"
+        ], 
+        "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 55844549
     }

@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 24549719, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.794, 
         "longitude": 144.766, 
         "placetype": "state", 
+        "latitude": 13.437, 
         "iso": "GU", 
-        "date_indexed": "2010-12-02T18:21:30Z", 
+        "sw_latitude": 13.416, 
         "adjacent": [
           "woe:state=24549726", 
           "woe:state=24549717", 
@@ -61,11 +61,14 @@
           "woe:state=24549727", 
           "woe:state=24549715"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 13.458, 
-        "latitude": 13.437, 
         "sw_longitude": 144.739, 
         "fullname": "Chalan-Pago-Ordot, Guam", 
-        "sw_latitude": 13.416
+        "children": [
+          "woe:town=15021092"
+        ], 
+        "date_indexed": "2010-12-02T18:21:30Z"
       }, 
       "id": 24549719
     }

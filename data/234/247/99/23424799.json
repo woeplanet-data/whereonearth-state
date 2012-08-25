@@ -32,10 +32,9 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "alias_SPA_Q": [
-          "Isla Jarvis"
-        ], 
+        "placetype": "state", 
         "name": "Jarvis Island", 
+        "ne_latitude": -0.369, 
         "hierarchy": [
           "woe:state=23424799", 
           "woe:country=28289407", 
@@ -44,12 +43,16 @@
         "woeid": 23424799, 
         "ne_longitude": -160.005, 
         "longitude": -160.019, 
-        "placetype": "state", 
-        "latitude": -0.379, 
+        "children": [
+          "woe:island=12489420"
+        ], 
+        "alias_SPA_Q": [
+          "Isla Jarvis"
+        ], 
         "iso": "UM", 
-        "sw_latitude": -0.389, 
+        "date_indexed": "2010-12-02T16:52:36Z", 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -0.369, 
+        "latitude": -0.379, 
         "sw_longitude": -160.033, 
         "fullname": "Jarvis Island, United States Minor Outlying Islands", 
         "alias_GER_Q": [
@@ -58,7 +61,7 @@
         "alias_FRE_S": [
           "Ile Jarvis"
         ], 
-        "date_indexed": "2010-12-02T16:52:36Z", 
+        "sw_latitude": -0.389, 
         "alias_FRE_Q": [
           "\u00cele Jarvis"
         ]

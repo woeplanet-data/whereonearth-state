@@ -37,6 +37,7 @@
           2346414
         ], 
         "name": "Brokopondo", 
+        "ne_latitude": 5.388, 
         "hierarchy": [
           "woe:state=2346406", 
           "woe:country=23424913", 
@@ -46,18 +47,24 @@
         "ne_longitude": -54.791, 
         "longitude": -55.18, 
         "placetype": "state", 
-        "latitude": 4.822, 
         "iso": "SR", 
-        "sw_latitude": 4.256, 
+        "date_indexed": "2010-12-02T12:16:16Z", 
         "adjacent": [
           "woe:state=2346411", 
           "woe:state=2346414"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 5.388, 
+        "latitude": 4.822, 
         "sw_longitude": -55.569, 
         "fullname": "Brokopondo, Suriname", 
-        "date_indexed": "2010-12-02T12:16:16Z"
+        "children": [
+          "woe:town=377250", 
+          "woe:town=377228", 
+          "woe:town=56122775", 
+          "woe:town=377254", 
+          "woe:town=377229"
+        ], 
+        "sw_latitude": 4.256
       }, 
       "id": 2346406
     }

@@ -45,18 +45,18 @@
           "Baghdatris Raioni"
         ], 
         "name": "Baghdat\u00b4is Raioni", 
-        "ne_latitude": 42.157, 
         "hierarchy": [
           "woe:state=20070388", 
           "woe:country=23424823", 
           "woe:planet=1"
         ], 
-        "woeid": 20070388, 
+        "ne_latitude": 42.157, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 43.2, 
         "longitude": 42.947, 
         "placetype": "state", 
         "iso": "GE", 
-        "sw_latitude": 41.803, 
+        "date_indexed": "2010-12-02T17:51:52Z", 
         "adjacent": [
           "woe:state=20070347", 
           "woe:state=20070348", 
@@ -66,11 +66,22 @@
           "woe:state=20070391", 
           "woe:state=20070386"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 20070388, 
         "latitude": 41.98, 
         "sw_longitude": 42.693, 
         "fullname": "Baghdat\u00b4is Raioni, Georgia", 
-        "date_indexed": "2010-12-02T17:51:52Z"
+        "children": [
+          "woe:town=1966790", 
+          "woe:town=1962478", 
+          "woe:town=1963090", 
+          "woe:town=1963869", 
+          "woe:town=1965309", 
+          "woe:town=1965419", 
+          "woe:town=1966161", 
+          "woe:town=1966184", 
+          "woe:town=22722395"
+        ], 
+        "sw_latitude": 41.803
       }, 
       "id": 20070388
     }

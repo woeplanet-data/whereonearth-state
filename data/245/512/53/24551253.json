@@ -45,20 +45,24 @@
           "woe:planet=1"
         ], 
         "woeid": 24551253, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -77.169, 
         "longitude": -77.286, 
         "placetype": "state", 
+        "latitude": 26.0, 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
+        "sw_latitude": 25.848, 
         "adjacent": [
           "woe:state=24551242"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 26.152, 
-        "latitude": 26.0, 
         "sw_longitude": -77.403, 
         "fullname": "South Abaco, The Bahamas", 
-        "sw_latitude": 25.848
+        "children": [
+          "woe:town=56884", 
+          "woe:town=57071"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551253
     }

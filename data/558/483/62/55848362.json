@@ -45,23 +45,32 @@
           "woe:planet=1"
         ], 
         "woeid": 55848362, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 16.597, 
         "longitude": 16.417, 
         "placetype": "state", 
+        "latitude": 46.588, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 46.471, 
         "adjacent": [
           "woe:state=55848365", 
           "woe:state=12577979", 
           "woe:state=55848370", 
           "woe:state=12577930"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.704, 
-        "latitude": 46.588, 
         "sw_longitude": 16.238, 
         "fullname": "Lendava, Slovenia", 
-        "sw_latitude": 46.471
+        "children": [
+          "woe:county=12591522", 
+          "woe:county=55848297", 
+          "woe:county=12591554", 
+          "woe:county=12591566", 
+          "woe:county=12591593", 
+          "woe:county=12591639", 
+          "woe:county=55848333"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848362
     }

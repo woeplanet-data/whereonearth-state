@@ -40,21 +40,19 @@
           2346830
         ], 
         "name": "Aibonito", 
+        "ne_latitude": 18.18, 
         "hierarchy": [
           "woe:state=2346790", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346790, 
-        "alias_SPA_V": [
-          "Aibonito Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.217, 
         "longitude": -66.269, 
         "placetype": "state", 
-        "latitude": 18.128, 
         "sw_longitude": -66.321, 
-        "sw_latitude": 18.076, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346791", 
           "woe:state=2346792", 
@@ -62,11 +60,24 @@
           "woe:state=2346795", 
           "woe:state=2346830"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.18, 
+        "alias_SPA_V": [
+          "Aibonito Municipios"
+        ], 
+        "latitude": 18.128, 
         "iso": "PR", 
         "fullname": "Aibonito, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806030", 
+          "woe:county=26806031", 
+          "woe:county=26806032", 
+          "woe:county=26806033", 
+          "woe:county=26806034", 
+          "woe:county=26806035", 
+          "woe:county=26806036", 
+          "woe:county=26806037", 
+          "woe:county=26806038"
+        ], 
+        "sw_latitude": 18.076
       }, 
       "id": 2346790
     }

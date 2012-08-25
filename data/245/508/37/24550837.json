@@ -36,6 +36,7 @@
           24550829, 
           24550858
         ], 
+        "ne_latitude": 41.599, 
         "name": "Debar", 
         "alias_ENG_P": [
           "Debar Municipality"
@@ -52,18 +53,21 @@
         "longitude": 20.55, 
         "ne_longitude": 20.627, 
         "placetype": "state", 
-        "latitude": 41.527, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.474, 
         "adjacent": [
           "woe:state=24550829", 
           "woe:state=24550858"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.599, 
+        "latitude": 41.527, 
         "sw_longitude": 20.465, 
         "fullname": "Debar, Debar Municipality, Macedonia", 
-        "sw_latitude": 41.474
+        "children": [
+          "woe:town=481896", 
+          "woe:town=482943"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550837
     }

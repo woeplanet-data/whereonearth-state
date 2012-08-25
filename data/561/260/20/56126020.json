@@ -5,16 +5,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 56126020, 
         "name": "Chatham Islands", 
         "hierarchy": [
           "woe:state=56126020", 
           "woe:country=23424916", 
           "woe:planet=1"
         ], 
+        "woeid": 56126020, 
         "placetype": "state", 
         "iso": "NZ", 
         "provider": "geoplanet 7.6.0", 
+        "children": [
+          "woe:town=56126021", 
+          "woe:town=56126022", 
+          "woe:island=56000797", 
+          "woe:island=12497410", 
+          "woe:island=56000824", 
+          "woe:island=56000825", 
+          "woe:island=28677821"
+        ], 
         "date_indexed": "2010-12-02T17:02:10Z"
       }, 
       "id": 56126020

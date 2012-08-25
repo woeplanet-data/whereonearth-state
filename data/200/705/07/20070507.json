@@ -47,18 +47,21 @@
         "woeid": 20070507, 
         "ne_longitude": 30.553, 
         "longitude": 30.365, 
+        "ne_latitude": 60.229, 
         "placetype": "state", 
-        "latitude": 59.927, 
         "iso": "RU", 
-        "sw_latitude": 59.625, 
+        "date_indexed": "2010-12-02T16:07:50Z", 
         "adjacent": [
           "woe:state=2346907"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 60.229, 
+        "latitude": 59.927, 
         "sw_longitude": 29.529, 
         "fullname": "St. Peterburg, Russia", 
-        "date_indexed": "2010-12-02T16:07:50Z"
+        "children": [
+          "woe:county=12598654"
+        ], 
+        "sw_latitude": 59.625
       }, 
       "id": 20070507
     }

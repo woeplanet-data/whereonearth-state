@@ -51,10 +51,10 @@
         "woeid": 2346962, 
         "ne_longitude": 39.656, 
         "longitude": 39.534, 
+        "ne_latitude": 29.976, 
         "placetype": "state", 
-        "latitude": 27.276, 
         "iso": "SA", 
-        "sw_latitude": 24.577, 
+        "date_indexed": "2010-12-02T09:34:37Z", 
         "adjacent": [
           "woe:state=20070290", 
           "woe:state=2346950", 
@@ -63,10 +63,19 @@
           "woe:state=2345928"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 29.976, 
+        "latitude": 27.276, 
         "sw_longitude": 34.496, 
         "fullname": "Tabuk, Saudi Arabia", 
-        "date_indexed": "2010-12-02T09:34:37Z"
+        "children": [
+          "woe:county=56120107", 
+          "woe:county=56120102", 
+          "woe:county=56120103", 
+          "woe:county=56120106", 
+          "woe:county=56120105", 
+          "woe:county=56120104", 
+          "woe:historicalcounty=55948233"
+        ], 
+        "sw_latitude": 24.577
       }, 
       "id": 2346962
     }

@@ -40,6 +40,7 @@
           55864753
         ], 
         "name": "Cibitoke", 
+        "ne_latitude": -2.592, 
         "hierarchy": [
           "woe:state=2344905", 
           "woe:country=23424774", 
@@ -49,9 +50,8 @@
         "ne_longitude": 29.477, 
         "longitude": 29.235, 
         "placetype": "state", 
-        "latitude": -2.846, 
         "iso": "BI", 
-        "sw_latitude": -3.101, 
+        "date_indexed": "2010-12-02T08:58:47Z", 
         "adjacent": [
           "woe:state=2344902", 
           "woe:state=2344908", 
@@ -60,10 +60,18 @@
           "woe:state=20069829"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -2.592, 
+        "latitude": -2.846, 
         "sw_longitude": 28.993, 
         "fullname": "Cibitoke, Burundi", 
-        "date_indexed": "2010-12-02T08:58:47Z"
+        "children": [
+          "woe:county=56017480", 
+          "woe:county=56017484", 
+          "woe:county=56017482", 
+          "woe:county=56017481", 
+          "woe:county=56017485", 
+          "woe:county=56017483"
+        ], 
+        "sw_latitude": -3.101
       }, 
       "id": 2344905
     }

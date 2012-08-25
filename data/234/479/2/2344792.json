@@ -39,6 +39,7 @@
           23706410
         ], 
         "name": "Khulna", 
+        "ne_latitude": 24.134, 
         "hierarchy": [
           "woe:state=2344792", 
           "woe:country=23424759", 
@@ -48,9 +49,8 @@
         "ne_longitude": 89.957, 
         "longitude": 89.263, 
         "placetype": "state", 
-        "latitude": 22.921, 
         "iso": "BD", 
-        "sw_latitude": 21.644, 
+        "date_indexed": "2010-12-02T12:16:27Z", 
         "adjacent": [
           "woe:state=23706410", 
           "woe:state=2344791", 
@@ -58,10 +58,22 @@
           "woe:state=2345761"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 24.134, 
+        "latitude": 22.921, 
         "sw_longitude": 88.568, 
         "fullname": "Khulna, Bangladesh", 
-        "date_indexed": "2010-12-02T12:16:27Z"
+        "children": [
+          "woe:county=23706472", 
+          "woe:county=23706419", 
+          "woe:county=23706417", 
+          "woe:county=23706439", 
+          "woe:county=23706437", 
+          "woe:county=23706442", 
+          "woe:county=23706440", 
+          "woe:county=23706418", 
+          "woe:county=23706438", 
+          "woe:county=23706436"
+        ], 
+        "sw_latitude": 21.644
       }, 
       "id": 2344792
     }

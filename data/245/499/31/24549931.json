@@ -42,17 +42,31 @@
           "woe:planet=1"
         ], 
         "woeid": 24549931, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -71.461, 
         "longitude": -71.53, 
         "placetype": "state", 
-        "iso": "TC", 
-        "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne_latitude": 21.771, 
         "latitude": 21.703, 
+        "iso": "TC", 
+        "sw_latitude": 21.17, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 21.771, 
         "sw_longitude": -71.8, 
         "fullname": "South and East Caicos, Turks and Caicos Islands", 
-        "sw_latitude": 21.17
+        "children": [
+          "woe:town=162148", 
+          "woe:island=12485280", 
+          "woe:island=12485281", 
+          "woe:island=12485290", 
+          "woe:island=12485296", 
+          "woe:island=12485299", 
+          "woe:island=12485300", 
+          "woe:island=12510081", 
+          "woe:island=12485305", 
+          "woe:island=12485307", 
+          "woe:island=12510084", 
+          "woe:island=12485312"
+        ], 
+        "date_indexed": "2010-12-02T07:50:42Z"
       }, 
       "id": 24549931
     }

@@ -39,7 +39,6 @@
           2347547, 
           2347551
         ], 
-        "ne_latitude": 50.266, 
         "name": "Ternopil\u00b4s\u00b4ka Oblast\u00b4", 
         "alias_ENG_P": [
           "Ternopil Oblast"
@@ -49,7 +48,8 @@
           "woe:country=23424976", 
           "woe:planet=1"
         ], 
-        "woeid": 2347553, 
+        "ne_latitude": 50.266, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Ternopil'shchyna"
         ], 
@@ -57,7 +57,7 @@
         "ne_longitude": 26.444, 
         "placetype": "state", 
         "iso": "UA", 
-        "sw_latitude": 48.507, 
+        "date_indexed": "2010-12-02T08:52:18Z", 
         "adjacent": [
           "woe:state=2347536", 
           "woe:state=2347539", 
@@ -65,11 +65,56 @@
           "woe:state=2347547", 
           "woe:state=2347551"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2347553, 
         "latitude": 49.387, 
         "sw_longitude": 24.716, 
         "fullname": "Ternopil\u00b4s\u00b4ka Oblast\u00b4, Ternopil Oblast, Ukraine", 
-        "date_indexed": "2010-12-02T08:52:18Z"
+        "children": [
+          "woe:town=916707", 
+          "woe:town=917464", 
+          "woe:town=917675", 
+          "woe:town=918340", 
+          "woe:town=919950", 
+          "woe:town=920398", 
+          "woe:town=920400", 
+          "woe:town=920458", 
+          "woe:town=920969", 
+          "woe:town=922330", 
+          "woe:town=922331", 
+          "woe:town=923502", 
+          "woe:town=923954", 
+          "woe:town=924312", 
+          "woe:town=924736", 
+          "woe:town=924992", 
+          "woe:town=926826", 
+          "woe:town=926827", 
+          "woe:town=927378", 
+          "woe:town=927599", 
+          "woe:town=927601", 
+          "woe:town=929983", 
+          "woe:town=931031", 
+          "woe:town=931072", 
+          "woe:town=931204", 
+          "woe:town=931555", 
+          "woe:town=931557", 
+          "woe:town=933929", 
+          "woe:town=934075", 
+          "woe:town=935810", 
+          "woe:town=935931", 
+          "woe:town=936155", 
+          "woe:town=936154", 
+          "woe:town=937184", 
+          "woe:town=937938", 
+          "woe:town=938779", 
+          "woe:town=938790", 
+          "woe:town=939515", 
+          "woe:town=939546", 
+          "woe:town=939710", 
+          "woe:town=939709", 
+          "woe:town=939863", 
+          "woe:town=939868"
+        ], 
+        "sw_latitude": 48.507
       }, 
       "id": 2347553
     }

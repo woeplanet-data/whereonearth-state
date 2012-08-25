@@ -42,20 +42,23 @@
           "woe:planet=1"
         ], 
         "woeid": 56043631, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 16.698, 
         "longitude": 16.613, 
         "placetype": "state", 
+        "latitude": 47.214, 
         "iso": "HU", 
-        "date_indexed": "2010-12-02T09:55:38Z", 
+        "sw_latitude": 47.154, 
         "adjacent": [
           "woe:state=12577928"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 47.274, 
-        "latitude": 47.214, 
         "sw_longitude": 16.527, 
         "fullname": "Szombathely, Hungary", 
-        "sw_latitude": 47.154
+        "children": [
+          "woe:county=12594432"
+        ], 
+        "date_indexed": "2010-12-02T09:55:38Z"
       }, 
       "id": 56043631
     }

@@ -44,22 +44,26 @@
           "woe:planet=1"
         ], 
         "woeid": 24549716, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.711, 
         "longitude": 144.688, 
         "placetype": "state", 
+        "latitude": 13.438, 
         "iso": "GU", 
-        "date_indexed": "2010-12-02T18:21:30Z", 
+        "sw_latitude": 13.407, 
         "adjacent": [
           "woe:state=24549717", 
           "woe:state=24549714", 
           "woe:state=24549715"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 13.47, 
-        "latitude": 13.438, 
         "sw_longitude": 144.665, 
         "fullname": "Piti, Guam", 
-        "sw_latitude": 13.407
+        "children": [
+          "woe:town=15021085", 
+          "woe:landfeature=24875602"
+        ], 
+        "date_indexed": "2010-12-02T18:21:30Z"
       }, 
       "id": 24549716
     }

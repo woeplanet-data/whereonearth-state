@@ -45,23 +45,26 @@
           "woe:planet=1"
         ], 
         "woeid": 55848393, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.23, 
         "longitude": 15.045, 
         "placetype": "state", 
+        "latitude": 45.93, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 45.838, 
         "adjacent": [
           "woe:state=55848349", 
           "woe:state=55848363", 
           "woe:state=55848372", 
           "woe:state=55848384"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.022, 
-        "latitude": 45.93, 
         "sw_longitude": 14.86, 
         "fullname": "Trebnje, Slovenia", 
-        "sw_latitude": 45.838
+        "children": [
+          "woe:county=12591637"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848393
     }

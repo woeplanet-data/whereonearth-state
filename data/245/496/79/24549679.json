@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": -8.944, 
         "name": "Tongareva", 
         "hierarchy": [
           "woe:state=24549679", 
@@ -39,17 +40,20 @@
           "woe:planet=1"
         ], 
         "woeid": 24549679, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -157.888, 
         "longitude": -157.992, 
         "placetype": "state", 
         "iso": "CK", 
-        "date_indexed": "2010-12-02T17:57:50Z", 
-        "ne_latitude": -8.944, 
+        "sw_latitude": -9.12, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -9.084, 
         "sw_longitude": -158.067, 
         "fullname": "Tongareva, Cook Islands", 
-        "sw_latitude": -9.12
+        "children": [
+          "woe:island=12489389", 
+          "woe:island=12489392"
+        ], 
+        "date_indexed": "2010-12-02T17:57:50Z"
       }, 
       "id": 24549679
     }

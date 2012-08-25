@@ -41,6 +41,7 @@
           55864752
         ], 
         "name": "Ngozi", 
+        "ne_latitude": -2.653, 
         "hierarchy": [
           "woe:state=2344912", 
           "woe:country=23424774", 
@@ -50,9 +51,8 @@
         "ne_longitude": 30.184, 
         "longitude": 29.906, 
         "placetype": "state", 
-        "latitude": -2.87, 
         "iso": "BI", 
-        "sw_latitude": -3.087, 
+        "date_indexed": "2010-12-02T08:58:47Z", 
         "adjacent": [
           "woe:state=2344906", 
           "woe:state=2344907", 
@@ -62,10 +62,21 @@
           "woe:state=55864752"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -2.653, 
+        "latitude": -2.87, 
         "sw_longitude": 29.628, 
         "fullname": "Ngozi, Burundi", 
-        "date_indexed": "2010-12-02T08:58:47Z"
+        "children": [
+          "woe:county=56017536", 
+          "woe:county=56017537", 
+          "woe:county=56017534", 
+          "woe:county=56017532", 
+          "woe:county=56017533", 
+          "woe:county=56017535", 
+          "woe:county=56017531", 
+          "woe:county=56017539", 
+          "woe:county=56017538"
+        ], 
+        "sw_latitude": -3.087
       }, 
       "id": 2344912
     }

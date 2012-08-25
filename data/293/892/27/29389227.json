@@ -38,6 +38,7 @@
           29389232
         ], 
         "name": "Bijelo Polje", 
+        "ne_latitude": 43.263, 
         "hierarchy": [
           "woe:state=29389227", 
           "woe:country=20069817", 
@@ -50,19 +51,24 @@
         "longitude": 19.737, 
         "ne_longitude": 20.011, 
         "placetype": "state", 
-        "latitude": 43.087, 
         "iso": "ME", 
-        "date_indexed": "2010-12-02T07:50:42Z", 
+        "sw_latitude": 42.91, 
         "adjacent": [
           "woe:state=29389228", 
           "woe:state=29389232", 
           "woe:state=29389226"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 43.263, 
+        "latitude": 43.087, 
         "sw_longitude": 19.462, 
         "fullname": "Bijelo Polje, Montenegro", 
-        "sw_latitude": 42.91
+        "children": [
+          "woe:town=532730", 
+          "woe:town=56125606", 
+          "woe:town=534744", 
+          "woe:town=536074"
+        ], 
+        "date_indexed": "2010-12-02T07:50:42Z"
       }, 
       "id": 29389227
     }

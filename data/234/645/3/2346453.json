@@ -31,35 +31,45 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u4e2d\u592e"
-        ], 
-        "lang": "SPA", 
-        "alias_KOR_Q": [
-          "\uc13c\ud2b8\ub7f4"
-        ], 
-        "adjacent_woeid": [
-          2344683, 
-          2346455, 
-          2346459, 
-          2346460, 
-          2346461, 
-          20070148
-        ], 
         "hierarchy": [
           "woe:state=2346453", 
           "woe:country=23424917", 
           "woe:planet=1"
         ], 
         "ne_latitude": -25.131, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\uc13c\ud2b8\ub7f4"
+        ], 
+        "children": [
+          "woe:county=26810738", 
+          "woe:county=26810792", 
+          "woe:county=26810793", 
+          "woe:county=26810739", 
+          "woe:county=26810831", 
+          "woe:county=26810794", 
+          "woe:county=26810868", 
+          "woe:county=26810832", 
+          "woe:county=26810795", 
+          "woe:county=26810869", 
+          "woe:county=26810833", 
+          "woe:county=26810740", 
+          "woe:county=26810741", 
+          "woe:county=26810899", 
+          "woe:county=26810870", 
+          "woe:county=26810835", 
+          "woe:county=26810742", 
+          "woe:county=26810900", 
+          "woe:county=26810834"
+        ], 
+        "alias_CHI_Q": [
+          "\u4e2d\u592e"
+        ], 
+        "woeid": 2346453, 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30e9\u30eb"
         ], 
-        "ne_longitude": -57.251, 
-        "longitude": -57.492, 
-        "placetype": "state", 
         "sw_longitude": -57.815, 
-        "sw_latitude": -26.0, 
         "adjacent": [
           "woe:state=20070148", 
           "woe:state=2346455", 
@@ -70,14 +80,25 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -25.566, 
-        "iso": "PY", 
-        "fullname": "Central, Paraguay", 
+        "date_indexed": "2010-12-02T12:08:38Z", 
         "alias_GER_Q": [
           "Zentral"
         ], 
-        "woeid": 2346453, 
-        "date_indexed": "2010-12-02T12:08:38Z", 
-        "name": "Central"
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2344683, 
+          2346455, 
+          2346459, 
+          2346460, 
+          2346461, 
+          20070148
+        ], 
+        "name": "Central", 
+        "ne_longitude": -57.251, 
+        "longitude": -57.492, 
+        "iso": "PY", 
+        "sw_latitude": -26.0, 
+        "fullname": "Central, Paraguay"
       }, 
       "id": 2346453
     }

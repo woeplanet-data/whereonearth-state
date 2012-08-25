@@ -32,10 +32,9 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "alias_SPA_Q": [
-          "Isla Clipperton"
-        ], 
+        "placetype": "state", 
         "name": "Clipperton Island", 
+        "ne_latitude": 10.36, 
         "hierarchy": [
           "woe:state=23424850", 
           "woe:country=23424817", 
@@ -44,12 +43,16 @@
         "woeid": 23424850, 
         "ne_longitude": -108.873, 
         "longitude": -108.879, 
-        "placetype": "state", 
-        "latitude": 10.356, 
+        "children": [
+          "woe:county=28743664"
+        ], 
+        "alias_SPA_Q": [
+          "Isla Clipperton"
+        ], 
         "iso": "PF", 
-        "sw_latitude": 10.352, 
+        "date_indexed": "2010-12-02T17:05:43Z", 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 10.36, 
+        "latitude": 10.356, 
         "sw_longitude": -108.885, 
         "fullname": "Clipperton Island, French Polynesia", 
         "alias_GER_Q": [
@@ -58,7 +61,7 @@
         "alias_FRE_S": [
           "l'ilot Clipperton"
         ], 
-        "date_indexed": "2010-12-02T17:05:43Z", 
+        "sw_latitude": 10.352, 
         "alias_FRE_Q": [
           "L'\u00eelot Clipperton"
         ]

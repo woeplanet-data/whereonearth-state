@@ -43,24 +43,22 @@
           28358195
         ], 
         "name": "La Vega", 
+        "ne_latitude": 19.376, 
         "hierarchy": [
           "woe:state=2345198", 
           "woe:country=23424800", 
           "woe:planet=1"
         ], 
         "woeid": 2345198, 
-        "alias_SPA_V": [
-          "Concepcion"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -70.35, 
         "longitude": -70.628, 
         "placetype": "state", 
-        "latitude": 19.018, 
         "alias_SPA_S": [
           "Concepcion de la Vega"
         ], 
         "sw_longitude": -70.907, 
-        "sw_latitude": 18.66, 
+        "date_indexed": "2010-12-02T16:32:46Z", 
         "adjacent": [
           "woe:state=2345172", 
           "woe:state=2345177", 
@@ -71,11 +69,21 @@
           "woe:state=2345191", 
           "woe:state=2345193"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 19.376, 
+        "alias_SPA_V": [
+          "Concepcion"
+        ], 
+        "latitude": 19.018, 
         "iso": "DO", 
         "fullname": "La Vega, Dominican Republic", 
-        "date_indexed": "2010-12-02T16:32:46Z"
+        "children": [
+          "woe:town=70145", 
+          "woe:town=70149", 
+          "woe:town=71645", 
+          "woe:town=72090", 
+          "woe:town=72122", 
+          "woe:town=75110"
+        ], 
+        "sw_latitude": 18.66
       }, 
       "id": 2345198
     }

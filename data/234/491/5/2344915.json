@@ -3364,17 +3364,22 @@
         "ne:Shape_Area": 93.6830002605, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19050901", 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "Alta"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CAN", 
+        "children": [
+          "woe:county=29375228", 
+          "woe:colloquial=28298983", 
+          "woe:landfeature=55863402"
+        ], 
         "ne:ScaleRank": 2, 
         "alias_CHI_Q": [
           "\u827e\u4f2f\u5854\u7701"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 632, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30d0\u30fc\u30bf\u5dde"
         ], 
@@ -3394,9 +3399,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 48.992901313145126, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 632, 
+        "ne:VertexCou": 834.0, 
+        "ne:VALIDFR_1": "19050901", 
+        "ne:DataRank": 2, 
         "ne:Postal": "AB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -3412,15 +3417,15 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 663726.9, 
         "woe:id": "2344915", 
-        "name": "Alberta", 
-        "ne:VertexCou": 834.0, 
+        "ne:HASC_1": "CA.AB", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2344916, 
           2344920, 
           2344925, 
           2347585
         ], 
-        "ne:HASC_1": "CA.AB", 
+        "name": "Alberta", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -109.99935258655262, 
         "longitude": -115.0, 

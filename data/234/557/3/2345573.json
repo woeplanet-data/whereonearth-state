@@ -42,6 +42,7 @@
           2345627
         ], 
         "name": "Zacapa", 
+        "ne_latitude": 15.298, 
         "hierarchy": [
           "woe:state=2345573", 
           "woe:country=23424834", 
@@ -51,9 +52,8 @@
         "ne_longitude": -89.153, 
         "longitude": -89.526, 
         "placetype": "state", 
-        "latitude": 15.02, 
         "iso": "GT", 
-        "sw_latitude": 14.742, 
+        "date_indexed": "2010-12-02T16:55:18Z", 
         "adjacent": [
           "woe:state=2345552", 
           "woe:state=2345553", 
@@ -64,10 +64,22 @@
           "woe:state=2345561"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 15.298, 
+        "latitude": 15.02, 
         "sw_longitude": -89.9, 
         "fullname": "Zacapa, Guatemala", 
-        "date_indexed": "2010-12-02T16:55:18Z"
+        "children": [
+          "woe:county=26807242", 
+          "woe:county=26807239", 
+          "woe:county=26807235", 
+          "woe:county=26807241", 
+          "woe:county=26807240", 
+          "woe:county=26807236", 
+          "woe:county=26807243", 
+          "woe:county=26807237", 
+          "woe:county=26806963", 
+          "woe:county=26807238"
+        ], 
+        "sw_latitude": 14.742
       }, 
       "id": 2345573
     }

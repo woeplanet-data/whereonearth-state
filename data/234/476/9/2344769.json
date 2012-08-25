@@ -32,24 +32,31 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 25.785, 
         "name": "Bimini", 
         "hierarchy": [
           "woe:state=2344769", 
           "woe:country=23424758", 
           "woe:planet=1"
         ], 
-        "woeid": 2344769, 
+        "ne_latitude": 25.785, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -79.2, 
         "longitude": -79.254, 
         "placetype": "state", 
         "iso": "BS", 
-        "sw_latitude": 25.366, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "woeid": 2344769, 
         "latitude": 25.755, 
         "sw_longitude": -79.308, 
         "fullname": "Bimini, The Bahamas", 
-        "date_indexed": "2010-12-02T07:50:25Z"
+        "children": [
+          "woe:town=56825", 
+          "woe:island=12481422", 
+          "woe:island=12481539", 
+          "woe:island=12481618", 
+          "woe:island=12481619"
+        ], 
+        "sw_latitude": 25.366
       }, 
       "id": 2344769
     }

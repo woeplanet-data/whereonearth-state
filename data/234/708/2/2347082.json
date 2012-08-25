@@ -39,6 +39,7 @@
           56049598
         ], 
         "name": "Tartus", 
+        "ne_latitude": 35.203, 
         "hierarchy": [
           "woe:state=2347082", 
           "woe:country=23424956", 
@@ -48,9 +49,8 @@
         "ne_longitude": 36.301, 
         "longitude": 36.091, 
         "placetype": "state", 
-        "latitude": 34.919, 
         "iso": "SY", 
-        "sw_latitude": 34.636, 
+        "date_indexed": "2010-12-02T07:50:18Z", 
         "adjacent": [
           "woe:state=56049598", 
           "woe:state=2347070", 
@@ -58,10 +58,24 @@
           "woe:state=2347079"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 35.203, 
+        "latitude": 34.919, 
         "sw_longitude": 35.849, 
         "fullname": "Tartus, Syria", 
-        "date_indexed": "2010-12-02T07:50:18Z"
+        "children": [
+          "woe:town=1947072", 
+          "woe:town=1941336", 
+          "woe:town=1947084", 
+          "woe:town=1947104", 
+          "woe:town=1947109", 
+          "woe:town=1947125", 
+          "woe:town=1943295", 
+          "woe:town=1943828", 
+          "woe:town=1947184", 
+          "woe:town=1945652", 
+          "woe:town=1947218", 
+          "woe:town=1947233"
+        ], 
+        "sw_latitude": 34.636
       }, 
       "id": 2347082
     }

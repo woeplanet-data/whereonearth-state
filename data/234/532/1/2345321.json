@@ -37,6 +37,7 @@
           2345322
         ], 
         "name": "Cayenne", 
+        "ne_latitude": 5.551, 
         "hierarchy": [
           "woe:state=2345321", 
           "woe:country=23424811", 
@@ -46,18 +47,33 @@
         "ne_longitude": -51.614, 
         "longitude": -52.565, 
         "placetype": "state", 
-        "latitude": 3.86, 
         "iso": "GF", 
-        "sw_latitude": 2.17, 
+        "date_indexed": "2010-12-02T08:59:07Z", 
         "adjacent": [
           "woe:state=2344846", 
           "woe:state=2345322"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 5.551, 
+        "latitude": 3.86, 
         "sw_longitude": -53.516, 
         "fullname": "Cayenne, French Guiana", 
-        "date_indexed": "2010-12-02T08:59:07Z"
+        "children": [
+          "woe:county=55998441", 
+          "woe:county=55998454", 
+          "woe:county=55998437", 
+          "woe:county=55998438", 
+          "woe:county=55998452", 
+          "woe:county=55998439", 
+          "woe:county=55998444", 
+          "woe:county=55998442", 
+          "woe:county=55998445", 
+          "woe:county=55998450", 
+          "woe:county=55998448", 
+          "woe:county=55998436", 
+          "woe:county=55998453", 
+          "woe:county=55998443"
+        ], 
+        "sw_latitude": 2.17
       }, 
       "id": 2345321
     }

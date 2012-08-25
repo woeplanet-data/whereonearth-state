@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 8.093, 
         "name": "Kayangel", 
         "hierarchy": [
           "woe:state=24549826", 
@@ -39,17 +40,21 @@
           "woe:planet=1"
         ], 
         "woeid": 24549826, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 134.724, 
         "longitude": 134.72, 
         "placetype": "state", 
         "iso": "PW", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "ne_latitude": 8.093, 
+        "sw_latitude": 8.049, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 8.08, 
         "sw_longitude": 134.711, 
         "fullname": "Kayangel, Palau", 
-        "sw_latitude": 8.049
+        "children": [
+          "woe:island=12498916", 
+          "woe:island=12498909", 
+          "woe:island=12498911"
+        ], 
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 24549826
     }

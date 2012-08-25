@@ -15,6 +15,7 @@
           "woe:country=23424958", 
           "woe:planet=1"
         ], 
+        "woeid": 56189828, 
         "placetype": "state", 
         "iso": "TT", 
         "adjacent": [
@@ -22,7 +23,17 @@
           "woe:state=56189834"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56189828, 
+        "children": [
+          "woe:town=379968", 
+          "woe:town=380019", 
+          "woe:island=56189837", 
+          "woe:island=12505624", 
+          "woe:island=12505626", 
+          "woe:island=12505660", 
+          "woe:island=56189839", 
+          "woe:island=56189840", 
+          "woe:island=12505662"
+        ], 
         "date_indexed": "2010-12-02T18:05:31Z"
       }, 
       "id": 56189828

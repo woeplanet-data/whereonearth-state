@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 6.242, 
         "name": "Mili", 
         "hierarchy": [
           "woe:state=24549853", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549853, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 172.162, 
         "longitude": 172.01, 
         "placetype": "state", 
         "iso": "MH", 
-        "date_indexed": "2010-12-02T09:35:31Z", 
-        "ne_latitude": 6.242, 
+        "sw_latitude": 5.883, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 6.035, 
         "sw_longitude": 171.711, 
         "fullname": "Mili, Marshall Islands", 
-        "sw_latitude": 5.883
+        "children": [
+          "woe:island=12509525"
+        ], 
+        "date_indexed": "2010-12-02T09:35:31Z"
       }, 
       "id": 24549853
     }

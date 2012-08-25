@@ -49,20 +49,26 @@
         "woeid": 20070008, 
         "ne_longitude": 51.647, 
         "longitude": 51.537, 
+        "ne_latitude": 25.421, 
         "placetype": "state", 
-        "latitude": 25.323, 
         "iso": "QA", 
-        "sw_latitude": 25.225, 
+        "date_indexed": "2010-12-02T12:16:10Z", 
         "adjacent": [
           "woe:state=20070010", 
           "woe:state=20070012", 
           "woe:state=20070007"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 25.421, 
+        "latitude": 25.323, 
         "sw_longitude": 51.448, 
         "fullname": "Doha, Qatar", 
-        "date_indexed": "2010-12-02T12:16:10Z"
+        "children": [
+          "woe:town=1940517", 
+          "woe:island=12468837", 
+          "woe:island=55926193", 
+          "woe:island=12468845"
+        ], 
+        "sw_latitude": 25.225
       }, 
       "id": 20070008
     }

@@ -42,6 +42,7 @@
           20070277
         ], 
         "name": "Xocavand", 
+        "ne_latitude": 39.897, 
         "hierarchy": [
           "woe:state=20070259", 
           "woe:country=23424741", 
@@ -51,9 +52,8 @@
         "ne_longitude": 47.35, 
         "longitude": 47.008, 
         "placetype": "state", 
-        "latitude": 39.644, 
         "iso": "AZ", 
-        "sw_latitude": 39.39, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=20070214", 
           "woe:state=20070258", 
@@ -64,10 +64,16 @@
           "woe:state=20070277"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 39.897, 
+        "latitude": 39.644, 
         "sw_longitude": 46.665, 
         "fullname": "Xocavand, Azerbaijan", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1951898", 
+          "woe:town=1949778", 
+          "woe:town=1951966", 
+          "woe:town=1951568"
+        ], 
+        "sw_latitude": 39.39
       }, 
       "id": 20070259
     }

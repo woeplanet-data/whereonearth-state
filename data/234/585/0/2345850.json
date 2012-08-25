@@ -42,6 +42,7 @@
           2345847
         ], 
         "name": "S-Alah Ad Din", 
+        "ne_latitude": 35.701, 
         "hierarchy": [
           "woe:state=2345850", 
           "woe:country=23424855", 
@@ -51,9 +52,8 @@
         "ne_longitude": 44.894, 
         "longitude": 43.681, 
         "placetype": "state", 
-        "latitude": 34.635, 
         "iso": "IQ", 
-        "sw_latitude": 33.587, 
+        "date_indexed": "2010-12-02T16:42:51Z", 
         "adjacent": [
           "woe:state=2345833", 
           "woe:state=2345843", 
@@ -64,13 +64,22 @@
           "woe:state=2345847"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 35.701, 
+        "latitude": 34.635, 
         "sw_longitude": 42.468, 
         "fullname": "S-Alah Ad Din, Iraq", 
         "alias_ARA_V": [
           "Salah Ad Din"
         ], 
-        "date_indexed": "2010-12-02T16:42:51Z"
+        "children": [
+          "woe:county=55999974", 
+          "woe:county=55999973", 
+          "woe:county=55999993", 
+          "woe:county=55999975", 
+          "woe:county=55999994", 
+          "woe:county=55999992", 
+          "woe:county=55999976"
+        ], 
+        "sw_latitude": 33.587
       }, 
       "id": 2345850
     }

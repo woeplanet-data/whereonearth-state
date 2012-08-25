@@ -50,10 +50,10 @@
         "woeid": 20069926, 
         "ne_longitude": 102.107, 
         "longitude": 101.622, 
+        "ne_latitude": 14.462, 
         "placetype": "state", 
-        "latitude": 14.024, 
         "iso": "TH", 
-        "sw_latitude": 13.585, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347169", 
           "woe:state=2347168", 
@@ -61,10 +61,19 @@
           "woe:state=20069925"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.462, 
+        "latitude": 14.024, 
         "sw_longitude": 101.138, 
         "fullname": "Prachin Buri, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341331", 
+          "woe:county=28341330", 
+          "woe:county=28341329", 
+          "woe:county=28341328", 
+          "woe:county=28341326", 
+          "woe:county=28341332", 
+          "woe:county=28341327"
+        ], 
+        "sw_latitude": 13.585
       }, 
       "id": 20069926
     }

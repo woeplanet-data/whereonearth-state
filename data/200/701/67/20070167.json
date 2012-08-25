@@ -49,20 +49,23 @@
         "woeid": 20070167, 
         "ne_longitude": 48.102, 
         "longitude": 48.04, 
+        "ne_latitude": 29.361, 
         "placetype": "state", 
-        "latitude": 29.313, 
         "iso": "KW", 
-        "sw_latitude": 29.264, 
+        "date_indexed": "2010-12-02T08:52:50Z", 
         "adjacent": [
           "woe:state=20070169", 
           "woe:state=20070168", 
           "woe:state=55943079"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 29.361, 
+        "latitude": 29.313, 
         "sw_longitude": 47.979, 
         "fullname": "Hawalli, Kuwait", 
-        "date_indexed": "2010-12-02T08:52:50Z"
+        "children": [
+          "woe:county=55943084"
+        ], 
+        "sw_latitude": 29.264
       }, 
       "id": 20070167
     }

@@ -5,16 +5,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 56189781, 
         "name": "Sister Islands", 
         "hierarchy": [
           "woe:state=56189781", 
           "woe:country=23424783", 
           "woe:planet=1"
         ], 
+        "woeid": 56189781, 
         "placetype": "state", 
         "iso": "KY", 
         "provider": "geoplanet 7.6.0", 
+        "children": [
+          "woe:island=12483305", 
+          "woe:island=12483308", 
+          "woe:island=12483310", 
+          "woe:airport=12512343", 
+          "woe:airport=12512344"
+        ], 
         "date_indexed": "2010-12-02T10:22:43Z"
       }, 
       "id": 56189781

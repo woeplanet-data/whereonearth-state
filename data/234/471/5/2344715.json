@@ -584,6 +584,7 @@
       "type": "Feature", 
       "properties": {
         "ne:ProvNumber": 6, 
+        "ne:ISO": "AUT", 
         "ne:ScaleRank": 6, 
         "hierarchy": [
           "woe:state=2344715", 
@@ -591,16 +592,29 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 47.58877513286615, 
-        "alias_GER_A": [
-          "VBG"
-        ], 
         "ne:Shape_Area": 0.3093269179, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19520429", 
+        "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "AUT", 
-        "ne:DataRank": 7, 
+        "children": [
+          "woe:county=12591752", 
+          "woe:county=12591750", 
+          "woe:county=12591753", 
+          "woe:county=12591751", 
+          "woe:colloquial=23509380", 
+          "woe:landfeature=28997397", 
+          "woe:drainage=28997691", 
+          "woe:drainage=28997825", 
+          "woe:drainage=28997962", 
+          "woe:drainage=28998096", 
+          "woe:drainage=28998266", 
+          "woe:drainage=28998288", 
+          "woe:drainage=28998494", 
+          "woe:drainage=28998591"
+        ], 
+        "ne:OBJECTID": 2320, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 9.520793897720239, 
@@ -622,13 +636,15 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 46.84716665261897, 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 2320, 
+        "ne:VertexCou": 133.0, 
+        "ne:VALIDFR_1": "19520429", 
+        "ne:DataRank": 7, 
         "ne:Postal": "VO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
-        "ne:ISO": "AUT", 
+        "alias_GER_A": [
+          "VBG"
+        ], 
         "ne:TYPE_1": "Bundesl\u00e4nd|L\u00e4nd", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 2.8399946565, 
@@ -640,8 +656,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 2603.9, 
         "woe:id": "2344715", 
-        "name": "Vorarlberg", 
-        "ne:VertexCou": 133.0, 
+        "ne:HASC_1": "AT.VO", 
+        "lang": "GER", 
         "adjacent_woeid": [
           2344714, 
           20070533, 
@@ -653,7 +669,7 @@
           20070540, 
           20070541
         ], 
-        "ne:HASC_1": "AT.VO", 
+        "name": "Vorarlberg", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 10.208917270415725, 
         "longitude": 9.884, 

@@ -51,14 +51,22 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 19.192, 
-        "alias_SPA_V": [
-          "Sanjuan"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -70.89, 
         "longitude": -71.269, 
+        "children": [
+          "woe:town=70687", 
+          "woe:town=72178", 
+          "woe:town=56125314", 
+          "woe:town=56125313", 
+          "woe:town=73425", 
+          "woe:town=73874", 
+          "woe:town=76361", 
+          "woe:town=86853"
+        ], 
         "placetype": "state", 
         "iso": "DO", 
-        "sw_latitude": 18.483, 
+        "date_indexed": "2010-12-02T16:32:46Z", 
         "adjacent": [
           "woe:state=2345172", 
           "woe:state=2345173", 
@@ -68,12 +76,14 @@
           "woe:state=2345193", 
           "woe:state=2345194"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "alias_SPA_V": [
+          "Sanjuan"
+        ], 
         "latitude": 18.838, 
         "sw_longitude": -71.649, 
         "fullname": "San Juan, Dominican Republic", 
         "woeid": 2345191, 
-        "date_indexed": "2010-12-02T16:32:46Z"
+        "sw_latitude": 18.483
       }, 
       "id": 2345191
     }

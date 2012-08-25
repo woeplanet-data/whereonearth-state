@@ -208,14 +208,17 @@
         "alias_KOR_V": [
           "\ub300\uc804\uad11\uc5ed"
         ], 
-        "ne:VALIDFR_1": "1989", 
+        "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
+        "children": [
+          "woe:town=1132467"
+        ], 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u5927\u7530"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2503, 
         "alias_JPN_Q": [
           "\u30c6\u30b8\u30e7\u30f3"
         ], 
@@ -236,9 +239,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Metropolitan City", 
         "sw_latitude": 36.2698277862234, 
-        "lang": "KOR", 
-        "ne:MAP_COLOR": 5, 
-        "ne:OBJECTID": 2503, 
+        "ne:VertexCou": 43.0, 
+        "ne:VALIDFR_1": "1989", 
+        "ne:DataRank": 3, 
         "ne:Postal": "TJ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Daejeon Gwang'yeogsi|Taejon-gwangyoksi|Taiden", 
@@ -254,13 +257,13 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 416.4, 
         "woe:id": "2345975", 
-        "name": "\ub300\uc804", 
-        "ne:VertexCou": 43.0, 
+        "ne:HASC_1": "KR.TJ", 
+        "lang": "KOR", 
         "adjacent_woeid": [
           2345965, 
           2345973
         ], 
-        "ne:HASC_1": "KR.TJ", 
+        "name": "\ub300\uc804", 
         "ne:REMARKS_1": "25 (NSO Code)", 
         "ne:Country_Pr": null, 
         "ne_longitude": 127.48227583266362, 

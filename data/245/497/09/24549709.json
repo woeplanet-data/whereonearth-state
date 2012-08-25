@@ -43,21 +43,24 @@
           "woe:planet=1"
         ], 
         "woeid": 24549709, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.72, 
         "longitude": 144.688, 
         "placetype": "state", 
+        "latitude": 13.261, 
         "iso": "GU", 
-        "date_indexed": "2010-12-02T18:21:30Z", 
+        "sw_latitude": 13.242, 
         "adjacent": [
           "woe:state=24549711", 
           "woe:state=24549710"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 13.28, 
-        "latitude": 13.261, 
         "sw_longitude": 144.656, 
         "fullname": "Merizo, Guam", 
-        "sw_latitude": 13.242
+        "children": [
+          "woe:town=1062835"
+        ], 
+        "date_indexed": "2010-12-02T18:21:30Z"
       }, 
       "id": 24549709
     }

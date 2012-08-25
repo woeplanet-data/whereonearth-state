@@ -41,6 +41,7 @@
           23706411
         ], 
         "name": "Chittagong", 
+        "ne_latitude": 24.239, 
         "hierarchy": [
           "woe:state=2344790", 
           "woe:country=23424759", 
@@ -50,9 +51,8 @@
         "ne_longitude": 92.674, 
         "longitude": 92.131, 
         "placetype": "state", 
-        "latitude": 22.491, 
         "iso": "BD", 
-        "sw_latitude": 20.585, 
+        "date_indexed": "2010-12-02T12:16:27Z", 
         "adjacent": [
           "woe:state=2344811", 
           "woe:state=2344791", 
@@ -62,10 +62,23 @@
           "woe:state=2345759"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 24.239, 
+        "latitude": 22.491, 
         "sw_longitude": 90.565, 
         "fullname": "Chittagong, Bangladesh", 
-        "date_indexed": "2010-12-02T12:16:27Z"
+        "children": [
+          "woe:county=23706414", 
+          "woe:county=23706461", 
+          "woe:county=23706454", 
+          "woe:county=23706416", 
+          "woe:county=23706462", 
+          "woe:county=23706415", 
+          "woe:county=23706464", 
+          "woe:county=23706412", 
+          "woe:county=23706453", 
+          "woe:county=23706455", 
+          "woe:county=23706413"
+        ], 
+        "sw_latitude": 20.585
       }, 
       "id": 2344790
     }

@@ -39,13 +39,13 @@
           20070504
         ], 
         "name": "Bratislavsky", 
-        "ne_latitude": 48.656, 
         "hierarchy": [
           "woe:state=20070505", 
           "woe:country=23424877", 
           "woe:planet=1"
         ], 
         "woeid": 20070505, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Bratislava"
         ], 
@@ -53,21 +53,27 @@
         "ne_longitude": 17.53, 
         "placetype": "state", 
         "iso": "SK", 
-        "sw_latitude": 48.007, 
+        "date_indexed": "2010-12-02T08:50:01Z", 
         "adjacent": [
           "woe:state=2344708", 
           "woe:state=12577918", 
           "woe:state=2344710", 
           "woe:state=20070504"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 48.656, 
         "latitude": 48.331, 
         "sw_longitude": 16.833, 
         "fullname": "Bratislavsky, Slovakia", 
         "alias_GER_Q": [
           "Pressburg"
         ], 
-        "date_indexed": "2010-12-02T08:50:01Z"
+        "children": [
+          "woe:county=29399347", 
+          "woe:county=29399337", 
+          "woe:county=29399342", 
+          "woe:county=29399346"
+        ], 
+        "sw_latitude": 48.007
       }, 
       "id": 20070505
     }

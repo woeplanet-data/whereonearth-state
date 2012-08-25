@@ -31,12 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FIN", 
-        "adjacent_woeid": [
-          29389261, 
-          29389262, 
-          29389265
-        ], 
         "alias_SWE_V": [
           "Kajanaland"
         ], 
@@ -52,26 +46,45 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 65.521, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 30.554, 
-        "longitude": 28.422, 
         "placetype": "state", 
+        "children": [
+          "woe:county=56120859", 
+          "woe:county=29389289", 
+          "woe:drainage=29354117", 
+          "woe:drainage=29354457", 
+          "woe:drainage=29354841", 
+          "woe:drainage=29354922", 
+          "woe:drainage=29355207", 
+          "woe:drainage=29355559", 
+          "woe:drainage=29356110", 
+          "woe:drainage=29356289", 
+          "woe:drainage=29357840"
+        ], 
+        "woeid": 29389264, 
         "sw_longitude": 26.291, 
-        "date_indexed": "2010-12-02T16:39:41Z", 
         "alias_FIN_V": [
           "Kainuun maakuntana"
         ], 
-        "woeid": 29389264, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 64.595, 
-        "iso": "FI", 
-        "fullname": "Kainuun maakunta, Oulu Province, Kainuun maakunta, Finland", 
+        "sw_latitude": 63.669, 
         "adjacent": [
           "woe:state=29389261", 
           "woe:state=29389265", 
           "woe:state=29389262"
         ], 
-        "sw_latitude": 63.669, 
-        "name": "Kainuun maakunta"
+        "lang": "FIN", 
+        "adjacent_woeid": [
+          29389261, 
+          29389262, 
+          29389265
+        ], 
+        "name": "Kainuun maakunta", 
+        "ne_longitude": 30.554, 
+        "longitude": 28.422, 
+        "iso": "FI", 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "fullname": "Kainuun maakunta, Oulu Province, Kainuun maakunta, Finland"
       }, 
       "id": 29389264
     }

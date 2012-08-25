@@ -40,24 +40,22 @@
           20069833
         ], 
         "name": "Regi\u00f3n Aut\u00f3noma del Atl\u00e1ntico Sur", 
+        "ne_latitude": 13.288, 
         "hierarchy": [
           "woe:state=20069832", 
           "woe:country=23424915", 
           "woe:planet=1"
         ], 
         "woeid": 20069832, 
-        "alias_SPA_V": [
-          "Atlantico Sur"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -82.971, 
         "longitude": -84.352, 
         "placetype": "state", 
-        "latitude": 12.167, 
         "alias_SPA_S": [
           "Region Autonoma del Atlantico Sur"
         ], 
         "sw_longitude": -85.212, 
-        "sw_latitude": 11.045, 
+        "date_indexed": "2010-12-02T18:19:07Z", 
         "adjacent": [
           "woe:state=2346417", 
           "woe:state=2346420", 
@@ -65,11 +63,28 @@
           "woe:state=20069833", 
           "woe:state=2346430"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.288, 
+        "alias_SPA_V": [
+          "Atlantico Sur"
+        ], 
+        "latitude": 12.167, 
         "iso": "NI", 
         "fullname": "Regi\u00f3n Aut\u00f3noma del Atl\u00e1ntico Sur, Nicaragua", 
-        "date_indexed": "2010-12-02T18:19:07Z"
+        "children": [
+          "woe:county=26813435", 
+          "woe:county=26813434", 
+          "woe:county=26813428", 
+          "woe:county=28358284", 
+          "woe:county=26813431", 
+          "woe:county=26813430", 
+          "woe:county=26813433", 
+          "woe:county=26813427", 
+          "woe:county=26813429", 
+          "woe:county=26813432", 
+          "woe:county=26813436", 
+          "woe:county=26813426", 
+          "woe:island=12484713"
+        ], 
+        "sw_latitude": 11.045
       }, 
       "id": 20069832
     }

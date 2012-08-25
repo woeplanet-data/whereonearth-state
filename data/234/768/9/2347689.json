@@ -41,6 +41,7 @@
           2347699
         ], 
         "name": "Lara", 
+        "ne_latitude": 10.758, 
         "hierarchy": [
           "woe:state=2347689", 
           "woe:country=23424982", 
@@ -50,9 +51,8 @@
         "ne_longitude": -68.87, 
         "longitude": -69.873, 
         "placetype": "state", 
-        "latitude": 10.075, 
         "iso": "VE", 
-        "sw_latitude": 9.392, 
+        "date_indexed": "2010-12-02T16:11:23Z", 
         "adjacent": [
           "woe:state=2347684", 
           "woe:state=2347687", 
@@ -62,10 +62,21 @@
           "woe:state=2347699"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 10.758, 
+        "latitude": 10.075, 
         "sw_longitude": -70.876, 
         "fullname": "Lara, Venezuela", 
-        "date_indexed": "2010-12-02T16:11:23Z"
+        "children": [
+          "woe:county=26804494", 
+          "woe:county=26804505", 
+          "woe:county=26804501", 
+          "woe:county=26804500", 
+          "woe:county=26804450", 
+          "woe:county=26804502", 
+          "woe:county=26804503", 
+          "woe:county=26804465", 
+          "woe:county=26804697"
+        ], 
+        "sw_latitude": 9.392
       }, 
       "id": 2347689
     }

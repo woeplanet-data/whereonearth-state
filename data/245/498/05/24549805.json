@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
+        "ne_latitude": -20.389, 
         "name": "Loyaute", 
         "hierarchy": [
           "woe:state=24549805", 
@@ -39,17 +40,23 @@
           "woe:planet=1"
         ], 
         "woeid": 24549805, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 172.061, 
         "longitude": 167.229, 
         "placetype": "state", 
         "iso": "NC", 
-        "date_indexed": "2010-12-02T17:02:10Z", 
-        "ne_latitude": -20.389, 
+        "sw_latitude": -22.402, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -20.931, 
         "sw_longitude": 166.134, 
         "fullname": "Loyaute, New Caledonia", 
-        "sw_latitude": -22.402
+        "children": [
+          "woe:county=24551441", 
+          "woe:county=24551442", 
+          "woe:county=24551440", 
+          "woe:island=12497002", 
+          "woe:island=12497001"
+        ], 
+        "date_indexed": "2010-12-02T17:02:10Z"
       }, 
       "id": 24549805
     }

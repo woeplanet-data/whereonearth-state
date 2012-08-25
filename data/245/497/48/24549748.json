@@ -43,21 +43,24 @@
           "woe:planet=1"
         ], 
         "woeid": 24549748, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.155, 
         "longitude": 45.106, 
         "placetype": "state", 
+        "latitude": -12.967, 
         "iso": "YT", 
-        "date_indexed": "2010-12-02T16:11:57Z", 
+        "sw_latitude": -13.0, 
         "adjacent": [
           "woe:state=24549753", 
           "woe:state=24549760"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -12.922, 
-        "latitude": -12.967, 
         "sw_longitude": 45.075, 
         "fullname": "Kani Kele, Mayotte", 
-        "sw_latitude": -13.0
+        "children": [
+          "woe:town=1365552"
+        ], 
+        "date_indexed": "2010-12-02T16:11:57Z"
       }, 
       "id": 24549748
     }

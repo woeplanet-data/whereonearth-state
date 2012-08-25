@@ -2501,16 +2501,25 @@
         "ne:Shape_Area": 2.98375955029, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ub9c8\ub2c8\uce7c\ub780\ub4dc"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ZWE", 
+        "children": [
+          "woe:county=56048474", 
+          "woe:county=56048475", 
+          "woe:county=56048476", 
+          "woe:county=56048471", 
+          "woe:county=56048473", 
+          "woe:county=56048472", 
+          "woe:county=56048470"
+        ], 
         "alias_CHI_Q": [
           "\u9a6c\u5c3c\u5361\u5170"
         ], 
-        "ne:OBJECTID": 529, 
+        "ne:DataRank": 6, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 31.198695509790014, 
@@ -2528,9 +2537,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -21.313427422737334, 
-        "ne:VertexCou": 543.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 6, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 529, 
         "ne:Postal": "MA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2546,8 +2555,8 @@
         "ne:LabelRank": 5, 
         "ne:Area_sqkm": 34757.2, 
         "woe:id": "2347810", 
-        "ne:HASC_1": "ZW.MA", 
-        "lang": "ENG", 
+        "name": "Manicaland", 
+        "ne:VertexCou": 543.0, 
         "adjacent_woeid": [
           2346312, 
           2346318, 
@@ -2555,7 +2564,7 @@
           2347813, 
           2347817
         ], 
-        "name": "Manicaland", 
+        "ne:HASC_1": "ZW.MA", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 33.04251061387379, 
         "longitude": 32.114, 

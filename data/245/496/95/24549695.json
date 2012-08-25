@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "DAN", 
+        "ne_latitude": 61.92, 
         "name": "Sandoy", 
         "hierarchy": [
           "woe:state=24549695", 
@@ -39,17 +40,28 @@
           "woe:planet=1"
         ], 
         "woeid": 24549695, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -6.632, 
         "longitude": -6.72, 
         "placetype": "state", 
         "iso": "FO", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "ne_latitude": 61.92, 
+        "sw_latitude": 61.688, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 61.837, 
         "sw_longitude": -6.951, 
         "fullname": "Sandoy, Faroe Islands", 
-        "sw_latitude": 61.688
+        "children": [
+          "woe:town=472618", 
+          "woe:town=472656", 
+          "woe:town=472730", 
+          "woe:town=472746", 
+          "woe:town=472748", 
+          "woe:town=472741", 
+          "woe:town=472750", 
+          "woe:island=12473095", 
+          "woe:island=12473096", 
+          "woe:island=12473098"
+        ], 
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 24549695
     }

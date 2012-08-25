@@ -42,21 +42,19 @@
           2346847
         ], 
         "name": "Utuado", 
+        "ne_latitude": 18.35, 
         "hierarchy": [
           "woe:state=2346808", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346808, 
-        "alias_SPA_V": [
-          "Utuado Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.567, 
         "longitude": -66.699, 
         "placetype": "state", 
-        "latitude": 18.25, 
         "sw_longitude": -66.831, 
-        "sw_latitude": 18.15, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346789", 
           "woe:state=2346811", 
@@ -66,11 +64,39 @@
           "woe:state=2346798", 
           "woe:state=2346833"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.35, 
+        "alias_SPA_V": [
+          "Utuado Municipios"
+        ], 
+        "latitude": 18.25, 
         "iso": "PR", 
         "fullname": "Utuado, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806773", 
+          "woe:county=26806774", 
+          "woe:county=26806775", 
+          "woe:county=26806776", 
+          "woe:county=26806777", 
+          "woe:county=26806778", 
+          "woe:county=26806779", 
+          "woe:county=26806780", 
+          "woe:county=26806781", 
+          "woe:county=26806782", 
+          "woe:county=26806783", 
+          "woe:county=26806784", 
+          "woe:county=26806785", 
+          "woe:county=26806786", 
+          "woe:county=26806787", 
+          "woe:county=26806788", 
+          "woe:county=26806789", 
+          "woe:county=26806790", 
+          "woe:county=26806791", 
+          "woe:county=26806792", 
+          "woe:county=26806793", 
+          "woe:county=26806794", 
+          "woe:county=26806795", 
+          "woe:county=26806796"
+        ], 
+        "sw_latitude": 18.15
       }, 
       "id": 2346808
     }

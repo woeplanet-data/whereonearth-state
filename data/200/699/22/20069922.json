@@ -31,13 +31,9 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u4ec1\u5ddd"
-        ], 
         "alias_ENG_V": [
           "Incheon Metropolitan City"
         ], 
-        "lang": "KOR", 
         "alias_ENG_P": [
           "Incheon"
         ], 
@@ -47,29 +43,37 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 37.981, 
-        "ne_longitude": 126.798, 
-        "longitude": 126.441, 
         "placetype": "state", 
         "alias_KOR_V": [
           "\uc778\ucc9c\uad11\uc5ed"
         ], 
-        "adjacent_woeid": [
-          2345969, 
-          20069923
+        "children": [
+          "woe:town=1132496", 
+          "woe:island=12495902"
         ], 
+        "alias_CHI_Q": [
+          "\u4ec1\u5ddd"
+        ], 
+        "woeid": 20069922, 
         "sw_longitude": 124.61, 
-        "sw_latitude": 37.014, 
         "adjacent": [
           "woe:state=2345969", 
           "woe:state=20069923"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 37.705, 
-        "iso": "KR", 
-        "fullname": "\uc778\ucc9c, Incheon, South Korea", 
-        "woeid": 20069922, 
         "date_indexed": "2010-12-02T17:52:39Z", 
-        "name": "\uc778\ucc9c"
+        "lang": "KOR", 
+        "adjacent_woeid": [
+          2345969, 
+          20069923
+        ], 
+        "name": "\uc778\ucc9c", 
+        "ne_longitude": 126.798, 
+        "longitude": 126.441, 
+        "iso": "KR", 
+        "sw_latitude": 37.014, 
+        "fullname": "\uc778\ucc9c, Incheon, South Korea"
       }, 
       "id": 20069922
     }

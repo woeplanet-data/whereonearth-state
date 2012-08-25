@@ -123,7 +123,6 @@
         "alias_ENG_V": [
           "Basel-City"
         ], 
-        "ne:ISO": "CHE", 
         "ne:ScaleRank": 9, 
         "alias_ENG_P": [
           "Canton of Basel-City"
@@ -134,32 +133,32 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 47.59699168531807, 
-        "ne:OBJECTID": 3425, 
+        "ne:DataRank": 7, 
         "ne:Shape_Area": 0.00480304982729, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\uce78\ud1a4 \ubc14\uc824\uc288\ud0c0\ud2b8"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
+        "children": [
+          "woe:county=12593109"
+        ], 
         "alias_ITA_S": [
           "Canton Basilea Citta"
         ], 
         "alias_ITA_Q": [
           "Canton Basilea Citt\u00e0"
         ], 
-        "alias_GER_V": [
-          "Basel-Stadt"
-        ], 
+        "ne:Area_sqkm": 40.1, 
         "alias_ITA_V": [
           "Canton Basilea"
         ], 
         "alias_JPN_Q": [
           "\u30d0\u30fc\u30bc\u30eb\u30fb\u30b7\u30e5\u30bf\u30c3\u30c8\u6e96\u5dde"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
@@ -181,14 +180,12 @@
         "alias_CHI_Q": [
           "\u5df4\u6cfd\u5c14\u57ce\u5e02\u534a\u5dde"
         ], 
-        "ne:MAP_COLOR": 3, 
-        "ne:DataRank": 7, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:OBJECTID": 3425, 
         "ne:Postal": "BS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "B\u00e2le-Ville|Basel-City|Basel-Town|Basilea-Citad|Basilea Ciudad|Basilea citt\u00e0|Basil\u00e9ia cidade", 
-        "alias_GER_A": [
-          "BS"
-        ], 
+        "ne:ISO": "CHE", 
         "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 0.409030497028, 
@@ -196,31 +193,37 @@
         "ne:NAME_0": "Switzerland", 
         "ne:NAME_1": "Basel-Stadt", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Canton|Kanton|Chantun", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 9, 
-        "ne:Area_sqkm": 40.1, 
+        "alias_GER_A": [
+          "BS"
+        ], 
+        "alias_GER_V": [
+          "Basel-Stadt"
+        ], 
         "woe:id": "2347086", 
-        "name": "Kanton Basel-Stadt", 
+        "ne:HASC_1": "CH.BS", 
         "lang": "GER", 
         "adjacent_woeid": [
           2345481, 
           2347085, 
           7153330
         ], 
-        "ne:HASC_1": "CH.BS", 
+        "name": "Kanton Basel-Stadt", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Canton|Kanton|Chantun", 
         "ne_longitude": 7.659357130327351, 
         "longitude": 7.648, 
-        "alias_FRE_S": [
-          "Canton de Bale-Ville"
-        ], 
+        "ne:NEV_Countr": null, 
         "ne:VertexCou": 9.0, 
         "iso": "CH", 
         "date_indexed": "2010-12-02T18:19:21Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Kanton Basel-Stadt, Canton of Basel-City, Switzerland", 
         "ne:Region": null, 
-        "ne:NEV_Countr": null, 
+        "alias_FRE_S": [
+          "Canton de Bale-Ville"
+        ], 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Canton de B\u00e2le-Ville"

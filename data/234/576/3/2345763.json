@@ -3540,17 +3540,32 @@
         "ne:Shape_Area": 7.49666589748, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "AR"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IND", 
+        "children": [
+          "woe:county=12586816", 
+          "woe:county=12586817", 
+          "woe:county=12586818", 
+          "woe:county=12586819", 
+          "woe:county=12586820", 
+          "woe:county=12586821", 
+          "woe:county=28298873", 
+          "woe:county=12586822", 
+          "woe:county=12586823", 
+          "woe:county=28298874", 
+          "woe:county=12586824", 
+          "woe:county=12586825", 
+          "woe:county=12586826"
+        ], 
         "ne:ScaleRank": 2, 
         "alias_CHI_Q": [
           "\u963f\u9c81\u7eb3\u6070\u5c14\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3299, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30ca\u30c1\u30e3\u30eb\u30fb\u30d1\u30e9\u30c7\u30b7\u30e5"
         ], 
@@ -3574,9 +3589,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 26.647727769221206, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3299, 
+        "ne:VertexCou": 747.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "AR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Agence de la Frontisre du Nord-Est(French-obsolete)|North East Frontier Agency", 
@@ -3592,8 +3607,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 81676.5, 
         "woe:id": "2345763", 
-        "name": "Arunachal Pradesh", 
-        "ne:VertexCou": 747.0, 
+        "ne:HASC_1": "IN.AR", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2344813, 
           2344819, 
@@ -3604,7 +3619,7 @@
           12578004, 
           55967863
         ], 
-        "ne:HASC_1": "IN.AR", 
+        "name": "Arunachal Pradesh", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 97.36184044777849, 
         "longitude": 94.485, 

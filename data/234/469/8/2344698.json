@@ -31,15 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2344676, 
-          2344691, 
-          2344696
-        ], 
-        "alias_ENG_A": [
-          "T"
-        ], 
         "alias_ENG_P": [
           "Tucuman"
         ], 
@@ -49,17 +40,34 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -26.058, 
-        "alias_SPA_V": [
-          "Miguel de Tucuman"
-        ], 
-        "ne_longitude": -64.478, 
-        "longitude": -65.32, 
         "placetype": "state", 
+        "alias_ENG_A": [
+          "T"
+        ], 
+        "children": [
+          "woe:county=20070858", 
+          "woe:county=20070865", 
+          "woe:county=20070859", 
+          "woe:county=20070860", 
+          "woe:county=20070868", 
+          "woe:county=20070866", 
+          "woe:county=20070867", 
+          "woe:county=20070862", 
+          "woe:county=20070861", 
+          "woe:county=20070750", 
+          "woe:county=20070864", 
+          "woe:county=20070863", 
+          "woe:county=20070751", 
+          "woe:county=20070856", 
+          "woe:county=20070855", 
+          "woe:county=20070857", 
+          "woe:county=20070752"
+        ], 
+        "woeid": 2344698, 
         "alias_SPA_S": [
           "San Miguel de Tucuman"
         ], 
         "sw_longitude": -66.162, 
-        "sw_latitude": -28.003, 
         "adjacent": [
           "woe:state=2344676", 
           "woe:state=2344691", 
@@ -67,11 +75,22 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -27.031, 
-        "iso": "AR", 
-        "fullname": "Tucum\u00e1n, Tucuman, Argentina", 
-        "woeid": 2344698, 
         "date_indexed": "2010-12-02T17:40:36Z", 
-        "name": "Tucum\u00e1n"
+        "alias_SPA_V": [
+          "Miguel de Tucuman"
+        ], 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2344676, 
+          2344691, 
+          2344696
+        ], 
+        "name": "Tucum\u00e1n", 
+        "ne_longitude": -64.478, 
+        "longitude": -65.32, 
+        "iso": "AR", 
+        "sw_latitude": -28.003, 
+        "fullname": "Tucum\u00e1n, Tucuman, Argentina"
       }, 
       "id": 2344698
     }

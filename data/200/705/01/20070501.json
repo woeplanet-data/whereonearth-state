@@ -39,6 +39,7 @@
           20070502
         ], 
         "name": "Plze\u0148sk\u00fd", 
+        "ne_latitude": 50.103, 
         "hierarchy": [
           "woe:state=20070501", 
           "woe:country=23424810", 
@@ -47,10 +48,18 @@
         "woeid": 20070501, 
         "ne_longitude": 13.834, 
         "longitude": 13.117, 
+        "children": [
+          "woe:county=12582605", 
+          "woe:county=12582607", 
+          "woe:county=12582608", 
+          "woe:county=12582609", 
+          "woe:county=12582610", 
+          "woe:county=12582611", 
+          "woe:county=12582613"
+        ], 
         "placetype": "state", 
-        "latitude": 49.522, 
         "iso": "CZ", 
-        "sw_latitude": 48.941, 
+        "date_indexed": "2010-12-02T08:54:50Z", 
         "adjacent": [
           "woe:state=20070502", 
           "woe:state=20070500", 
@@ -58,7 +67,7 @@
           "woe:state=20070499"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 50.103, 
+        "latitude": 49.522, 
         "sw_longitude": 12.4, 
         "fullname": "Plze\u0148sk\u00fd, Czech Republic", 
         "alias_GER_Q": [
@@ -67,7 +76,7 @@
         "alias_CZE_S": [
           "Plzensky"
         ], 
-        "date_indexed": "2010-12-02T08:54:50Z", 
+        "sw_latitude": 48.941, 
         "alias_FRE_Q": [
           "Plzen"
         ]

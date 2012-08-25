@@ -888,16 +888,32 @@
         "ne:Shape_Area": 0.782754931198, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "20001006", 
         "alias_KOR_Q": [
           "\ubc18\ud150"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IDN", 
+        "children": [
+          "woe:county=56000397", 
+          "woe:county=56000239", 
+          "woe:county=56000388", 
+          "woe:county=56000337", 
+          "woe:county=56000304", 
+          "woe:county=56000237", 
+          "woe:county=56000256", 
+          "woe:island=12490865", 
+          "woe:island=12491918", 
+          "woe:island=12491945", 
+          "woe:island=12492046", 
+          "woe:island=12492242", 
+          "woe:island=12492637", 
+          "woe:island=12492704"
+        ], 
         "alias_CHI_Q": [
           "\u73ed\u767b"
         ], 
-        "ne:OBJECTID": 1226, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30d0\u30f3\u30c6\u30f3"
         ], 
@@ -915,9 +931,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -7.002673028237609, 
-        "ne:VertexCou": 213.0, 
-        "ne:VALIDFR_1": "20001006", 
-        "ne:DataRank": 1, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 1226, 
         "ne:Postal": "BT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -933,13 +949,13 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 9575.4, 
         "woe:id": "28350158", 
-        "ne:HASC_1": "ID.BT", 
-        "lang": "UNK", 
+        "name": "Banten", 
+        "ne:VertexCou": 213.0, 
         "adjacent_woeid": [
           2345713, 
           2345715
         ], 
-        "name": "Banten", 
+        "ne:HASC_1": "ID.BT", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 106.76617597873849, 
         "longitude": 105.995, 

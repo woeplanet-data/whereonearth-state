@@ -734,20 +734,36 @@
         "ne:Shape_Area": 1.4251561647, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19980727", 
-        "ne:sameAsCity": -99, 
+        "ne:MAP_COLOR": 2, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "POL", 
+        "children": [
+          "woe:county=12591420", 
+          "woe:county=12591421", 
+          "woe:county=12591422", 
+          "woe:county=12591423", 
+          "woe:county=12591424", 
+          "woe:county=12591425", 
+          "woe:county=12591426", 
+          "woe:county=12591427", 
+          "woe:county=12591428", 
+          "woe:county=12591429", 
+          "woe:county=12591430", 
+          "woe:county=12591431", 
+          "woe:county=12591432", 
+          "woe:county=12591433", 
+          "woe:landfeature=56058384"
+        ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 3149, 
         "alias_JPN_Q": [
           "\u30b7\u30d5\u30a3\u30a7\u30f3\u30c6\u30a3\u30af\u30b7\u30b7\u30e5\u770c"
         ], 
-        "fullname": "Swi\u0119tokrzyskie, Swietokrzyskie, Poland", 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Santa-Cruz"
         ], 
+        "ne:ProvNumber": 2001, 
         "sw_longitude": 19.741668735623705, 
         "adjacent": [
           "woe:state=12577938", 
@@ -766,9 +782,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "sw_latitude": 50.17440542277211, 
-        "lang": "POL", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3149, 
+        "ne:VertexCou": 175.0, 
+        "ne:VALIDFR_1": "19980727", 
+        "ne:DataRank": 5, 
         "ne:Postal": "SK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Swietokrzyskie", 
@@ -780,15 +796,15 @@
         "ne:NAME_0": "Poland", 
         "ne:NAME_1": "Swietokrzyskie", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Wojew\u00f3dztwo", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 5, 
         "ne:Area_sqkm": 11190.5, 
         "alias_GER_Q": [
           "Heiligkreuz"
         ], 
         "woe:id": "12577947", 
-        "name": "Swi\u0119tokrzyskie", 
-        "ne:VertexCou": 175.0, 
+        "ne:HASC_1": "PL.SK", 
+        "lang": "POL", 
         "adjacent_woeid": [
           12577937, 
           12577938, 
@@ -797,8 +813,9 @@
           12577943, 
           12577946
         ], 
-        "ne:HASC_1": "PL.SK", 
+        "name": "Swi\u0119tokrzyskie", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "provider": "geoplanet 7.6.0", 
         "longitude": 20.787, 
         "ne_longitude": 21.848620232737574, 
@@ -808,7 +825,7 @@
         "alias_FRE_V": [
           "Ste.-Croix"
         ], 
-        "ne:ProvNumber": 2001, 
+        "fullname": "Swi\u0119tokrzyskie, Swietokrzyskie, Poland", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Poland", 
         "ne:RegionVar": null, 

@@ -40,24 +40,22 @@
           2346848
         ], 
         "name": "Las Mar\u00edas", 
+        "ne_latitude": 18.29, 
         "hierarchy": [
           "woe:state=2346843", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346843, 
-        "alias_SPA_V": [
-          "Las Mar\u00edas Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.899, 
         "longitude": -66.99, 
         "placetype": "state", 
-        "latitude": 18.239, 
         "alias_SPA_S": [
           "Las Marias Municipios"
         ], 
         "sw_longitude": -67.082, 
-        "sw_latitude": 18.188, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346838", 
           "woe:state=2346798", 
@@ -65,11 +63,31 @@
           "woe:state=2346848", 
           "woe:state=2346845"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.29, 
+        "alias_SPA_V": [
+          "Las Mar\u00edas Municipios"
+        ], 
+        "latitude": 18.239, 
         "iso": "PR", 
         "fullname": "Las Mar\u00edas, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806428", 
+          "woe:county=26806429", 
+          "woe:county=26806430", 
+          "woe:county=26806431", 
+          "woe:county=26806432", 
+          "woe:county=26806433", 
+          "woe:county=26806434", 
+          "woe:county=26806435", 
+          "woe:county=26806436", 
+          "woe:county=26806437", 
+          "woe:county=26806438", 
+          "woe:county=26806439", 
+          "woe:county=26806440", 
+          "woe:county=26806441", 
+          "woe:county=26806442", 
+          "woe:county=26806443"
+        ], 
+        "sw_latitude": 18.188
       }, 
       "id": 2346843
     }

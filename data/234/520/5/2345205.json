@@ -38,6 +38,7 @@
           2345211
         ], 
         "name": "Canar", 
+        "ne_latitude": -2.214, 
         "hierarchy": [
           "woe:state=2345205", 
           "woe:country=23424801", 
@@ -47,19 +48,28 @@
         "ne_longitude": -78.566, 
         "longitude": -79.045, 
         "placetype": "state", 
-        "latitude": -2.528, 
         "iso": "EC", 
-        "sw_latitude": -2.842, 
+        "date_indexed": "2010-12-02T17:51:25Z", 
         "adjacent": [
           "woe:state=2345203", 
           "woe:state=2345207", 
           "woe:state=2345211"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -2.214, 
+        "latitude": -2.528, 
         "sw_longitude": -79.524, 
         "fullname": "Canar, Ecuador", 
-        "date_indexed": "2010-12-02T17:51:25Z"
+        "children": [
+          "woe:county=26809496", 
+          "woe:county=26809503", 
+          "woe:county=26809509", 
+          "woe:county=26809534", 
+          "woe:county=26809543", 
+          "woe:county=26809544", 
+          "woe:county=26809573", 
+          "woe:county=26809682"
+        ], 
+        "sw_latitude": -2.842
       }, 
       "id": 2345205
     }

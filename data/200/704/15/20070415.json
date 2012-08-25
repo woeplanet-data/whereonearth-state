@@ -40,6 +40,7 @@
           56190213
         ], 
         "name": "Gulu", 
+        "ne_latitude": 3.537, 
         "hierarchy": [
           "woe:state=20070415", 
           "woe:country=23424974", 
@@ -49,9 +50,8 @@
         "ne_longitude": 32.765, 
         "longitude": 32.048, 
         "placetype": "state", 
-        "latitude": 2.871, 
         "iso": "UG", 
-        "sw_latitude": 2.205, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=56190206", 
           "woe:state=20070428", 
@@ -60,10 +60,15 @@
           "woe:state=24550736"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 3.537, 
+        "latitude": 2.871, 
         "sw_longitude": 31.33, 
         "fullname": "Gulu, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190251", 
+          "woe:county=56190252", 
+          "woe:county=56190253"
+        ], 
+        "sw_latitude": 2.205
       }, 
       "id": 20070415
     }

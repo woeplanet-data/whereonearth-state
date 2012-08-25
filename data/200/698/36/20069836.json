@@ -38,6 +38,7 @@
           20069845
         ], 
         "name": "Omaheke", 
+        "ne_latitude": -20.24, 
         "hierarchy": [
           "woe:state=20069836", 
           "woe:country=23424987", 
@@ -47,19 +48,27 @@
         "ne_longitude": 20.999, 
         "longitude": 19.466, 
         "placetype": "state", 
-        "latitude": -22.054, 
         "iso": "NA", 
-        "sw_latitude": -23.867, 
+        "date_indexed": "2010-12-02T07:50:17Z", 
         "adjacent": [
           "woe:state=20069844", 
           "woe:state=20069845", 
           "woe:state=20069835"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -20.24, 
+        "latitude": -22.054, 
         "sw_longitude": 17.932, 
         "fullname": "Omaheke, Namibia", 
-        "date_indexed": "2010-12-02T07:50:17Z"
+        "children": [
+          "woe:county=55921138", 
+          "woe:county=55921145", 
+          "woe:county=55921191", 
+          "woe:county=55921144", 
+          "woe:county=55921131", 
+          "woe:county=55921176", 
+          "woe:county=55921178"
+        ], 
+        "sw_latitude": -23.867
       }, 
       "id": 20069836
     }

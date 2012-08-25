@@ -45,20 +45,34 @@
           "woe:planet=1"
         ], 
         "woeid": 24551251, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.606, 
         "longitude": -76.698, 
         "placetype": "state", 
+        "latitude": 25.484, 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
+        "sw_latitude": 25.316, 
         "adjacent": [
           "woe:state=24551244"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 25.563, 
-        "latitude": 25.484, 
         "sw_longitude": -76.886, 
         "fullname": "North Eleuthera, The Bahamas", 
-        "sw_latitude": 25.316
+        "children": [
+          "woe:town=56891", 
+          "woe:town=56892", 
+          "woe:town=56908", 
+          "woe:town=57112", 
+          "woe:island=12481706", 
+          "woe:island=12481356", 
+          "woe:island=12481766", 
+          "woe:island=12481542", 
+          "woe:island=12481785", 
+          "woe:island=12481565", 
+          "woe:island=12481777", 
+          "woe:island=12481789"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551251
     }

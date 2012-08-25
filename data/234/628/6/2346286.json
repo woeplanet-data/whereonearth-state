@@ -2922,17 +2922,29 @@
         "ne:Shape_Area": 3.7800582644, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19021124", 
+        "ne:MAP_COLOR": 3, 
         "alias_ENG_A": [
           "QR"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "MEX", 
+        "children": [
+          "woe:county=12601462", 
+          "woe:county=12601463", 
+          "woe:county=12601464", 
+          "woe:county=12601465", 
+          "woe:county=12601466", 
+          "woe:county=12601467", 
+          "woe:county=12601468", 
+          "woe:county=24550675", 
+          "woe:colloquial=28299068", 
+          "woe:island=12484460"
+        ], 
         "ne:ScaleRank": 4, 
         "alias_CHI_Q": [
           "\u91d1\u5854\u7eb3\u7f57\u5965"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 2736, 
         "alias_JPN_Q": [
           "\u30ad\u30f3\u30bf\u30ca\u30ed\u30fc"
         ], 
@@ -2954,9 +2966,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 17.888624172667505, 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 2736, 
+        "ne:VertexCou": 691.0, 
+        "ne:VALIDFR_1": "19021124", 
+        "ne:DataRank": 2, 
         "ne:Postal": "QR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2972,15 +2984,15 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 43871.3, 
         "woe:id": "2346286", 
-        "name": "Quintana Roo", 
-        "ne:VertexCou": 691.0, 
+        "ne:HASC_1": "MX.QR", 
+        "lang": "SPA", 
         "adjacent_woeid": [
           2344796, 
           2344797, 
           2346267, 
           2346294
         ], 
-        "ne:HASC_1": "MX.QR", 
+        "name": "Quintana Roo", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -88.051, 

@@ -51,10 +51,10 @@
         "woeid": 20070009, 
         "ne_longitude": 51.268, 
         "longitude": 51.009, 
+        "ne_latitude": 25.809, 
         "placetype": "state", 
-        "latitude": 25.444, 
         "iso": "QA", 
-        "sw_latitude": 25.079, 
+        "date_indexed": "2010-12-02T12:16:10Z", 
         "adjacent": [
           "woe:state=20070004", 
           "woe:state=20070006", 
@@ -63,10 +63,26 @@
           "woe:state=20070007"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 25.809, 
+        "latitude": 25.444, 
         "sw_longitude": 50.751, 
         "fullname": "Al Jemailiya, Qatar", 
-        "date_indexed": "2010-12-02T12:16:10Z"
+        "children": [
+          "woe:town=1940506", 
+          "woe:town=1940401", 
+          "woe:town=55922583", 
+          "woe:town=55922507", 
+          "woe:town=55922523", 
+          "woe:town=55922595", 
+          "woe:town=55922542", 
+          "woe:town=1940513", 
+          "woe:town=1940445", 
+          "woe:town=1940515", 
+          "woe:town=55922511", 
+          "woe:town=55922537", 
+          "woe:town=1940516", 
+          "woe:island=12466879"
+        ], 
+        "sw_latitude": 25.079
       }, 
       "id": 20070009
     }

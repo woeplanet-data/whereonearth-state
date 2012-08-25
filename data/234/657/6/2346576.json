@@ -41,7 +41,6 @@
           2346577
         ], 
         "name": "Santar\u00e9m", 
-        "ne_latitude": 39.838, 
         "hierarchy": [
           "woe:state=2346576", 
           "woe:country=23424925", 
@@ -53,9 +52,32 @@
         ], 
         "ne_longitude": -7.809, 
         "longitude": -8.405, 
+        "children": [
+          "woe:county=12596475", 
+          "woe:county=12596574", 
+          "woe:county=12596634", 
+          "woe:county=12596640", 
+          "woe:county=12596630", 
+          "woe:county=20071108", 
+          "woe:county=12596639", 
+          "woe:county=12596688", 
+          "woe:county=12596490", 
+          "woe:county=12596685", 
+          "woe:county=12596542", 
+          "woe:county=12596670", 
+          "woe:county=12596465", 
+          "woe:county=12596441", 
+          "woe:county=12596582", 
+          "woe:county=12596665", 
+          "woe:county=12596459", 
+          "woe:county=12596575", 
+          "woe:county=12596467", 
+          "woe:county=12596429", 
+          "woe:county=12596668"
+        ], 
         "placetype": "state", 
         "iso": "PT", 
-        "sw_latitude": 38.731, 
+        "date_indexed": "2010-12-02T09:58:14Z", 
         "adjacent": [
           "woe:state=2346566", 
           "woe:state=2346568", 
@@ -64,11 +86,12 @@
           "woe:state=2346574", 
           "woe:state=2346577"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.838, 
         "latitude": 39.285, 
         "sw_longitude": -9.002, 
         "fullname": "Santar\u00e9m, Portugal", 
-        "date_indexed": "2010-12-02T09:58:14Z"
+        "provider": "geoplanet 7.6.0", 
+        "sw_latitude": 38.731
       }, 
       "id": 2346576
     }

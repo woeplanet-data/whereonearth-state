@@ -13,14 +13,15 @@
           56190562
         ], 
         "name": "\u0104dazu Novads", 
-        "alias_UNK_S": [
-          "Adazu Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190560", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190560, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Adazu Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -31,7 +32,9 @@
           "woe:state=56190570"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190560, 
+        "children": [
+          "woe:county=55844183"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190560

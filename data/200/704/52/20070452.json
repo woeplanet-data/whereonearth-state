@@ -41,6 +41,7 @@
           56190211
         ], 
         "name": "Nakasongola", 
+        "ne_latitude": 1.68, 
         "hierarchy": [
           "woe:state=20070452", 
           "woe:country=23424974", 
@@ -50,9 +51,8 @@
         "ne_longitude": 32.809, 
         "longitude": 32.397, 
         "placetype": "state", 
-        "latitude": 1.294, 
         "iso": "UG", 
-        "sw_latitude": 0.909, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=56190195", 
           "woe:state=20070411", 
@@ -62,10 +62,13 @@
           "woe:state=56190211"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 1.68, 
+        "latitude": 1.294, 
         "sw_longitude": 31.985, 
         "fullname": "Nakasongola, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190330"
+        ], 
+        "sw_latitude": 0.909
       }, 
       "id": 20070452
     }

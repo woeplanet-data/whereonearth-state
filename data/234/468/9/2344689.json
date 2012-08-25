@@ -31,20 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2344685, 
-          2344687, 
-          2344690, 
-          2345021, 
-          2345023, 
-          2345026, 
-          2345028, 
-          56043703
-        ], 
-        "alias_ENG_A": [
-          "N"
-        ], 
         "alias_ENG_P": [
           "Neuquen"
         ], 
@@ -54,17 +40,33 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -36.103, 
-        "alias_SPA_V": [
-          "Provincia del Neuqu\u00e9n"
-        ], 
-        "ne_longitude": -68.013, 
-        "longitude": -69.99, 
         "placetype": "state", 
+        "alias_ENG_A": [
+          "N"
+        ], 
+        "children": [
+          "woe:county=20071041", 
+          "woe:county=20071038", 
+          "woe:county=20071042", 
+          "woe:county=20071033", 
+          "woe:county=20071046", 
+          "woe:county=20071037", 
+          "woe:county=20071043", 
+          "woe:county=20071044", 
+          "woe:county=20071036", 
+          "woe:county=20071045", 
+          "woe:county=20071032", 
+          "woe:county=20071035", 
+          "woe:county=20071039", 
+          "woe:county=20070726", 
+          "woe:county=20071040", 
+          "woe:county=20071034"
+        ], 
+        "woeid": 2344689, 
         "alias_SPA_S": [
           "Provincia del Neuquen"
         ], 
         "sw_longitude": -71.947, 
-        "sw_latitude": -41.096, 
         "adjacent": [
           "woe:state=2345021", 
           "woe:state=2345023", 
@@ -77,11 +79,27 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -38.599, 
-        "iso": "AR", 
-        "fullname": "Neuqu\u00e9n, Neuquen, Argentina", 
-        "woeid": 2344689, 
         "date_indexed": "2010-12-02T17:40:36Z", 
-        "name": "Neuqu\u00e9n"
+        "alias_SPA_V": [
+          "Provincia del Neuqu\u00e9n"
+        ], 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2344685, 
+          2344687, 
+          2344690, 
+          2345021, 
+          2345023, 
+          2345026, 
+          2345028, 
+          56043703
+        ], 
+        "name": "Neuqu\u00e9n", 
+        "ne_longitude": -68.013, 
+        "longitude": -69.99, 
+        "iso": "AR", 
+        "sw_latitude": -41.096, 
+        "fullname": "Neuqu\u00e9n, Neuquen, Argentina"
       }, 
       "id": 2344689
     }

@@ -32,24 +32,39 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 7.117, 
         "name": "Haa Alifu", 
         "hierarchy": [
           "woe:state=20070312", 
           "woe:country=23424899", 
           "woe:planet=1"
         ], 
-        "woeid": 20070312, 
+        "ne_latitude": 7.117, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 73.216, 
         "longitude": 73.213, 
         "placetype": "state", 
         "iso": "MV", 
-        "sw_latitude": 6.819, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
+        "woeid": 20070312, 
         "latitude": 6.904, 
         "sw_longitude": 72.796, 
         "fullname": "Haa Alifu, Maldives", 
-        "date_indexed": "2010-12-02T09:35:37Z"
+        "children": [
+          "woe:town=2268287", 
+          "woe:island=12468370", 
+          "woe:island=12468454", 
+          "woe:island=12468476", 
+          "woe:island=12468503", 
+          "woe:island=12468547", 
+          "woe:island=12508998", 
+          "woe:island=12468585", 
+          "woe:island=12468684", 
+          "woe:island=12468716", 
+          "woe:island=12468736", 
+          "woe:island=12468787", 
+          "woe:island=12468788"
+        ], 
+        "sw_latitude": 6.819
       }, 
       "id": 20070312
     }

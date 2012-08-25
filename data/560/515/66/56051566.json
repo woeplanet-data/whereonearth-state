@@ -43,21 +43,26 @@
           "woe:planet=1"
         ], 
         "woeid": 56051566, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -24.299, 
         "longitude": -24.357, 
         "placetype": "state", 
+        "latitude": 14.996, 
         "iso": "CV", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
+        "sw_latitude": 14.946, 
         "adjacent": [
           "woe:state=56051565", 
           "woe:state=56051564"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 15.046, 
-        "latitude": 14.996, 
         "sw_longitude": -24.416, 
         "fullname": "Mosteiros, Cape Verde", 
-        "sw_latitude": 14.946
+        "children": [
+          "woe:town=1310726", 
+          "woe:town=1310747", 
+          "woe:town=1310771"
+        ], 
+        "date_indexed": "2010-12-02T12:16:16Z"
       }, 
       "id": 56051566
     }

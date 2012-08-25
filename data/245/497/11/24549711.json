@@ -44,22 +44,25 @@
           "woe:planet=1"
         ], 
         "woeid": 24549711, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.771, 
         "longitude": 144.729, 
         "placetype": "state", 
+        "latitude": 13.288, 
         "iso": "GU", 
-        "date_indexed": "2010-12-02T18:21:30Z", 
+        "sw_latitude": 13.241, 
         "adjacent": [
           "woe:state=24549709", 
           "woe:state=24549712", 
           "woe:state=24549710"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 13.335, 
-        "latitude": 13.288, 
         "sw_longitude": 144.686, 
         "fullname": "Inarajan, Guam", 
-        "sw_latitude": 13.241
+        "children": [
+          "woe:town=1062834"
+        ], 
+        "date_indexed": "2010-12-02T18:21:30Z"
       }, 
       "id": 24549711
     }

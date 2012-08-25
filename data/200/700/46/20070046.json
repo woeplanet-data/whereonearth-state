@@ -39,6 +39,7 @@
           56189859
         ], 
         "name": "Al Mahwit", 
+        "ne_latitude": 15.509, 
         "hierarchy": [
           "woe:state=20070046", 
           "woe:country=23425002", 
@@ -48,9 +49,8 @@
         "ne_longitude": 43.92, 
         "longitude": 43.575, 
         "placetype": "state", 
-        "latitude": 15.251, 
         "iso": "YE", 
-        "sw_latitude": 14.993, 
+        "date_indexed": "2010-12-02T16:39:35Z", 
         "adjacent": [
           "woe:state=20070047", 
           "woe:state=56189859", 
@@ -58,10 +58,21 @@
           "woe:state=20070045"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 15.509, 
+        "latitude": 15.251, 
         "sw_longitude": 43.23, 
         "fullname": "Al Mahwit, Yemen", 
-        "date_indexed": "2010-12-02T16:39:35Z"
+        "children": [
+          "woe:county=56189956", 
+          "woe:county=56189957", 
+          "woe:county=56189958", 
+          "woe:county=56189959", 
+          "woe:county=56189960", 
+          "woe:county=56189961", 
+          "woe:county=56189962", 
+          "woe:county=56189963", 
+          "woe:county=56189964"
+        ], 
+        "sw_latitude": 14.993
       }, 
       "id": 20070046
     }

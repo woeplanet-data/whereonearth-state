@@ -40,6 +40,7 @@
           29389223
         ], 
         "name": "Toplica", 
+        "ne_latitude": 43.443, 
         "hierarchy": [
           "woe:state=29389219", 
           "woe:country=20069818", 
@@ -52,9 +53,8 @@
         "ne_longitude": 21.796, 
         "longitude": 21.369, 
         "placetype": "state", 
-        "latitude": 43.163, 
         "iso": "RS", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
+        "sw_latitude": 42.883, 
         "adjacent": [
           "woe:state=29389208", 
           "woe:state=29389201", 
@@ -63,10 +63,32 @@
           "woe:state=29389199"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 43.443, 
+        "latitude": 43.163, 
         "sw_longitude": 20.943, 
         "fullname": "Toplica, Serbia", 
-        "sw_latitude": 42.883
+        "children": [
+          "woe:county=56072734", 
+          "woe:county=56072733", 
+          "woe:county=56072735", 
+          "woe:county=56072732", 
+          "woe:town=532682", 
+          "woe:town=532767", 
+          "woe:town=533386", 
+          "woe:town=534903", 
+          "woe:town=535160", 
+          "woe:town=535227", 
+          "woe:town=535390", 
+          "woe:town=536165", 
+          "woe:town=536340", 
+          "woe:town=536199", 
+          "woe:town=536799", 
+          "woe:town=537149", 
+          "woe:town=537232", 
+          "woe:town=537348", 
+          "woe:town=537761", 
+          "woe:town=537762"
+        ], 
+        "date_indexed": "2010-12-02T10:22:30Z"
       }, 
       "id": 29389219
     }

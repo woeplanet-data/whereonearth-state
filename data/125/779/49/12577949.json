@@ -896,7 +896,7 @@
         "ne:Shape_Area": 3.89912024133, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19980727", 
+        "ne:MAP_COLOR": 2, 
         "alias_POR_Q": [
           "Grande Pol\u00f3nia"
         ], 
@@ -905,24 +905,61 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "POL", 
+        "children": [
+          "woe:county=12591453", 
+          "woe:county=12591454", 
+          "woe:county=12591455", 
+          "woe:county=12591456", 
+          "woe:county=12591457", 
+          "woe:county=12591458", 
+          "woe:county=12591459", 
+          "woe:county=12591460", 
+          "woe:county=12591462", 
+          "woe:county=12591463", 
+          "woe:county=12591464", 
+          "woe:county=12591465", 
+          "woe:county=12591466", 
+          "woe:county=12591461", 
+          "woe:county=12591467", 
+          "woe:county=12591468", 
+          "woe:county=12591469", 
+          "woe:county=12591470", 
+          "woe:county=12591471", 
+          "woe:county=12591472", 
+          "woe:county=12591473", 
+          "woe:county=12591474", 
+          "woe:county=12591475", 
+          "woe:county=12591476", 
+          "woe:county=12591477", 
+          "woe:county=12591478", 
+          "woe:county=12591482", 
+          "woe:county=12591479", 
+          "woe:county=12591483", 
+          "woe:county=12591485", 
+          "woe:county=12591486", 
+          "woe:county=12591484", 
+          "woe:county=12591487", 
+          "woe:county=12591480", 
+          "woe:county=12591481", 
+          "woe:zone=24874459"
+        ], 
         "ne:ScaleRank": 5, 
         "alias_ITA_S": [
           "Grande Polonia"
         ], 
-        "alias_SPA_Q": [
-          "Gran Polonia"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Grande Pol\u00f3nia"
         ], 
-        "ne:sameAsCity": -99, 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 3144, 
         "alias_JPN_Q": [
           "\u30f4\u30a3\u30a8\u30eb\u30b3\u30dd\u30eb\u30b9\u30ab\u770c"
         ], 
-        "fullname": "Wielkopolskie, Greater Poland, Poland", 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Gran Polonia"
+        ], 
+        "ne:ProvNumber": 2001, 
         "sw_longitude": 15.825732048994894, 
         "adjacent": [
           "woe:state=12577935", 
@@ -942,9 +979,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "lang": "POL", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3144, 
+        "ne:VertexCou": 215.0, 
+        "ne:VALIDFR_1": "19980727", 
+        "ne:DataRank": 5, 
         "ne:Postal": "WP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Wielkopolskie", 
@@ -958,7 +995,7 @@
         "ne:NAME_0": "Poland", 
         "ne:NAME_1": "Greater Poland", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Wojew\u00f3dztwo", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 5, 
         "ne:Area_sqkm": 29607.2, 
         "alias_GER_Q": [
@@ -968,8 +1005,8 @@
         "alias_GER_S": [
           "Grosspolen"
         ], 
-        "name": "Wielkopolskie", 
-        "ne:VertexCou": 215.0, 
+        "ne:HASC_1": "PL.WP", 
+        "lang": "POL", 
         "adjacent_woeid": [
           12577935, 
           12577936, 
@@ -980,15 +1017,16 @@
           12577950
         ], 
         "ne:FIRST_FIPS": "PL42|PL86", 
-        "ne:HASC_1": "PL.WP", 
+        "name": "Wielkopolskie", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
+        "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne_longitude": 19.07855675638922, 
         "longitude": 17.441, 
         "iso": "PL", 
         "sw_latitude": 51.06582387956843, 
         "ne:NL_NAME_1": null, 
-        "ne:ProvNumber": 2001, 
+        "fullname": "Wielkopolskie, Greater Poland, Poland", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Poland", 
         "ne:RegionVar": null, 

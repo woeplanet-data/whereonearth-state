@@ -38,6 +38,7 @@
           56189817
         ], 
         "name": "Machinga", 
+        "ne_latitude": -14.553, 
         "hierarchy": [
           "woe:state=20070138", 
           "woe:country=23424889", 
@@ -47,19 +48,30 @@
         "ne_longitude": 35.917, 
         "longitude": 35.37, 
         "placetype": "state", 
-        "latitude": -14.94, 
         "iso": "MW", 
-        "sw_latitude": -15.328, 
+        "date_indexed": "2010-12-02T17:40:22Z", 
         "adjacent": [
           "woe:state=56189817", 
           "woe:state=20070136", 
           "woe:state=20070140"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -14.553, 
+        "latitude": -14.94, 
         "sw_longitude": 34.824, 
         "fullname": "Machinga, Malawi", 
-        "date_indexed": "2010-12-02T17:40:22Z"
+        "children": [
+          "woe:town=1365991", 
+          "woe:town=1366033", 
+          "woe:town=1367239", 
+          "woe:town=1501066", 
+          "woe:town=56122790", 
+          "woe:town=1367547", 
+          "woe:town=1368515", 
+          "woe:town=1368633", 
+          "woe:town=1368850", 
+          "woe:town=1501437"
+        ], 
+        "sw_latitude": -15.328
       }, 
       "id": 20070138
     }

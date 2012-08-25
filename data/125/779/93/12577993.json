@@ -5925,13 +5925,26 @@
         "ne:Shape_Area": 15.3448016975, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\uc7a5\uc2dc"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "children": [
+          "woe:county=26198281", 
+          "woe:county=26198150", 
+          "woe:county=26198151", 
+          "woe:county=26198153", 
+          "woe:county=26198155", 
+          "woe:county=26198154", 
+          "woe:county=26198156", 
+          "woe:county=26198148", 
+          "woe:county=26198039", 
+          "woe:county=26198152", 
+          "woe:county=26198149"
+        ], 
+        "ne:OBJECTID": 1817, 
         "alias_CHI_V": [
           "\u6c5f\u897f"
         ], 
@@ -5959,9 +5972,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 24.4995901552615, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1817, 
+        "ne:VertexCou": 1474.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "JX", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Jiangxi", 
@@ -5977,8 +5990,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 167798.2, 
         "woe:id": "12577993", 
-        "name": "\u6c5f\u897f\u7701", 
-        "ne:VertexCou": 1474.0, 
+        "ne:HASC_1": "CN.JX", 
+        "lang": "CHI", 
         "adjacent_woeid": [
           12577992, 
           12577997, 
@@ -5987,7 +6000,7 @@
           12578019, 
           12578022
         ], 
-        "ne:HASC_1": "CN.JX", 
+        "name": "\u6c5f\u897f\u7701", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 118.47626224150929, 
         "longitude": 116.026, 

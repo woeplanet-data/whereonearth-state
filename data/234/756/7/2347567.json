@@ -67,7 +67,7 @@
         "ne:Shape_Area": 0.0155635988728, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18460709", 
+        "ne:MAP_COLOR": 1, 
         "alias_POR_Q": [
           "Distrito de Columbia"
         ], 
@@ -76,6 +76,9 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "USA", 
+        "children": [
+          "woe:county=12587802"
+        ], 
         "ne:ScaleRank": 0, 
         "alias_CHI_Q": [
           "\u54e5\u4f26\u6bd4\u4e9a\u7279\u533a"
@@ -84,11 +87,10 @@
         "alias_ITA_Q": [
           "Distretto di Columbia"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3556, 
         "alias_JPN_Q": [
           "\u30b3\u30ed\u30f3\u30d3\u30a2\u7279\u5225\u533a"
         ], 
-        "ne:sameAsCity": 9, 
         "ne:Abbrev": "D.C.", 
         "alias_SPA_Q": [
           "Distrito de Columbia"
@@ -110,9 +112,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Federal District", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3556, 
+        "ne:VertexCou": 11.0, 
+        "ne:VALIDFR_1": "18460709", 
+        "ne:DataRank": 1, 
         "ne:Postal": "DC", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "DC|D.C.", 
@@ -124,18 +126,19 @@
         "ne:NAME_0": "United States of America", 
         "ne:NAME_1": "District of Columbia", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Federal District", 
+        "ne:sameAsCity": 9, 
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 145.4, 
         "woe:id": "2347567", 
-        "name": "District of Columbia", 
-        "ne:VertexCou": 11.0, 
+        "ne:HASC_1": "US.DC", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347579, 
           2347605
         ], 
-        "ne:HASC_1": "US.DC", 
+        "name": "District of Columbia", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Federal District", 
         "provider": "geoplanet 7.6.0", 
         "longitude": -77.015, 
         "ne_longitude": -76.90931454193253, 

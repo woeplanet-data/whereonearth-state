@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": -11.05, 
         "name": "Swains", 
         "hierarchy": [
           "woe:state=24549643", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549643, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -171.059, 
         "longitude": -171.076, 
         "placetype": "state", 
         "iso": "AS", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
-        "ne_latitude": -11.05, 
+        "sw_latitude": -11.07, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -11.06, 
         "sw_longitude": -171.092, 
         "fullname": "Swains, American Samoa", 
-        "sw_latitude": -11.07
+        "children": [
+          "woe:county=24551261"
+        ], 
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 24549643
     }

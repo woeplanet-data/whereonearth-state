@@ -41,11 +41,11 @@
           20070186
         ], 
         "name": "\u00c7ank\u0131r\u0131", 
-        "ne_latitude": 41.074, 
         "alias_UNK_S": [
           "Cankiri"
         ], 
         "woeid": 2347275, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "\u00c7ankiri"
         ], 
@@ -58,7 +58,7 @@
           "woe:planet=1"
         ], 
         "iso": "TR", 
-        "date_indexed": "2010-12-02T16:22:51Z", 
+        "sw_latitude": 40.266, 
         "adjacent": [
           "woe:state=2347263", 
           "woe:state=2347271", 
@@ -67,11 +67,25 @@
           "woe:state=2347329", 
           "woe:state=2347276"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.074, 
         "latitude": 40.67, 
         "sw_longitude": 32.564, 
         "fullname": "\u00c7ank\u0131r\u0131, Turkey", 
-        "sw_latitude": 40.266
+        "children": [
+          "woe:county=29390100", 
+          "woe:county=29390140", 
+          "woe:county=29390299", 
+          "woe:county=29390433", 
+          "woe:county=29390509", 
+          "woe:county=29390530", 
+          "woe:county=29390540", 
+          "woe:county=29390572", 
+          "woe:county=29390670", 
+          "woe:county=29390860", 
+          "woe:county=29390226", 
+          "woe:county=29390785"
+        ], 
+        "date_indexed": "2010-12-02T16:22:51Z"
       }, 
       "id": 2347275
     }

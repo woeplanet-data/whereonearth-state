@@ -38,7 +38,6 @@
           2345281, 
           2345283
         ], 
-        "ne_latitude": 59.228, 
         "name": "Raplamaa", 
         "alias_ENG_P": [
           "Rapla County"
@@ -48,7 +47,8 @@
           "woe:country=23424805", 
           "woe:planet=1"
         ], 
-        "woeid": 2345285, 
+        "ne_latitude": 59.228, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Rapla Maakond"
         ], 
@@ -56,18 +56,30 @@
         "ne_longitude": 25.334, 
         "placetype": "state", 
         "iso": "EE", 
-        "sw_latitude": 58.656, 
+        "date_indexed": "2010-12-02T16:42:58Z", 
         "adjacent": [
           "woe:state=2345276", 
           "woe:state=2345279", 
           "woe:state=2345281", 
           "woe:state=2345283"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2345285, 
         "latitude": 58.942, 
         "sw_longitude": 24.071, 
         "fullname": "Raplamaa, Rapla County, Estonia", 
-        "date_indexed": "2010-12-02T16:42:58Z"
+        "children": [
+          "woe:county=29389797", 
+          "woe:county=29389829", 
+          "woe:county=29389849", 
+          "woe:county=29389880", 
+          "woe:county=29389911", 
+          "woe:county=29389696", 
+          "woe:county=29389725", 
+          "woe:county=29389754", 
+          "woe:county=29389792", 
+          "woe:county=29389827"
+        ], 
+        "sw_latitude": 58.656
       }, 
       "id": 2345285
     }

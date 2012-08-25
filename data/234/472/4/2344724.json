@@ -36,6 +36,7 @@
           "Muharraq Governorate"
         ], 
         "name": "Muharraq", 
+        "ne_latitude": 26.304, 
         "hierarchy": [
           "woe:state=2344724", 
           "woe:country=23424753", 
@@ -45,14 +46,20 @@
         "ne_longitude": 50.721, 
         "longitude": 50.648, 
         "placetype": "state", 
-        "latitude": 26.242, 
         "iso": "BH", 
-        "sw_latitude": 26.18, 
+        "date_indexed": "2010-12-02T16:11:57Z", 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 26.304, 
+        "latitude": 26.242, 
         "sw_longitude": 50.576, 
         "fullname": "Muharraq, Bahrain", 
-        "date_indexed": "2010-12-02T16:11:57Z"
+        "children": [
+          "woe:town=1966956", 
+          "woe:town=1967059", 
+          "woe:island=12466885", 
+          "woe:island=23425006", 
+          "woe:island=12466898"
+        ], 
+        "sw_latitude": 26.18
       }, 
       "id": 2344724
     }

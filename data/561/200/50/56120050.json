@@ -19,6 +19,7 @@
           "woe:country=23424893", 
           "woe:planet=1"
         ], 
+        "woeid": 56120050, 
         "placetype": "state", 
         "iso": "MA", 
         "adjacent": [
@@ -30,7 +31,11 @@
           "woe:state=56120061"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56120050, 
+        "children": [
+          "woe:county=2346192", 
+          "woe:county=2346206", 
+          "woe:county=2346214"
+        ], 
         "date_indexed": "2010-12-02T18:19:13Z"
       }, 
       "id": 56120050

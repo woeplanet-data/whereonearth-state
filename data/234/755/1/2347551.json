@@ -41,7 +41,6 @@
           2347555, 
           2347558
         ], 
-        "ne_latitude": 51.95, 
         "name": "Rivnens\u00b4ka Oblast\u00b4", 
         "alias_ENG_P": [
           "Rivne Oblast"
@@ -51,7 +50,8 @@
           "woe:country=23424976", 
           "woe:planet=1"
         ], 
-        "woeid": 2347551, 
+        "ne_latitude": 51.95, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Rivnenshchyna"
         ], 
@@ -59,7 +59,7 @@
         "ne_longitude": 27.729, 
         "placetype": "state", 
         "iso": "UA", 
-        "sw_latitude": 50.005, 
+        "date_indexed": "2010-12-02T08:52:18Z", 
         "adjacent": [
           "woe:state=2344830", 
           "woe:state=2344831", 
@@ -69,11 +69,50 @@
           "woe:state=2347555", 
           "woe:state=2347558"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2347551, 
         "latitude": 50.977, 
         "sw_longitude": 25.087, 
         "fullname": "Rivnens\u00b4ka Oblast\u00b4, Rivne Oblast, Ukraine", 
-        "date_indexed": "2010-12-02T08:52:18Z"
+        "children": [
+          "woe:town=915511", 
+          "woe:town=916739", 
+          "woe:town=916747", 
+          "woe:town=917450", 
+          "woe:town=917743", 
+          "woe:town=918752", 
+          "woe:town=919326", 
+          "woe:town=919370", 
+          "woe:town=920486", 
+          "woe:town=920973", 
+          "woe:town=921682", 
+          "woe:town=922891", 
+          "woe:town=922894", 
+          "woe:town=923548", 
+          "woe:town=923754", 
+          "woe:town=924928", 
+          "woe:town=56122716", 
+          "woe:town=927114", 
+          "woe:town=927235", 
+          "woe:town=927394", 
+          "woe:town=927395", 
+          "woe:town=929870", 
+          "woe:town=931026", 
+          "woe:town=931237", 
+          "woe:town=931905", 
+          "woe:town=932027", 
+          "woe:town=932520", 
+          "woe:town=932394", 
+          "woe:town=933056", 
+          "woe:town=934003", 
+          "woe:town=934393", 
+          "woe:town=934394", 
+          "woe:town=935114", 
+          "woe:town=938006", 
+          "woe:town=939693", 
+          "woe:town=939882", 
+          "woe:town=939883"
+        ], 
+        "sw_latitude": 50.005
       }, 
       "id": 2347551
     }

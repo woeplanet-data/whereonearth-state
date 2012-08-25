@@ -39,6 +39,7 @@
           56190202
         ], 
         "name": "Kapchorwa", 
+        "ne_latitude": 1.599, 
         "hierarchy": [
           "woe:state=20070423", 
           "woe:country=23424974", 
@@ -48,9 +49,8 @@
         "ne_longitude": 34.83, 
         "longitude": 34.571, 
         "placetype": "state", 
-        "latitude": 1.35, 
         "iso": "UG", 
-        "sw_latitude": 1.101, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=56190196", 
           "woe:state=56190202", 
@@ -58,10 +58,14 @@
           "woe:state=24550737"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 1.599, 
+        "latitude": 1.35, 
         "sw_longitude": 34.312, 
         "fullname": "Kapchorwa, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190283", 
+          "woe:county=56190284"
+        ], 
+        "sw_latitude": 1.101
       }, 
       "id": 20070423
     }

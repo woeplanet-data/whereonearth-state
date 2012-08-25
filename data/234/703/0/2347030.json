@@ -39,6 +39,7 @@
           2347033
         ], 
         "name": "Micoud", 
+        "ne_latitude": 13.867, 
         "hierarchy": [
           "woe:state=2347030", 
           "woe:country=23424951", 
@@ -48,9 +49,8 @@
         "ne_longitude": -60.886, 
         "longitude": -60.941, 
         "placetype": "state", 
-        "latitude": 13.813, 
         "iso": "LC", 
-        "sw_latitude": 13.76, 
+        "date_indexed": "2010-12-02T18:18:47Z", 
         "adjacent": [
           "woe:state=2347025", 
           "woe:state=2347033", 
@@ -58,10 +58,18 @@
           "woe:state=2347032"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.867, 
+        "latitude": 13.813, 
         "sw_longitude": -60.996, 
         "fullname": "Micoud, St. Lucia", 
-        "date_indexed": "2010-12-02T18:18:47Z"
+        "children": [
+          "woe:town=161979", 
+          "woe:town=162039", 
+          "woe:town=162063", 
+          "woe:town=162080", 
+          "woe:town=162090", 
+          "woe:town=162123"
+        ], 
+        "sw_latitude": 13.76
       }, 
       "id": 2347030
     }

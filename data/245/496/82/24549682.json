@@ -45,23 +45,27 @@
           "woe:planet=1"
         ], 
         "woeid": 24549682, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 39.114, 
         "longitude": 38.909, 
         "placetype": "state", 
+        "latitude": 15.337, 
         "iso": "ER", 
-        "date_indexed": "2010-12-02T09:57:22Z", 
+        "sw_latitude": 15.083, 
         "adjacent": [
           "woe:state=24549684", 
           "woe:state=24549683", 
           "woe:state=24549681", 
           "woe:state=24549686"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 15.591, 
-        "latitude": 15.337, 
         "sw_longitude": 38.703, 
         "fullname": "Maekel, Eritrea", 
-        "sw_latitude": 15.083
+        "children": [
+          "woe:town=1312120", 
+          "woe:town=1312510"
+        ], 
+        "date_indexed": "2010-12-02T09:57:22Z"
       }, 
       "id": 24549682
     }

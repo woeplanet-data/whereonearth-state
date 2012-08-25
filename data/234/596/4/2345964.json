@@ -974,14 +974,30 @@
         "alias_KOR_V": [
           "\uc804\ubd81"
         ], 
-        "ne:VALIDFR_1": "18960804", 
+        "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
+        "children": [
+          "woe:county=28289171", 
+          "woe:county=28289182", 
+          "woe:county=28289238", 
+          "woe:county=28289258", 
+          "woe:county=28289247", 
+          "woe:county=28289116", 
+          "woe:county=28289294", 
+          "woe:county=28289309", 
+          "woe:county=28289210", 
+          "woe:county=28289211", 
+          "woe:county=28289215", 
+          "woe:county=28289219", 
+          "woe:county=28289217", 
+          "woe:county=28289220"
+        ], 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u5168\u7f57\u5317\u9053"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2499, 
         "alias_JPN_Q": [
           "\u30c1\u30e7\u30eb\u30e9\u30d6\u30af\u30c9"
         ], 
@@ -1005,9 +1021,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 35.276632595717786, 
-        "lang": "KOR", 
-        "ne:MAP_COLOR": 5, 
-        "ne:OBJECTID": 2499, 
+        "ne:VertexCou": 232.0, 
+        "ne:VALIDFR_1": "18960804", 
+        "ne:DataRank": 3, 
         "ne:Postal": "CB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Chollabuk-Do|Cholla-bukto|Jeonrabugdo|North Cholla|Zenra Hoku-do", 
@@ -1023,8 +1039,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 8088.7, 
         "woe:id": "2345964", 
-        "name": "\uc804\ub77c\ubd81\ub3c4", 
-        "ne:VertexCou": 232.0, 
+        "ne:HASC_1": "KR.CB", 
+        "lang": "KOR", 
         "adjacent_woeid": [
           2345965, 
           2345967, 
@@ -1032,7 +1048,7 @@
           2345972, 
           2345973
         ], 
-        "ne:HASC_1": "KR.CB", 
+        "name": "\uc804\ub77c\ubd81\ub3c4", 
         "ne:REMARKS_1": "35 (NSO Code)", 
         "ne:Country_Pr": null, 
         "ne_longitude": 127.91852827336118, 

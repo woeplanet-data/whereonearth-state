@@ -38,34 +38,39 @@
           2344945
         ], 
         "name": "Ouadda\u00ef", 
+        "ne_latitude": 14.453, 
         "hierarchy": [
           "woe:state=2344956", 
           "woe:country=23424777", 
           "woe:planet=1"
         ], 
         "woeid": 2344956, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 22.986, 
         "longitude": 21.408, 
         "alias_FRE_A": [
           "OD"
         ], 
         "placetype": "state", 
-        "latitude": 12.692, 
+        "alias_FRE_V": [
+          "Ouaddai"
+        ], 
         "iso": "TD", 
-        "sw_latitude": 10.931, 
+        "date_indexed": "2010-12-02T08:53:18Z", 
         "adjacent": [
           "woe:state=2344945", 
           "woe:state=56190453", 
           "woe:state=2344946"
         ], 
-        "ne_latitude": 14.453, 
-        "alias_FRE_V": [
-          "Ouaddai"
-        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 12.692, 
         "sw_longitude": 19.83, 
         "fullname": "Ouadda\u00ef, Ouaddai, Chad", 
-        "date_indexed": "2010-12-02T08:53:18Z"
+        "children": [
+          "woe:county=56190449", 
+          "woe:county=56013508", 
+          "woe:county=56013506"
+        ], 
+        "sw_latitude": 10.931
       }, 
       "id": 2344956
     }

@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 7.534, 
         "name": "Ailinglaplap", 
         "hierarchy": [
           "woe:state=24549832", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549832, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 168.944, 
         "longitude": 168.824, 
         "placetype": "state", 
         "iso": "MH", 
-        "date_indexed": "2010-12-02T09:35:31Z", 
-        "ne_latitude": 7.534, 
+        "sw_latitude": 7.275, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 7.291, 
         "sw_longitude": 168.547, 
         "fullname": "Ailinglaplap, Marshall Islands", 
-        "sw_latitude": 7.275
+        "children": [
+          "woe:island=12509475"
+        ], 
+        "date_indexed": "2010-12-02T09:35:31Z"
       }, 
       "id": 24549832
     }

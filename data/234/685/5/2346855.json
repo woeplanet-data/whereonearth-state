@@ -42,21 +42,19 @@
           2346858
         ], 
         "name": "Caguas", 
+        "ne_latitude": 18.312, 
         "hierarchy": [
           "woe:state=2346855", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346855, 
-        "alias_SPA_V": [
-          "Caguas Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -65.998, 
         "longitude": -66.058, 
         "placetype": "state", 
-        "latitude": 18.213, 
         "sw_longitude": -66.118, 
-        "sw_latitude": 18.114, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346858", 
           "woe:state=2346792", 
@@ -66,11 +64,26 @@
           "woe:state=2346806", 
           "woe:state=2346853"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.312, 
+        "alias_SPA_V": [
+          "Caguas Municipios"
+        ], 
+        "latitude": 18.213, 
         "iso": "PR", 
         "fullname": "Caguas, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806120", 
+          "woe:county=26806121", 
+          "woe:county=26806122", 
+          "woe:county=26806123", 
+          "woe:county=26806124", 
+          "woe:county=26806125", 
+          "woe:county=26806126", 
+          "woe:county=26806127", 
+          "woe:county=26806128", 
+          "woe:county=26806129", 
+          "woe:county=26806130"
+        ], 
+        "sw_latitude": 18.114
       }, 
       "id": 2346855
     }

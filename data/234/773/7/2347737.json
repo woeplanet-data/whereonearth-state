@@ -51,12 +51,12 @@
           "woe:planet=1"
         ], 
         "woeid": 2347737, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.837, 
         "longitude": 105.331, 
         "placetype": "state", 
+        "latitude": 20.698, 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 20.288, 
         "adjacent": [
           "woe:state=2347741", 
           "woe:state=2347735", 
@@ -66,11 +66,39 @@
           "woe:state=2347715", 
           "woe:state=2347753"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 21.108, 
-        "latitude": 20.698, 
         "sw_longitude": 104.826, 
         "fullname": "Hoa Binh, Vietnam", 
-        "sw_latitude": 20.288
+        "children": [
+          "woe:town=56124772", 
+          "woe:town=56123711", 
+          "woe:town=56123701", 
+          "woe:town=56124637", 
+          "woe:town=1252363", 
+          "woe:town=56124747", 
+          "woe:town=1252414", 
+          "woe:town=56124642", 
+          "woe:town=1252432", 
+          "woe:town=56123694", 
+          "woe:town=56124716", 
+          "woe:town=56123713", 
+          "woe:town=56124696", 
+          "woe:town=56123718", 
+          "woe:town=56124793", 
+          "woe:town=56123708", 
+          "woe:town=1252592", 
+          "woe:town=1246410", 
+          "woe:town=56123698", 
+          "woe:town=56123705", 
+          "woe:town=1252659", 
+          "woe:town=1252663", 
+          "woe:town=56124702", 
+          "woe:town=1252686", 
+          "woe:town=56124709", 
+          "woe:town=56124676"
+        ], 
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 2347737
     }

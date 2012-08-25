@@ -2369,21 +2369,24 @@
         "ne:Shape_Area": 30.8636845351, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:VARNAME_1": "BUENOS AIRES D.F.|Capital Federal|Distretto Federale|Distrito Federal|Federal Capital", 
+        "ne:MAP_COLOR": 13, 
         "alias_KOR_Q": [
           "\ubd80\uc5d0\ub178\uc2a4\uc544\uc774\ub808\uc2a4"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ARG", 
+        "children": [
+          "woe:county=20070753"
+        ], 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u5e03\u5b9c\u8afe\u65af\u827e\u5229\u65af"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 1295, 
         "alias_JPN_Q": [
           "\u30b7\u30a6\u30c0\u30fc\u30fb\u30d6\u30a8\u30ce\u30b9\u30fb\u30a2\u30a4\u30ec\u30b9"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
@@ -2398,9 +2401,6 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -34.617, 
-        "alias_SPA_V": [
-          "Distrito Federal"
-        ], 
         "ne:FIPS_1": "AR01", 
         "alias_NOR_Q": [
           "Buenos Aires"
@@ -2408,15 +2408,17 @@
         "ne:FIRST_HASC": "AR.BA|ARG-DFD", 
         "ne:ENGTYPE_1": "Federal District", 
         "date_indexed": "2010-12-02T17:40:36Z", 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 13, 
+        "ne:VertexCou": 580.0, 
+        "ne:VALIDFR_1": "Unknown", 
         "adjacent": [
           "woe:state=2344675"
         ], 
-        "ne:OBJECTID": 1295, 
+        "ne:DataRank": 3, 
         "ne:Postal": "DF", 
         "ne:Region_Cod": null, 
-        "ne:VARNAME_1": "BUENOS AIRES D.F.|Capital Federal|Distretto Federale|Distrito Federal|Federal Capital", 
+        "alias_SPA_V": [
+          "Distrito Federal"
+        ], 
         "ne:ISO": "ARG", 
         "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
@@ -2425,26 +2427,27 @@
         "ne:NAME_0": "Argentina", 
         "ne:NAME_1": "Ciudad de Buenos Aires", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Distrito Federal", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 306028.5, 
         "alias_GER_Q": [
           "Bundesdistrikt"
         ], 
         "woe:id": "2344681", 
-        "name": "Ciudad de Buenos Aires", 
-        "ne:VertexCou": 580.0, 
+        "ne:HASC_1": "AR.DF", 
+        "lang": "SPA", 
         "adjacent_woeid": [
           2344675
         ], 
         "ne:FIRST_FIPS": "AR07", 
-        "ne:HASC_1": "AR.DF", 
+        "name": "Ciudad de Buenos Aires", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Distrito Federal", 
+        "ne_longitude": -56.6647269353997, 
+        "longitude": -58.433, 
         "alias_NOR_V": [
           "Buenosaires"
         ], 
-        "ne_longitude": -56.6647269353997, 
-        "longitude": -58.433, 
         "iso": "AR", 
         "sw_latitude": -41.04488453539295, 
         "ne:NL_NAME_1": null, 

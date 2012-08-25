@@ -42,17 +42,24 @@
           "woe:planet=1"
         ], 
         "woeid": 24549933, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -72.125, 
         "longitude": -72.161, 
         "placetype": "state", 
-        "iso": "TC", 
-        "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne_latitude": 21.862, 
         "latitude": 21.799, 
+        "iso": "TC", 
+        "sw_latitude": 21.366, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 21.862, 
         "sw_longitude": -72.484, 
         "fullname": "Providencales and West Caicos, Turks and Caicos Islands", 
-        "sw_latitude": 21.366
+        "children": [
+          "woe:town=162146", 
+          "woe:town=162150", 
+          "woe:town=162158", 
+          "woe:town=56122862", 
+          "woe:island=12485319"
+        ], 
+        "date_indexed": "2010-12-02T07:50:42Z"
       }, 
       "id": 24549933
     }

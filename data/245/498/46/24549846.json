@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 9.403, 
         "name": "Kwajalein", 
         "hierarchy": [
           "woe:state=24549846", 
@@ -39,17 +40,21 @@
           "woe:planet=1"
         ], 
         "woeid": 24549846, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 167.776, 
         "longitude": 167.485, 
         "placetype": "state", 
         "iso": "MH", 
-        "date_indexed": "2010-12-02T09:35:31Z", 
-        "ne_latitude": 9.403, 
+        "sw_latitude": 8.712, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 9.392, 
         "sw_longitude": 166.818, 
         "fullname": "Kwajalein, Marshall Islands", 
-        "sw_latitude": 8.712
+        "children": [
+          "woe:town=28718595", 
+          "woe:airport=12515490", 
+          "woe:airport=12515491"
+        ], 
+        "date_indexed": "2010-12-02T09:35:31Z"
       }, 
       "id": 24549846
     }

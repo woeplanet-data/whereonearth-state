@@ -40,6 +40,7 @@
           2345707
         ], 
         "name": "Myrasysla", 
+        "ne_latitude": 65.18, 
         "hierarchy": [
           "woe:state=2345696", 
           "woe:country=23424845", 
@@ -48,10 +49,30 @@
         "woeid": 2345696, 
         "ne_longitude": -20.289, 
         "longitude": -21.372, 
+        "children": [
+          "woe:town=980025", 
+          "woe:town=28752669", 
+          "woe:town=980070", 
+          "woe:town=980187", 
+          "woe:island=12475915", 
+          "woe:island=12475938", 
+          "woe:island=12475959", 
+          "woe:island=12475960", 
+          "woe:island=12476105", 
+          "woe:island=12475983", 
+          "woe:island=12475992", 
+          "woe:island=12476002", 
+          "woe:island=12476014", 
+          "woe:island=12476019", 
+          "woe:island=12508155", 
+          "woe:island=12476044", 
+          "woe:island=12476050", 
+          "woe:island=12476058", 
+          "woe:island=12476090"
+        ], 
         "placetype": "state", 
-        "latitude": 64.819, 
         "iso": "IS", 
-        "sw_latitude": 64.428, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345691", 
           "woe:state=2345692", 
@@ -60,13 +81,13 @@
           "woe:state=2345707"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 65.18, 
+        "latitude": 64.819, 
         "sw_longitude": -22.533, 
         "fullname": "Myrasysla, Iceland", 
         "alias_UNK_A": [
           "MYR"
         ], 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "sw_latitude": 64.428
       }, 
       "id": 2345696
     }

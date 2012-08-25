@@ -36,21 +36,20 @@
           2347001, 
           2347002
         ], 
-        "ne_latitude": 8.497, 
-        "name": "Western Area", 
-        "adjacent": [
-          "woe:state=2347001", 
-          "woe:state=2347002"
+        "alias_KOR_Q": [
+          "\uc6e8\uc2a4\ud134\uc5d0\uc5b4\ub9ac\uc5b4"
         ], 
+        "name": "Western Area", 
         "hierarchy": [
           "woe:state=2347003", 
           "woe:country=23424946", 
           "woe:planet=1"
         ], 
-        "woeid": 2347003, 
+        "ne_latitude": 8.497, 
         "alias_JPN_Q": [
           "\u897f\u90e8\u5730\u57df"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -12.918, 
         "longitude": -13.107, 
         "alias_CHI_Q": [
@@ -58,15 +57,24 @@
         ], 
         "placetype": "state", 
         "iso": "SL", 
-        "sw_latitude": 8.096, 
-        "alias_KOR_Q": [
-          "\uc6e8\uc2a4\ud134\uc5d0\uc5b4\ub9ac\uc5b4"
+        "date_indexed": "2010-12-02T12:08:44Z", 
+        "adjacent": [
+          "woe:state=2347001", 
+          "woe:state=2347002"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2347003, 
         "latitude": 8.334, 
         "sw_longitude": -13.297, 
         "fullname": "Western Area, Sierra Leone", 
-        "date_indexed": "2010-12-02T12:08:44Z"
+        "children": [
+          "woe:town=1419257", 
+          "woe:town=1419467", 
+          "woe:town=1420334", 
+          "woe:town=1422933", 
+          "woe:town=1423945", 
+          "woe:town=1424497"
+        ], 
+        "sw_latitude": 8.096
       }, 
       "id": 2347003
     }

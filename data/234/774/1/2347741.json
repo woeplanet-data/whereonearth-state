@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 2347741, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.185, 
         "longitude": 105.987, 
         "placetype": "state", 
+        "latitude": 20.528, 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 20.363, 
         "adjacent": [
           "woe:state=2347735", 
           "woe:state=2347737", 
@@ -61,11 +61,24 @@
           "woe:state=2347743", 
           "woe:state=2347716"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 20.694, 
-        "latitude": 20.528, 
         "sw_longitude": 105.789, 
         "fullname": "Ha Nam, Vietnam", 
-        "sw_latitude": 20.363
+        "children": [
+          "woe:town=56124573", 
+          "woe:town=56124578", 
+          "woe:town=56124717", 
+          "woe:town=1252553", 
+          "woe:town=56124581", 
+          "woe:town=1252552", 
+          "woe:town=56124626", 
+          "woe:town=1252639", 
+          "woe:town=56124562", 
+          "woe:town=56124568", 
+          "woe:town=56124630"
+        ], 
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 2347741
     }

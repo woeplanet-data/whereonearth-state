@@ -13,14 +13,15 @@
           55844325
         ], 
         "name": "Skr\u013cveru Novads", 
-        "alias_UNK_S": [
-          "Skrlveru Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190566", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190566, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Skrlveru Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -31,7 +32,11 @@
           "woe:state=55844585"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190566, 
+        "children": [
+          "woe:county=55844639", 
+          "woe:county=56190509", 
+          "woe:county=55844617"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190566

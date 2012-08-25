@@ -43,21 +43,24 @@
           "woe:planet=1"
         ], 
         "woeid": 56043639, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 17.091, 
         "longitude": 17.005, 
         "placetype": "state", 
+        "latitude": 46.452, 
         "iso": "HU", 
-        "date_indexed": "2010-12-02T09:55:38Z", 
+        "sw_latitude": 46.359, 
         "adjacent": [
           "woe:state=12577924", 
           "woe:state=12577930"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.545, 
-        "latitude": 46.452, 
         "sw_longitude": 16.92, 
         "fullname": "Nagykanizsa, Hungary", 
-        "sw_latitude": 46.359
+        "children": [
+          "woe:county=12593522"
+        ], 
+        "date_indexed": "2010-12-02T09:55:38Z"
       }, 
       "id": 56043639
     }

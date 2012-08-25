@@ -37,6 +37,7 @@
           12578036
         ], 
         "name": "Viana do Castelo", 
+        "ne_latitude": 42.154, 
         "hierarchy": [
           "woe:state=2346578", 
           "woe:country=23424925", 
@@ -46,18 +47,29 @@
         "ne_longitude": -8.083, 
         "longitude": -8.482, 
         "placetype": "state", 
-        "latitude": 41.88, 
         "iso": "PT", 
-        "sw_latitude": 41.606, 
+        "date_indexed": "2010-12-02T09:58:14Z", 
         "adjacent": [
           "woe:state=2346564", 
           "woe:state=12578036"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.154, 
+        "latitude": 41.88, 
         "sw_longitude": -8.881, 
         "fullname": "Viana do Castelo, Portugal", 
-        "date_indexed": "2010-12-02T09:58:14Z"
+        "children": [
+          "woe:county=12596471", 
+          "woe:county=12596526", 
+          "woe:county=12596420", 
+          "woe:county=12596446", 
+          "woe:county=12596516", 
+          "woe:county=12596587", 
+          "woe:county=12596522", 
+          "woe:county=12596609", 
+          "woe:county=12596456", 
+          "woe:county=12596474"
+        ], 
+        "sw_latitude": 41.606
       }, 
       "id": 2346578
     }

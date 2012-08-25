@@ -45,23 +45,26 @@
           "woe:planet=1"
         ], 
         "woeid": 55848342, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.733, 
         "longitude": 15.612, 
         "placetype": "state", 
+        "latitude": 45.938, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 45.82, 
         "adjacent": [
           "woe:state=12577977", 
           "woe:state=55848359", 
           "woe:state=55848390", 
           "woe:state=12577990"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.055, 
-        "latitude": 45.938, 
         "sw_longitude": 15.491, 
         "fullname": "Brezice, Slovenia", 
-        "sw_latitude": 45.82
+        "children": [
+          "woe:county=12591516"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848342
     }

@@ -41,21 +41,19 @@
           2345632
         ], 
         "name": "San Miguel", 
+        "ne_latitude": 13.903, 
         "hierarchy": [
           "woe:state=2345300", 
           "woe:country=23424807", 
           "woe:planet=1"
         ], 
         "woeid": 2345300, 
-        "alias_SPA_V": [
-          "S. Miguel"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -88.019, 
         "longitude": -88.273, 
         "placetype": "state", 
-        "latitude": 13.534, 
         "sw_longitude": -88.527, 
-        "sw_latitude": 13.165, 
+        "date_indexed": "2010-12-02T17:05:52Z", 
         "adjacent": [
           "woe:state=2345293", 
           "woe:state=2345632", 
@@ -64,11 +62,35 @@
           "woe:state=2345303", 
           "woe:state=2345305"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.903, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "latitude": 13.534, 
         "iso": "SV", 
         "fullname": "San Miguel, El Salvador", 
-        "date_indexed": "2010-12-02T17:05:52Z"
+        "children": [
+          "woe:county=26808680", 
+          "woe:county=26808683", 
+          "woe:county=26808684", 
+          "woe:county=26808685", 
+          "woe:county=26808681", 
+          "woe:county=26808682", 
+          "woe:county=26808686", 
+          "woe:county=26808687", 
+          "woe:county=26808688", 
+          "woe:county=26808689", 
+          "woe:county=26808690", 
+          "woe:county=26808691", 
+          "woe:county=26808692", 
+          "woe:county=26808693", 
+          "woe:county=26808694", 
+          "woe:county=26808695", 
+          "woe:county=26808679", 
+          "woe:county=26808696", 
+          "woe:county=26808697", 
+          "woe:county=26808698"
+        ], 
+        "sw_latitude": 13.165
       }, 
       "id": 2345300
     }

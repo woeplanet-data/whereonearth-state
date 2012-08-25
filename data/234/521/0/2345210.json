@@ -40,24 +40,22 @@
           56189814
         ], 
         "name": "Esmeraldas", 
+        "ne_latitude": 1.439, 
         "hierarchy": [
           "woe:state=2345210", 
           "woe:country=23424801", 
           "woe:planet=1"
         ], 
         "woeid": 2345210, 
-        "alias_SPA_V": [
-          "Volc\u00e1n Chimborazo"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -78.42, 
         "longitude": -79.259, 
         "placetype": "state", 
-        "latitude": 0.746, 
         "alias_SPA_S": [
           "Volcan Chimborazo"
         ], 
         "sw_longitude": -80.097, 
-        "sw_latitude": 0.073, 
+        "date_indexed": "2010-12-02T17:51:25Z", 
         "adjacent": [
           "woe:state=2345206", 
           "woe:state=2345212", 
@@ -65,11 +63,23 @@
           "woe:state=2345219", 
           "woe:state=56189814"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 1.439, 
+        "alias_SPA_V": [
+          "Volc\u00e1n Chimborazo"
+        ], 
+        "latitude": 0.746, 
         "iso": "EC", 
         "fullname": "Esmeraldas, Ecuador", 
-        "date_indexed": "2010-12-02T17:51:25Z"
+        "children": [
+          "woe:county=26809494", 
+          "woe:county=26809546", 
+          "woe:county=26809547", 
+          "woe:county=26809569", 
+          "woe:county=26809599", 
+          "woe:county=26809644", 
+          "woe:county=26809646", 
+          "woe:county=26809657"
+        ], 
+        "sw_latitude": 0.073
       }, 
       "id": 2345210
     }

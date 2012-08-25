@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 21.874, 
         "name": "Middle Caicos", 
         "hierarchy": [
           "woe:state=24549932", 
@@ -39,17 +40,22 @@
           "woe:planet=1"
         ], 
         "woeid": 24549932, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -71.629, 
         "longitude": -71.745, 
         "placetype": "state", 
         "iso": "TC", 
-        "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne_latitude": 21.874, 
+        "sw_latitude": 21.706, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 21.797, 
         "sw_longitude": -71.852, 
         "fullname": "Middle Caicos, Turks and Caicos Islands", 
-        "sw_latitude": 21.706
+        "children": [
+          "woe:town=162149", 
+          "woe:town=162154", 
+          "woe:island=12485288", 
+          "woe:island=12485295"
+        ], 
+        "date_indexed": "2010-12-02T07:50:42Z"
       }, 
       "id": 24549932
     }

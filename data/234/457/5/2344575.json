@@ -41,6 +41,7 @@
           20070295
         ], 
         "name": "Balkh", 
+        "ne_latitude": 37.387, 
         "hierarchy": [
           "woe:state=2344575", 
           "woe:country=23424739", 
@@ -50,9 +51,8 @@
         "ne_longitude": 68.127, 
         "longitude": 67.282, 
         "placetype": "state", 
-        "latitude": 36.496, 
         "iso": "AF", 
-        "sw_latitude": 35.606, 
+        "date_indexed": "2010-12-02T18:03:37Z", 
         "adjacent": [
           "woe:state=2344576", 
           "woe:state=20070295", 
@@ -62,10 +62,26 @@
           "woe:state=2347668"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 37.387, 
+        "latitude": 36.496, 
         "sw_longitude": 66.437, 
         "fullname": "Balkh, Afghanistan", 
-        "date_indexed": "2010-12-02T18:03:37Z"
+        "children": [
+          "woe:county=56000750", 
+          "woe:county=56000749", 
+          "woe:county=56000754", 
+          "woe:county=56000753", 
+          "woe:county=56000745", 
+          "woe:county=56000751", 
+          "woe:county=56000744", 
+          "woe:county=56000748", 
+          "woe:county=56000756", 
+          "woe:county=56000752", 
+          "woe:county=56000746", 
+          "woe:county=56000747", 
+          "woe:county=56000755", 
+          "woe:county=56000743"
+        ], 
+        "sw_latitude": 35.606
       }, 
       "id": 2344575
     }

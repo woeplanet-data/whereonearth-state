@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 22.844, 
         "name": "Crooked Island", 
         "hierarchy": [
           "woe:state=24551238", 
@@ -39,17 +40,23 @@
           "woe:planet=1"
         ], 
         "woeid": 24551238, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -74.006, 
         "longitude": -74.178, 
         "placetype": "state", 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "ne_latitude": 22.844, 
+        "sw_latitude": 22.416, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 22.754, 
         "sw_longitude": -74.383, 
         "fullname": "Crooked Island, The Bahamas", 
-        "sw_latitude": 22.416
+        "children": [
+          "woe:town=56876", 
+          "woe:town=56972", 
+          "woe:island=12481383", 
+          "woe:island=12481493", 
+          "woe:island=12481541"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551238
     }

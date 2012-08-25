@@ -50,10 +50,10 @@
         "woeid": 2347140, 
         "ne_longitude": 100.77, 
         "longitude": 100.377, 
+        "ne_latitude": 16.648, 
         "placetype": "state", 
-        "latitude": 16.28, 
         "iso": "TH", 
-        "sw_latitude": 15.912, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347138", 
           "woe:state=2347143", 
@@ -61,10 +61,24 @@
           "woe:state=2347139"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 16.648, 
+        "latitude": 16.28, 
         "sw_longitude": 99.983, 
         "fullname": "Phichit, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28340959", 
+          "woe:county=28340960", 
+          "woe:county=28340952", 
+          "woe:county=28340951", 
+          "woe:county=28340957", 
+          "woe:county=28340953", 
+          "woe:county=28340955", 
+          "woe:county=28340954", 
+          "woe:county=28340956", 
+          "woe:county=28340961", 
+          "woe:county=28340950", 
+          "woe:county=28340958"
+        ], 
+        "sw_latitude": 15.912
       }, 
       "id": 2347140
     }

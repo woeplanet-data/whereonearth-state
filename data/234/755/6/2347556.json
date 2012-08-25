@@ -42,7 +42,6 @@
           20070496, 
           20070497
         ], 
-        "ne_latitude": 49.097, 
         "name": "Zakarpats\u00b4ka Oblast\u00b4", 
         "alias_ENG_P": [
           "Zakarpattia Oblast"
@@ -52,7 +51,8 @@
           "woe:country=23424976", 
           "woe:planet=1"
         ], 
-        "woeid": 2347556, 
+        "ne_latitude": 49.097, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Zakarpattia"
         ], 
@@ -60,7 +60,7 @@
         "ne_longitude": 24.626, 
         "placetype": "state", 
         "iso": "UA", 
-        "sw_latitude": 47.897, 
+        "date_indexed": "2010-12-02T08:52:18Z", 
         "adjacent": [
           "woe:state=2347539", 
           "woe:state=20070497", 
@@ -71,11 +71,49 @@
           "woe:state=2346645", 
           "woe:state=12577925"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2347556, 
         "latitude": 48.497, 
         "sw_longitude": 22.137, 
         "fullname": "Zakarpats\u00b4ka Oblast\u00b4, Zakarpattia Oblast, Ukraine", 
-        "date_indexed": "2010-12-02T08:52:18Z"
+        "children": [
+          "woe:town=916517", 
+          "woe:town=56122455", 
+          "woe:town=916664", 
+          "woe:town=917893", 
+          "woe:town=918476", 
+          "woe:town=918525", 
+          "woe:town=918584", 
+          "woe:town=919088", 
+          "woe:town=919346", 
+          "woe:town=921038", 
+          "woe:town=921145", 
+          "woe:town=922428", 
+          "woe:town=922691", 
+          "woe:town=922692", 
+          "woe:town=923594", 
+          "woe:town=925444", 
+          "woe:town=925914", 
+          "woe:town=926904", 
+          "woe:town=926934", 
+          "woe:town=930333", 
+          "woe:town=932090", 
+          "woe:town=934574", 
+          "woe:town=935548", 
+          "woe:town=935957", 
+          "woe:town=936625", 
+          "woe:town=936939", 
+          "woe:town=937287", 
+          "woe:town=937289", 
+          "woe:town=937361", 
+          "woe:town=937369", 
+          "woe:town=937422", 
+          "woe:town=937898", 
+          "woe:town=938311", 
+          "woe:town=938647", 
+          "woe:town=938675", 
+          "woe:town=939000"
+        ], 
+        "sw_latitude": 47.897
       }, 
       "id": 2347556
     }

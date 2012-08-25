@@ -797,17 +797,23 @@
         "ne:Shape_Area": 0.043687569649, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "PDY"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IND", 
+        "children": [
+          "woe:county=12586685", 
+          "woe:county=28298876", 
+          "woe:county=12586693", 
+          "woe:county=28298875"
+        ], 
         "ne:ScaleRank": 2, 
         "alias_CHI_Q": [
           "\u672c\u5730\u6cbb\u91cc"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3262, 
         "alias_JPN_Q": [
           "\u30dd\u30f3\u30c7\u30a3\u30c1\u30a7\u30ea"
         ], 
@@ -826,9 +832,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Union Territory", 
         "sw_latitude": 10.809107977651081, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3262, 
+        "ne:VertexCou": 185.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "PY", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Pondicherry|Puduchcheri|Pondich\u00e9ry", 
@@ -844,14 +850,14 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 526.2, 
         "woe:id": "20070459", 
-        "name": "Puducherry", 
-        "ne:VertexCou": 185.0, 
+        "ne:HASC_1": "IN.PY", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2345740, 
           2345747, 
           2345758
         ], 
-        "ne:HASC_1": "IN.PY", 
+        "name": "Puducherry", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 82.30136437336722, 
         "longitude": 79.753, 

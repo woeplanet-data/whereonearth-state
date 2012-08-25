@@ -31,8 +31,8 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_KOR_Q": [
-          "\uc0b0\ud0c0\ud398"
+        "alias_ENG_A": [
+          "SF"
         ], 
         "hierarchy": [
           "woe:state=2344695", 
@@ -41,8 +41,29 @@
         ], 
         "ne_latitude": -27.995, 
         "placetype": "state", 
-        "alias_ENG_A": [
-          "SF"
+        "alias_KOR_Q": [
+          "\uc0b0\ud0c0\ud398"
+        ], 
+        "children": [
+          "woe:county=20070889", 
+          "woe:county=20070929", 
+          "woe:county=20070931", 
+          "woe:county=20070746", 
+          "woe:county=20070926", 
+          "woe:county=20070893", 
+          "woe:county=20070928", 
+          "woe:county=20070835", 
+          "woe:county=20070932", 
+          "woe:county=20070896", 
+          "woe:county=20070895", 
+          "woe:county=20070927", 
+          "woe:county=20070890", 
+          "woe:county=20070892", 
+          "woe:county=20070747", 
+          "woe:county=20070894", 
+          "woe:county=20070930", 
+          "woe:county=20070748", 
+          "woe:county=20070891"
         ], 
         "alias_CHI_Q": [
           "\u5723\u8fbe\u83f2"
@@ -64,7 +85,7 @@
           "Santafe"
         ], 
         "latitude": -31.189, 
-        "sw_latitude": -34.384, 
+        "date_indexed": "2010-12-02T17:40:36Z", 
         "provider": "geoplanet 7.6.0", 
         "lang": "SPA", 
         "adjacent_woeid": [
@@ -79,7 +100,7 @@
         "ne_longitude": -58.871, 
         "longitude": -60.88, 
         "iso": "AR", 
-        "date_indexed": "2010-12-02T17:40:36Z", 
+        "sw_latitude": -34.384, 
         "fullname": "Santa Fe, Argentina"
       }, 
       "id": 2344695

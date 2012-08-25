@@ -47,12 +47,15 @@
           "woe:planet=1"
         ], 
         "woeid": 56055614, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -15.102, 
         "longitude": -15.565, 
+        "children": [
+          "woe:county=56055797"
+        ], 
         "placetype": "state", 
+        "latitude": 12.905, 
         "iso": "SN", 
-        "date_indexed": "2010-12-02T08:57:18Z", 
+        "sw_latitude": 12.424, 
         "adjacent": [
           "woe:state=2346607", 
           "woe:state=2346996", 
@@ -61,14 +64,14 @@
           "woe:state=2345447", 
           "woe:state=2346997"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 13.387, 
-        "latitude": 12.905, 
         "sw_longitude": -16.027, 
         "fullname": "S\u00e9dhiou, Senegal", 
         "alias_FRE_S": [
           "Sedhiou"
         ], 
-        "sw_latitude": 12.424
+        "date_indexed": "2010-12-02T08:57:18Z"
       }, 
       "id": 56055614
     }

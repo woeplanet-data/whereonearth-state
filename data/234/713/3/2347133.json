@@ -53,10 +53,10 @@
         "woeid": 2347133, 
         "ne_longitude": 100.125, 
         "longitude": 99.503, 
+        "ne_latitude": 19.418, 
         "placetype": "state", 
-        "latitude": 18.312, 
         "iso": "TH", 
-        "sw_latitude": 17.207, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347129", 
           "woe:state=2347130", 
@@ -67,10 +67,26 @@
           "woe:state=2347135"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 19.418, 
+        "latitude": 18.312, 
         "sw_longitude": 98.88, 
         "fullname": "Lampang, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28340852", 
+          "woe:county=28340853", 
+          "woe:county=28340845", 
+          "woe:county=28340844", 
+          "woe:county=28340851", 
+          "woe:county=28340849", 
+          "woe:county=28340855", 
+          "woe:county=28340847", 
+          "woe:county=28340848", 
+          "woe:county=28340850", 
+          "woe:county=28340854", 
+          "woe:county=28340846", 
+          "woe:county=28340843", 
+          "woe:landfeature=56057435"
+        ], 
+        "sw_latitude": 17.207
       }, 
       "id": 2347133
     }

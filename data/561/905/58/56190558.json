@@ -21,6 +21,7 @@
           "woe:country=23424874", 
           "woe:planet=1"
         ], 
+        "woeid": 56190558, 
         "placetype": "state", 
         "iso": "LV", 
         "adjacent": [
@@ -34,7 +35,17 @@
           "woe:state=56190561"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190558, 
+        "children": [
+          "woe:county=55844417", 
+          "woe:county=55844575", 
+          "woe:county=55844174", 
+          "woe:county=55844649", 
+          "woe:county=55844271", 
+          "woe:county=55844431", 
+          "woe:county=55844423", 
+          "woe:county=55844185", 
+          "woe:county=55844661"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190558

@@ -39,6 +39,7 @@
           2346487
         ], 
         "name": "Cajamarca", 
+        "ne_latitude": -4.614, 
         "hierarchy": [
           "woe:state=2346473", 
           "woe:country=23424919", 
@@ -48,9 +49,8 @@
         "ne_longitude": -77.75, 
         "longitude": -78.615, 
         "placetype": "state", 
-        "latitude": -6.189, 
         "iso": "PE", 
-        "sw_latitude": -7.765, 
+        "date_indexed": "2010-12-02T16:12:03Z", 
         "adjacent": [
           "woe:state=2346468", 
           "woe:state=2346480", 
@@ -58,10 +58,25 @@
           "woe:state=2346487"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -4.614, 
+        "latitude": -6.189, 
         "sw_longitude": -79.48, 
         "fullname": "Cajamarca, Peru", 
-        "date_indexed": "2010-12-02T16:12:03Z"
+        "children": [
+          "woe:county=26805797", 
+          "woe:county=26805798", 
+          "woe:county=26805816", 
+          "woe:county=26805823", 
+          "woe:county=26805831", 
+          "woe:county=26805836", 
+          "woe:county=26805846", 
+          "woe:county=26805868", 
+          "woe:county=26805926", 
+          "woe:county=26805927", 
+          "woe:county=26805929", 
+          "woe:county=26805930", 
+          "woe:county=26805934"
+        ], 
+        "sw_latitude": -7.765
       }, 
       "id": 2346473
     }

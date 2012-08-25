@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 24549681, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 38.772, 
         "longitude": 37.605, 
         "placetype": "state", 
+        "latitude": 15.203, 
         "iso": "ER", 
-        "date_indexed": "2010-12-02T09:57:22Z", 
+        "sw_latitude": 14.126, 
         "adjacent": [
           "woe:state=20069906", 
           "woe:state=24549684", 
@@ -61,11 +61,29 @@
           "woe:state=24549682", 
           "woe:state=2345312"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 16.281, 
-        "latitude": 15.203, 
         "sw_longitude": 36.439, 
         "fullname": "Gash-Barka, Eritrea", 
-        "sw_latitude": 14.126
+        "children": [
+          "woe:town=1312068", 
+          "woe:town=1312071", 
+          "woe:town=1312152", 
+          "woe:town=1312169", 
+          "woe:town=1312273", 
+          "woe:town=1312274", 
+          "woe:town=1312319", 
+          "woe:town=1312328", 
+          "woe:town=1312333", 
+          "woe:town=1312374", 
+          "woe:town=1312417", 
+          "woe:town=1312418", 
+          "woe:town=1312437", 
+          "woe:town=1312446", 
+          "woe:town=1312551", 
+          "woe:town=1312590"
+        ], 
+        "date_indexed": "2010-12-02T09:57:22Z"
       }, 
       "id": 24549681
     }

@@ -45,23 +45,31 @@
           "woe:planet=1"
         ], 
         "woeid": 56017454, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 29.868, 
         "longitude": 29.682, 
         "placetype": "state", 
+        "latitude": -3.415, 
         "iso": "BI", 
-        "date_indexed": "2010-12-02T08:58:47Z", 
+        "sw_latitude": -3.723, 
         "adjacent": [
           "woe:state=56017453", 
           "woe:state=2344903", 
           "woe:state=2344906", 
           "woe:state=2344901"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -3.307, 
-        "latitude": -3.415, 
         "sw_longitude": 29.56, 
         "fullname": "Mwaro, Burundi", 
-        "sw_latitude": -3.723
+        "children": [
+          "woe:county=56017566", 
+          "woe:county=56017565", 
+          "woe:county=56017564", 
+          "woe:county=56017562", 
+          "woe:county=56017567", 
+          "woe:county=56017563"
+        ], 
+        "date_indexed": "2010-12-02T08:58:47Z"
       }, 
       "id": 56017454
     }

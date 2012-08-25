@@ -44,22 +44,27 @@
           "woe:planet=1"
         ], 
         "woeid": 29389561, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.63, 
         "longitude": 20.377, 
         "placetype": "state", 
+        "latitude": 42.19, 
         "iso": "AL", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 41.822, 
         "adjacent": [
           "woe:state=29389555", 
           "woe:state=29389562", 
           "woe:state=29389563"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 42.559, 
-        "latitude": 42.19, 
         "sw_longitude": 19.811, 
         "fullname": "Kukes, Albania", 
-        "sw_latitude": 41.822
+        "children": [
+          "woe:county=20069930", 
+          "woe:county=20069931", 
+          "woe:county=20069929"
+        ], 
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 29389561
     }

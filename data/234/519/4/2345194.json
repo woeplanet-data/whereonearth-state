@@ -41,21 +41,19 @@
           2345195
         ], 
         "name": "Santiago Rodriguez", 
+        "ne_latitude": 19.577, 
         "hierarchy": [
           "woe:state=2345194", 
           "woe:country=23424800", 
           "woe:planet=1"
         ], 
         "woeid": 2345194, 
-        "alias_SPA_V": [
-          "San Ignacio de Sabaneta"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -71.091, 
         "longitude": -71.325, 
         "placetype": "state", 
-        "latitude": 19.347, 
         "sw_longitude": -71.558, 
-        "sw_latitude": 19.118, 
+        "date_indexed": "2010-12-02T16:32:46Z", 
         "adjacent": [
           "woe:state=2345175", 
           "woe:state=2345181", 
@@ -64,11 +62,16 @@
           "woe:state=2345193", 
           "woe:state=2345195"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 19.577, 
+        "alias_SPA_V": [
+          "San Ignacio de Sabaneta"
+        ], 
+        "latitude": 19.347, 
         "iso": "DO", 
         "fullname": "Santiago Rodriguez, Dominican Republic", 
-        "date_indexed": "2010-12-02T16:32:46Z"
+        "children": [
+          "woe:town=76279"
+        ], 
+        "sw_latitude": 19.118
       }, 
       "id": 2345194
     }

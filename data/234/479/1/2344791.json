@@ -31,24 +31,8 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u8fbe\u5361"
-        ], 
-        "lang": "ENG", 
-        "alias_KOR_Q": [
-          "\ub2e4\uce74"
-        ], 
         "alias_SWE_Q": [
           "Dacca"
-        ], 
-        "adjacent_woeid": [
-          2344790, 
-          2344792, 
-          2344793, 
-          2345741, 
-          2345752, 
-          23706410, 
-          23706411
         ], 
         "hierarchy": [
           "woe:state=2344791", 
@@ -56,14 +40,37 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 25.467, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ub2e4\uce74"
+        ], 
+        "children": [
+          "woe:county=23706470", 
+          "woe:county=23706441", 
+          "woe:county=23706459", 
+          "woe:county=23706451", 
+          "woe:county=23706432", 
+          "woe:county=23706476", 
+          "woe:county=23706465", 
+          "woe:county=23706458", 
+          "woe:county=23706468", 
+          "woe:county=23706434", 
+          "woe:county=23706460", 
+          "woe:county=23706467", 
+          "woe:county=23706447", 
+          "woe:county=23706477", 
+          "woe:county=23706452", 
+          "woe:county=23706433", 
+          "woe:county=23706435"
+        ], 
+        "alias_CHI_Q": [
+          "\u8fbe\u5361"
+        ], 
+        "woeid": 2344791, 
         "alias_JPN_Q": [
           "\u30c0\u30c3\u30ab"
         ], 
-        "ne_longitude": 91.267, 
-        "longitude": 90.454, 
-        "placetype": "state", 
         "sw_longitude": 89.254, 
-        "sw_latitude": 22.798, 
         "adjacent": [
           "woe:state=2345741", 
           "woe:state=23706410", 
@@ -75,11 +82,23 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 24.429, 
-        "iso": "BD", 
-        "fullname": "Dhaka, Bangladesh", 
-        "woeid": 2344791, 
         "date_indexed": "2010-12-02T12:16:27Z", 
-        "name": "Dhaka"
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344790, 
+          2344792, 
+          2344793, 
+          2345741, 
+          2345752, 
+          23706410, 
+          23706411
+        ], 
+        "name": "Dhaka", 
+        "ne_longitude": 91.267, 
+        "longitude": 90.454, 
+        "iso": "BD", 
+        "sw_latitude": 22.798, 
+        "fullname": "Dhaka, Bangladesh"
       }, 
       "id": 2344791
     }

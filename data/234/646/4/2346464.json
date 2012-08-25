@@ -41,24 +41,22 @@
           2346462
         ], 
         "name": "Canindey\u00fa", 
+        "ne_latitude": -23.555, 
         "hierarchy": [
           "woe:state=2346464", 
           "woe:country=23424917", 
           "woe:planet=1"
         ], 
         "woeid": 2346464, 
-        "alias_SPA_V": [
-          "Canendiyu"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -54.259, 
         "longitude": -55.208, 
         "placetype": "state", 
-        "latitude": -24.197, 
         "alias_SPA_S": [
           "Canindeyu"
         ], 
         "sw_longitude": -56.157, 
-        "sw_latitude": -24.839, 
+        "date_indexed": "2010-12-02T12:08:38Z", 
         "adjacent": [
           "woe:state=2346448", 
           "woe:state=2346449", 
@@ -67,11 +65,24 @@
           "woe:state=2344859", 
           "woe:state=2346462"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -23.555, 
+        "alias_SPA_V": [
+          "Canendiyu"
+        ], 
+        "latitude": -24.197, 
         "iso": "PY", 
         "fullname": "Canindey\u00fa, Paraguay", 
-        "date_indexed": "2010-12-02T12:08:38Z"
+        "children": [
+          "woe:county=26810799", 
+          "woe:county=26810841", 
+          "woe:county=26810842", 
+          "woe:county=26810750", 
+          "woe:county=28358320", 
+          "woe:county=28358319", 
+          "woe:county=26810749", 
+          "woe:county=26810873", 
+          "woe:county=26810800"
+        ], 
+        "sw_latitude": -24.839
       }, 
       "id": 2346464
     }

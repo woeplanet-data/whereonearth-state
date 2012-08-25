@@ -39,6 +39,7 @@
           2346413
         ], 
         "name": "Wanica", 
+        "ne_latitude": 5.827, 
         "hierarchy": [
           "woe:state=2346415", 
           "woe:country=23424913", 
@@ -48,9 +49,8 @@
         "ne_longitude": -55.073, 
         "longitude": -55.216, 
         "placetype": "state", 
-        "latitude": 5.742, 
         "iso": "SR", 
-        "sw_latitude": 5.657, 
+        "date_indexed": "2010-12-02T12:16:16Z", 
         "adjacent": [
           "woe:state=2346407", 
           "woe:state=2346411", 
@@ -58,10 +58,14 @@
           "woe:state=2346413"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 5.827, 
+        "latitude": 5.742, 
         "sw_longitude": -55.358, 
         "fullname": "Wanica, Suriname", 
-        "date_indexed": "2010-12-02T12:16:16Z"
+        "children": [
+          "woe:town=376952", 
+          "woe:town=377045"
+        ], 
+        "sw_latitude": 5.657
       }, 
       "id": 2346415
     }

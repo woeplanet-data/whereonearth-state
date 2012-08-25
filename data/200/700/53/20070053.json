@@ -49,20 +49,29 @@
         "woeid": 20070053, 
         "ne_longitude": 25.955, 
         "longitude": 25.478, 
+        "ne_latitude": 41.903, 
         "placetype": "state", 
-        "latitude": 41.569, 
         "iso": "BG", 
-        "sw_latitude": 41.236, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=20070073", 
           "woe:state=20070068", 
           "woe:state=20070067"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.903, 
+        "latitude": 41.569, 
         "sw_longitude": 25.0, 
         "fullname": "Kurdzhali, Bulgaria", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:county=55873756", 
+          "woe:county=55873799", 
+          "woe:county=55873873", 
+          "woe:county=55873737", 
+          "woe:county=55873811", 
+          "woe:county=55873762", 
+          "woe:county=55873949"
+        ], 
+        "sw_latitude": 41.236
       }, 
       "id": 20070053
     }

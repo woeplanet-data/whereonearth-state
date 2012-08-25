@@ -36,6 +36,7 @@
           2345996
         ], 
         "name": "Astana", 
+        "ne_latitude": 51.232, 
         "hierarchy": [
           "woe:state=20070181", 
           "woe:country=23424871", 
@@ -45,17 +46,19 @@
         "ne_longitude": 71.497, 
         "longitude": 71.424, 
         "placetype": "state", 
-        "latitude": 51.191, 
         "iso": "KZ", 
-        "sw_latitude": 51.15, 
+        "date_indexed": "2010-12-02T08:54:03Z", 
         "adjacent": [
           "woe:state=2345996"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 51.232, 
+        "latitude": 51.191, 
         "sw_longitude": 71.351, 
         "fullname": "Astana, Kazakhstan", 
-        "date_indexed": "2010-12-02T08:54:03Z"
+        "children": [
+          "woe:town=2264962"
+        ], 
+        "sw_latitude": 51.15
       }, 
       "id": 20070181
     }

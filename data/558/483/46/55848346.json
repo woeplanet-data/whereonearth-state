@@ -45,23 +45,30 @@
           "woe:planet=1"
         ], 
         "woeid": 55848346, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.903, 
         "longitude": 14.708, 
         "placetype": "state", 
+        "latitude": 46.151, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 46.094, 
         "adjacent": [
           "woe:state=55848355", 
           "woe:state=55848363", 
           "woe:state=55848364", 
           "woe:state=55848397"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.208, 
-        "latitude": 46.151, 
         "sw_longitude": 14.513, 
         "fullname": "Domzale, Slovenia", 
-        "sw_latitude": 46.094
+        "children": [
+          "woe:county=12591530", 
+          "woe:county=12591575", 
+          "woe:county=12591579", 
+          "woe:county=12591584", 
+          "woe:county=55848332"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848346
     }

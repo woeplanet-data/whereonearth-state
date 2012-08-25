@@ -47,6 +47,13 @@
         ], 
         "ne_latitude": 60.762, 
         "placetype": "state", 
+        "children": [
+          "woe:county=56120869", 
+          "woe:county=56120876", 
+          "woe:historicalcounty=12591004", 
+          "woe:historicalcounty=12591013", 
+          "woe:historicalcounty=12591019"
+        ], 
         "woeid": 29389251, 
         "alias_ENG_P": [
           "Eastern Uusimaa"
@@ -60,7 +67,7 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 60.5, 
-        "date_indexed": "2010-12-02T16:39:41Z", 
+        "sw_latitude": 60.121, 
         "adjacent": [
           "woe:state=29389254", 
           "woe:state=29389255", 
@@ -76,7 +83,7 @@
         "ne_longitude": 26.753, 
         "longitude": 25.928, 
         "iso": "FI", 
-        "sw_latitude": 60.121, 
+        "date_indexed": "2010-12-02T16:39:41Z", 
         "fullname": "It\u00e4-Uudenmaan maakunta, Southern Finland, Eastern Uusimaa, Finland"
       }, 
       "id": 29389251

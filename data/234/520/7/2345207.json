@@ -634,16 +634,28 @@
         "ne:Shape_Area": 0.467702577401, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 12, 
         "alias_KOR_Q": [
           "\uce68\ubcf4\ub77c\uc18c"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ECU", 
+        "children": [
+          "woe:county=26809487", 
+          "woe:county=26809518", 
+          "woe:county=26809524", 
+          "woe:county=26809527", 
+          "woe:county=26809531", 
+          "woe:county=26809558", 
+          "woe:county=26809559", 
+          "woe:county=26809613", 
+          "woe:county=26809624", 
+          "woe:county=26809647"
+        ], 
         "alias_CHI_Q": [
           "\u94a6\u535a\u62c9\u7d22\u5c71"
         ], 
-        "ne:DataRank": 7, 
+        "ne:OBJECTID": 1284, 
         "alias_JPN_Q": [
           "\u30c1\u30f3\u30dc\u30e9\u30bd"
         ], 
@@ -665,9 +677,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -2.400369968099483, 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 12, 
-        "ne:OBJECTID": 1284, 
+        "ne:VertexCou": 152.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 7, 
         "ne:Postal": "CB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -683,8 +695,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 5753.7, 
         "woe:id": "2345207", 
-        "name": "Chimborazo", 
-        "ne:VertexCou": 152.0, 
+        "ne:HASC_1": "EC.CB", 
+        "lang": "SPA", 
         "adjacent_woeid": [
           2345203, 
           2345204, 
@@ -693,7 +705,7 @@
           2345216, 
           2345220
         ], 
-        "ne:HASC_1": "EC.CB", 
+        "name": "Chimborazo", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -78.35337724456417, 
         "longitude": -78.801, 

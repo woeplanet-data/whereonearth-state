@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55848386, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.395, 
         "longitude": 14.19, 
         "placetype": "state", 
+        "latitude": 46.143, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 46.003, 
         "adjacent": [
           "woe:state=55848351", 
           "woe:state=55848358", 
@@ -61,11 +61,17 @@
           "woe:state=55848379", 
           "woe:state=55848391"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.283, 
-        "latitude": 46.143, 
         "sw_longitude": 13.986, 
         "fullname": "Skofja Loka, Slovenia", 
-        "sw_latitude": 46.003
+        "children": [
+          "woe:county=12591534", 
+          "woe:county=12591629", 
+          "woe:county=12591653", 
+          "woe:county=12591654"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848386
     }

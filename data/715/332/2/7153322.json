@@ -2456,7 +2456,7 @@
         "ne:Shape_Area": 2.88005051654, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_POR_Q": [
           "Lorena"
         ], 
@@ -2465,6 +2465,12 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "FRA", 
+        "children": [
+          "woe:county=12597176", 
+          "woe:county=12597167", 
+          "woe:county=12597171", 
+          "woe:county=12597174"
+        ], 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u6d1b\u6797"
@@ -2473,7 +2479,7 @@
         "alias_ITA_Q": [
           "Lorena"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2687, 
         "alias_JPN_Q": [
           "\u30ed\u30ec\u30fc\u30cc"
         ], 
@@ -2502,9 +2508,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2687, 
+        "ne:VertexCou": 579.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lorena", 
@@ -2525,8 +2531,8 @@
           "Lothringen"
         ], 
         "woe:id": "7153322", 
-        "name": "Lorraine", 
-        "ne:VertexCou": 579.0, 
+        "ne:HASC_1": null, 
+        "lang": "FRE", 
         "adjacent_woeid": [
           2345488, 
           2345489, 
@@ -2537,7 +2543,7 @@
           20070559, 
           20070560
         ], 
-        "ne:HASC_1": null, 
+        "name": "Lorraine", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne_longitude": 7.645146111703752, 

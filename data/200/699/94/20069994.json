@@ -36,6 +36,7 @@
           20069995
         ], 
         "name": "Niamey", 
+        "ne_latitude": 13.637, 
         "hierarchy": [
           "woe:state=20069994", 
           "woe:country=23424906", 
@@ -45,17 +46,19 @@
         "ne_longitude": 2.257, 
         "longitude": 2.118, 
         "placetype": "state", 
-        "latitude": 13.533, 
         "iso": "NE", 
-        "sw_latitude": 13.429, 
+        "date_indexed": "2010-12-02T17:43:23Z", 
         "adjacent": [
           "woe:state=20069995"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.637, 
+        "latitude": 13.533, 
         "sw_longitude": 1.98, 
         "fullname": "Niamey, Niger", 
-        "date_indexed": "2010-12-02T17:43:23Z"
+        "children": [
+          "woe:county=56055506"
+        ], 
+        "sw_latitude": 13.429
       }, 
       "id": 20069994
     }

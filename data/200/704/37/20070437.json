@@ -41,6 +41,7 @@
           56190215
         ], 
         "name": "Mubende", 
+        "ne_latitude": 0.87, 
         "hierarchy": [
           "woe:state=20070437", 
           "woe:country=23424974", 
@@ -50,9 +51,8 @@
         "ne_longitude": 32.266, 
         "longitude": 32.234, 
         "placetype": "state", 
-        "latitude": 0.342, 
         "iso": "UG", 
-        "sw_latitude": 0.164, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=20070425", 
           "woe:state=20070426", 
@@ -62,10 +62,14 @@
           "woe:state=20070450"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 0.87, 
+        "latitude": 0.342, 
         "sw_longitude": 31.031, 
         "fullname": "Mubende, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190310", 
+          "woe:county=56190311"
+        ], 
+        "sw_latitude": 0.164
       }, 
       "id": 20070437
     }

@@ -42,6 +42,7 @@
           2346430
         ], 
         "name": "Rivas", 
+        "ne_latitude": 11.902, 
         "hierarchy": [
           "woe:state=2346431", 
           "woe:country=23424915", 
@@ -51,9 +52,8 @@
         "ne_longitude": -85.146, 
         "longitude": -85.66, 
         "placetype": "state", 
-        "latitude": 11.472, 
         "iso": "NI", 
-        "sw_latitude": 11.042, 
+        "date_indexed": "2010-12-02T18:19:07Z", 
         "adjacent": [
           "woe:state=2345082", 
           "woe:state=2346417", 
@@ -64,10 +64,22 @@
           "woe:state=2346430"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 11.902, 
+        "latitude": 11.472, 
         "sw_longitude": -86.174, 
         "fullname": "Rivas, Nicaragua", 
-        "date_indexed": "2010-12-02T18:19:07Z"
+        "children": [
+          "woe:county=26813413", 
+          "woe:county=26813409", 
+          "woe:county=26813411", 
+          "woe:county=26813417", 
+          "woe:county=26813412", 
+          "woe:county=26813410", 
+          "woe:county=26813415", 
+          "woe:county=26813414", 
+          "woe:county=26813416", 
+          "woe:county=26813408"
+        ], 
+        "sw_latitude": 11.042
       }, 
       "id": 2346431
     }

@@ -39,6 +39,7 @@
           2347300
         ], 
         "name": "Osmaniye", 
+        "ne_latitude": 37.719, 
         "hierarchy": [
           "woe:state=20070184", 
           "woe:country=23424969", 
@@ -48,9 +49,8 @@
         "ne_longitude": 36.699, 
         "longitude": 36.289, 
         "placetype": "state", 
-        "latitude": 37.314, 
         "iso": "TR", 
-        "sw_latitude": 36.909, 
+        "date_indexed": "2010-12-02T16:22:51Z", 
         "adjacent": [
           "woe:state=2347258", 
           "woe:state=2347284", 
@@ -58,10 +58,19 @@
           "woe:state=2347300"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 37.719, 
+        "latitude": 37.314, 
         "sw_longitude": 35.88, 
         "fullname": "Osmaniye, Turkey", 
-        "date_indexed": "2010-12-02T16:22:51Z"
+        "children": [
+          "woe:county=29390119", 
+          "woe:county=29390289", 
+          "woe:county=29390409", 
+          "woe:county=29390439", 
+          "woe:county=29390576", 
+          "woe:county=29390165", 
+          "woe:county=29390819"
+        ], 
+        "sw_latitude": 36.909
       }, 
       "id": 20070184
     }

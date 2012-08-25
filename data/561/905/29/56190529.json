@@ -13,14 +13,15 @@
           56190563
         ], 
         "name": "Vies\u013ctes Novads", 
-        "alias_UNK_S": [
-          "Viesltes Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190529", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190529, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Viesltes Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -31,7 +32,13 @@
           "woe:state=56190521"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190529, 
+        "children": [
+          "woe:county=55844691", 
+          "woe:county=55844412", 
+          "woe:county=55844492", 
+          "woe:county=55844434", 
+          "woe:county=55844596"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190529

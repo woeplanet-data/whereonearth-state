@@ -52,10 +52,10 @@
         "woeid": 2347136, 
         "ne_longitude": 100.112, 
         "longitude": 99.711, 
+        "ne_latitude": 17.821, 
         "placetype": "state", 
-        "latitude": 17.267, 
         "iso": "TH", 
-        "sw_latitude": 16.713, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347138", 
           "woe:state=2347133", 
@@ -65,10 +65,23 @@
           "woe:state=2347137"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 17.821, 
+        "latitude": 17.267, 
         "sw_longitude": 99.31, 
         "fullname": "Sukhothai, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28340918", 
+          "woe:county=28340916", 
+          "woe:county=28340913", 
+          "woe:county=28340919", 
+          "woe:county=28340917", 
+          "woe:county=28340914", 
+          "woe:county=28340920", 
+          "woe:county=28340912", 
+          "woe:county=28340915", 
+          "woe:landfeature=56057415", 
+          "woe:landfeature=56057425"
+        ], 
+        "sw_latitude": 16.713
       }, 
       "id": 2347136
     }

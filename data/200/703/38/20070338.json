@@ -37,6 +37,7 @@
           20070344
         ], 
         "name": "Fa`asaleleaga", 
+        "ne_latitude": -13.543, 
         "hierarchy": [
           "woe:state=20070338", 
           "woe:country=23424992", 
@@ -46,18 +47,21 @@
         "ne_longitude": -172.1, 
         "longitude": -172.25, 
         "placetype": "state", 
-        "latitude": -13.664, 
         "iso": "WS", 
-        "sw_latitude": -13.785, 
+        "date_indexed": "2010-12-02T16:50:25Z", 
         "adjacent": [
           "woe:state=20070344", 
           "woe:state=20070343"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -13.543, 
+        "latitude": -13.664, 
         "sw_longitude": -172.335, 
         "fullname": "Fa`asaleleaga, Samoa", 
-        "date_indexed": "2010-12-02T16:50:25Z"
+        "children": [
+          "woe:town=980723", 
+          "woe:town=980857"
+        ], 
+        "sw_latitude": -13.785
       }, 
       "id": 20070338
     }

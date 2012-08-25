@@ -41,6 +41,7 @@
           56190198
         ], 
         "name": "Kumi", 
+        "ne_latitude": 1.679, 
         "hierarchy": [
           "woe:state=20070430", 
           "woe:country=23424974", 
@@ -50,9 +51,8 @@
         "ne_longitude": 34.275, 
         "longitude": 33.915, 
         "placetype": "state", 
-        "latitude": 1.417, 
         "iso": "UG", 
-        "sw_latitude": 1.156, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=56190197", 
           "woe:state=56190198", 
@@ -62,10 +62,14 @@
           "woe:state=20070447"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 1.679, 
+        "latitude": 1.417, 
         "sw_longitude": 33.556, 
         "fullname": "Kumi, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190290", 
+          "woe:county=56190291"
+        ], 
+        "sw_latitude": 1.156
       }, 
       "id": 20070430
     }

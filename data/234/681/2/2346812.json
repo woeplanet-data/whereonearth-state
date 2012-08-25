@@ -39,32 +39,39 @@
           2346861
         ], 
         "name": "Toa Baja", 
+        "ne_latitude": 18.477, 
         "hierarchy": [
           "woe:state=2346812", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346812, 
-        "alias_SPA_V": [
-          "Toa Baja Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.134, 
         "longitude": -66.199, 
         "placetype": "state", 
-        "latitude": 18.433, 
         "sw_longitude": -66.264, 
-        "sw_latitude": 18.389, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346859", 
           "woe:state=2346813", 
           "woe:state=2346861", 
           "woe:state=2346807"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.477, 
+        "alias_SPA_V": [
+          "Toa Baja Municipios"
+        ], 
+        "latitude": 18.433, 
         "iso": "PR", 
         "fullname": "Toa Baja, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806761", 
+          "woe:county=26806762", 
+          "woe:county=26806763", 
+          "woe:county=26806764", 
+          "woe:county=26806765"
+        ], 
+        "sw_latitude": 18.389
       }, 
       "id": 2346812
     }

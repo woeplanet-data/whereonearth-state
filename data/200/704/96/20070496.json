@@ -31,33 +31,36 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "UNK", 
-        "adjacent_woeid": [
-          2347556, 
-          12577940, 
-          12577943, 
-          20070494, 
-          20070495, 
-          20070497
-        ], 
-        "name": "Presovsky", 
         "hierarchy": [
           "woe:state=20070496", 
           "woe:country=23424877", 
           "woe:planet=1"
         ], 
         "ne_latitude": 49.461, 
-        "ne_longitude": 22.566, 
-        "longitude": 21.217, 
         "alias_UNK_V": [
           "Presovsky Kraj"
         ], 
         "placetype": "state", 
+        "children": [
+          "woe:county=29399292", 
+          "woe:county=29399300", 
+          "woe:county=29399297", 
+          "woe:county=29399309", 
+          "woe:county=29399294", 
+          "woe:county=29399351", 
+          "woe:county=29399350", 
+          "woe:county=29399304", 
+          "woe:county=29399303", 
+          "woe:county=29399296", 
+          "woe:county=29399295", 
+          "woe:county=29399290", 
+          "woe:county=29399307"
+        ], 
+        "woeid": 20070496, 
         "alias_FIN_Q": [
           "Pre\u0161ovsk\u00fd"
         ], 
         "sw_longitude": 19.869, 
-        "sw_latitude": 48.763, 
         "adjacent": [
           "woe:state=20070495", 
           "woe:state=20070497", 
@@ -68,16 +71,28 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.112, 
-        "iso": "SK", 
-        "fullname": "Presovsky, Slovakia", 
         "alias_NOR_Q": [
           "Presov"
         ], 
+        "date_indexed": "2010-12-02T08:50:01Z", 
         "alias_GER_Q": [
           "Preschau"
         ], 
-        "woeid": 20070496, 
-        "date_indexed": "2010-12-02T08:50:01Z"
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          2347556, 
+          12577940, 
+          12577943, 
+          20070494, 
+          20070495, 
+          20070497
+        ], 
+        "name": "Presovsky", 
+        "ne_longitude": 22.566, 
+        "longitude": 21.217, 
+        "iso": "SK", 
+        "sw_latitude": 48.763, 
+        "fullname": "Presovsky, Slovakia"
       }, 
       "id": 20070496
     }

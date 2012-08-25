@@ -17,13 +17,19 @@
           "woe:country=23424802", 
           "woe:planet=1"
         ], 
+        "woeid": 56120896, 
         "placetype": "state", 
         "iso": "EG", 
         "adjacent": [
           "woe:state=2345245"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56120896, 
+        "children": [
+          "woe:town=1521975", 
+          "woe:town=1525012", 
+          "woe:airport=12512697", 
+          "woe:poi=28737143"
+        ], 
         "date_indexed": "2010-12-02T12:16:45Z"
       }, 
       "id": 56120896

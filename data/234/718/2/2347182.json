@@ -50,10 +50,10 @@
         "woeid": 2347182, 
         "ne_longitude": 99.539, 
         "longitude": 99.073, 
+        "ne_latitude": 11.034, 
         "placetype": "state", 
-        "latitude": 10.317, 
         "iso": "TH", 
-        "sw_latitude": 9.601, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347181", 
           "woe:state=2347183", 
@@ -61,10 +61,21 @@
           "woe:state=2344821"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 11.034, 
+        "latitude": 10.317, 
         "sw_longitude": 98.627, 
         "fullname": "Chumphon, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341578", 
+          "woe:county=28341582", 
+          "woe:county=28341581", 
+          "woe:county=28341579", 
+          "woe:county=28341583", 
+          "woe:county=28341577", 
+          "woe:county=28341576", 
+          "woe:county=28341580", 
+          "woe:landfeature=56057380"
+        ], 
+        "sw_latitude": 9.601
       }, 
       "id": 2347182
     }

@@ -51,10 +51,10 @@
         "woeid": 2344884, 
         "ne_longitude": 92.115, 
         "longitude": 91.868, 
+        "ne_latitude": 27.163, 
         "placetype": "state", 
-        "latitude": 26.967, 
         "iso": "BT", 
-        "sw_latitude": 26.77, 
+        "date_indexed": "2010-12-02T17:56:39Z", 
         "adjacent": [
           "woe:state=2345763", 
           "woe:state=2345741", 
@@ -63,10 +63,23 @@
           "woe:state=2344886"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 27.163, 
+        "latitude": 26.967, 
         "sw_longitude": 91.098, 
         "fullname": "Samdrup, Bhutan", 
-        "date_indexed": "2010-12-02T17:56:39Z"
+        "children": [
+          "woe:county=55998197", 
+          "woe:county=55998196", 
+          "woe:county=55998205", 
+          "woe:county=55998202", 
+          "woe:county=55998204", 
+          "woe:county=55998200", 
+          "woe:county=55998198", 
+          "woe:county=55998203", 
+          "woe:county=55998206", 
+          "woe:county=55998201", 
+          "woe:county=55998199"
+        ], 
+        "sw_latitude": 26.77
       }, 
       "id": 2344884
     }

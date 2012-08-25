@@ -31,47 +31,117 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u5317\u7aef"
-        ], 
-        "lang": "FRE", 
-        "alias_KOR_Q": [
-          "\uc775\uc2a4\ud2b8\ub9bc\ub178\ub4dc"
-        ], 
-        "adjacent_woeid": [
-          2345041, 
-          2346355, 
-          2346363
-        ], 
         "hierarchy": [
           "woe:state=2345040", 
           "woe:country=23424785", 
           "woe:planet=1"
         ], 
         "ne_latitude": 13.078, 
-        "ne_longitude": 15.684, 
-        "longitude": 14.848, 
-        "alias_FRE_A": [
-          "EN"
-        ], 
         "placetype": "state", 
-        "latitude": 11.501, 
+        "alias_KOR_Q": [
+          "\uc775\uc2a4\ud2b8\ub9bc\ub178\ub4dc"
+        ], 
+        "children": [
+          "woe:town=1299665", 
+          "woe:town=56122419", 
+          "woe:town=1300224", 
+          "woe:town=1478132", 
+          "woe:town=1300437", 
+          "woe:town=1300529", 
+          "woe:town=1478153", 
+          "woe:town=1478155", 
+          "woe:town=1300737", 
+          "woe:town=1300823", 
+          "woe:town=1300855", 
+          "woe:town=1300861", 
+          "woe:town=1300952", 
+          "woe:town=1301396", 
+          "woe:town=1301438", 
+          "woe:town=1301534", 
+          "woe:town=1301581", 
+          "woe:town=1301668", 
+          "woe:town=1301735", 
+          "woe:town=1301745", 
+          "woe:town=1301748", 
+          "woe:town=1301754", 
+          "woe:town=1301733", 
+          "woe:town=1301564", 
+          "woe:town=1301782", 
+          "woe:town=1301785", 
+          "woe:town=1301788", 
+          "woe:town=1301789", 
+          "woe:town=1301914", 
+          "woe:town=1301994", 
+          "woe:town=1478399", 
+          "woe:town=1302108", 
+          "woe:town=1302288", 
+          "woe:town=1302296", 
+          "woe:town=1302333", 
+          "woe:town=1302476", 
+          "woe:town=1302597", 
+          "woe:town=1302605", 
+          "woe:town=1302641", 
+          "woe:town=1302778", 
+          "woe:town=1302869", 
+          "woe:town=1303522", 
+          "woe:town=1303610", 
+          "woe:town=1303622", 
+          "woe:town=1303671", 
+          "woe:town=1303711", 
+          "woe:town=1303734", 
+          "woe:town=1303741", 
+          "woe:town=1303380", 
+          "woe:town=1303934", 
+          "woe:town=1305236", 
+          "woe:town=1305185", 
+          "woe:town=1305263", 
+          "woe:town=1479154", 
+          "woe:town=1305315", 
+          "woe:town=1305583", 
+          "woe:town=1305584", 
+          "woe:town=1305587", 
+          "woe:town=1305593", 
+          "woe:town=1305656", 
+          "woe:town=1305708", 
+          "woe:town=1479226", 
+          "woe:town=1305808", 
+          "woe:town=1305820", 
+          "woe:town=1479227", 
+          "woe:town=56122418", 
+          "woe:town=1305964", 
+          "woe:town=1305966"
+        ], 
+        "alias_CHI_Q": [
+          "\u5317\u7aef"
+        ], 
+        "woeid": 2345040, 
         "sw_longitude": 13.38, 
-        "sw_latitude": 9.924, 
         "adjacent": [
           "woe:state=2346363", 
           "woe:state=2346355", 
           "woe:state=2345041"
         ], 
         "provider": "geoplanet 7.6.0", 
+        "latitude": 11.501, 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          2345041, 
+          2346355, 
+          2346363
+        ], 
+        "name": "Extreme-Nord", 
+        "ne_longitude": 15.684, 
+        "longitude": 14.848, 
+        "alias_FRE_A": [
+          "EN"
+        ], 
+        "iso": "CM", 
+        "sw_latitude": 9.924, 
         "alias_FRE_V": [
           "Extr\u00eame Nord"
         ], 
-        "iso": "CM", 
-        "fullname": "Extreme-Nord, Cameroon", 
-        "woeid": 2345040, 
-        "date_indexed": "2010-12-02T10:22:30Z", 
-        "name": "Extreme-Nord"
+        "fullname": "Extreme-Nord, Cameroon"
       }, 
       "id": 2345040
     }

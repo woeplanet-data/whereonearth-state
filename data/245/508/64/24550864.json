@@ -39,6 +39,7 @@
           24550795, 
           24550858
         ], 
+        "ne_latitude": 41.672, 
         "name": "Zajas", 
         "alias_ENG_P": [
           "Zajas Municipality"
@@ -55,9 +56,8 @@
         "longitude": 20.883, 
         "ne_longitude": 21.003, 
         "placetype": "state", 
-        "latitude": 41.597, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.532, 
         "adjacent": [
           "woe:state=24550764", 
           "woe:state=24550767", 
@@ -66,10 +66,14 @@
           "woe:state=24550795"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.672, 
+        "latitude": 41.597, 
         "sw_longitude": 20.748, 
         "fullname": "Zajas, Zajas Municipality, Macedonia", 
-        "sw_latitude": 41.532
+        "children": [
+          "woe:town=55856835", 
+          "woe:town=483252"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550864
     }

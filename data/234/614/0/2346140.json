@@ -44,6 +44,7 @@
           2346145
         ], 
         "name": "Gharyan", 
+        "ne_latitude": 32.362, 
         "hierarchy": [
           "woe:state=2346140", 
           "woe:country=23424882", 
@@ -53,9 +54,8 @@
         "ne_longitude": 15.002, 
         "longitude": 13.247, 
         "placetype": "state", 
-        "latitude": 30.413, 
         "iso": "LY", 
-        "sw_latitude": 28.465, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=2346121", 
           "woe:state=2346122", 
@@ -68,10 +68,21 @@
           "woe:state=2346145"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 32.362, 
+        "latitude": 30.413, 
         "sw_longitude": 11.491, 
         "fullname": "Gharyan, Libya", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1352538", 
+          "woe:town=1352672", 
+          "woe:town=1352673", 
+          "woe:town=1352852", 
+          "woe:town=1352862", 
+          "woe:town=1352908", 
+          "woe:town=1352998", 
+          "woe:town=1353263", 
+          "woe:town=1353323"
+        ], 
+        "sw_latitude": 28.465
       }, 
       "id": 2346140
     }

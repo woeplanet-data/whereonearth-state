@@ -53,10 +53,10 @@
         "woeid": 2347177, 
         "ne_longitude": 100.337, 
         "longitude": 100.083, 
+        "ne_latitude": 14.212, 
         "placetype": "state", 
-        "latitude": 13.93, 
         "iso": "TH", 
-        "sw_latitude": 13.648, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347165", 
           "woe:state=2347174", 
@@ -67,10 +67,19 @@
           "woe:state=2347175"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.212, 
+        "latitude": 13.93, 
         "sw_longitude": 99.83, 
         "fullname": "Nathon Pathon, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341539", 
+          "woe:county=28341541", 
+          "woe:county=28341537", 
+          "woe:county=28341543", 
+          "woe:county=28341538", 
+          "woe:county=28341542", 
+          "woe:county=28341540"
+        ], 
+        "sw_latitude": 13.648
       }, 
       "id": 2347177
     }

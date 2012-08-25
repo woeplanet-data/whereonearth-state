@@ -11,14 +11,15 @@
           55844357
         ], 
         "name": "Akn\u013cstes Novads", 
-        "alias_UNK_S": [
-          "Aknlstes Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190531", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190531, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Aknlstes Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -27,7 +28,12 @@
           "woe:state=56190529"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190531, 
+        "children": [
+          "woe:county=55844677", 
+          "woe:county=55844273", 
+          "woe:county=55844196", 
+          "woe:county=55844292"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190531

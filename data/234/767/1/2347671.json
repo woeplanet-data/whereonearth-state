@@ -39,6 +39,7 @@
           2347675
         ], 
         "name": "Charlotte", 
+        "ne_latitude": 13.378, 
         "hierarchy": [
           "woe:state=2347671", 
           "woe:country=23424981", 
@@ -48,9 +49,8 @@
         "ne_longitude": -61.114, 
         "longitude": -61.16, 
         "placetype": "state", 
-        "latitude": 13.269, 
         "iso": "VC", 
-        "sw_latitude": 13.161, 
+        "date_indexed": "2010-12-02T09:57:17Z", 
         "adjacent": [
           "woe:state=2347672", 
           "woe:state=2347673", 
@@ -58,10 +58,14 @@
           "woe:state=2347675"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.378, 
+        "latitude": 13.269, 
         "sw_longitude": -61.207, 
         "fullname": "Charlotte, Saint Vincent and the Grenadines", 
-        "date_indexed": "2010-12-02T09:57:17Z"
+        "children": [
+          "woe:town=56122770", 
+          "woe:town=329560"
+        ], 
+        "sw_latitude": 13.161
       }, 
       "id": 2347671
     }

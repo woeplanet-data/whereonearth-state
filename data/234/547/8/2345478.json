@@ -48,19 +48,31 @@
         "woeid": 2345478, 
         "ne_longitude": -61.376, 
         "longitude": -61.644, 
+        "ne_latitude": 12.541, 
         "placetype": "state", 
-        "latitude": 12.199, 
         "iso": "GD", 
-        "sw_latitude": 12.166, 
+        "date_indexed": "2010-12-02T17:52:39Z", 
         "adjacent": [
           "woe:state=2345473", 
           "woe:state=2345477"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 12.541, 
+        "latitude": 12.199, 
         "sw_longitude": -61.689, 
         "fullname": "Saint Patrick, Grenada", 
-        "date_indexed": "2010-12-02T17:52:39Z"
+        "children": [
+          "woe:town=80212", 
+          "woe:town=80328", 
+          "woe:town=80347", 
+          "woe:town=80428", 
+          "woe:island=12484060", 
+          "woe:island=12484088", 
+          "woe:island=12484064", 
+          "woe:island=12485739", 
+          "woe:island=12484089", 
+          "woe:island=12484078"
+        ], 
+        "sw_latitude": 12.166
       }, 
       "id": 2345478
     }

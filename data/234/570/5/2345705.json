@@ -41,6 +41,7 @@
           20070103
         ], 
         "name": "Sudur-Tingeyjarsysla", 
+        "ne_latitude": 67.117, 
         "hierarchy": [
           "woe:state=2345705", 
           "woe:country=23424845", 
@@ -49,10 +50,26 @@
         "woeid": 2345705, 
         "ne_longitude": -16.001, 
         "longitude": -17.167, 
+        "children": [
+          "woe:town=980084", 
+          "woe:town=980125", 
+          "woe:town=980154", 
+          "woe:town=980177", 
+          "woe:town=980315", 
+          "woe:town=980318", 
+          "woe:town=980322", 
+          "woe:town=980386", 
+          "woe:town=28752661", 
+          "woe:town=980499", 
+          "woe:island=12475927", 
+          "woe:island=12475940", 
+          "woe:island=12476109", 
+          "woe:landfeature=55863647", 
+          "woe:drainage=55863646"
+        ], 
         "placetype": "state", 
-        "latitude": 65.413, 
         "iso": "IS", 
-        "sw_latitude": 64.62, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345690", 
           "woe:state=2345693", 
@@ -62,13 +79,13 @@
           "woe:state=2345709"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 67.117, 
+        "latitude": 65.413, 
         "sw_longitude": -18.601, 
         "fullname": "Sudur-Tingeyjarsysla, Iceland", 
         "alias_UNK_A": [
           "S-THING"
         ], 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "sw_latitude": 64.62
       }, 
       "id": 2345705
     }

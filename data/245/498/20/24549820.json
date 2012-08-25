@@ -44,22 +44,25 @@
           "woe:planet=1"
         ], 
         "woeid": 24549820, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 134.581, 
         "longitude": 134.559, 
         "placetype": "state", 
+        "latitude": 7.439, 
         "iso": "PW", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 7.413, 
         "adjacent": [
           "woe:state=24549821", 
           "woe:state=24549827", 
           "woe:state=24549817"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 7.494, 
-        "latitude": 7.439, 
         "sw_longitude": 134.522, 
         "fullname": "Ngatpang, Palau", 
-        "sw_latitude": 7.413
+        "children": [
+          "woe:town=55922607"
+        ], 
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 24549820
     }

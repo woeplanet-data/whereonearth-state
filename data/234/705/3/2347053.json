@@ -980,28 +980,74 @@
         "ne:Shape_Area": 5.01317540009, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "alias_POR_Q": [
           "Dalarne"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "SWE", 
-        "alias_SPA_Q": [
-          "Dalarna"
+        "children": [
+          "woe:county=12587287", 
+          "woe:county=12587288", 
+          "woe:county=12587289", 
+          "woe:county=12587290", 
+          "woe:county=12587291", 
+          "woe:county=12587292", 
+          "woe:county=12587293", 
+          "woe:county=12587294", 
+          "woe:county=12587295", 
+          "woe:county=12587296", 
+          "woe:county=12587297", 
+          "woe:county=12587299", 
+          "woe:county=12587298", 
+          "woe:county=12587300", 
+          "woe:county=12587286", 
+          "woe:landfeature=29368639", 
+          "woe:landfeature=29368714", 
+          "woe:drainage=29368144", 
+          "woe:drainage=29363405", 
+          "woe:drainage=29363424", 
+          "woe:drainage=29363554", 
+          "woe:drainage=29363584", 
+          "woe:drainage=29368155", 
+          "woe:drainage=29363633", 
+          "woe:drainage=29363773", 
+          "woe:drainage=29363817", 
+          "woe:drainage=29363851", 
+          "woe:drainage=29364115", 
+          "woe:drainage=29364359", 
+          "woe:drainage=29365276", 
+          "woe:drainage=29365782", 
+          "woe:drainage=29366279", 
+          "woe:drainage=29366302", 
+          "woe:drainage=29366065", 
+          "woe:drainage=29368265", 
+          "woe:drainage=29368296", 
+          "woe:drainage=29366555", 
+          "woe:drainage=29367074", 
+          "woe:drainage=29367091", 
+          "woe:drainage=29367372", 
+          "woe:drainage=29367410", 
+          "woe:drainage=29368338", 
+          "woe:drainage=29367800", 
+          "woe:drainage=29367826", 
+          "woe:drainage=29368253", 
+          "woe:drainage=29365906", 
+          "woe:drainage=29365931"
         ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Dalarne"
         ], 
-        "alias_DAN_Q": [
-          "Dalarne"
-        ], 
-        "ne:DataRank": 7, 
+        "ne:Area_sqkm": 30252.6, 
+        "ne:OBJECTID": 181, 
         "alias_ENG_P": [
           "Dalarna"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Dalarna"
+        ], 
         "alias_FIN_Q": [
           "Taalainmaa"
         ], 
@@ -1023,9 +1069,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T16:43:54Z", 
-        "lang": "SWE", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 181, 
+        "ne:VertexCou": 233.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 7, 
         "ne:Postal": "KO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Dalecarlia|Kopparberg", 
@@ -1039,15 +1085,17 @@
         "ne:NAME_0": "Sweden", 
         "ne:NAME_1": "Dalarna", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Laen|l\u00e4n", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 7, 
-        "ne:Area_sqkm": 30252.6, 
+        "alias_DAN_Q": [
+          "Dalarne"
+        ], 
         "alias_GER_Q": [
           "Dalarne"
         ], 
         "woe:id": "2347053", 
-        "name": "Dalarnas L\u00e4n", 
-        "ne:VertexCou": 233.0, 
+        "ne:HASC_1": "SE.KO", 
+        "lang": "SWE", 
         "adjacent_woeid": [
           2346389, 
           2347046, 
@@ -1057,9 +1105,10 @@
           2347066
         ], 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": "SE.KO", 
+        "name": "Dalarnas L\u00e4n", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
+        "ne:TYPE_1": "Laen|l\u00e4n", 
         "ne_longitude": 16.719372592970842, 
         "longitude": 14.421, 
         "iso": "SE", 

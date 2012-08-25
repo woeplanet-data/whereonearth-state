@@ -38,6 +38,7 @@
           24550826, 
           24550853
         ], 
+        "ne_latitude": 41.558, 
         "name": "Bosilovo", 
         "alias_ENG_P": [
           "Bosilovo Municipality"
@@ -54,9 +55,8 @@
         "longitude": 22.779, 
         "ne_longitude": 22.874, 
         "placetype": "state", 
-        "latitude": 41.483, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.407, 
         "adjacent": [
           "woe:state=24550826", 
           "woe:state=24550853", 
@@ -64,10 +64,16 @@
           "woe:state=24550814"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.558, 
+        "latitude": 41.483, 
         "sw_longitude": 22.684, 
         "fullname": "Bosilovo, Bosilovo Municipality, Macedonia", 
-        "sw_latitude": 41.407
+        "children": [
+          "woe:town=481773", 
+          "woe:town=482198", 
+          "woe:town=482725", 
+          "woe:town=483144"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550750
     }

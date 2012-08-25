@@ -144,17 +144,22 @@
         "ne:Shape_Area": 0.0529812852025, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19751108", 
+        "ne:MAP_COLOR": 8, 
         "alias_ENG_A": [
           "NCR"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "PHL", 
+        "children": [
+          "woe:county=2346760", 
+          "woe:historicalcounty=2346737", 
+          "woe:historicalcounty=2346771"
+        ], 
         "ne:ScaleRank": 7, 
         "alias_CHI_Q": [
           "\u56fd\u5bb6\u9996\u90fd\u533a"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 2568, 
         "alias_JPN_Q": [
           "\u9996\u90fd\u570f"
         ], 
@@ -172,9 +177,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 14.375711981722645, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 8, 
-        "ne:OBJECTID": 2568, 
+        "ne:VertexCou": 28.0, 
+        "ne:VALIDFR_1": "19751108", 
+        "ne:DataRank": 5, 
         "ne:Postal": "MM", 
         "ne:Region_Cod": "PHL-NCR", 
         "ne:VARNAME_1": null, 
@@ -193,13 +198,13 @@
           "Metro Manila"
         ], 
         "woe:id": "23424718", 
-        "name": "National Capital Region", 
-        "ne:VertexCou": 28.0, 
+        "ne:HASC_1": "PH.MM", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           23424717, 
           23424722
         ], 
-        "ne:HASC_1": "PH.MM", 
+        "name": "National Capital Region", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 121.14343794190756, 
         "longitude": 121.022, 

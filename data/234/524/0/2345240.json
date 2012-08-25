@@ -52,10 +52,10 @@
         "woeid": 2345240, 
         "ne_longitude": 31.23, 
         "longitude": 30.73, 
+        "ne_latitude": 29.443, 
         "placetype": "state", 
-        "latitude": 29.081, 
         "iso": "EG", 
-        "sw_latitude": 28.718, 
+        "date_indexed": "2010-12-02T12:16:45Z", 
         "adjacent": [
           "woe:state=2345224", 
           "woe:state=2345226", 
@@ -65,10 +65,24 @@
           "woe:state=56120898"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 29.443, 
+        "latitude": 29.081, 
         "sw_longitude": 30.229, 
         "fullname": "Bani Suwayf, Egypt", 
-        "date_indexed": "2010-12-02T12:16:45Z"
+        "children": [
+          "woe:town=1521406", 
+          "woe:town=1521512", 
+          "woe:town=1521842", 
+          "woe:town=1521998", 
+          "woe:town=1522661", 
+          "woe:town=1522668", 
+          "woe:town=1522760", 
+          "woe:town=1522940", 
+          "woe:town=1523753", 
+          "woe:town=1523806", 
+          "woe:town=1523823", 
+          "woe:town=1526404"
+        ], 
+        "sw_latitude": 28.718
       }, 
       "id": 2345240
     }

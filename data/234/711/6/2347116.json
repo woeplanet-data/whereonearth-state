@@ -36,6 +36,7 @@
           56189836
         ], 
         "name": "Arima", 
+        "ne_latitude": 10.648, 
         "hierarchy": [
           "woe:state=2347116", 
           "woe:country=23424958", 
@@ -45,17 +46,19 @@
         "ne_longitude": -61.269, 
         "longitude": -61.281, 
         "placetype": "state", 
-        "latitude": 10.633, 
         "iso": "TT", 
-        "sw_latitude": 10.617, 
+        "date_indexed": "2010-12-02T18:05:31Z", 
         "adjacent": [
           "woe:state=56189836"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 10.648, 
+        "latitude": 10.633, 
         "sw_longitude": -61.294, 
         "fullname": "Arima, Trinidad and Tobago", 
-        "date_indexed": "2010-12-02T18:05:31Z"
+        "children": [
+          "woe:town=380311"
+        ], 
+        "sw_latitude": 10.617
       }, 
       "id": 2347116
     }

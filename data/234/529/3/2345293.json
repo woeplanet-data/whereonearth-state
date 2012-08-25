@@ -41,6 +41,7 @@
           2345635
         ], 
         "name": "Caba\u00f1as", 
+        "ne_latitude": 14.019, 
         "hierarchy": [
           "woe:state=2345293", 
           "woe:country=23424807", 
@@ -50,12 +51,11 @@
         "ne_longitude": -88.49, 
         "longitude": -88.739, 
         "placetype": "state", 
-        "latitude": 13.878, 
         "alias_SPA_S": [
           "Cabanyas"
         ], 
         "iso": "SV", 
-        "sw_latitude": 13.737, 
+        "date_indexed": "2010-12-02T17:05:52Z", 
         "adjacent": [
           "woe:state=2345294", 
           "woe:state=2345295", 
@@ -65,10 +65,21 @@
           "woe:state=2345303"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.019, 
+        "latitude": 13.878, 
         "sw_longitude": -88.988, 
         "fullname": "Caba\u00f1as, El Salvador", 
-        "date_indexed": "2010-12-02T17:05:52Z"
+        "children": [
+          "woe:county=26808535", 
+          "woe:county=26808536", 
+          "woe:county=26808537", 
+          "woe:county=26808538", 
+          "woe:county=26808539", 
+          "woe:county=26808540", 
+          "woe:county=26808534", 
+          "woe:county=26808541", 
+          "woe:county=26808542"
+        ], 
+        "sw_latitude": 13.737
       }, 
       "id": 2345293
     }

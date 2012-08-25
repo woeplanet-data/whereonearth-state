@@ -39,6 +39,7 @@
           2347174
         ], 
         "name": "Mon State", 
+        "ne_latitude": 17.737, 
         "hierarchy": [
           "woe:state=2344822", 
           "woe:country=23424763", 
@@ -48,9 +49,8 @@
         "ne_longitude": 98.267, 
         "longitude": 97.809, 
         "placetype": "state", 
-        "latitude": 15.72, 
         "iso": "MM", 
-        "sw_latitude": 14.863, 
+        "date_indexed": "2010-12-02T17:58:12Z", 
         "adjacent": [
           "woe:state=2344818", 
           "woe:state=2347174", 
@@ -58,10 +58,45 @@
           "woe:state=2344821"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 17.737, 
+        "latitude": 15.72, 
         "sw_longitude": 96.875, 
         "fullname": "Mon State, Myanmar", 
-        "date_indexed": "2010-12-02T17:58:12Z"
+        "children": [
+          "woe:town=1017361", 
+          "woe:town=1017375", 
+          "woe:town=1017436", 
+          "woe:town=1017443", 
+          "woe:town=1017484", 
+          "woe:town=1017344", 
+          "woe:town=1017508", 
+          "woe:town=1017591", 
+          "woe:town=1017661", 
+          "woe:town=1017663", 
+          "woe:town=1017665", 
+          "woe:town=999539", 
+          "woe:town=1017710", 
+          "woe:town=1017711", 
+          "woe:town=1017775", 
+          "woe:town=1018015", 
+          "woe:town=1017889", 
+          "woe:town=1017904", 
+          "woe:town=1017937", 
+          "woe:town=1017977", 
+          "woe:town=1017986", 
+          "woe:island=12487546", 
+          "woe:island=12487590", 
+          "woe:island=12487614", 
+          "woe:island=12487640", 
+          "woe:island=12488040", 
+          "woe:island=12487674", 
+          "woe:island=12487688", 
+          "woe:island=12488029", 
+          "woe:island=12487700", 
+          "woe:island=12487753", 
+          "woe:island=12487955", 
+          "woe:island=12487973"
+        ], 
+        "sw_latitude": 14.863
       }, 
       "id": 2344822
     }

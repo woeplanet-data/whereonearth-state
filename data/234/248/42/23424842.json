@@ -32,10 +32,9 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "alias_SPA_Q": [
-          "Isla Howland"
-        ], 
+        "placetype": "state", 
         "name": "Howland Island", 
+        "ne_latitude": 0.616, 
         "hierarchy": [
           "woe:state=23424842", 
           "woe:country=28289407", 
@@ -44,12 +43,16 @@
         "woeid": 23424842, 
         "ne_longitude": -176.643, 
         "longitude": -176.646, 
-        "placetype": "state", 
-        "latitude": 0.607, 
+        "children": [
+          "woe:island=12490445"
+        ], 
+        "alias_SPA_Q": [
+          "Isla Howland"
+        ], 
         "iso": "UM", 
-        "sw_latitude": 0.599, 
+        "date_indexed": "2010-12-02T16:52:36Z", 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 0.616, 
+        "latitude": 0.607, 
         "sw_longitude": -176.65, 
         "fullname": "Howland Island, United States Minor Outlying Islands", 
         "alias_GER_Q": [
@@ -58,7 +61,7 @@
         "alias_FRE_S": [
           "Ile Howland"
         ], 
-        "date_indexed": "2010-12-02T16:52:36Z", 
+        "sw_latitude": 0.599, 
         "alias_FRE_Q": [
           "\u00cele Howland"
         ]

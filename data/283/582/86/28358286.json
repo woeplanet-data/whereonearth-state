@@ -44,25 +44,29 @@
           "woe:planet=1"
         ], 
         "woeid": 28358286, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -77.24, 
         "longitude": -77.582, 
         "placetype": "state", 
+        "latitude": 8.419, 
         "alias_SPA_S": [
           "Embera"
         ], 
         "iso": "PA", 
-        "date_indexed": "2010-12-02T17:52:20Z", 
+        "sw_latitude": 7.6, 
         "adjacent": [
           "woe:state=2345057", 
           "woe:state=2346555", 
           "woe:state=2346559"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 8.771, 
-        "latitude": 8.419, 
         "sw_longitude": -78.364, 
         "fullname": "Ember\u00e1, Panama", 
-        "sw_latitude": 7.6
+        "children": [
+          "woe:county=26793096", 
+          "woe:county=26793136"
+        ], 
+        "date_indexed": "2010-12-02T17:52:20Z"
       }, 
       "id": 28358286
     }

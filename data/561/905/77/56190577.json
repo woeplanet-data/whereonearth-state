@@ -14,14 +14,15 @@
           56190540
         ], 
         "name": "Grobi\u0144as Novads", 
-        "alias_UNK_S": [
-          "Grobinas Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190577", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190577, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Grobinas Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -33,7 +34,13 @@
           "woe:state=56190520"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190577, 
+        "children": [
+          "woe:county=55844473", 
+          "woe:county=55844593", 
+          "woe:county=55844395", 
+          "woe:county=55844345", 
+          "woe:county=55844284"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190577

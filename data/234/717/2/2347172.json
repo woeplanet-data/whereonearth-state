@@ -53,10 +53,10 @@
         "woeid": 2347172, 
         "ne_longitude": 102.536, 
         "longitude": 102.111, 
+        "ne_latitude": 13.336, 
         "placetype": "state", 
-        "latitude": 12.816, 
         "iso": "TH", 
-        "sw_latitude": 12.295, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=20070098", 
           "woe:state=2347169", 
@@ -67,10 +67,23 @@
           "woe:state=2347173"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.336, 
+        "latitude": 12.816, 
         "sw_longitude": 101.685, 
         "fullname": "Chanthaburi, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341363", 
+          "woe:county=28341369", 
+          "woe:county=28341370", 
+          "woe:county=28341365", 
+          "woe:county=28341367", 
+          "woe:county=28341372", 
+          "woe:county=28341371", 
+          "woe:county=28341364", 
+          "woe:county=28341366", 
+          "woe:county=28341368", 
+          "woe:landfeature=56057389"
+        ], 
+        "sw_latitude": 12.295
       }, 
       "id": 2347172
     }

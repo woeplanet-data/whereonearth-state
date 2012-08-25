@@ -31,13 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u5df4\u62ff\u9a6c"
-        ], 
-        "lang": "SPA", 
-        "alias_KOR_Q": [
-          "\ud30c\ub098\ub9c8"
-        ], 
         "alias_ENG_P": [
           "Panama"
         ], 
@@ -47,20 +40,32 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 9.495, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ud30c\ub098\ub9c8"
+        ], 
+        "children": [
+          "woe:county=26793085", 
+          "woe:county=26793087", 
+          "woe:county=26793095", 
+          "woe:county=26793098", 
+          "woe:county=26793101", 
+          "woe:county=26793102", 
+          "woe:county=28358296", 
+          "woe:county=26793112", 
+          "woe:county=26793125", 
+          "woe:county=26793137", 
+          "woe:county=26793141", 
+          "woe:county=26793147"
+        ], 
+        "alias_CHI_Q": [
+          "\u5df4\u62ff\u9a6c"
+        ], 
+        "woeid": 2346558, 
         "alias_JPN_Q": [
           "\u30d1\u30ca\u30de"
         ], 
-        "ne_longitude": -78.071, 
-        "longitude": -78.544, 
-        "placetype": "state", 
-        "adjacent_woeid": [
-          2346553, 
-          2346554, 
-          2346555, 
-          2346559
-        ], 
         "sw_longitude": -80.176, 
-        "sw_latitude": 8.196, 
         "adjacent": [
           "woe:state=2346553", 
           "woe:state=2346554", 
@@ -69,11 +74,20 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 8.921, 
-        "iso": "PA", 
-        "fullname": "Panam\u00e1, Panama, Panama", 
-        "woeid": 2346558, 
         "date_indexed": "2010-12-02T17:52:20Z", 
-        "name": "Panam\u00e1"
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2346553, 
+          2346554, 
+          2346555, 
+          2346559
+        ], 
+        "name": "Panam\u00e1", 
+        "ne_longitude": -78.071, 
+        "longitude": -78.544, 
+        "iso": "PA", 
+        "sw_latitude": 8.196, 
+        "fullname": "Panam\u00e1, Panama, Panama"
       }, 
       "id": 2346558
     }

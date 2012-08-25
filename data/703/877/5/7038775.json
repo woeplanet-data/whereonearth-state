@@ -42,8 +42,25 @@
           2347114, 
           55927046
         ], 
+        "alias_KOR_Q": [
+          "\uc54c\ubc14\ud2f0\ub098"
+        ], 
         "name": "Al Batinah", 
+        "hierarchy": [
+          "woe:state=7038775", 
+          "woe:country=23424898", 
+          "woe:planet=1"
+        ], 
+        "woeid": 7038775, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 58.126, 
+        "longitude": 56.692, 
+        "alias_CHI_Q": [
+          "\u5df4\u63d0\u5948"
+        ], 
         "placetype": "state", 
+        "iso": "OM", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
         "adjacent": [
           "woe:state=2346261", 
           "woe:state=2347110", 
@@ -54,31 +71,27 @@
           "woe:state=2346260", 
           "woe:state=2347114"
         ], 
-        "woeid": 7038775, 
-        "ne_longitude": 58.126, 
-        "longitude": 56.692, 
-        "alias_CHI_Q": [
-          "\u5df4\u63d0\u5948"
-        ], 
         "ne_latitude": 24.997, 
-        "hierarchy": [
-          "woe:state=7038775", 
-          "woe:country=23424898", 
-          "woe:planet=1"
-        ], 
-        "iso": "OM", 
-        "sw_latitude": 23.196, 
-        "alias_KOR_Q": [
-          "\uc54c\ubc14\ud2f0\ub098"
-        ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 24.096, 
         "sw_longitude": 55.862, 
         "fullname": "Al Batinah, Oman", 
         "alias_ARA_V": [
           "Al Batnah"
         ], 
-        "date_indexed": "2010-12-02T09:35:37Z"
+        "children": [
+          "woe:county=55927079", 
+          "woe:county=55927088", 
+          "woe:county=55927087", 
+          "woe:county=55927052", 
+          "woe:county=55927063", 
+          "woe:county=55927074", 
+          "woe:county=55927098", 
+          "woe:county=55927082", 
+          "woe:county=55927086", 
+          "woe:county=55927096", 
+          "woe:county=55927078"
+        ], 
+        "sw_latitude": 23.196
       }, 
       "id": 7038775
     }

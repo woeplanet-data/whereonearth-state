@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 5.654, 
         "name": "Kili", 
         "hierarchy": [
           "woe:state=24549845", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549845, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 169.127, 
         "longitude": 169.119, 
         "placetype": "state", 
         "iso": "MH", 
-        "date_indexed": "2010-12-02T09:35:31Z", 
-        "ne_latitude": 5.654, 
+        "sw_latitude": 5.636, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 5.645, 
         "sw_longitude": 169.11, 
         "fullname": "Kili, Marshall Islands", 
-        "sw_latitude": 5.636
+        "children": [
+          "woe:island=12498919"
+        ], 
+        "date_indexed": "2010-12-02T09:35:31Z"
       }, 
       "id": 24549845
     }

@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
+        "ne_latitude": -16.975, 
         "name": "\u00celes du Vent", 
         "alias_ENG_P": [
           "Windward Islands"
@@ -42,20 +43,35 @@
           "woe:planet=1"
         ], 
         "woeid": 24549698, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -148.05, 
         "longitude": -149.376, 
+        "children": [
+          "woe:county=28743681", 
+          "woe:county=28743680", 
+          "woe:county=28743683", 
+          "woe:county=28743682", 
+          "woe:county=28743667", 
+          "woe:county=28743677", 
+          "woe:county=28743679", 
+          "woe:county=28743678", 
+          "woe:county=28743686", 
+          "woe:county=28743687", 
+          "woe:county=28743685", 
+          "woe:county=28743688", 
+          "woe:county=28743684", 
+          "woe:island=12490331"
+        ], 
         "placetype": "state", 
         "iso": "PF", 
-        "date_indexed": "2010-12-02T17:05:43Z", 
-        "ne_latitude": -16.975, 
+        "sw_latitude": -17.881, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -17.69, 
         "sw_longitude": -150.658, 
         "fullname": "\u00celes du Vent, Windward Islands, French Polynesia", 
         "alias_FRE_S": [
           "Iles du Vent"
         ], 
-        "sw_latitude": -17.881
+        "date_indexed": "2010-12-02T17:05:43Z"
       }, 
       "id": 24549698
     }

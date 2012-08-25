@@ -7713,13 +7713,24 @@
         "ne:Shape_Area": 21.323236309, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\uc9c0\ub9b0"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "children": [
+          "woe:county=26198064", 
+          "woe:county=26198077", 
+          "woe:county=26198063", 
+          "woe:county=26198272", 
+          "woe:county=26198273", 
+          "woe:county=26198223", 
+          "woe:county=26198224", 
+          "woe:county=26198225", 
+          "woe:county=26198065"
+        ], 
+        "ne:OBJECTID": 1828, 
         "alias_CHI_V": [
           "\u5409\u6797"
         ], 
@@ -7748,9 +7759,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 40.85941844360633, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1828, 
+        "ne:VertexCou": 1821.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "JL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "J\u00edl\u00edn", 
@@ -7766,8 +7777,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 191005.3, 
         "woe:id": "12577995", 
-        "name": "\u5409\u6797\u7701", 
-        "ne:VertexCou": 1821.0, 
+        "ne:HASC_1": "CN.JL", 
+        "lang": "CHI", 
         "adjacent_woeid": [
           2345950, 
           2345956, 
@@ -7777,7 +7788,7 @@
           12578008, 
           12578009
         ], 
-        "ne:HASC_1": "CN.JL", 
+        "name": "\u5409\u6797\u7701", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 131.28183719333185, 
         "longitude": 126.524, 

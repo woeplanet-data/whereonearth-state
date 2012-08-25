@@ -40,6 +40,7 @@
           29389225
         ], 
         "name": "Kolubara", 
+        "ne_latitude": 44.608, 
         "hierarchy": [
           "woe:state=29389220", 
           "woe:country=20069818", 
@@ -52,9 +53,8 @@
         "ne_longitude": 20.454, 
         "longitude": 19.945, 
         "placetype": "state", 
-        "latitude": 44.348, 
         "iso": "RS", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
+        "sw_latitude": 44.089, 
         "adjacent": [
           "woe:state=29389217", 
           "woe:state=29389202", 
@@ -63,10 +63,34 @@
           "woe:state=29389216"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 44.608, 
+        "latitude": 44.348, 
         "sw_longitude": 19.437, 
         "fullname": "Kolubara, Serbia", 
-        "sw_latitude": 44.089
+        "children": [
+          "woe:county=56072737", 
+          "woe:county=56072741", 
+          "woe:county=56072740", 
+          "woe:county=56072738", 
+          "woe:county=56072736", 
+          "woe:county=56072739", 
+          "woe:town=532543", 
+          "woe:town=532645", 
+          "woe:town=532899", 
+          "woe:town=532947", 
+          "woe:town=532968", 
+          "woe:town=534335", 
+          "woe:town=534507", 
+          "woe:town=534932", 
+          "woe:town=535055", 
+          "woe:town=535458", 
+          "woe:town=535775", 
+          "woe:town=535901", 
+          "woe:town=536005", 
+          "woe:town=536063", 
+          "woe:town=537258", 
+          "woe:town=537299"
+        ], 
+        "date_indexed": "2010-12-02T10:22:30Z"
       }, 
       "id": 29389220
     }

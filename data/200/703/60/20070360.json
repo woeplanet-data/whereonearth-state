@@ -44,18 +44,18 @@
           "Mtsrkhetris Raioni"
         ], 
         "name": "Mts\u00b4khet\u00b4is Raioni", 
-        "ne_latitude": 41.996, 
         "hierarchy": [
           "woe:state=20070360", 
           "woe:country=23424823", 
           "woe:planet=1"
         ], 
-        "woeid": 20070360, 
+        "ne_latitude": 41.996, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.028, 
         "longitude": 44.788, 
         "placetype": "state", 
         "iso": "GE", 
-        "sw_latitude": 41.727, 
+        "date_indexed": "2010-12-02T17:51:52Z", 
         "adjacent": [
           "woe:state=20070363", 
           "woe:state=20070408", 
@@ -64,11 +64,30 @@
           "woe:state=20070355", 
           "woe:state=20070361"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 20070360, 
         "latitude": 41.861, 
         "sw_longitude": 44.548, 
         "fullname": "Mts\u00b4khet\u00b4is Raioni, Georgia", 
-        "date_indexed": "2010-12-02T17:51:52Z"
+        "children": [
+          "woe:town=1966786", 
+          "woe:town=1966807", 
+          "woe:town=1963147", 
+          "woe:town=1963156", 
+          "woe:town=1963255", 
+          "woe:town=1963339", 
+          "woe:town=1963431", 
+          "woe:town=1964608", 
+          "woe:town=1964804", 
+          "woe:town=1966876", 
+          "woe:town=1965001", 
+          "woe:town=1966905", 
+          "woe:town=1966093", 
+          "woe:town=1966117", 
+          "woe:town=1966219", 
+          "woe:town=1966493", 
+          "woe:town=1966936"
+        ], 
+        "sw_latitude": 41.727
       }, 
       "id": 20070360
     }

@@ -1413,13 +1413,17 @@
         "ne:Shape_Area": 1.19334785361, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud188\uc9c4"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1816, 
+        "children": [
+          "woe:county=26198310", 
+          "woe:county=26198311"
+        ], 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u5929\u6d25 \u76f4\u8f44\u5e02"
         ], 
@@ -1443,9 +1447,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Municipality", 
         "sw_latitude": 38.55924876591786, 
-        "ne:VertexCou": 346.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1816, 
         "ne:Postal": "TJ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Tianjin", 
@@ -1461,13 +1465,13 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 11428.4, 
         "woe:id": "12578017", 
-        "ne:HASC_1": "CN.TJ", 
-        "lang": "CHI", 
+        "name": "\u5929\u6d25\u76f4\u8f96\u5e02", 
+        "ne:VertexCou": 346.0, 
         "adjacent_woeid": [
           12578000, 
           12578011
         ], 
-        "name": "\u5929\u6d25\u76f4\u8f96\u5e02", 
+        "ne:HASC_1": "CN.TJ", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 118.01308637943293, 
         "longitude": 117.38, 

@@ -1256,28 +1256,39 @@
         "ne:Shape_Area": 0.871853792345, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1719", 
+        "ne:MAP_COLOR": 4, 
         "alias_POR_Q": [
           "Halland"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "SWE", 
-        "alias_SPA_Q": [
-          "Halland"
+        "children": [
+          "woe:county=12587249", 
+          "woe:county=12587250", 
+          "woe:county=12587251", 
+          "woe:county=12587252", 
+          "woe:county=12587253", 
+          "woe:county=12587254", 
+          "woe:landfeature=29368429", 
+          "woe:landfeature=29368584", 
+          "woe:landfeature=29368902", 
+          "woe:landfeature=29368393", 
+          "woe:drainage=29365806", 
+          "woe:drainage=29365835"
         ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Halland"
         ], 
-        "alias_DAN_Q": [
-          "Halland"
-        ], 
-        "ne:DataRank": 7, 
+        "ne:Area_sqkm": 5904.1, 
+        "ne:OBJECTID": 187, 
         "alias_ENG_P": [
           "Halland"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Halland"
+        ], 
         "alias_FIN_Q": [
           "Halland"
         ], 
@@ -1297,9 +1308,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T16:43:54Z", 
-        "lang": "SWE", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 187, 
+        "ne:VertexCou": 306.0, 
+        "ne:VALIDFR_1": "1719", 
+        "ne:DataRank": 7, 
         "ne:Postal": "HA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Hallands l\u00e4n", 
@@ -1313,15 +1324,17 @@
         "ne:NAME_0": "Sweden", 
         "ne:NAME_1": "Halland", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Laen|l\u00e4n", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 7, 
-        "ne:Area_sqkm": 5904.1, 
+        "alias_DAN_Q": [
+          "Halland"
+        ], 
         "alias_GER_Q": [
           "Halland"
         ], 
         "woe:id": "2347049", 
-        "name": "Hallands L\u00e4n", 
-        "ne:VertexCou": 306.0, 
+        "ne:HASC_1": "SE.HA", 
+        "lang": "SWE", 
         "adjacent_woeid": [
           2347051, 
           2347055, 
@@ -1329,9 +1342,10 @@
           20070562
         ], 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": "SE.HA", 
+        "name": "Hallands L\u00e4n", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
+        "ne:TYPE_1": "Laen|l\u00e4n", 
         "ne_longitude": 13.698006626304789, 
         "longitude": 12.798, 
         "iso": "SE", 

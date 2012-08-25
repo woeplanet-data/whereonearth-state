@@ -39,6 +39,7 @@
           2345707
         ], 
         "name": "Austur-Hunavatnssysla", 
+        "ne_latitude": 66.125, 
         "hierarchy": [
           "woe:state=2345689", 
           "woe:country=23424845", 
@@ -47,10 +48,17 @@
         "woeid": 2345689, 
         "ne_longitude": -19.101, 
         "longitude": -19.823, 
+        "children": [
+          "woe:town=980062", 
+          "woe:town=980063", 
+          "woe:town=980273", 
+          "woe:town=980425", 
+          "woe:town=980494", 
+          "woe:island=12476169"
+        ], 
         "placetype": "state", 
-        "latitude": 65.458, 
         "iso": "IS", 
-        "sw_latitude": 64.79, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345687", 
           "woe:state=2345691", 
@@ -58,13 +66,13 @@
           "woe:state=2345707"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 66.125, 
+        "latitude": 65.458, 
         "sw_longitude": -20.562, 
         "fullname": "Austur-Hunavatnssysla, Iceland", 
         "alias_UNK_A": [
           "A-HUN"
         ], 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "sw_latitude": 64.79
       }, 
       "id": 2345689
     }

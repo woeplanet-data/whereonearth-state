@@ -38,6 +38,7 @@
           24550840, 
           24550860
         ], 
+        "ne_latitude": 41.279, 
         "name": "Bogdanci", 
         "alias_ENG_P": [
           "Bogdanci Municipality"
@@ -54,9 +55,8 @@
         "longitude": 22.599, 
         "ne_longitude": 22.69, 
         "placetype": "state", 
-        "latitude": 41.2, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.122, 
         "adjacent": [
           "woe:state=12577884", 
           "woe:state=24550840", 
@@ -64,10 +64,13 @@
           "woe:state=24550813"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.279, 
+        "latitude": 41.2, 
         "sw_longitude": 22.508, 
         "fullname": "Bogdanci, Bogdanci Municipality, Macedonia", 
-        "sw_latitude": 41.122
+        "children": [
+          "woe:town=481755"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550827
     }

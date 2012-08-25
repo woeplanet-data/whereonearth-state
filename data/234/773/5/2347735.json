@@ -50,12 +50,12 @@
           "woe:planet=1"
         ], 
         "woeid": 2347735, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.983, 
         "longitude": 105.638, 
         "placetype": "state", 
+        "latitude": 20.901, 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 20.509, 
         "adjacent": [
           "woe:state=2347741", 
           "woe:state=2347727", 
@@ -64,11 +64,32 @@
           "woe:state=20070091", 
           "woe:state=20070090"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 21.294, 
-        "latitude": 20.901, 
         "sw_longitude": 105.294, 
         "fullname": "Ha Tay, Vietnam", 
-        "sw_latitude": 20.509
+        "children": [
+          "woe:town=56124725", 
+          "woe:town=1236522", 
+          "woe:town=56123731", 
+          "woe:town=56124758", 
+          "woe:town=56124621", 
+          "woe:town=56123734", 
+          "woe:town=56124763", 
+          "woe:town=1252527", 
+          "woe:town=1252563", 
+          "woe:town=56124735", 
+          "woe:town=56124783", 
+          "woe:town=56123519", 
+          "woe:town=56124754", 
+          "woe:town=56123727", 
+          "woe:town=1246250", 
+          "woe:town=56124022", 
+          "woe:town=56123725", 
+          "woe:town=1252655", 
+          "woe:town=1252396"
+        ], 
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 2347735
     }

@@ -48,12 +48,12 @@
           "woe:planet=1"
         ], 
         "woeid": 2347751, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.611, 
         "longitude": 105.231, 
         "placetype": "state", 
+        "latitude": 22.112, 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 21.495, 
         "adjacent": [
           "woe:state=20070084", 
           "woe:state=2347704", 
@@ -63,11 +63,38 @@
           "woe:state=20070090", 
           "woe:state=2347753"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 22.729, 
-        "latitude": 22.112, 
         "sw_longitude": 104.851, 
         "fullname": "Tuyen Quang, Vietnam", 
-        "sw_latitude": 21.495
+        "children": [
+          "woe:town=1252296", 
+          "woe:town=56123886", 
+          "woe:town=56123850", 
+          "woe:town=1252365", 
+          "woe:town=56123860", 
+          "woe:town=56124640", 
+          "woe:town=56123866", 
+          "woe:town=1252399", 
+          "woe:town=1252429", 
+          "woe:town=1252428", 
+          "woe:town=56124332", 
+          "woe:town=56123871", 
+          "woe:town=1252503", 
+          "woe:town=1252504", 
+          "woe:town=56124258", 
+          "woe:town=56124263", 
+          "woe:town=56124634", 
+          "woe:town=56124357", 
+          "woe:town=1252648", 
+          "woe:town=1252651", 
+          "woe:town=56124631", 
+          "woe:town=56123855", 
+          "woe:town=56123897", 
+          "woe:town=1234666", 
+          "woe:town=56124749"
+        ], 
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 2347751
     }

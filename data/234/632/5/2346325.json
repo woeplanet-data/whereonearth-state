@@ -39,6 +39,7 @@
           2346372
         ], 
         "name": "Diffa", 
+        "ne_latitude": 18.016, 
         "hierarchy": [
           "woe:state=2346325", 
           "woe:country=23424906", 
@@ -48,9 +49,8 @@
         "ne_longitude": 15.559, 
         "longitude": 13.073, 
         "placetype": "state", 
-        "latitude": 15.539, 
         "iso": "NE", 
-        "sw_latitude": 13.062, 
+        "date_indexed": "2010-12-02T17:43:23Z", 
         "adjacent": [
           "woe:state=2346324", 
           "woe:state=2346355", 
@@ -58,10 +58,15 @@
           "woe:state=2346330"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.016, 
+        "latitude": 15.539, 
         "sw_longitude": 10.586, 
         "fullname": "Diffa, Niger", 
-        "date_indexed": "2010-12-02T17:43:23Z"
+        "children": [
+          "woe:county=56055524", 
+          "woe:county=56055523", 
+          "woe:county=56055525"
+        ], 
+        "sw_latitude": 13.062
       }, 
       "id": 2346325
     }

@@ -31,18 +31,8 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u7f57\u5b89\u8fbe"
-        ], 
-        "lang": "POR", 
-        "alias_KOR_Q": [
-          "\ub8e8\uc548\ub2e4"
-        ], 
         "alias_SWE_Q": [
           "Loanda"
-        ], 
-        "adjacent_woeid": [
-          2344673
         ], 
         "hierarchy": [
           "woe:state=2344665", 
@@ -50,24 +40,44 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -8.682, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ub8e8\uc548\ub2e4"
+        ], 
+        "children": [
+          "woe:town=1258325", 
+          "woe:town=1258345", 
+          "woe:town=1258665", 
+          "woe:town=1261276", 
+          "woe:town=1261417", 
+          "woe:town=1261906", 
+          "woe:town=1263172", 
+          "woe:town=1265324"
+        ], 
+        "alias_CHI_Q": [
+          "\u7f57\u5b89\u8fbe"
+        ], 
+        "woeid": 2344665, 
         "alias_JPN_Q": [
           "\u30eb\u30a2\u30f3\u30c0"
         ], 
-        "ne_longitude": 13.623, 
-        "longitude": 13.308, 
-        "placetype": "state", 
         "sw_longitude": 12.993, 
-        "sw_latitude": -9.345, 
         "adjacent": [
           "woe:state=2344673"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -9.014, 
-        "iso": "AO", 
-        "fullname": "Luanda, Angola", 
-        "woeid": 2344665, 
         "date_indexed": "2010-12-02T17:52:14Z", 
-        "name": "Luanda"
+        "lang": "POR", 
+        "adjacent_woeid": [
+          2344673
+        ], 
+        "name": "Luanda", 
+        "ne_longitude": 13.623, 
+        "longitude": 13.308, 
+        "iso": "AO", 
+        "sw_latitude": -9.345, 
+        "fullname": "Luanda, Angola"
       }, 
       "id": 2344665
     }

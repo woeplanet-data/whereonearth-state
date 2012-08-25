@@ -38,31 +38,39 @@
           2346863
         ], 
         "name": "Dorado", 
+        "ne_latitude": 18.48, 
         "hierarchy": [
           "woe:state=2346861", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346861, 
-        "alias_SPA_V": [
-          "Dorado Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.198, 
         "longitude": -66.258, 
         "placetype": "state", 
-        "latitude": 18.432, 
         "sw_longitude": -66.317, 
-        "sw_latitude": 18.383, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346807", 
           "woe:state=2346812", 
           "woe:state=2346863"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.48, 
+        "alias_SPA_V": [
+          "Dorado Municipios"
+        ], 
+        "latitude": 18.432, 
         "iso": "PR", 
         "fullname": "Dorado, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806255", 
+          "woe:county=26806256", 
+          "woe:county=26806257", 
+          "woe:county=26806258", 
+          "woe:county=26806259", 
+          "woe:county=26806260"
+        ], 
+        "sw_latitude": 18.383
       }, 
       "id": 2346861
     }

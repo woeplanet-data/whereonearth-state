@@ -40,6 +40,7 @@
           2346145
         ], 
         "name": "Az Zawiyah", 
+        "ne_latitude": 32.865, 
         "hierarchy": [
           "woe:state=2346136", 
           "woe:country=23424882", 
@@ -49,9 +50,8 @@
         "ne_longitude": 13.102, 
         "longitude": 12.567, 
         "placetype": "state", 
-        "latitude": 32.577, 
         "iso": "LY", 
-        "sw_latitude": 32.29, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=2346121", 
           "woe:state=2346134", 
@@ -60,10 +60,13 @@
           "woe:state=2346145"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 32.865, 
+        "latitude": 32.577, 
         "sw_longitude": 12.031, 
         "fullname": "Az Zawiyah, Libya", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1352807"
+        ], 
+        "sw_latitude": 32.29
       }, 
       "id": 2346136
     }

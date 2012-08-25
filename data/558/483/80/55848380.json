@@ -46,12 +46,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55848380, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.015, 
         "longitude": 14.845, 
         "placetype": "state", 
+        "latitude": 46.515, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 46.417, 
         "adjacent": [
           "woe:state=55848347", 
           "woe:state=2344709", 
@@ -59,11 +59,17 @@
           "woe:state=55848387", 
           "woe:state=55848395"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.613, 
-        "latitude": 46.515, 
         "sw_longitude": 14.675, 
         "fullname": "Ravne Na Koroskem, Slovenia", 
-        "sw_latitude": 46.417
+        "children": [
+          "woe:county=12591523", 
+          "woe:county=12591581", 
+          "woe:county=55848318", 
+          "woe:county=55848319"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848380
     }

@@ -41,6 +41,7 @@
           2346431
         ], 
         "name": "Alajuela", 
+        "ne_latitude": 11.079, 
         "hierarchy": [
           "woe:state=2345082", 
           "woe:country=23424791", 
@@ -50,9 +51,8 @@
         "ne_longitude": -84.166, 
         "longitude": -84.463, 
         "placetype": "state", 
-        "latitude": 10.457, 
         "iso": "CR", 
-        "sw_latitude": 9.836, 
+        "date_indexed": "2010-12-02T12:16:16Z", 
         "adjacent": [
           "woe:state=2345084", 
           "woe:state=2345085", 
@@ -62,10 +62,27 @@
           "woe:state=2345088"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 11.079, 
+        "latitude": 10.457, 
         "sw_longitude": -85.451, 
         "fullname": "Alajuela, Costa Rica", 
-        "date_indexed": "2010-12-02T12:16:16Z"
+        "children": [
+          "woe:county=26808786", 
+          "woe:county=26808788", 
+          "woe:county=26808791", 
+          "woe:county=26808811", 
+          "woe:county=26808813", 
+          "woe:county=26808822", 
+          "woe:county=26808829", 
+          "woe:county=26808832", 
+          "woe:county=26808834", 
+          "woe:county=26808838", 
+          "woe:county=26808842", 
+          "woe:county=26808845", 
+          "woe:county=26808848", 
+          "woe:county=26808861", 
+          "woe:county=26808862"
+        ], 
+        "sw_latitude": 9.836
       }, 
       "id": 2345082
     }

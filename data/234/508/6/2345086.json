@@ -41,6 +41,7 @@
           2346551
         ], 
         "name": "Limon", 
+        "ne_latitude": 10.938, 
         "hierarchy": [
           "woe:state=2345086", 
           "woe:country=23424791", 
@@ -50,9 +51,8 @@
         "ne_longitude": -82.556, 
         "longitude": -83.255, 
         "placetype": "state", 
-        "latitude": 10.013, 
         "iso": "CR", 
-        "sw_latitude": 9.089, 
+        "date_indexed": "2010-12-02T12:16:16Z", 
         "adjacent": [
           "woe:state=2346551", 
           "woe:state=2345083", 
@@ -62,10 +62,18 @@
           "woe:state=2345088"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 10.938, 
+        "latitude": 10.013, 
         "sw_longitude": -83.954, 
         "fullname": "Limon, Costa Rica", 
-        "date_indexed": "2010-12-02T12:16:16Z"
+        "children": [
+          "woe:county=26808812", 
+          "woe:county=26808821", 
+          "woe:county=26808823", 
+          "woe:county=26808839", 
+          "woe:county=26808854", 
+          "woe:county=26808855"
+        ], 
+        "sw_latitude": 9.089
       }, 
       "id": 2345086
     }

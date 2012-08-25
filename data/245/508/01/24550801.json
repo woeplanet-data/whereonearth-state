@@ -38,6 +38,7 @@
           24550774, 
           24550790
         ], 
+        "ne_latitude": 41.582, 
         "name": "Rosoman", 
         "alias_ENG_P": [
           "Rosoman Municipality"
@@ -54,9 +55,8 @@
         "longitude": 21.895, 
         "ne_longitude": 22.013, 
         "placetype": "state", 
-        "latitude": 41.495, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.408, 
         "adjacent": [
           "woe:state=24550768", 
           "woe:state=24550774", 
@@ -64,10 +64,15 @@
           "woe:state=24550754"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.582, 
+        "latitude": 41.495, 
         "sw_longitude": 21.778, 
         "fullname": "Rosoman, Rosoman Municipality, Macedonia", 
-        "sw_latitude": 41.408
+        "children": [
+          "woe:town=482879", 
+          "woe:town=482933", 
+          "woe:town=483221"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550801
     }

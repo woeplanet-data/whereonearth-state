@@ -38,6 +38,7 @@
           20070514
         ], 
         "name": "Koryakskiy Avtonomnyy Okrug", 
+        "ne_latitude": 64.721, 
         "hierarchy": [
           "woe:state=20070515", 
           "woe:country=23424936", 
@@ -47,19 +48,24 @@
         "ne_longitude": 174.305, 
         "longitude": 164.972, 
         "placetype": "state", 
-        "latitude": 60.186, 
         "iso": "RU", 
-        "sw_latitude": 55.652, 
+        "date_indexed": "2010-12-02T16:07:50Z", 
         "adjacent": [
           "woe:state=20070513", 
           "woe:state=20070514", 
           "woe:state=20070512"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 64.721, 
+        "latitude": 60.186, 
         "sw_longitude": 155.64, 
         "fullname": "Koryakskiy Avtonomnyy Okrug, Russia", 
-        "date_indexed": "2010-12-02T16:07:50Z"
+        "children": [
+          "woe:county=12598420", 
+          "woe:county=12598422", 
+          "woe:county=12598423", 
+          "woe:county=12598426"
+        ], 
+        "sw_latitude": 55.652
       }, 
       "id": 20070515
     }

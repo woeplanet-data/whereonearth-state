@@ -42,11 +42,11 @@
           2347315
         ], 
         "name": "K\u00fctahya", 
-        "ne_latitude": 39.867, 
         "alias_UNK_S": [
           "Kutahya"
         ], 
         "woeid": 2347297, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 30.43, 
         "longitude": 29.541, 
         "placetype": "state", 
@@ -56,7 +56,7 @@
           "woe:planet=1"
         ], 
         "iso": "TR", 
-        "sw_latitude": 38.767, 
+        "date_indexed": "2010-12-02T16:22:51Z", 
         "adjacent": [
           "woe:state=2347260", 
           "woe:state=2347267", 
@@ -66,11 +66,26 @@
           "woe:state=2347299", 
           "woe:state=2347315"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.867, 
         "latitude": 39.317, 
         "sw_longitude": 28.651, 
         "fullname": "K\u00fctahya, Turkey", 
-        "date_indexed": "2010-12-02T16:22:51Z"
+        "children": [
+          "woe:county=29390077", 
+          "woe:county=29390097", 
+          "woe:county=29390283", 
+          "woe:county=29390286", 
+          "woe:county=29390302", 
+          "woe:county=29390341", 
+          "woe:county=29390426", 
+          "woe:county=29390571", 
+          "woe:county=29390688", 
+          "woe:county=29390756", 
+          "woe:county=29390799", 
+          "woe:county=29390211", 
+          "woe:county=29390788"
+        ], 
+        "sw_latitude": 38.767
       }, 
       "id": 2347297
     }

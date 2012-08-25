@@ -42,17 +42,28 @@
           "woe:planet=1"
         ], 
         "woeid": 24549934, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -71.861, 
         "longitude": -71.954, 
         "placetype": "state", 
-        "iso": "TC", 
-        "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne_latitude": 21.974, 
         "latitude": 21.892, 
+        "iso": "TC", 
+        "sw_latitude": 21.822, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 21.974, 
         "sw_longitude": -72.135, 
         "fullname": "North Caicos, Turks and Caicos Islands", 
-        "sw_latitude": 21.822
+        "children": [
+          "woe:town=162147", 
+          "woe:town=162153", 
+          "woe:island=12485333", 
+          "woe:island=12485285", 
+          "woe:island=12485292", 
+          "woe:island=12485302", 
+          "woe:island=12485309", 
+          "woe:island=12485317", 
+          "woe:island=12485318"
+        ], 
+        "date_indexed": "2010-12-02T07:50:42Z"
       }, 
       "id": 24549934
     }

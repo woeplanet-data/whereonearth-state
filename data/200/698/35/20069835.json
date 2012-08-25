@@ -41,6 +41,7 @@
           20069845
         ], 
         "name": "Otjozondjupa", 
+        "ne_latitude": -18.749, 
         "hierarchy": [
           "woe:state=20069835", 
           "woe:country=23424987", 
@@ -50,9 +51,8 @@
         "ne_longitude": 20.999, 
         "longitude": 18.286, 
         "placetype": "state", 
-        "latitude": -20.564, 
         "iso": "NA", 
-        "sw_latitude": -22.38, 
+        "date_indexed": "2010-12-02T07:50:17Z", 
         "adjacent": [
           "woe:state=20069837", 
           "woe:state=20069845", 
@@ -62,10 +62,19 @@
           "woe:state=20069841"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -18.749, 
+        "latitude": -20.564, 
         "sw_longitude": 15.573, 
         "fullname": "Otjozondjupa, Namibia", 
-        "date_indexed": "2010-12-02T07:50:17Z"
+        "children": [
+          "woe:county=55921134", 
+          "woe:county=55921192", 
+          "woe:county=55921209", 
+          "woe:county=55921143", 
+          "woe:county=55921205", 
+          "woe:county=55921133", 
+          "woe:county=55921171"
+        ], 
+        "sw_latitude": -22.38
       }, 
       "id": 20069835
     }

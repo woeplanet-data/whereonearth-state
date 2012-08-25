@@ -42,20 +42,26 @@
           "woe:planet=1"
         ], 
         "woeid": 24549645, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -170.716, 
         "longitude": -170.779, 
         "placetype": "state", 
+        "latitude": -14.337, 
         "iso": "AS", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
+        "sw_latitude": -14.382, 
         "adjacent": [
           "woe:state=24549646"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -14.291, 
-        "latitude": -14.337, 
         "sw_longitude": -170.841, 
         "fullname": "Western, American Samoa", 
-        "sw_latitude": -14.382
+        "children": [
+          "woe:county=24551264", 
+          "woe:county=24551263", 
+          "woe:county=24551265", 
+          "woe:county=24551262"
+        ], 
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 24549645
     }

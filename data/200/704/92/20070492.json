@@ -1866,10 +1866,19 @@
         "ne:Shape_Area": 0.744796796362, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19960724", 
+        "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "SVK", 
-        "ne:DataRank": 7, 
+        "children": [
+          "woe:county=29399355", 
+          "woe:county=29399343", 
+          "woe:county=29399359", 
+          "woe:county=29399348", 
+          "woe:county=29399360", 
+          "woe:county=29399330", 
+          "woe:county=29399339"
+        ], 
+        "ne:OBJECTID": 1054, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 17.719466587213276, 
@@ -1890,9 +1899,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 47.750419013027056, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 1054, 
+        "ne:VertexCou": 456.0, 
+        "ne:VALIDFR_1": "19960724", 
+        "ne:DataRank": 7, 
         "ne:Postal": "NI", 
         "ne:Region_Cod": "SVK-ZPD", 
         "ne:VARNAME_1": "Nitra", 
@@ -1911,8 +1920,8 @@
           "Neutra"
         ], 
         "woe:id": "20070492", 
-        "name": "Nitriansky", 
-        "ne:VertexCou": 456.0, 
+        "ne:HASC_1": "SK.NI", 
+        "lang": "UNK", 
         "adjacent_woeid": [
           12577918, 
           12577921, 
@@ -1923,7 +1932,7 @@
           20070504, 
           56043629
         ], 
-        "ne:HASC_1": "SK.NI", 
+        "name": "Nitriansky", 
         "ne:REMARKS_1": null, 
         "alias_UNK_V": [
           "Nitra"

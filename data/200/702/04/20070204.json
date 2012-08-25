@@ -43,6 +43,7 @@
           20070273
         ], 
         "name": "Geghark'unik'", 
+        "ne_latitude": 40.766, 
         "hierarchy": [
           "woe:state=20070204", 
           "woe:country=23424743", 
@@ -52,9 +53,8 @@
         "ne_longitude": 45.977, 
         "longitude": 45.403, 
         "placetype": "state", 
-        "latitude": 40.356, 
         "iso": "AM", 
-        "sw_latitude": 39.947, 
+        "date_indexed": "2010-12-02T12:16:10Z", 
         "adjacent": [
           "woe:state=20070211", 
           "woe:state=20070222", 
@@ -66,10 +66,17 @@
           "woe:state=20070205"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 40.766, 
+        "latitude": 40.356, 
         "sw_longitude": 44.828, 
         "fullname": "Geghark'unik', Armenia", 
-        "date_indexed": "2010-12-02T12:16:10Z"
+        "children": [
+          "woe:county=15022542", 
+          "woe:county=15022553", 
+          "woe:county=15022547", 
+          "woe:county=15022559", 
+          "woe:county=15022543"
+        ], 
+        "sw_latitude": 39.947
       }, 
       "id": 20070204
     }

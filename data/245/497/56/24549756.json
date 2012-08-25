@@ -44,22 +44,25 @@
           "woe:planet=1"
         ], 
         "woeid": 24549756, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.25, 
         "longitude": 45.178, 
         "placetype": "state", 
+        "latitude": -12.9, 
         "iso": "YT", 
-        "date_indexed": "2010-12-02T16:11:57Z", 
+        "sw_latitude": -12.934, 
         "adjacent": [
           "woe:state=24549760", 
           "woe:state=24549752", 
           "woe:state=24549763"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -12.869, 
-        "latitude": -12.9, 
         "sw_longitude": 45.142, 
         "fullname": "Bandrele, Mayotte", 
-        "sw_latitude": -12.934
+        "children": [
+          "woe:town=1365549"
+        ], 
+        "date_indexed": "2010-12-02T16:11:57Z"
       }, 
       "id": 24549756
     }

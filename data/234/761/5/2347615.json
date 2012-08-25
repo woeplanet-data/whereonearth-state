@@ -43,6 +43,7 @@
           2347639
         ], 
         "name": "Ganzourgou", 
+        "ne_latitude": 12.685, 
         "hierarchy": [
           "woe:state=2347615", 
           "woe:country=23424978", 
@@ -52,9 +53,8 @@
         "ne_longitude": -0.426, 
         "longitude": -0.771, 
         "placetype": "state", 
-        "latitude": 12.252, 
         "iso": "BF", 
-        "sw_latitude": 11.819, 
+        "date_indexed": "2010-12-02T09:36:17Z", 
         "adjacent": [
           "woe:state=2347611", 
           "woe:state=2347613", 
@@ -66,10 +66,19 @@
           "woe:state=2347639"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 12.685, 
+        "latitude": 12.252, 
         "sw_longitude": -1.117, 
         "fullname": "Ganzourgou, Burkina Faso", 
-        "date_indexed": "2010-12-02T09:36:17Z"
+        "children": [
+          "woe:county=55967405", 
+          "woe:county=55967400", 
+          "woe:county=55967403", 
+          "woe:county=55967401", 
+          "woe:county=55967402", 
+          "woe:county=55967404", 
+          "woe:county=55967406"
+        ], 
+        "sw_latitude": 11.819
       }, 
       "id": 2347615
     }

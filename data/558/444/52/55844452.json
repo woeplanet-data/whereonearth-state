@@ -43,21 +43,27 @@
           "woe:planet=1"
         ], 
         "woeid": 55844452, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 28.209, 
         "longitude": 28.102, 
         "placetype": "state", 
+        "latitude": 56.35, 
         "iso": "LV", 
-        "date_indexed": "2010-12-02T08:49:33Z", 
+        "sw_latitude": 56.282, 
         "adjacent": [
           "woe:state=56190565", 
           "woe:state=56190544"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 56.419, 
-        "latitude": 56.35, 
         "sw_longitude": 27.996, 
         "fullname": "Zilupes Novads, Ludzas Rajons, Zilupes Novads, Latvia", 
-        "sw_latitude": 56.282
+        "children": [
+          "woe:county=55844441", 
+          "woe:county=55844539", 
+          "woe:county=56190505", 
+          "woe:county=55844609"
+        ], 
+        "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 55844452
     }

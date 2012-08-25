@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55848359, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.57, 
         "longitude": 15.452, 
         "placetype": "state", 
+        "latitude": 45.931, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 45.791, 
         "adjacent": [
           "woe:state=55848342", 
           "woe:state=55848372", 
@@ -61,11 +61,14 @@
           "woe:state=55848390", 
           "woe:state=12577990"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.072, 
-        "latitude": 45.931, 
         "sw_longitude": 15.334, 
         "fullname": "Krsko, Slovenia", 
-        "sw_latitude": 45.791
+        "children": [
+          "woe:county=12591561"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848359
     }

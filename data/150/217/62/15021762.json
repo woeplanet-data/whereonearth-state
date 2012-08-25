@@ -36,6 +36,7 @@
           15021764
         ], 
         "name": "Wellington", 
+        "ne_latitude": -40.659, 
         "hierarchy": [
           "woe:state=15021762", 
           "woe:country=23424916", 
@@ -45,17 +46,39 @@
         "ne_longitude": 176.333, 
         "longitude": 175.473, 
         "placetype": "state", 
-        "latitude": -41.136, 
         "iso": "NZ", 
-        "sw_latitude": -41.614, 
+        "date_indexed": "2010-12-02T17:02:10Z", 
         "adjacent": [
           "woe:state=15021764"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -40.659, 
+        "latitude": -41.136, 
         "sw_longitude": 174.613, 
         "fullname": "Wellington, New Zealand", 
-        "date_indexed": "2010-12-02T17:02:10Z"
+        "children": [
+          "woe:county=55875895", 
+          "woe:county=55875852", 
+          "woe:county=55875918", 
+          "woe:county=55875869", 
+          "woe:county=55875866", 
+          "woe:county=55875853", 
+          "woe:county=55875896", 
+          "woe:county=55875846", 
+          "woe:island=12497494", 
+          "woe:island=28645816", 
+          "woe:island=12497254", 
+          "woe:island=28645825", 
+          "woe:island=28645834", 
+          "woe:island=28645897", 
+          "woe:island=28646108", 
+          "woe:island=28646116", 
+          "woe:island=28646166", 
+          "woe:landfeature=56025356", 
+          "woe:drainage=28737079", 
+          "woe:drainage=28737102", 
+          "woe:drainage=28737118"
+        ], 
+        "sw_latitude": -41.614
       }, 
       "id": 15021762
     }

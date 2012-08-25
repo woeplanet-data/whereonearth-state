@@ -45,23 +45,28 @@
           "woe:planet=1"
         ], 
         "woeid": 24550720, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.311, 
         "longitude": 45.042, 
         "placetype": "state", 
+        "latitude": 39.537, 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 39.288, 
         "adjacent": [
           "woe:state=20070211", 
           "woe:state=2345767", 
           "woe:state=20070275", 
           "woe:state=20070205"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 39.786, 
-        "latitude": 39.537, 
         "sw_longitude": 44.772, 
         "fullname": "Sarur, Azerbaijan", 
-        "sw_latitude": 39.288
+        "children": [
+          "woe:town=1951952", 
+          "woe:town=1952007", 
+          "woe:town=1952004"
+        ], 
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 24550720
     }

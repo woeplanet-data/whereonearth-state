@@ -36,6 +36,7 @@
           2346581
         ], 
         "name": "National Capital", 
+        "ne_latitude": -9.41, 
         "hierarchy": [
           "woe:state=2346600", 
           "woe:country=23424926", 
@@ -45,17 +46,22 @@
         "ne_longitude": 147.299, 
         "longitude": 147.195, 
         "placetype": "state", 
-        "latitude": -9.477, 
         "iso": "PG", 
-        "sw_latitude": -9.544, 
+        "date_indexed": "2010-12-02T09:57:22Z", 
         "adjacent": [
           "woe:state=2346581"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -9.41, 
+        "latitude": -9.477, 
         "sw_longitude": 147.091, 
         "fullname": "National Capital, Papua New Guinea", 
-        "date_indexed": "2010-12-02T09:57:22Z"
+        "children": [
+          "woe:town=1053331", 
+          "woe:town=1058207", 
+          "woe:town=1062005", 
+          "woe:island=12497834"
+        ], 
+        "sw_latitude": -9.544
       }, 
       "id": 2346600
     }

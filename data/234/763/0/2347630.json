@@ -41,6 +41,7 @@
           56017364
         ], 
         "name": "Poni", 
+        "ne_latitude": 10.763, 
         "hierarchy": [
           "woe:state=2347630", 
           "woe:country=23424978", 
@@ -50,9 +51,8 @@
         "ne_longitude": -2.763, 
         "longitude": -3.346, 
         "placetype": "state", 
-        "latitude": 10.082, 
         "iso": "BF", 
-        "sw_latitude": 9.852, 
+        "date_indexed": "2010-12-02T09:36:17Z", 
         "adjacent": [
           "woe:state=2347612", 
           "woe:state=55967357", 
@@ -62,10 +62,21 @@
           "woe:state=55967007"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 10.763, 
+        "latitude": 10.082, 
         "sw_longitude": -4.001, 
         "fullname": "Poni, Burkina Faso", 
-        "date_indexed": "2010-12-02T09:36:17Z"
+        "children": [
+          "woe:county=55967498", 
+          "woe:county=55967500", 
+          "woe:county=55967504", 
+          "woe:county=55967507", 
+          "woe:county=55967508", 
+          "woe:county=55967505", 
+          "woe:county=55967506", 
+          "woe:county=55967503", 
+          "woe:county=55967499"
+        ], 
+        "sw_latitude": 9.852
       }, 
       "id": 2347630
     }

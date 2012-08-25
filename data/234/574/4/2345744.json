@@ -4964,17 +4964,38 @@
         "ne:Shape_Area": 4.07749492343, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "HR"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IND", 
+        "children": [
+          "woe:county=12586437", 
+          "woe:county=12586438", 
+          "woe:county=12586440", 
+          "woe:county=28298849", 
+          "woe:county=12586441", 
+          "woe:county=12586442", 
+          "woe:county=28298850", 
+          "woe:county=12586443", 
+          "woe:county=12586444", 
+          "woe:county=12586445", 
+          "woe:county=12586446", 
+          "woe:county=12586447", 
+          "woe:county=28298851", 
+          "woe:county=12586448", 
+          "woe:county=12586449", 
+          "woe:county=12586450", 
+          "woe:county=12586451", 
+          "woe:county=12586452", 
+          "woe:county=12586453"
+        ], 
         "ne:ScaleRank": 2, 
         "alias_CHI_Q": [
           "\u54c8\u91cc\u4e9a\u7eb3\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 2430, 
         "alias_JPN_Q": [
           "\u30cf\u30ea\u30e4\u30ca"
         ], 
@@ -4996,9 +5017,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 27.67040436417011, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 2430, 
+        "ne:VertexCou": 1234.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "HR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -5014,8 +5035,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 43945.3, 
         "woe:id": "2345744", 
-        "name": "Haryana", 
-        "ne:VertexCou": 1234.0, 
+        "ne:HASC_1": "IN.HR", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2345745, 
           2345756, 
@@ -5024,7 +5045,7 @@
           20070456, 
           20070458
         ], 
-        "ne:HASC_1": "IN.HR", 
+        "name": "Haryana", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 77.58795698392771, 
         "longitude": 76.037, 

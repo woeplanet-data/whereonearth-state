@@ -42,21 +42,19 @@
           20070566
         ], 
         "name": "Las Piedras", 
+        "ne_latitude": 18.275, 
         "hierarchy": [
           "woe:state=2346799", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346799, 
-        "alias_SPA_V": [
-          "Las Piedras Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -65.816, 
         "longitude": -65.872, 
         "placetype": "state", 
-        "latitude": 18.197, 
         "sw_longitude": -65.928, 
-        "sw_latitude": 18.118, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=20070566", 
           "woe:state=2346824", 
@@ -66,11 +64,23 @@
           "woe:state=2346806", 
           "woe:state=2346825"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.275, 
+        "alias_SPA_V": [
+          "Las Piedras Municipios"
+        ], 
+        "latitude": 18.197, 
         "iso": "PR", 
         "fullname": "Las Piedras, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806444", 
+          "woe:county=26806445", 
+          "woe:county=26806446", 
+          "woe:county=26806447", 
+          "woe:county=26806448", 
+          "woe:county=26806449", 
+          "woe:county=26806450", 
+          "woe:county=26806451"
+        ], 
+        "sw_latitude": 18.118
       }, 
       "id": 2346799
     }

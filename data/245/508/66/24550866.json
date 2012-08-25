@@ -39,6 +39,7 @@
           24550820, 
           55848400
         ], 
+        "ne_latitude": 41.986, 
         "name": "Kisela Voda", 
         "alias_ENG_P": [
           "Kisela Voda Municipality"
@@ -56,9 +57,8 @@
         "longitude": 21.546, 
         "ne_longitude": 21.584, 
         "placetype": "state", 
-        "latitude": 41.944, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.899, 
         "adjacent": [
           "woe:state=55848400", 
           "woe:state=24550756", 
@@ -67,10 +67,14 @@
           "woe:state=24550820"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.986, 
+        "latitude": 41.944, 
         "sw_longitude": 21.491, 
         "fullname": "Kisela Voda, Skopje, Kisela Voda Municipality, Macedonia", 
-        "sw_latitude": 41.899
+        "children": [
+          "woe:town=481990", 
+          "woe:town=482475"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550866
     }

@@ -40,6 +40,7 @@
           20070560
         ], 
         "name": "Diekirch", 
+        "ne_latitude": 50.183, 
         "hierarchy": [
           "woe:state=20070542", 
           "woe:country=23424881", 
@@ -49,9 +50,8 @@
         "ne_longitude": 6.314, 
         "longitude": 6.025, 
         "placetype": "state", 
-        "latitude": 49.942, 
         "iso": "LU", 
-        "sw_latitude": 49.702, 
+        "date_indexed": "2010-12-02T08:54:13Z", 
         "adjacent": [
           "woe:state=20070559", 
           "woe:state=7153300", 
@@ -60,10 +60,21 @@
           "woe:state=2345488"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 50.183, 
+        "latitude": 49.942, 
         "sw_longitude": 5.736, 
         "fullname": "Diekirch, Luxembourg", 
-        "date_indexed": "2010-12-02T08:54:13Z"
+        "children": [
+          "woe:county=12591938", 
+          "woe:county=12591984", 
+          "woe:county=12591945", 
+          "woe:county=12591935", 
+          "woe:county=12591998", 
+          "woe:zone=24874245", 
+          "woe:zone=24874251", 
+          "woe:zone=24874253", 
+          "woe:zone=24874254"
+        ], 
+        "sw_latitude": 49.702
       }, 
       "id": 20070542
     }

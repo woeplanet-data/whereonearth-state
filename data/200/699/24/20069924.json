@@ -49,20 +49,24 @@
         "woeid": 20069924, 
         "ne_longitude": -61.45, 
         "longitude": -61.458, 
+        "ne_latitude": 10.297, 
         "placetype": "state", 
-        "latitude": 10.286, 
         "iso": "TT", 
-        "sw_latitude": 10.275, 
+        "date_indexed": "2010-12-02T18:05:31Z", 
         "adjacent": [
           "woe:state=56189827", 
           "woe:state=56189829", 
           "woe:state=56189831"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 10.297, 
+        "latitude": 10.286, 
         "sw_longitude": -61.465, 
         "fullname": "San Fernando, Trinidad and Tobago", 
-        "date_indexed": "2010-12-02T18:05:31Z"
+        "children": [
+          "woe:town=380133", 
+          "woe:town=380328"
+        ], 
+        "sw_latitude": 10.275
       }, 
       "id": 20069924
     }

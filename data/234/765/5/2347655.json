@@ -40,24 +40,22 @@
           2347649
         ], 
         "name": "San Jos\u00e9", 
+        "ne_latitude": -33.881, 
         "hierarchy": [
           "woe:state=2347655", 
           "woe:country=23424979", 
           "woe:planet=1"
         ], 
         "woeid": 2347655, 
-        "alias_SPA_V": [
-          "San Jos\u00e9 de Mayo"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -56.343, 
         "longitude": -56.744, 
         "placetype": "state", 
-        "latitude": -34.336, 
         "alias_SPA_S": [
           "San Jose de Mayo"
         ], 
         "sw_longitude": -57.145, 
-        "sw_latitude": -34.791, 
+        "date_indexed": "2010-12-02T17:58:18Z", 
         "adjacent": [
           "woe:state=2347641", 
           "woe:state=2347643", 
@@ -65,11 +63,34 @@
           "woe:state=2347646", 
           "woe:state=2347649"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -33.881, 
+        "alias_SPA_V": [
+          "San Jos\u00e9 de Mayo"
+        ], 
+        "latitude": -34.336, 
         "iso": "UY", 
         "fullname": "San Jos\u00e9, Uruguay", 
-        "date_indexed": "2010-12-02T17:58:18Z"
+        "children": [
+          "woe:town=380955", 
+          "woe:town=380411", 
+          "woe:town=468020", 
+          "woe:town=380924", 
+          "woe:town=468024", 
+          "woe:town=380536", 
+          "woe:town=380538", 
+          "woe:town=468092", 
+          "woe:town=468029", 
+          "woe:town=56125547", 
+          "woe:town=380638", 
+          "woe:town=56125549", 
+          "woe:town=26794420", 
+          "woe:town=380773", 
+          "woe:town=380941", 
+          "woe:town=468798", 
+          "woe:town=56125548", 
+          "woe:town=26794419", 
+          "woe:town=26796593"
+        ], 
+        "sw_latitude": -34.791
       }, 
       "id": 2347655
     }

@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
+        "ne_latitude": -15.788, 
         "name": "\u00celes sous le Vent", 
         "alias_ENG_P": [
           "Leeward Islands"
@@ -42,20 +43,31 @@
           "woe:planet=1"
         ], 
         "woeid": 24549699, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -150.945, 
         "longitude": -151.424, 
+        "children": [
+          "woe:county=28743663", 
+          "woe:county=28743706", 
+          "woe:county=28743707", 
+          "woe:county=28743672", 
+          "woe:county=28743709", 
+          "woe:county=28743708", 
+          "woe:county=28743710", 
+          "woe:island=12490377", 
+          "woe:island=12507749", 
+          "woe:island=28743713"
+        ], 
         "placetype": "state", 
         "iso": "PF", 
-        "date_indexed": "2010-12-02T17:05:43Z", 
-        "ne_latitude": -15.788, 
+        "sw_latitude": -16.918, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -16.818, 
         "sw_longitude": -154.688, 
         "fullname": "\u00celes sous le Vent, Leeward Islands, French Polynesia", 
         "alias_FRE_S": [
           "Iles sous le Vent"
         ], 
-        "sw_latitude": -16.918
+        "date_indexed": "2010-12-02T17:05:43Z"
       }, 
       "id": 24549699
     }

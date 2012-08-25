@@ -31,13 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FIN", 
-        "adjacent_woeid": [
-          2346388, 
-          2346401, 
-          2347057, 
-          29389265
-        ], 
         "alias_SWE_V": [
           "Lappland"
         ], 
@@ -53,27 +46,69 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 70.092, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 30.018, 
-        "longitude": 25.283, 
         "placetype": "state", 
+        "children": [
+          "woe:county=29389271", 
+          "woe:county=29389290", 
+          "woe:county=29389309", 
+          "woe:county=56120881", 
+          "woe:county=29389335", 
+          "woe:county=29389336", 
+          "woe:landfeature=29358087", 
+          "woe:landfeature=29358066", 
+          "woe:drainage=29353894", 
+          "woe:drainage=29354082", 
+          "woe:drainage=29354422", 
+          "woe:drainage=29354730", 
+          "woe:drainage=29354732", 
+          "woe:drainage=29355030", 
+          "woe:drainage=29355072", 
+          "woe:drainage=29355129", 
+          "woe:drainage=29355691", 
+          "woe:drainage=29357959", 
+          "woe:drainage=29355813", 
+          "woe:drainage=29355883", 
+          "woe:drainage=29357966", 
+          "woe:drainage=29355959", 
+          "woe:drainage=29355981", 
+          "woe:drainage=29356127", 
+          "woe:drainage=29356303", 
+          "woe:drainage=29357988", 
+          "woe:drainage=29357997", 
+          "woe:drainage=29357356", 
+          "woe:drainage=29357361", 
+          "woe:drainage=29357394", 
+          "woe:drainage=29357532", 
+          "woe:drainage=29357531", 
+          "woe:drainage=29357799"
+        ], 
+        "woeid": 29389263, 
         "sw_longitude": 20.549, 
-        "date_indexed": "2010-12-02T16:39:41Z", 
         "alias_FIN_V": [
           "Lapin maakuntana"
         ], 
-        "woeid": 29389263, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 67.84, 
-        "iso": "FI", 
-        "fullname": "Lapin maakunta, Lapland, Lapland, Finland", 
+        "sw_latitude": 65.578, 
         "adjacent": [
           "woe:state=2346388", 
           "woe:state=2347057", 
           "woe:state=29389265", 
           "woe:state=2346401"
         ], 
-        "sw_latitude": 65.578, 
-        "name": "Lapin maakunta"
+        "lang": "FIN", 
+        "adjacent_woeid": [
+          2346388, 
+          2346401, 
+          2347057, 
+          29389265
+        ], 
+        "name": "Lapin maakunta", 
+        "ne_longitude": 30.018, 
+        "longitude": 25.283, 
+        "iso": "FI", 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "fullname": "Lapin maakunta, Lapland, Lapland, Finland"
       }, 
       "id": 29389263
     }

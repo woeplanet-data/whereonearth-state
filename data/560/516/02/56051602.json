@@ -46,21 +46,38 @@
           "woe:planet=1"
         ], 
         "woeid": 56051602, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 50.825, 
         "longitude": 50.543, 
         "placetype": "state", 
+        "latitude": 25.969, 
         "iso": "BH", 
-        "date_indexed": "2010-12-02T16:11:57Z", 
+        "sw_latitude": 25.556, 
         "adjacent": [
           "woe:state=56051601", 
           "woe:state=56051603"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 26.146, 
-        "latitude": 25.969, 
         "sw_longitude": 50.454, 
         "fullname": "Southern, Bahrain", 
-        "sw_latitude": 25.556
+        "children": [
+          "woe:town=1966949", 
+          "woe:town=1966968", 
+          "woe:town=1966991", 
+          "woe:town=1966981", 
+          "woe:town=1967061", 
+          "woe:town=1967062", 
+          "woe:town=1966993", 
+          "woe:town=1966988", 
+          "woe:town=56123258", 
+          "woe:town=1967017", 
+          "woe:island=12466903", 
+          "woe:island=12466890", 
+          "woe:island=12466891", 
+          "woe:island=12468846", 
+          "woe:island=12466895"
+        ], 
+        "date_indexed": "2010-12-02T16:11:57Z"
       }, 
       "id": 56051602
     }

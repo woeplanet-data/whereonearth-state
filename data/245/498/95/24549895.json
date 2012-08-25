@@ -46,12 +46,12 @@
           "woe:planet=1"
         ], 
         "woeid": 24549895, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 125.544, 
         "longitude": 125.369, 
         "placetype": "state", 
+        "latitude": -8.812, 
         "iso": "TL", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
+        "sw_latitude": -8.993, 
         "adjacent": [
           "woe:state=24549899", 
           "woe:state=24549900", 
@@ -59,11 +59,19 @@
           "woe:state=24549894", 
           "woe:state=24549897"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -8.631, 
-        "latitude": -8.812, 
         "sw_longitude": 125.195, 
         "fullname": "Ermera, East Timor", 
-        "sw_latitude": -8.993
+        "children": [
+          "woe:town=1047150", 
+          "woe:town=1047417", 
+          "woe:town=1047420", 
+          "woe:town=1048884", 
+          "woe:town=1033697", 
+          "woe:town=1047762"
+        ], 
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 24549895
     }

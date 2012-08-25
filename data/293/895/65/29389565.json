@@ -37,7 +37,7 @@
           29389559
         ], 
         "name": "Vlor\u00eb", 
-        "latitude": 40.155, 
+        "ne_latitude": 40.665, 
         "alias_UNK_S": [
           "Vlore"
         ], 
@@ -51,16 +51,22 @@
           "woe:planet=1"
         ], 
         "iso": "AL", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 39.644, 
         "adjacent": [
           "woe:state=29389558", 
           "woe:state=29389559"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 40.665, 
+        "latitude": 40.155, 
         "sw_longitude": 19.29, 
         "fullname": "Vlor\u00eb, Albania", 
-        "sw_latitude": 39.644
+        "children": [
+          "woe:county=20069960", 
+          "woe:county=20069961", 
+          "woe:county=20069958", 
+          "woe:island=12470705"
+        ], 
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 29389565
     }

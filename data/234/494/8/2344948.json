@@ -41,6 +41,7 @@
           56013485
         ], 
         "name": "Chari-Baguirmi", 
+        "ne_latitude": 12.399, 
         "hierarchy": [
           "woe:state=2344948", 
           "woe:country=23424777", 
@@ -53,9 +54,8 @@
           "CB"
         ], 
         "placetype": "state", 
-        "latitude": 11.615, 
         "iso": "TD", 
-        "sw_latitude": 9.821, 
+        "date_indexed": "2010-12-02T08:53:18Z", 
         "adjacent": [
           "woe:state=2344949", 
           "woe:state=56013481", 
@@ -65,10 +65,15 @@
           "woe:state=56013485"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 12.399, 
+        "latitude": 11.615, 
         "sw_longitude": 15.025, 
         "fullname": "Chari-Baguirmi, Chad", 
-        "date_indexed": "2010-12-02T08:53:18Z"
+        "children": [
+          "woe:county=56013516", 
+          "woe:county=56013520", 
+          "woe:county=56013517"
+        ], 
+        "sw_latitude": 9.821
       }, 
       "id": 2344948
     }

@@ -10125,13 +10125,28 @@
         "ne:Shape_Area": 54.4277097703, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\ud5e4\uc774\ub8fd\uc7a5"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "children": [
+          "woe:county=26198060", 
+          "woe:county=26198062", 
+          "woe:county=26198262", 
+          "woe:county=26198263", 
+          "woe:county=26198257", 
+          "woe:county=26198057", 
+          "woe:county=26198260", 
+          "woe:county=26198059", 
+          "woe:county=26198258", 
+          "woe:county=26198261", 
+          "woe:county=26198061", 
+          "woe:county=26198058", 
+          "woe:county=26198259"
+        ], 
+        "ne:OBJECTID": 1839, 
         "alias_CHI_V": [
           "\u9ed1\u9f8d\u6c5f"
         ], 
@@ -10160,9 +10175,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 43.43269806596305, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1839, 
+        "ne:VertexCou": 2377.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "HL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Heil\u00f3ngjiang", 
@@ -10178,8 +10193,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 452282.3, 
         "woe:id": "12577998", 
-        "name": "\u9ed1\u9f99\u6c5f\u7701", 
-        "ne:VertexCou": 2377.0, 
+        "ne:HASC_1": "CN.HL", 
+        "lang": "CHI", 
         "adjacent_woeid": [
           2346883, 
           2346886, 
@@ -10189,7 +10204,7 @@
           12578009, 
           20070516
         ], 
-        "ne:HASC_1": "CN.HL", 
+        "name": "\u9ed1\u9f99\u6c5f\u7701", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 134.772580193821, 
         "longitude": 127.987, 

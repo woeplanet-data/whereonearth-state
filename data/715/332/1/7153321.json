@@ -1926,19 +1926,24 @@
         "ne:Shape_Area": 1.96822748497, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "alias_KOR_Q": [
           "\ub9ac\ubb34\uc7c1"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "FRA", 
+        "children": [
+          "woe:county=12597163", 
+          "woe:county=12597164", 
+          "woe:county=12597196"
+        ], 
         "alias_CHI_Q": [
           "\u5229\u7a46\u8d5e"
         ], 
         "alias_ITA_Q": [
           "Limosino"
         ], 
-        "ne:DataRank": 3, 
+        "ne:OBJECTID": 2681, 
         "alias_JPN_Q": [
           "\u30ea\u30e0\u30fc\u30b6\u30f3"
         ], 
@@ -1959,9 +1964,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 44.932864895298735, 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 2681, 
+        "ne:VertexCou": 475.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lemosin", 
@@ -1977,8 +1982,8 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 17014.4, 
         "woe:id": "7153321", 
-        "name": "Limousin", 
-        "ne:VertexCou": 475.0, 
+        "ne:HASC_1": null, 
+        "lang": "FRE", 
         "adjacent_woeid": [
           7153309, 
           7153310, 
@@ -1986,7 +1991,7 @@
           7153323, 
           7153327
         ], 
-        "ne:HASC_1": null, 
+        "name": "Limousin", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 2.59775394079179, 
         "longitude": 1.621, 

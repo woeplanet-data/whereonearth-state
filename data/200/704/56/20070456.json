@@ -31,19 +31,8 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u660c\u8fea\u52a0\u5c14"
-        ], 
-        "lang": "ENG", 
-        "alias_ENG_A": [
-          "CHD"
-        ], 
         "alias_KOR_Q": [
           "\ucc2c\ub514\uac00\ub974"
-        ], 
-        "adjacent_woeid": [
-          2345744, 
-          2345756
         ], 
         "hierarchy": [
           "woe:state=20070456", 
@@ -51,25 +40,39 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 30.795, 
+        "placetype": "state", 
+        "alias_ENG_A": [
+          "CHD"
+        ], 
+        "children": [
+          "woe:county=12586629"
+        ], 
+        "alias_CHI_Q": [
+          "\u660c\u8fea\u52a0\u5c14"
+        ], 
+        "woeid": 20070456, 
         "alias_JPN_Q": [
           "\u30c1\u30e3\u30f3\u30c7\u30a3\u30fc\u30ac\u30eb"
         ], 
-        "ne_longitude": 76.849, 
-        "longitude": 76.777, 
-        "placetype": "state", 
         "sw_longitude": 76.705, 
-        "sw_latitude": 30.657, 
         "adjacent": [
           "woe:state=2345744", 
           "woe:state=2345756"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 30.726, 
-        "iso": "IN", 
-        "fullname": "Chandigarh, India", 
-        "woeid": 20070456, 
         "date_indexed": "2010-12-02T08:59:14Z", 
-        "name": "Chandigarh"
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2345744, 
+          2345756
+        ], 
+        "name": "Chandigarh", 
+        "ne_longitude": 76.849, 
+        "longitude": 76.777, 
+        "iso": "IN", 
+        "sw_latitude": 30.657, 
+        "fullname": "Chandigarh, India"
       }, 
       "id": 20070456
     }

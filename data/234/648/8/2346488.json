@@ -41,6 +41,7 @@
           2346490
         ], 
         "name": "Puno", 
+        "ne_latitude": -13.006, 
         "hierarchy": [
           "woe:state=2346488", 
           "woe:country=23424919", 
@@ -50,9 +51,8 @@
         "ne_longitude": -68.814, 
         "longitude": -69.973, 
         "placetype": "state", 
-        "latitude": -15.159, 
         "iso": "PE", 
-        "sw_latitude": -17.312, 
+        "date_indexed": "2010-12-02T16:12:03Z", 
         "adjacent": [
           "woe:state=2346471", 
           "woe:state=2346475", 
@@ -62,10 +62,25 @@
           "woe:state=2346490"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -13.006, 
+        "latitude": -15.159, 
         "sw_longitude": -71.131, 
         "fullname": "Puno, Peru", 
-        "date_indexed": "2010-12-02T16:12:03Z"
+        "children": [
+          "woe:county=26805790", 
+          "woe:county=26805808", 
+          "woe:county=26805824", 
+          "woe:county=26805839", 
+          "woe:county=26805852", 
+          "woe:county=26805878", 
+          "woe:county=26805891", 
+          "woe:county=26805892", 
+          "woe:county=26805918", 
+          "woe:county=26805925", 
+          "woe:county=26805931", 
+          "woe:county=26805933", 
+          "woe:county=26805961"
+        ], 
+        "sw_latitude": -17.312
       }, 
       "id": 2346488
     }

@@ -2244,17 +2244,20 @@
         "ne:Shape_Area": 91.5536409658, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19120515", 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "MB"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CAN", 
+        "children": [
+          "woe:county=29375231"
+        ], 
         "ne:ScaleRank": 2, 
         "alias_CHI_Q": [
           "\u9a6c\u5c3c\u6258\u5df4\u7701"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 630, 
         "alias_JPN_Q": [
           "\u30de\u30cb\u30c8\u30d0"
         ], 
@@ -2276,9 +2279,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 48.99305634187675, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 630, 
+        "ne:VertexCou": 553.0, 
+        "ne:VALIDFR_1": "19120515", 
+        "ne:DataRank": 2, 
         "ne:Postal": "MB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2294,8 +2297,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 652596.7, 
         "woe:id": "2344917", 
-        "name": "Manitoba", 
-        "ne:VertexCou": 553.0, 
+        "ne:HASC_1": "CA.MB", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2344920, 
           2344922, 
@@ -2304,7 +2307,7 @@
           2347593, 
           20069920
         ], 
-        "ne:HASC_1": "CA.MB", 
+        "name": "Manitoba", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -88.94673580561289, 
         "longitude": -95.494, 

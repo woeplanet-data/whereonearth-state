@@ -42,6 +42,7 @@
           20070095
         ], 
         "name": "Kampong Spoe", 
+        "ne_latitude": 12.029, 
         "hierarchy": [
           "woe:state=2344930", 
           "woe:country=23424776", 
@@ -51,9 +52,8 @@
         "ne_longitude": 104.805, 
         "longitude": 104.278, 
         "placetype": "state", 
-        "latitude": 11.549, 
         "iso": "KH", 
-        "sw_latitude": 11.07, 
+        "date_indexed": "2010-12-02T16:11:17Z", 
         "adjacent": [
           "woe:state=2344929", 
           "woe:state=2344932", 
@@ -64,10 +64,20 @@
           "woe:state=2344944"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 12.029, 
+        "latitude": 11.549, 
         "sw_longitude": 103.75, 
         "fullname": "Kampong Spoe, Cambodia", 
-        "date_indexed": "2010-12-02T16:11:17Z"
+        "children": [
+          "woe:county=56063253", 
+          "woe:county=56063254", 
+          "woe:county=56063255", 
+          "woe:county=56063256", 
+          "woe:county=56063257", 
+          "woe:county=56063258", 
+          "woe:county=56063259", 
+          "woe:county=56063260"
+        ], 
+        "sw_latitude": 11.07
       }, 
       "id": 2344930
     }

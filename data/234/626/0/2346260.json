@@ -358,18 +358,25 @@
         "ne:Shape_Area": 0.407726770654, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 6, 
         "ne:gadm_level": 1.0, 
         "alias_ARA_V": [
           "Matrah"
         ], 
         "ne:ADM0_A3": "OMN", 
+        "children": [
+          "woe:county=55927080", 
+          "woe:county=55927069", 
+          "woe:county=55927093", 
+          "woe:county=55927054", 
+          "woe:county=55927048"
+        ], 
+        "ne:VALIDTO_1": "Present", 
+        "ne:OBJECTID": 2426, 
+        "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Mascat"
         ], 
-        "ne:DataRank": 8, 
-        "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
         "sw_longitude": 58.092816196610215, 
         "adjacent": [
           "woe:state=2346261", 
@@ -383,9 +390,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 22.79385447870129, 
-        "lang": "ARA", 
-        "ne:MAP_COLOR": 6, 
-        "ne:OBJECTID": 2426, 
+        "ne:VertexCou": 83.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "MA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Masqat", 
@@ -404,14 +411,14 @@
           "Maskat"
         ], 
         "woe:id": "2346260", 
-        "name": "Masqat", 
-        "ne:VertexCou": 83.0, 
+        "ne:HASC_1": "OM.MA", 
+        "lang": "ARA", 
         "adjacent_woeid": [
           2346256, 
           2346261, 
           7038775
         ], 
-        "ne:HASC_1": "OM.MA", 
+        "name": "Masqat", 
         "ne:REMARKS_1": null, 
         "alias_UNK_Q": [
           "Mascate"

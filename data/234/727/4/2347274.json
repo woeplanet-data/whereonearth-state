@@ -38,11 +38,11 @@
           2347310
         ], 
         "name": "\u00c7anakkale", 
-        "ne_latitude": 40.737, 
         "alias_UNK_S": [
           "Canakkale"
         ], 
         "woeid": 2347274, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 27.528, 
         "longitude": 26.796, 
         "placetype": "state", 
@@ -52,17 +52,31 @@
           "woe:planet=1"
         ], 
         "iso": "TR", 
-        "sw_latitude": 39.454, 
+        "date_indexed": "2010-12-02T16:22:51Z", 
         "adjacent": [
           "woe:state=2347267", 
           "woe:state=2347279", 
           "woe:state=2347310"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.737, 
         "latitude": 39.965, 
         "sw_longitude": 25.664, 
         "fullname": "\u00c7anakkale, Turkey", 
-        "date_indexed": "2010-12-02T16:22:51Z"
+        "children": [
+          "woe:county=29390112", 
+          "woe:county=29390139", 
+          "woe:county=29390158", 
+          "woe:county=29390170", 
+          "woe:county=29390291", 
+          "woe:county=29390327", 
+          "woe:county=29390343", 
+          "woe:county=29390354", 
+          "woe:county=29390543", 
+          "woe:county=29390600", 
+          "woe:county=29390871", 
+          "woe:county=29390198"
+        ], 
+        "sw_latitude": 39.454
       }, 
       "id": 2347274
     }

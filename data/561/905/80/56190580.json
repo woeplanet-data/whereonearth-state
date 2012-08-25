@@ -12,14 +12,15 @@
           56190540
         ], 
         "name": "Vai\u0144odes Novads", 
-        "alias_UNK_S": [
-          "Vainodes Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190580", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190580, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Vainodes Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -29,7 +30,10 @@
           "woe:state=56190552"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190580, 
+        "children": [
+          "woe:county=55844436", 
+          "woe:county=55844551"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190580

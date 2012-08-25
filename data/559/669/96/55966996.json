@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55966996, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -5.938, 
         "longitude": -6.512, 
         "placetype": "state", 
+        "latitude": 7.014, 
         "iso": "CI", 
-        "date_indexed": "2010-12-02T09:35:13Z", 
+        "sw_latitude": 6.232, 
         "adjacent": [
           "woe:state=55967008", 
           "woe:state=55966994", 
@@ -61,11 +61,16 @@
           "woe:state=55966999", 
           "woe:state=55967006"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 7.795, 
-        "latitude": 7.014, 
         "sw_longitude": -7.086, 
         "fullname": "Haut-Sassandra, Ivory Coast", 
-        "sw_latitude": 6.232
+        "children": [
+          "woe:county=20069972", 
+          "woe:county=20069811", 
+          "woe:county=20069971"
+        ], 
+        "date_indexed": "2010-12-02T09:35:13Z"
       }, 
       "id": 55966996
     }

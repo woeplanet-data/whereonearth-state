@@ -32,24 +32,34 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "ne_latitude": -12.243, 
         "name": "Moheli", 
         "hierarchy": [
           "woe:state=2345045", 
           "woe:country=23424786", 
           "woe:planet=1"
         ], 
-        "woeid": 2345045, 
+        "ne_latitude": -12.243, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 43.934, 
         "longitude": 43.741, 
         "placetype": "state", 
         "iso": "KM", 
-        "sw_latitude": -12.414, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "woeid": 2345045, 
         "latitude": -12.315, 
         "sw_longitude": 43.616, 
         "fullname": "Moheli, Comoros", 
-        "date_indexed": "2010-12-02T17:06:00Z"
+        "children": [
+          "woe:town=1306043", 
+          "woe:town=1306100", 
+          "woe:town=1306125", 
+          "woe:island=12465397", 
+          "woe:island=12465398", 
+          "woe:island=12465407", 
+          "woe:island=12506988", 
+          "woe:airport=12512356"
+        ], 
+        "sw_latitude": -12.414
       }, 
       "id": 2345045
     }

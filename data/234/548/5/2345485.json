@@ -5696,6 +5696,7 @@
       "type": "Feature", 
       "properties": {
         "ne:ProvNumber": 19, 
+        "ne:ISO": "DEU", 
         "ne:ScaleRank": 3, 
         "alias_ENG_P": [
           "Hesse"
@@ -5706,32 +5707,67 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 51.65501272245922, 
-        "alias_GER_A": [
-          "HE"
-        ], 
         "ne:Shape_Area": 2.66816365428, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 1, 
         "alias_KOR_Q": [
           "\ud5e4\uc13c"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "DEU", 
+        "children": [
+          "woe:county=12596868", 
+          "woe:county=12596968", 
+          "woe:county=12596962", 
+          "woe:county=12597035", 
+          "woe:county=12596769", 
+          "woe:county=12596760", 
+          "woe:county=12596926", 
+          "woe:county=12597049", 
+          "woe:county=12596885", 
+          "woe:county=12596878", 
+          "woe:county=12596883", 
+          "woe:county=12597013", 
+          "woe:county=12596951", 
+          "woe:county=12596865", 
+          "woe:county=12597040", 
+          "woe:county=12596846", 
+          "woe:county=12596819", 
+          "woe:county=12597057", 
+          "woe:county=12597087", 
+          "woe:county=20071100", 
+          "woe:county=12597088", 
+          "woe:county=12597038", 
+          "woe:county=12596971", 
+          "woe:county=12596852", 
+          "woe:county=12596751", 
+          "woe:county=12596966", 
+          "woe:zone=24871266", 
+          "woe:zone=24871269", 
+          "woe:zone=24871274", 
+          "woe:zone=24871278", 
+          "woe:zone=24871308", 
+          "woe:zone=24871325", 
+          "woe:zone=24871482", 
+          "woe:zone=24871540", 
+          "woe:zone=24871549", 
+          "woe:zone=24871573", 
+          "woe:zone=24871749", 
+          "woe:zone=24871786", 
+          "woe:zone=24872064"
+        ], 
         "alias_CHI_Q": [
           "\u9ed1\u68ee"
         ], 
         "alias_ITA_Q": [
           "Assia"
         ], 
-        "alias_GER_V": [
-          "Land Hessen"
-        ], 
-        "ne:DataRank": 3, 
+        "ne:Area_sqkm": 21012.4, 
+        "ne:OBJECTID": 1574, 
         "alias_JPN_Q": [
           "\u30d8\u30c3\u30bb\u30f3"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 7.771391635615544, 
@@ -5750,13 +5786,15 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 49.39628754313566, 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 1574, 
+        "ne:VertexCou": 1420.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 3, 
         "ne:Postal": "HE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Hesse", 
-        "ne:ISO": "DEU", 
+        "alias_GER_A": [
+          "HE"
+        ], 
         "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 12.2852891289, 
@@ -5764,12 +5802,14 @@
         "ne:NAME_0": "Germany", 
         "ne:NAME_1": "Hessen", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Land", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 3, 
-        "ne:Area_sqkm": 21012.4, 
+        "alias_GER_V": [
+          "Land Hessen"
+        ], 
         "woe:id": "2345485", 
-        "name": "Hessen", 
-        "ne:VertexCou": 1420.0, 
+        "ne:HASC_1": "DE.HE", 
+        "lang": "GER", 
         "adjacent_woeid": [
           2345481, 
           2345482, 
@@ -5778,8 +5818,9 @@
           2345488, 
           2345495
         ], 
-        "ne:HASC_1": "DE.HE", 
+        "name": "Hessen", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Land", 
         "ne_longitude": 10.232895135102467, 
         "longitude": 9.004, 
         "iso": "DE", 

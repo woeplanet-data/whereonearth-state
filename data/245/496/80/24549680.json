@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": -10.366, 
         "name": "Maniki", 
         "hierarchy": [
           "woe:state=24549680", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549680, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -160.939, 
         "longitude": -160.968, 
         "placetype": "state", 
         "iso": "CK", 
-        "date_indexed": "2010-12-02T17:57:50Z", 
-        "ne_latitude": -10.366, 
+        "sw_latitude": -10.435, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -10.397, 
         "sw_longitude": -161.05, 
         "fullname": "Maniki, Cook Islands", 
-        "sw_latitude": -10.435
+        "children": [
+          "woe:island=12489335"
+        ], 
+        "date_indexed": "2010-12-02T17:57:50Z"
       }, 
       "id": 24549680
     }

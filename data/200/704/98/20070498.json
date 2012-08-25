@@ -38,6 +38,7 @@
           20070499
         ], 
         "name": "Libereck\u00fd", 
+        "ne_latitude": 51.023, 
         "hierarchy": [
           "woe:state=20070498", 
           "woe:country=23424810", 
@@ -46,17 +47,22 @@
         "woeid": 20070498, 
         "ne_longitude": 15.633, 
         "longitude": 14.988, 
+        "children": [
+          "woe:county=12582563", 
+          "woe:county=12582564", 
+          "woe:county=12582600", 
+          "woe:county=12582560"
+        ], 
         "placetype": "state", 
-        "latitude": 50.748, 
         "iso": "CZ", 
-        "sw_latitude": 50.472, 
+        "date_indexed": "2010-12-02T08:54:50Z", 
         "adjacent": [
           "woe:state=20070466", 
           "woe:state=20070468", 
           "woe:state=20070499"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 51.023, 
+        "latitude": 50.748, 
         "sw_longitude": 14.343, 
         "fullname": "Libereck\u00fd, Czech Republic", 
         "alias_GER_Q": [
@@ -65,7 +71,7 @@
         "alias_CZE_S": [
           "Liberecky"
         ], 
-        "date_indexed": "2010-12-02T08:54:50Z", 
+        "sw_latitude": 50.472, 
         "alias_FRE_Q": [
           "Liberec"
         ]

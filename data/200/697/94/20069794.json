@@ -37,6 +37,7 @@
           20070061
         ], 
         "name": "Sofiya-Grad", 
+        "ne_latitude": 42.896, 
         "hierarchy": [
           "woe:state=20069794", 
           "woe:country=23424771", 
@@ -46,18 +47,20 @@
         "ne_longitude": 23.679, 
         "longitude": 23.366, 
         "placetype": "state", 
-        "latitude": 42.654, 
         "iso": "BG", 
-        "sw_latitude": 42.412, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=20070058", 
           "woe:state=20070061"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.896, 
+        "latitude": 42.654, 
         "sw_longitude": 23.052, 
         "fullname": "Sofiya-Grad, Bulgaria", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:county=55873710"
+        ], 
+        "sw_latitude": 42.412
       }, 
       "id": 20069794
     }

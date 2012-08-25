@@ -32,24 +32,33 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 23.109, 
         "name": "Acklins", 
         "hierarchy": [
           "woe:state=2344778", 
           "woe:country=23424758", 
           "woe:planet=1"
         ], 
-        "woeid": 2344778, 
+        "ne_latitude": 23.109, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -73.463, 
         "longitude": -73.951, 
         "placetype": "state", 
         "iso": "BS", 
-        "sw_latitude": 22.083, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "woeid": 2344778, 
         "latitude": 22.456, 
         "sw_longitude": -74.534, 
         "fullname": "Acklins, The Bahamas", 
-        "date_indexed": "2010-12-02T07:50:25Z"
+        "children": [
+          "woe:town=57085", 
+          "woe:island=12481303", 
+          "woe:island=12481324", 
+          "woe:island=12481349", 
+          "woe:island=12481441", 
+          "woe:island=12506254", 
+          "woe:island=12481595"
+        ], 
+        "sw_latitude": 22.083
       }, 
       "id": 2344778
     }

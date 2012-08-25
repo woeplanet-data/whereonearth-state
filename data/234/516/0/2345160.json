@@ -39,6 +39,7 @@
           56013537
         ], 
         "name": "Tadjoura", 
+        "ne_latitude": 12.525, 
         "hierarchy": [
           "woe:state=2345160", 
           "woe:country=23424797", 
@@ -48,9 +49,8 @@
         "ne_longitude": 43.07, 
         "longitude": 42.555, 
         "placetype": "state", 
-        "latitude": 12.033, 
         "iso": "DJ", 
-        "sw_latitude": 11.541, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=56013537", 
           "woe:state=24549685", 
@@ -58,10 +58,19 @@
           "woe:state=2345159"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 12.525, 
+        "latitude": 12.033, 
         "sw_longitude": 42.041, 
         "fullname": "Tadjoura, Djibouti", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:town=1310930", 
+          "woe:town=1310931", 
+          "woe:town=1310943", 
+          "woe:town=1310955", 
+          "woe:town=1310963", 
+          "woe:town=1310964", 
+          "woe:town=1310966"
+        ], 
+        "sw_latitude": 11.541
       }, 
       "id": 2345160
     }

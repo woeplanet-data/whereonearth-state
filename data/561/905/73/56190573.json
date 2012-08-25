@@ -12,14 +12,15 @@
           56190597
         ], 
         "name": "K\u0105rsava Novads", 
-        "alias_UNK_S": [
-          "Karsava Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190573", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190573, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Karsava Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -29,7 +30,14 @@
           "woe:state=56190597"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190573, 
+        "children": [
+          "woe:county=55844521", 
+          "woe:county=55844296", 
+          "woe:county=55844597", 
+          "woe:county=55844191", 
+          "woe:county=55844350", 
+          "woe:county=55844210"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190573

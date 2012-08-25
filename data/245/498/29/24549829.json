@@ -47,28 +47,36 @@
           "woe:planet=1"
         ], 
         "woeid": 24549829, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.845, 
         "longitude": 55.532, 
-        "ne_latitude": -20.905, 
-        "placetype": "state", 
-        "alias_FRE_V": [
-          "Arrondissement de Saint-Beno\u00eet"
+        "children": [
+          "woe:county=24551451", 
+          "woe:county=24551455", 
+          "woe:county=24551452", 
+          "woe:county=24551450", 
+          "woe:county=24551453", 
+          "woe:county=24551454"
         ], 
+        "placetype": "state", 
+        "latitude": -21.115, 
         "iso": "RE", 
-        "date_indexed": "2010-12-02T09:35:31Z", 
+        "sw_latitude": -21.235, 
         "adjacent": [
           "woe:state=24549830", 
           "woe:state=24549831", 
           "woe:state=24549828"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": -21.115, 
+        "ne_latitude": -20.905, 
+        "alias_FRE_V": [
+          "Arrondissement de Saint-Beno\u00eet"
+        ], 
         "sw_longitude": 55.457, 
         "fullname": "Saint-Beno\u00eet, Arrondissement of Saint-Benoit, Reunion", 
         "alias_FRE_S": [
           "St.-Benoit"
         ], 
-        "sw_latitude": -21.235
+        "date_indexed": "2010-12-02T09:35:31Z"
       }, 
       "id": 24549829
     }

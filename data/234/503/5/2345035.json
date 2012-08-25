@@ -39,6 +39,7 @@
           2346371
         ], 
         "name": "Nord-Ouest", 
+        "ne_latitude": 7.162, 
         "hierarchy": [
           "woe:state=2345035", 
           "woe:country=23424785", 
@@ -51,9 +52,8 @@
           "NW"
         ], 
         "placetype": "state", 
-        "latitude": 6.418, 
         "iso": "CM", 
-        "sw_latitude": 5.674, 
+        "date_indexed": "2010-12-02T10:22:30Z", 
         "adjacent": [
           "woe:state=2345038", 
           "woe:state=2345036", 
@@ -61,10 +61,36 @@
           "woe:state=2346371"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 7.162, 
+        "latitude": 6.418, 
         "sw_longitude": 9.419, 
         "fullname": "Nord-Ouest, Cameroon", 
-        "date_indexed": "2010-12-02T10:22:30Z"
+        "children": [
+          "woe:town=1299596", 
+          "woe:town=1299675", 
+          "woe:town=1299681", 
+          "woe:town=1299700", 
+          "woe:town=1299708", 
+          "woe:town=1299861", 
+          "woe:town=1299943", 
+          "woe:town=1299947", 
+          "woe:town=1301423", 
+          "woe:town=1301875", 
+          "woe:town=1302308", 
+          "woe:town=1303074", 
+          "woe:town=1303088", 
+          "woe:town=1303587", 
+          "woe:town=1304040", 
+          "woe:town=1304066", 
+          "woe:town=1304382", 
+          "woe:town=1304387", 
+          "woe:town=1304410", 
+          "woe:town=1304803", 
+          "woe:town=1305350", 
+          "woe:town=1305730", 
+          "woe:town=1305806", 
+          "woe:town=1305824"
+        ], 
+        "sw_latitude": 5.674
       }, 
       "id": 2345035
     }

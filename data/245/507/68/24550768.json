@@ -40,6 +40,7 @@
           24550807, 
           24550815
         ], 
+        "ne_latitude": 41.733, 
         "name": "Gradsko", 
         "alias_ENG_P": [
           "Gradsko Municipality"
@@ -56,9 +57,8 @@
         "longitude": 21.906, 
         "ne_longitude": 22.027, 
         "placetype": "state", 
-        "latitude": 41.611, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.489, 
         "adjacent": [
           "woe:state=24550785", 
           "woe:state=24550790", 
@@ -68,10 +68,14 @@
           "woe:state=24550807"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.733, 
+        "latitude": 41.611, 
         "sw_longitude": 21.785, 
         "fullname": "Gradsko, Gradsko Municipality, Macedonia", 
-        "sw_latitude": 41.489
+        "children": [
+          "woe:town=482169", 
+          "woe:town=483194"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550768
     }

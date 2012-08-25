@@ -48,12 +48,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55848344, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.579, 
         "longitude": 14.415, 
         "placetype": "state", 
+        "latitude": 45.737, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 45.58, 
         "adjacent": [
           "woe:state=55848352", 
           "woe:state=55848364", 
@@ -63,11 +63,16 @@
           "woe:state=55848381", 
           "woe:state=55848396"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 45.894, 
-        "latitude": 45.737, 
         "sw_longitude": 14.252, 
         "fullname": "Cerknica, Slovenia", 
-        "sw_latitude": 45.58
+        "children": [
+          "woe:county=55848289", 
+          "woe:county=12591520", 
+          "woe:county=12591572"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848344
     }

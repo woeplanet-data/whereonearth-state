@@ -40,21 +40,19 @@
           2345305
         ], 
         "name": "San Vicente", 
+        "ne_latitude": 13.793, 
         "hierarchy": [
           "woe:state=2345303", 
           "woe:country=23424807", 
           "woe:planet=1"
         ], 
         "woeid": 2345303, 
-        "alias_SPA_V": [
-          "S. Vicente"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -88.485, 
         "longitude": -88.69, 
         "placetype": "state", 
-        "latitude": 13.527, 
         "sw_longitude": -88.894, 
-        "sw_latitude": 13.261, 
+        "date_indexed": "2010-12-02T17:05:52Z", 
         "adjacent": [
           "woe:state=2345293", 
           "woe:state=2345295", 
@@ -62,11 +60,28 @@
           "woe:state=2345300", 
           "woe:state=2345305"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.793, 
+        "alias_SPA_V": [
+          "S. Vicente"
+        ], 
+        "latitude": 13.527, 
         "iso": "SV", 
         "fullname": "San Vicente, El Salvador", 
-        "date_indexed": "2010-12-02T17:05:52Z"
+        "children": [
+          "woe:county=26808734", 
+          "woe:county=26808635", 
+          "woe:county=26808735", 
+          "woe:county=26808736", 
+          "woe:county=26808737", 
+          "woe:county=26808738", 
+          "woe:county=26808739", 
+          "woe:county=26808733", 
+          "woe:county=26808740", 
+          "woe:county=26808741", 
+          "woe:county=26808742", 
+          "woe:county=26808743", 
+          "woe:county=26808744"
+        ], 
+        "sw_latitude": 13.261
       }, 
       "id": 2345303
     }

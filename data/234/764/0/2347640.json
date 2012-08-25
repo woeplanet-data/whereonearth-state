@@ -40,6 +40,7 @@
           2347654
         ], 
         "name": "Artigas", 
+        "ne_latitude": -30.082, 
         "hierarchy": [
           "woe:state=2347640", 
           "woe:country=23424979", 
@@ -49,9 +50,8 @@
         "ne_longitude": -55.958, 
         "longitude": -56.923, 
         "placetype": "state", 
-        "latitude": -30.585, 
         "iso": "UY", 
-        "sw_latitude": -31.088, 
+        "date_indexed": "2010-12-02T17:58:18Z", 
         "adjacent": [
           "woe:state=2344680", 
           "woe:state=2344682", 
@@ -60,10 +60,26 @@
           "woe:state=2347654"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -30.082, 
+        "latitude": -30.585, 
         "sw_longitude": -57.888, 
         "fullname": "Artigas, Uruguay", 
-        "date_indexed": "2010-12-02T17:58:18Z"
+        "children": [
+          "woe:town=380894", 
+          "woe:town=468083", 
+          "woe:town=380956", 
+          "woe:town=468084", 
+          "woe:town=468013", 
+          "woe:town=28743654", 
+          "woe:town=380396", 
+          "woe:town=468019", 
+          "woe:town=380928", 
+          "woe:town=380643", 
+          "woe:town=380830", 
+          "woe:town=380841", 
+          "woe:town=468047", 
+          "woe:town=380888"
+        ], 
+        "sw_latitude": -31.088
       }, 
       "id": 2347640
     }

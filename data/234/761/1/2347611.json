@@ -40,6 +40,7 @@
           55967356
         ], 
         "name": "Bazega", 
+        "ne_latitude": 12.196, 
         "hierarchy": [
           "woe:state=2347611", 
           "woe:country=23424978", 
@@ -49,9 +50,8 @@
         "ne_longitude": -0.882, 
         "longitude": -1.464, 
         "placetype": "state", 
-        "latitude": 11.979, 
         "iso": "BF", 
-        "sw_latitude": 11.57, 
+        "date_indexed": "2010-12-02T09:36:17Z", 
         "adjacent": [
           "woe:state=2347614", 
           "woe:state=2347615", 
@@ -60,10 +60,18 @@
           "woe:state=2347639"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 12.196, 
+        "latitude": 11.979, 
         "sw_longitude": -2.047, 
         "fullname": "Bazega, Burkina Faso", 
-        "date_indexed": "2010-12-02T09:36:17Z"
+        "children": [
+          "woe:county=55967662", 
+          "woe:county=55967376", 
+          "woe:county=55967375", 
+          "woe:county=55967374", 
+          "woe:county=55967373", 
+          "woe:county=55967377"
+        ], 
+        "sw_latitude": 11.57
       }, 
       "id": 2347611
     }

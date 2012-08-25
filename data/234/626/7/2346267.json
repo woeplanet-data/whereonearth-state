@@ -38,36 +38,50 @@
           2346290, 
           2346294
         ], 
-        "alias_ENG_A": [
-          "CM"
-        ], 
         "name": "Campeche", 
-        "hierarchy": [
-          "woe:state=2346267", 
-          "woe:country=23424900", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2346267, 
-        "alias_SPA_V": [
-          "Estado de Campeche"
-        ], 
-        "ne_longitude": -89.113, 
-        "longitude": -89.958, 
-        "placetype": "state", 
-        "latitude": 19.329, 
-        "sw_longitude": -92.468, 
-        "sw_latitude": 17.809, 
         "adjacent": [
           "woe:state=2345563", 
           "woe:state=2346286", 
           "woe:state=2346290", 
           "woe:state=2346294"
         ], 
+        "hierarchy": [
+          "woe:state=2346267", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346267, 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -89.113, 
+        "longitude": -89.958, 
         "ne_latitude": 20.848, 
+        "placetype": "state", 
+        "sw_longitude": -92.468, 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "alias_ENG_A": [
+          "CM"
+        ], 
+        "alias_SPA_V": [
+          "Estado de Campeche"
+        ], 
+        "latitude": 19.329, 
         "iso": "MX", 
         "fullname": "Campeche, Mexico", 
-        "date_indexed": "2010-12-02T16:55:36Z"
+        "children": [
+          "woe:county=24550697", 
+          "woe:county=12599699", 
+          "woe:county=12599700", 
+          "woe:county=24550698", 
+          "woe:county=12599701", 
+          "woe:county=12599702", 
+          "woe:county=12599703", 
+          "woe:county=12599704", 
+          "woe:county=12599705", 
+          "woe:county=12599706", 
+          "woe:county=12599707", 
+          "woe:town=113303"
+        ], 
+        "sw_latitude": 17.809
       }, 
       "id": 2346267
     }

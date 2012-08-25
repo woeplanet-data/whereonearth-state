@@ -39,6 +39,7 @@
           56025085
         ], 
         "name": "Dodoma", 
+        "ne_latitude": -4.139, 
         "hierarchy": [
           "woe:state=2347354", 
           "woe:country=23424973", 
@@ -48,9 +49,8 @@
         "ne_longitude": 36.891, 
         "longitude": 35.989, 
         "placetype": "state", 
-        "latitude": -5.753, 
         "iso": "TZ", 
-        "sw_latitude": -7.366, 
+        "date_indexed": "2010-12-02T12:15:58Z", 
         "adjacent": [
           "woe:state=2347355", 
           "woe:state=56025085", 
@@ -58,10 +58,17 @@
           "woe:state=2347367"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -4.139, 
+        "latitude": -5.753, 
         "sw_longitude": 35.086, 
         "fullname": "Dodoma, Tanzania", 
-        "date_indexed": "2010-12-02T12:15:58Z"
+        "children": [
+          "woe:county=56025098", 
+          "woe:county=56025099", 
+          "woe:county=56025131", 
+          "woe:county=56025132", 
+          "woe:county=56025167"
+        ], 
+        "sw_latitude": -7.366
       }, 
       "id": 2347354
     }

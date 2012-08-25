@@ -43,6 +43,7 @@
           56190214
         ], 
         "name": "Kamuli", 
+        "ne_latitude": 1.504, 
         "hierarchy": [
           "woe:state=20070422", 
           "woe:country=23424974", 
@@ -52,9 +53,8 @@
         "ne_longitude": 33.66, 
         "longitude": 33.239, 
         "placetype": "state", 
-        "latitude": 1.074, 
         "iso": "UG", 
-        "sw_latitude": 0.643, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=56190195", 
           "woe:state=20070449", 
@@ -66,10 +66,15 @@
           "woe:state=20070447"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 1.504, 
+        "latitude": 1.074, 
         "sw_longitude": 32.817, 
         "fullname": "Kamuli, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190292", 
+          "woe:county=56190293", 
+          "woe:county=56190294"
+        ], 
+        "sw_latitude": 0.643
       }, 
       "id": 20070422
     }

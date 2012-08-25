@@ -417,10 +417,17 @@
         "ne:Shape_Area": 0.07810303174, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "MKD", 
-        "ne:OBJECTID": 2947, 
+        "children": [
+          "woe:town=481671", 
+          "woe:town=482479", 
+          "woe:town=482605", 
+          "woe:town=482939", 
+          "woe:town=483002"
+        ], 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 21.421359490847863, 
@@ -438,9 +445,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Statistical Region", 
         "sw_latitude": 40.86649811449644, 
-        "ne:VertexCou": 95.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 2947, 
         "ne:Postal": "NV", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -456,8 +463,8 @@
         "ne:LabelRank": 10, 
         "ne:Area_sqkm": 729.5, 
         "woe:id": "24550791", 
-        "ne:HASC_1": "MK.NV", 
-        "lang": "UNK", 
+        "name": "Novaci", 
+        "ne:VertexCou": 95.0, 
         "adjacent_woeid": [
           12577881, 
           12577884, 
@@ -465,7 +472,7 @@
           24550789, 
           24550799
         ], 
-        "name": "Novaci", 
+        "ne:HASC_1": "MK.NV", 
         "ne:REMARKS_1": null, 
         "alias_UNK_V": [
           "Opstina Novaci"

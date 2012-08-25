@@ -46,12 +46,12 @@
           "woe:planet=1"
         ], 
         "woeid": 56059377, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -12.111, 
         "longitude": -13.119, 
         "placetype": "state", 
+        "latitude": 10.211, 
         "iso": "GN", 
-        "date_indexed": "2010-12-02T16:11:50Z", 
+        "sw_latitude": 9.038, 
         "adjacent": [
           "woe:state=56059373", 
           "woe:state=56059372", 
@@ -59,11 +59,18 @@
           "woe:state=56059375", 
           "woe:state=2347001"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 11.384, 
-        "latitude": 10.211, 
         "sw_longitude": -14.044, 
         "fullname": "Kindia, Guinea", 
-        "sw_latitude": 9.038
+        "children": [
+          "woe:county=56059731", 
+          "woe:county=2345581", 
+          "woe:county=2345583", 
+          "woe:county=2345589", 
+          "woe:county=2345600"
+        ], 
+        "date_indexed": "2010-12-02T16:11:50Z"
       }, 
       "id": 56059377
     }

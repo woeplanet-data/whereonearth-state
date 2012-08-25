@@ -42,21 +42,19 @@
           20070567
         ], 
         "name": "Ciales", 
+        "ne_latitude": 18.372, 
         "hierarchy": [
           "woe:state=2346793", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346793, 
-        "alias_SPA_V": [
-          "Ciales Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.453, 
         "longitude": -66.532, 
         "placetype": "state", 
-        "latitude": 18.264, 
         "sw_longitude": -66.611, 
-        "sw_latitude": 18.156, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346811", 
           "woe:state=20070567", 
@@ -66,11 +64,24 @@
           "woe:state=2346803", 
           "woe:state=2346808"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.372, 
+        "alias_SPA_V": [
+          "Ciales Municipios"
+        ], 
+        "latitude": 18.264, 
         "iso": "PR", 
         "fullname": "Ciales, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806195", 
+          "woe:county=26806196", 
+          "woe:county=26806197", 
+          "woe:county=26806198", 
+          "woe:county=26806199", 
+          "woe:county=26806200", 
+          "woe:county=26806201", 
+          "woe:county=26806202", 
+          "woe:county=26806203"
+        ], 
+        "sw_latitude": 18.156
       }, 
       "id": 2346793
     }

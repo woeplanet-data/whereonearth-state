@@ -41,24 +41,22 @@
           20069832
         ], 
         "name": "R\u00edo San Juan", 
+        "ne_latitude": 11.89, 
         "hierarchy": [
           "woe:state=2346430", 
           "woe:country=23424915", 
           "woe:planet=1"
         ], 
         "woeid": 2346430, 
-        "alias_SPA_V": [
-          "R\u00edo S. Juan"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -83.665, 
         "longitude": -84.425, 
         "placetype": "state", 
-        "latitude": 11.299, 
         "alias_SPA_S": [
           "Rio San Juan"
         ], 
         "sw_longitude": -85.186, 
-        "sw_latitude": 10.708, 
+        "date_indexed": "2010-12-02T18:19:07Z", 
         "adjacent": [
           "woe:state=2345082", 
           "woe:state=2346420", 
@@ -67,11 +65,21 @@
           "woe:state=20069832", 
           "woe:state=2346431"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 11.89, 
+        "alias_SPA_V": [
+          "R\u00edo S. Juan"
+        ], 
+        "latitude": 11.299, 
         "iso": "NI", 
         "fullname": "R\u00edo San Juan, Nicaragua", 
-        "date_indexed": "2010-12-02T18:19:07Z"
+        "children": [
+          "woe:county=26813403", 
+          "woe:county=26813406", 
+          "woe:county=26813402", 
+          "woe:county=26813405", 
+          "woe:county=26813407", 
+          "woe:county=26813404"
+        ], 
+        "sw_latitude": 10.708
       }, 
       "id": 2346430
     }

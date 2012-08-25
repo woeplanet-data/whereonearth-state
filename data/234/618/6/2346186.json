@@ -42,6 +42,7 @@
           56059378
         ], 
         "name": "Koulikoro", 
+        "ne_latitude": 15.5, 
         "hierarchy": [
           "woe:state=2346186", 
           "woe:country=23424891", 
@@ -51,9 +52,8 @@
         "ne_longitude": -5.963, 
         "longitude": -7.576, 
         "placetype": "state", 
-        "latitude": 13.472, 
         "iso": "ML", 
-        "sw_latitude": 11.443, 
+        "date_indexed": "2010-12-02T08:58:35Z", 
         "adjacent": [
           "woe:state=2346180", 
           "woe:state=2346241", 
@@ -64,10 +64,19 @@
           "woe:state=2346185"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 15.5, 
+        "latitude": 13.472, 
         "sw_longitude": -9.19, 
         "fullname": "Koulikoro, Mali", 
-        "date_indexed": "2010-12-02T08:58:35Z"
+        "children": [
+          "woe:county=56000032", 
+          "woe:county=56000033", 
+          "woe:county=56000034", 
+          "woe:county=56000035", 
+          "woe:county=56000036", 
+          "woe:county=56000037", 
+          "woe:county=56000038"
+        ], 
+        "sw_latitude": 11.443
       }, 
       "id": 2346186
     }

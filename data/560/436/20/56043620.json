@@ -42,20 +42,23 @@
           "woe:planet=1"
         ], 
         "woeid": 56043620, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 21.884, 
         "longitude": 21.66, 
         "placetype": "state", 
+        "latitude": 47.531, 
         "iso": "HU", 
-        "date_indexed": "2010-12-02T09:55:38Z", 
+        "sw_latitude": 47.425, 
         "adjacent": [
           "woe:state=12577919"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 47.637, 
-        "latitude": 47.531, 
         "sw_longitude": 21.437, 
         "fullname": "Debrecen, Hungary", 
-        "sw_latitude": 47.425
+        "children": [
+          "woe:county=12593356"
+        ], 
+        "date_indexed": "2010-12-02T09:55:38Z"
       }, 
       "id": 56043620
     }

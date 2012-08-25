@@ -439,7 +439,6 @@
         "alias_ENG_V": [
           "Appenzell Outer-Rhodes"
         ], 
-        "ne:ISO": "CHE", 
         "ne:ScaleRank": 9, 
         "alias_ENG_P": [
           "Canton of Appenzell Outer-Rhodes"
@@ -450,24 +449,26 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 47.46834320707342, 
-        "ne:OBJECTID": 166, 
+        "ne:DataRank": 7, 
         "ne:Shape_Area": 0.0284895472773, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
+        "children": [
+          "woe:county=12593260", 
+          "woe:county=12593229", 
+          "woe:county=12593227"
+        ], 
         "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Canton Appenzello Esterno"
         ], 
-        "alias_GER_V": [
-          "Appenzell Ausserrhoden"
-        ], 
+        "ne:Area_sqkm": 239.2, 
         "alias_ITA_V": [
           "Appenzello Esterno"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Appenzell Rodas Exteriores"
@@ -484,15 +485,13 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "sw_latitude": 47.25008779551541, 
-        "lang": "GER", 
-        "ne:MAP_COLOR": 3, 
-        "ne:DataRank": 7, 
+        "ne:VertexCou": 105.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:OBJECTID": 166, 
         "ne:Postal": "AR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Appenzell Ausser-Rhoden|Appenzell Outer Rhodes|Appenzell dadens|Appenzell Rhodes Ext\u00e9rieures|Appenzello Esterno", 
-        "alias_GER_A": [
-          "AR"
-        ], 
+        "ne:ISO": "CHE", 
         "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 1.34430763024, 
@@ -500,26 +499,30 @@
         "ne:NAME_0": "Switzerland", 
         "ne:NAME_1": "Appenzell Ausserrhoden", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Canton|Kanton|Chantun", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 9, 
-        "ne:Area_sqkm": 239.2, 
+        "alias_GER_A": [
+          "AR"
+        ], 
+        "alias_GER_V": [
+          "Appenzell Ausserrhoden"
+        ], 
         "woe:id": "2347084", 
-        "name": "Kanton Appenzell Ausserrhoden", 
-        "ne:VertexCou": 105.0, 
+        "ne:HASC_1": "CH.AR", 
+        "lang": "GER", 
         "adjacent_woeid": [
           2347092, 
           2347097
         ], 
-        "ne:HASC_1": "CH.AR", 
+        "name": "Kanton Appenzell Ausserrhoden", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Canton|Kanton|Chantun", 
         "alias_UNK_Q": [
           "Appenzell dador"
         ], 
         "ne_longitude": 9.608437127171726, 
         "longitude": 9.469, 
-        "alias_FRE_S": [
-          "Canton d'Appenzell Rhodes-Exterieures"
-        ], 
+        "ne:NEV_Countr": "Switzerland", 
         "iso": "CH", 
         "date_indexed": "2010-12-02T18:19:21Z", 
         "ne:NL_NAME_1": null, 
@@ -528,7 +531,9 @@
         ], 
         "fullname": "Kanton Appenzell Ausserrhoden, Canton of Appenzell Outer-Rhodes, Switzerland", 
         "ne:Region": null, 
-        "ne:NEV_Countr": "Switzerland", 
+        "alias_FRE_S": [
+          "Canton d'Appenzell Rhodes-Exterieures"
+        ], 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Canton d'Appenzell Rhodes-Ext\u00e9rieures"

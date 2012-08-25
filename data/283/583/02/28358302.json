@@ -36,10 +36,12 @@
           2346474, 
           2346482
         ], 
-        "alias_KOR_Q": [
-          "\ub9ac\ub9c8\uba54\ud2b8\ub85c\ud3f4\ub9ac\ud0c4\uc5d0\uc5b4\ub9ac\uc5b4"
-        ], 
+        "ne_latitude": -11.616, 
         "name": "Lima Metropolitan Area", 
+        "adjacent": [
+          "woe:state=2346482", 
+          "woe:state=2346474"
+        ], 
         "hierarchy": [
           "woe:state=28358302", 
           "woe:country=23424919", 
@@ -55,18 +57,19 @@
           "\u5229\u739b\u5927\u90fd\u4f1a\u533a"
         ], 
         "placetype": "state", 
-        "latitude": -12.023, 
         "iso": "PE", 
-        "date_indexed": "2010-12-02T16:12:03Z", 
-        "adjacent": [
-          "woe:state=2346482", 
-          "woe:state=2346474"
+        "sw_latitude": -12.43, 
+        "alias_KOR_Q": [
+          "\ub9ac\ub9c8\uba54\ud2b8\ub85c\ud3f4\ub9ac\ud0c4\uc5d0\uc5b4\ub9ac\uc5b4"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -11.616, 
+        "latitude": -12.023, 
         "sw_longitude": -77.734, 
         "fullname": "Lima Metropolitan Area, Peru", 
-        "sw_latitude": -12.43
+        "children": [
+          "woe:county=26805880"
+        ], 
+        "date_indexed": "2010-12-02T16:12:03Z"
       }, 
       "id": 28358302
     }

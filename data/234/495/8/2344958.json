@@ -42,22 +42,24 @@
           2344953
         ], 
         "name": "Tandjil\u00e9", 
+        "ne_latitude": 10.258, 
         "hierarchy": [
           "woe:state=2344958", 
           "woe:country=23424777", 
           "woe:planet=1"
         ], 
         "woeid": 2344958, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 17.616, 
         "longitude": 16.532, 
         "alias_FRE_A": [
           "TA"
         ], 
         "placetype": "state", 
-        "latitude": 9.622, 
+        "alias_FRE_V": [
+          "Tandjile"
+        ], 
         "iso": "TD", 
-        "sw_latitude": 8.986, 
+        "date_indexed": "2010-12-02T08:53:18Z", 
         "adjacent": [
           "woe:state=2344948", 
           "woe:state=2344952", 
@@ -67,13 +69,16 @@
           "woe:state=56013484", 
           "woe:state=2344955"
         ], 
-        "ne_latitude": 10.258, 
-        "alias_FRE_V": [
-          "Tandjile"
-        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.622, 
         "sw_longitude": 15.448, 
         "fullname": "Tandjil\u00e9, Tandjile, Chad", 
-        "date_indexed": "2010-12-02T08:53:18Z"
+        "children": [
+          "woe:county=56190444", 
+          "woe:county=56013488", 
+          "woe:county=56013489"
+        ], 
+        "sw_latitude": 8.986
       }, 
       "id": 2344958
     }

@@ -40,6 +40,7 @@
           29389225
         ], 
         "name": "Podunavlje", 
+        "ne_latitude": 44.736, 
         "hierarchy": [
           "woe:state=29389211", 
           "woe:country=20069818", 
@@ -55,9 +56,8 @@
         "longitude": 20.973, 
         "ne_longitude": 21.195, 
         "placetype": "state", 
-        "latitude": 44.471, 
         "iso": "RS", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
+        "sw_latitude": 44.205, 
         "adjacent": [
           "woe:state=29389217", 
           "woe:state=29389198", 
@@ -66,10 +66,32 @@
           "woe:state=29389225"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 44.736, 
+        "latitude": 44.471, 
         "sw_longitude": 20.75, 
         "fullname": "Podunavlje, Serbia", 
-        "sw_latitude": 44.205
+        "children": [
+          "woe:county=56072670", 
+          "woe:county=56072671", 
+          "woe:county=56072672", 
+          "woe:town=532422", 
+          "woe:town=533749", 
+          "woe:town=534814", 
+          "woe:town=534906", 
+          "woe:town=535130", 
+          "woe:town=535222", 
+          "woe:town=535405", 
+          "woe:town=535747", 
+          "woe:town=535778", 
+          "woe:town=536541", 
+          "woe:town=536590", 
+          "woe:town=536749", 
+          "woe:town=536750", 
+          "woe:town=536889", 
+          "woe:town=537349", 
+          "woe:town=537388", 
+          "woe:town=537503"
+        ], 
+        "date_indexed": "2010-12-02T10:22:30Z"
       }, 
       "id": 29389211
     }

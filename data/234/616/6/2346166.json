@@ -40,6 +40,7 @@
           12578003
         ], 
         "name": "Hovd", 
+        "ne_latitude": 49.001, 
         "hierarchy": [
           "woe:state=2346166", 
           "woe:country=23424887", 
@@ -49,9 +50,8 @@
         "ne_longitude": 94.085, 
         "longitude": 92.374, 
         "placetype": "state", 
-        "latitude": 47.0, 
         "iso": "MN", 
-        "sw_latitude": 44.999, 
+        "date_indexed": "2010-12-02T08:53:23Z", 
         "adjacent": [
           "woe:state=2346159", 
           "woe:state=2346163", 
@@ -60,10 +60,23 @@
           "woe:state=12578003"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 49.001, 
+        "latitude": 47.0, 
         "sw_longitude": 90.663, 
         "fullname": "Hovd, Mongolia", 
-        "date_indexed": "2010-12-02T08:53:23Z"
+        "children": [
+          "woe:town=2266565", 
+          "woe:town=2265316", 
+          "woe:town=2265355", 
+          "woe:town=2265404", 
+          "woe:town=2265415", 
+          "woe:town=2265580", 
+          "woe:town=2265754", 
+          "woe:town=2266681", 
+          "woe:town=2266334", 
+          "woe:town=2266475", 
+          "woe:town=2266511"
+        ], 
+        "sw_latitude": 44.999
       }, 
       "id": 2346166
     }

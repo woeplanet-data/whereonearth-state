@@ -38,6 +38,7 @@
           2347028
         ], 
         "name": "Dauphin", 
+        "ne_latitude": 14.068, 
         "hierarchy": [
           "woe:state=2347024", 
           "woe:country=23424951", 
@@ -47,19 +48,21 @@
         "ne_longitude": -60.874, 
         "longitude": -60.907, 
         "placetype": "state", 
-        "latitude": 14.012, 
         "iso": "LC", 
-        "sw_latitude": 13.962, 
+        "date_indexed": "2010-12-02T18:18:47Z", 
         "adjacent": [
           "woe:state=2347025", 
           "woe:state=2347027", 
           "woe:state=2347028"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.068, 
+        "latitude": 14.012, 
         "sw_longitude": -60.94, 
         "fullname": "Dauphin, St. Lucia", 
-        "date_indexed": "2010-12-02T18:18:47Z"
+        "children": [
+          "woe:town=162017"
+        ], 
+        "sw_latitude": 13.962
       }, 
       "id": 2347024
     }

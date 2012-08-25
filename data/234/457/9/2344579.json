@@ -31,32 +31,46 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u963f\u5c14\u53ca\u5c14"
-        ], 
-        "lang": "ARA", 
-        "alias_KOR_Q": [
-          "\uc54c\uc81c"
-        ], 
-        "adjacent_woeid": [
-          2344592, 
-          2344610, 
-          2344625
-        ], 
         "hierarchy": [
           "woe:state=2344579", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
         "ne_latitude": 36.818, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\uc54c\uc81c"
+        ], 
+        "children": [
+          "woe:town=22662663", 
+          "woe:town=1253079", 
+          "woe:town=1253199", 
+          "woe:town=1253201", 
+          "woe:town=1253222", 
+          "woe:town=1253235", 
+          "woe:town=1253462", 
+          "woe:town=1253464", 
+          "woe:town=1255316", 
+          "woe:town=22662664", 
+          "woe:town=1253894", 
+          "woe:town=1253942", 
+          "woe:town=1254321", 
+          "woe:town=1254357", 
+          "woe:town=1255213", 
+          "woe:town=23424691", 
+          "woe:town=22662661", 
+          "woe:town=1256612", 
+          "woe:town=56123272", 
+          "woe:town=1257210"
+        ], 
+        "alias_CHI_Q": [
+          "\u963f\u5c14\u53ca\u5c14"
+        ], 
+        "woeid": 2344579, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30b8\u30a7"
         ], 
-        "ne_longitude": 3.285, 
-        "longitude": 3.126, 
-        "placetype": "state", 
         "sw_longitude": 2.967, 
-        "sw_latitude": 36.589, 
         "adjacent": [
           "woe:state=2344592", 
           "woe:state=2344610", 
@@ -64,14 +78,22 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 36.703, 
-        "iso": "DZ", 
-        "fullname": "Alger, Algeria", 
+        "date_indexed": "2010-12-02T17:07:10Z", 
         "alias_GER_Q": [
           "Algier"
         ], 
-        "woeid": 2344579, 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "name": "Alger"
+        "lang": "ARA", 
+        "adjacent_woeid": [
+          2344592, 
+          2344610, 
+          2344625
+        ], 
+        "name": "Alger", 
+        "ne_longitude": 3.285, 
+        "longitude": 3.126, 
+        "iso": "DZ", 
+        "sw_latitude": 36.589, 
+        "fullname": "Alger, Algeria"
       }, 
       "id": 2344579
     }

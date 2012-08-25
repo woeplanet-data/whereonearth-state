@@ -39,6 +39,7 @@
           20070558
         ], 
         "name": "Canillo", 
+        "ne_latitude": 42.631, 
         "hierarchy": [
           "woe:state=20070557", 
           "woe:country=23424744", 
@@ -48,9 +49,8 @@
         "ne_longitude": 1.787, 
         "longitude": 1.676, 
         "placetype": "state", 
-        "latitude": 42.579, 
         "iso": "AD", 
-        "sw_latitude": 42.527, 
+        "date_indexed": "2010-12-02T07:50:33Z", 
         "adjacent": [
           "woe:state=20070558", 
           "woe:state=7153320", 
@@ -58,10 +58,21 @@
           "woe:state=20070556"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.631, 
+        "latitude": 42.579, 
         "sw_longitude": 1.566, 
         "fullname": "Canillo, Andorra", 
-        "date_indexed": "2010-12-02T07:50:33Z"
+        "children": [
+          "woe:town=29329659", 
+          "woe:town=472560", 
+          "woe:town=472564", 
+          "woe:town=29329657", 
+          "woe:town=472577", 
+          "woe:town=472587", 
+          "woe:town=472594", 
+          "woe:town=472596", 
+          "woe:town=472603"
+        ], 
+        "sw_latitude": 42.527
       }, 
       "id": 20070557
     }

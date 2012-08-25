@@ -40,21 +40,19 @@
           2346845
         ], 
         "name": "Moca", 
+        "ne_latitude": 18.461, 
         "hierarchy": [
           "woe:state=2346801", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346801, 
-        "alias_SPA_V": [
-          "Moca Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -67.027, 
         "longitude": -67.081, 
         "placetype": "state", 
-        "latitude": 18.384, 
         "sw_longitude": -67.134, 
-        "sw_latitude": 18.307, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346841", 
           "woe:state=2346842", 
@@ -62,11 +60,28 @@
           "woe:state=2346840", 
           "woe:state=2346845"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.461, 
+        "alias_SPA_V": [
+          "Moca Municipios"
+        ], 
+        "latitude": 18.384, 
         "iso": "PR", 
         "fullname": "Moca, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806509", 
+          "woe:county=26806510", 
+          "woe:county=26806511", 
+          "woe:county=26806512", 
+          "woe:county=26806513", 
+          "woe:county=26806514", 
+          "woe:county=26806515", 
+          "woe:county=26806516", 
+          "woe:county=26806517", 
+          "woe:county=26806518", 
+          "woe:county=26806519", 
+          "woe:county=26806520", 
+          "woe:county=26806521"
+        ], 
+        "sw_latitude": 18.307
       }, 
       "id": 2346801
     }

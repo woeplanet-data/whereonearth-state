@@ -568,17 +568,23 @@
         "ne:Shape_Area": 0.634529788265, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "SKM"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IND", 
+        "children": [
+          "woe:county=12586813", 
+          "woe:county=12586814", 
+          "woe:county=24505127", 
+          "woe:county=12586815"
+        ], 
         "ne:ScaleRank": 2, 
         "alias_CHI_Q": [
           "\u9521\u91d1\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3259, 
         "alias_JPN_Q": [
           "\u30b7\u30c3\u30ad\u30e0"
         ], 
@@ -598,9 +604,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 27.08454865159905, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3259, 
+        "ne:VertexCou": 123.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "SK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -616,15 +622,15 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 6943.2, 
         "woe:id": "2345762", 
-        "name": "Sikkim", 
-        "ne:VertexCou": 123.0, 
+        "ne:HASC_1": "IN.SK", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2344883, 
           2345761, 
           12578004, 
           20070023
         ], 
-        "ne:HASC_1": "IN.SK", 
+        "name": "Sikkim", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 88.89196984243432, 
         "longitude": 88.489, 

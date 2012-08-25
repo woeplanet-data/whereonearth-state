@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55848384, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.424, 
         "longitude": 15.256, 
         "placetype": "state", 
+        "latitude": 46.009, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 45.928, 
         "adjacent": [
           "woe:state=55848359", 
           "woe:state=55848360", 
@@ -61,11 +61,14 @@
           "woe:state=55848383", 
           "woe:state=55848393"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 46.089, 
-        "latitude": 46.009, 
         "sw_longitude": 15.088, 
         "fullname": "Sevnica, Slovenia", 
-        "sw_latitude": 45.928
+        "children": [
+          "woe:county=12591617"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848384
     }

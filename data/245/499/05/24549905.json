@@ -44,22 +44,29 @@
           "woe:planet=1"
         ], 
         "woeid": 24549905, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 126.823, 
         "longitude": 126.748, 
         "placetype": "state", 
+        "latitude": -8.545, 
         "iso": "TL", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
+        "sw_latitude": -8.703, 
         "adjacent": [
           "woe:state=24549904", 
           "woe:state=24549902", 
           "woe:state=24549903"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -8.42, 
-        "latitude": -8.545, 
         "sw_longitude": 126.192, 
         "fullname": "Baucau, East Timor", 
-        "sw_latitude": -8.703
+        "children": [
+          "woe:town=1047153", 
+          "woe:town=1029985", 
+          "woe:town=1030506", 
+          "woe:town=1047694", 
+          "woe:town=1048690"
+        ], 
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 24549905
     }

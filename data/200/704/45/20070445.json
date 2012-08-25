@@ -38,6 +38,7 @@
           56190206
         ], 
         "name": "Adjumani", 
+        "ne_latitude": 3.592, 
         "hierarchy": [
           "woe:state=20070445", 
           "woe:country=23424974", 
@@ -47,19 +48,21 @@
         "ne_longitude": 32.094, 
         "longitude": 31.42, 
         "placetype": "state", 
-        "latitude": 2.979, 
         "iso": "UG", 
-        "sw_latitude": 2.884, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=56190206", 
           "woe:state=20070412", 
           "woe:state=20070444"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 3.592, 
+        "latitude": 2.979, 
         "sw_longitude": 31.401, 
         "fullname": "Adjumani, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190222"
+        ], 
+        "sw_latitude": 2.884
       }, 
       "id": 20070445
     }

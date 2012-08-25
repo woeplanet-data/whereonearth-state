@@ -42,6 +42,7 @@
           2347370
         ], 
         "name": "Shinyanga", 
+        "ne_latitude": -2.256, 
         "hierarchy": [
           "woe:state=2347366", 
           "woe:country=23424973", 
@@ -51,9 +52,8 @@
         "ne_longitude": 35.203, 
         "longitude": 34.117, 
         "placetype": "state", 
-        "latitude": -3.37, 
         "iso": "TZ", 
-        "sw_latitude": -4.483, 
+        "date_indexed": "2010-12-02T12:15:58Z", 
         "adjacent": [
           "woe:state=2347352", 
           "woe:state=2347370", 
@@ -64,10 +64,20 @@
           "woe:state=2347368"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -2.256, 
+        "latitude": -3.37, 
         "sw_longitude": 31.167, 
         "fullname": "Shinyanga, Tanzania", 
-        "date_indexed": "2010-12-02T12:15:58Z"
+        "children": [
+          "woe:county=56025090", 
+          "woe:county=56025094", 
+          "woe:county=56025111", 
+          "woe:county=56025129", 
+          "woe:county=56025148", 
+          "woe:county=56025155", 
+          "woe:county=56025194", 
+          "woe:county=56025195"
+        ], 
+        "sw_latitude": -4.483
       }, 
       "id": 2347366
     }

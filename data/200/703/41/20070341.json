@@ -36,6 +36,7 @@
           20070340
         ], 
         "name": "Aiga-i-le-Tai", 
+        "ne_latitude": -13.81, 
         "hierarchy": [
           "woe:state=20070341", 
           "woe:country=23424992", 
@@ -45,17 +46,20 @@
         "ne_longitude": -172.002, 
         "longitude": -172.028, 
         "placetype": "state", 
-        "latitude": -13.86, 
         "iso": "WS", 
-        "sw_latitude": -13.891, 
+        "date_indexed": "2010-12-02T16:50:25Z", 
         "adjacent": [
           "woe:state=20070340"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -13.81, 
+        "latitude": -13.86, 
         "sw_longitude": -172.129, 
         "fullname": "Aiga-i-le-Tai, Samoa", 
-        "date_indexed": "2010-12-02T16:50:25Z"
+        "children": [
+          "woe:island=12502687", 
+          "woe:island=12502693"
+        ], 
+        "sw_latitude": -13.891
       }, 
       "id": 20070341
     }

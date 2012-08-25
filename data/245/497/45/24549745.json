@@ -38,31 +38,37 @@
           24549747
         ], 
         "name": "Fort-de-France", 
-        "ne_latitude": 14.725, 
         "hierarchy": [
           "woe:state=24549745", 
           "woe:country=23424884", 
           "woe:planet=1"
         ], 
         "woeid": 24549745, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -60.951, 
         "longitude": -61.023, 
         "placetype": "state", 
-        "alias_FRE_V": [
-          "Ft-de-France"
-        ], 
+        "latitude": 14.636, 
         "iso": "MQ", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
+        "sw_latitude": 14.559, 
         "adjacent": [
           "woe:state=24549744", 
           "woe:state=24549746", 
           "woe:state=24549747"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 14.636, 
+        "ne_latitude": 14.725, 
+        "alias_FRE_V": [
+          "Ft-de-France"
+        ], 
         "sw_longitude": -61.127, 
         "fullname": "Fort-de-France, Martinique", 
-        "sw_latitude": 14.559
+        "children": [
+          "woe:county=24551328", 
+          "woe:county=24551327", 
+          "woe:county=24551326", 
+          "woe:county=24551325"
+        ], 
+        "date_indexed": "2010-12-02T17:06:00Z"
       }, 
       "id": 24549745
     }

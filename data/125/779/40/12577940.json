@@ -1126,12 +1126,41 @@
         "ne:Shape_Area": 1.95150948843, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19980727", 
+        "ne:MAP_COLOR": 2, 
         "alias_POR_Q": [
           "Pequena Polonia"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "POL", 
+        "children": [
+          "woe:county=12591248", 
+          "woe:county=12591249", 
+          "woe:county=12591250", 
+          "woe:county=12591251", 
+          "woe:county=12591252", 
+          "woe:county=12591254", 
+          "woe:county=12591253", 
+          "woe:county=12591255", 
+          "woe:county=12591256", 
+          "woe:county=12591257", 
+          "woe:county=12591258", 
+          "woe:county=12591259", 
+          "woe:county=12591260", 
+          "woe:county=12591261", 
+          "woe:county=12591262", 
+          "woe:county=12591263", 
+          "woe:county=12591264", 
+          "woe:county=12591266", 
+          "woe:county=12591265", 
+          "woe:county=12591267", 
+          "woe:county=12591268", 
+          "woe:county=12591269", 
+          "woe:landfeature=56058366", 
+          "woe:landfeature=56058371", 
+          "woe:landfeature=56058385", 
+          "woe:zone=24874431", 
+          "woe:zone=24874437"
+        ], 
         "alias_SWE_Q": [
           "Lillpolen"
         ], 
@@ -1139,16 +1168,15 @@
         "alias_ITA_Q": [
           "Piccola Polonia"
         ], 
-        "ne:sameAsCity": -99, 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 3170, 
         "alias_JPN_Q": [
           "\u30de\u30a6\u30a9\u30dd\u30eb\u30b9\u30ab\u770c"
         ], 
-        "fullname": "Ma\u0142opolskie, Lesser Poland, Poland", 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Pequena Polonia"
         ], 
+        "ne:ProvNumber": 2000, 
         "sw_longitude": 19.112353143083112, 
         "adjacent": [
           "woe:state=12577943", 
@@ -1166,9 +1194,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "lang": "POL", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3170, 
+        "ne:VertexCou": 248.0, 
+        "ne:VALIDFR_1": "19980727", 
+        "ne:DataRank": 5, 
         "ne:Postal": "MA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Malopolskie", 
@@ -1182,7 +1210,7 @@
         "ne:NAME_0": "Poland", 
         "ne:NAME_1": "Lesser Poland", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Wojew\u00f3dztwo", 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 5, 
         "alias_POL_S": [
           "Malopolskie"
@@ -1192,8 +1220,8 @@
           "Kleinpolen"
         ], 
         "woe:id": "12577940", 
-        "name": "Ma\u0142opolskie", 
-        "ne:VertexCou": 248.0, 
+        "ne:HASC_1": "PL.MA", 
+        "lang": "POL", 
         "adjacent_woeid": [
           12577943, 
           12577946, 
@@ -1202,15 +1230,16 @@
           20070496
         ], 
         "ne:FIRST_FIPS": "PL77", 
-        "ne:HASC_1": "PL.MA", 
+        "name": "Ma\u0142opolskie", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
+        "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne_longitude": 21.514273716059222, 
         "longitude": 20.252, 
         "iso": "PL", 
         "sw_latitude": 49.173458766908595, 
         "ne:NL_NAME_1": null, 
-        "ne:ProvNumber": 2000, 
+        "fullname": "Ma\u0142opolskie, Lesser Poland, Poland", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Poland", 
         "ne:RegionVar": null, 

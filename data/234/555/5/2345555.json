@@ -41,6 +41,7 @@
           2345636
         ], 
         "name": "Chiquimula", 
+        "ne_latitude": 14.95, 
         "hierarchy": [
           "woe:state=2345555", 
           "woe:country=23424834", 
@@ -50,9 +51,8 @@
         "ne_longitude": -89.133, 
         "longitude": -89.427, 
         "placetype": "state", 
-        "latitude": 14.675, 
         "iso": "GT", 
-        "sw_latitude": 14.4, 
+        "date_indexed": "2010-12-02T16:55:18Z", 
         "adjacent": [
           "woe:state=2345627", 
           "woe:state=2345561", 
@@ -62,10 +62,23 @@
           "woe:state=2345573"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.95, 
+        "latitude": 14.675, 
         "sw_longitude": -89.72, 
         "fullname": "Chiquimula, Guatemala", 
-        "date_indexed": "2010-12-02T16:55:18Z"
+        "children": [
+          "woe:county=26806949", 
+          "woe:county=26806951", 
+          "woe:county=26806959", 
+          "woe:county=26806952", 
+          "woe:county=26806958", 
+          "woe:county=26806950", 
+          "woe:county=26806955", 
+          "woe:county=26806957", 
+          "woe:county=26806956", 
+          "woe:county=26806954", 
+          "woe:county=26806953"
+        ], 
+        "sw_latitude": 14.4
       }, 
       "id": 2345555
     }

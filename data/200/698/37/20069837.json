@@ -39,6 +39,7 @@
           20069845
         ], 
         "name": "Erongo", 
+        "ne_latitude": -20.493, 
         "hierarchy": [
           "woe:state=20069837", 
           "woe:country=23424987", 
@@ -48,9 +49,8 @@
         "ne_longitude": 16.557, 
         "longitude": 15.093, 
         "placetype": "state", 
-        "latitude": -22.152, 
         "iso": "NA", 
-        "sw_latitude": -23.812, 
+        "date_indexed": "2010-12-02T07:50:17Z", 
         "adjacent": [
           "woe:state=20069844", 
           "woe:state=20069845", 
@@ -58,10 +58,20 @@
           "woe:state=20069835"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -20.493, 
+        "latitude": -22.152, 
         "sw_longitude": 13.628, 
         "fullname": "Erongo, Namibia", 
-        "date_indexed": "2010-12-02T07:50:17Z"
+        "children": [
+          "woe:county=55921195", 
+          "woe:county=55921184", 
+          "woe:county=55921137", 
+          "woe:county=55921153", 
+          "woe:county=55921150", 
+          "woe:county=55921127", 
+          "woe:county=55921161", 
+          "woe:landfeature=56057543"
+        ], 
+        "sw_latitude": -23.812
       }, 
       "id": 20069837
     }

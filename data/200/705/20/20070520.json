@@ -36,6 +36,7 @@
           2346884
         ], 
         "name": "Adygeya", 
+        "ne_latitude": 45.216, 
         "hierarchy": [
           "woe:state=20070520", 
           "woe:country=23424936", 
@@ -45,17 +46,28 @@
         "ne_longitude": 40.818, 
         "longitude": 40.722, 
         "placetype": "state", 
-        "latitude": 44.476, 
         "iso": "RU", 
-        "sw_latitude": 43.735, 
+        "date_indexed": "2010-12-02T16:07:50Z", 
         "adjacent": [
           "woe:state=2346884"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 45.216, 
+        "latitude": 44.476, 
         "sw_longitude": 38.684, 
         "fullname": "Adygeya, Russia", 
-        "date_indexed": "2010-12-02T16:07:50Z"
+        "children": [
+          "woe:county=12597765", 
+          "woe:county=12597776", 
+          "woe:county=12597783", 
+          "woe:county=12597786", 
+          "woe:county=12597792", 
+          "woe:county=12597795", 
+          "woe:county=12597796", 
+          "woe:county=12597805", 
+          "woe:county=12597810", 
+          "woe:county=12597814"
+        ], 
+        "sw_latitude": 43.735
       }, 
       "id": 20070520
     }

@@ -42,20 +42,23 @@
           "woe:planet=1"
         ], 
         "woeid": 24549913, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -177.987, 
         "longitude": -178.034, 
         "placetype": "state", 
+        "latitude": -14.361, 
         "iso": "WF", 
-        "date_indexed": "2010-12-02T09:35:31Z", 
+        "sw_latitude": -14.388, 
         "adjacent": [
           "woe:state=24549914"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -14.252, 
-        "latitude": -14.361, 
         "sw_longitude": -178.172, 
         "fullname": "Alo, Wallis and Futuna", 
-        "sw_latitude": -14.388
+        "children": [
+          "woe:island=12502662"
+        ], 
+        "date_indexed": "2010-12-02T09:35:31Z"
       }, 
       "id": 24549913
     }

@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 7.049, 
         "name": "Peleliu", 
         "hierarchy": [
           "woe:state=24549823", 
@@ -39,17 +40,20 @@
           "woe:planet=1"
         ], 
         "woeid": 24549823, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 134.277, 
         "longitude": 134.254, 
         "placetype": "state", 
         "iso": "PW", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "ne_latitude": 7.049, 
+        "sw_latitude": 6.974, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 7.012, 
         "sw_longitude": 134.232, 
         "fullname": "Peleliu, Palau", 
-        "sw_latitude": 6.974
+        "children": [
+          "woe:town=29389592", 
+          "woe:island=12498904"
+        ], 
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 24549823
     }

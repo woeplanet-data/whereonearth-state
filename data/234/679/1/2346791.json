@@ -42,21 +42,19 @@
           2346862
         ], 
         "name": "Barranquitas", 
+        "ne_latitude": 18.25, 
         "hierarchy": [
           "woe:state=2346791", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346791, 
-        "alias_SPA_V": [
-          "Barranquitas Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.241, 
         "longitude": -66.307, 
         "placetype": "state", 
-        "latitude": 18.201, 
         "sw_longitude": -66.374, 
-        "sw_latitude": 18.152, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346790", 
           "woe:state=2346794", 
@@ -66,11 +64,23 @@
           "woe:state=2346860", 
           "woe:state=2346803"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.25, 
+        "alias_SPA_V": [
+          "Barranquitas Municipios"
+        ], 
+        "latitude": 18.201, 
         "iso": "PR", 
         "fullname": "Barranquitas, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806091", 
+          "woe:county=26806092", 
+          "woe:county=26806093", 
+          "woe:county=26806094", 
+          "woe:county=26806095", 
+          "woe:county=26806096", 
+          "woe:county=26806097", 
+          "woe:county=26806098"
+        ], 
+        "sw_latitude": 18.152
       }, 
       "id": 2346791
     }

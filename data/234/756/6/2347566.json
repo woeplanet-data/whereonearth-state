@@ -623,17 +623,25 @@
         "ne:Shape_Area": 0.549455428086, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "17760704", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "Del"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "USA", 
+        "children": [
+          "woe:county=12587799", 
+          "woe:county=12587800", 
+          "woe:county=12587801", 
+          "woe:colloquial=28298989", 
+          "woe:colloquial=28299073", 
+          "woe:zone=24702612"
+        ], 
         "ne:ScaleRank": 0, 
         "alias_CHI_Q": [
           "\u5fb7\u62c9\u7ef4\u5c14"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3555, 
         "alias_JPN_Q": [
           "\u30c7\u30e9\u30a6\u30a7\u30a2"
         ], 
@@ -652,9 +660,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 38.45327557250971, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3555, 
+        "ne:VertexCou": 148.0, 
+        "ne:VALIDFR_1": "17760704", 
+        "ne:DataRank": 1, 
         "ne:Postal": "DE", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "DE|Del.", 
@@ -670,14 +678,14 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 5322.1, 
         "woe:id": "2347566", 
-        "name": "Delaware", 
-        "ne:VertexCou": 148.0, 
+        "ne:HASC_1": "US.DE", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347579, 
           2347589, 
           2347597
         ], 
-        "ne:HASC_1": "US.DE", 
+        "name": "Delaware", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -75.03778690813925, 
         "longitude": -75.419, 

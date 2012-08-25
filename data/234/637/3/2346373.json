@@ -586,13 +586,30 @@
         "ne:Shape_Area": 0.351623161748, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19860101", 
+        "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
+        "children": [
+          "woe:county=12592020", 
+          "woe:county=12592048", 
+          "woe:county=12592086", 
+          "woe:county=12592103", 
+          "woe:county=12592114", 
+          "woe:county=12592149", 
+          "woe:county=12592220", 
+          "woe:county=12592289", 
+          "woe:county=12592292", 
+          "woe:county=12592318", 
+          "woe:county=23388404", 
+          "woe:county=12592478", 
+          "woe:landfeature=56058395", 
+          "woe:landfeature=56058398"
+        ], 
+        "ne:LabelRank": 8, 
         "alias_ITA_Q": [
           "Drente"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 894, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 6.129476352551706, 
@@ -612,12 +629,9 @@
         "alias_DUT_A": [
           "DR"
         ], 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 894, 
+        "ne:VALIDFR_1": "19860101", 
+        "ne:DataRank": 8, 
         "ne:Postal": "DR", 
-        "alias_DUT_V": [
-          "Drenthe Provincie"
-        ], 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
         "ne:ISO": "NLD", 
@@ -629,10 +643,12 @@
         "ne:NAME_1": "Drenthe", 
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
-        "ne:LabelRank": 8, 
+        "alias_DUT_V": [
+          "Drenthe Provincie"
+        ], 
         "ne:Area_sqkm": 2635.4, 
         "woe:id": "2346373", 
-        "name": "Drenthe", 
+        "ne:HASC_1": "NL.DR", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2345486, 
@@ -640,7 +656,7 @@
           2346376, 
           2346380
         ], 
-        "ne:HASC_1": "NL.DR", 
+        "name": "Drenthe", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 7.071796095413504, 
         "longitude": 6.606, 

@@ -36,6 +36,7 @@
           2346487
         ], 
         "name": "Tumbes", 
+        "ne_latitude": -3.405, 
         "hierarchy": [
           "woe:state=2346491", 
           "woe:country=23424919", 
@@ -45,17 +46,21 @@
         "ne_longitude": -80.156, 
         "longitude": -80.597, 
         "placetype": "state", 
-        "latitude": -3.821, 
         "iso": "PE", 
-        "sw_latitude": -4.238, 
+        "date_indexed": "2010-12-02T16:12:03Z", 
         "adjacent": [
           "woe:state=2346487"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -3.405, 
+        "latitude": -3.821, 
         "sw_longitude": -81.038, 
         "fullname": "Tumbes, Peru", 
-        "date_indexed": "2010-12-02T16:12:03Z"
+        "children": [
+          "woe:county=26805830", 
+          "woe:county=26805952", 
+          "woe:county=26805962"
+        ], 
+        "sw_latitude": -4.238
       }, 
       "id": 2346491
     }

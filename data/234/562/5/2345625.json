@@ -39,6 +39,7 @@
           2345640
         ], 
         "name": "Col\u00f3n", 
+        "ne_latitude": 16.027, 
         "hierarchy": [
           "woe:state=2345625", 
           "woe:country=23424841", 
@@ -48,12 +49,11 @@
         "ne_longitude": -84.999, 
         "longitude": -85.329, 
         "placetype": "state", 
-        "latitude": 15.555, 
         "alias_SPA_S": [
           "Colon"
         ], 
         "iso": "HN", 
-        "sw_latitude": 15.082, 
+        "date_indexed": "2010-12-02T19:20:59Z", 
         "adjacent": [
           "woe:state=2345623", 
           "woe:state=2345631", 
@@ -61,10 +61,22 @@
           "woe:state=2345640"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 16.027, 
+        "latitude": 15.555, 
         "sw_longitude": -86.452, 
         "fullname": "Col\u00f3n, Honduras", 
-        "date_indexed": "2010-12-02T19:20:59Z"
+        "children": [
+          "woe:county=26813598", 
+          "woe:county=26813601", 
+          "woe:county=26813673", 
+          "woe:county=26813709", 
+          "woe:county=26813757", 
+          "woe:county=26813830", 
+          "woe:county=26813837", 
+          "woe:county=26813846", 
+          "woe:county=26813856", 
+          "woe:county=26813862"
+        ], 
+        "sw_latitude": 15.082
       }, 
       "id": 2345625
     }

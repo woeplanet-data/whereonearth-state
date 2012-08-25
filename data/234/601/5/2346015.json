@@ -49,20 +49,28 @@
         "woeid": 2346015, 
         "ne_longitude": 36.205, 
         "longitude": 36.058, 
+        "ne_latitude": 34.514, 
         "placetype": "state", 
-        "latitude": 34.414, 
         "iso": "LB", 
-        "sw_latitude": 34.136, 
+        "date_indexed": "2010-12-02T16:50:02Z", 
         "adjacent": [
           "woe:state=56049598", 
           "woe:state=56049599", 
           "woe:state=2346017"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 34.514, 
+        "latitude": 34.414, 
         "sw_longitude": 35.644, 
         "fullname": "Ash Shamal, Lebanon", 
-        "date_indexed": "2010-12-02T16:50:02Z"
+        "children": [
+          "woe:county=56049610", 
+          "woe:county=56049601", 
+          "woe:county=56049609", 
+          "woe:county=56049604", 
+          "woe:county=56049606", 
+          "woe:county=56049608"
+        ], 
+        "sw_latitude": 34.136
       }, 
       "id": 2346015
     }

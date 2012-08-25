@@ -50,21 +50,45 @@
         ], 
         "ne_longitude": 121.808, 
         "longitude": 121.708, 
-        "ne_latitude": 25.195, 
+        "children": [
+          "woe:town=2306188", 
+          "woe:landfeature=28804794", 
+          "woe:landfeature=28804744", 
+          "woe:landfeature=28804800", 
+          "woe:landfeature=28804807", 
+          "woe:landfeature=28804773", 
+          "woe:landfeature=28804919", 
+          "woe:landfeature=28804951", 
+          "woe:landfeature=28804816", 
+          "woe:landfeature=28804821", 
+          "woe:landfeature=28804889", 
+          "woe:landfeature=28804927", 
+          "woe:drainage=28801709", 
+          "woe:drainage=28801103", 
+          "woe:drainage=28801210", 
+          "woe:drainage=28801402", 
+          "woe:drainage=28801543", 
+          "woe:drainage=28802510", 
+          "woe:drainage=28802522", 
+          "woe:drainage=28803013", 
+          "woe:drainage=28803016", 
+          "woe:drainage=28803142"
+        ], 
         "placetype": "state", 
         "adjacent_woeid": [
           20070569
         ], 
         "iso": "TW", 
-        "sw_latitude": 25.052, 
+        "date_indexed": "2010-12-02T16:15:11Z", 
         "adjacent": [
           "woe:state=20070569"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 25.195, 
         "latitude": 25.116, 
         "sw_longitude": 121.627, 
         "fullname": "\u57fa\u9686\u5e02, Taiwan, Keelung City, Taiwan", 
-        "date_indexed": "2010-12-02T16:15:11Z"
+        "provider": "geoplanet 7.6.0", 
+        "sw_latitude": 25.052
       }, 
       "id": 22695855
     }

@@ -52,10 +52,10 @@
         "woeid": 2347164, 
         "ne_longitude": 100.952, 
         "longitude": 100.642, 
+        "ne_latitude": 14.276, 
         "placetype": "state", 
-        "latitude": 14.096, 
         "iso": "TH", 
-        "sw_latitude": 13.916, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347165", 
           "woe:state=2347169", 
@@ -65,10 +65,19 @@
           "woe:state=2347162"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.276, 
+        "latitude": 14.096, 
         "sw_longitude": 100.332, 
         "fullname": "Pathum Thani, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341509", 
+          "woe:county=28341514", 
+          "woe:county=28341508", 
+          "woe:county=28341512", 
+          "woe:county=28341511", 
+          "woe:county=28341510", 
+          "woe:county=28341513"
+        ], 
+        "sw_latitude": 13.916
       }, 
       "id": 2347164
     }

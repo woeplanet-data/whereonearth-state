@@ -41,21 +41,19 @@
           2346848
         ], 
         "name": "Maricao", 
+        "ne_latitude": 18.208, 
         "hierarchy": [
           "woe:state=2346800", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346800, 
-        "alias_SPA_V": [
-          "Maricao Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.837, 
         "longitude": -66.944, 
         "placetype": "state", 
-        "latitude": 18.173, 
         "sw_longitude": -67.051, 
-        "sw_latitude": 18.138, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346798", 
           "woe:state=2346843", 
@@ -64,11 +62,22 @@
           "woe:state=2346805", 
           "woe:state=2346810"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.208, 
+        "alias_SPA_V": [
+          "Maricao Municipios"
+        ], 
+        "latitude": 18.173, 
         "iso": "PR", 
         "fullname": "Maricao, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806473", 
+          "woe:county=26806474", 
+          "woe:county=26806475", 
+          "woe:county=26806476", 
+          "woe:county=26806477", 
+          "woe:county=26806478", 
+          "woe:county=26806479"
+        ], 
+        "sw_latitude": 18.138
       }, 
       "id": 2346800
     }

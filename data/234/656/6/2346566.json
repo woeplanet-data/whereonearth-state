@@ -41,6 +41,7 @@
           12578035
         ], 
         "name": "Castelo Branco", 
+        "ne_latitude": 40.416, 
         "hierarchy": [
           "woe:state=2346566", 
           "woe:country=23424925", 
@@ -50,9 +51,8 @@
         "ne_longitude": -6.864, 
         "longitude": -7.578, 
         "placetype": "state", 
-        "latitude": 39.977, 
         "iso": "PT", 
-        "sw_latitude": 39.537, 
+        "date_indexed": "2010-12-02T09:58:14Z", 
         "adjacent": [
           "woe:state=2346567", 
           "woe:state=12578035", 
@@ -62,10 +62,23 @@
           "woe:state=2346576"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 40.416, 
+        "latitude": 39.977, 
         "sw_longitude": -8.292, 
         "fullname": "Castelo Branco, Portugal", 
-        "date_indexed": "2010-12-02T09:58:14Z"
+        "children": [
+          "woe:county=12596675", 
+          "woe:county=12596466", 
+          "woe:county=12596533", 
+          "woe:county=12596488", 
+          "woe:county=12596507", 
+          "woe:county=12596457", 
+          "woe:county=12596541", 
+          "woe:county=12596591", 
+          "woe:county=12596584", 
+          "woe:county=12596483", 
+          "woe:county=12596616"
+        ], 
+        "sw_latitude": 39.537
       }, 
       "id": 2346566
     }

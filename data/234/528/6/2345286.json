@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
+        "woeid": 2345286, 
         "name": "Saaremaa", 
         "alias_ENG_P": [
           "Saare County"
@@ -42,7 +43,6 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 58.684, 
-        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Saare Maakond"
         ], 
@@ -50,12 +50,49 @@
         "ne_longitude": 23.446, 
         "placetype": "state", 
         "iso": "EE", 
-        "sw_latitude": 57.78, 
-        "woeid": 2345286, 
+        "date_indexed": "2010-12-02T16:42:58Z", 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 58.296, 
         "sw_longitude": 21.772, 
         "fullname": "Saaremaa, Saare County, Estonia", 
-        "date_indexed": "2010-12-02T16:42:58Z"
+        "children": [
+          "woe:county=29389876", 
+          "woe:county=29389905", 
+          "woe:county=29389697", 
+          "woe:county=29389735", 
+          "woe:county=29389766", 
+          "woe:county=29389795", 
+          "woe:county=29389819", 
+          "woe:county=29389854", 
+          "woe:county=29389872", 
+          "woe:county=29389902", 
+          "woe:county=29389935", 
+          "woe:county=29389717", 
+          "woe:county=29389746", 
+          "woe:county=29389776", 
+          "woe:county=29389814", 
+          "woe:county=29389850", 
+          "woe:island=12471182", 
+          "woe:island=12471185", 
+          "woe:island=12471192", 
+          "woe:island=12471201", 
+          "woe:island=12471203", 
+          "woe:island=12471208", 
+          "woe:island=12471284", 
+          "woe:island=12471220", 
+          "woe:island=12471225", 
+          "woe:island=12471230", 
+          "woe:island=12471294", 
+          "woe:island=12471234", 
+          "woe:island=12471244", 
+          "woe:island=12507111", 
+          "woe:island=12471249", 
+          "woe:island=12471252", 
+          "woe:island=12471253", 
+          "woe:island=12471254", 
+          "woe:landfeature=56057300"
+        ], 
+        "sw_latitude": 57.78
       }, 
       "id": 2345286
     }

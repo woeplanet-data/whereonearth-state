@@ -822,16 +822,20 @@
         "ne:Shape_Area": 0.288004661242, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_KOR_Q": [
           "\uace0\uc544"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IND", 
+        "children": [
+          "woe:county=12586827", 
+          "woe:county=12586828"
+        ], 
         "alias_CHI_Q": [
           "\u679c\u963f"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3265, 
         "alias_JPN_Q": [
           "\u30b4\u30a2"
         ], 
@@ -849,9 +853,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 14.887308661165832, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3265, 
+        "ne:VertexCou": 199.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "GA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "G\u00f4a", 
@@ -867,13 +871,13 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 3421.7, 
         "woe:id": "2345764", 
-        "name": "Goa", 
-        "ne:VertexCou": 199.0, 
+        "ne:HASC_1": "IN.GA", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2345750, 
           2345753
         ], 
-        "ne:HASC_1": "IN.GA", 
+        "name": "Goa", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 74.30422977058748, 
         "longitude": 74.014, 

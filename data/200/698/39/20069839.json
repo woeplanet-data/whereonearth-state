@@ -42,6 +42,7 @@
           20069843
         ], 
         "name": "Kunene", 
+        "ne_latitude": -16.965, 
         "hierarchy": [
           "woe:state=20069839", 
           "woe:country=23424987", 
@@ -51,9 +52,8 @@
         "ne_longitude": 16.721, 
         "longitude": 14.227, 
         "placetype": "state", 
-        "latitude": -19.077, 
         "iso": "NA", 
-        "sw_latitude": -21.19, 
+        "date_indexed": "2010-12-02T07:50:17Z", 
         "adjacent": [
           "woe:state=2344662", 
           "woe:state=20069837", 
@@ -64,10 +64,19 @@
           "woe:state=20069835"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -16.965, 
+        "latitude": -19.077, 
         "sw_longitude": 11.733, 
         "fullname": "Kunene, Namibia", 
-        "date_indexed": "2010-12-02T07:50:17Z"
+        "children": [
+          "woe:county=55921177", 
+          "woe:county=55921142", 
+          "woe:county=55921213", 
+          "woe:county=55921198", 
+          "woe:county=55921193", 
+          "woe:county=55921162", 
+          "woe:landfeature=56057542"
+        ], 
+        "sw_latitude": -21.19
       }, 
       "id": 20069839
     }

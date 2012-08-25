@@ -37,30 +37,41 @@
           2346820
         ], 
         "name": "Fajardo", 
+        "ne_latitude": 18.402, 
         "hierarchy": [
           "woe:state=2346819", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346819, 
-        "alias_SPA_V": [
-          "Fajardo Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -65.551, 
         "longitude": -65.684, 
         "placetype": "state", 
-        "latitude": 18.328, 
         "sw_longitude": -65.754, 
-        "sw_latitude": 18.267, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346820", 
           "woe:state=2346818"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.402, 
+        "alias_SPA_V": [
+          "Fajardo Municipios"
+        ], 
+        "latitude": 18.328, 
         "iso": "PR", 
         "fullname": "Fajardo, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806261", 
+          "woe:county=26806262", 
+          "woe:county=26806263", 
+          "woe:county=26806264", 
+          "woe:county=26806265", 
+          "woe:county=26806266", 
+          "woe:county=26806267", 
+          "woe:county=26806268", 
+          "woe:county=26806269"
+        ], 
+        "sw_latitude": 18.267
       }, 
       "id": 2346819
     }

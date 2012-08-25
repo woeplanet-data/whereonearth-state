@@ -50,12 +50,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55848372, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.405, 
         "longitude": 15.102, 
         "placetype": "state", 
+        "latitude": 45.798, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 45.636, 
         "adjacent": [
           "woe:state=55848345", 
           "woe:state=55848349", 
@@ -67,11 +67,19 @@
           "woe:state=55848393", 
           "woe:state=12577990"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 45.961, 
-        "latitude": 45.798, 
         "sw_longitude": 14.799, 
         "fullname": "Novo Mesto, Slovenia", 
-        "sw_latitude": 45.636
+        "children": [
+          "woe:county=55848298", 
+          "woe:county=55848312", 
+          "woe:county=12591592", 
+          "woe:county=12591626", 
+          "woe:county=12591628", 
+          "woe:county=55848338"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848372
     }

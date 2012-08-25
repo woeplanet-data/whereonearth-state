@@ -42,6 +42,7 @@
           2346492
         ], 
         "name": "Hu\u00e1nuco", 
+        "ne_latitude": -8.349, 
         "hierarchy": [
           "woe:state=2346477", 
           "woe:country=23424919", 
@@ -51,12 +52,11 @@
         "ne_longitude": -74.499, 
         "longitude": -75.911, 
         "placetype": "state", 
-        "latitude": -9.412, 
         "alias_SPA_S": [
           "Huanuco"
         ], 
         "iso": "PE", 
-        "sw_latitude": -10.474, 
+        "date_indexed": "2010-12-02T16:12:03Z", 
         "adjacent": [
           "woe:state=2346469", 
           "woe:state=2346480", 
@@ -67,10 +67,23 @@
           "woe:state=2346492"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -8.349, 
+        "latitude": -9.412, 
         "sw_longitude": -77.322, 
         "fullname": "Hu\u00e1nuco, Peru", 
-        "date_indexed": "2010-12-02T16:12:03Z"
+        "children": [
+          "woe:county=26805778", 
+          "woe:county=26805838", 
+          "woe:county=26805845", 
+          "woe:county=26805848", 
+          "woe:county=26805856", 
+          "woe:county=28358305", 
+          "woe:county=26805879", 
+          "woe:county=26805885", 
+          "woe:county=26805901", 
+          "woe:county=26805917", 
+          "woe:county=28358307"
+        ], 
+        "sw_latitude": -10.474
       }, 
       "id": 2346477
     }

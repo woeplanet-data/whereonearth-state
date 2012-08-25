@@ -561,13 +561,17 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 47.49960744912454, 
-        "ne:DataRank": 7, 
         "ne:Shape_Area": 0.101224461003, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19790101", 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
+        "children": [
+          "woe:county=12593196", 
+          "woe:county=12593263", 
+          "woe:county=12593133"
+        ], 
         "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Canton Giura"
@@ -590,14 +594,15 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.327, 
+        "iso": "CH", 
         "ne:FIPS_1": "SZ26", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "sw_latitude": 47.15430552797778, 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 160, 
+        "ne:VertexCou": 131.0, 
+        "ne:VALIDFR_1": "19790101", 
+        "ne:DataRank": 7, 
         "ne:Postal": "JU", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Giura", 
@@ -616,8 +621,8 @@
           "Kanton Jura"
         ], 
         "woe:id": "2347108", 
-        "name": "Canton de Jura", 
-        "ne:VertexCou": 131.0, 
+        "ne:HASC_1": "CH.JU", 
+        "lang": "FRE", 
         "adjacent_woeid": [
           2347085, 
           2347087, 
@@ -626,7 +631,7 @@
           7153317, 
           7153330
         ], 
-        "ne:HASC_1": "CH.JU", 
+        "name": "Canton de Jura", 
         "ne:REMARKS_1": null, 
         "alias_UNK_Q": [
           "Giura"
@@ -636,7 +641,7 @@
         "alias_FRE_A": [
           "JU"
         ], 
-        "iso": "CH", 
+        "ne:OBJECTID": 160, 
         "date_indexed": "2010-12-02T18:19:21Z", 
         "ne:NL_NAME_1": null, 
         "alias_FRE_V": [

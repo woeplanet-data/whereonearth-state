@@ -32,24 +32,29 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -14.916, 
         "name": "Penama", 
         "hierarchy": [
           "woe:state=20069885", 
           "woe:country=23424907", 
           "woe:planet=1"
         ], 
-        "woeid": 20069885, 
+        "ne_latitude": -14.916, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 168.272, 
         "longitude": 168.192, 
         "placetype": "state", 
         "iso": "VU", 
-        "sw_latitude": -16.013, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:52:20Z", 
+        "woeid": 20069885, 
         "latitude": -15.737, 
         "sw_longitude": 167.685, 
         "fullname": "Penama, Vanuatu", 
-        "date_indexed": "2010-12-02T17:52:20Z"
+        "children": [
+          "woe:town=1050906", 
+          "woe:island=12497011", 
+          "woe:island=12497058"
+        ], 
+        "sw_latitude": -16.013
       }, 
       "id": 20069885
     }

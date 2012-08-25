@@ -42,6 +42,7 @@
           20070283
         ], 
         "name": "Haciqabul", 
+        "ne_latitude": 40.292, 
         "hierarchy": [
           "woe:state=20070282", 
           "woe:country=23424741", 
@@ -51,9 +52,8 @@
         "ne_longitude": 49.308, 
         "longitude": 48.885, 
         "placetype": "state", 
-        "latitude": 40.107, 
         "iso": "AZ", 
-        "sw_latitude": 39.922, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=20070283", 
           "woe:state=20070216", 
@@ -64,10 +64,22 @@
           "woe:state=20070270"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 40.292, 
+        "latitude": 40.107, 
         "sw_longitude": 48.461, 
         "fullname": "Haciqabul, Azerbaijan", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=56121505", 
+          "woe:town=1951923", 
+          "woe:town=1951945", 
+          "woe:town=1951976", 
+          "woe:town=1950599", 
+          "woe:town=1950680", 
+          "woe:town=1950702", 
+          "woe:town=1950738", 
+          "woe:town=1951996", 
+          "woe:town=1950767"
+        ], 
+        "sw_latitude": 39.922
       }, 
       "id": 20070282
     }

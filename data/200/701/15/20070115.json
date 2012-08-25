@@ -39,26 +39,29 @@
           "Pryongyang-si"
         ], 
         "name": "P\u00b4yongyang-si", 
-        "ne_latitude": 39.083, 
         "hierarchy": [
           "woe:state=20070115", 
           "woe:country=23424865", 
           "woe:planet=1"
         ], 
-        "woeid": 20070115, 
+        "ne_latitude": 39.083, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 125.875, 
         "longitude": 125.769, 
         "placetype": "state", 
         "iso": "KP", 
-        "sw_latitude": 38.963, 
+        "date_indexed": "2010-12-02T10:22:43Z", 
         "adjacent": [
           "woe:state=2345957"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 20070115, 
         "latitude": 39.023, 
         "sw_longitude": 125.663, 
         "fullname": "P\u00b4yongyang-si, North Korea", 
-        "date_indexed": "2010-12-02T10:22:43Z"
+        "children": [
+          "woe:town=1079132"
+        ], 
+        "sw_latitude": 38.963
       }, 
       "id": 20070115
     }

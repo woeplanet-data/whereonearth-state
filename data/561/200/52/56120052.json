@@ -17,9 +17,12 @@
           "woe:country=23424893", 
           "woe:planet=1"
         ], 
+        "woeid": 56120052, 
         "placetype": "state", 
         "iso": "MA", 
-        "date_indexed": "2010-12-02T18:19:13Z", 
+        "alias_ARA_S": [
+          "Fes-Boulemane"
+        ], 
         "adjacent": [
           "woe:state=56120053", 
           "woe:state=56120057", 
@@ -27,10 +30,13 @@
           "woe:state=56120063"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56120052, 
-        "alias_ARA_S": [
-          "Fes-Boulemane"
-        ]
+        "children": [
+          "woe:county=2346194", 
+          "woe:county=56120071", 
+          "woe:county=56120070", 
+          "woe:county=56120072"
+        ], 
+        "date_indexed": "2010-12-02T18:19:13Z"
       }, 
       "id": 56120052
     }

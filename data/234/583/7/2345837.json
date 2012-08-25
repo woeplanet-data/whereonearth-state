@@ -42,6 +42,7 @@
           2345850
         ], 
         "name": "As Sulaymaniyah", 
+        "ne_latitude": 36.541, 
         "hierarchy": [
           "woe:state=2345837", 
           "woe:country=23424855", 
@@ -51,9 +52,8 @@
         "ne_longitude": 46.349, 
         "longitude": 45.43, 
         "placetype": "state", 
-        "latitude": 35.565, 
         "iso": "IQ", 
-        "sw_latitude": 34.59, 
+        "date_indexed": "2010-12-02T16:42:51Z", 
         "adjacent": [
           "woe:state=2345843", 
           "woe:state=2345845", 
@@ -64,13 +64,25 @@
           "woe:state=2345850"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 36.541, 
+        "latitude": 35.565, 
         "sw_longitude": 44.511, 
         "fullname": "As Sulaymaniyah, Iraq", 
         "alias_ARA_V": [
           "Sulaymaniyah"
         ], 
-        "date_indexed": "2010-12-02T16:42:51Z"
+        "children": [
+          "woe:county=55999918", 
+          "woe:county=55999921", 
+          "woe:county=55999916", 
+          "woe:county=55999988", 
+          "woe:county=55999922", 
+          "woe:county=55999919", 
+          "woe:county=55999914", 
+          "woe:county=55999915", 
+          "woe:county=55999917", 
+          "woe:county=55999920"
+        ], 
+        "sw_latitude": 34.59
       }, 
       "id": 2345837
     }

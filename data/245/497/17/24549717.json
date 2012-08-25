@@ -46,12 +46,12 @@
           "woe:planet=1"
         ], 
         "woeid": 24549717, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.747, 
         "longitude": 144.727, 
         "placetype": "state", 
+        "latitude": 13.455, 
         "iso": "GU", 
-        "date_indexed": "2010-12-02T18:21:30Z", 
+        "sw_latitude": 13.432, 
         "adjacent": [
           "woe:state=24549718", 
           "woe:state=24549726", 
@@ -59,11 +59,15 @@
           "woe:state=24549716", 
           "woe:state=24549715"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 13.479, 
-        "latitude": 13.455, 
         "sw_longitude": 144.706, 
         "fullname": "Asan, Guam", 
-        "sw_latitude": 13.432
+        "children": [
+          "woe:town=15021084", 
+          "woe:town=15021083"
+        ], 
+        "date_indexed": "2010-12-02T18:21:30Z"
       }, 
       "id": 24549717
     }

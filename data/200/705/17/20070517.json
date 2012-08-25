@@ -36,6 +36,7 @@
           2346894
         ], 
         "name": "Aginskiy Buryatskiy Avtonomnyy Okrug", 
+        "ne_latitude": 51.794, 
         "hierarchy": [
           "woe:state=20070517", 
           "woe:country=23424936", 
@@ -45,17 +46,21 @@
         "ne_longitude": 115.942, 
         "longitude": 114.098, 
         "placetype": "state", 
-        "latitude": 51.098, 
         "iso": "RU", 
-        "sw_latitude": 50.402, 
+        "date_indexed": "2010-12-02T16:07:50Z", 
         "adjacent": [
           "woe:state=2346894"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 51.794, 
+        "latitude": 51.098, 
         "sw_longitude": 112.254, 
         "fullname": "Aginskiy Buryatskiy Avtonomnyy Okrug, Russia", 
-        "date_indexed": "2010-12-02T16:07:50Z"
+        "children": [
+          "woe:county=12598155", 
+          "woe:county=12598166", 
+          "woe:county=12598177"
+        ], 
+        "sw_latitude": 50.402
       }, 
       "id": 20070517
     }

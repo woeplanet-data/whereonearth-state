@@ -38,6 +38,7 @@
           2346233
         ], 
         "name": "Savanne", 
+        "ne_latitude": -20.395, 
         "hierarchy": [
           "woe:state=2346236", 
           "woe:country=23424894", 
@@ -47,19 +48,22 @@
         "ne_longitude": 57.62, 
         "longitude": 57.495, 
         "placetype": "state", 
-        "latitude": -20.46, 
         "iso": "MU", 
-        "sw_latitude": -20.526, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=2346228", 
           "woe:state=2346230", 
           "woe:state=2346233"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -20.395, 
+        "latitude": -20.46, 
         "sw_longitude": 57.371, 
         "fullname": "Savanne, Mauritius", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1377297", 
+          "woe:town=1377481"
+        ], 
+        "sw_latitude": -20.526
       }, 
       "id": 2346236
     }

@@ -40,6 +40,7 @@
           2346961
         ], 
         "name": "Al Muthanna", 
+        "ne_latitude": 31.787, 
         "hierarchy": [
           "woe:state=2345835", 
           "woe:country=23424855", 
@@ -49,9 +50,8 @@
         "ne_longitude": 46.556, 
         "longitude": 45.091, 
         "placetype": "state", 
-        "latitude": 30.445, 
         "iso": "IQ", 
-        "sw_latitude": 29.103, 
+        "date_indexed": "2010-12-02T16:42:51Z", 
         "adjacent": [
           "woe:state=2345834", 
           "woe:state=2346961", 
@@ -60,13 +60,19 @@
           "woe:state=2345841"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 31.787, 
+        "latitude": 30.445, 
         "sw_longitude": 43.8, 
         "fullname": "Al Muthanna, Iraq", 
         "alias_ARA_V": [
           "Muthanna"
         ], 
-        "date_indexed": "2010-12-02T16:42:51Z"
+        "children": [
+          "woe:county=55999907", 
+          "woe:county=55999906", 
+          "woe:county=55999909", 
+          "woe:county=55999908"
+        ], 
+        "sw_latitude": 29.103
       }, 
       "id": 2345835
     }

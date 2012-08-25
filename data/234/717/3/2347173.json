@@ -51,10 +51,10 @@
         "woeid": 2347173, 
         "ne_longitude": 102.915, 
         "longitude": 102.658, 
+        "ne_latitude": 12.757, 
         "placetype": "state", 
-        "latitude": 12.203, 
         "iso": "TH", 
-        "sw_latitude": 11.562, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=20070098", 
           "woe:state=2347172", 
@@ -63,10 +63,21 @@
           "woe:state=2344937"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 12.757, 
+        "latitude": 12.203, 
         "sw_longitude": 102.245, 
         "fullname": "Trat, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341373", 
+          "woe:county=28341375", 
+          "woe:county=28341374", 
+          "woe:county=28341376", 
+          "woe:county=28341378", 
+          "woe:county=28341377", 
+          "woe:county=28341379", 
+          "woe:island=12501389", 
+          "woe:landfeature=56057357"
+        ], 
+        "sw_latitude": 11.562
       }, 
       "id": 2347173
     }

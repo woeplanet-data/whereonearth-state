@@ -39,6 +39,7 @@
           20070134
         ], 
         "name": "Dowa", 
+        "ne_latitude": -13.229, 
         "hierarchy": [
           "woe:state=20070132", 
           "woe:country=23424889", 
@@ -48,9 +49,8 @@
         "ne_longitude": 34.301, 
         "longitude": 33.855, 
         "placetype": "state", 
-        "latitude": -13.534, 
         "iso": "MW", 
-        "sw_latitude": -13.838, 
+        "date_indexed": "2010-12-02T17:40:22Z", 
         "adjacent": [
           "woe:state=20070128", 
           "woe:state=20070134", 
@@ -58,10 +58,15 @@
           "woe:state=20070133"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -13.229, 
+        "latitude": -13.534, 
         "sw_longitude": 33.41, 
         "fullname": "Dowa, Malawi", 
-        "date_indexed": "2010-12-02T17:40:22Z"
+        "children": [
+          "woe:town=1500795", 
+          "woe:town=1368236", 
+          "woe:town=1368589"
+        ], 
+        "sw_latitude": -13.838
       }, 
       "id": 20070132
     }

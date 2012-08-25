@@ -40,6 +40,7 @@
           12578036
         ], 
         "name": "Vila Real", 
+        "ne_latitude": 41.927, 
         "hierarchy": [
           "woe:state=2346579", 
           "woe:country=23424925", 
@@ -49,12 +50,11 @@
         "ne_longitude": -7.171, 
         "longitude": -7.648, 
         "placetype": "state", 
-        "latitude": 41.523, 
         "alias_POR_V": [
           "Vilareal"
         ], 
         "iso": "PT", 
-        "sw_latitude": 41.118, 
+        "date_indexed": "2010-12-02T09:58:14Z", 
         "adjacent": [
           "woe:state=2346564", 
           "woe:state=2346565", 
@@ -63,10 +63,27 @@
           "woe:state=2346580"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.927, 
+        "latitude": 41.523, 
         "sw_longitude": -8.125, 
         "fullname": "Vila Real, Portugal", 
-        "date_indexed": "2010-12-02T09:58:14Z"
+        "children": [
+          "woe:county=12596527", 
+          "woe:county=12596528", 
+          "woe:county=12596464", 
+          "woe:county=12596653", 
+          "woe:county=12596655", 
+          "woe:county=12596606", 
+          "woe:county=12596473", 
+          "woe:county=12596680", 
+          "woe:county=12596509", 
+          "woe:county=12596684", 
+          "woe:county=12596644", 
+          "woe:county=12596519", 
+          "woe:county=12596494", 
+          "woe:county=12596438", 
+          "woe:landfeature=56058360"
+        ], 
+        "sw_latitude": 41.118
       }, 
       "id": 2346579
     }

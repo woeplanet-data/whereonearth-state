@@ -38,31 +38,46 @@
           2346825
         ], 
         "name": "Humacao", 
+        "ne_latitude": 18.207, 
         "hierarchy": [
           "woe:state=2346824", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346824, 
-        "alias_SPA_V": [
-          "Humacao Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -65.73, 
         "longitude": -65.808, 
         "placetype": "state", 
-        "latitude": 18.138, 
         "sw_longitude": -65.878, 
-        "sw_latitude": 18.069, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346799", 
           "woe:state=2346823", 
           "woe:state=2346825"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.207, 
+        "alias_SPA_V": [
+          "Humacao Municipios"
+        ], 
+        "latitude": 18.138, 
         "iso": "PR", 
         "fullname": "Humacao, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806342", 
+          "woe:county=26806343", 
+          "woe:county=26806344", 
+          "woe:county=26806345", 
+          "woe:county=26806346", 
+          "woe:county=26806347", 
+          "woe:county=26806348", 
+          "woe:county=26806349", 
+          "woe:county=26806350", 
+          "woe:county=26806351", 
+          "woe:county=26806352", 
+          "woe:county=26806353", 
+          "woe:county=26806354"
+        ], 
+        "sw_latitude": 18.069
       }, 
       "id": 2346824
     }

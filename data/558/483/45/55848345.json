@@ -46,12 +46,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55848345, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.386, 
         "longitude": 15.206, 
         "placetype": "state", 
+        "latitude": 45.565, 
         "iso": "SI", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 45.421, 
         "adjacent": [
           "woe:state=12577975", 
           "woe:state=55848356", 
@@ -59,11 +59,15 @@
           "woe:state=55848372", 
           "woe:state=12577982"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 45.708, 
-        "latitude": 45.565, 
         "sw_longitude": 15.027, 
         "fullname": "Crnomelj, Slovenia", 
-        "sw_latitude": 45.421
+        "children": [
+          "woe:county=12591524", 
+          "woe:county=12591616"
+        ], 
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 55848345
     }

@@ -32,24 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 5.367, 
         "name": "Baa", 
         "hierarchy": [
           "woe:state=20070316", 
           "woe:country=23424899", 
           "woe:planet=1"
         ], 
-        "woeid": 20070316, 
+        "ne_latitude": 5.367, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 73.167, 
         "longitude": 72.976, 
         "placetype": "state", 
         "iso": "MV", 
-        "sw_latitude": 4.833, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
+        "woeid": 20070316, 
         "latitude": 4.893, 
         "sw_longitude": 72.8, 
         "fullname": "Baa, Maldives", 
-        "date_indexed": "2010-12-02T09:35:37Z"
+        "children": [
+          "woe:town=2268288", 
+          "woe:island=12468415", 
+          "woe:island=12468445", 
+          "woe:island=12508969", 
+          "woe:island=12468472", 
+          "woe:island=12468487", 
+          "woe:island=12468505", 
+          "woe:island=12508986", 
+          "woe:island=12509001", 
+          "woe:island=12468580", 
+          "woe:island=12509007", 
+          "woe:island=12468617", 
+          "woe:island=12509024", 
+          "woe:island=12468772"
+        ], 
+        "sw_latitude": 4.833
       }, 
       "id": 20070316
     }

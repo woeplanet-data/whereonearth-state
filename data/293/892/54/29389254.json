@@ -31,13 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FIN", 
-        "adjacent_woeid": [
-          29389251, 
-          29389253, 
-          29389255, 
-          29389260
-        ], 
         "alias_SWE_V": [
           "Kymmenedalen"
         ], 
@@ -53,27 +46,47 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 61.292, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 27.991, 
-        "longitude": 27.016, 
         "placetype": "state", 
+        "children": [
+          "woe:county=29389294", 
+          "woe:county=56120863", 
+          "woe:historicalcounty=12590753", 
+          "woe:historicalcounty=12590754", 
+          "woe:historicalcounty=12590758", 
+          "woe:historicalcounty=12590762", 
+          "woe:historicalcounty=12590776", 
+          "woe:drainage=29354262", 
+          "woe:drainage=29354388", 
+          "woe:drainage=29355899", 
+          "woe:drainage=29357514"
+        ], 
+        "woeid": 29389254, 
         "sw_longitude": 25.992, 
-        "date_indexed": "2010-12-02T16:39:41Z", 
         "alias_FIN_V": [
           "Kymeenlaakson maakuntana"
         ], 
-        "woeid": 29389254, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 60.859, 
-        "iso": "FI", 
-        "fullname": "Kymeenlaakson maakunta, Southern Finland, Kymeenlaakson maakunta, Finland", 
+        "sw_latitude": 60.272, 
         "adjacent": [
           "woe:state=29389253", 
           "woe:state=29389260", 
           "woe:state=29389251", 
           "woe:state=29389255"
         ], 
-        "sw_latitude": 60.272, 
-        "name": "Kymeenlaakson maakunta"
+        "lang": "FIN", 
+        "adjacent_woeid": [
+          29389251, 
+          29389253, 
+          29389255, 
+          29389260
+        ], 
+        "name": "Kymeenlaakson maakunta", 
+        "ne_longitude": 27.991, 
+        "longitude": 27.016, 
+        "iso": "FI", 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "fullname": "Kymeenlaakson maakunta, Southern Finland, Kymeenlaakson maakunta, Finland"
       }, 
       "id": 29389254
     }

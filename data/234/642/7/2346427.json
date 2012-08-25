@@ -38,6 +38,7 @@
           2346426
         ], 
         "name": "Masaya", 
+        "ne_latitude": 12.156, 
         "hierarchy": [
           "woe:state=2346427", 
           "woe:country=23424915", 
@@ -47,19 +48,29 @@
         "ne_longitude": -85.961, 
         "longitude": -86.122, 
         "placetype": "state", 
-        "latitude": 11.998, 
         "iso": "NI", 
-        "sw_latitude": 11.839, 
+        "date_indexed": "2010-12-02T18:19:07Z", 
         "adjacent": [
           "woe:state=2346418", 
           "woe:state=2346422", 
           "woe:state=2346426"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 12.156, 
+        "latitude": 11.998, 
         "sw_longitude": -86.282, 
         "fullname": "Masaya, Nicaragua", 
-        "date_indexed": "2010-12-02T18:19:07Z"
+        "children": [
+          "woe:county=26813374", 
+          "woe:county=26813371", 
+          "woe:county=26813372", 
+          "woe:county=26813369", 
+          "woe:county=26813373", 
+          "woe:county=26813368", 
+          "woe:county=26813376", 
+          "woe:county=26813375", 
+          "woe:county=26813370"
+        ], 
+        "sw_latitude": 11.839
       }, 
       "id": 2346427
     }

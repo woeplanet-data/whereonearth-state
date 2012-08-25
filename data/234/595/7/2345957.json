@@ -42,7 +42,22 @@
           20070114, 
           20070115
         ], 
+        "alias_KOR_Q": [
+          "\ud3c9\uc548\ub0a8\ub3c4"
+        ], 
         "name": "P'yongan-namdo", 
+        "ne_latitude": 40.169, 
+        "hierarchy": [
+          "woe:state=2345957", 
+          "woe:country=23424865", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345957, 
+        "ne_longitude": 127.076, 
+        "longitude": 126.101, 
+        "placetype": "state", 
+        "iso": "KP", 
+        "date_indexed": "2010-12-02T10:22:43Z", 
         "adjacent": [
           "woe:state=2345950", 
           "woe:state=2345951", 
@@ -53,26 +68,43 @@
           "woe:state=2345955", 
           "woe:state=20070115"
         ], 
-        "hierarchy": [
-          "woe:state=2345957", 
-          "woe:country=23424865", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2345957, 
-        "ne_longitude": 127.076, 
-        "longitude": 126.101, 
-        "placetype": "state", 
-        "latitude": 39.405, 
-        "iso": "KP", 
-        "sw_latitude": 38.64, 
-        "alias_KOR_Q": [
-          "\ud3c9\uc548\ub0a8\ub3c4"
-        ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 40.169, 
+        "latitude": 39.405, 
         "sw_longitude": 125.125, 
         "fullname": "P'yongan-namdo, North Korea", 
-        "date_indexed": "2010-12-02T10:22:43Z", 
+        "children": [
+          "woe:town=1093843", 
+          "woe:town=1093852", 
+          "woe:town=1093862", 
+          "woe:town=1093863", 
+          "woe:town=1093879", 
+          "woe:town=1093885", 
+          "woe:town=1093889", 
+          "woe:town=1093890", 
+          "woe:town=1093892", 
+          "woe:town=1075577", 
+          "woe:town=1093923", 
+          "woe:town=1093926", 
+          "woe:town=1079122", 
+          "woe:town=1079130", 
+          "woe:town=56123431", 
+          "woe:town=1093943", 
+          "woe:town=1093944", 
+          "woe:town=1084094", 
+          "woe:town=1085931", 
+          "woe:town=1087194", 
+          "woe:town=1087195", 
+          "woe:town=1093963", 
+          "woe:town=1093964", 
+          "woe:town=1093966", 
+          "woe:town=1093970", 
+          "woe:town=1093976", 
+          "woe:town=1093979", 
+          "woe:town=1092663", 
+          "woe:town=1093089", 
+          "woe:drainage=26354398"
+        ], 
+        "sw_latitude": 38.64, 
         "alias_SWE_Q": [
           "Pyongannamdo"
         ]

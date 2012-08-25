@@ -42,6 +42,7 @@
           56055615
         ], 
         "name": "Louga", 
+        "ne_latitude": 16.17, 
         "hierarchy": [
           "woe:state=2346993", 
           "woe:country=23424943", 
@@ -51,9 +52,8 @@
         "ne_longitude": -14.321, 
         "longitude": -15.533, 
         "placetype": "state", 
-        "latitude": 15.359, 
         "iso": "SN", 
-        "sw_latitude": 14.549, 
+        "date_indexed": "2010-12-02T08:57:18Z", 
         "adjacent": [
           "woe:state=2346989", 
           "woe:state=2346994", 
@@ -64,10 +64,15 @@
           "woe:state=2346992"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 16.17, 
+        "latitude": 15.359, 
         "sw_longitude": -16.745, 
         "fullname": "Louga, Senegal", 
-        "date_indexed": "2010-12-02T08:57:18Z"
+        "children": [
+          "woe:county=56055801", 
+          "woe:county=56055799", 
+          "woe:county=56055800"
+        ], 
+        "sw_latitude": 14.549
       }, 
       "id": 2346993
     }

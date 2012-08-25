@@ -43,21 +43,19 @@
           2346847
         ], 
         "name": "Lares", 
+        "ne_latitude": 18.368, 
         "hierarchy": [
           "woe:state=2346798", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346798, 
-        "alias_SPA_V": [
-          "Lares Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.817, 
         "longitude": -66.865, 
         "placetype": "state", 
-        "latitude": 18.269, 
         "sw_longitude": -66.913, 
-        "sw_latitude": 18.17, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346789", 
           "woe:state=2346846", 
@@ -68,11 +66,27 @@
           "woe:state=2346808", 
           "woe:state=2346810"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.368, 
+        "alias_SPA_V": [
+          "Lares Municipios"
+        ], 
+        "latitude": 18.269, 
         "iso": "PR", 
         "fullname": "Lares, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806416", 
+          "woe:county=26806417", 
+          "woe:county=26806418", 
+          "woe:county=26806419", 
+          "woe:county=26806422", 
+          "woe:county=26806421", 
+          "woe:county=26806420", 
+          "woe:county=26806423", 
+          "woe:county=26806424", 
+          "woe:county=26806425", 
+          "woe:county=26806426", 
+          "woe:county=26806427"
+        ], 
+        "sw_latitude": 18.17
       }, 
       "id": 2346798
     }

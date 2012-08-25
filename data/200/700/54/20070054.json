@@ -42,6 +42,7 @@
           20070074
         ], 
         "name": "Stara Zagora", 
+        "ne_latitude": 42.808, 
         "hierarchy": [
           "woe:state=20070054", 
           "woe:country=23424771", 
@@ -51,9 +52,8 @@
         "ne_longitude": 26.191, 
         "longitude": 25.597, 
         "placetype": "state", 
-        "latitude": 42.413, 
         "iso": "BG", 
-        "sw_latitude": 42.017, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=20070062", 
           "woe:state=20070073", 
@@ -64,10 +64,23 @@
           "woe:state=20070074"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.808, 
+        "latitude": 42.413, 
         "sw_longitude": 25.002, 
         "fullname": "Stara Zagora, Bulgaria", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:county=55873699", 
+          "woe:county=55873785", 
+          "woe:county=55873700", 
+          "woe:county=55873945", 
+          "woe:county=55873936", 
+          "woe:county=55873739", 
+          "woe:county=55873758", 
+          "woe:county=55873736", 
+          "woe:county=55873813", 
+          "woe:county=55873915", 
+          "woe:county=55873812"
+        ], 
+        "sw_latitude": 42.017
       }, 
       "id": 20070054
     }

@@ -46,12 +46,12 @@
           "woe:planet=1"
         ], 
         "woeid": 2347716, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.631, 
         "longitude": 106.372, 
         "placetype": "state", 
+        "latitude": 20.505, 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 20.28, 
         "adjacent": [
           "woe:state=2347741", 
           "woe:state=20070080", 
@@ -59,11 +59,28 @@
           "woe:state=20070079", 
           "woe:state=20070089"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 20.73, 
-        "latitude": 20.505, 
         "sw_longitude": 106.113, 
         "fullname": "Thai Binh, Vietnam", 
-        "sw_latitude": 20.28
+        "children": [
+          "woe:town=56124798", 
+          "woe:town=56123541", 
+          "woe:town=56124802", 
+          "woe:town=56124710", 
+          "woe:town=1252479", 
+          "woe:town=1252557", 
+          "woe:town=56123529", 
+          "woe:town=1252572", 
+          "woe:town=1252604", 
+          "woe:town=56123535", 
+          "woe:town=56124707", 
+          "woe:town=56124796", 
+          "woe:town=1252373", 
+          "woe:town=56124811", 
+          "woe:town=56123536"
+        ], 
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 2347716
     }

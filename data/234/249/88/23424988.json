@@ -54,10 +54,10 @@
         "woeid": 23424988, 
         "ne_longitude": 35.575, 
         "longitude": 35.23, 
+        "ne_latitude": 32.551, 
         "placetype": "state", 
-        "latitude": 31.948, 
         "iso": "PS", 
-        "sw_latitude": 31.344, 
+        "date_indexed": "2010-12-02T12:08:30Z", 
         "adjacent": [
           "woe:state=2345927", 
           "woe:state=2345792", 
@@ -69,10 +69,23 @@
           "woe:state=2345791"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 32.551, 
+        "latitude": 31.948, 
         "sw_longitude": 34.884, 
         "fullname": "West Bank, Palestinian Occupied Territories", 
-        "date_indexed": "2010-12-02T12:08:30Z"
+        "children": [
+          "woe:county=24549738", 
+          "woe:county=24549737", 
+          "woe:county=24549728", 
+          "woe:county=24549731", 
+          "woe:county=24549736", 
+          "woe:county=24549730", 
+          "woe:county=24549733", 
+          "woe:county=24549735", 
+          "woe:county=24549734", 
+          "woe:county=24549729", 
+          "woe:county=24549732"
+        ], 
+        "sw_latitude": 31.344
       }, 
       "id": 23424988
     }

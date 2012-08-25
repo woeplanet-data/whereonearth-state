@@ -47,12 +47,12 @@
           "woe:planet=1"
         ], 
         "woeid": 24549902, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 126.228, 
         "longitude": 126.002, 
         "placetype": "state", 
+        "latitude": -8.772, 
         "iso": "TL", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
+        "sw_latitude": -9.062, 
         "adjacent": [
           "woe:state=24549899", 
           "woe:state=24549900", 
@@ -61,11 +61,18 @@
           "woe:state=24549901", 
           "woe:state=24549903"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -8.482, 
-        "latitude": -8.772, 
         "sw_longitude": 125.777, 
         "fullname": "Manatuto, East Timor", 
-        "sw_latitude": -9.062
+        "children": [
+          "woe:town=1029767", 
+          "woe:town=1036530", 
+          "woe:town=1047700", 
+          "woe:town=1036529", 
+          "woe:town=1047863"
+        ], 
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 24549902
     }

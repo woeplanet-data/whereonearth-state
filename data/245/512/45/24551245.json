@@ -45,20 +45,29 @@
           "woe:planet=1"
         ], 
         "woeid": 24551245, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -77.766, 
         "longitude": -77.983, 
         "placetype": "state", 
+        "latitude": 26.695, 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
+        "sw_latitude": 26.416, 
         "adjacent": [
           "woe:state=2344779"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 26.784, 
-        "latitude": 26.695, 
         "sw_longitude": -78.096, 
         "fullname": "East Grand Bahama, The Bahamas", 
-        "sw_latitude": 26.416
+        "children": [
+          "woe:town=57002", 
+          "woe:island=12481694", 
+          "woe:island=12481456", 
+          "woe:island=12481692", 
+          "woe:island=12481489", 
+          "woe:island=12481691", 
+          "woe:island=12481693"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551245
     }

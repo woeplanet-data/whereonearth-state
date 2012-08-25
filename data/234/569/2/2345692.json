@@ -39,6 +39,7 @@
           2345703
         ], 
         "name": "Dalasysla", 
+        "ne_latitude": 65.459, 
         "hierarchy": [
           "woe:state=2345692", 
           "woe:country=23424845", 
@@ -47,10 +48,37 @@
         "woeid": 2345692, 
         "ne_longitude": -21.295, 
         "longitude": -21.931, 
+        "children": [
+          "woe:town=980065", 
+          "woe:town=980090", 
+          "woe:town=980562", 
+          "woe:town=980253", 
+          "woe:town=980452", 
+          "woe:town=980453", 
+          "woe:island=12475890", 
+          "woe:island=12475893", 
+          "woe:island=12508149", 
+          "woe:island=12475897", 
+          "woe:island=12475901", 
+          "woe:island=12475913", 
+          "woe:island=12475914", 
+          "woe:island=12475932", 
+          "woe:island=12475936", 
+          "woe:island=12475942", 
+          "woe:island=12508153", 
+          "woe:island=12475969", 
+          "woe:island=12476103", 
+          "woe:island=12475998", 
+          "woe:island=12476016", 
+          "woe:island=12476024", 
+          "woe:island=12476104", 
+          "woe:island=12475895", 
+          "woe:island=12476060", 
+          "woe:island=12476062"
+        ], 
         "placetype": "state", 
-        "latitude": 65.178, 
         "iso": "IS", 
-        "sw_latitude": 64.898, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345688", 
           "woe:state=2345696", 
@@ -58,13 +86,13 @@
           "woe:state=2345703"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 65.459, 
+        "latitude": 65.178, 
         "sw_longitude": -22.815, 
         "fullname": "Dalasysla, Iceland", 
         "alias_UNK_A": [
           "DAL"
         ], 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "sw_latitude": 64.898
       }, 
       "id": 2345692
     }

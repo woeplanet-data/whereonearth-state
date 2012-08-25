@@ -41,6 +41,7 @@
           20070541
         ], 
         "name": "Gamprin", 
+        "ne_latitude": 47.233, 
         "hierarchy": [
           "woe:state=20070539", 
           "woe:country=23424879", 
@@ -50,9 +51,8 @@
         "ne_longitude": 9.565, 
         "longitude": 9.506, 
         "placetype": "state", 
-        "latitude": 47.213, 
         "iso": "LI", 
-        "sw_latitude": 47.187, 
+        "date_indexed": "2010-12-02T08:51:00Z", 
         "adjacent": [
           "woe:state=20070537", 
           "woe:state=20070536", 
@@ -62,10 +62,14 @@
           "woe:state=20070531"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 47.233, 
+        "latitude": 47.213, 
         "sw_longitude": 9.492, 
         "fullname": "Gamprin, Liechtenstein", 
-        "date_indexed": "2010-12-02T08:51:00Z"
+        "children": [
+          "woe:town=856454", 
+          "woe:town=856452"
+        ], 
+        "sw_latitude": 47.187
       }, 
       "id": 20070539
     }

@@ -48,29 +48,38 @@
           "woe:planet=1"
         ], 
         "woeid": 56048437, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 1.807, 
         "longitude": 1.262, 
-        "ne_latitude": 6.918, 
-        "placetype": "state", 
-        "alias_FRE_V": [
-          "R\u00e9gion Maritime"
+        "children": [
+          "woe:county=56048467", 
+          "woe:county=56048468", 
+          "woe:county=56048466", 
+          "woe:county=56048469", 
+          "woe:county=56048465", 
+          "woe:county=56048464", 
+          "woe:county=56048463"
         ], 
+        "placetype": "state", 
+        "latitude": 6.511, 
         "iso": "TG", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 6.104, 
         "adjacent": [
           "woe:state=55967668", 
           "woe:state=2344827", 
           "woe:state=56048438", 
           "woe:state=2345468"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 6.511, 
+        "ne_latitude": 6.918, 
+        "alias_FRE_V": [
+          "R\u00e9gion Maritime"
+        ], 
         "sw_longitude": 0.718, 
         "fullname": "Maritime, Maritime Region, Togo", 
         "alias_FRE_S": [
           "Region Maritime"
         ], 
-        "sw_latitude": 6.104
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 56048437
     }

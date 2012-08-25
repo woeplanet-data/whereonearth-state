@@ -41,6 +41,7 @@
           20070096
         ], 
         "name": "Kampot", 
+        "ne_latitude": 11.149, 
         "hierarchy": [
           "woe:state=2344932", 
           "woe:country=23424776", 
@@ -50,9 +51,8 @@
         "ne_longitude": 104.755, 
         "longitude": 104.329, 
         "placetype": "state", 
-        "latitude": 10.779, 
         "iso": "KH", 
-        "sw_latitude": 9.283, 
+        "date_indexed": "2010-12-02T16:11:17Z", 
         "adjacent": [
           "woe:state=2344930", 
           "woe:state=2344934", 
@@ -62,10 +62,20 @@
           "woe:state=2344944"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 11.149, 
+        "latitude": 10.779, 
         "sw_longitude": 102.85, 
         "fullname": "Kampot, Cambodia", 
-        "date_indexed": "2010-12-02T16:11:17Z"
+        "children": [
+          "woe:county=56063269", 
+          "woe:county=56063270", 
+          "woe:county=56063271", 
+          "woe:county=56063272", 
+          "woe:county=56063273", 
+          "woe:county=56063274", 
+          "woe:county=56063275", 
+          "woe:county=56063404"
+        ], 
+        "sw_latitude": 9.283
       }, 
       "id": 2344932
     }

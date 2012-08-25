@@ -39,6 +39,7 @@
           20069844
         ], 
         "name": "Khomas", 
+        "ne_latitude": -21.709, 
         "hierarchy": [
           "woe:state=20069845", 
           "woe:country=23424987", 
@@ -48,9 +49,8 @@
         "ne_longitude": 18.501, 
         "longitude": 17.112, 
         "placetype": "state", 
-        "latitude": -22.899, 
         "iso": "NA", 
-        "sw_latitude": -24.088, 
+        "date_indexed": "2010-12-02T07:50:17Z", 
         "adjacent": [
           "woe:state=20069837", 
           "woe:state=20069844", 
@@ -58,10 +58,22 @@
           "woe:state=20069835"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -21.709, 
+        "latitude": -22.899, 
         "sw_longitude": 15.723, 
         "fullname": "Khomas, Namibia", 
-        "date_indexed": "2010-12-02T07:50:17Z"
+        "children": [
+          "woe:county=55921168", 
+          "woe:county=55921120", 
+          "woe:county=55921160", 
+          "woe:county=55921208", 
+          "woe:county=55921167", 
+          "woe:county=55921122", 
+          "woe:county=55921136", 
+          "woe:county=55921121", 
+          "woe:county=55921140", 
+          "woe:county=55921197"
+        ], 
+        "sw_latitude": -24.088
       }, 
       "id": 20069845
     }

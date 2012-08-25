@@ -42,20 +42,26 @@
           "woe:planet=1"
         ], 
         "woeid": 24549889, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.951, 
         "longitude": 55.725, 
         "placetype": "state", 
+        "latitude": -4.324, 
         "iso": "SC", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
+        "sw_latitude": -4.6, 
         "adjacent": [
           "woe:state=24549888"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -4.289, 
-        "latitude": -4.324, 
         "sw_longitude": 55.641, 
         "fullname": "Grand Anse Praslin, Seychelles", 
-        "sw_latitude": -4.6
+        "children": [
+          "woe:town=24602721", 
+          "woe:island=12466288", 
+          "woe:island=12466289", 
+          "woe:island=12466300"
+        ], 
+        "date_indexed": "2010-12-02T08:53:34Z"
       }, 
       "id": 24549889
     }

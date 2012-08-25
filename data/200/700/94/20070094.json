@@ -47,18 +47,21 @@
         "woeid": 20070094, 
         "ne_longitude": 104.426, 
         "longitude": 104.347, 
+        "ne_latitude": 10.602, 
         "placetype": "state", 
-        "latitude": 10.525, 
         "iso": "KH", 
-        "sw_latitude": 10.447, 
+        "date_indexed": "2010-12-02T16:11:17Z", 
         "adjacent": [
           "woe:state=2344932"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 10.602, 
+        "latitude": 10.525, 
         "sw_longitude": 104.267, 
         "fullname": "Keb, Cambodia", 
-        "date_indexed": "2010-12-02T16:11:17Z"
+        "children": [
+          "woe:county=56063384"
+        ], 
+        "sw_latitude": 10.447
       }, 
       "id": 20070094
     }

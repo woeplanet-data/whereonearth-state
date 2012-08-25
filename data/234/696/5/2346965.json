@@ -48,19 +48,22 @@
         "woeid": 2346965, 
         "ne_longitude": -62.816, 
         "longitude": -62.843, 
+        "ne_latitude": 17.394, 
         "placetype": "state", 
-        "latitude": 17.371, 
         "iso": "KN", 
-        "sw_latitude": 17.347, 
+        "date_indexed": "2010-12-02T08:52:18Z", 
         "adjacent": [
           "woe:state=2346969", 
           "woe:state=2346976"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 17.394, 
+        "latitude": 17.371, 
         "sw_longitude": -62.87, 
         "fullname": "Saint Anne Sandy Point, Saint Kitts and Nevis", 
-        "date_indexed": "2010-12-02T08:52:18Z"
+        "children": [
+          "woe:town=161944"
+        ], 
+        "sw_latitude": 17.347
       }, 
       "id": 2346965
     }

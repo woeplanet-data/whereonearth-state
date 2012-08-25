@@ -40,6 +40,7 @@
           24550832, 
           55848400
         ], 
+        "ne_latitude": 42.005, 
         "name": "Petrovec", 
         "alias_ENG_P": [
           "Petrovec Municipality"
@@ -56,9 +57,8 @@
         "longitude": 21.719, 
         "ne_longitude": 21.841, 
         "placetype": "state", 
-        "latitude": 41.905, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.804, 
         "adjacent": [
           "woe:state=55848400", 
           "woe:state=24550769", 
@@ -68,10 +68,16 @@
           "woe:state=24550820"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.005, 
+        "latitude": 41.905, 
         "sw_longitude": 21.597, 
         "fullname": "Petrovec, Petrovec Municipality, Macedonia", 
-        "sw_latitude": 41.804
+        "children": [
+          "woe:town=481685", 
+          "woe:town=481750", 
+          "woe:town=482270", 
+          "woe:town=482728"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550796
     }

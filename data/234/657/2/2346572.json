@@ -39,6 +39,7 @@
           2346576
         ], 
         "name": "Leiria", 
+        "ne_latitude": 40.09, 
         "hierarchy": [
           "woe:state=2346572", 
           "woe:country=23424925", 
@@ -48,9 +49,8 @@
         "ne_longitude": -8.107, 
         "longitude": -8.758, 
         "placetype": "state", 
-        "latitude": 39.65, 
         "iso": "PT", 
-        "sw_latitude": 39.211, 
+        "date_indexed": "2010-12-02T09:58:14Z", 
         "adjacent": [
           "woe:state=2346566", 
           "woe:state=2346567", 
@@ -58,10 +58,28 @@
           "woe:state=2346576"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 40.09, 
+        "latitude": 39.65, 
         "sw_longitude": -9.517, 
         "fullname": "Leiria, Portugal", 
-        "date_indexed": "2010-12-02T09:58:14Z"
+        "children": [
+          "woe:county=12596442", 
+          "woe:county=12596638", 
+          "woe:county=12596505", 
+          "woe:county=12596573", 
+          "woe:county=12596436", 
+          "woe:county=12596434", 
+          "woe:county=12596652", 
+          "woe:county=12596481", 
+          "woe:county=12596443", 
+          "woe:county=12596538", 
+          "woe:county=12596682", 
+          "woe:county=12596562", 
+          "woe:county=12596669", 
+          "woe:county=12596454", 
+          "woe:county=12596576", 
+          "woe:county=12596435"
+        ], 
+        "sw_latitude": 39.211
       }, 
       "id": 2346572
     }

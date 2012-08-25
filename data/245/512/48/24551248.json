@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 26.335, 
         "name": "Moore's Island", 
         "hierarchy": [
           "woe:state=24551248", 
@@ -39,17 +40,23 @@
           "woe:planet=1"
         ], 
         "woeid": 24551248, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -77.519, 
         "longitude": -77.559, 
         "placetype": "state", 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "ne_latitude": 26.335, 
+        "sw_latitude": 26.073, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 26.294, 
         "sw_longitude": -77.583, 
         "fullname": "Moore's Island, The Bahamas", 
-        "sw_latitude": 26.073
+        "children": [
+          "woe:town=56949", 
+          "woe:island=12481401", 
+          "woe:island=12481508", 
+          "woe:island=12481623", 
+          "woe:island=12481642"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551248
     }

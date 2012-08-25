@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 4.666, 
         "name": "Sonsorol", 
         "hierarchy": [
           "woe:state=24549825", 
@@ -39,17 +40,22 @@
           "woe:planet=1"
         ], 
         "woeid": 24549825, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 132.318, 
         "longitude": 132.313, 
         "placetype": "state", 
         "iso": "PW", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "ne_latitude": 4.666, 
+        "sw_latitude": 4.312, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 4.322, 
         "sw_longitude": 131.959, 
         "fullname": "Sonsorol, Palau", 
-        "sw_latitude": 4.312
+        "children": [
+          "woe:island=55922605", 
+          "woe:island=55922606", 
+          "woe:island=12498914", 
+          "woe:island=12498910"
+        ], 
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 24549825
     }

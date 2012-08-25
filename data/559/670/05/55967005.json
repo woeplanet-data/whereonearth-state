@@ -47,12 +47,19 @@
           "woe:planet=1"
         ], 
         "woeid": 55967005, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -3.903, 
         "longitude": -4.847, 
+        "children": [
+          "woe:county=20069990", 
+          "woe:county=20069989", 
+          "woe:county=20069795", 
+          "woe:county=20069806", 
+          "woe:county=20069987"
+        ], 
         "placetype": "state", 
+        "latitude": 8.317, 
         "iso": "CI", 
-        "date_indexed": "2010-12-02T09:35:13Z", 
+        "sw_latitude": 7.236, 
         "adjacent": [
           "woe:state=55966997", 
           "woe:state=55966998", 
@@ -61,14 +68,14 @@
           "woe:state=55967006", 
           "woe:state=55967007"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 9.398, 
-        "latitude": 8.317, 
         "sw_longitude": -5.792, 
         "fullname": "Vall\u00e9e du Bandama, Ivory Coast", 
         "alias_FRE_S": [
           "Vallee du Bandama"
         ], 
-        "sw_latitude": 7.236
+        "date_indexed": "2010-12-02T09:35:13Z"
       }, 
       "id": 55967005
     }

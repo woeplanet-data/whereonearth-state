@@ -32,24 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -15.553, 
         "name": "Vava'eu", 
         "hierarchy": [
           "woe:state=2347211", 
           "woe:country=23424964", 
           "woe:planet=1"
         ], 
-        "woeid": 2347211, 
+        "ne_latitude": -15.553, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -173.702, 
         "longitude": -173.909, 
         "placetype": "state", 
         "iso": "TO", 
-        "sw_latitude": -19.018, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:58:27Z", 
+        "woeid": 2347211, 
         "latitude": -18.633, 
         "sw_longitude": -175.652, 
         "fullname": "Vava'eu, Tonga", 
-        "date_indexed": "2010-12-02T17:58:27Z"
+        "children": [
+          "woe:town=1062774", 
+          "woe:island=12502088", 
+          "woe:island=12502091", 
+          "woe:island=12502114", 
+          "woe:island=12502295", 
+          "woe:island=12502128", 
+          "woe:island=12502133", 
+          "woe:island=12502137", 
+          "woe:island=12502307", 
+          "woe:island=12502194", 
+          "woe:island=12502195", 
+          "woe:island=12502232", 
+          "woe:airport=12517848", 
+          "woe:airport=12517849"
+        ], 
+        "sw_latitude": -19.018
       }, 
       "id": 2347211
     }

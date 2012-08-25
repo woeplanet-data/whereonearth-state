@@ -12,14 +12,15 @@
           56190538
         ], 
         "name": "Via\u0105nu Novads", 
-        "alias_UNK_S": [
-          "Viaanu Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190530", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190530, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Viaanu Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -29,7 +30,12 @@
           "woe:state=56190519"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190530, 
+        "children": [
+          "woe:county=55844638", 
+          "woe:county=55844451", 
+          "woe:county=55844298", 
+          "woe:county=55844415"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190530

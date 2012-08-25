@@ -40,15 +40,11 @@
           2346172, 
           12578009
         ], 
-        "name": "Dornogovi", 
-        "adjacent": [
-          "woe:state=2346162", 
-          "woe:state=2346165", 
-          "woe:state=2346168", 
-          "woe:state=2346171", 
-          "woe:state=2346172", 
-          "woe:state=12578009"
+        "alias_ENG_A": [
+          "DG"
         ], 
+        "name": "Dornogovi", 
+        "ne_latitude": 46.814, 
         "hierarchy": [
           "woe:state=2346161", 
           "woe:country=23424887", 
@@ -58,17 +54,54 @@
         "ne_longitude": 112.376, 
         "longitude": 110.078, 
         "placetype": "state", 
-        "latitude": 44.601, 
         "iso": "MN", 
-        "sw_latitude": 42.387, 
-        "alias_ENG_A": [
-          "DG"
+        "date_indexed": "2010-12-02T08:53:23Z", 
+        "adjacent": [
+          "woe:state=2346162", 
+          "woe:state=2346165", 
+          "woe:state=2346168", 
+          "woe:state=2346171", 
+          "woe:state=2346172", 
+          "woe:state=12578009"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 46.814, 
+        "latitude": 44.601, 
         "sw_longitude": 107.779, 
         "fullname": "Dornogovi, Mongolia", 
-        "date_indexed": "2010-12-02T08:53:23Z"
+        "children": [
+          "woe:town=2265259", 
+          "woe:town=2266776", 
+          "woe:town=2265357", 
+          "woe:town=2265454", 
+          "woe:town=2265458", 
+          "woe:town=56122869", 
+          "woe:town=2266613", 
+          "woe:town=2266618", 
+          "woe:town=2266621", 
+          "woe:town=2266628", 
+          "woe:town=2266634", 
+          "woe:town=2265666", 
+          "woe:town=2266656", 
+          "woe:town=2266549", 
+          "woe:town=2265835", 
+          "woe:town=2266665", 
+          "woe:town=2266670", 
+          "woe:town=2266098", 
+          "woe:town=2266689", 
+          "woe:town=2266696", 
+          "woe:town=2266559", 
+          "woe:town=2266204", 
+          "woe:town=2265466", 
+          "woe:town=2266714", 
+          "woe:town=2266423", 
+          "woe:town=2266336", 
+          "woe:town=2266470", 
+          "woe:town=2266469", 
+          "woe:town=2266735", 
+          "woe:town=2266132", 
+          "woe:town=2266774"
+        ], 
+        "sw_latitude": 42.387
       }, 
       "id": 2346161
     }

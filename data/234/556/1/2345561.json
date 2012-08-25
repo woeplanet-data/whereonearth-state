@@ -41,6 +41,7 @@
           2345573
         ], 
         "name": "Jalapa", 
+        "ne_latitude": 14.873, 
         "hierarchy": [
           "woe:state=2345561", 
           "woe:country=23424834", 
@@ -50,9 +51,8 @@
         "ne_longitude": -89.645, 
         "longitude": -89.973, 
         "placetype": "state", 
-        "latitude": 14.647, 
         "iso": "GT", 
-        "sw_latitude": 14.42, 
+        "date_indexed": "2010-12-02T16:55:18Z", 
         "adjacent": [
           "woe:state=2345555", 
           "woe:state=2345556", 
@@ -62,10 +62,19 @@
           "woe:state=2345573"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.873, 
+        "latitude": 14.647, 
         "sw_longitude": -90.3, 
         "fullname": "Jalapa, Guatemala", 
-        "date_indexed": "2010-12-02T16:55:18Z"
+        "children": [
+          "woe:county=26807037", 
+          "woe:county=26807040", 
+          "woe:county=26807042", 
+          "woe:county=26807043", 
+          "woe:county=26807039", 
+          "woe:county=26807041", 
+          "woe:county=26807036"
+        ], 
+        "sw_latitude": 14.42
       }, 
       "id": 2345561
     }

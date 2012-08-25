@@ -40,6 +40,7 @@
           2345703
         ], 
         "name": "Vestur-Hunavatnssysla", 
+        "ne_latitude": 65.689, 
         "hierarchy": [
           "woe:state=2345707", 
           "woe:country=23424845", 
@@ -48,10 +49,14 @@
         "woeid": 2345707, 
         "ne_longitude": -19.657, 
         "longitude": -20.745, 
+        "children": [
+          "woe:town=10644999", 
+          "woe:town=980250", 
+          "woe:town=980509"
+        ], 
         "placetype": "state", 
-        "latitude": 65.31, 
         "iso": "IS", 
-        "sw_latitude": 64.931, 
+        "date_indexed": "2010-12-02T09:55:32Z", 
         "adjacent": [
           "woe:state=2345687", 
           "woe:state=2345689", 
@@ -60,13 +65,13 @@
           "woe:state=2345703"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 65.689, 
+        "latitude": 65.31, 
         "sw_longitude": -21.134, 
         "fullname": "Vestur-Hunavatnssysla, Iceland", 
         "alias_UNK_A": [
           "V-HUN"
         ], 
-        "date_indexed": "2010-12-02T09:55:32Z"
+        "sw_latitude": 64.931
       }, 
       "id": 2345707
     }

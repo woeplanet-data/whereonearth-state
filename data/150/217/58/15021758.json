@@ -37,6 +37,7 @@
           15021759
         ], 
         "name": "Nelson", 
+        "ne_latitude": -41.053, 
         "hierarchy": [
           "woe:state=15021758", 
           "woe:country=23424916", 
@@ -46,18 +47,24 @@
         "ne_longitude": 173.599, 
         "longitude": 173.399, 
         "placetype": "state", 
-        "latitude": -41.223, 
         "iso": "NZ", 
-        "sw_latitude": -41.393, 
+        "date_indexed": "2010-12-02T17:02:10Z", 
         "adjacent": [
           "woe:state=15021759", 
           "woe:state=15021757"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -41.053, 
+        "latitude": -41.223, 
         "sw_longitude": 173.199, 
         "fullname": "Nelson, New Zealand", 
-        "date_indexed": "2010-12-02T17:02:10Z"
+        "children": [
+          "woe:county=55875906", 
+          "woe:island=28645736", 
+          "woe:island=28646006", 
+          "woe:island=28646026", 
+          "woe:island=28646089"
+        ], 
+        "sw_latitude": -41.393
       }, 
       "id": 15021758
     }

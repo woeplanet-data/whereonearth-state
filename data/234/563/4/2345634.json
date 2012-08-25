@@ -41,6 +41,7 @@
           2345639
         ], 
         "name": "La Paz", 
+        "ne_latitude": 14.424, 
         "hierarchy": [
           "woe:state=2345634", 
           "woe:country=23424841", 
@@ -50,9 +51,8 @@
         "ne_longitude": -87.594, 
         "longitude": -87.91, 
         "placetype": "state", 
-        "latitude": 14.126, 
         "iso": "HN", 
-        "sw_latitude": 13.827, 
+        "date_indexed": "2010-12-02T19:20:59Z", 
         "adjacent": [
           "woe:state=2345626", 
           "woe:state=2345630", 
@@ -62,10 +62,31 @@
           "woe:state=2345639"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.424, 
+        "latitude": 14.126, 
         "sw_longitude": -88.227, 
         "fullname": "La Paz, Honduras", 
-        "date_indexed": "2010-12-02T19:20:59Z"
+        "children": [
+          "woe:county=26813584", 
+          "woe:county=26813603", 
+          "woe:county=26813608", 
+          "woe:county=26813614", 
+          "woe:county=26813660", 
+          "woe:county=26813692", 
+          "woe:county=26813705", 
+          "woe:county=26813719", 
+          "woe:county=26813723", 
+          "woe:county=26813740", 
+          "woe:county=26813766", 
+          "woe:county=26813790", 
+          "woe:county=26813796", 
+          "woe:county=26813814", 
+          "woe:county=26813824", 
+          "woe:county=26813828", 
+          "woe:county=26813833", 
+          "woe:county=26813840", 
+          "woe:county=26813877"
+        ], 
+        "sw_latitude": 13.827
       }, 
       "id": 2345634
     }

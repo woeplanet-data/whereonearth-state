@@ -48,29 +48,33 @@
           "woe:planet=1"
         ], 
         "woeid": 2345030, 
-        "alias_SPA_V": [
-          "Regi\u00f3n de Tarapac\u00e1"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -68.407, 
         "longitude": -69.391, 
+        "ne_latitude": -18.936, 
         "placetype": "state", 
-        "latitude": -19.569, 
         "alias_SPA_S": [
           "Region de Tarapaca"
         ], 
         "sw_longitude": -70.285, 
-        "sw_latitude": -21.631, 
+        "date_indexed": "2010-12-02T12:15:28Z", 
         "adjacent": [
           "woe:state=2345020", 
           "woe:state=56043702", 
           "woe:state=2344805", 
           "woe:state=2344807"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -18.936, 
+        "alias_SPA_V": [
+          "Regi\u00f3n de Tarapac\u00e1"
+        ], 
+        "latitude": -19.569, 
         "iso": "CL", 
         "fullname": "Tarapaca, Tarapaca Region, Chile", 
-        "date_indexed": "2010-12-02T12:15:28Z"
+        "children": [
+          "woe:county=26793998", 
+          "woe:county=56043704"
+        ], 
+        "sw_latitude": -21.631
       }, 
       "id": 2345030
     }

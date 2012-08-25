@@ -50,10 +50,10 @@
         "woeid": 2347189, 
         "ne_longitude": 100.028, 
         "longitude": 99.63, 
+        "ne_latitude": 8.013, 
         "placetype": "state", 
-        "latitude": 7.539, 
         "iso": "TH", 
-        "sw_latitude": 6.973, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347187", 
           "woe:state=2347188", 
@@ -61,10 +61,23 @@
           "woe:state=2347191"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 8.013, 
+        "latitude": 7.539, 
         "sw_longitude": 99.233, 
         "fullname": "Trang, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341659", 
+          "woe:county=28341653", 
+          "woe:county=28341657", 
+          "woe:county=28341651", 
+          "woe:county=28341656", 
+          "woe:county=28341652", 
+          "woe:county=28341650", 
+          "woe:county=28341658", 
+          "woe:county=28341655", 
+          "woe:county=28341654", 
+          "woe:landfeature=56057322"
+        ], 
+        "sw_latitude": 6.973
       }, 
       "id": 2347189
     }

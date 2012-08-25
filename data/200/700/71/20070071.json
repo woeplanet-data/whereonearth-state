@@ -39,6 +39,7 @@
           20070072
         ], 
         "name": "Razgrad", 
+        "ne_latitude": 43.951, 
         "hierarchy": [
           "woe:state=20070071", 
           "woe:country=23424771", 
@@ -48,9 +49,8 @@
         "ne_longitude": 27.034, 
         "longitude": 26.595, 
         "placetype": "state", 
-        "latitude": 43.639, 
         "iso": "BG", 
-        "sw_latitude": 43.327, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=20070069", 
           "woe:state=20070052", 
@@ -58,10 +58,19 @@
           "woe:state=20070072"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 43.951, 
+        "latitude": 43.639, 
         "sw_longitude": 26.155, 
         "fullname": "Razgrad, Bulgaria", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:county=55873878", 
+          "woe:county=55873735", 
+          "woe:county=55873907", 
+          "woe:county=55873757", 
+          "woe:county=55873765", 
+          "woe:county=55873749", 
+          "woe:county=55873804"
+        ], 
+        "sw_latitude": 43.327
       }, 
       "id": 20070071
     }

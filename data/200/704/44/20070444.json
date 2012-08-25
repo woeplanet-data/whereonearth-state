@@ -38,6 +38,7 @@
           24550739
         ], 
         "name": "Moyo", 
+        "ne_latitude": 3.828, 
         "hierarchy": [
           "woe:state=20070444", 
           "woe:country=23424974", 
@@ -47,19 +48,22 @@
         "ne_longitude": 32.008, 
         "longitude": 31.593, 
         "placetype": "state", 
-        "latitude": 3.484, 
         "iso": "UG", 
-        "sw_latitude": 3.14, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=20070445", 
           "woe:state=20070412", 
           "woe:state=24550739"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 3.828, 
+        "latitude": 3.484, 
         "sw_longitude": 31.432, 
         "fullname": "Moyo, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190328", 
+          "woe:county=56190329"
+        ], 
+        "sw_latitude": 3.14
       }, 
       "id": 20070444
     }

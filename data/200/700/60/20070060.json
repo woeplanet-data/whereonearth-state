@@ -39,6 +39,7 @@
           20070067
         ], 
         "name": "Blagoevgrad", 
+        "ne_latitude": 42.184, 
         "hierarchy": [
           "woe:state=20070060", 
           "woe:country=23424771", 
@@ -48,9 +49,8 @@
         "ne_longitude": 24.115, 
         "longitude": 23.489, 
         "placetype": "state", 
-        "latitude": 41.75, 
         "iso": "BG", 
-        "sw_latitude": 41.317, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=20070059", 
           "woe:state=20070066", 
@@ -58,10 +58,26 @@
           "woe:state=20070061"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.184, 
+        "latitude": 41.75, 
         "sw_longitude": 22.864, 
         "fullname": "Blagoevgrad, Bulgaria", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:county=55873790", 
+          "woe:county=55873741", 
+          "woe:county=55873840", 
+          "woe:county=55873890", 
+          "woe:county=55873794", 
+          "woe:county=55873869", 
+          "woe:county=55873860", 
+          "woe:county=55873848", 
+          "woe:county=55873832", 
+          "woe:county=55873732", 
+          "woe:county=55873738", 
+          "woe:county=55873862", 
+          "woe:county=55873957", 
+          "woe:county=55873833"
+        ], 
+        "sw_latitude": 41.317
       }, 
       "id": 20070060
     }

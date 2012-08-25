@@ -42,21 +42,19 @@
           2345636
         ], 
         "name": "Santa Ana", 
+        "ne_latitude": 14.445, 
         "hierarchy": [
           "woe:state=2345302", 
           "woe:country=23424807", 
           "woe:planet=1"
         ], 
         "woeid": 2345302, 
-        "alias_SPA_V": [
-          "Sta. Ana"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -89.248, 
         "longitude": -89.495, 
         "placetype": "state", 
-        "latitude": 14.108, 
         "sw_longitude": -89.743, 
-        "sw_latitude": 13.771, 
+        "date_indexed": "2010-12-02T17:05:52Z", 
         "adjacent": [
           "woe:state=2345292", 
           "woe:state=2345294", 
@@ -66,11 +64,28 @@
           "woe:state=2345636", 
           "woe:state=2345304"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.445, 
+        "alias_SPA_V": [
+          "Sta. Ana"
+        ], 
+        "latitude": 14.108, 
         "iso": "SV", 
         "fullname": "Santa Ana, El Salvador", 
-        "date_indexed": "2010-12-02T17:05:52Z"
+        "children": [
+          "woe:county=26808722", 
+          "woe:county=26808723", 
+          "woe:county=26808721", 
+          "woe:county=26808724", 
+          "woe:county=26808725", 
+          "woe:county=26808726", 
+          "woe:county=26808727", 
+          "woe:county=26808728", 
+          "woe:county=26808729", 
+          "woe:county=26808720", 
+          "woe:county=26808730", 
+          "woe:county=26808731", 
+          "woe:county=26808732"
+        ], 
+        "sw_latitude": 13.771
       }, 
       "id": 2345302
     }

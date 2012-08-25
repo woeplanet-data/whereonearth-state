@@ -40,6 +40,7 @@
           20069865
         ], 
         "name": "Leribe", 
+        "ne_latitude": -28.694, 
         "hierarchy": [
           "woe:state=20069863", 
           "woe:country=23424880", 
@@ -49,9 +50,8 @@
         "ne_longitude": 28.794, 
         "longitude": 28.216, 
         "placetype": "state", 
-        "latitude": -29.033, 
         "iso": "LS", 
-        "sw_latitude": -29.371, 
+        "date_indexed": "2010-12-02T08:57:23Z", 
         "adjacent": [
           "woe:state=20069865", 
           "woe:state=20069862", 
@@ -60,10 +60,25 @@
           "woe:state=20069864"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -28.694, 
+        "latitude": -29.033, 
         "sw_longitude": 27.639, 
         "fullname": "Leribe, Lesotho", 
-        "date_indexed": "2010-12-02T08:57:23Z"
+        "children": [
+          "woe:county=55881633", 
+          "woe:county=55881673", 
+          "woe:county=55881677", 
+          "woe:county=55881670", 
+          "woe:county=55881668", 
+          "woe:county=55881609", 
+          "woe:county=55881639", 
+          "woe:county=55881662", 
+          "woe:county=55881626", 
+          "woe:county=55881632", 
+          "woe:county=55881642", 
+          "woe:county=55881654", 
+          "woe:county=55881619"
+        ], 
+        "sw_latitude": -29.371
       }, 
       "id": 20069863
     }

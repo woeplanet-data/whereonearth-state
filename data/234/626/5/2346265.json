@@ -3177,17 +3177,34 @@
         "ne:Shape_Area": 6.86658572251, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19310207", 
+        "ne:MAP_COLOR": 3, 
         "alias_ENG_A": [
           "BC"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "MEX", 
+        "children": [
+          "woe:county=12599691", 
+          "woe:county=26797886", 
+          "woe:county=26797885", 
+          "woe:county=12599692", 
+          "woe:county=24550674", 
+          "woe:county=12599693", 
+          "woe:county=12599694", 
+          "woe:town=116798", 
+          "woe:town=55913676", 
+          "woe:town=123253", 
+          "woe:town=55900241", 
+          "woe:town=55887383", 
+          "woe:town=55897568", 
+          "woe:town=55910314", 
+          "woe:town=55900157"
+        ], 
         "ne:ScaleRank": 4, 
         "alias_CHI_Q": [
           "\u4e0b\u52a0\u5229\u798f\u5c3c\u4e9a"
         ], 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 2706, 
         "alias_JPN_Q": [
           "\u30d0\u30cf\u30fb\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30e4"
         ], 
@@ -3207,12 +3224,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T16:55:36Z", 
-        "lang": "SPA", 
+        "ne:VertexCou": 789.0, 
         "alias_KOR_Q": [
           "\ubc14\ud558\uce7c\ub9ac\ud3ec\ub974\ub2c8\uc544"
         ], 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 2706, 
+        "ne:VALIDFR_1": "19310207", 
+        "ne:DataRank": 2, 
         "ne:Postal": "BC", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -3231,13 +3248,13 @@
           "Niederkalifornien"
         ], 
         "woe:id": "2346265", 
-        "name": "Baja California", 
-        "ne:VertexCou": 789.0, 
+        "ne:HASC_1": "MX.BN", 
+        "lang": "SPA", 
         "adjacent_woeid": [
           2346266, 
           2346289
         ], 
-        "ne:HASC_1": "MX.BN", 
+        "name": "Baja California", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -114.945, 

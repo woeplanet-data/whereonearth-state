@@ -39,6 +39,7 @@
           20070137
         ], 
         "name": "Dedza", 
+        "ne_latitude": -13.863, 
         "hierarchy": [
           "woe:state=20070135", 
           "woe:country=23424889", 
@@ -48,9 +49,8 @@
         "ne_longitude": 34.727, 
         "longitude": 34.186, 
         "placetype": "state", 
-        "latitude": -14.234, 
         "iso": "MW", 
-        "sw_latitude": -14.605, 
+        "date_indexed": "2010-12-02T17:40:22Z", 
         "adjacent": [
           "woe:state=20070134", 
           "woe:state=20070136", 
@@ -58,10 +58,20 @@
           "woe:state=20070133"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -13.863, 
+        "latitude": -14.234, 
         "sw_longitude": 33.645, 
         "fullname": "Dedza, Malawi", 
-        "date_indexed": "2010-12-02T17:40:22Z"
+        "children": [
+          "woe:town=1366480", 
+          "woe:town=1366949", 
+          "woe:town=1367484", 
+          "woe:town=1367503", 
+          "woe:town=1368251", 
+          "woe:town=1368303", 
+          "woe:town=1369219", 
+          "woe:town=1369260"
+        ], 
+        "sw_latitude": -14.605
       }, 
       "id": 20070135
     }

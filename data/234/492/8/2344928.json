@@ -41,8 +41,28 @@
           2347714, 
           20070086
         ], 
-        "ne_latitude": 12.517, 
+        "alias_KOR_Q": [
+          "\uce84\ud401\ucc38"
+        ], 
         "name": "Kampong Cham", 
+        "hierarchy": [
+          "woe:state=2344928", 
+          "woe:country=23424776", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 12.517, 
+        "alias_JPN_Q": [
+          "\u30b3\u30f3\u30dd\u30f3\u30c1\u30e3\u30e0"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 106.467, 
+        "longitude": 105.637, 
+        "alias_CHI_Q": [
+          "\u78c5\u6e5b\u7701"
+        ], 
+        "placetype": "state", 
+        "iso": "KH", 
+        "date_indexed": "2010-12-02T16:11:17Z", 
         "adjacent": [
           "woe:state=20070086", 
           "woe:state=2344929", 
@@ -52,31 +72,29 @@
           "woe:state=2344939", 
           "woe:state=2347714"
         ], 
-        "hierarchy": [
-          "woe:state=2344928", 
-          "woe:country=23424776", 
-          "woe:planet=1"
-        ], 
         "woeid": 2344928, 
-        "alias_JPN_Q": [
-          "\u30b3\u30f3\u30dd\u30f3\u30c1\u30e3\u30e0"
-        ], 
-        "ne_longitude": 106.467, 
-        "longitude": 105.637, 
-        "alias_CHI_Q": [
-          "\u78c5\u6e5b\u7701"
-        ], 
-        "placetype": "state", 
-        "iso": "KH", 
-        "sw_latitude": 11.619, 
-        "alias_KOR_Q": [
-          "\uce84\ud401\ucc38"
-        ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 12.068, 
         "sw_longitude": 104.806, 
         "fullname": "Kampong Cham, Cambodia", 
-        "date_indexed": "2010-12-02T16:11:17Z"
+        "children": [
+          "woe:county=56063230", 
+          "woe:county=56063231", 
+          "woe:county=56063232", 
+          "woe:county=56063233", 
+          "woe:county=56063234", 
+          "woe:county=56063235", 
+          "woe:county=56063236", 
+          "woe:county=56063237", 
+          "woe:county=56063238", 
+          "woe:county=56063239", 
+          "woe:county=56063240", 
+          "woe:county=56063241", 
+          "woe:county=56063242", 
+          "woe:county=56063243", 
+          "woe:county=56063244", 
+          "woe:county=56063245"
+        ], 
+        "sw_latitude": 11.619
       }, 
       "id": 2344928
     }

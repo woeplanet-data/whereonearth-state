@@ -45,27 +45,38 @@
           "woe:planet=1"
         ], 
         "woeid": 24703004, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 114.442, 
         "longitude": 114.154, 
         "placetype": "state", 
+        "latitude": 22.411, 
         "adjacent_woeid": [
           12578019, 
           24703005, 
           24703006
         ], 
         "iso": "HK", 
-        "date_indexed": "2010-12-02T12:08:18Z", 
+        "sw_latitude": 22.237, 
         "adjacent": [
           "woe:state=24703006", 
           "woe:state=12578019", 
           "woe:state=24703005"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 22.562, 
-        "latitude": 22.411, 
         "sw_longitude": 113.877, 
         "fullname": "\u65b0\u754c, New Territories, Hong Kong", 
-        "sw_latitude": 22.237
+        "children": [
+          "woe:county=24703143", 
+          "woe:county=24703142", 
+          "woe:county=24703144", 
+          "woe:county=24703141", 
+          "woe:county=24703138", 
+          "woe:county=24703140", 
+          "woe:county=24703132", 
+          "woe:county=24703139", 
+          "woe:landfeature=56057303"
+        ], 
+        "date_indexed": "2010-12-02T12:08:18Z"
       }, 
       "id": 24703004
     }

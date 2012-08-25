@@ -39,6 +39,7 @@
           2346140
         ], 
         "name": "Yafran", 
+        "ne_latitude": 32.343, 
         "hierarchy": [
           "woe:state=2346145", 
           "woe:country=23424882", 
@@ -48,9 +49,8 @@
         "ne_longitude": 12.732, 
         "longitude": 12.252, 
         "placetype": "state", 
-        "latitude": 31.698, 
         "iso": "LY", 
-        "sw_latitude": 31.054, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=2346134", 
           "woe:state=2346136", 
@@ -58,10 +58,19 @@
           "woe:state=2346140"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 32.343, 
+        "latitude": 31.698, 
         "sw_longitude": 11.772, 
         "fullname": "Yafran, Libya", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1352689", 
+          "woe:town=1352944", 
+          "woe:town=1353157", 
+          "woe:town=1353230", 
+          "woe:town=1352820", 
+          "woe:town=1353328", 
+          "woe:town=1353331"
+        ], 
+        "sw_latitude": 31.054
       }, 
       "id": 2346145
     }

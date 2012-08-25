@@ -32,24 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 1.65, 
         "name": "Galapagos", 
         "hierarchy": [
           "woe:state=2345202", 
           "woe:country=23424801", 
           "woe:planet=1"
         ], 
-        "woeid": 2345202, 
+        "ne_latitude": 1.65, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -89.24, 
         "longitude": -91.187, 
         "placetype": "state", 
         "iso": "EC", 
-        "sw_latitude": -1.41, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "woeid": 2345202, 
         "latitude": -0.443, 
         "sw_longitude": -92.0, 
         "fullname": "Galapagos, Ecuador", 
-        "date_indexed": "2010-12-02T17:51:25Z"
+        "children": [
+          "woe:county=28358244", 
+          "woe:county=28358245", 
+          "woe:county=28358246", 
+          "woe:island=12505253"
+        ], 
+        "sw_latitude": -1.41
       }, 
       "id": 2345202
     }

@@ -42,6 +42,7 @@
           20069833
         ], 
         "name": "Matagalpa", 
+        "ne_latitude": 13.355, 
         "hierarchy": [
           "woe:state=2346428", 
           "woe:country=23424915", 
@@ -51,9 +52,8 @@
         "ne_longitude": -85.086, 
         "longitude": -85.684, 
         "placetype": "state", 
-        "latitude": 12.945, 
         "iso": "NI", 
-        "sw_latitude": 12.536, 
+        "date_indexed": "2010-12-02T18:19:07Z", 
         "adjacent": [
           "woe:state=2346417", 
           "woe:state=2346421", 
@@ -64,10 +64,25 @@
           "woe:state=20069832"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.355, 
+        "latitude": 12.945, 
         "sw_longitude": -86.283, 
         "fullname": "Matagalpa, Nicaragua", 
-        "date_indexed": "2010-12-02T18:19:07Z"
+        "children": [
+          "woe:county=26813389", 
+          "woe:county=26813379", 
+          "woe:county=26813386", 
+          "woe:county=26813382", 
+          "woe:county=26813384", 
+          "woe:county=26813385", 
+          "woe:county=26813377", 
+          "woe:county=26813378", 
+          "woe:county=26813387", 
+          "woe:county=26813380", 
+          "woe:county=26813383", 
+          "woe:county=26813381", 
+          "woe:county=26813388"
+        ], 
+        "sw_latitude": 12.536
       }, 
       "id": 2346428
     }

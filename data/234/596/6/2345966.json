@@ -1058,13 +1058,34 @@
         "alias_KOR_V": [
           "\uac15\uc6d0"
         ], 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "PRK", 
+        "children": [
+          "woe:county=28289164", 
+          "woe:county=28289178", 
+          "woe:county=28289154", 
+          "woe:county=28289272", 
+          "woe:county=28289292", 
+          "woe:county=28289312", 
+          "woe:county=28289316", 
+          "woe:county=28289330", 
+          "woe:county=28289310", 
+          "woe:county=28289212", 
+          "woe:county=28289218", 
+          "woe:county=28289129", 
+          "woe:county=28289137", 
+          "woe:county=28289300", 
+          "woe:county=28289268", 
+          "woe:county=28289204", 
+          "woe:county=28289206", 
+          "woe:county=28289203", 
+          "woe:historicalcounty=28997305"
+        ], 
         "alias_CHI_Q": [
           "\u6c5f\u539f\u9053"
         ], 
-        "ne:OBJECTID": 3308, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u3053\u3046\u3052\u3093\u3069\u3046"
         ], 
@@ -1087,9 +1108,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 38.17451772711149, 
-        "ne:VertexCou": 252.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 6, 
+        "lang": "KOR", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 3308, 
         "ne:Postal": "KW", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kangwon|Kogen-do|North Kangwon", 
@@ -1105,15 +1126,15 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 11259.1, 
         "woe:id": "2345966", 
-        "ne:HASC_1": "KP.KW", 
-        "lang": "KOR", 
+        "name": "\uac15\uc6d0\ub3c4", 
+        "ne:VertexCou": 252.0, 
         "adjacent_woeid": [
           2345954, 
           2345965, 
           2345969, 
           2345970
         ], 
-        "name": "\uac15\uc6d0\ub3c4", 
+        "ne:HASC_1": "KP.KW", 
         "ne:REMARKS_1": null, 
         "ne:Country_Pr": null, 
         "ne_longitude": 128.36490929532783, 

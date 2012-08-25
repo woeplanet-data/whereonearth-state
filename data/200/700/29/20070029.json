@@ -904,16 +904,21 @@
         "ne:Shape_Area": 0.814133609382, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 12, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc13c\ud2b8\ub7f4"
         ], 
         "ne:gadm_level": 2.0, 
         "ne:ADM0_A3": "NPL", 
+        "children": [
+          "woe:county=23706799", 
+          "woe:county=23706803", 
+          "woe:county=23706809"
+        ], 
         "alias_CHI_Q": [
           "\u4e2d\u592e"
         ], 
-        "ne:OBJECTID": 1132, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30e9\u30eb"
         ], 
@@ -933,9 +938,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Administrative Zone", 
         "sw_latitude": 26.73725718816877, 
-        "ne:VertexCou": 212.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 6, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 1132, 
         "ne:Postal": "MM", 
         "ne:Region_Cod": "NPL-NRY", 
         "ne:VARNAME_1": null, 
@@ -954,15 +959,15 @@
           "Zentral"
         ], 
         "woe:id": "20070029", 
-        "ne:HASC_1": "NP.MM", 
-        "lang": "UNK", 
+        "name": "Madhyamanchal", 
+        "ne:VertexCou": 212.0, 
         "adjacent_woeid": [
           2345742, 
           12578004, 
           20070023, 
           20070026
         ], 
-        "name": "Madhyamanchal", 
+        "ne:HASC_1": "NP.MM", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 85.51749881421898, 
         "longitude": 85.228, 

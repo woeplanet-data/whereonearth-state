@@ -5207,17 +5207,35 @@
         "ne:Shape_Area": 11.7092313214, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 2, 
         "alias_ENG_A": [
           "CT"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IND", 
+        "children": [
+          "woe:county=12586480", 
+          "woe:county=12586484", 
+          "woe:county=24505159", 
+          "woe:county=24505157", 
+          "woe:county=12586491", 
+          "woe:county=24505154", 
+          "woe:county=24505153", 
+          "woe:county=24505158", 
+          "woe:county=24505156", 
+          "woe:county=24505155", 
+          "woe:county=24505152", 
+          "woe:county=28298882", 
+          "woe:county=12586505", 
+          "woe:county=12586506", 
+          "woe:county=12586508", 
+          "woe:county=12586520"
+        ], 
         "ne:ScaleRank": 2, 
         "alias_CHI_Q": [
           "\u6070\u8482\u65af\u52a0\u5c14\u90a6"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3260, 
         "alias_JPN_Q": [
           "\u30c1\u30e3\u30c3\u30c6\u30a3\u30fc\u30b9\u30ac\u30eb\u5dde"
         ], 
@@ -5239,9 +5257,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 17.776072902542467, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3260, 
+        "ne:VertexCou": 1294.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 1, 
         "ne:Postal": "CT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -5257,8 +5275,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 134510.3, 
         "woe:id": "20070464", 
-        "name": "Chhattisgarh", 
-        "ne:VertexCou": 1294.0, 
+        "ne:HASC_1": "IN.CT", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2345740, 
           2345749, 
@@ -5267,7 +5285,7 @@
           2345760, 
           20070463
         ], 
-        "ne:HASC_1": "IN.CT", 
+        "name": "Chhattisgarh", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 84.353332147061, 
         "longitude": 82.32, 

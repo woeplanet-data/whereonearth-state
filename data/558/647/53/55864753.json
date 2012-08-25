@@ -49,12 +49,12 @@
           "woe:planet=1"
         ], 
         "woeid": 55864753, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 29.672, 
         "longitude": 29.264, 
         "placetype": "state", 
+        "latitude": -2.125, 
         "iso": "RW", 
-        "date_indexed": "2010-12-02T09:35:43Z", 
+        "sw_latitude": -2.75, 
         "adjacent": [
           "woe:state=2344905", 
           "woe:state=20069830", 
@@ -62,11 +62,20 @@
           "woe:state=55864752", 
           "woe:state=20069829"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -1.499, 
-        "latitude": -2.125, 
         "sw_longitude": 28.857, 
         "fullname": "Province de l'Ouest, Rwanda", 
-        "sw_latitude": -2.75
+        "children": [
+          "woe:county=55864747", 
+          "woe:county=55864746", 
+          "woe:county=55864742", 
+          "woe:county=55864744", 
+          "woe:county=55864733", 
+          "woe:county=55864725", 
+          "woe:county=55864745"
+        ], 
+        "date_indexed": "2010-12-02T09:35:43Z"
       }, 
       "id": 55864753
     }

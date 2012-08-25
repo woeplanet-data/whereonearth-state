@@ -32,24 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 23.691, 
         "name": "Long Island", 
         "hierarchy": [
           "woe:state=2344773", 
           "woe:country=23424758", 
           "woe:planet=1"
         ], 
-        "woeid": 2344773, 
+        "ne_latitude": 23.691, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -74.825, 
         "longitude": -75.086, 
         "placetype": "state", 
         "iso": "BS", 
-        "sw_latitude": 22.853, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "woeid": 2344773, 
         "latitude": 23.272, 
         "sw_longitude": -75.346, 
         "fullname": "Long Island, The Bahamas", 
-        "date_indexed": "2010-12-02T07:50:25Z"
+        "children": [
+          "woe:town=56871", 
+          "woe:town=56894", 
+          "woe:town=56927", 
+          "woe:town=57008", 
+          "woe:town=57015", 
+          "woe:town=57079", 
+          "woe:town=57080", 
+          "woe:island=12506251", 
+          "woe:island=12481646"
+        ], 
+        "sw_latitude": 22.853
       }, 
       "id": 2344773
     }

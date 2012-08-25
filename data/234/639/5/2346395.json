@@ -31,32 +31,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_CHI_Q": [
-          "\u5965\u65af\u9646"
-        ], 
-        "lang": "NOR", 
-        "alias_KOR_Q": [
-          "\uc624\uc2ac\ub85c"
-        ], 
-        "adjacent_woeid": [
-          2346385, 
-          2346387, 
-          2346394
-        ], 
         "hierarchy": [
           "woe:state=2346395", 
           "woe:country=23424910", 
           "woe:planet=1"
         ], 
         "ne_latitude": 60.135, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\uc624\uc2ac\ub85c"
+        ], 
+        "children": [
+          "woe:county=12592926", 
+          "woe:town=862592", 
+          "woe:drainage=29361578", 
+          "woe:drainage=29362134"
+        ], 
+        "alias_CHI_Q": [
+          "\u5965\u65af\u9646"
+        ], 
+        "woeid": 2346395, 
         "alias_JPN_Q": [
           "\u30aa\u30b9\u30ed"
         ], 
-        "ne_longitude": 10.952, 
-        "longitude": 10.722, 
-        "placetype": "state", 
         "sw_longitude": 10.491, 
-        "sw_latitude": 59.81, 
         "adjacent": [
           "woe:state=2346385", 
           "woe:state=2346387", 
@@ -64,14 +62,22 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 59.972, 
-        "iso": "NO", 
-        "fullname": "Oslo Fylke, Norway", 
         "alias_NOR_V": [
           "Oslo"
         ], 
-        "woeid": 2346395, 
         "date_indexed": "2010-12-02T10:19:56Z", 
-        "name": "Oslo Fylke"
+        "lang": "NOR", 
+        "adjacent_woeid": [
+          2346385, 
+          2346387, 
+          2346394
+        ], 
+        "name": "Oslo Fylke", 
+        "ne_longitude": 10.952, 
+        "longitude": 10.722, 
+        "iso": "NO", 
+        "sw_latitude": 59.81, 
+        "fullname": "Oslo Fylke, Norway"
       }, 
       "id": 2346395
     }

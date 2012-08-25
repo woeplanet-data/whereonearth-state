@@ -45,23 +45,30 @@
           "woe:planet=1"
         ], 
         "woeid": 55844641, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 21.527, 
         "longitude": 21.386, 
         "placetype": "state", 
+        "latitude": 56.587, 
         "iso": "LV", 
-        "date_indexed": "2010-12-02T08:49:33Z", 
+        "sw_latitude": 56.517, 
         "adjacent": [
           "woe:state=56190543", 
           "woe:state=56190577", 
           "woe:state=56190578", 
           "woe:state=56190540"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 56.657, 
-        "latitude": 56.587, 
         "sw_longitude": 21.246, 
         "fullname": "Durbes Novads, Liepajas Rajons, Durbes Novads, Latvia", 
-        "sw_latitude": 56.517
+        "children": [
+          "woe:county=55844672", 
+          "woe:county=55844240", 
+          "woe:county=56190473", 
+          "woe:county=56190456", 
+          "woe:county=55844705"
+        ], 
+        "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 55844641
     }

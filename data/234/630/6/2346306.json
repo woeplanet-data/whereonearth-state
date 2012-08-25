@@ -2160,16 +2160,29 @@
         "ne:Shape_Area": 0.62862498652, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19740201", 
+        "ne:MAP_COLOR": 6, 
         "alias_KOR_Q": [
           "\uc140\ub791\uace0\ub974"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "MYS", 
+        "children": [
+          "woe:county=56013604", 
+          "woe:county=56013645", 
+          "woe:county=56013608", 
+          "woe:county=56013613", 
+          "woe:county=56013585", 
+          "woe:county=56013549", 
+          "woe:county=56013632", 
+          "woe:county=56013626", 
+          "woe:county=56013573", 
+          "woe:county=56013557", 
+          "woe:landfeature=55812248"
+        ], 
         "alias_CHI_Q": [
           "\u9a6c\u6765\u897f\u4e9a"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 1148, 
         "alias_JPN_Q": [
           "\u30bb\u30e9\u30f3\u30b4\u30fc\u30eb\u5dde"
         ], 
@@ -2190,9 +2203,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 2.595965888015371, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 6, 
-        "ne:OBJECTID": 1148, 
+        "ne:VertexCou": 526.0, 
+        "ne:VALIDFR_1": "19740201", 
+        "ne:DataRank": 6, 
         "ne:Postal": "SL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Selangor Darul Ehsan", 
@@ -2208,8 +2221,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 7725.3, 
         "woe:id": "2346306", 
-        "name": "Selangor", 
-        "ne:VertexCou": 526.0, 
+        "ne:HASC_1": "MY.SL", 
+        "lang": "UNK", 
         "adjacent_woeid": [
           2346300, 
           2346301, 
@@ -2217,7 +2230,7 @@
           28350159, 
           56014685
         ], 
-        "ne:HASC_1": "MY.SL", 
+        "name": "Selangor", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 101.96450524312252, 
         "longitude": 101.378, 

@@ -51,10 +51,10 @@
         "woeid": 2347195, 
         "ne_longitude": 104.822, 
         "longitude": 104.409, 
+        "ne_latitude": 16.349, 
         "placetype": "state", 
-        "latitude": 15.819, 
         "iso": "TH", 
-        "sw_latitude": 15.289, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347201", 
           "woe:state=2347197", 
@@ -63,10 +63,21 @@
           "woe:state=2347199"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 16.349, 
+        "latitude": 15.819, 
         "sw_longitude": 103.996, 
         "fullname": "Yasothon, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341210", 
+          "woe:county=28341211", 
+          "woe:county=28341212", 
+          "woe:county=28341205", 
+          "woe:county=28341207", 
+          "woe:county=28341213", 
+          "woe:county=28341206", 
+          "woe:county=28341209", 
+          "woe:county=28341208"
+        ], 
+        "sw_latitude": 15.289
       }, 
       "id": 2347195
     }

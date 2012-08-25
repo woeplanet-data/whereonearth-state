@@ -37,6 +37,7 @@
           24551257
         ], 
         "name": "City of Freeport", 
+        "ne_latitude": 26.924, 
         "hierarchy": [
           "woe:state=2344779", 
           "woe:country=23424758", 
@@ -46,18 +47,31 @@
         "ne_longitude": -78.045, 
         "longitude": -78.405, 
         "placetype": "state", 
-        "latitude": 26.653, 
         "iso": "BS", 
-        "sw_latitude": 26.49, 
+        "date_indexed": "2010-12-02T07:50:25Z", 
         "adjacent": [
           "woe:state=24551245", 
           "woe:state=24551257"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 26.924, 
+        "latitude": 26.653, 
         "sw_longitude": -78.764, 
         "fullname": "City of Freeport, The Bahamas", 
-        "date_indexed": "2010-12-02T07:50:25Z"
+        "children": [
+          "woe:town=56922", 
+          "woe:town=56957", 
+          "woe:town=56986", 
+          "woe:town=57041", 
+          "woe:island=12481278", 
+          "woe:island=12481465", 
+          "woe:island=12481506", 
+          "woe:island=12481688", 
+          "woe:island=12481648", 
+          "woe:island=12481654", 
+          "woe:airport=12510871", 
+          "woe:landfeature=56057288"
+        ], 
+        "sw_latitude": 26.49
       }, 
       "id": 2344779
     }

@@ -42,19 +42,21 @@
           55998384
         ], 
         "name": "Haut-Ogooue", 
+        "ne_latitude": 0.045, 
         "hierarchy": [
           "woe:state=2345450", 
           "woe:country=23424822", 
           "woe:planet=1"
         ], 
         "woeid": 2345450, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.502, 
         "longitude": 13.629, 
         "placetype": "state", 
-        "latitude": -1.218, 
+        "alias_FRE_V": [
+          "Haut-Ogoou\u00e9"
+        ], 
         "iso": "GA", 
-        "sw_latitude": -2.482, 
+        "date_indexed": "2010-12-02T08:50:01Z", 
         "adjacent": [
           "woe:state=2344968", 
           "woe:state=55998384", 
@@ -64,13 +66,19 @@
           "woe:state=2345455", 
           "woe:state=2344973"
         ], 
-        "ne_latitude": 0.045, 
-        "alias_FRE_V": [
-          "Haut-Ogoou\u00e9"
-        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -1.218, 
         "sw_longitude": 12.756, 
         "fullname": "Haut-Ogooue, Gabon", 
-        "date_indexed": "2010-12-02T08:50:01Z"
+        "children": [
+          "woe:county=55998460", 
+          "woe:county=55998458", 
+          "woe:county=55998462", 
+          "woe:county=55998461", 
+          "woe:county=55998459", 
+          "woe:county=55998457"
+        ], 
+        "sw_latitude": -2.482
       }, 
       "id": 2345450
     }

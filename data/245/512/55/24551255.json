@@ -45,20 +45,27 @@
           "woe:planet=1"
         ], 
         "woeid": 24551255, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.136, 
         "longitude": -76.19, 
         "placetype": "state", 
+        "latitude": 24.792, 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
+        "sw_latitude": 24.627, 
         "adjacent": [
           "woe:state=24551244"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 24.957, 
-        "latitude": 24.792, 
         "sw_longitude": -76.342, 
         "fullname": "South Eleuthera, The Bahamas", 
-        "sw_latitude": 24.627
+        "children": [
+          "woe:town=56830", 
+          "woe:town=56921", 
+          "woe:town=57059", 
+          "woe:town=57107", 
+          "woe:town=57134"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551255
     }

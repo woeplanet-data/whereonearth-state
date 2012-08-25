@@ -38,6 +38,7 @@
           20070511
         ], 
         "name": "Komi-Permyatskiy Avtonomnyy Okrug", 
+        "ne_latitude": 61.149, 
         "hierarchy": [
           "woe:state=20070510", 
           "woe:country=23424936", 
@@ -47,19 +48,27 @@
         "ne_longitude": 56.368, 
         "longitude": 54.162, 
         "placetype": "state", 
-        "latitude": 59.87, 
         "iso": "RU", 
-        "sw_latitude": 58.592, 
+        "date_indexed": "2010-12-02T16:07:50Z", 
         "adjacent": [
           "woe:state=2346902", 
           "woe:state=2346874", 
           "woe:state=20070511"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 61.149, 
+        "latitude": 59.87, 
         "sw_longitude": 51.955, 
         "fullname": "Komi-Permyatskiy Avtonomnyy Okrug, Russia", 
-        "date_indexed": "2010-12-02T16:07:50Z"
+        "children": [
+          "woe:county=12599032", 
+          "woe:county=12599040", 
+          "woe:county=12599041", 
+          "woe:county=12599044", 
+          "woe:county=12599045", 
+          "woe:county=12599067", 
+          "woe:county=12599068"
+        ], 
+        "sw_latitude": 58.592
       }, 
       "id": 20070510
     }

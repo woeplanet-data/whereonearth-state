@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 24.302, 
         "name": "Mangrove Cay", 
         "hierarchy": [
           "woe:state=24551247", 
@@ -39,17 +40,21 @@
           "woe:planet=1"
         ], 
         "woeid": 24551247, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -77.616, 
         "longitude": -77.778, 
         "placetype": "state", 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "ne_latitude": 24.302, 
+        "sw_latitude": 24.002, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 24.152, 
         "sw_longitude": -77.932, 
         "fullname": "Mangrove Cay, The Bahamas", 
-        "sw_latitude": 24.002
+        "children": [
+          "woe:town=56992", 
+          "woe:island=12481629", 
+          "woe:airport=12510862"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551247
     }

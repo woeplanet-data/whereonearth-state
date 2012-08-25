@@ -1584,6 +1584,7 @@
         "alias_SWE_Q": [
           "Thessalien"
         ], 
+        "ne:NL_NAME_1": "Tessa??a", 
         "alias_POL_Q": [
           "Tesalia"
         ], 
@@ -1599,7 +1600,7 @@
         "ne:Shape_Area": 1.48022537979, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1987", 
+        "ne:MAP_COLOR": 9, 
         "alias_POR_Q": [
           "Tess\u00e1lia"
         ], 
@@ -1611,26 +1612,31 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "GRC", 
+        "children": [
+          "woe:county=12591128", 
+          "woe:county=12591131", 
+          "woe:county=12591129", 
+          "woe:county=12591127"
+        ], 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u8272\u8428\u5229"
         ], 
-        "alias_SPA_Q": [
-          "Tesalia"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Tessaglia"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 2900, 
         "alias_ARA_Q": [
           "\u062b\u064a\u0633\u0627\u0644\u064a\u0627"
         ], 
         "alias_JPN_Q": [
           "\u30c6\u30c3\u30b5\u30ea\u30a2"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Tesalia"
+        ], 
         "alias_FIN_Q": [
           "Thessalia"
         ], 
@@ -1651,9 +1657,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 2900, 
+        "ne:VertexCou": 382.0, 
+        "ne:VALIDFR_1": "1987", 
+        "ne:DataRank": 6, 
         "ne:Postal": "TS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Thessaly", 
@@ -1667,7 +1673,7 @@
         "ne:NAME_0": "Greece", 
         "ne:NAME_1": "Thessalia", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Diamerismata", 
+        "ne:sameAsCity": -99, 
         "alias_CZE_Q": [
           "Thes\u00e1lie"
         ], 
@@ -1677,8 +1683,8 @@
           "Thessalien"
         ], 
         "woe:id": "12577889", 
-        "name": "Thessaly", 
-        "ne:VertexCou": 382.0, 
+        "ne:HASC_1": "GR.TS", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           12577880, 
           12577881, 
@@ -1687,15 +1693,13 @@
           12577888
         ], 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": "GR.TS", 
+        "name": "Thessaly", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "alias_UNK_S": [
           "Tessalia"
         ], 
-        "alias_HUN_S": [
-          "Thesszalia"
-        ], 
+        "ne:TYPE_1": "Diamerismata", 
         "alias_UNK_Q": [
           "Thessalya"
         ], 
@@ -1706,7 +1710,9 @@
         "longitude": 22.236, 
         "iso": "GR", 
         "sw_latitude": 38.95702810336434, 
-        "ne:NL_NAME_1": "Tessa??a", 
+        "alias_HUN_S": [
+          "Thesszalia"
+        ], 
         "alias_CZE_S": [
           "Thesalie"
         ], 

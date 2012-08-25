@@ -38,6 +38,7 @@
           24550759, 
           24550834
         ], 
+        "ne_latitude": 41.22, 
         "name": "Resen", 
         "alias_ENG_P": [
           "Resen Municipality"
@@ -54,9 +55,8 @@
         "longitude": 21.041, 
         "ne_longitude": 21.283, 
         "placetype": "state", 
-        "latitude": 41.048, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 40.854, 
         "adjacent": [
           "woe:state=24550747", 
           "woe:state=24550759", 
@@ -64,10 +64,21 @@
           "woe:state=12577881"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.22, 
+        "latitude": 41.048, 
         "sw_longitude": 20.808, 
         "fullname": "Resen, Resen Municipality, Macedonia", 
-        "sw_latitude": 40.854
+        "children": [
+          "woe:town=481667", 
+          "woe:town=481836", 
+          "woe:town=482230", 
+          "woe:town=482347", 
+          "woe:town=482427", 
+          "woe:town=482453", 
+          "woe:town=482683", 
+          "woe:town=482863", 
+          "woe:town=483015"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550855
     }

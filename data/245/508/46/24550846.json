@@ -39,6 +39,7 @@
           24550834, 
           24550867
         ], 
+        "ne_latitude": 41.437, 
         "name": "Struga", 
         "alias_ENG_P": [
           "Struga Municipality"
@@ -55,9 +56,8 @@
         "longitude": 20.649, 
         "ne_longitude": 20.793, 
         "placetype": "state", 
-        "latitude": 41.246, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.056, 
         "adjacent": [
           "woe:state=24550829", 
           "woe:state=24550746", 
@@ -66,10 +66,20 @@
           "woe:state=24550867"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.437, 
+        "latitude": 41.246, 
         "sw_longitude": 20.504, 
         "fullname": "Struga, Struga Municipality, Macedonia", 
-        "sw_latitude": 41.056
+        "children": [
+          "woe:town=481909", 
+          "woe:town=482252", 
+          "woe:town=482404", 
+          "woe:town=482472", 
+          "woe:town=482816", 
+          "woe:town=482820", 
+          "woe:town=483039", 
+          "woe:town=483174"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550846
     }

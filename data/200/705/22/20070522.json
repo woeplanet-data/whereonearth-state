@@ -40,6 +40,7 @@
           20070401
         ], 
         "name": "Karachayevo-Cherkesiya", 
+        "ne_latitude": 44.51, 
         "hierarchy": [
           "woe:state=20070522", 
           "woe:country=23424936", 
@@ -49,9 +50,8 @@
         "ne_longitude": 42.748, 
         "longitude": 41.737, 
         "placetype": "state", 
-        "latitude": 43.852, 
         "iso": "RU", 
-        "sw_latitude": 43.194, 
+        "date_indexed": "2010-12-02T16:07:50Z", 
         "adjacent": [
           "woe:state=20070401", 
           "woe:state=2346871", 
@@ -60,10 +60,22 @@
           "woe:state=2346887"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 44.51, 
+        "latitude": 43.852, 
         "sw_longitude": 40.726, 
         "fullname": "Karachayevo-Cherkesiya, Russia", 
-        "date_indexed": "2010-12-02T16:07:50Z"
+        "children": [
+          "woe:county=12597934", 
+          "woe:county=12597942", 
+          "woe:county=12597948", 
+          "woe:county=12597949", 
+          "woe:county=12597950", 
+          "woe:county=12597958", 
+          "woe:county=12597969", 
+          "woe:county=12597977", 
+          "woe:county=12597978", 
+          "woe:county=12597980"
+        ], 
+        "sw_latitude": 43.194
       }, 
       "id": 20070522
     }

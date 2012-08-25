@@ -650,19 +650,21 @@
         "ne:Shape_Area": 0.38269288061, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1895", 
-        "ne:Region_C_3": null, 
+        "ne:MAP_COLOR": 7, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
-        "alias_SPA_Q": [
-          "Valle de Aosta"
+        "children": [
+          "woe:county=12591856"
         ], 
+        "ne:VALIDTO_1": "Unknown", 
+        "ne:OBJECTID": 905, 
         "alias_ITA_V": [
           "Valle d'Aosta Regione"
         ], 
         "ne:Abbrev": null, 
-        "date_indexed": "2010-12-02T16:24:07Z", 
-        "ne:VALIDTO_1": "Unknown", 
+        "alias_SPA_Q": [
+          "Valle de Aosta"
+        ], 
         "alias_ITA_A": [
           "VD"
         ], 
@@ -678,52 +680,53 @@
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Region", 
-        "sw_latitude": 45.46632070593586, 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 7, 
+        "date_indexed": "2010-12-02T16:24:07Z", 
+        "ne:VertexCou": 147.0, 
+        "ne:VALIDFR_1": "1895", 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Aosta Valley|Val d'Aoste|Vall\u00e9e d'Aoste", 
         "ne:ISO": "ITA", 
-        "ne:TYPE_1": "Regione", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 2.98112383193, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "Italy", 
         "ne:NAME_1": "Valle d'Aosta", 
         "ne:Region_C_1": null, 
-        "ne:sameAsCity": -99, 
+        "ne:TYPE_1": "Regione", 
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 3310.8, 
         "alias_GER_Q": [
           "Aostatal"
         ], 
         "woe:id": "7153348", 
-        "name": "Valle d'Aosta", 
-        "ne:VertexCou": 147.0, 
+        "ne:HASC_1": null, 
+        "lang": "ITA", 
         "adjacent_woeid": [
           2347104, 
           7153329, 
           7153341
         ], 
-        "ne:HASC_1": null, 
+        "name": "Valle d'Aosta", 
         "ne:REMARKS_1": "ITC", 
         "ne_longitude": 7.919547967564711, 
         "longitude": 7.37, 
+        "ne:NEV_Countr": "Italy", 
+        "iso": "IT", 
+        "sw_latitude": 45.46632070593586, 
+        "ne:NL_NAME_1": null, 
+        "fullname": "Valle d'Aosta, Italy", 
+        "alias_FRE_Q": [
+          "Vall\u00e9e d'Aoste"
+        ], 
+        "ne:Region": null, 
         "alias_FRE_S": [
           "Vallee d'Aoste"
         ], 
-        "iso": "IT", 
-        "ne:OBJECTID": 905, 
-        "ne:NL_NAME_1": null, 
-        "fullname": "Valle d'Aosta, Italy", 
-        "ne:Region": null, 
-        "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
-        "alias_FRE_Q": [
-          "Vall\u00e9e d'Aoste"
-        ]
+        "ne:sameAsCity": -99
       }, 
       "id": 7153348
     }

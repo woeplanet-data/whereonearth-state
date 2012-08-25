@@ -44,25 +44,29 @@
           "woe:planet=1"
         ], 
         "woeid": 55966991, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -3.389, 
         "longitude": -4.028, 
+        "children": [
+          "woe:county=20069797", 
+          "woe:county=20069798"
+        ], 
         "placetype": "state", 
+        "latitude": 6.116, 
         "iso": "CI", 
-        "date_indexed": "2010-12-02T09:35:13Z", 
+        "sw_latitude": 5.585, 
         "adjacent": [
           "woe:state=55967009", 
           "woe:state=55967000", 
           "woe:state=55967001"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 6.646, 
-        "latitude": 6.116, 
         "sw_longitude": -4.666, 
         "fullname": "Agn\u00e9by, Ivory Coast", 
         "alias_FRE_S": [
           "Agneby"
         ], 
-        "sw_latitude": 5.585
+        "date_indexed": "2010-12-02T09:35:13Z"
       }, 
       "id": 55966991
     }

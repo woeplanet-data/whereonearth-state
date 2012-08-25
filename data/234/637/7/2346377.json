@@ -1002,22 +1002,65 @@
         "ne:Shape_Area": 0.268997547262, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 9, 
         "alias_POR_Q": [
           "Limburgo"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
-        "alias_SPA_Q": [
-          "Limburgo"
+        "children": [
+          "woe:county=12592046", 
+          "woe:county=12592057", 
+          "woe:county=12592059", 
+          "woe:county=12592065", 
+          "woe:county=12592096", 
+          "woe:county=12592138", 
+          "woe:county=12592146", 
+          "woe:county=12592163", 
+          "woe:county=12592179", 
+          "woe:county=12592201", 
+          "woe:county=12592204", 
+          "woe:county=12592223", 
+          "woe:county=12592234", 
+          "woe:county=12592235", 
+          "woe:county=12592242", 
+          "woe:county=28995430", 
+          "woe:county=12592275", 
+          "woe:county=28995431", 
+          "woe:county=12592280", 
+          "woe:county=12592281", 
+          "woe:county=12592284", 
+          "woe:county=12592285", 
+          "woe:county=12592286", 
+          "woe:county=12592299", 
+          "woe:county=12592306", 
+          "woe:county=12592326", 
+          "woe:county=12592335", 
+          "woe:county=12592370", 
+          "woe:county=12592371", 
+          "woe:county=12592388", 
+          "woe:county=12592392", 
+          "woe:county=12592393", 
+          "woe:county=12592397", 
+          "woe:county=12592414", 
+          "woe:county=12592435", 
+          "woe:county=12592437", 
+          "woe:county=12592446", 
+          "woe:county=12592447", 
+          "woe:county=12592454", 
+          "woe:county=12592471", 
+          "woe:landfeature=56058392"
         ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Limburgo"
         ], 
-        "ne:DataRank": 8, 
-        "ne:sameAsCity": -99, 
+        "ne:OBJECTID": 898, 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Limburgo"
+        ], 
+        "ne:LabelRank": 8, 
         "sw_longitude": 5.551630486857505, 
         "adjacent": [
           "woe:state=2346375", 
@@ -1036,12 +1079,9 @@
         "alias_DUT_A": [
           "LM"
         ], 
-        "ne:MAP_COLOR": 9, 
-        "ne:OBJECTID": 898, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "LI", 
-        "alias_DUT_V": [
-          "Limburg Provincie"
-        ], 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Limbourg|Limburgo", 
         "ne:ISO": "NLD", 
@@ -1052,11 +1092,13 @@
         "ne:NAME_0": "Netherlands", 
         "ne:NAME_1": "Limburg", 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Provincie", 
-        "ne:LabelRank": 8, 
+        "ne:sameAsCity": -99, 
+        "alias_DUT_V": [
+          "Limburg Provincie"
+        ], 
         "ne:Area_sqkm": 2091.8, 
         "woe:id": "2346377", 
-        "name": "Limburg", 
+        "ne:HASC_1": "NL.LI", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2345487, 
@@ -1065,8 +1107,9 @@
           7153300, 
           7153301
         ], 
-        "ne:HASC_1": "NL.LI", 
+        "name": "Limburg", 
         "ne:REMARKS_1": null, 
+        "ne:TYPE_1": "Provincie", 
         "ne_longitude": 6.20740441278349, 
         "longitude": 5.896, 
         "ne:VertexCou": 206.0, 

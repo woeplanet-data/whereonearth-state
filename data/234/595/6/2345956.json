@@ -39,6 +39,7 @@
           12577995
         ], 
         "name": "Yanggang-do", 
+        "ne_latitude": 42.037, 
         "hierarchy": [
           "woe:state=2345956", 
           "woe:country=23424865", 
@@ -48,9 +49,8 @@
         "ne_longitude": 129.04, 
         "longitude": 127.962, 
         "placetype": "state", 
-        "latitude": 41.186, 
         "iso": "KP", 
-        "sw_latitude": 40.336, 
+        "date_indexed": "2010-12-02T10:22:43Z", 
         "adjacent": [
           "woe:state=2345950", 
           "woe:state=2345958", 
@@ -58,10 +58,30 @@
           "woe:state=12577995"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.037, 
+        "latitude": 41.186, 
         "sw_longitude": 126.883, 
         "fullname": "Yanggang-do, North Korea", 
-        "date_indexed": "2010-12-02T10:22:43Z"
+        "children": [
+          "woe:town=1093851", 
+          "woe:town=1093858", 
+          "woe:town=1093872", 
+          "woe:town=1093874", 
+          "woe:town=1093881", 
+          "woe:town=1093893", 
+          "woe:town=1072807", 
+          "woe:town=1093907", 
+          "woe:town=1093912", 
+          "woe:town=1093920", 
+          "woe:town=1078581", 
+          "woe:town=1080394", 
+          "woe:town=1080395", 
+          "woe:town=1080529", 
+          "woe:town=1093935", 
+          "woe:town=1093950", 
+          "woe:town=1088290", 
+          "woe:town=1092665"
+        ], 
+        "sw_latitude": 40.336
       }, 
       "id": 2345956
     }

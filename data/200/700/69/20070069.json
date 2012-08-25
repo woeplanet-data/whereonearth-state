@@ -41,6 +41,7 @@
           20070072
         ], 
         "name": "Ruse", 
+        "ne_latitude": 44.036, 
         "hierarchy": [
           "woe:state=20070069", 
           "woe:country=23424771", 
@@ -50,9 +51,8 @@
         "ne_longitude": 26.538, 
         "longitude": 25.999, 
         "placetype": "state", 
-        "latitude": 43.696, 
         "iso": "BG", 
-        "sw_latitude": 43.313, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=2346655", 
           "woe:state=20070071", 
@@ -62,10 +62,20 @@
           "woe:state=20070063"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 44.036, 
+        "latitude": 43.696, 
         "sw_longitude": 25.46, 
         "fullname": "Ruse, Bulgaria", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:county=55873838", 
+          "woe:county=55873959", 
+          "woe:county=55873842", 
+          "woe:county=55873877", 
+          "woe:county=55873777", 
+          "woe:county=55873872", 
+          "woe:county=55873816", 
+          "woe:county=55873924"
+        ], 
+        "sw_latitude": 43.313
       }, 
       "id": 20070069
     }

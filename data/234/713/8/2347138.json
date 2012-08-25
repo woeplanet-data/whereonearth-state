@@ -51,10 +51,10 @@
         "woeid": 2347138, 
         "ne_longitude": 100.045, 
         "longitude": 99.515, 
+        "ne_latitude": 16.91, 
         "placetype": "state", 
-        "latitude": 16.383, 
         "iso": "TH", 
-        "sw_latitude": 15.857, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347143", 
           "woe:state=2347140", 
@@ -63,10 +63,24 @@
           "woe:state=2347135"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 16.91, 
+        "latitude": 16.383, 
         "sw_longitude": 98.985, 
         "fullname": "Kamphaeng Phet, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28340942", 
+          "woe:county=28340941", 
+          "woe:county=28340945", 
+          "woe:county=28340947", 
+          "woe:county=28340949", 
+          "woe:county=28340944", 
+          "woe:county=28340948", 
+          "woe:county=28340943", 
+          "woe:county=28340939", 
+          "woe:county=28340946", 
+          "woe:county=28340940", 
+          "woe:landfeature=56057347"
+        ], 
+        "sw_latitude": 15.857
       }, 
       "id": 2347138
     }

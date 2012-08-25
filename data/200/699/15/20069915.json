@@ -42,6 +42,7 @@
           56013541
         ], 
         "name": "Sinnar", 
+        "ne_latitude": 14.0, 
         "hierarchy": [
           "woe:state=20069915", 
           "woe:country=23424952", 
@@ -51,9 +52,8 @@
         "ne_longitude": 35.708, 
         "longitude": 34.255, 
         "placetype": "state", 
-        "latitude": 12.925, 
         "iso": "SD", 
-        "sw_latitude": 11.849, 
+        "date_indexed": "2010-12-02T08:50:49Z", 
         "adjacent": [
           "woe:state=20069908", 
           "woe:state=20069916", 
@@ -64,10 +64,39 @@
           "woe:state=56013538"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.0, 
+        "latitude": 12.925, 
         "sw_longitude": 32.803, 
         "fullname": "Sinnar, Sudan", 
-        "date_indexed": "2010-12-02T08:50:49Z"
+        "children": [
+          "woe:town=1429706", 
+          "woe:town=1429800", 
+          "woe:town=1429806", 
+          "woe:town=1429843", 
+          "woe:town=1430575", 
+          "woe:town=1430905", 
+          "woe:town=1431415", 
+          "woe:town=1431833", 
+          "woe:town=1431862", 
+          "woe:town=1432137", 
+          "woe:town=1432470", 
+          "woe:town=1432822", 
+          "woe:town=1433111", 
+          "woe:town=1433112", 
+          "woe:town=1433420", 
+          "woe:town=1434374", 
+          "woe:town=1517100", 
+          "woe:town=1435583", 
+          "woe:town=1435901", 
+          "woe:town=1435906", 
+          "woe:town=1435965", 
+          "woe:town=56123219", 
+          "woe:town=1436183", 
+          "woe:town=1436189", 
+          "woe:town=1517261", 
+          "woe:town=1517358", 
+          "woe:town=1437254"
+        ], 
+        "sw_latitude": 11.849
       }, 
       "id": 20069915
     }

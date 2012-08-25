@@ -2114,16 +2114,38 @@
         "ne:Shape_Area": 11.2350477959, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1924", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\ub77c\ud30c\uc2a4"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BOL", 
+        "children": [
+          "woe:county=55967778", 
+          "woe:county=55967779", 
+          "woe:county=55967849", 
+          "woe:county=55967790", 
+          "woe:county=55967780", 
+          "woe:county=55967781", 
+          "woe:county=55967782", 
+          "woe:county=55967783", 
+          "woe:county=55967784", 
+          "woe:county=55967792", 
+          "woe:county=55967858", 
+          "woe:county=55967786", 
+          "woe:county=55967785", 
+          "woe:county=55967787", 
+          "woe:county=55967788", 
+          "woe:county=55967789", 
+          "woe:county=55967850", 
+          "woe:county=55967791", 
+          "woe:county=55967857", 
+          "woe:county=55967859"
+        ], 
         "alias_CHI_Q": [
           "\u62c9\u5df4\u65af"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 1936, 
         "alias_JPN_Q": [
           "\u30e9\u30d1\u30b9"
         ], 
@@ -2149,9 +2171,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Department", 
         "sw_latitude": -18.0392086730418, 
-        "lang": "SPA", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1936, 
+        "ne:VertexCou": 525.0, 
+        "ne:VALIDFR_1": "1924", 
+        "ne:DataRank": 8, 
         "ne:Postal": "LP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2167,8 +2189,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 133529.2, 
         "woe:id": "2344804", 
-        "name": "La Paz", 
-        "ne:VertexCou": 525.0, 
+        "ne:HASC_1": "BO.LP", 
+        "lang": "SPA", 
         "adjacent_woeid": [
           2344802, 
           2344803, 
@@ -2179,7 +2201,7 @@
           2346490, 
           56043702
         ], 
-        "ne:HASC_1": "BO.LP", 
+        "name": "La Paz", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -68.202, 

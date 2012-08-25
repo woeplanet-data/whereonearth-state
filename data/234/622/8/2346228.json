@@ -49,20 +49,25 @@
         "woeid": 2346228, 
         "ne_longitude": 57.464, 
         "longitude": 57.383, 
+        "ne_latitude": -20.167, 
         "placetype": "state", 
-        "latitude": -20.331, 
         "iso": "MU", 
-        "sw_latitude": -20.494, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "adjacent": [
           "woe:state=2346233", 
           "woe:state=2346234", 
           "woe:state=2346236"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -20.167, 
+        "latitude": -20.331, 
         "sw_longitude": 57.303, 
         "fullname": "Black River, Mauritius", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "children": [
+          "woe:town=1377461", 
+          "woe:town=1377498", 
+          "woe:island=12466054"
+        ], 
+        "sw_latitude": -20.494
       }, 
       "id": 2346228
     }

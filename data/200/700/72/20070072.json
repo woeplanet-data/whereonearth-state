@@ -51,10 +51,10 @@
         "woeid": 20070072, 
         "ne_longitude": 26.8, 
         "longitude": 26.373, 
+        "ne_latitude": 43.557, 
         "placetype": "state", 
-        "latitude": 43.254, 
         "iso": "BG", 
-        "sw_latitude": 42.952, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "adjacent": [
           "woe:state=20070071", 
           "woe:state=20070069", 
@@ -63,10 +63,17 @@
           "woe:state=20070063"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 43.557, 
+        "latitude": 43.254, 
         "sw_longitude": 25.945, 
         "fullname": "Turgovishte, Bulgaria", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "children": [
+          "woe:county=55873825", 
+          "woe:county=55873845", 
+          "woe:county=55873908", 
+          "woe:county=55873821", 
+          "woe:county=55873857"
+        ], 
+        "sw_latitude": 42.952
       }, 
       "id": 20070072
     }

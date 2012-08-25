@@ -39,6 +39,7 @@
           20070133
         ], 
         "name": "Ntchisi", 
+        "ne_latitude": -13.014, 
         "hierarchy": [
           "woe:state=20070130", 
           "woe:country=23424889", 
@@ -48,9 +49,8 @@
         "ne_longitude": 34.127, 
         "longitude": 33.872, 
         "placetype": "state", 
-        "latitude": -13.275, 
         "iso": "MW", 
-        "sw_latitude": -13.536, 
+        "date_indexed": "2010-12-02T17:40:22Z", 
         "adjacent": [
           "woe:state=20070132", 
           "woe:state=20070128", 
@@ -58,10 +58,16 @@
           "woe:state=20070133"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -13.014, 
+        "latitude": -13.275, 
         "sw_longitude": 33.616, 
         "fullname": "Ntchisi, Malawi", 
-        "date_indexed": "2010-12-02T17:40:22Z"
+        "children": [
+          "woe:town=1367197", 
+          "woe:town=1367711", 
+          "woe:town=1501180", 
+          "woe:town=1368875"
+        ], 
+        "sw_latitude": -13.536
       }, 
       "id": 20070130
     }

@@ -37,6 +37,7 @@
           2344759
         ], 
         "name": "Paget", 
+        "ne_latitude": 32.294, 
         "hierarchy": [
           "woe:state=2344754", 
           "woe:country=23424756", 
@@ -46,18 +47,23 @@
         "ne_longitude": -64.764, 
         "longitude": -64.786, 
         "placetype": "state", 
-        "latitude": 32.281, 
         "iso": "BM", 
-        "sw_latitude": 32.268, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2344751", 
           "woe:state=2344759"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 32.294, 
+        "latitude": 32.281, 
         "sw_longitude": -64.814, 
         "fullname": "Paget, Bermuda", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:town=56788", 
+          "woe:town=56791", 
+          "woe:island=12481219", 
+          "woe:island=12481251"
+        ], 
+        "sw_latitude": 32.268
       }, 
       "id": 2344754
     }

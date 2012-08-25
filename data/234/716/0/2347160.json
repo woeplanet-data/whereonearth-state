@@ -50,10 +50,10 @@
         "woeid": 2347160, 
         "ne_longitude": 100.516, 
         "longitude": 100.349, 
+        "ne_latitude": 14.802, 
         "placetype": "state", 
-        "latitude": 14.62, 
         "iso": "TH", 
-        "sw_latitude": 14.439, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347159", 
           "woe:state=2347161", 
@@ -61,10 +61,19 @@
           "woe:state=2347175"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.802, 
+        "latitude": 14.62, 
         "sw_longitude": 100.181, 
         "fullname": "Ang Thong, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341485", 
+          "woe:county=28341488", 
+          "woe:county=28341486", 
+          "woe:county=28341487", 
+          "woe:county=28341489", 
+          "woe:county=28341484", 
+          "woe:county=28341490"
+        ], 
+        "sw_latitude": 14.439
       }, 
       "id": 2347160
     }

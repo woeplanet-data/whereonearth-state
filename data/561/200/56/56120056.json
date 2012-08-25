@@ -17,6 +17,7 @@
           "woe:country=23424893", 
           "woe:planet=1"
         ], 
+        "woeid": 56120056, 
         "placetype": "state", 
         "iso": "MA", 
         "adjacent": [
@@ -29,7 +30,13 @@
         "alias_ARA_V": [
           "Marrakech-Tensift-Al Haouz"
         ], 
-        "woeid": 56120056, 
+        "children": [
+          "woe:county=56120068", 
+          "woe:county=56120069", 
+          "woe:county=2346198", 
+          "woe:county=2346200", 
+          "woe:county=2346207"
+        ], 
         "date_indexed": "2010-12-02T18:19:13Z"
       }, 
       "id": 56120056

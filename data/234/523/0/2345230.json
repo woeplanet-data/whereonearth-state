@@ -49,20 +49,33 @@
         "woeid": 2345230, 
         "ne_longitude": 31.296, 
         "longitude": 31.14, 
+        "ne_latitude": 30.342, 
         "placetype": "state", 
-        "latitude": 29.867, 
         "iso": "EG", 
-        "sw_latitude": 29.392, 
+        "date_indexed": "2010-12-02T12:16:45Z", 
         "adjacent": [
           "woe:state=2345233", 
           "woe:state=2345234", 
           "woe:state=56120898"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 30.342, 
+        "latitude": 29.867, 
         "sw_longitude": 30.3, 
         "fullname": "Al Jizah, Egypt", 
-        "date_indexed": "2010-12-02T12:16:45Z"
+        "children": [
+          "woe:town=1521172", 
+          "woe:town=1521643", 
+          "woe:town=1522735", 
+          "woe:town=1522941", 
+          "woe:town=1523818", 
+          "woe:town=1526108", 
+          "woe:town=1526197", 
+          "woe:town=1526610", 
+          "woe:town=1526609", 
+          "woe:suburb=1521977", 
+          "woe:airport=12512687"
+        ], 
+        "sw_latitude": 29.392
       }, 
       "id": 2345230
     }

@@ -2220,25 +2220,30 @@
         "ne:Shape_Area": 1.58339812032, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1895", 
-        "ne:Region_C_3": null, 
+        "ne:MAP_COLOR": 7, 
         "alias_KOR_Q": [
           "\uc26c\ub4dc\ud2f0\ub864"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
+        "children": [
+          "woe:county=12591814", 
+          "woe:county=12591852", 
+          "woe:zone=24873953", 
+          "woe:zone=24873954"
+        ], 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u7279\u4f26\u8482\u8bfa-\u4e0a\u963f\u8fea\u6770"
         ], 
         "ne:VALIDTO_1": "Unknown", 
+        "ne:OBJECTID": 1037, 
         "alias_ITA_V": [
           "Trentinoaltoadige"
         ], 
         "alias_JPN_Q": [
           "\u30c8\u30ec\u30f3\u30c6\u30a3\u30fc\u30ce\u30fb\u30a2\u30eb\u30c8\u30fb\u30a2\u30fc\u30c7\u30a3\u30b8\u30a7\u5dde"
         ], 
-        "sw_latitude": 45.68165639922347, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Trentino-Alto Adigio"
@@ -2258,15 +2263,15 @@
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Region", 
-        "date_indexed": "2010-12-02T16:24:07Z", 
-        "lang": "ITA", 
-        "ne:MAP_COLOR": 7, 
+        "sw_latitude": 45.68165639922347, 
+        "ne:VertexCou": 539.0, 
+        "ne:VALIDFR_1": "1895", 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Trentino - Alto Adige|Trentino-Alto Adigio|Trentino-South Tirol|Venezia Tridentina", 
         "ne:ISO": "ITA", 
-        "ne:TYPE_1": "Regione", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 7.4959577528, 
         "alias_DUT_Q": [
@@ -2275,35 +2280,36 @@
         "ne:NAME_0": "Italy", 
         "ne:NAME_1": "Trentino-Alto Adige", 
         "ne:Region_C_1": null, 
-        "ne:sameAsCity": -99, 
+        "ne:TYPE_1": "Regione", 
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 13524.7, 
         "woe:id": "7153346", 
         "alias_GER_S": [
           "Sudtirol"
         ], 
-        "name": "Trentino-Alto Adige", 
-        "ne:VertexCou": 539.0, 
+        "ne:HASC_1": null, 
+        "lang": "ITA", 
         "adjacent_woeid": [
           7153349, 
           2347091, 
           7153338
         ], 
-        "ne:HASC_1": null, 
+        "name": "Trentino-Alto Adige", 
         "ne:REMARKS_1": "ITD", 
         "ne:CheckMe": 0, 
         "ne_longitude": 12.470277948068883, 
         "longitude": 11.431, 
         "iso": "IT", 
-        "ne:OBJECTID": 1037, 
+        "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Trentino-Alto Adige, Italy", 
+        "alias_FRE_Q": [
+          "Trentin-Haut-Adige"
+        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
-        "alias_FRE_Q": [
-          "Trentin-Haut-Adige"
-        ]
+        "ne:sameAsCity": -99
       }, 
       "id": 7153346
     }

@@ -42,17 +42,25 @@
           "woe:planet=1"
         ], 
         "woeid": 24551254, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -77.158, 
         "longitude": -77.674, 
         "placetype": "state", 
-        "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "ne_latitude": 24.214, 
         "latitude": 23.996, 
+        "iso": "BS", 
+        "sw_latitude": 23.583, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 24.214, 
         "sw_longitude": -77.85, 
         "fullname": "South Andros, The Bahamas", 
-        "sw_latitude": 23.583
+        "children": [
+          "woe:town=56969", 
+          "woe:town=56993", 
+          "woe:island=12481413", 
+          "woe:island=12481432", 
+          "woe:island=12481643", 
+          "woe:island=12481661"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 24551254
     }

@@ -46,12 +46,12 @@
           "woe:planet=1"
         ], 
         "woeid": 2347717, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.798, 
         "longitude": 106.291, 
         "placetype": "state", 
+        "latitude": 10.409, 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 10.195, 
         "adjacent": [
           "woe:state=2347703", 
           "woe:state=2347722", 
@@ -59,11 +59,34 @@
           "woe:state=2347710", 
           "woe:state=2347752"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 10.611, 
-        "latitude": 10.409, 
         "sw_longitude": 105.793, 
         "fullname": "Tien Giang, Vietnam", 
-        "sw_latitude": 10.195
+        "children": [
+          "woe:town=56124873", 
+          "woe:town=1252332", 
+          "woe:town=1252345", 
+          "woe:town=1252344", 
+          "woe:town=1252416", 
+          "woe:town=56124883", 
+          "woe:town=56124355", 
+          "woe:town=56124382", 
+          "woe:town=56124398", 
+          "woe:town=56124818", 
+          "woe:town=56124347", 
+          "woe:town=1252498", 
+          "woe:town=56124378", 
+          "woe:town=56124450", 
+          "woe:town=56124375", 
+          "woe:town=56123617", 
+          "woe:town=56123613", 
+          "woe:town=56124395", 
+          "woe:town=1252684", 
+          "woe:town=1252691", 
+          "woe:island=12502467"
+        ], 
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 2347717
     }

@@ -32,6 +32,7 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": -4.6, 
         "name": "Les Mamelles", 
         "hierarchy": [
           "woe:state=24549880", 
@@ -39,17 +40,19 @@
           "woe:planet=1"
         ], 
         "woeid": 24549880, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.517, 
         "longitude": 55.5, 
         "placetype": "state", 
         "iso": "SC", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "ne_latitude": -4.6, 
+        "sw_latitude": -4.62, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -4.605, 
         "sw_longitude": 55.494, 
         "fullname": "Les Mamelles, Seychelles", 
-        "sw_latitude": -4.62
+        "children": [
+          "woe:island=12466328"
+        ], 
+        "date_indexed": "2010-12-02T08:53:34Z"
       }, 
       "id": 24549880
     }

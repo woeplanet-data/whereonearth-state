@@ -32,10 +32,9 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "alias_SPA_Q": [
-          "Isla Baker"
-        ], 
+        "placetype": "state", 
         "name": "Baker Island", 
+        "ne_latitude": 0.207, 
         "hierarchy": [
           "woe:state=23424818", 
           "woe:country=28289407", 
@@ -44,12 +43,16 @@
         "woeid": 23424818, 
         "ne_longitude": -176.474, 
         "longitude": -176.479, 
-        "placetype": "state", 
-        "latitude": 0.2, 
+        "children": [
+          "woe:island=24549619"
+        ], 
+        "alias_SPA_Q": [
+          "Isla Baker"
+        ], 
         "iso": "UM", 
-        "sw_latitude": 0.194, 
+        "date_indexed": "2010-12-02T16:52:36Z", 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 0.207, 
+        "latitude": 0.2, 
         "sw_longitude": -176.485, 
         "fullname": "Baker Island, United States Minor Outlying Islands", 
         "alias_GER_Q": [
@@ -58,7 +61,7 @@
         "alias_FRE_S": [
           "Ile Baker"
         ], 
-        "date_indexed": "2010-12-02T16:52:36Z", 
+        "sw_latitude": 0.194, 
         "alias_FRE_Q": [
           "\u00cele Baker"
         ]

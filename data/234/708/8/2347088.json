@@ -44,6 +44,15 @@
         ], 
         "ne_latitude": 47.007, 
         "placetype": "state", 
+        "children": [
+          "woe:county=12593175", 
+          "woe:county=12593238", 
+          "woe:county=12593129", 
+          "woe:county=12593162", 
+          "woe:county=12593170", 
+          "woe:county=12593191", 
+          "woe:county=12593112"
+        ], 
         "alias_ITA_Q": [
           "Canton Friburgo"
         ], 
@@ -59,7 +68,7 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.722, 
-        "sw_latitude": 46.438, 
+        "date_indexed": "2010-12-02T18:19:21Z", 
         "alias_GER_Q": [
           "Kanton Freiburg"
         ], 
@@ -76,7 +85,7 @@
           "FR"
         ], 
         "iso": "CH", 
-        "date_indexed": "2010-12-02T18:19:21Z", 
+        "sw_latitude": 46.438, 
         "fullname": "Canton de Fribourg, Canton of Fribourg, Switzerland"
       }, 
       "id": 2347088

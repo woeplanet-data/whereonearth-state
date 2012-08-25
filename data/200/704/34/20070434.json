@@ -40,6 +40,7 @@
           56190210
         ], 
         "name": "Mbarara", 
+        "ne_latitude": 0.213, 
         "hierarchy": [
           "woe:state=20070434", 
           "woe:country=23424974", 
@@ -49,9 +50,8 @@
         "ne_longitude": 31.262, 
         "longitude": 30.433, 
         "placetype": "state", 
-        "latitude": -0.636, 
         "iso": "UG", 
-        "sw_latitude": -1.077, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
         "adjacent": [
           "woe:state=20070414", 
           "woe:state=56190204", 
@@ -60,10 +60,15 @@
           "woe:state=20070440"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 0.213, 
+        "latitude": -0.636, 
         "sw_longitude": 30.239, 
         "fullname": "Mbarara, Uganda", 
-        "date_indexed": "2010-12-02T10:22:38Z"
+        "children": [
+          "woe:county=56190355", 
+          "woe:county=56190356", 
+          "woe:county=56190357"
+        ], 
+        "sw_latitude": -1.077
       }, 
       "id": 20070434
     }

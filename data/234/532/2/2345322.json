@@ -39,32 +39,42 @@
           2346414
         ], 
         "name": "St. Laurent du Maroni", 
+        "ne_latitude": 5.776, 
         "hierarchy": [
           "woe:state=2345322", 
           "woe:country=23424811", 
           "woe:planet=1"
         ], 
         "woeid": 2345322, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -52.936, 
         "longitude": -53.739, 
         "placetype": "state", 
-        "latitude": 3.952, 
+        "alias_FRE_V": [
+          "St Laurent du Maroni"
+        ], 
         "iso": "GF", 
-        "sw_latitude": 2.127, 
+        "date_indexed": "2010-12-02T08:59:07Z", 
         "adjacent": [
           "woe:state=2344846", 
           "woe:state=2345321", 
           "woe:state=2346409", 
           "woe:state=2346414"
         ], 
-        "ne_latitude": 5.776, 
-        "alias_FRE_V": [
-          "St Laurent du Maroni"
-        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 3.952, 
         "sw_longitude": -54.543, 
         "fullname": "St. Laurent du Maroni, French Guiana", 
-        "date_indexed": "2010-12-02T08:59:07Z"
+        "children": [
+          "woe:county=55998446", 
+          "woe:county=55998433", 
+          "woe:county=55998434", 
+          "woe:county=55998449", 
+          "woe:county=55998435", 
+          "woe:county=55998447", 
+          "woe:county=55998440", 
+          "woe:county=55998451"
+        ], 
+        "sw_latitude": 2.127
       }, 
       "id": 2345322
     }

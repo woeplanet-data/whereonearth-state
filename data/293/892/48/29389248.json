@@ -31,15 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FIN", 
-        "adjacent_woeid": [
-          29389249, 
-          29389250, 
-          29389252, 
-          29389255, 
-          29389256, 
-          29389258
-        ], 
         "alias_SWE_V": [
           "Birkaland"
         ], 
@@ -55,19 +46,55 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 62.494, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 24.97, 
-        "longitude": 23.752, 
         "placetype": "state", 
+        "children": [
+          "woe:historicalcounty=12590665", 
+          "woe:historicalcounty=12590674", 
+          "woe:historicalcounty=12590673", 
+          "woe:historicalcounty=12590975", 
+          "woe:historicalcounty=12590983", 
+          "woe:historicalcounty=12590694", 
+          "woe:historicalcounty=12590695", 
+          "woe:historicalcounty=12590902", 
+          "woe:landfeature=29358091", 
+          "woe:colloquial=29389307", 
+          "woe:colloquial=29389330", 
+          "woe:colloquial=29389332", 
+          "woe:colloquial=29389333", 
+          "woe:colloquial=29389338", 
+          "woe:county=56120848", 
+          "woe:county=56120858", 
+          "woe:county=56120868", 
+          "woe:county=56120870", 
+          "woe:county=56120887", 
+          "woe:county=56120891", 
+          "woe:drainage=29354045", 
+          "woe:drainage=29354074", 
+          "woe:drainage=29354436", 
+          "woe:drainage=29354532", 
+          "woe:drainage=29355019", 
+          "woe:drainage=29355483", 
+          "woe:drainage=29355661", 
+          "woe:drainage=29355529", 
+          "woe:drainage=29355979", 
+          "woe:drainage=29356115", 
+          "woe:drainage=29356294", 
+          "woe:drainage=29356573", 
+          "woe:drainage=29356600", 
+          "woe:drainage=29356174", 
+          "woe:drainage=29356711", 
+          "woe:drainage=29356804", 
+          "woe:drainage=29358010", 
+          "woe:drainage=29357765"
+        ], 
+        "woeid": 29389248, 
         "sw_longitude": 22.533, 
-        "date_indexed": "2010-12-02T16:39:41Z", 
         "alias_FIN_V": [
           "Pirkanmaan maakuntana"
         ], 
-        "woeid": 29389248, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 61.717, 
-        "iso": "FI", 
-        "fullname": "Pirkanmaan maakunta, Western Finland, Pirkanmaan maakunta, Finland", 
+        "sw_latitude": 60.94, 
         "adjacent": [
           "woe:state=29389256", 
           "woe:state=29389249", 
@@ -76,8 +103,21 @@
           "woe:state=29389252", 
           "woe:state=29389250"
         ], 
-        "sw_latitude": 60.94, 
-        "name": "Pirkanmaan maakunta"
+        "lang": "FIN", 
+        "adjacent_woeid": [
+          29389249, 
+          29389250, 
+          29389252, 
+          29389255, 
+          29389256, 
+          29389258
+        ], 
+        "name": "Pirkanmaan maakunta", 
+        "ne_longitude": 24.97, 
+        "longitude": 23.752, 
+        "iso": "FI", 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "fullname": "Pirkanmaan maakunta, Western Finland, Pirkanmaan maakunta, Finland"
       }, 
       "id": 29389248
     }

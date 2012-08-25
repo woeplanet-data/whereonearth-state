@@ -38,6 +38,7 @@
           24550846, 
           24550855
         ], 
+        "ne_latitude": 41.278, 
         "name": "Ohrid", 
         "alias_ENG_P": [
           "Ohrid Municipality"
@@ -54,9 +55,8 @@
         "longitude": 20.844, 
         "ne_longitude": 20.993, 
         "placetype": "state", 
-        "latitude": 41.093, 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 40.908, 
         "adjacent": [
           "woe:state=24550746", 
           "woe:state=24550759", 
@@ -64,10 +64,17 @@
           "woe:state=24550846"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.278, 
+        "latitude": 41.093, 
         "sw_longitude": 20.695, 
         "fullname": "Ohrid, Ohrid Municipality, Macedonia", 
-        "sw_latitude": 40.908
+        "children": [
+          "woe:town=481734", 
+          "woe:town=482326", 
+          "woe:town=482645", 
+          "woe:town=482721", 
+          "woe:town=55856836"
+        ], 
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550834
     }

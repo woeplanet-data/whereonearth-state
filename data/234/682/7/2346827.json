@@ -41,21 +41,19 @@
           2346829
         ], 
         "name": "Patillas", 
+        "ne_latitude": 18.11, 
         "hierarchy": [
           "woe:state=2346827", 
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
         "woeid": 2346827, 
-        "alias_SPA_V": [
-          "Patillas Municipios"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -65.909, 
         "longitude": -65.999, 
         "placetype": "state", 
-        "latitude": 18.039, 
         "sw_longitude": -66.089, 
-        "sw_latitude": 17.968, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "adjacent": [
           "woe:state=2346828", 
           "woe:state=2346792", 
@@ -64,11 +62,31 @@
           "woe:state=2346806", 
           "woe:state=2346825"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.11, 
+        "alias_SPA_V": [
+          "Patillas Municipios"
+        ], 
+        "latitude": 18.039, 
         "iso": "PR", 
         "fullname": "Patillas, Puerto Rico", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "children": [
+          "woe:county=26806571", 
+          "woe:county=26806572", 
+          "woe:county=26806573", 
+          "woe:county=26806574", 
+          "woe:county=26806575", 
+          "woe:county=26806576", 
+          "woe:county=26806577", 
+          "woe:county=26806578", 
+          "woe:county=26806579", 
+          "woe:county=26806580", 
+          "woe:county=26806581", 
+          "woe:county=26806582", 
+          "woe:county=26806583", 
+          "woe:county=26806584", 
+          "woe:county=26806585", 
+          "woe:county=26806586"
+        ], 
+        "sw_latitude": 17.968
       }, 
       "id": 2346827
     }

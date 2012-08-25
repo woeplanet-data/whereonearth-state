@@ -34,8 +34,8 @@
         "alias_ENG_V": [
           "The Ocean State"
         ], 
-        "alias_KOR_Q": [
-          "\ub85c\ub4dc\uc544\uc77c\ub79c\ub4dc"
+        "alias_ENG_A": [
+          "RI"
         ], 
         "hierarchy": [
           "woe:state=2347598", 
@@ -44,8 +44,15 @@
         ], 
         "ne_latitude": 42.019, 
         "placetype": "state", 
-        "alias_ENG_A": [
-          "RI"
+        "alias_KOR_Q": [
+          "\ub85c\ub4dc\uc544\uc77c\ub79c\ub4dc"
+        ], 
+        "children": [
+          "woe:county=12589795", 
+          "woe:county=12589796", 
+          "woe:county=12589797", 
+          "woe:county=12589798", 
+          "woe:county=12589799"
         ], 
         "alias_CHI_Q": [
           "\u7f57\u5fb7\u5c9b"
@@ -64,7 +71,7 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.661, 
-        "sw_latitude": 41.146, 
+        "date_indexed": "2010-12-02T18:21:30Z", 
         "lang": "ENG", 
         "adjacent_woeid": [
           2347565, 
@@ -74,7 +81,7 @@
         "ne_longitude": -71.121, 
         "longitude": -71.556, 
         "iso": "US", 
-        "date_indexed": "2010-12-02T18:21:30Z", 
+        "sw_latitude": 41.146, 
         "fullname": "Rhode Island, United States"
       }, 
       "id": 2347598

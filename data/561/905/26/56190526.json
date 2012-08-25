@@ -11,14 +11,15 @@
           56190555
         ], 
         "name": "Rug\u0105ju Novads", 
-        "alias_UNK_S": [
-          "Rugaju Novads"
-        ], 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=56190526", 
           "woe:country=23424874", 
           "woe:planet=1"
+        ], 
+        "woeid": 56190526, 
+        "placetype": "state", 
+        "alias_UNK_S": [
+          "Rugaju Novads"
         ], 
         "iso": "LV", 
         "adjacent": [
@@ -27,7 +28,10 @@
           "woe:state=56190587"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "woeid": 56190526, 
+        "children": [
+          "woe:county=55844576", 
+          "woe:county=55844495"
+        ], 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 56190526

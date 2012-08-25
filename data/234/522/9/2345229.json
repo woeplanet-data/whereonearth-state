@@ -50,10 +50,10 @@
         "woeid": 2345229, 
         "ne_longitude": 32.449, 
         "longitude": 32.248, 
+        "ne_latitude": 31.201, 
         "placetype": "state", 
-        "latitude": 30.728, 
         "iso": "EG", 
-        "sw_latitude": 30.256, 
+        "date_indexed": "2010-12-02T12:16:45Z", 
         "adjacent": [
           "woe:state=2345237", 
           "woe:state=2345236", 
@@ -61,10 +61,24 @@
           "woe:state=2345248"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 31.201, 
+        "latitude": 30.728, 
         "sw_longitude": 31.712, 
         "fullname": "Al Isma'iliyah, Egypt", 
-        "date_indexed": "2010-12-02T12:16:45Z"
+        "children": [
+          "woe:town=1521109", 
+          "woe:town=1521600", 
+          "woe:town=1522988", 
+          "woe:town=1522989", 
+          "woe:town=1522992", 
+          "woe:town=1523677", 
+          "woe:town=1525449", 
+          "woe:town=1525450", 
+          "woe:town=56123242", 
+          "woe:town=1526202", 
+          "woe:town=1526204", 
+          "woe:airport=12512657"
+        ], 
+        "sw_latitude": 30.256
       }, 
       "id": 2345229
     }

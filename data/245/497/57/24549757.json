@@ -44,22 +44,28 @@
           "woe:planet=1"
         ], 
         "woeid": 24549757, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.236, 
         "longitude": 45.209, 
         "placetype": "state", 
+        "latitude": -12.779, 
         "iso": "YT", 
-        "date_indexed": "2010-12-02T16:11:57Z", 
+        "sw_latitude": -12.815, 
         "adjacent": [
           "woe:state=24549752", 
           "woe:state=24549751", 
           "woe:state=24549759"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": -12.752, 
-        "latitude": -12.779, 
         "sw_longitude": 45.182, 
         "fullname": "Mamoudzou, Mayotte", 
-        "sw_latitude": -12.815
+        "children": [
+          "woe:town=1365571", 
+          "woe:town=56122358", 
+          "woe:town=1365572", 
+          "woe:island=12465387"
+        ], 
+        "date_indexed": "2010-12-02T16:11:57Z"
       }, 
       "id": 24549757
     }

@@ -36,21 +36,20 @@
           2344975, 
           2344982
         ], 
-        "ne_latitude": -4.227, 
-        "name": "Brazzaville", 
-        "adjacent": [
-          "woe:state=2344982", 
-          "woe:state=2344975"
+        "alias_KOR_Q": [
+          "\ube0c\ub77c\uc790\ube4c"
         ], 
+        "name": "Brazzaville", 
         "hierarchy": [
           "woe:state=2344976", 
           "woe:country=23424779", 
           "woe:planet=1"
         ], 
-        "woeid": 2344976, 
+        "ne_latitude": -4.227, 
         "alias_JPN_Q": [
           "\u30d6\u30e9\u30b6\u30d3\u30eb"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.322, 
         "longitude": 15.276, 
         "alias_CHI_Q": [
@@ -58,15 +57,19 @@
         ], 
         "placetype": "state", 
         "iso": "CG", 
-        "sw_latitude": -4.325, 
-        "alias_KOR_Q": [
-          "\ube0c\ub77c\uc790\ube4c"
+        "date_indexed": "2010-12-02T18:21:30Z", 
+        "adjacent": [
+          "woe:state=2344982", 
+          "woe:state=2344975"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2344976, 
         "latitude": -4.276, 
         "sw_longitude": 15.231, 
         "fullname": "Brazzaville, Congo", 
-        "date_indexed": "2010-12-02T18:21:30Z"
+        "children": [
+          "woe:county=55998432"
+        ], 
+        "sw_latitude": -4.325
       }, 
       "id": 2344976
     }

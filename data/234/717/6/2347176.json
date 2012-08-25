@@ -52,10 +52,10 @@
         "woeid": 2347176, 
         "ne_longitude": 100.069, 
         "longitude": 99.616, 
+        "ne_latitude": 13.944, 
         "placetype": "state", 
-        "latitude": 13.546, 
         "iso": "TH", 
-        "sw_latitude": 13.149, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "adjacent": [
           "woe:state=2347174", 
           "woe:state=2347177", 
@@ -65,10 +65,22 @@
           "woe:state=2344821"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.944, 
+        "latitude": 13.546, 
         "sw_longitude": 99.163, 
         "fullname": "Ratchaburi, Thailand", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "children": [
+          "woe:county=28341549", 
+          "woe:county=28341551", 
+          "woe:county=28341556", 
+          "woe:county=28341552", 
+          "woe:county=28341553", 
+          "woe:county=28341550", 
+          "woe:county=28341554", 
+          "woe:county=28341555", 
+          "woe:county=28341547", 
+          "woe:county=28341548"
+        ], 
+        "sw_latitude": 13.149
       }, 
       "id": 2347176
     }
