@@ -13,10 +13,15 @@ The longer version
 
 It's still a bit of a moving target, specifically formatting and normalizing ket
 names in the `properties` hash. For example, all the NE property keys are
-prefixed with `ne:`. Most but not all the records have NE geometries associated
-with them.
+prefixed with `ne:`.
 
-Suggestions and gentle cluebats are absolutely welcome.
+Currently only about half the total number of WOE records have NE geometries
+associated with them. Some of that is simply because the WOE ID for a name (and
+ISO code) for a region in NE was not able to be derived using the Flickr
+geocoder.
+
+The list of regions that still need to be geocoded is located in
+`meta/states-needs-woeid.csv`.
 
 The long version
 --
