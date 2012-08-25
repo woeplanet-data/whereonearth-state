@@ -41,18 +41,17 @@
           20070150
         ], 
         "name": "Katsina", 
-        "ne_latitude": 13.34, 
         "hierarchy": [
           "woe:state=2346352", 
           "woe:country=23424908", 
           "woe:planet=1"
         ], 
-        "woeid": 2346352, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 8.981, 
         "longitude": 7.486, 
         "placetype": "state", 
         "iso": "NG", 
-        "date_indexed": "2010-12-02T09:34:55Z", 
+        "sw_latitude": 11.072, 
         "adjacent": [
           "woe:state=2346367", 
           "woe:state=2346351", 
@@ -61,7 +60,7 @@
           "woe:state=20070150", 
           "woe:state=2346330"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.34, 
         "latitude": 12.206, 
         "sw_longitude": 6.861, 
         "fullname": "Katsina, Nigeria", 
@@ -101,7 +100,8 @@
           "woe:county=56057765", 
           "woe:county=56057766"
         ], 
-        "sw_latitude": 11.072
+        "date_indexed": "2010-12-02T09:34:55Z", 
+        "woe:id": 2346352
       }, 
       "id": 2346352
     }

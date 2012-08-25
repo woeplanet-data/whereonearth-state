@@ -31,19 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2344866, 
-          2345603, 
-          2345604, 
-          2347677, 
-          2347678, 
-          2347679, 
-          2347685, 
-          2347688, 
-          2347692
-        ], 
-        "name": "Bol\u00edvar", 
         "alias_ENG_P": [
           "Bolivar"
         ], 
@@ -52,17 +39,25 @@
           "woe:country=23424982", 
           "woe:planet=1"
         ], 
-        "woeid": 2347682, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -60.263, 
-        "longitude": -63.864, 
         "ne_latitude": 8.467, 
         "placetype": "state", 
+        "children": [
+          "woe:county=26804581", 
+          "woe:county=26804546", 
+          "woe:county=26804571", 
+          "woe:county=26804568", 
+          "woe:county=26804567", 
+          "woe:county=26804440", 
+          "woe:county=26804699", 
+          "woe:county=26804566", 
+          "woe:county=26804570", 
+          "woe:county=26804569", 
+          "woe:county=26804547"
+        ], 
         "alias_SPA_S": [
           "Ciudad Bolivar"
         ], 
         "sw_longitude": -67.465, 
-        "date_indexed": "2010-12-02T16:11:23Z", 
         "adjacent": [
           "woe:state=2347677", 
           "woe:state=2347678", 
@@ -78,22 +73,27 @@
           "Ciudad Bol\u00edvar"
         ], 
         "latitude": 6.071, 
-        "iso": "VE", 
-        "fullname": "Bol\u00edvar, Bolivar, Venezuela", 
-        "children": [
-          "woe:county=26804581", 
-          "woe:county=26804546", 
-          "woe:county=26804571", 
-          "woe:county=26804568", 
-          "woe:county=26804567", 
-          "woe:county=26804440", 
-          "woe:county=26804699", 
-          "woe:county=26804566", 
-          "woe:county=26804570", 
-          "woe:county=26804569", 
-          "woe:county=26804547"
+        "woe:id": 2347682, 
+        "sw_latitude": 3.674, 
+        "provider": "geoplanet 7.6.0", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2344866, 
+          2345603, 
+          2345604, 
+          2347677, 
+          2347678, 
+          2347679, 
+          2347685, 
+          2347688, 
+          2347692
         ], 
-        "sw_latitude": 3.674
+        "name": "Bol\u00edvar", 
+        "ne_longitude": -60.263, 
+        "longitude": -63.864, 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "fullname": "Bol\u00edvar, Bolivar, Venezuela"
       }, 
       "id": 2347682
     }

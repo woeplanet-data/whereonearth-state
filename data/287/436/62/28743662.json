@@ -32,7 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "ne_latitude": -21.783, 
         "name": "Australes", 
         "alias_ENG_P": [
           "Austral Islands"
@@ -42,13 +41,13 @@
           "woe:country=23424817", 
           "woe:planet=1"
         ], 
-        "woeid": 28743662, 
+        "ne_latitude": -21.783, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -143.183, 
         "longitude": -143.298, 
         "placetype": "state", 
         "iso": "PF", 
-        "sw_latitude": -27.923, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:05:43Z", 
         "latitude": -27.874, 
         "sw_longitude": -154.7, 
         "fullname": "Australes, Austral Islands, French Polynesia", 
@@ -61,7 +60,8 @@
           "woe:island=12490326", 
           "woe:island=12490400"
         ], 
-        "date_indexed": "2010-12-02T17:05:43Z"
+        "sw_latitude": -27.923, 
+        "woe:id": 28743662
       }, 
       "id": 28743662
     }

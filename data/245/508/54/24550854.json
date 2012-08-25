@@ -31,45 +31,45 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Pehcevo Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550854", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 41.904, 
+        "ne_longitude": 23.038, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=482712"
+        ], 
+        "sw_longitude": 22.762, 
+        "adjacent": [
+          "woe:state=24550826", 
+          "woe:state=24550838"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.827, 
+        "woe:id": 24550854, 
+        "sw_latitude": 41.689, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550826, 
           24550838
         ], 
         "name": "Peh\u010devo", 
-        "alias_ENG_P": [
-          "Pehcevo Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Pehcevo"
-        ], 
-        "woeid": 24550854, 
-        "children": [
-          "woe:town=482712"
         ], 
         "alias_UNK_V": [
           "Opstina Peh\u010devo"
         ], 
         "longitude": 22.898, 
-        "ne_longitude": 23.038, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550854", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550826", 
-          "woe:state=24550838"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.904, 
-        "sw_longitude": 22.762, 
-        "latitude": 41.827, 
-        "fullname": "Peh\u010devo, Pehcevo Municipality, Macedonia", 
-        "sw_latitude": 41.689
+        "fullname": "Peh\u010devo, Pehcevo Municipality, Macedonia"
       }, 
       "id": 24550854
     }

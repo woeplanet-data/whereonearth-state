@@ -2619,7 +2619,7 @@
         "ne:Shape_Area": 28.2310114875, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18530302", 
         "alias_ENG_A": [
           "Ore"
         ], 
@@ -2688,7 +2688,7 @@
           "\u4fc4\u52d2\u5188"
         ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:OBJECTID": 3525, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30aa\u30ec\u30b4\u30f3"
         ], 
@@ -2710,9 +2710,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 41.9995402205048, 
-        "ne:VertexCou": 646.0, 
-        "ne:VALIDFR_1": "18530302", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3525, 
         "ne:Postal": "OR", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "OR|Ore.", 
@@ -2728,15 +2728,15 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 251792.6, 
         "woe:id": "2347596", 
-        "ne:HASC_1": "US.OR", 
-        "lang": "ENG", 
+        "name": "Oregon", 
+        "ne:VertexCou": 646.0, 
         "adjacent_woeid": [
           2347563, 
           2347571, 
           2347587, 
           2347606
         ], 
-        "name": "Oregon", 
+        "ne:HASC_1": "US.OR", 
         "ne:REMARKS_1": null, 
         "ne:TYPE_1": "State", 
         "ne_longitude": -116.45499882233776, 

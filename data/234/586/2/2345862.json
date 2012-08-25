@@ -1078,7 +1078,7 @@
         "ne:Shape_Area": 0.819734151676, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
         "children": [
@@ -1149,7 +1149,7 @@
           "woe:town=28379371", 
           "woe:town=1118294"
         ], 
-        "ne:OBJECTID": 1849, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5175\u5eab"
         ], 
@@ -1170,9 +1170,9 @@
         "ne:FIRST_HASC": "JP.KM", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 34.19496735256132, 
-        "ne:VertexCou": 259.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1849, 
         "ne:Postal": "HG", 
         "ne:Region_Cod": "JPN-KIN", 
         "ne:VARNAME_1": "Hiogo", 
@@ -1188,8 +1188,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 8298.3, 
         "woe:id": "2345862", 
-        "ne:HASC_1": "JP.HG", 
-        "lang": "JPN", 
+        "name": "\u5175\u5eab\u770c", 
+        "ne:VertexCou": 259.0, 
         "adjacent_woeid": [
           2345871, 
           2345880, 
@@ -1197,7 +1197,7 @@
           2345888, 
           2345890
         ], 
-        "name": "\u5175\u5eab\u770c", 
+        "ne:HASC_1": "JP.HG", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 135.44850792859813, 
         "longitude": 134.861, 

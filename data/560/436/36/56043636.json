@@ -45,12 +45,9 @@
         "ne_latitude": 48.039, 
         "ne_longitude": 21.844, 
         "longitude": 21.701, 
-        "children": [
-          "woe:county=12593479"
-        ], 
         "placetype": "state", 
         "iso": "HU", 
-        "sw_latitude": 47.846, 
+        "date_indexed": "2010-12-02T09:55:38Z", 
         "adjacent": [
           "woe:state=12577919", 
           "woe:state=12577925"
@@ -62,8 +59,11 @@
         "alias_HUN_S": [
           "Nyiregyhaza"
         ], 
-        "woeid": 56043636, 
-        "date_indexed": "2010-12-02T09:55:38Z"
+        "children": [
+          "woe:county=12593479"
+        ], 
+        "sw_latitude": 47.846, 
+        "woe:id": 56043636
       }, 
       "id": 56043636
     }

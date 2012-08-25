@@ -49,13 +49,12 @@
           "woe:country=23424984", 
           "woe:planet=1"
         ], 
-        "woeid": 20070083, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.212, 
         "longitude": 105.85, 
-        "ne_latitude": 22.078, 
         "placetype": "state", 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 21.324, 
         "adjacent": [
           "woe:state=20070087", 
           "woe:state=20070084", 
@@ -64,7 +63,7 @@
           "woe:state=2347751", 
           "woe:state=20070090"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 22.078, 
         "latitude": 21.701, 
         "sw_longitude": 105.487, 
         "fullname": "Thai Nguyen, Vietnam", 
@@ -94,7 +93,8 @@
           "woe:town=56123829", 
           "woe:town=56124787"
         ], 
-        "sw_latitude": 21.324
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "woe:id": 20070083
       }, 
       "id": 20070083
     }

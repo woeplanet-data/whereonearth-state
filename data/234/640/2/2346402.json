@@ -1414,7 +1414,7 @@
         "ne:Shape_Area": 1.15557562124, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 12, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NOR", 
         "children": [
@@ -1449,7 +1449,7 @@
           "woe:drainage=29361889", 
           "woe:drainage=29361968"
         ], 
-        "ne:OBJECTID": 916, 
+        "ne:DataRank": 7, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 6.389098748108779, 
@@ -1464,9 +1464,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 57.99330801085608, 
-        "ne:VertexCou": 350.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "NOR", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 916, 
         "ne:Postal": "VA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Vest-Agder fylke|Lister og Mandal|Vestur-Ag\u00f0ir", 
@@ -1482,13 +1482,13 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 7505.1, 
         "woe:id": "2346402", 
-        "ne:HASC_1": "NO.VA", 
-        "lang": "NOR", 
+        "name": "Vest-Agder Fylke", 
+        "ne:VertexCou": 350.0, 
         "adjacent_woeid": [
           2346386, 
           2346397
         ], 
-        "name": "Vest-Agder Fylke", 
+        "ne:HASC_1": "NO.VA", 
         "ne:REMARKS_1": null, 
         "alias_NOR_V": [
           "Vest-Agder"

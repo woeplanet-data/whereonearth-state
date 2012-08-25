@@ -37,23 +37,22 @@
           20069844
         ], 
         "name": "Karas", 
-        "ne_latitude": -25.009, 
         "hierarchy": [
           "woe:state=20069838", 
           "woe:country=23424987", 
           "woe:planet=1"
         ], 
-        "woeid": 20069838, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.012, 
         "longitude": 17.407, 
         "placetype": "state", 
         "iso": "NA", 
-        "date_indexed": "2010-12-02T07:50:17Z", 
+        "sw_latitude": -28.97, 
         "adjacent": [
           "woe:state=20069844", 
           "woe:state=2346985"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -25.009, 
         "latitude": -26.99, 
         "sw_longitude": 14.801, 
         "fullname": "Karas, Namibia", 
@@ -65,7 +64,8 @@
           "woe:county=55921183", 
           "woe:county=55921123"
         ], 
-        "sw_latitude": -28.97
+        "date_indexed": "2010-12-02T07:50:17Z", 
+        "woe:id": 20069838
       }, 
       "id": 20069838
     }

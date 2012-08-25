@@ -36,22 +36,21 @@
           2347284
         ], 
         "name": "Kilis", 
-        "ne_latitude": 37.045, 
         "hierarchy": [
           "woe:state=20070285", 
           "woe:country=23424969", 
           "woe:planet=1"
         ], 
-        "woeid": 20070285, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 37.587, 
         "longitude": 37.139, 
         "placetype": "state", 
         "iso": "TR", 
-        "date_indexed": "2010-12-02T16:22:51Z", 
+        "sw_latitude": 36.631, 
         "adjacent": [
           "woe:state=2347284"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 37.045, 
         "latitude": 36.838, 
         "sw_longitude": 36.691, 
         "fullname": "Kilis, Turkey", 
@@ -61,7 +60,8 @@
           "woe:county=29390644", 
           "woe:county=29390697"
         ], 
-        "sw_latitude": 36.631
+        "date_indexed": "2010-12-02T16:22:51Z", 
+        "woe:id": 20070285
       }, 
       "id": 20070285
     }

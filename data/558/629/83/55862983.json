@@ -31,11 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          56120062
-        ], 
-        "name": "Ceuta", 
         "alias_ENG_P": [
           "Ceuta Province"
         ], 
@@ -45,30 +40,35 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 35.918, 
-        "alias_SPA_V": [
-          "Ciudad Aut\u00f3noma de Ceuta"
-        ], 
-        "ne_longitude": -5.278, 
-        "longitude": -5.33, 
+        "placetype": "state", 
         "children": [
           "woe:county=12602097", 
           "woe:island=12478585"
         ], 
-        "placetype": "state", 
         "alias_SPA_S": [
           "Ciudad Autonoma de Ceuta"
         ], 
         "sw_longitude": -5.382, 
-        "sw_latitude": 35.872, 
         "adjacent": [
           "woe:state=56120062"
         ], 
-        "woeid": 55862983, 
-        "latitude": 35.895, 
-        "iso": "ES", 
-        "fullname": "Ceuta, Ceuta Province, Spain", 
         "provider": "geoplanet 7.6.0", 
-        "date_indexed": "2010-12-02T17:07:37Z"
+        "latitude": 35.895, 
+        "woe:id": 55862983, 
+        "date_indexed": "2010-12-02T17:07:37Z", 
+        "alias_SPA_V": [
+          "Ciudad Aut\u00f3noma de Ceuta"
+        ], 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          56120062
+        ], 
+        "name": "Ceuta", 
+        "ne_longitude": -5.278, 
+        "longitude": -5.33, 
+        "iso": "ES", 
+        "sw_latitude": 35.872, 
+        "fullname": "Ceuta, Ceuta Province, Spain"
       }, 
       "id": 55862983
     }

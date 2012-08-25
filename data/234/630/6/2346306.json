@@ -2160,7 +2160,7 @@
         "ne:Shape_Area": 0.62862498652, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 6, 
+        "ne:VALIDFR_1": "19740201", 
         "alias_KOR_Q": [
           "\uc140\ub791\uace0\ub974"
         ], 
@@ -2182,7 +2182,7 @@
         "alias_CHI_Q": [
           "\u9a6c\u6765\u897f\u4e9a"
         ], 
-        "ne:OBJECTID": 1148, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30bb\u30e9\u30f3\u30b4\u30fc\u30eb\u5dde"
         ], 
@@ -2203,9 +2203,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 2.595965888015371, 
-        "ne:VertexCou": 526.0, 
-        "ne:VALIDFR_1": "19740201", 
-        "ne:DataRank": 6, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 6, 
+        "ne:OBJECTID": 1148, 
         "ne:Postal": "SL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Selangor Darul Ehsan", 
@@ -2221,8 +2221,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 7725.3, 
         "woe:id": "2346306", 
-        "ne:HASC_1": "MY.SL", 
-        "lang": "UNK", 
+        "name": "Selangor", 
+        "ne:VertexCou": 526.0, 
         "adjacent_woeid": [
           2346300, 
           2346301, 
@@ -2230,7 +2230,7 @@
           28350159, 
           56014685
         ], 
-        "name": "Selangor", 
+        "ne:HASC_1": "MY.SL", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 101.96450524312252, 
         "longitude": 101.378, 

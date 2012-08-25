@@ -1046,7 +1046,7 @@
         "ne:Shape_Area": 1.06503764363, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uae30\ud6c4\ucf04"
         ], 
@@ -1104,7 +1104,7 @@
         "alias_CHI_Q": [
           "\u5c90\u961c\u53bf"
         ], 
-        "ne:OBJECTID": 1841, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5c90\u961c"
         ], 
@@ -1132,9 +1132,9 @@
         "ne:FIRST_HASC": "JP.AI", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 253.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1841, 
         "ne:Postal": "GF", 
         "ne:Region_Cod": "JPN-CHB", 
         "ne:VARNAME_1": "Gihu", 
@@ -1153,8 +1153,8 @@
           "Pr\u00e4fektur Gifu"
         ], 
         "woe:id": "2345859", 
-        "ne:HASC_1": "JP.GF", 
-        "lang": "JPN", 
+        "name": "\u5c90\u961c\u770c", 
+        "ne:VertexCou": 253.0, 
         "adjacent_woeid": [
           2345851, 
           2345856, 
@@ -1165,7 +1165,7 @@
           2345891
         ], 
         "ne:FIRST_FIPS": "JA01", 
-        "name": "\u5c90\u961c\u770c", 
+        "ne:HASC_1": "JP.GF", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 137.6244991399234, 
         "longitude": 136.965, 

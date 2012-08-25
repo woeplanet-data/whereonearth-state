@@ -40,18 +40,17 @@
           2346139
         ], 
         "name": "Illizi", 
-        "ne_latitude": 30.055, 
         "hierarchy": [
           "woe:state=2344616", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344616, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 11.708, 
         "longitude": 8.61, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 24.0, 
         "adjacent": [
           "woe:state=2346124", 
           "woe:state=2346135", 
@@ -59,7 +58,7 @@
           "woe:state=2344620", 
           "woe:state=2344623"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 30.055, 
         "latitude": 27.028, 
         "sw_longitude": 5.512, 
         "fullname": "Illizi, Algeria", 
@@ -75,7 +74,8 @@
           "woe:town=1257795", 
           "woe:town=1257992"
         ], 
-        "sw_latitude": 24.0
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344616
       }, 
       "id": 2344616
     }

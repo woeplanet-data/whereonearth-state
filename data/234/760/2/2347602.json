@@ -9561,7 +9561,7 @@
         "ne:Shape_Area": 65.1042667046, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18500909", 
         "alias_ENG_A": [
           "TX"
         ], 
@@ -9891,7 +9891,7 @@
           "\u5f97\u514b\u8428\u65af"
         ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:OBJECTID": 3536, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30c6\u30ad\u30b5\u30b9"
         ], 
@@ -9913,9 +9913,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 25.844242369090125, 
-        "ne:VertexCou": 2318.0, 
-        "ne:VALIDFR_1": "18500909", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3536, 
         "ne:Postal": "TX", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "TX|Tex.", 
@@ -9931,15 +9931,15 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 685284.7, 
         "woe:id": "2347602", 
-        "ne:HASC_1": "US.TX", 
-        "lang": "ENG", 
+        "name": "Texas", 
+        "ne:VertexCou": 2318.0, 
         "adjacent_woeid": [
           2347562, 
           2347577, 
           2347590, 
           2347595
         ], 
-        "name": "Texas", 
+        "ne:HASC_1": "US.TX", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -93.51476444712148, 
         "longitude": -100.077, 

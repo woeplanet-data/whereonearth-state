@@ -38,24 +38,23 @@
           12590644
         ], 
         "name": "Saltvik", 
-        "ne_latitude": 60.54, 
         "hierarchy": [
           "woe:state=12590641", 
           "woe:country=12577865", 
           "woe:planet=1"
         ], 
-        "woeid": 12590641, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.338, 
         "longitude": 20.068, 
         "placetype": "state", 
         "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
+        "sw_latitude": 60.232, 
         "adjacent": [
           "woe:state=12590631", 
           "woe:state=12590643", 
           "woe:state=12590644"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 60.54, 
         "latitude": 60.308, 
         "sw_longitude": 19.924, 
         "fullname": "Saltvik, Aland Islands", 
@@ -185,7 +184,8 @@
           "woe:island=24901509", 
           "woe:island=24901063"
         ], 
-        "sw_latitude": 60.232
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "woe:id": 12590641
       }, 
       "id": 12590641
     }

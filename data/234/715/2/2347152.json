@@ -51,13 +51,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347152, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 103.012, 
         "longitude": 102.097, 
-        "ne_latitude": 15.808, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 14.12, 
         "adjacent": [
           "woe:state=2347153", 
           "woe:state=2347151", 
@@ -68,7 +67,7 @@
           "woe:state=20069925", 
           "woe:state=2347162"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.808, 
         "latitude": 14.964, 
         "sw_longitude": 101.182, 
         "fullname": "Nakhon Ratchasima, Thailand", 
@@ -106,7 +105,8 @@
           "woe:county=28341293", 
           "woe:county=28341312"
         ], 
-        "sw_latitude": 14.12
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347152
       }, 
       "id": 2347152
     }

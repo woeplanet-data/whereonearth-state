@@ -32,20 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -5.642, 
         "name": "Nanumea", 
         "hierarchy": [
           "woe:state=24549924", 
           "woe:country=23424970", 
           "woe:planet=1"
         ], 
-        "woeid": 24549924, 
+        "ne_latitude": -5.642, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 176.15, 
         "longitude": 176.134, 
         "placetype": "state", 
         "iso": "TV", 
-        "sw_latitude": -5.709, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "latitude": -5.689, 
         "sw_longitude": 176.065, 
         "fullname": "Nanumea, Tuvalu", 
@@ -53,7 +52,8 @@
           "woe:island=12502333", 
           "woe:island=12502353"
         ], 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "sw_latitude": -5.709, 
+        "woe:id": 24549924
       }, 
       "id": 24549924
     }

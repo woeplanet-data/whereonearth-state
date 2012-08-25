@@ -31,6 +31,35 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Centrale Region"
+        ], 
+        "hierarchy": [
+          "woe:state=56048436", 
+          "woe:country=23424965", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 9.31, 
+        "placetype": "state", 
+        "children": [
+          "woe:county=56048450", 
+          "woe:county=56048449", 
+          "woe:county=56048451", 
+          "woe:county=56048452"
+        ], 
+        "sw_longitude": 0.382, 
+        "adjacent": [
+          "woe:state=55967670", 
+          "woe:state=55967671", 
+          "woe:state=56048435", 
+          "woe:state=2345467", 
+          "woe:state=56048438", 
+          "woe:state=2345468"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 8.606, 
+        "woe:id": 56048436, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "lang": "FRE", 
         "adjacent_woeid": [
           2345467, 
@@ -41,46 +70,17 @@
           56048438
         ], 
         "name": "Centre", 
-        "alias_ENG_P": [
-          "Centrale Region"
-        ], 
-        "hierarchy": [
-          "woe:state=56048436", 
-          "woe:country=23424965", 
-          "woe:planet=1"
-        ], 
-        "woeid": 56048436, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 1.65, 
         "longitude": 1.016, 
-        "children": [
-          "woe:county=56048450", 
-          "woe:county=56048449", 
-          "woe:county=56048451", 
-          "woe:county=56048452"
-        ], 
-        "placetype": "state", 
-        "latitude": 8.606, 
         "iso": "TG", 
         "sw_latitude": 7.902, 
-        "adjacent": [
-          "woe:state=55967670", 
-          "woe:state=55967671", 
-          "woe:state=56048435", 
-          "woe:state=2345467", 
-          "woe:state=56048438", 
-          "woe:state=2345468"
-        ], 
-        "ne_latitude": 9.31, 
         "alias_FRE_V": [
           "R\u00e9gion Centrale"
         ], 
-        "sw_longitude": 0.382, 
         "fullname": "Centre, Centrale Region, Togo", 
         "alias_FRE_S": [
           "Region Centrale"
-        ], 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        ]
       }, 
       "id": 56048436
     }

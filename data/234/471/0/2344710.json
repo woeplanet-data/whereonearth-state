@@ -260,7 +260,6 @@
       "type": "Feature", 
       "properties": {
         "ne:ProvNumber": 1, 
-        "ne:ISO": "AUT", 
         "alias_SWE_Q": [
           "Nedre-\u00d6sterike"
         ], 
@@ -273,10 +272,13 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 48.330125230694875, 
+        "alias_GER_A": [
+          "N\u00f6"
+        ], 
         "ne:Shape_Area": 0.0496135799596, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1954", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "AUT", 
         "children": [
@@ -386,7 +388,7 @@
         "alias_ITA_Q": [
           "Bassa Austria"
         ], 
-        "ne:OBJECTID": 2331, 
+        "ne:DataRank": 7, 
         "alias_ENG_P": [
           "Lower Austria"
         ], 
@@ -421,15 +423,13 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T16:33:25Z", 
-        "ne:VertexCou": 61.0, 
-        "ne:VALIDFR_1": "1954", 
-        "ne:DataRank": 7, 
+        "lang": "GER", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 2331, 
         "ne:Postal": "WI", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Vienna|Viena", 
-        "alias_GER_A": [
-          "N\u00f6"
-        ], 
+        "ne:ISO": "AUT", 
         "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 1.0235340941, 
@@ -446,8 +446,8 @@
         "alias_GER_S": [
           "NO"
         ], 
-        "ne:HASC_1": "AT.WI", 
-        "lang": "GER", 
+        "name": "Nieder\u00f6sterreich", 
+        "ne:VertexCou": 61.0, 
         "adjacent_woeid": [
           2344708, 
           2344711, 
@@ -459,7 +459,7 @@
           20070505
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Nieder\u00f6sterreich", 
+        "ne:HASC_1": "AT.WI", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne:TYPE_1": "Bundesl\u00e4nd|L\u00e4nd", 

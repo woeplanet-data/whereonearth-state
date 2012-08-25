@@ -45,22 +45,6 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 50.632, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_UNK_V": [
-          "Kyyivs'ka mis'ka rada"
-        ], 
-        "longitude": 30.415, 
-        "ne_longitude": 30.83, 
-        "placetype": "state", 
-        "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "adjacent": [
-          "woe:state=2347545"
-        ], 
-        "woeid": 20070188, 
-        "latitude": 50.426, 
-        "sw_longitude": 30.0, 
-        "fullname": "Kyyiv Misto, Kiev City Municipality, Ukraine", 
         "children": [
           "woe:town=917485", 
           "woe:town=917529", 
@@ -75,7 +59,23 @@
           "woe:town=938439", 
           "woe:town=940256"
         ], 
-        "sw_latitude": 50.219
+        "alias_UNK_V": [
+          "Kyyivs'ka mis'ka rada"
+        ], 
+        "longitude": 30.415, 
+        "ne_longitude": 30.83, 
+        "placetype": "state", 
+        "iso": "UA", 
+        "sw_latitude": 50.219, 
+        "adjacent": [
+          "woe:state=2347545"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.426, 
+        "sw_longitude": 30.0, 
+        "fullname": "Kyyiv Misto, Kiev City Municipality, Ukraine", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "woe:id": 20070188
       }, 
       "id": 20070188
     }

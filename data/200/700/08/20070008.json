@@ -46,19 +46,18 @@
           "woe:country=23424930", 
           "woe:planet=1"
         ], 
-        "woeid": 20070008, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 51.647, 
         "longitude": 51.537, 
-        "ne_latitude": 25.421, 
         "placetype": "state", 
         "iso": "QA", 
-        "date_indexed": "2010-12-02T12:16:10Z", 
+        "sw_latitude": 25.225, 
         "adjacent": [
           "woe:state=20070010", 
           "woe:state=20070012", 
           "woe:state=20070007"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 25.421, 
         "latitude": 25.323, 
         "sw_longitude": 51.448, 
         "fullname": "Doha, Qatar", 
@@ -68,7 +67,8 @@
           "woe:island=55926193", 
           "woe:island=12468845"
         ], 
-        "sw_latitude": 25.225
+        "date_indexed": "2010-12-02T12:16:10Z", 
+        "woe:id": 20070008
       }, 
       "id": 20070008
     }

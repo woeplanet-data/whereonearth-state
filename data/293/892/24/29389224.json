@@ -31,51 +31,14 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "adjacent_woeid": [
-          29389199, 
-          29389207, 
-          29389210, 
-          29389214, 
-          29389216, 
-          29389221, 
-          29389225
-        ], 
-        "name": "Rashka", 
-        "ne_latitude": 43.915, 
-        "alias_UNK_S": [
-          "Raski Okrug"
-        ], 
-        "woeid": 29389224, 
-        "alias_UNK_Q": [
-          "Ra\u0161ki Okrug"
-        ], 
-        "alias_UNK_V": [
-          "Kraljevo"
-        ], 
-        "longitude": 20.51, 
-        "ne_longitude": 20.975, 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=29389224", 
           "woe:country=20069818", 
           "woe:planet=1"
         ], 
-        "iso": "RS", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
-        "adjacent": [
-          "woe:state=29389207", 
-          "woe:state=29389210", 
-          "woe:state=29389214", 
-          "woe:state=29389221", 
-          "woe:state=29389199", 
-          "woe:state=29389225", 
-          "woe:state=29389216"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 43.363, 
-        "sw_longitude": 20.027, 
-        "fullname": "Rashka, Serbia", 
+        "ne_latitude": 43.915, 
+        "ne_longitude": 20.975, 
+        "placetype": "state", 
         "children": [
           "woe:county=56072763", 
           "woe:county=56072766", 
@@ -109,7 +72,44 @@
           "woe:town=537460", 
           "woe:town=537608"
         ], 
-        "sw_latitude": 42.824
+        "sw_longitude": 20.027, 
+        "adjacent": [
+          "woe:state=29389207", 
+          "woe:state=29389210", 
+          "woe:state=29389214", 
+          "woe:state=29389221", 
+          "woe:state=29389199", 
+          "woe:state=29389225", 
+          "woe:state=29389216"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.363, 
+        "woe:id": 29389224, 
+        "sw_latitude": 42.824, 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          29389199, 
+          29389207, 
+          29389210, 
+          29389214, 
+          29389216, 
+          29389221, 
+          29389225
+        ], 
+        "name": "Rashka", 
+        "alias_UNK_S": [
+          "Raski Okrug"
+        ], 
+        "alias_UNK_Q": [
+          "Ra\u0161ki Okrug"
+        ], 
+        "alias_UNK_V": [
+          "Kraljevo"
+        ], 
+        "longitude": 20.51, 
+        "iso": "RS", 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "fullname": "Rashka, Serbia"
       }, 
       "id": 29389224
     }

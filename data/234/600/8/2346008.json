@@ -45,18 +45,17 @@
           20070161
         ], 
         "name": "Savannahkhet", 
-        "ne_latitude": 17.132, 
         "hierarchy": [
           "woe:state=2346008", 
           "woe:country=23424872", 
           "woe:planet=1"
         ], 
-        "woeid": 2346008, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 107.161, 
         "longitude": 105.95, 
         "placetype": "state", 
         "iso": "LA", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
+        "sw_latitude": 15.875, 
         "adjacent": [
           "woe:state=2347201", 
           "woe:state=20070161", 
@@ -69,7 +68,7 @@
           "woe:state=2347199", 
           "woe:state=20070158"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.132, 
         "latitude": 16.503, 
         "sw_longitude": 104.738, 
         "fullname": "Savannahkhet, Laos", 
@@ -116,7 +115,8 @@
           "woe:town=1140608", 
           "woe:town=56123598"
         ], 
-        "sw_latitude": 15.875
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "woe:id": 2346008
       }, 
       "id": 2346008
     }

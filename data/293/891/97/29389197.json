@@ -40,16 +40,15 @@
           29389222
         ], 
         "name": "Srednji Banat", 
-        "ne_latitude": 45.801, 
         "hierarchy": [
           "woe:state=29389197", 
           "woe:country=20069818", 
           "woe:planet=1"
         ], 
-        "woeid": 29389197, 
         "alias_UNK_Q": [
           "Srednje-Banatski Okrug"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Central Banat"
         ], 
@@ -57,7 +56,7 @@
         "ne_longitude": 21.029, 
         "placetype": "state", 
         "iso": "RS", 
-        "sw_latitude": 45.094, 
+        "date_indexed": "2010-12-02T10:22:30Z", 
         "adjacent": [
           "woe:state=29389217", 
           "woe:state=29389212", 
@@ -65,7 +64,7 @@
           "woe:state=29389203", 
           "woe:state=29389205"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 45.801, 
         "latitude": 45.446, 
         "sw_longitude": 20.045, 
         "fullname": "Srednji Banat, Serbia", 
@@ -106,7 +105,8 @@
           "woe:town=537799", 
           "woe:town=537757"
         ], 
-        "date_indexed": "2010-12-02T10:22:30Z"
+        "sw_latitude": 45.094, 
+        "woe:id": 29389197
       }, 
       "id": 29389197
     }

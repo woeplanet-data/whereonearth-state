@@ -38,13 +38,12 @@
           2345200
         ], 
         "name": "S\u00e1nchez Ramirez", 
-        "ne_latitude": 19.14, 
         "hierarchy": [
           "woe:state=2345190", 
           "woe:country=23424800", 
           "woe:planet=1"
         ], 
-        "woeid": 2345190, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -69.884, 
         "longitude": -70.134, 
         "placetype": "state", 
@@ -52,13 +51,13 @@
           "Sanchez Ramirez"
         ], 
         "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
+        "sw_latitude": 18.828, 
         "adjacent": [
           "woe:state=2345177", 
           "woe:state=2345199", 
           "woe:state=2345200"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.14, 
         "latitude": 18.984, 
         "sw_longitude": -70.383, 
         "fullname": "S\u00e1nchez Ramirez, Dominican Republic", 
@@ -66,7 +65,8 @@
           "woe:town=70047", 
           "woe:town=70200"
         ], 
-        "sw_latitude": 18.828
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "woe:id": 2345190
       }, 
       "id": 2345190
     }

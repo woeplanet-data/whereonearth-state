@@ -810,7 +810,7 @@
         "ne:Shape_Area": 2.02418925579, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
         "children": [
@@ -826,7 +826,7 @@
           "woe:county=29390950", 
           "woe:county=29390852"
         ], 
-        "ne:OBJECTID": 3017, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 37.8406156751733, 
@@ -843,9 +843,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 36.65967479115875, 
-        "ne:VertexCou": 192.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 3017, 
         "ne:Postal": "SU", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Sanliurfa|Urfa", 
@@ -861,15 +861,15 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 19930.2, 
         "woe:id": "2347314", 
-        "ne:HASC_1": "TR.SU", 
-        "lang": "UNK", 
+        "name": "\u015eanl\u0131urfa", 
+        "ne:VertexCou": 192.0, 
         "adjacent_woeid": [
           2347259, 
           2347278, 
           2347284, 
           2347322
         ], 
-        "name": "\u015eanl\u0131urfa", 
+        "ne:HASC_1": "TR.SU", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Sanliurfa"

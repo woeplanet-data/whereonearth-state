@@ -44,12 +44,9 @@
         "ne_latitude": 46.748, 
         "ne_longitude": 21.236, 
         "longitude": 21.083, 
-        "children": [
-          "woe:county=12593615"
-        ], 
         "placetype": "state", 
         "iso": "HU", 
-        "sw_latitude": 46.611, 
+        "date_indexed": "2010-12-02T09:55:38Z", 
         "adjacent": [
           "woe:state=12577913"
         ], 
@@ -60,8 +57,11 @@
         "alias_HUN_S": [
           "Bekescsaba"
         ], 
-        "woeid": 56043637, 
-        "date_indexed": "2010-12-02T09:55:38Z"
+        "children": [
+          "woe:county=12593615"
+        ], 
+        "sw_latitude": 46.611, 
+        "woe:id": 56043637
       }, 
       "id": 56043637
     }

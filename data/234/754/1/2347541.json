@@ -48,25 +48,6 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 47.597, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_UNK_V": [
-          "Khersonshchyna"
-        ], 
-        "longitude": 33.437, 
-        "ne_longitude": 35.109, 
-        "placetype": "state", 
-        "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "adjacent": [
-          "woe:state=2347544", 
-          "woe:state=2347537", 
-          "woe:state=2347548", 
-          "woe:state=2347557"
-        ], 
-        "woeid": 2347541, 
-        "latitude": 46.772, 
-        "sw_longitude": 31.514, 
-        "fullname": "Khersons\u00b4ka Oblast\u00b4, Kherson Oblast, Ukraine", 
         "children": [
           "woe:town=915618", 
           "woe:town=915605", 
@@ -212,7 +193,26 @@
           "woe:island=12481116", 
           "woe:island=12510182"
         ], 
-        "sw_latitude": 45.946
+        "alias_UNK_V": [
+          "Khersonshchyna"
+        ], 
+        "longitude": 33.437, 
+        "ne_longitude": 35.109, 
+        "placetype": "state", 
+        "iso": "UA", 
+        "sw_latitude": 45.946, 
+        "adjacent": [
+          "woe:state=2347544", 
+          "woe:state=2347537", 
+          "woe:state=2347548", 
+          "woe:state=2347557"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.772, 
+        "sw_longitude": 31.514, 
+        "fullname": "Khersons\u00b4ka Oblast\u00b4, Kherson Oblast, Ukraine", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "woe:id": 2347541
       }, 
       "id": 2347541
     }

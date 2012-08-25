@@ -41,18 +41,17 @@
           20070277
         ], 
         "name": "Agdam", 
-        "ne_latitude": 40.219, 
         "hierarchy": [
           "woe:state=20070258", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070258, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 47.217, 
         "longitude": 46.975, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 39.85, 
         "adjacent": [
           "woe:state=20070214", 
           "woe:state=20070219", 
@@ -61,7 +60,7 @@
           "woe:state=20070277", 
           "woe:state=20070259"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.219, 
         "latitude": 40.035, 
         "sw_longitude": 46.733, 
         "fullname": "Agdam, Azerbaijan", 
@@ -69,7 +68,8 @@
           "woe:town=1952049", 
           "woe:town=1951920"
         ], 
-        "sw_latitude": 39.85
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070258
       }, 
       "id": 20070258
     }

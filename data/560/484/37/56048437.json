@@ -31,14 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FRE", 
-        "adjacent_woeid": [
-          2344827, 
-          2345468, 
-          55967668, 
-          56048438
-        ], 
-        "name": "Maritime", 
         "alias_ENG_P": [
           "Maritime Region"
         ], 
@@ -47,10 +39,8 @@
           "woe:country=23424965", 
           "woe:planet=1"
         ], 
-        "woeid": 56048437, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 1.807, 
-        "longitude": 1.262, 
+        "ne_latitude": 6.918, 
+        "placetype": "state", 
         "children": [
           "woe:county=56048467", 
           "woe:county=56048468", 
@@ -60,26 +50,36 @@
           "woe:county=56048464", 
           "woe:county=56048463"
         ], 
-        "placetype": "state", 
-        "latitude": 6.511, 
-        "iso": "TG", 
-        "sw_latitude": 6.104, 
+        "sw_longitude": 0.718, 
         "adjacent": [
           "woe:state=55967668", 
           "woe:state=2344827", 
           "woe:state=56048438", 
           "woe:state=2345468"
         ], 
-        "ne_latitude": 6.918, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 6.511, 
+        "woe:id": 56048437, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          2344827, 
+          2345468, 
+          55967668, 
+          56048438
+        ], 
+        "name": "Maritime", 
+        "ne_longitude": 1.807, 
+        "longitude": 1.262, 
+        "iso": "TG", 
+        "sw_latitude": 6.104, 
         "alias_FRE_V": [
           "R\u00e9gion Maritime"
         ], 
-        "sw_longitude": 0.718, 
         "fullname": "Maritime, Maritime Region, Togo", 
         "alias_FRE_S": [
           "Region Maritime"
-        ], 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        ]
       }, 
       "id": 56048437
     }

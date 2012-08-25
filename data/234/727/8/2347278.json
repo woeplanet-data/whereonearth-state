@@ -450,7 +450,7 @@
         "ne:Shape_Area": 1.55117773527, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1957", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
         "children": [
@@ -469,7 +469,7 @@
           "woe:county=29390246", 
           "woe:county=29390247"
         ], 
-        "ne:OBJECTID": 2309, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 39.114853142858294, 
@@ -490,9 +490,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 37.37570343716396, 
-        "ne:VertexCou": 106.0, 
-        "ne:VALIDFR_1": "1957", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 2309, 
         "ne:Postal": "DY", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Diyarbakir", 
@@ -508,8 +508,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 15096.7, 
         "woe:id": "2347278", 
-        "ne:HASC_1": "TR.DY", 
-        "lang": "UNK", 
+        "name": "Diyarbak\u0131r", 
+        "ne:VertexCou": 106.0, 
         "adjacent_woeid": [
           2347259, 
           2347269, 
@@ -520,7 +520,7 @@
           2347322, 
           2347326
         ], 
-        "name": "Diyarbak\u0131r", 
+        "ne:HASC_1": "TR.DY", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Diyarbakir"

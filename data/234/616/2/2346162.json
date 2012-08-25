@@ -38,29 +38,28 @@
           2346169, 
           2346172
         ], 
-        "alias_ENG_A": [
-          "DUG"
-        ], 
         "name": "Dundgovi", 
-        "ne_latitude": 46.725, 
-        "hierarchy": [
-          "woe:state=2346162", 
-          "woe:country=23424887", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2346162, 
-        "ne_longitude": 108.712, 
-        "longitude": 106.209, 
-        "placetype": "state", 
-        "iso": "MN", 
-        "date_indexed": "2010-12-02T08:53:23Z", 
         "adjacent": [
           "woe:state=2346161", 
           "woe:state=2346168", 
           "woe:state=2346169", 
           "woe:state=2346172"
         ], 
+        "hierarchy": [
+          "woe:state=2346162", 
+          "woe:country=23424887", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 46.725, 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 108.712, 
+        "longitude": 106.209, 
+        "placetype": "state", 
+        "iso": "MN", 
+        "sw_latitude": 44.126, 
+        "alias_ENG_A": [
+          "DUG"
+        ], 
         "latitude": 45.425, 
         "sw_longitude": 103.705, 
         "fullname": "Dundgovi, Mongolia", 
@@ -100,7 +99,8 @@
           "woe:town=2266688", 
           "woe:town=2266694"
         ], 
-        "sw_latitude": 44.126
+        "date_indexed": "2010-12-02T08:53:23Z", 
+        "woe:id": 2346162
       }, 
       "id": 2346162
     }

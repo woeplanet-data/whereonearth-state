@@ -46,19 +46,18 @@
           "woe:country=23424852", 
           "woe:planet=1"
         ], 
-        "woeid": 2345794, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.205, 
         "longitude": 34.977, 
-        "ne_latitude": 32.868, 
         "placetype": "state", 
         "iso": "IL", 
-        "date_indexed": "2010-12-02T08:53:01Z", 
+        "sw_latitude": 32.375, 
         "adjacent": [
           "woe:state=2345792", 
           "woe:state=2345793", 
           "woe:state=23424988"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 32.868, 
         "latitude": 32.622, 
         "sw_longitude": 34.876, 
         "fullname": "Haifa, H'efa, Israel", 
@@ -163,7 +162,8 @@
           "woe:historicaltown=1967129", 
           "woe:historicaltown=1967486"
         ], 
-        "sw_latitude": 32.375
+        "date_indexed": "2010-12-02T08:53:01Z", 
+        "woe:id": 2345794
       }, 
       "id": 2345794
     }

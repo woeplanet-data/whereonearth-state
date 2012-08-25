@@ -40,18 +40,17 @@
           2347079
         ], 
         "name": "Dayr az Zawr", 
-        "ne_latitude": 36.216, 
         "hierarchy": [
           "woe:state=2347075", 
           "woe:country=23424956", 
           "woe:planet=1"
         ], 
-        "woeid": 2347075, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 41.285, 
         "longitude": 40.242, 
         "placetype": "state", 
         "iso": "SY", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
+        "sw_latitude": 34.055, 
         "adjacent": [
           "woe:state=2345833", 
           "woe:state=2347069", 
@@ -59,7 +58,7 @@
           "woe:state=2347079", 
           "woe:state=2345847"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.216, 
         "latitude": 35.135, 
         "sw_longitude": 39.2, 
         "fullname": "Dayr az Zawr, Syria", 
@@ -87,7 +86,8 @@
           "woe:town=1947221", 
           "woe:town=1947237"
         ], 
-        "sw_latitude": 34.055
+        "date_indexed": "2010-12-02T07:50:18Z", 
+        "woe:id": 2347075
       }, 
       "id": 2347075
     }

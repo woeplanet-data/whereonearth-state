@@ -1790,11 +1790,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 42.901593532815355, 
-        "ne:RegionVar": null, 
+        "ne:OBJECTID": 824, 
         "ne:Shape_Area": 1.18811950934, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
         "children": [
@@ -1805,10 +1805,13 @@
           "woe:landfeature=56058416", 
           "woe:zone=24874045"
         ], 
-        "ne:Area_sqkm": 10894.4, 
+        "alias_DAN_Q": [
+          "Abruzzen"
+        ], 
         "alias_ITA_V": [
           "Abruzzo Regione"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -1827,8 +1830,8 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "ne:VertexCou": 441.0, 
-        "ne:VALIDFR_1": "1895", 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -1845,21 +1848,19 @@
         "ne:Region_C_1": null, 
         "ne:TYPE_1": "Regione", 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Abruzzen"
-        ], 
+        "ne:Area_sqkm": 10894.4, 
         "alias_GER_Q": [
           "Abruzzen"
         ], 
         "woe:id": "7153350", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Abruzzo", 
+        "ne:VertexCou": 441.0, 
         "adjacent_woeid": [
           7153336, 
           7153339, 
           7153340
         ], 
-        "name": "Abruzzo", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITF", 
         "ne:CheckMe": 0, 
         "ne_longitude": 14.76341963081137, 
@@ -1868,13 +1869,12 @@
         "sw_latitude": 41.68691315321951, 
         "ne:NL_NAME_1": null, 
         "fullname": "Abruzzo, Abruzzi, Italy", 
-        "alias_FRE_Q": [
-          "Les Abruzzes"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
-        "ne:OBJECTID": 824, 
-        "ne:sameAsCity": -99
+        "ne:RegionVar": null, 
+        "alias_FRE_Q": [
+          "Les Abruzzes"
+        ]
       }, 
       "id": 7153350
     }

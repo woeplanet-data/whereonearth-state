@@ -38,13 +38,12 @@
           2345622
         ], 
         "name": "Grand 'Anse", 
-        "ne_latitude": 18.682, 
         "hierarchy": [
           "woe:state=2345617", 
           "woe:country=23424839", 
           "woe:planet=1"
         ], 
-        "woeid": 2345617, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -72.994, 
         "longitude": -73.736, 
         "alias_FRE_A": [
@@ -52,13 +51,13 @@
         ], 
         "placetype": "state", 
         "iso": "HT", 
-        "date_indexed": "2010-12-02T17:52:09Z", 
+        "sw_latitude": 18.29, 
         "adjacent": [
           "woe:state=2345620", 
           "woe:state=2345621", 
           "woe:state=2345622"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.682, 
         "latitude": 18.486, 
         "sw_longitude": -74.479, 
         "fullname": "Grand 'Anse, Haiti", 
@@ -99,7 +98,8 @@
           "woe:island=12484200", 
           "woe:island=12484220"
         ], 
-        "sw_latitude": 18.29
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "woe:id": 2345617
       }, 
       "id": 2345617
     }

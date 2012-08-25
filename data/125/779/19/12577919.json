@@ -50,6 +50,25 @@
         "ne_latitude": 47.965, 
         "ne_longitude": 22.13, 
         "longitude": 21.476, 
+        "placetype": "state", 
+        "iso": "HU", 
+        "sw_latitude": 46.941, 
+        "adjacent": [
+          "woe:state=2346619", 
+          "woe:state=12577914", 
+          "woe:state=12577913", 
+          "woe:state=56043620", 
+          "woe:state=12577926", 
+          "woe:state=56043636", 
+          "woe:state=12577925"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.453, 
+        "sw_longitude": 20.823, 
+        "fullname": "Hajd\u00fa-Bihar, Hungary", 
+        "alias_HUN_S": [
+          "Hajdu-Bihar"
+        ], 
         "children": [
           "woe:county=12593918", 
           "woe:county=12593443", 
@@ -134,27 +153,8 @@
           "woe:county=12594478", 
           "woe:zone=24873836"
         ], 
-        "placetype": "state", 
-        "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "adjacent": [
-          "woe:state=2346619", 
-          "woe:state=12577914", 
-          "woe:state=12577913", 
-          "woe:state=56043620", 
-          "woe:state=12577926", 
-          "woe:state=56043636", 
-          "woe:state=12577925"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 47.453, 
-        "sw_longitude": 20.823, 
-        "fullname": "Hajd\u00fa-Bihar, Hungary", 
-        "alias_HUN_S": [
-          "Hajdu-Bihar"
-        ], 
-        "woeid": 12577919, 
-        "sw_latitude": 46.941
+        "woe:id": 12577919
       }, 
       "id": 12577919
     }

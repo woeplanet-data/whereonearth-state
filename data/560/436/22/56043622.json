@@ -44,12 +44,9 @@
         "ne_latitude": 47.281, 
         "ne_longitude": 18.554, 
         "longitude": 18.441, 
-        "children": [
-          "woe:county=12593850"
-        ], 
         "placetype": "state", 
         "iso": "HU", 
-        "sw_latitude": 47.108, 
+        "date_indexed": "2010-12-02T09:55:38Z", 
         "adjacent": [
           "woe:state=12577917"
         ], 
@@ -60,8 +57,11 @@
         "alias_HUN_S": [
           "Szekesfehervar"
         ], 
-        "woeid": 56043622, 
-        "date_indexed": "2010-12-02T09:55:38Z"
+        "children": [
+          "woe:county=12593850"
+        ], 
+        "sw_latitude": 47.108, 
+        "woe:id": 56043622
       }, 
       "id": 56043622
     }

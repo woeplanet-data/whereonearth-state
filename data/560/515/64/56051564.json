@@ -37,36 +37,36 @@
           56051566
         ], 
         "name": "S\u00e3o Filipe", 
-        "ne_latitude": 15.029, 
         "hierarchy": [
           "woe:state=56051564", 
           "woe:country=23424794", 
           "woe:planet=1"
         ], 
-        "woeid": 56051564, 
         "alias_POR_S": [
           "Sao Filipe"
         ], 
         "ne_longitude": -24.292, 
         "longitude": -24.405, 
-        "placetype": "state", 
-        "iso": "CV", 
-        "sw_latitude": 14.808, 
-        "adjacent": [
-          "woe:state=56051566", 
-          "woe:state=56051565"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 14.927, 
-        "sw_longitude": -24.517, 
-        "fullname": "S\u00e3o Filipe, Cape Verde", 
         "children": [
           "woe:town=1310728", 
           "woe:town=1310833", 
           "woe:town=1310891", 
           "woe:town=1310893"
         ], 
-        "date_indexed": "2010-12-02T12:16:16Z"
+        "placetype": "state", 
+        "iso": "CV", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "adjacent": [
+          "woe:state=56051566", 
+          "woe:state=56051565"
+        ], 
+        "ne_latitude": 15.029, 
+        "latitude": 14.927, 
+        "sw_longitude": -24.517, 
+        "fullname": "S\u00e3o Filipe, Cape Verde", 
+        "provider": "geoplanet 7.6.0", 
+        "sw_latitude": 14.808, 
+        "woe:id": 56051564
       }, 
       "id": 56051564
     }

@@ -38,24 +38,23 @@
           2347653
         ], 
         "name": "Maldonado", 
-        "ne_latitude": -33.951, 
         "hierarchy": [
           "woe:state=2347648", 
           "woe:country=23424979", 
           "woe:planet=1"
         ], 
-        "woeid": 2347648, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -54.456, 
         "longitude": -54.752, 
         "placetype": "state", 
         "iso": "UY", 
-        "date_indexed": "2010-12-02T17:58:18Z", 
+        "sw_latitude": -35.048, 
         "adjacent": [
           "woe:state=2347641", 
           "woe:state=2347647", 
           "woe:state=2347653"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -33.951, 
         "latitude": -34.466, 
         "sw_longitude": -55.493, 
         "fullname": "Maldonado, Uruguay", 
@@ -82,7 +81,8 @@
           "woe:island=12505670", 
           "woe:island=12505678"
         ], 
-        "sw_latitude": -35.048
+        "date_indexed": "2010-12-02T17:58:18Z", 
+        "woe:id": 2347648
       }, 
       "id": 2347648
     }

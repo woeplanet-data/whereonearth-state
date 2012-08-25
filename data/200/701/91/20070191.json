@@ -40,18 +40,17 @@
           20070197
         ], 
         "name": "Naryn", 
-        "ne_latitude": 42.398, 
         "hierarchy": [
           "woe:state=20070191", 
           "woe:country=23424864", 
           "woe:planet=1"
         ], 
-        "woeid": 20070191, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 78.219, 
         "longitude": 76.0, 
         "placetype": "state", 
         "iso": "KG", 
-        "date_indexed": "2010-12-02T08:58:47Z", 
+        "sw_latitude": 40.277, 
         "adjacent": [
           "woe:state=20070195", 
           "woe:state=20070193", 
@@ -59,7 +58,7 @@
           "woe:state=20070190", 
           "woe:state=12578003"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.398, 
         "latitude": 41.338, 
         "sw_longitude": 73.782, 
         "fullname": "Naryn, Kyrgyzstan", 
@@ -96,7 +95,8 @@
           "woe:town=1969941", 
           "woe:town=1969946"
         ], 
-        "sw_latitude": 40.277
+        "date_indexed": "2010-12-02T08:58:47Z", 
+        "woe:id": 20070191
       }, 
       "id": 20070191
     }

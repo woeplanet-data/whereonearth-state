@@ -5983,7 +5983,7 @@
         "ne:Shape_Area": 15.9160352294, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "1956", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IDN", 
         "children": [
@@ -6034,7 +6034,7 @@
           "woe:island=12492631", 
           "woe:island=12492655"
         ], 
-        "ne:OBJECTID": 1185, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 113.7763940780244, 
@@ -6052,9 +6052,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -2.362852878357614, 
-        "ne:VertexCou": 1391.0, 
-        "ne:VALIDFR_1": "1956", 
-        "ne:DataRank": 1, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 1185, 
         "ne:Postal": "KI", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kaltim", 
@@ -6070,8 +6070,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 195789.1, 
         "woe:id": "2345723", 
-        "ne:HASC_1": "ID.KI", 
-        "lang": "UNK", 
+        "name": "Kalimantan Timur", 
+        "ne:VertexCou": 1391.0, 
         "adjacent_woeid": [
           2345720, 
           2345721, 
@@ -6079,7 +6079,7 @@
           2346305, 
           2346310
         ], 
-        "name": "Kalimantan Timur", 
+        "ne:HASC_1": "ID.KI", 
         "ne:REMARKS_1": null, 
         "alias_UNK_V": [
           "Kaltim"

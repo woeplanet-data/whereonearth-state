@@ -31,14 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2344678, 
-          2344694, 
-          2345026, 
-          2345027
-        ], 
-        "name": "Aisen del General Carlos Ibanez Del Campo", 
         "alias_ENG_P": [
           "Aisen Region"
         ], 
@@ -47,17 +39,18 @@
           "woe:country=23424782", 
           "woe:planet=1"
         ], 
-        "woeid": 2345019, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -71.11, 
-        "longitude": -73.402, 
         "ne_latitude": -43.627, 
         "placetype": "state", 
+        "children": [
+          "woe:county=26793973", 
+          "woe:county=26793980", 
+          "woe:county=26793988", 
+          "woe:county=26793996"
+        ], 
         "alias_SPA_S": [
           "Region Aisen del General Carlos Ibanez del Campo"
         ], 
         "sw_longitude": -75.694, 
-        "date_indexed": "2010-12-02T12:15:28Z", 
         "adjacent": [
           "woe:state=2344678", 
           "woe:state=2345026", 
@@ -68,15 +61,22 @@
           "Regi\u00f3n Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
         ], 
         "latitude": -46.422, 
-        "iso": "CL", 
-        "fullname": "Aisen del General Carlos Ibanez Del Campo, Aisen Region, Chile", 
-        "children": [
-          "woe:county=26793973", 
-          "woe:county=26793980", 
-          "woe:county=26793988", 
-          "woe:county=26793996"
+        "woe:id": 2345019, 
+        "sw_latitude": -49.218, 
+        "provider": "geoplanet 7.6.0", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2344678, 
+          2344694, 
+          2345026, 
+          2345027
         ], 
-        "sw_latitude": -49.218
+        "name": "Aisen del General Carlos Ibanez Del Campo", 
+        "ne_longitude": -71.11, 
+        "longitude": -73.402, 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "fullname": "Aisen del General Carlos Ibanez Del Campo, Aisen Region, Chile"
       }, 
       "id": 2345019
     }

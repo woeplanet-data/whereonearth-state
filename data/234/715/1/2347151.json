@@ -47,20 +47,19 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347151, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 102.458, 
         "longitude": 101.887, 
-        "ne_latitude": 16.731, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 15.311, 
         "adjacent": [
           "woe:state=2347147", 
           "woe:state=2347159", 
           "woe:state=2347152", 
           "woe:state=2347141"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.731, 
         "latitude": 16.021, 
         "sw_longitude": 101.316, 
         "fullname": "Chaiyaphum, Thailand", 
@@ -85,7 +84,8 @@
           "woe:landfeature=56057417", 
           "woe:landfeature=56057433"
         ], 
-        "sw_latitude": 15.311
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347151
       }, 
       "id": 2347151
     }

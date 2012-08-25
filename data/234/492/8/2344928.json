@@ -31,51 +31,16 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "adjacent_woeid": [
-          2344929, 
-          2344931, 
-          2344933, 
-          2344935, 
-          2344939, 
-          2347714, 
-          20070086
-        ], 
-        "alias_KOR_Q": [
-          "\uce84\ud401\ucc38"
-        ], 
-        "name": "Kampong Cham", 
         "hierarchy": [
           "woe:state=2344928", 
           "woe:country=23424776", 
           "woe:planet=1"
         ], 
         "ne_latitude": 12.517, 
-        "alias_JPN_Q": [
-          "\u30b3\u30f3\u30dd\u30f3\u30c1\u30e3\u30e0"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 106.467, 
-        "longitude": 105.637, 
-        "alias_CHI_Q": [
-          "\u78c5\u6e5b\u7701"
-        ], 
         "placetype": "state", 
-        "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
-        "adjacent": [
-          "woe:state=20070086", 
-          "woe:state=2344929", 
-          "woe:state=2344931", 
-          "woe:state=2344933", 
-          "woe:state=2344935", 
-          "woe:state=2344939", 
-          "woe:state=2347714"
+        "alias_KOR_Q": [
+          "\uce84\ud401\ucc38"
         ], 
-        "woeid": 2344928, 
-        "latitude": 12.068, 
-        "sw_longitude": 104.806, 
-        "fullname": "Kampong Cham, Cambodia", 
         "children": [
           "woe:county=56063230", 
           "woe:county=56063231", 
@@ -94,7 +59,42 @@
           "woe:county=56063244", 
           "woe:county=56063245"
         ], 
-        "sw_latitude": 11.619
+        "alias_CHI_Q": [
+          "\u78c5\u6e5b\u7701"
+        ], 
+        "alias_JPN_Q": [
+          "\u30b3\u30f3\u30dd\u30f3\u30c1\u30e3\u30e0"
+        ], 
+        "sw_longitude": 104.806, 
+        "adjacent": [
+          "woe:state=20070086", 
+          "woe:state=2344929", 
+          "woe:state=2344931", 
+          "woe:state=2344933", 
+          "woe:state=2344935", 
+          "woe:state=2344939", 
+          "woe:state=2347714"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 12.068, 
+        "woe:id": 2344928, 
+        "sw_latitude": 11.619, 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2344929, 
+          2344931, 
+          2344933, 
+          2344935, 
+          2344939, 
+          2347714, 
+          20070086
+        ], 
+        "name": "Kampong Cham", 
+        "ne_longitude": 106.467, 
+        "longitude": 105.637, 
+        "iso": "KH", 
+        "date_indexed": "2010-12-02T16:11:17Z", 
+        "fullname": "Kampong Cham, Cambodia"
       }, 
       "id": 2344928
     }

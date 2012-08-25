@@ -44,12 +44,9 @@
         "ne_latitude": 46.161, 
         "ne_longitude": 18.365, 
         "longitude": 18.251, 
-        "children": [
-          "woe:county=12593545"
-        ], 
         "placetype": "state", 
         "iso": "HU", 
-        "sw_latitude": 45.994, 
+        "date_indexed": "2010-12-02T09:55:38Z", 
         "adjacent": [
           "woe:state=12577912"
         ], 
@@ -60,8 +57,11 @@
         "alias_HUN_S": [
           "Pecs"
         ], 
-        "woeid": 56043625, 
-        "date_indexed": "2010-12-02T09:55:38Z"
+        "children": [
+          "woe:county=12593545"
+        ], 
+        "sw_latitude": 45.994, 
+        "woe:id": 56043625
       }, 
       "id": 56043625
     }

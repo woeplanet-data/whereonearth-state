@@ -31,17 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2346799, 
-          2346816, 
-          2346818, 
-          2346820, 
-          2346823, 
-          20070566
-        ], 
-        "name": "R\u00edo Grande", 
-        "placetype": "state", 
         "alias_ENG_V": [
           "Riogrande Municipios"
         ], 
@@ -50,30 +39,8 @@
           "woe:country=23424935", 
           "woe:planet=1"
         ], 
-        "woeid": 2346817, 
-        "alias_SPA_V": [
-          "R\u00edo Grande Municipios"
-        ], 
-        "ne_longitude": -65.749, 
-        "longitude": -65.813, 
         "ne_latitude": 18.423, 
-        "alias_SPA_S": [
-          "Rio Grande Municipios"
-        ], 
-        "sw_longitude": -65.877, 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "adjacent": [
-          "woe:state=20070566", 
-          "woe:state=2346820", 
-          "woe:state=2346799", 
-          "woe:state=2346816", 
-          "woe:state=2346818", 
-          "woe:state=2346823"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.347, 
-        "iso": "PR", 
-        "fullname": "R\u00edo Grande, Puerto Rico", 
+        "placetype": "state", 
         "children": [
           "woe:county=26806649", 
           "woe:county=26806650", 
@@ -85,7 +52,40 @@
           "woe:county=26806656", 
           "woe:county=26806657"
         ], 
-        "sw_latitude": 18.272
+        "alias_SPA_S": [
+          "Rio Grande Municipios"
+        ], 
+        "sw_longitude": -65.877, 
+        "adjacent": [
+          "woe:state=20070566", 
+          "woe:state=2346820", 
+          "woe:state=2346799", 
+          "woe:state=2346816", 
+          "woe:state=2346818", 
+          "woe:state=2346823"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.347, 
+        "woe:id": 2346817, 
+        "sw_latitude": 18.272, 
+        "alias_SPA_V": [
+          "R\u00edo Grande Municipios"
+        ], 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2346799, 
+          2346816, 
+          2346818, 
+          2346820, 
+          2346823, 
+          20070566
+        ], 
+        "name": "R\u00edo Grande", 
+        "ne_longitude": -65.749, 
+        "longitude": -65.813, 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "fullname": "R\u00edo Grande, Puerto Rico"
       }, 
       "id": 2346817
     }

@@ -862,7 +862,7 @@
         "ne:Shape_Area": 0.88933354339, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 10, 
+        "ne:VALIDFR_1": "18841001", 
         "alias_ENG_A": [
           "ER"
         ], 
@@ -887,7 +887,7 @@
           "woe:county=20070905", 
           "woe:county=20070901"
         ], 
-        "ne:OBJECTID": 14, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_SPA_S": [
@@ -912,9 +912,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Department", 
         "sw_latitude": -32.12284514748552, 
-        "ne:VertexCou": 208.0, 
-        "ne:VALIDFR_1": "18841001", 
-        "ne:DataRank": 8, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 10, 
+        "ne:OBJECTID": 14, 
         "ne:Postal": "RV", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -930,8 +930,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 9369.4, 
         "woe:id": "2344682", 
-        "ne:HASC_1": "UY.RV", 
-        "lang": "SPA", 
+        "name": "Entre Rios", 
+        "ne:VertexCou": 208.0, 
         "adjacent_woeid": [
           2344675, 
           2344680, 
@@ -941,7 +941,7 @@
           2347651, 
           2347654
         ], 
-        "name": "Entre Rios", 
+        "ne:HASC_1": "UY.RV", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -59.279, 

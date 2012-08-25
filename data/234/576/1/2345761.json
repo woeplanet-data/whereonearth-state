@@ -7148,7 +7148,7 @@
         "ne:Shape_Area": 7.65342257657, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_KOR_Q": [
           "\uc11c\ubcb5\uace8"
         ], 
@@ -7179,7 +7179,7 @@
         "alias_CHI_Q": [
           "\u897f\u5b5f\u52a0\u62c9\u90a6"
         ], 
-        "ne:OBJECTID": 3257, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u897f\u30d9\u30f3\u30ac\u30eb"
         ], 
@@ -7214,12 +7214,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T08:59:14Z", 
-        "ne:VertexCou": 1633.0, 
+        "lang": "ENG", 
         "alias_ENG_A": [
           "WB"
         ], 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3257, 
         "ne:Postal": "WB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Bangla|Bengala Occidentale|Bengala Ocidental|Bengale occidental", 
@@ -7235,8 +7235,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 86348.8, 
         "woe:id": "2345761", 
-        "ne:HASC_1": "IN.WB", 
-        "lang": "ENG", 
+        "name": "West Bengal", 
+        "ne:VertexCou": 1633.0, 
         "adjacent_woeid": [
           2344792, 
           2344793, 
@@ -7251,7 +7251,7 @@
           20070463
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "West Bengal", 
+        "ne:HASC_1": "IN.WB", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 89.88849816236035, 
         "longitude": 87.853, 

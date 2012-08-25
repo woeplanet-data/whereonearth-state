@@ -38,24 +38,23 @@
           55948205
         ], 
         "name": "Tighina", 
-        "ne_latitude": 46.863, 
         "hierarchy": [
           "woe:state=20069877", 
           "woe:country=23424885", 
           "woe:planet=1"
         ], 
-        "woeid": 20069877, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 29.499, 
         "longitude": 29.447, 
         "placetype": "state", 
         "iso": "MD", 
-        "date_indexed": "2010-12-02T17:57:50Z", 
+        "sw_latitude": 46.781, 
         "adjacent": [
           "woe:state=55948205", 
           "woe:state=55948183", 
           "woe:state=55948201"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 46.863, 
         "latitude": 46.822, 
         "sw_longitude": 29.395, 
         "fullname": "Tighina, Moldova", 
@@ -63,7 +62,8 @@
           "woe:town=480084", 
           "woe:town=481158"
         ], 
-        "sw_latitude": 46.781
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "woe:id": 20069877
       }, 
       "id": 20069877
     }

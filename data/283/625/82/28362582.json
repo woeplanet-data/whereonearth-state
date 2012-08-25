@@ -31,11 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "DAN", 
-        "adjacent_woeid": [
-          28362583
-        ], 
-        "name": "Sj\u00e6lland", 
         "alias_ENG_P": [
           "Sjaelland"
         ], 
@@ -44,26 +39,8 @@
           "woe:country=23424796", 
           "woe:planet=1"
         ], 
-        "woeid": 28362582, 
-        "sw_latitude": 54.559, 
-        "ne_longitude": 12.553, 
-        "longitude": 11.71, 
         "ne_latitude": 56.011, 
         "placetype": "state", 
-        "sw_longitude": 10.868, 
-        "iso": "DK", 
-        "adjacent": [
-          "woe:state=28362583"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 55.285, 
-        "alias_DAN_S": [
-          "Sjalland"
-        ], 
-        "fullname": "Sj\u00e6lland, Sjaelland, Denmark", 
-        "alias_DAN_V": [
-          "Region Sj\u00e6lland"
-        ], 
         "children": [
           "woe:historicalcounty=12582849", 
           "woe:historicalcounty=12582775", 
@@ -142,7 +119,30 @@
           "woe:drainage=29353682", 
           "woe:drainage=29353710"
         ], 
-        "date_indexed": "2010-12-02T16:12:23Z"
+        "sw_longitude": 10.868, 
+        "adjacent": [
+          "woe:state=28362583"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 55.285, 
+        "woe:id": 28362582, 
+        "date_indexed": "2010-12-02T16:12:23Z", 
+        "alias_DAN_S": [
+          "Sjalland"
+        ], 
+        "alias_DAN_V": [
+          "Region Sj\u00e6lland"
+        ], 
+        "lang": "DAN", 
+        "adjacent_woeid": [
+          28362583
+        ], 
+        "name": "Sj\u00e6lland", 
+        "ne_longitude": 12.553, 
+        "longitude": 11.71, 
+        "iso": "DK", 
+        "sw_latitude": 54.559, 
+        "fullname": "Sj\u00e6lland, Sjaelland, Denmark"
       }, 
       "id": 28362582
     }

@@ -44,18 +44,17 @@
           2347813
         ], 
         "name": "Tete", 
-        "ne_latitude": -13.998, 
         "hierarchy": [
           "woe:state=2346318", 
           "woe:country=23424902", 
           "woe:planet=1"
         ], 
-        "woeid": 2346318, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.347, 
         "longitude": 32.782, 
         "placetype": "state", 
         "iso": "MZ", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
+        "sw_latitude": -17.712, 
         "adjacent": [
           "woe:state=2347805", 
           "woe:state=2347806", 
@@ -67,7 +66,7 @@
           "woe:state=2346315", 
           "woe:state=2346319"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -13.998, 
         "latitude": -15.855, 
         "sw_longitude": 30.217, 
         "fullname": "Tete, Mozambique", 
@@ -168,7 +167,8 @@
           "woe:town=1556401", 
           "woe:town=1556493"
         ], 
-        "sw_latitude": -17.712
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "woe:id": 2346318
       }, 
       "id": 2346318
     }

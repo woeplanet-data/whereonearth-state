@@ -31,16 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2344676, 
-          2344684, 
-          2344691, 
-          2344807, 
-          2345022, 
-          2345030
-        ], 
-        "name": "Antofagasta", 
         "alias_ENG_P": [
           "Antofagasta Region"
         ], 
@@ -49,17 +39,18 @@
           "woe:country=23424782", 
           "woe:planet=1"
         ], 
-        "woeid": 2345020, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -66.988, 
-        "longitude": -68.862, 
         "ne_latitude": -20.936, 
         "placetype": "state", 
+        "children": [
+          "woe:county=26793975", 
+          "woe:county=26793994", 
+          "woe:county=26794019", 
+          "woe:landfeature=28742100"
+        ], 
         "alias_SPA_S": [
           "Region de Antofagasta"
         ], 
         "sw_longitude": -70.751, 
-        "date_indexed": "2010-12-02T12:15:28Z", 
         "adjacent": [
           "woe:state=2345022", 
           "woe:state=2344676", 
@@ -72,15 +63,24 @@
           "Regi\u00f3n de Antofagasta"
         ], 
         "latitude": -23.509, 
-        "iso": "CL", 
-        "fullname": "Antofagasta, Antofagasta Region, Chile", 
-        "children": [
-          "woe:county=26793975", 
-          "woe:county=26793994", 
-          "woe:county=26794019", 
-          "woe:landfeature=28742100"
+        "woe:id": 2345020, 
+        "sw_latitude": -26.082, 
+        "provider": "geoplanet 7.6.0", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2344676, 
+          2344684, 
+          2344691, 
+          2344807, 
+          2345022, 
+          2345030
         ], 
-        "sw_latitude": -26.082
+        "name": "Antofagasta", 
+        "ne_longitude": -66.988, 
+        "longitude": -68.862, 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "fullname": "Antofagasta, Antofagasta Region, Chile"
       }, 
       "id": 2345020
     }

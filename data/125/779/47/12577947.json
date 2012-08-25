@@ -734,7 +734,7 @@
         "ne:Shape_Area": 1.4251561647, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19980727", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "POL", 
         "children": [
@@ -755,15 +755,15 @@
           "woe:landfeature=56058384"
         ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:OBJECTID": 3149, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30b7\u30d5\u30a3\u30a7\u30f3\u30c6\u30a3\u30af\u30b7\u30b7\u30e5\u770c"
         ], 
+        "ne:REMARKS_1": null, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Santa-Cruz"
         ], 
-        "ne:ProvNumber": 2001, 
         "sw_longitude": 19.741668735623705, 
         "adjacent": [
           "woe:state=12577938", 
@@ -782,9 +782,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "sw_latitude": 50.17440542277211, 
-        "ne:VertexCou": 175.0, 
-        "ne:VALIDFR_1": "19980727", 
-        "ne:DataRank": 5, 
+        "lang": "POL", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3149, 
         "ne:Postal": "SK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Swietokrzyskie", 
@@ -803,8 +803,8 @@
           "Heiligkreuz"
         ], 
         "woe:id": "12577947", 
-        "ne:HASC_1": "PL.SK", 
-        "lang": "POL", 
+        "name": "Swi\u0119tokrzyskie", 
+        "ne:VertexCou": 175.0, 
         "adjacent_woeid": [
           12577937, 
           12577938, 
@@ -813,8 +813,8 @@
           12577943, 
           12577946
         ], 
-        "name": "Swi\u0119tokrzyskie", 
-        "ne:REMARKS_1": null, 
+        "ne:HASC_1": "PL.SK", 
+        "ne:ProvNumber": 2001, 
         "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "provider": "geoplanet 7.6.0", 
         "longitude": 20.787, 

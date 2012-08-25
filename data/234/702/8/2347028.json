@@ -37,23 +37,22 @@
           2347025
         ], 
         "name": "Gros Islet", 
-        "ne_latitude": 14.103, 
         "hierarchy": [
           "woe:state=2347028", 
           "woe:country=23424951", 
           "woe:planet=1"
         ], 
-        "woeid": 2347028, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -60.909, 
         "longitude": -60.943, 
         "placetype": "state", 
         "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
+        "sw_latitude": 14.01, 
         "adjacent": [
           "woe:state=2347025", 
           "woe:state=2347024"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.103, 
         "latitude": 14.057, 
         "sw_longitude": -60.984, 
         "fullname": "Gros Islet, St. Lucia", 
@@ -67,7 +66,8 @@
           "woe:town=162118", 
           "woe:town=162140"
         ], 
-        "sw_latitude": 14.01
+        "date_indexed": "2010-12-02T18:18:47Z", 
+        "woe:id": 2347028
       }, 
       "id": 2347028
     }

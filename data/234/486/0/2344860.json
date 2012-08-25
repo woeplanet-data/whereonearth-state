@@ -4877,7 +4877,7 @@
         "alias_POR_V": [
           "Estado Pernambuco"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19890101", 
         "alias_ENG_A": [
           "PE"
         ], 
@@ -5071,7 +5071,7 @@
           "woe:county=12580731", 
           "woe:island=12502925"
         ], 
-        "ne:OBJECTID": 1313, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -41.370802577976576, 
@@ -5089,9 +5089,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -9.487896009992824, 
-        "ne:VertexCou": 1212.0, 
-        "ne:VALIDFR_1": "19890101", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 1313, 
         "ne:Postal": "PE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Pernambouc", 
@@ -5107,8 +5107,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 97586.7, 
         "woe:id": "2344860", 
-        "ne:HASC_1": "BR.PE", 
-        "lang": "POR", 
+        "name": "Pernambuco", 
+        "ne:VertexCou": 1212.0, 
         "adjacent_woeid": [
           2344845, 
           2344848, 
@@ -5116,7 +5116,7 @@
           2344858, 
           2344861
         ], 
-        "name": "Pernambuco", 
+        "ne:HASC_1": "BR.PE", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -34.79722449391522, 
         "longitude": -38.084, 

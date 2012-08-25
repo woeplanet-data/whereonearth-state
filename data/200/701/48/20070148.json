@@ -31,6 +31,35 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "hierarchy": [
+          "woe:state=20070148", 
+          "woe:country=23424917", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": -25.247, 
+        "placetype": "state", 
+        "alias_POR_Q": [
+          "Assun\u00e7\u00e3o"
+        ], 
+        "children": [
+          "woe:county=26810946"
+        ], 
+        "alias_SPA_S": [
+          "Nuestra Senyora Sta. Maria de la Asuncion"
+        ], 
+        "sw_longitude": -57.651, 
+        "adjacent": [
+          "woe:state=2346453", 
+          "woe:state=2344683", 
+          "woe:state=2346461"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -25.309, 
+        "woe:id": 20070148, 
+        "date_indexed": "2010-12-02T12:08:38Z", 
+        "alias_SPA_V": [
+          "Nuestra Se\u00f1ora Sta. Mar\u00eda de la Asunci\u00f3n"
+        ], 
         "lang": "SPA", 
         "adjacent_woeid": [
           2344683, 
@@ -38,40 +67,11 @@
           2346461
         ], 
         "name": "Asunci\u00f3n", 
-        "ne_latitude": -25.247, 
-        "hierarchy": [
-          "woe:state=20070148", 
-          "woe:country=23424917", 
-          "woe:planet=1"
-        ], 
-        "woeid": 20070148, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -57.531, 
         "longitude": -57.603, 
-        "placetype": "state", 
-        "alias_SPA_S": [
-          "Nuestra Senyora Sta. Maria de la Asuncion"
-        ], 
-        "sw_longitude": -57.651, 
-        "date_indexed": "2010-12-02T12:08:38Z", 
-        "adjacent": [
-          "woe:state=2346453", 
-          "woe:state=2344683", 
-          "woe:state=2346461"
-        ], 
-        "alias_SPA_V": [
-          "Nuestra Se\u00f1ora Sta. Mar\u00eda de la Asunci\u00f3n"
-        ], 
-        "latitude": -25.309, 
         "iso": "PY", 
-        "fullname": "Asunci\u00f3n, Paraguay", 
-        "children": [
-          "woe:county=26810946"
-        ], 
         "sw_latitude": -25.372, 
-        "alias_POR_Q": [
-          "Assun\u00e7\u00e3o"
-        ]
+        "fullname": "Asunci\u00f3n, Paraguay"
       }, 
       "id": 20070148
     }

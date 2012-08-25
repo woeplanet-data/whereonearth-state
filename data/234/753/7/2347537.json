@@ -51,28 +51,6 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 49.193, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_UNK_V": [
-          "Dnipropetrovshchyna"
-        ], 
-        "longitude": 34.949, 
-        "ne_longitude": 36.935, 
-        "placetype": "state", 
-        "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "adjacent": [
-          "woe:state=2347538", 
-          "woe:state=2347540", 
-          "woe:state=2347541", 
-          "woe:state=2347543", 
-          "woe:state=2347548", 
-          "woe:state=2347550", 
-          "woe:state=2347557"
-        ], 
-        "woeid": 2347537, 
-        "latitude": 48.325, 
-        "sw_longitude": 32.962, 
-        "fullname": "Dnipropetrovs\u00b4ka Oblast\u00b4, Dnipropetrovsk Oblast, Ukraine", 
         "children": [
           "woe:town=915527", 
           "woe:town=915524", 
@@ -269,7 +247,29 @@
           "woe:town=940450", 
           "woe:town=940474"
         ], 
-        "sw_latitude": 47.458
+        "alias_UNK_V": [
+          "Dnipropetrovshchyna"
+        ], 
+        "longitude": 34.949, 
+        "ne_longitude": 36.935, 
+        "placetype": "state", 
+        "iso": "UA", 
+        "sw_latitude": 47.458, 
+        "adjacent": [
+          "woe:state=2347538", 
+          "woe:state=2347540", 
+          "woe:state=2347541", 
+          "woe:state=2347543", 
+          "woe:state=2347548", 
+          "woe:state=2347550", 
+          "woe:state=2347557"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.325, 
+        "sw_longitude": 32.962, 
+        "fullname": "Dnipropetrovs\u00b4ka Oblast\u00b4, Dnipropetrovsk Oblast, Ukraine", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "woe:id": 2347537
       }, 
       "id": 2347537
     }

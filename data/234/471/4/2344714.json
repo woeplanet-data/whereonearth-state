@@ -1348,7 +1348,6 @@
       "type": "Feature", 
       "properties": {
         "ne:ProvNumber": 9, 
-        "ne:ISO": "AUT", 
         "alias_SWE_Q": [
           "Tyrolen"
         ], 
@@ -1361,10 +1360,13 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 47.73243561451204, 
+        "alias_GER_A": [
+          "TIR"
+        ], 
         "ne:Shape_Area": 1.26259894465, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "19510429", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "AUT", 
         "children": [
@@ -1395,8 +1397,10 @@
         "alias_ITA_Q": [
           "Tirolo"
         ], 
-        "ne:Area_sqkm": 10626.7, 
-        "ne:OBJECTID": 2329, 
+        "alias_DAN_Q": [
+          "Tyrol"
+        ], 
+        "ne:DataRank": 7, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
@@ -1417,15 +1421,13 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 46.76453603740828, 
-        "ne:VertexCou": 329.0, 
-        "ne:VALIDFR_1": "19510429", 
-        "ne:DataRank": 7, 
+        "lang": "GER", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 2329, 
         "ne:Postal": "TR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Tyrol", 
-        "alias_GER_A": [
-          "TIR"
-        ], 
+        "ne:ISO": "AUT", 
         "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 7.29703986239, 
@@ -1435,19 +1437,17 @@
         "ne:Region_C_1": null, 
         "ne:sameAsCity": -99, 
         "ne:LabelRank": 6, 
-        "alias_DAN_Q": [
-          "Tyrol"
-        ], 
+        "ne:Area_sqkm": 10626.7, 
         "woe:id": "2344714", 
-        "ne:HASC_1": "AT.TR", 
-        "lang": "GER", 
+        "name": "Tirol", 
+        "ne:VertexCou": 329.0, 
         "adjacent_woeid": [
           2344709, 
           2344712, 
           2344715
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Tirol", 
+        "ne:HASC_1": "AT.TR", 
         "ne:REMARKS_1": null, 
         "ne:TYPE_1": "Bundesl\u00e4nd|L\u00e4nd", 
         "ne_longitude": 12.678844028828905, 

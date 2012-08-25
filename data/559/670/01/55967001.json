@@ -41,25 +41,20 @@
           55967009
         ], 
         "name": "N'zi-Como\u00e9", 
+        "ne_latitude": 8.061, 
         "hierarchy": [
           "woe:state=55967001", 
           "woe:country=23424854", 
           "woe:planet=1"
         ], 
-        "woeid": 55967001, 
         "ne_longitude": -3.503, 
         "longitude": -4.24, 
-        "children": [
-          "woe:county=56042280", 
-          "woe:county=20069810", 
-          "woe:county=20069982", 
-          "woe:county=20069981", 
-          "woe:county=20069986"
+        "alias_FRE_S": [
+          "N'zi-Comoe"
         ], 
         "placetype": "state", 
-        "latitude": 7.121, 
         "iso": "CI", 
-        "sw_latitude": 6.181, 
+        "date_indexed": "2010-12-02T09:35:13Z", 
         "adjacent": [
           "woe:state=55966991", 
           "woe:state=55966997", 
@@ -69,13 +64,18 @@
           "woe:state=55967007"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 8.061, 
+        "latitude": 7.121, 
         "sw_longitude": -4.977, 
         "fullname": "N'zi-Como\u00e9, Ivory Coast", 
-        "alias_FRE_S": [
-          "N'zi-Comoe"
+        "children": [
+          "woe:county=56042280", 
+          "woe:county=20069810", 
+          "woe:county=20069982", 
+          "woe:county=20069981", 
+          "woe:county=20069986"
         ], 
-        "date_indexed": "2010-12-02T09:35:13Z"
+        "sw_latitude": 6.181, 
+        "woe:id": 55967001
       }, 
       "id": 55967001
     }

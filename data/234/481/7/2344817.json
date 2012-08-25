@@ -40,18 +40,17 @@
           2344820
         ], 
         "name": "Mandalay", 
-        "ne_latitude": 23.554, 
         "hierarchy": [
           "woe:state=2344817", 
           "woe:country=23424763", 
           "woe:planet=1"
         ], 
-        "woeid": 2344817, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 96.844, 
         "longitude": 95.838, 
         "placetype": "state", 
         "iso": "MM", 
-        "date_indexed": "2010-12-02T17:58:12Z", 
+        "sw_latitude": 19.416, 
         "adjacent": [
           "woe:state=2344818", 
           "woe:state=2344814", 
@@ -59,7 +58,7 @@
           "woe:state=2344819", 
           "woe:state=2344820"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 23.554, 
         "latitude": 21.485, 
         "sw_longitude": 94.833, 
         "fullname": "Mandalay, Myanmar", 
@@ -116,7 +115,8 @@
           "woe:town=1018010", 
           "woe:town=1018011"
         ], 
-        "sw_latitude": 19.416
+        "date_indexed": "2010-12-02T17:58:12Z", 
+        "woe:id": 2344817
       }, 
       "id": 2344817
     }

@@ -38,7 +38,6 @@
           24550844, 
           24550851
         ], 
-        "ne_latitude": 42.346, 
         "name": "Kriva Palanka", 
         "alias_ENG_P": [
           "Kriva Palanka Municipality"
@@ -48,7 +47,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550831, 
+        "ne_latitude": 42.346, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Kriva Palanka"
         ], 
@@ -56,14 +56,13 @@
         "ne_longitude": 22.544, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 42.104, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550777", 
           "woe:state=24550780", 
           "woe:state=24550851", 
           "woe:state=24550844"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 42.224, 
         "sw_longitude": 22.165, 
         "fullname": "Kriva Palanka, Kriva Palanka Municipality, Macedonia", 
@@ -78,7 +77,8 @@
           "woe:town=482695", 
           "woe:town=483271"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 42.104, 
+        "woe:id": 24550831
       }, 
       "id": 24550831
     }

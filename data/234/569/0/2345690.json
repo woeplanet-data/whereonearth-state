@@ -38,16 +38,31 @@
           2345705, 
           2345709
         ], 
+        "alias_UNK_A": [
+          "A-SKAFT"
+        ], 
         "name": "Auster-Skaftafellssysla", 
-        "ne_latitude": 64.676, 
         "hierarchy": [
           "woe:state=2345690", 
           "woe:country=23424845", 
           "woe:planet=1"
         ], 
-        "woeid": 2345690, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -14.507, 
         "longitude": -16.005, 
+        "placetype": "state", 
+        "iso": "IS", 
+        "sw_latitude": 63.759, 
+        "adjacent": [
+          "woe:state=2345698", 
+          "woe:state=2345704", 
+          "woe:state=2345705", 
+          "woe:state=2345709"
+        ], 
+        "ne_latitude": 64.676, 
+        "latitude": 64.218, 
+        "sw_longitude": -17.502, 
+        "fullname": "Auster-Skaftafellssysla, Iceland", 
         "children": [
           "woe:town=980059", 
           "woe:town=980121", 
@@ -68,23 +83,8 @@
           "woe:island=12476054", 
           "woe:island=12476061"
         ], 
-        "placetype": "state", 
-        "iso": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
-        "adjacent": [
-          "woe:state=2345698", 
-          "woe:state=2345704", 
-          "woe:state=2345705", 
-          "woe:state=2345709"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 64.218, 
-        "sw_longitude": -17.502, 
-        "fullname": "Auster-Skaftafellssysla, Iceland", 
-        "alias_UNK_A": [
-          "A-SKAFT"
-        ], 
-        "sw_latitude": 63.759
+        "woe:id": 2345690
       }, 
       "id": 2345690
     }

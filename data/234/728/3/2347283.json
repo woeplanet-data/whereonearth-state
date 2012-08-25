@@ -474,7 +474,7 @@
         "ne:Shape_Area": 1.43947478032, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1957", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
         "children": [
@@ -492,7 +492,7 @@
           "woe:county=29390234", 
           "woe:county=29390899"
         ], 
-        "ne:OBJECTID": 2269, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 30.136073032344598, 
@@ -511,9 +511,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 39.08634837517741, 
-        "ne:VertexCou": 112.0, 
-        "ne:VALIDFR_1": "1957", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 2269, 
         "ne:Postal": "ES", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Eskisehir", 
@@ -529,8 +529,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 13727.5, 
         "woe:id": "2347283", 
-        "ne:HASC_1": "TR.ES", 
-        "lang": "UNK", 
+        "name": "Eski\u015fehir", 
+        "ne:VertexCou": 112.0, 
         "adjacent_woeid": [
           2347260, 
           2347263, 
@@ -539,7 +539,7 @@
           2347297, 
           2347321
         ], 
-        "name": "Eski\u015fehir", 
+        "ne:HASC_1": "TR.ES", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Eskisehir"

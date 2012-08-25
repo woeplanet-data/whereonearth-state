@@ -32,20 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -9.333, 
         "name": "Fakaofo", 
         "hierarchy": [
           "woe:state=24549893", 
           "woe:country=23424963", 
           "woe:planet=1"
         ], 
-        "woeid": 24549893, 
+        "ne_latitude": -9.333, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -171.182, 
         "longitude": -171.25, 
         "placetype": "state", 
         "iso": "TK", 
-        "sw_latitude": -9.434, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:53:23Z", 
         "latitude": -9.383, 
         "sw_longitude": -171.267, 
         "fullname": "Fakaofo, Tokelau", 
@@ -55,7 +54,8 @@
           "woe:island=12502049", 
           "woe:island=12502074"
         ], 
-        "date_indexed": "2010-12-02T08:53:23Z"
+        "sw_latitude": -9.434, 
+        "woe:id": 24549893
       }, 
       "id": 24549893
     }

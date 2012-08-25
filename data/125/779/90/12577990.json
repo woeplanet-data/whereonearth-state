@@ -1253,7 +1253,7 @@
         "ne:Shape_Area": 0.377808022726, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "19921230", 
         "ne:gadm_level": 2.0, 
         "ne:ADM0_A3": "HRV", 
         "children": [
@@ -1293,7 +1293,7 @@
           "woe:county=55852537", 
           "woe:historicalcounty=15022474"
         ], 
-        "ne:OBJECTID": 1583, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 14.96826500852336, 
@@ -1316,9 +1316,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 44.87855296454774, 
-        "ne:VertexCou": 294.0, 
-        "ne:VALIDFR_1": "19921230", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 1583, 
         "ne:Postal": "KA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Karlovac", 
@@ -1334,8 +1334,8 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 3294.2, 
         "woe:id": "12577990", 
-        "ne:HASC_1": "HR.KA", 
-        "lang": "UNK", 
+        "name": "Zagreba\u010dka", 
+        "ne:VertexCou": 294.0, 
         "adjacent_woeid": [
           12577975, 
           12577976, 
@@ -1348,7 +1348,7 @@
           55848359, 
           55848372
         ], 
-        "name": "Zagreba\u010dka", 
+        "ne:HASC_1": "HR.KA", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Zagrebacka"

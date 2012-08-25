@@ -41,18 +41,17 @@
           29281934
         ], 
         "name": "Giurgiu", 
-        "ne_latitude": 44.558, 
         "hierarchy": [
           "woe:state=2346655", 
           "woe:country=23424933", 
           "woe:planet=1"
         ], 
-        "woeid": 2346655, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 26.43, 
         "longitude": 25.943, 
         "placetype": "state", 
         "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
+        "sw_latitude": 43.69, 
         "adjacent": [
           "woe:state=2346654", 
           "woe:state=2346630", 
@@ -61,7 +60,7 @@
           "woe:state=20070070", 
           "woe:state=2346648"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 44.558, 
         "latitude": 44.124, 
         "sw_longitude": 25.457, 
         "fullname": "Giurgiu, Romania", 
@@ -231,7 +230,8 @@
           "woe:town=884082", 
           "woe:town=883918"
         ], 
-        "sw_latitude": 43.69
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "woe:id": 2346655
       }, 
       "id": 2346655
     }

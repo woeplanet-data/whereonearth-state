@@ -31,51 +31,16 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2346274, 
-          2346276, 
-          2346282, 
-          2346285, 
-          2346291, 
-          2346293, 
-          2346295
-        ], 
-        "name": "San Luis Potosi", 
-        "adjacent": [
-          "woe:state=2346274", 
-          "woe:state=2346276", 
-          "woe:state=2346282", 
-          "woe:state=2346285", 
-          "woe:state=2346291", 
-          "woe:state=2346293", 
-          "woe:state=2346295"
-        ], 
         "hierarchy": [
           "woe:state=2346287", 
           "woe:country=23424900", 
           "woe:planet=1"
         ], 
-        "woeid": 2346287, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -98.33, 
-        "longitude": -100.317, 
         "ne_latitude": 24.491, 
         "placetype": "state", 
-        "alias_SPA_S": [
-          "S. Luis Potosi"
-        ], 
-        "sw_longitude": -102.303, 
-        "date_indexed": "2010-12-02T16:55:36Z", 
         "alias_ENG_A": [
           "SL"
         ], 
-        "alias_SPA_V": [
-          "Sanluis"
-        ], 
-        "latitude": 22.825, 
-        "iso": "MX", 
-        "fullname": "San Luis Potosi, Mexico", 
         "children": [
           "woe:county=12601469", 
           "woe:county=12601470", 
@@ -140,7 +105,42 @@
           "woe:town=133492", 
           "woe:town=26797902"
         ], 
-        "sw_latitude": 21.159
+        "alias_SPA_S": [
+          "S. Luis Potosi"
+        ], 
+        "sw_longitude": -102.303, 
+        "adjacent": [
+          "woe:state=2346274", 
+          "woe:state=2346276", 
+          "woe:state=2346282", 
+          "woe:state=2346285", 
+          "woe:state=2346291", 
+          "woe:state=2346293", 
+          "woe:state=2346295"
+        ], 
+        "alias_SPA_V": [
+          "Sanluis"
+        ], 
+        "latitude": 22.825, 
+        "woe:id": 2346287, 
+        "sw_latitude": 21.159, 
+        "provider": "geoplanet 7.6.0", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2346274, 
+          2346276, 
+          2346282, 
+          2346285, 
+          2346291, 
+          2346293, 
+          2346295
+        ], 
+        "name": "San Luis Potosi", 
+        "ne_longitude": -98.33, 
+        "longitude": -100.317, 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "fullname": "San Luis Potosi, Mexico"
       }, 
       "id": 2346287
     }

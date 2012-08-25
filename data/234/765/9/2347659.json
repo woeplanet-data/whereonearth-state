@@ -39,25 +39,24 @@
           20070197
         ], 
         "name": "Andijon", 
-        "ne_latitude": 41.065, 
         "hierarchy": [
           "woe:state=2347659", 
           "woe:country=23424980", 
           "woe:planet=1"
         ], 
-        "woeid": 2347659, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 73.132, 
         "longitude": 72.338, 
         "placetype": "state", 
         "iso": "UZ", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
+        "sw_latitude": 40.401, 
         "adjacent": [
           "woe:state=2347662", 
           "woe:state=20070193", 
           "woe:state=2347666", 
           "woe:state=20070197"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.065, 
         "latitude": 40.733, 
         "sw_longitude": 71.545, 
         "fullname": "Andijon, Uzbekistan", 
@@ -91,7 +90,8 @@
           "woe:town=56122889", 
           "woe:town=2272632"
         ], 
-        "sw_latitude": 40.401
+        "date_indexed": "2010-12-02T18:18:47Z", 
+        "woe:id": 2347659
       }, 
       "id": 2347659
     }

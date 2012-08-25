@@ -38,24 +38,23 @@
           2345558
         ], 
         "name": "Sacatepequez", 
-        "ne_latitude": 14.725, 
         "hierarchy": [
           "woe:state=2345567", 
           "woe:country=23424834", 
           "woe:planet=1"
         ], 
-        "woeid": 2345567, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -90.612, 
         "longitude": -90.747, 
         "placetype": "state", 
         "iso": "GT", 
-        "date_indexed": "2010-12-02T16:55:18Z", 
+        "sw_latitude": 14.376, 
         "adjacent": [
           "woe:state=2345554", 
           "woe:state=2345557", 
           "woe:state=2345558"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.725, 
         "latitude": 14.551, 
         "sw_longitude": -90.881, 
         "fullname": "Sacatepequez, Guatemala", 
@@ -77,7 +76,8 @@
           "woe:county=26807126", 
           "woe:county=26807125"
         ], 
-        "sw_latitude": 14.376
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "woe:id": 2345567
       }, 
       "id": 2345567
     }

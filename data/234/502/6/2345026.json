@@ -4691,7 +4691,7 @@
         "ne:Shape_Area": 5.17737926678, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1979", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHL", 
         "children": [
@@ -4700,7 +4700,7 @@
           "woe:county=26794008", 
           "woe:county=26794009"
         ], 
-        "ne:OBJECTID": 2704, 
+        "ne:DataRank": 3, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_SPA_S": [
@@ -4723,9 +4723,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": -44.044598077339344, 
-        "ne:VertexCou": 1150.0, 
-        "ne:VALIDFR_1": "1979", 
-        "ne:DataRank": 3, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 2704, 
         "ne:Postal": "LL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "X", 
@@ -4741,8 +4741,8 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 47626.0, 
         "woe:id": "2345026", 
-        "ne:HASC_1": "CL.LL", 
-        "lang": "SPA", 
+        "name": "Los Lagos", 
+        "ne:VertexCou": 1150.0, 
         "adjacent_woeid": [
           2344678, 
           2344689, 
@@ -4750,7 +4750,7 @@
           2345019, 
           56043703
         ], 
-        "name": "Los Lagos", 
+        "ne:HASC_1": "CL.LL", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -72.122, 

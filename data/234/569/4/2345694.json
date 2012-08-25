@@ -40,16 +40,33 @@
           20070106, 
           20070109
         ], 
+        "alias_UNK_A": [
+          "GULL"
+        ], 
         "name": "Gullbringusysla", 
-        "ne_latitude": 64.178, 
         "hierarchy": [
           "woe:state=2345694", 
           "woe:country=23424845", 
           "woe:planet=1"
         ], 
-        "woeid": 2345694, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -21.364, 
         "longitude": -22.066, 
+        "placetype": "state", 
+        "iso": "IS", 
+        "sw_latitude": 63.798, 
+        "adjacent": [
+          "woe:state=2345687", 
+          "woe:state=20070102", 
+          "woe:state=20070105", 
+          "woe:state=2345695", 
+          "woe:state=20070106", 
+          "woe:state=20070109"
+        ], 
+        "ne_latitude": 64.178, 
+        "latitude": 63.98, 
+        "sw_longitude": -22.769, 
+        "fullname": "Gullbringusysla, Iceland", 
         "children": [
           "woe:town=980057", 
           "woe:town=980088", 
@@ -66,25 +83,8 @@
           "woe:island=12475918", 
           "woe:drainage=55863648"
         ], 
-        "placetype": "state", 
-        "iso": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
-        "adjacent": [
-          "woe:state=2345687", 
-          "woe:state=20070102", 
-          "woe:state=20070105", 
-          "woe:state=2345695", 
-          "woe:state=20070106", 
-          "woe:state=20070109"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 63.98, 
-        "sw_longitude": -22.769, 
-        "fullname": "Gullbringusysla, Iceland", 
-        "alias_UNK_A": [
-          "GULL"
-        ], 
-        "sw_latitude": 63.798
+        "woe:id": 2345694
       }, 
       "id": 2345694
     }

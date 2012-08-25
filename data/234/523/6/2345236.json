@@ -49,13 +49,12 @@
           "woe:country=23424802", 
           "woe:planet=1"
         ], 
-        "woeid": 2345236, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.283, 
         "longitude": 31.745, 
-        "ne_latitude": 31.287, 
         "placetype": "state", 
         "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
+        "sw_latitude": 30.288, 
         "adjacent": [
           "woe:state=2345223", 
           "woe:state=2345229", 
@@ -64,7 +63,7 @@
           "woe:state=2345237", 
           "woe:state=2345241"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.287, 
         "latitude": 30.747, 
         "sw_longitude": 31.262, 
         "fullname": "Ash Sharquiyah, Egypt", 
@@ -96,7 +95,8 @@
           "woe:airport=12512672", 
           "woe:airport=12512671"
         ], 
-        "sw_latitude": 30.288
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "woe:id": 2345236
       }, 
       "id": 2345236
     }

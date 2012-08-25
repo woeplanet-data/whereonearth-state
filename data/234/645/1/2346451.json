@@ -42,13 +42,12 @@
           2346464
         ], 
         "name": "Caaguaz\u00fa", 
-        "ne_latitude": -24.492, 
         "hierarchy": [
           "woe:state=2346451", 
           "woe:country=23424917", 
           "woe:planet=1"
         ], 
-        "woeid": 2346451, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -55.217, 
         "longitude": -55.877, 
         "placetype": "state", 
@@ -56,7 +55,7 @@
           "Caaguazu"
         ], 
         "iso": "PY", 
-        "date_indexed": "2010-12-02T12:08:38Z", 
+        "sw_latitude": -25.702, 
         "adjacent": [
           "woe:state=2346448", 
           "woe:state=2346452", 
@@ -66,7 +65,7 @@
           "woe:state=2346460", 
           "woe:state=2346462"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -24.492, 
         "latitude": -25.097, 
         "sw_longitude": -56.823, 
         "fullname": "Caaguaz\u00fa, Paraguay", 
@@ -91,7 +90,8 @@
           "woe:county=26810928", 
           "woe:county=26810888"
         ], 
-        "sw_latitude": -25.702
+        "date_indexed": "2010-12-02T12:08:38Z", 
+        "woe:id": 2346451
       }, 
       "id": 2346451
     }

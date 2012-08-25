@@ -1070,7 +1070,7 @@
         "ne:Shape_Area": 0.480999782299, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud6c4\ucfe0\uc624\uce74\ucf04"
         ], 
@@ -1141,7 +1141,7 @@
         "alias_CHI_Q": [
           "\u798f\u5188\u53bf"
         ], 
-        "ne:OBJECTID": 1829, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u798f\u5ca1"
         ], 
@@ -1166,9 +1166,9 @@
         "ne:FIRST_HASC": "JP.NS", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 259.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1829, 
         "ne:Postal": "FO", 
         "ne:Region_Cod": "JPN-KYS", 
         "ne:VARNAME_1": "Hukuoka", 
@@ -1187,8 +1187,8 @@
           "Pr\u00e4fektur Fukuoka"
         ], 
         "woe:id": "58646425", 
-        "ne:HASC_1": "JP.FO", 
-        "lang": "JPN", 
+        "name": "\u798f\u5ca1\u770c", 
+        "ne:VertexCou": 259.0, 
         "adjacent_woeid": [
           2345870, 
           2345879, 
@@ -1196,7 +1196,7 @@
           2345894
         ], 
         "ne:FIRST_FIPS": "JA27", 
-        "name": "\u798f\u5ca1\u770c", 
+        "ne:HASC_1": "JP.FO", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 131.19517581581135, 
         "longitude": 130.615, 

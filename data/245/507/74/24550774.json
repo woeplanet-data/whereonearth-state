@@ -41,7 +41,6 @@
           24550801, 
           24550840
         ], 
-        "ne_latitude": 41.515, 
         "name": "Kavadarci", 
         "alias_ENG_P": [
           "Kavadarci Municipality"
@@ -51,7 +50,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550774, 
+        "ne_latitude": 41.515, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Kavadarci"
         ], 
@@ -59,7 +59,7 @@
         "ne_longitude": 22.273, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.091, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=12577884", 
           "woe:state=24550760", 
@@ -69,7 +69,6 @@
           "woe:state=24550801", 
           "woe:state=24550754"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 41.303, 
         "sw_longitude": 21.713, 
         "fullname": "Kavadarci, Kavadarci Municipality, Macedonia", 
@@ -83,7 +82,8 @@
           "woe:town=482976", 
           "woe:town=483169"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.091, 
+        "woe:id": 24550774
       }, 
       "id": 24550774
     }

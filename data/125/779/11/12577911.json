@@ -52,6 +52,27 @@
         "ne_latitude": 47.134, 
         "ne_longitude": 20.16, 
         "longitude": 19.446, 
+        "placetype": "state", 
+        "iso": "HU", 
+        "sw_latitude": 45.905, 
+        "adjacent": [
+          "woe:state=12577912", 
+          "woe:state=12577916", 
+          "woe:state=56043621", 
+          "woe:state=12577917", 
+          "woe:state=12577926", 
+          "woe:state=56043634", 
+          "woe:state=12577980", 
+          "woe:state=12577923", 
+          "woe:state=12577927"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.519, 
+        "sw_longitude": 18.733, 
+        "fullname": "B\u00e1cs-Kiskun, Hungary", 
+        "alias_HUN_S": [
+          "Bacs-Kiskun"
+        ], 
         "children": [
           "woe:county=12593294", 
           "woe:county=12593786", 
@@ -176,29 +197,8 @@
           "woe:zone=24873851", 
           "woe:zone=24873852"
         ], 
-        "placetype": "state", 
-        "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "adjacent": [
-          "woe:state=12577912", 
-          "woe:state=12577916", 
-          "woe:state=56043621", 
-          "woe:state=12577917", 
-          "woe:state=12577926", 
-          "woe:state=56043634", 
-          "woe:state=12577980", 
-          "woe:state=12577923", 
-          "woe:state=12577927"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 46.519, 
-        "sw_longitude": 18.733, 
-        "fullname": "B\u00e1cs-Kiskun, Hungary", 
-        "alias_HUN_S": [
-          "Bacs-Kiskun"
-        ], 
-        "woeid": 12577911, 
-        "sw_latitude": 45.905
+        "woe:id": 12577911
       }, 
       "id": 12577911
     }

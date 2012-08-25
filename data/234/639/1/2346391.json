@@ -31,13 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "NOR", 
-        "adjacent_woeid": [
-          2346394, 
-          2346398, 
-          2346399
-        ], 
-        "name": "M\u00f8re og Romsdal Fylke", 
         "alias_ENG_P": [
           "More og Romsdal"
         ], 
@@ -46,25 +39,8 @@
           "woe:country=23424910", 
           "woe:planet=1"
         ], 
-        "woeid": 2346391, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 9.584, 
-        "longitude": 7.494, 
-        "placetype": "state", 
-        "sw_longitude": 5.246, 
-        "date_indexed": "2010-12-02T10:19:56Z", 
-        "adjacent": [
-          "woe:state=2346394", 
-          "woe:state=2346398", 
-          "woe:state=2346399"
-        ], 
         "ne_latitude": 63.605, 
-        "latitude": 62.584, 
-        "iso": "NO", 
-        "fullname": "M\u00f8re og Romsdal Fylke, More og Romsdal, Norway", 
-        "alias_NOR_V": [
-          "M\u00f8re og Romsdal"
-        ], 
+        "placetype": "state", 
         "children": [
           "woe:county=12592878", 
           "woe:county=12592678", 
@@ -120,10 +96,34 @@
           "woe:drainage=29361983", 
           "woe:drainage=29362348"
         ], 
-        "sw_latitude": 61.957, 
+        "sw_longitude": 5.246, 
+        "adjacent": [
+          "woe:state=2346394", 
+          "woe:state=2346398", 
+          "woe:state=2346399"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 62.584, 
         "alias_NOR_S": [
           "Moere og Romsdals"
-        ]
+        ], 
+        "woe:id": 2346391, 
+        "alias_NOR_V": [
+          "M\u00f8re og Romsdal"
+        ], 
+        "sw_latitude": 61.957, 
+        "lang": "NOR", 
+        "adjacent_woeid": [
+          2346394, 
+          2346398, 
+          2346399
+        ], 
+        "name": "M\u00f8re og Romsdal Fylke", 
+        "ne_longitude": 9.584, 
+        "longitude": 7.494, 
+        "iso": "NO", 
+        "date_indexed": "2010-12-02T10:19:56Z", 
+        "fullname": "M\u00f8re og Romsdal Fylke, More og Romsdal, Norway"
       }, 
       "id": 2346391
     }

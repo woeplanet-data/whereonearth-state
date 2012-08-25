@@ -32,30 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345070, 
+        "placetype": "state", 
         "name": "San Andres y Providencia", 
         "hierarchy": [
           "woe:state=2345070", 
           "woe:country=23424787", 
           "woe:planet=1"
         ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -81.35, 
+        "longitude": -81.704, 
         "ne_latitude": 13.39, 
+        "iso": "CO", 
+        "sw_latitude": 12.487, 
         "alias_SPA_V": [
           "S. Andres y Providencia"
         ], 
-        "ne_longitude": -81.35, 
-        "longitude": -81.704, 
-        "placetype": "state", 
-        "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 12.539, 
         "sw_longitude": -81.728, 
         "fullname": "San Andres y Providencia, Colombia", 
         "children": [
           "woe:county=26797678"
         ], 
-        "sw_latitude": 12.487
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "woe:id": 2345070
       }, 
       "id": 2345070
     }

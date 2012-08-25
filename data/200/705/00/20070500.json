@@ -37,38 +37,38 @@
           20070501
         ], 
         "name": "Karlovarsk\u00fd", 
-        "ne_latitude": 50.46, 
         "hierarchy": [
           "woe:state=20070500", 
           "woe:country=23424810", 
           "woe:planet=1"
         ], 
-        "woeid": 20070500, 
+        "alias_CZE_S": [
+          "Karlovarsky"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 13.301, 
         "longitude": 12.696, 
-        "children": [
-          "woe:county=12582604", 
-          "woe:county=12582606", 
-          "woe:county=12582612"
-        ], 
         "placetype": "state", 
         "iso": "CZ", 
-        "date_indexed": "2010-12-02T08:54:50Z", 
+        "sw_latitude": 49.891, 
         "adjacent": [
           "woe:state=20070501", 
           "woe:state=20070499"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 50.46, 
         "latitude": 50.176, 
         "sw_longitude": 12.091, 
         "fullname": "Karlovarsk\u00fd, Czech Republic", 
         "alias_GER_Q": [
           "Karlsbad"
         ], 
-        "alias_CZE_S": [
-          "Karlovarsky"
+        "children": [
+          "woe:county=12582604", 
+          "woe:county=12582606", 
+          "woe:county=12582612"
         ], 
-        "sw_latitude": 49.891
+        "date_indexed": "2010-12-02T08:54:50Z", 
+        "woe:id": 20070500
       }, 
       "id": 20070500
     }

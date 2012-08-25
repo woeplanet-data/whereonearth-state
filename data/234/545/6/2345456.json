@@ -39,40 +39,40 @@
           2345453
         ], 
         "name": "Ogooue-Martime", 
-        "ne_latitude": -0.279, 
         "hierarchy": [
           "woe:state=2345456", 
           "woe:country=23424822", 
           "woe:planet=1"
         ], 
-        "woeid": 2345456, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 10.611, 
         "longitude": 9.653, 
-        "children": [
-          "woe:county=55998483", 
-          "woe:county=55998485", 
-          "woe:county=55998484"
+        "alias_FRE_S": [
+          "Ogooue-Maritime"
         ], 
         "placetype": "state", 
-        "alias_FRE_V": [
-          "Ogoou\u00e9-Maritime"
-        ], 
+        "latitude": -1.526, 
         "iso": "GA", 
-        "date_indexed": "2010-12-02T08:50:01Z", 
+        "sw_latitude": -2.773, 
         "adjacent": [
           "woe:state=2345449", 
           "woe:state=2345451", 
           "woe:state=2345452", 
           "woe:state=2345453"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": -1.526, 
+        "ne_latitude": -0.279, 
+        "alias_FRE_V": [
+          "Ogoou\u00e9-Maritime"
+        ], 
         "sw_longitude": 8.695, 
         "fullname": "Ogooue-Martime, Gabon", 
-        "alias_FRE_S": [
-          "Ogooue-Maritime"
+        "children": [
+          "woe:county=55998483", 
+          "woe:county=55998485", 
+          "woe:county=55998484"
         ], 
-        "sw_latitude": -2.773
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "woe:id": 2345456
       }, 
       "id": 2345456
     }

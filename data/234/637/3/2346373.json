@@ -586,7 +586,7 @@
         "ne:Shape_Area": 0.351623161748, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "19860101", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
         "children": [
@@ -605,11 +605,11 @@
           "woe:landfeature=56058395", 
           "woe:landfeature=56058398"
         ], 
-        "ne:LabelRank": 8, 
+        "ne:Region_Cod": null, 
         "alias_ITA_Q": [
           "Drente"
         ], 
-        "ne:OBJECTID": 894, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 6.129476352551706, 
@@ -629,10 +629,10 @@
         "alias_DUT_A": [
           "DR"
         ], 
-        "ne:VALIDFR_1": "19860101", 
-        "ne:DataRank": 8, 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 894, 
         "ne:Postal": "DR", 
-        "ne:Region_Cod": null, 
+        "ne:LabelRank": 8, 
         "ne:VARNAME_1": null, 
         "ne:ISO": "NLD", 
         "ne:TYPE_1": "Provincie", 
@@ -648,7 +648,7 @@
         ], 
         "ne:Area_sqkm": 2635.4, 
         "woe:id": "2346373", 
-        "ne:HASC_1": "NL.DR", 
+        "name": "Drenthe", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2345486, 
@@ -656,7 +656,7 @@
           2346376, 
           2346380
         ], 
-        "name": "Drenthe", 
+        "ne:HASC_1": "NL.DR", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 7.071796095413504, 
         "longitude": 6.606, 

@@ -39,25 +39,24 @@
           20070508
         ], 
         "name": "Kareliya", 
-        "ne_latitude": 66.692, 
         "hierarchy": [
           "woe:state=2346873", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346873, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 38.02, 
         "longitude": 33.617, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 60.706, 
         "adjacent": [
           "woe:state=20070508", 
           "woe:state=2346907", 
           "woe:state=2346912", 
           "woe:state=2346934"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 66.692, 
         "latitude": 63.699, 
         "sw_longitude": 29.215, 
         "fullname": "Kareliya, Russia", 
@@ -84,7 +83,8 @@
           "woe:county=12597442", 
           "woe:county=12597443"
         ], 
-        "sw_latitude": 60.706
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346873
       }, 
       "id": 2346873
     }

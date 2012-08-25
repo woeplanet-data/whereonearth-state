@@ -31,50 +31,19 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "adjacent_woeid": [
-          2347659, 
-          2347662, 
-          12578003, 
-          20070191, 
-          20070193, 
-          20070196, 
-          20070296, 
-          20070297
+        "alias_SWE_Q": [
+          "Osj"
         ], 
-        "alias_KOR_Q": [
-          "\uc624\uc288"
-        ], 
-        "name": "Osh", 
         "hierarchy": [
           "woe:state=20070197", 
           "woe:country=23424864", 
           "woe:planet=1"
         ], 
-        "woeid": 20070197, 
-        "alias_JPN_Q": [
-          "\u30aa\u30b7"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 74.908, 
-        "longitude": 73.33, 
-        "placetype": "state", 
-        "iso": "KG", 
-        "date_indexed": "2010-12-02T08:58:47Z", 
-        "adjacent": [
-          "woe:state=2347659", 
-          "woe:state=20070196", 
-          "woe:state=2347662", 
-          "woe:state=20070193", 
-          "woe:state=20070297", 
-          "woe:state=20070296", 
-          "woe:state=20070191", 
-          "woe:state=12578003"
-        ], 
         "ne_latitude": 41.089, 
-        "latitude": 40.131, 
-        "sw_longitude": 71.753, 
-        "fullname": "Osh, Kyrgyzstan", 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\uc624\uc288"
+        ], 
         "children": [
           "woe:town=1969879", 
           "woe:town=1969049", 
@@ -97,10 +66,41 @@
           "woe:town=1969821", 
           "woe:town=1969965"
         ], 
+        "alias_JPN_Q": [
+          "\u30aa\u30b7"
+        ], 
+        "sw_longitude": 71.753, 
+        "adjacent": [
+          "woe:state=2347659", 
+          "woe:state=20070196", 
+          "woe:state=2347662", 
+          "woe:state=20070193", 
+          "woe:state=20070297", 
+          "woe:state=20070296", 
+          "woe:state=20070191", 
+          "woe:state=12578003"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.131, 
+        "woe:id": 20070197, 
         "sw_latitude": 39.173, 
-        "alias_SWE_Q": [
-          "Osj"
-        ]
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347659, 
+          2347662, 
+          12578003, 
+          20070191, 
+          20070193, 
+          20070196, 
+          20070296, 
+          20070297
+        ], 
+        "name": "Osh", 
+        "ne_longitude": 74.908, 
+        "longitude": 73.33, 
+        "iso": "KG", 
+        "date_indexed": "2010-12-02T08:58:47Z", 
+        "fullname": "Osh, Kyrgyzstan"
       }, 
       "id": 20070197
     }

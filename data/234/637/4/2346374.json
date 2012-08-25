@@ -840,7 +840,7 @@
         "ne:Shape_Area": 0.527027799162, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "Fr\u00edsia"
         ], 
@@ -885,16 +885,16 @@
           "woe:landfeature=56058387", 
           "woe:landfeature=56058401"
         ], 
-        "ne:VALIDTO_1": "Present", 
-        "alias_ITA_Q": [
-          "Frisia"
-        ], 
-        "ne:OBJECTID": 895, 
-        "ne:Abbrev": null, 
+        "ne:Region_Cod": null, 
         "alias_SPA_Q": [
           "Frisia"
         ], 
-        "ne:LabelRank": 8, 
+        "alias_ITA_Q": [
+          "Frisia"
+        ], 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
         "sw_longitude": 4.879113396765888, 
         "adjacent": [
           "woe:state=2346373", 
@@ -912,10 +912,10 @@
         "alias_DUT_A": [
           "FR"
         ], 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 895, 
         "ne:Postal": "FR", 
-        "ne:Region_Cod": null, 
+        "ne:LabelRank": 8, 
         "ne:VARNAME_1": "Frise|Frisia|Fr\u00edsia", 
         "ne:ISO": "NLD", 
         "ne:Region_C_3": null, 
@@ -931,7 +931,7 @@
         ], 
         "ne:Area_sqkm": 3929.6, 
         "woe:id": "2346374", 
-        "ne:HASC_1": "NL.FR", 
+        "name": "Friesland", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2346373, 
@@ -939,7 +939,7 @@
           2346380, 
           2346384
         ], 
-        "name": "Friesland", 
+        "ne:HASC_1": "NL.FR", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Fryslan"

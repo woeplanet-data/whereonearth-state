@@ -1786,7 +1786,7 @@
         "ne:Shape_Area": 8.98011627794, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 13, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "CHO"
         ], 
@@ -1819,7 +1819,7 @@
           "woe:county=20070789", 
           "woe:county=20070655"
         ], 
-        "ne:OBJECTID": 1306, 
+        "ne:DataRank": 3, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -63.39857947496279, 
@@ -1840,9 +1840,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -28.00268320076907, 
-        "ne:VertexCou": 430.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 13, 
+        "ne:OBJECTID": 1306, 
         "ne:Postal": "CC", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "El Chaco|Presidente Juan Per\u00a2n", 
@@ -1858,8 +1858,8 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 99266.3, 
         "woe:id": "2344677", 
-        "ne:HASC_1": "AR.CC", 
-        "lang": "SPA", 
+        "name": "Chaco", 
+        "ne:VertexCou": 430.0, 
         "adjacent_woeid": [
           2344680, 
           2344683, 
@@ -1868,7 +1868,7 @@
           2344696, 
           2346459
         ], 
-        "name": "Chaco", 
+        "ne:HASC_1": "AR.CC", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -60.901, 

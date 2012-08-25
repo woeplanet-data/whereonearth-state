@@ -4120,7 +4120,7 @@
         "ne:Shape_Area": 7.19314707834, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "AS"
         ], 
@@ -4155,7 +4155,7 @@
         "alias_CHI_Q": [
           "\u963f\u8428\u59c6"
         ], 
-        "ne:OBJECTID": 2477, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30a2\u30c3\u30b5\u30e0"
         ], 
@@ -4184,9 +4184,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 24.12777822478529, 
-        "ne:VertexCou": 995.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 2477, 
         "ne:Postal": "AS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -4202,8 +4202,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 79539.1, 
         "woe:id": "2345741", 
-        "ne:HASC_1": "IN.AS", 
-        "lang": "ENG", 
+        "name": "Assam", 
+        "ne:VertexCou": 995.0, 
         "adjacent_woeid": [
           2344791, 
           2344793, 
@@ -4219,7 +4219,7 @@
           20070461, 
           23706411
         ], 
-        "name": "Assam", 
+        "ne:HASC_1": "IN.AS", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 96.01184533109722, 
         "longitude": 92.854, 

@@ -48,13 +48,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347184, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 100.091, 
         "longitude": 99.115, 
-        "ne_latitude": 10.127, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 8.3, 
         "adjacent": [
           "woe:state=2347182", 
           "woe:state=2347187", 
@@ -62,7 +61,7 @@
           "woe:state=2347185", 
           "woe:state=2347183"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 10.127, 
         "latitude": 9.018, 
         "sw_longitude": 98.443, 
         "fullname": "Surat Thani, Thailand", 
@@ -90,7 +89,8 @@
           "woe:island=12501872", 
           "woe:landfeature=56057330"
         ], 
-        "sw_latitude": 8.3
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347184
       }, 
       "id": 2347184
     }

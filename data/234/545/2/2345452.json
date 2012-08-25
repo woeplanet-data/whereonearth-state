@@ -41,21 +41,18 @@
           2345456
         ], 
         "name": "Ngounie", 
-        "ne_latitude": -0.376, 
         "hierarchy": [
           "woe:state=2345452", 
           "woe:country=23424822", 
           "woe:planet=1"
         ], 
-        "woeid": 2345452, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 12.532, 
         "longitude": 11.196, 
         "placetype": "state", 
-        "alias_FRE_V": [
-          "Ngouni\u00e9"
-        ], 
+        "latitude": -1.561, 
         "iso": "GA", 
-        "date_indexed": "2010-12-02T08:50:01Z", 
+        "sw_latitude": -2.745, 
         "adjacent": [
           "woe:state=2345451", 
           "woe:state=2344972", 
@@ -64,8 +61,10 @@
           "woe:state=2345455", 
           "woe:state=2345456"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": -1.561, 
+        "ne_latitude": -0.376, 
+        "alias_FRE_V": [
+          "Ngouni\u00e9"
+        ], 
         "sw_longitude": 9.859, 
         "fullname": "Ngounie, Gabon", 
         "children": [
@@ -77,7 +76,8 @@
           "woe:county=55998466", 
           "woe:county=55998465"
         ], 
-        "sw_latitude": -2.745
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "woe:id": 2345452
       }, 
       "id": 2345452
     }

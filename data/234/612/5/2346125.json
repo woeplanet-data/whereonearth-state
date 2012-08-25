@@ -41,18 +41,17 @@
           2346324
         ], 
         "name": "Murzuq", 
-        "ne_latitude": 26.693, 
         "hierarchy": [
           "woe:state=2346125", 
           "woe:country=23424882", 
           "woe:planet=1"
         ], 
-        "woeid": 2346125, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 19.246, 
         "longitude": 15.366, 
         "placetype": "state", 
         "iso": "LY", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 21.913, 
         "adjacent": [
           "woe:state=2346324", 
           "woe:state=2346122", 
@@ -61,7 +60,7 @@
           "woe:state=2346126", 
           "woe:state=2344623"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 26.693, 
         "latitude": 24.303, 
         "sw_longitude": 11.486, 
         "fullname": "Murzuq, Libya", 
@@ -88,7 +87,8 @@
           "woe:town=1353316", 
           "woe:town=1353336"
         ], 
-        "sw_latitude": 21.913
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 2346125
       }, 
       "id": 2346125
     }

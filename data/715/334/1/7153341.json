@@ -3014,10 +3014,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 46.45259125428299, 
+        "ne:DataRank": 3, 
         "ne:Shape_Area": 2.91573746185, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "alias_KOR_Q": [
           "\ud53c\uc5d0\ubaac\ud14c"
         ], 
@@ -3045,13 +3046,13 @@
           "Piedmont Regione"
         ], 
         "ne:VALIDTO_1": "Unknown", 
-        "ne:OBJECTID": 904, 
         "alias_ITA_V": [
           "Piemonte Regione"
         ], 
         "alias_JPN_Q": [
           "\u30d4\u30fc\u30c9\u30e2\u30f3\u30c8\u53f0\u5730"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Piamonte"
@@ -3080,8 +3081,8 @@
         "alias_CHI_Q": [
           "\u76ae\u57c3\u8499\u7279"
         ], 
-        "ne:VALIDFR_1": "1895", 
-        "ne:DataRank": 3, 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 904, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Piemont|Pi\u00e9mont|Piemonte|Piedmont", 
@@ -3100,7 +3101,7 @@
           "Piemont"
         ], 
         "woe:id": "7153341", 
-        "ne:HASC_1": null, 
+        "name": "Piemonte", 
         "lang": "ITA", 
         "adjacent_woeid": [
           2347102, 
@@ -3112,25 +3113,24 @@
           7153338, 
           7153348
         ], 
-        "name": "Piemonte", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITC", 
         "ne_longitude": 9.20592939632462, 
         "longitude": 7.92, 
-        "ne:NEV_Countr": "Italy", 
+        "alias_FRE_S": [
+          "Le Piemont"
+        ], 
         "ne:VertexCou": 716.0, 
         "iso": "IT", 
         "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Piemonte, Piedmont, Italy", 
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Italy", 
+        "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Le Pi\u00e9mont"
-        ], 
-        "ne:Region": null, 
-        "alias_FRE_S": [
-          "Le Piemont"
-        ], 
-        "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        ]
       }, 
       "id": 7153341
     }

@@ -37,23 +37,22 @@
           2346131
         ], 
         "name": "Banghazi", 
-        "ne_latitude": 32.545, 
         "hierarchy": [
           "woe:state=2346137", 
           "woe:country=23424882", 
           "woe:planet=1"
         ], 
-        "woeid": 2346137, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 21.315, 
         "longitude": 20.212, 
         "placetype": "state", 
         "iso": "LY", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 30.845, 
         "adjacent": [
           "woe:state=2346130", 
           "woe:state=2346131"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 32.545, 
         "latitude": 31.695, 
         "sw_longitude": 19.924, 
         "fullname": "Banghazi, Libya", 
@@ -71,7 +70,8 @@
           "woe:town=1353305", 
           "woe:town=1353349"
         ], 
-        "sw_latitude": 30.845
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 2346137
       }, 
       "id": 2346137
     }

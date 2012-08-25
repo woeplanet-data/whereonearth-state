@@ -38,25 +38,24 @@
           24703044
         ], 
         "name": "North West", 
+        "ne_latitude": 1.471, 
         "hierarchy": [
           "woe:state=24703045", 
           "woe:country=23424948", 
           "woe:planet=1"
         ], 
-        "woeid": 24703045, 
         "ne_longitude": 103.868, 
         "longitude": 103.807, 
         "placetype": "state", 
-        "latitude": 1.388, 
         "iso": "SG", 
-        "sw_latitude": 1.306, 
+        "date_indexed": "2010-12-02T08:53:23Z", 
         "adjacent": [
           "woe:state=24703044", 
           "woe:state=2346296", 
           "woe:state=24703043"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 1.471, 
+        "latitude": 1.388, 
         "sw_longitude": 103.749, 
         "fullname": "North West, Singapore", 
         "children": [
@@ -74,7 +73,8 @@
           "woe:island=12501330", 
           "woe:landfeature=24877054"
         ], 
-        "date_indexed": "2010-12-02T08:53:23Z"
+        "sw_latitude": 1.306, 
+        "woe:id": 24703045
       }, 
       "id": 24703045
     }

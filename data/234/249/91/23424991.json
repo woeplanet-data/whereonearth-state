@@ -32,37 +32,37 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "state", 
+        "alias_SPA_Q": [
+          "Isla Wake"
+        ], 
         "name": "Wake Island", 
-        "ne_latitude": 19.32, 
         "hierarchy": [
           "woe:state=23424991", 
           "woe:country=28289407", 
           "woe:planet=1"
         ], 
-        "woeid": 23424991, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 166.655, 
         "longitude": 166.645, 
-        "children": [
-          "woe:island=12502685", 
-          "woe:airport=12522996"
+        "alias_FRE_S": [
+          "Ile Wake"
         ], 
-        "alias_SPA_Q": [
-          "Isla Wake"
-        ], 
+        "placetype": "state", 
         "iso": "UM", 
-        "date_indexed": "2010-12-02T16:52:36Z", 
-        "provider": "geoplanet 7.6.0", 
+        "sw_latitude": 19.27, 
+        "woe:id": 23424991, 
+        "ne_latitude": 19.32, 
         "latitude": 19.29, 
         "sw_longitude": 166.593, 
         "fullname": "Wake Island, United States Minor Outlying Islands", 
         "alias_GER_Q": [
           "Wakeinsel"
         ], 
-        "alias_FRE_S": [
-          "Ile Wake"
+        "children": [
+          "woe:island=12502685", 
+          "woe:airport=12522996"
         ], 
-        "sw_latitude": 19.27, 
+        "date_indexed": "2010-12-02T16:52:36Z", 
         "alias_FRE_Q": [
           "\u00cele Wake"
         ]

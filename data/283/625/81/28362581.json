@@ -37,24 +37,23 @@
           28362580
         ], 
         "name": "Syddanmark", 
+        "ne_latitude": 55.957, 
         "hierarchy": [
           "woe:state=28362581", 
           "woe:country=23424796", 
           "woe:planet=1"
         ], 
-        "woeid": 28362581, 
         "ne_longitude": 10.956, 
         "longitude": 8.967, 
         "placetype": "state", 
-        "latitude": 55.378, 
         "iso": "DK", 
-        "sw_latitude": 54.722, 
+        "date_indexed": "2010-12-02T16:12:23Z", 
         "adjacent": [
           "woe:state=28362580", 
           "woe:state=2345490"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 55.957, 
+        "latitude": 55.378, 
         "sw_longitude": 8.075, 
         "fullname": "Syddanmark, Denmark", 
         "alias_DAN_V": [
@@ -176,7 +175,8 @@
           "woe:drainage=29353750", 
           "woe:drainage=29353425"
         ], 
-        "date_indexed": "2010-12-02T16:12:23Z"
+        "sw_latitude": 54.722, 
+        "woe:id": 28362581
       }, 
       "id": 28362581
     }

@@ -41,18 +41,17 @@
           2344622
         ], 
         "name": "Guelma", 
-        "ne_latitude": 36.759, 
         "hierarchy": [
           "woe:state=2344595", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344595, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 8.035, 
         "longitude": 7.452, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 36.018, 
         "adjacent": [
           "woe:state=2344607", 
           "woe:state=2344581", 
@@ -61,7 +60,7 @@
           "woe:state=2344602", 
           "woe:state=2344622"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.759, 
         "latitude": 36.389, 
         "sw_longitude": 6.87, 
         "fullname": "Guelma, Algeria", 
@@ -98,7 +97,8 @@
           "woe:town=1257613", 
           "woe:town=56125404"
         ], 
-        "sw_latitude": 36.018
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344595
       }, 
       "id": 2344595
     }

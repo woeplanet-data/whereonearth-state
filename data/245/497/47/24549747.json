@@ -38,14 +38,29 @@
           24549746
         ], 
         "name": "Trinit\u00e9", 
+        "ne_latitude": 14.879, 
         "hierarchy": [
           "woe:state=24549747", 
           "woe:country=23424884", 
           "woe:planet=1"
         ], 
-        "woeid": 24549747, 
         "ne_longitude": -60.866, 
         "longitude": -61.052, 
+        "alias_FRE_S": [
+          "Trinite"
+        ], 
+        "placetype": "state", 
+        "iso": "MQ", 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "adjacent": [
+          "woe:state=24549745", 
+          "woe:state=24549744", 
+          "woe:state=24549746"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.75, 
+        "sw_longitude": -61.16, 
+        "fullname": "Trinit\u00e9, Martinique", 
         "children": [
           "woe:county=24551334", 
           "woe:county=24551330", 
@@ -57,23 +72,8 @@
           "woe:county=24551331", 
           "woe:county=24551335"
         ], 
-        "placetype": "state", 
-        "latitude": 14.75, 
-        "iso": "MQ", 
         "sw_latitude": 14.63, 
-        "adjacent": [
-          "woe:state=24549745", 
-          "woe:state=24549744", 
-          "woe:state=24549746"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 14.879, 
-        "sw_longitude": -61.16, 
-        "fullname": "Trinit\u00e9, Martinique", 
-        "alias_FRE_S": [
-          "Trinite"
-        ], 
-        "date_indexed": "2010-12-02T17:06:00Z"
+        "woe:id": 24549747
       }, 
       "id": 24549747
     }

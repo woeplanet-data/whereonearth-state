@@ -47,20 +47,19 @@
           "woe:country=23424770", 
           "woe:planet=1"
         ], 
-        "woeid": 2344877, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 89.407, 
         "longitude": 88.996, 
-        "ne_latitude": 27.621, 
         "placetype": "state", 
         "iso": "BT", 
-        "date_indexed": "2010-12-02T17:56:39Z", 
+        "sw_latitude": 27.089, 
         "adjacent": [
           "woe:state=2344873", 
           "woe:state=2344880", 
           "woe:state=2344883", 
           "woe:state=12578004"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 27.621, 
         "latitude": 27.412, 
         "sw_longitude": 88.962, 
         "fullname": "Ha, Bhutan", 
@@ -71,7 +70,8 @@
           "woe:county=55998136", 
           "woe:county=55998138"
         ], 
-        "sw_latitude": 27.089
+        "date_indexed": "2010-12-02T17:56:39Z", 
+        "woe:id": 2344877
       }, 
       "id": 2344877
     }

@@ -38,13 +38,12 @@
           2345078
         ], 
         "name": "Distrito Especial", 
-        "ne_latitude": 4.835, 
         "hierarchy": [
           "woe:state=2345079", 
           "woe:country=23424787", 
           "woe:planet=1"
         ], 
-        "woeid": 2345079, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -73.99, 
         "longitude": -74.177, 
         "alias_CHI_Q": [
@@ -52,20 +51,21 @@
         ], 
         "placetype": "state", 
         "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
+        "sw_latitude": 3.674, 
         "adjacent": [
           "woe:state=2345078", 
           "woe:state=2345061", 
           "woe:state=2345064"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 4.835, 
         "latitude": 4.255, 
         "sw_longitude": -74.496, 
         "fullname": "Distrito Especial, Colombia", 
         "children": [
           "woe:county=26796754"
         ], 
-        "sw_latitude": 3.674
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "woe:id": 2345079
       }, 
       "id": 2345079
     }

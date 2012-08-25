@@ -40,18 +40,17 @@
           2344619
         ], 
         "name": "Saida", 
-        "ne_latitude": 35.134, 
         "hierarchy": [
           "woe:state=2344585", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344585, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 0.797, 
         "longitude": 0.222, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 34.132, 
         "adjacent": [
           "woe:state=2344612", 
           "woe:state=2344598", 
@@ -59,7 +58,7 @@
           "woe:state=2344601", 
           "woe:state=2344587"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.134, 
         "latitude": 34.633, 
         "sw_longitude": -0.354, 
         "fullname": "Saida, Algeria", 
@@ -80,7 +79,8 @@
           "woe:town=1257286", 
           "woe:town=22662686"
         ], 
-        "sw_latitude": 34.132
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344585
       }, 
       "id": 2344585
     }

@@ -42,7 +42,6 @@
           55848399, 
           55848400
         ], 
-        "ne_latitude": 42.137, 
         "name": "Gazi Baba", 
         "alias_ENG_P": [
           "Gazi Baba Municipality"
@@ -53,7 +52,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550766, 
+        "ne_latitude": 42.137, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Gazi Baba"
         ], 
@@ -61,7 +61,7 @@
         "ne_longitude": 21.571, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.971, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=55848400", 
           "woe:state=24550745", 
@@ -72,11 +72,11 @@
           "woe:state=24550842", 
           "woe:state=24550752"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 42.054, 
         "sw_longitude": 21.473, 
         "fullname": "Gazi Baba, Skopje, Gazi Baba Municipality, Macedonia", 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "woe:id": 24550766, 
+        "sw_latitude": 41.971
       }, 
       "id": 24550766
     }

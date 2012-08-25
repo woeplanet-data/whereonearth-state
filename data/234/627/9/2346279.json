@@ -31,49 +31,16 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2346271, 
-          2346274, 
-          2346275, 
-          2346277, 
-          2346278, 
-          2346285
-        ], 
-        "alias_ENG_A": [
-          "MI"
-        ], 
-        "name": "Michoacan de Ocampo", 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=2346279", 
           "woe:country=23424900", 
           "woe:planet=1"
         ], 
-        "woeid": 2346279, 
-        "alias_SPA_V": [
-          "Estado de Michoacan de Ocampo"
-        ], 
-        "ne_longitude": -100.062, 
-        "longitude": -101.907, 
         "ne_latitude": 20.394, 
-        "alias_SPA_S": [
-          "Michoacan"
+        "placetype": "state", 
+        "alias_ENG_A": [
+          "MI"
         ], 
-        "sw_longitude": -103.751, 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "adjacent": [
-          "woe:state=2346271", 
-          "woe:state=2346274", 
-          "woe:state=2346275", 
-          "woe:state=2346277", 
-          "woe:state=2346278", 
-          "woe:state=2346285"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 19.152, 
-        "iso": "MX", 
-        "fullname": "Michoacan de Ocampo, Mexico", 
         "children": [
           "woe:county=12600440", 
           "woe:county=12600441", 
@@ -198,7 +165,40 @@
           "woe:town=55920269", 
           "woe:town=151551"
         ], 
-        "sw_latitude": 17.906
+        "alias_SPA_S": [
+          "Michoacan"
+        ], 
+        "sw_longitude": -103.751, 
+        "adjacent": [
+          "woe:state=2346271", 
+          "woe:state=2346274", 
+          "woe:state=2346275", 
+          "woe:state=2346277", 
+          "woe:state=2346278", 
+          "woe:state=2346285"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.152, 
+        "woe:id": 2346279, 
+        "sw_latitude": 17.906, 
+        "alias_SPA_V": [
+          "Estado de Michoacan de Ocampo"
+        ], 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2346271, 
+          2346274, 
+          2346275, 
+          2346277, 
+          2346278, 
+          2346285
+        ], 
+        "name": "Michoacan de Ocampo", 
+        "ne_longitude": -100.062, 
+        "longitude": -101.907, 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "fullname": "Michoacan de Ocampo, Mexico"
       }, 
       "id": 2346279
     }

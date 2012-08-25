@@ -31,6 +31,31 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Aracinovo Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550745", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 42.098, 
+        "ne_longitude": 21.647, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=481656"
+        ], 
+        "sw_longitude": 21.532, 
+        "adjacent": [
+          "woe:state=24550766", 
+          "woe:state=24550769", 
+          "woe:state=24550832", 
+          "woe:state=24550842"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.049, 
+        "woe:id": 24550745, 
+        "sw_latitude": 42.001, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550766, 
@@ -39,41 +64,16 @@
           24550842
         ], 
         "name": "Ara\u010dinovo", 
-        "alias_ENG_P": [
-          "Aracinovo Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Aracinovo"
-        ], 
-        "woeid": 24550745, 
-        "children": [
-          "woe:town=481656"
         ], 
         "alias_UNK_V": [
           "Opstina Ara\u010dinovo"
         ], 
         "longitude": 21.589, 
-        "ne_longitude": 21.647, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550745", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550766", 
-          "woe:state=24550769", 
-          "woe:state=24550832", 
-          "woe:state=24550842"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.098, 
-        "sw_longitude": 21.532, 
-        "latitude": 42.049, 
-        "fullname": "Ara\u010dinovo, Aracinovo Municipality, Macedonia", 
-        "sw_latitude": 42.001
+        "fullname": "Ara\u010dinovo, Aracinovo Municipality, Macedonia"
       }, 
       "id": 24550745
     }

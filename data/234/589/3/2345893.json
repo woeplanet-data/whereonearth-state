@@ -764,7 +764,7 @@
         "ne:Shape_Area": 0.950828250485, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
         "children": [
@@ -799,7 +799,7 @@
           "woe:historicalcounty=24856890", 
           "woe:historicalcounty=24856628"
         ], 
-        "ne:OBJECTID": 1868, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5c71\u5f62"
         ], 
@@ -819,9 +819,9 @@
         "ne:FIRST_HASC": "JP.WK", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 37.722607326966624, 
-        "ne:VertexCou": 183.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1868, 
         "ne:Postal": "YT", 
         "ne:Region_Cod": "JPN-THO", 
         "ne:VARNAME_1": null, 
@@ -837,15 +837,15 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 9215.1, 
         "woe:id": "2345893", 
-        "ne:HASC_1": "JP.YT", 
-        "lang": "JPN", 
+        "name": "\u5c71\u5f62\u770c", 
+        "ne:VertexCou": 183.0, 
         "adjacent_woeid": [
           2345852, 
           2345858, 
           2345873, 
           2345878
         ], 
-        "name": "\u5c71\u5f62\u770c", 
+        "ne:HASC_1": "JP.YT", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 140.61821821479884, 
         "longitude": 140.093, 

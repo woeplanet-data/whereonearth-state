@@ -3068,7 +3068,6 @@
       "type": "Feature", 
       "properties": {
         "ne:ProvNumber": 16, 
-        "ne:ISO": "DEU", 
         "ne:ScaleRank": 3, 
         "alias_ENG_P": [
           "Rhineland-Palatinate"
@@ -3079,10 +3078,13 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 50.93270539034154, 
+        "alias_GER_A": [
+          "RP"
+        ], 
         "ne:Shape_Area": 2.51537748233, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "Ren\u00e2nia-Palatinado"
         ], 
@@ -3223,19 +3225,21 @@
         "alias_CHI_Q": [
           "\u83b1\u8335\u5170-\u666e\u6cd5\u5c14\u8328"
         ], 
-        "alias_SPA_Q": [
-          "Renania-Palatinado"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Renania-Palatinato"
         ], 
-        "ne:Area_sqkm": 20097.1, 
-        "ne:OBJECTID": 1580, 
+        "alias_GER_V": [
+          "Land Rheinland-Pfalz"
+        ], 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30e9\u30a4\u30f3\u30e9\u30f3\u30c8\u30d5\u30a1\u30eb\u30c4"
         ], 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Renania-Palatinado"
+        ], 
         "sw_longitude": 6.095990024220271, 
         "adjacent": [
           "woe:state=7153330", 
@@ -3255,15 +3259,13 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T09:36:24Z", 
-        "ne:VertexCou": 731.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "lang": "GER", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 1580, 
         "ne:Postal": "RP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Rhineland-Palatinate", 
-        "alias_GER_A": [
-          "RP"
-        ], 
+        "ne:ISO": "DEU", 
         "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 9.9713186413, 
@@ -3275,12 +3277,10 @@
         "ne:Region_C_1": null, 
         "ne:sameAsCity": -99, 
         "ne:LabelRank": 3, 
-        "alias_GER_V": [
-          "Land Rheinland-Pfalz"
-        ], 
+        "ne:Area_sqkm": 20097.1, 
         "woe:id": "2345488", 
-        "ne:HASC_1": "DE.RP", 
-        "lang": "GER", 
+        "name": "Rheinland-Pfalz", 
+        "ne:VertexCou": 731.0, 
         "adjacent_woeid": [
           2345481, 
           2345485, 
@@ -3292,21 +3292,21 @@
           20070542, 
           20070559
         ], 
-        "name": "Rheinland-Pfalz", 
+        "ne:HASC_1": "DE.RP", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne:TYPE_1": "Land", 
         "ne_longitude": 8.504576856936467, 
         "longitude": 7.311, 
-        "ne:NEV_Countr": "Germany", 
+        "alias_FRE_S": [
+          "Rhenanie-Palatinat"
+        ], 
         "iso": "DE", 
         "sw_latitude": 48.95789052962431, 
         "ne:NL_NAME_1": null, 
         "fullname": "Rheinland-Pfalz, Rhineland-Palatinate, Germany", 
         "ne:Region": null, 
-        "alias_FRE_S": [
-          "Rhenanie-Palatinat"
-        ], 
+        "ne:NEV_Countr": "Germany", 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Rh\u00e9nanie-Palatinat"

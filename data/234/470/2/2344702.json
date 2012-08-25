@@ -12462,7 +12462,7 @@
         "ne:Shape_Area": 152.286262034, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19010101", 
         "alias_ENG_A": [
           "QLD"
         ], 
@@ -13242,7 +13242,7 @@
         "alias_CHI_Q": [
           "\u6606\u58eb\u5170\u5dde"
         ], 
-        "ne:OBJECTID": 2657, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30af\u30a4\u30fc\u30f3\u30ba\u30e9\u30f3\u30c9"
         ], 
@@ -13261,9 +13261,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -29.170622246919095, 
-        "ne:VertexCou": 3058.0, 
-        "ne:VALIDFR_1": "19010101", 
-        "ne:DataRank": 3, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 2657, 
         "ne:Postal": "QL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -13279,14 +13279,14 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 1730008.2, 
         "woe:id": "2344702", 
-        "ne:HASC_1": "AU.QL", 
-        "lang": "ENG", 
+        "name": "Queensland", 
+        "ne:VertexCou": 3058.0, 
         "adjacent_woeid": [
           2344700, 
           2344701, 
           2344703
         ], 
-        "name": "Queensland", 
+        "ne:HASC_1": "AU.QL", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 153.54900516175883, 
         "longitude": 145.774, 

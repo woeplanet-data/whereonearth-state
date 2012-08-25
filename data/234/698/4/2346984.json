@@ -51,13 +51,12 @@
           "woe:country=23424942", 
           "woe:planet=1"
         ], 
-        "woeid": 2346984, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 28.299, 
         "longitude": 25.464, 
-        "ne_latitude": -24.636, 
         "placetype": "state", 
         "iso": "ZA", 
-        "date_indexed": "2010-12-02T08:57:23Z", 
+        "sw_latitude": -28.112, 
         "adjacent": [
           "woe:state=2346980", 
           "woe:state=2346981", 
@@ -68,7 +67,7 @@
           "woe:state=2344749", 
           "woe:state=2344750"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -24.636, 
         "latitude": -26.374, 
         "sw_longitude": 22.629, 
         "fullname": "North-West, North-west, South Africa", 
@@ -171,7 +170,8 @@
           "woe:historicalcounty=55921562", 
           "woe:historicalcounty=55921540"
         ], 
-        "sw_latitude": -28.112
+        "date_indexed": "2010-12-02T08:57:23Z", 
+        "woe:id": 2346984
       }, 
       "id": 2346984
     }

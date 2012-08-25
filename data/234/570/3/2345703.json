@@ -39,16 +39,32 @@
           2345697, 
           2345707
         ], 
+        "alias_UNK_A": [
+          "STRAND"
+        ], 
         "name": "Strandasysla", 
-        "ne_latitude": 66.263, 
         "hierarchy": [
           "woe:state=2345703", 
           "woe:country=23424845", 
           "woe:planet=1"
         ], 
-        "woeid": 2345703, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -20.894, 
         "longitude": -21.529, 
+        "placetype": "state", 
+        "iso": "IS", 
+        "sw_latitude": 64.927, 
+        "adjacent": [
+          "woe:state=2345688", 
+          "woe:state=2345692", 
+          "woe:state=2345696", 
+          "woe:state=2345697", 
+          "woe:state=2345707"
+        ], 
+        "ne_latitude": 66.263, 
+        "latitude": 65.595, 
+        "sw_longitude": -22.164, 
+        "fullname": "Strandasysla, Iceland", 
         "children": [
           "woe:town=980066", 
           "woe:town=980104", 
@@ -64,24 +80,8 @@
           "woe:island=12476066", 
           "woe:island=12476075"
         ], 
-        "placetype": "state", 
-        "iso": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
-        "adjacent": [
-          "woe:state=2345688", 
-          "woe:state=2345692", 
-          "woe:state=2345696", 
-          "woe:state=2345697", 
-          "woe:state=2345707"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 65.595, 
-        "sw_longitude": -22.164, 
-        "fullname": "Strandasysla, Iceland", 
-        "alias_UNK_A": [
-          "STRAND"
-        ], 
-        "sw_latitude": 64.927
+        "woe:id": 2345703
       }, 
       "id": 2345703
     }

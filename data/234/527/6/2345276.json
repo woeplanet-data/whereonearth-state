@@ -1192,7 +1192,7 @@
         "ne:Shape_Area": 0.710033062572, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 10, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud558\ub958\ub9c8"
         ], 
@@ -1242,7 +1242,7 @@
         "alias_CHI_Q": [
           "\u54c8\u5c14\u5c24"
         ], 
-        "ne:OBJECTID": 1654, 
+        "ne:DataRank": 8, 
         "alias_ENG_P": [
           "Harju County"
         ], 
@@ -1262,9 +1262,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 58.984668687809744, 
-        "ne:VertexCou": 287.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 10, 
+        "ne:OBJECTID": 1654, 
         "ne:Postal": "HA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Harjumaa|Harju maakond", 
@@ -1280,15 +1280,15 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 4505.1, 
         "woe:id": "2345276", 
-        "ne:HASC_1": "EE.HA", 
-        "lang": "UNK", 
+        "name": "Harjumaa", 
+        "ne:VertexCou": 287.0, 
         "adjacent_woeid": [
           2345279, 
           2345281, 
           2345282, 
           2345285
         ], 
-        "name": "Harjumaa", 
+        "ne:HASC_1": "EE.HA", 
         "ne:REMARKS_1": null, 
         "ne:TYPE_1": "Maakond", 
         "alias_UNK_V": [

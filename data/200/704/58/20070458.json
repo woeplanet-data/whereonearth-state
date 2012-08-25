@@ -403,7 +403,7 @@
         "ne:Shape_Area": 0.13682361174, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_KOR_Q": [
           "\ub378\ub9ac"
         ], 
@@ -412,12 +412,12 @@
         "children": [
           "woe:town=2295019"
         ], 
+        "ne:Region_Cod": null, 
         "ne:ScaleRank": 2, 
         "alias_CHI_Q": [
           "\u5fb7\u91cc"
         ], 
-        "ne:LabelRank": 9, 
-        "ne:OBJECTID": 2428, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30c7\u30ea\u30fc"
         ], 
@@ -435,11 +435,11 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Union Territory", 
         "sw_latitude": 28.432580064418516, 
-        "ne:VertexCou": 93.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 2428, 
         "ne:Postal": "DL", 
-        "ne:Region_Cod": null, 
+        "ne:LabelRank": 9, 
         "ne:VARNAME_1": null, 
         "ne:ISO": "IND", 
         "ne:TYPE_1": "Union Territor", 
@@ -455,13 +455,13 @@
         ], 
         "ne:Area_sqkm": 1482.3, 
         "woe:id": "20070458", 
-        "ne:HASC_1": "IN.DL", 
-        "lang": "ENG", 
+        "name": "Delhi", 
+        "ne:VertexCou": 93.0, 
         "adjacent_woeid": [
           2345744, 
           2345760
         ], 
-        "name": "Delhi", 
+        "ne:HASC_1": "IN.DL", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 77.33753299365281, 
         "longitude": 77.091, 

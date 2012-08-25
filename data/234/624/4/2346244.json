@@ -40,18 +40,17 @@
           56055615
         ], 
         "name": "Gorgol", 
-        "ne_latitude": 16.903, 
         "hierarchy": [
           "woe:state=2346244", 
           "woe:country=23424896", 
           "woe:planet=1"
         ], 
-        "woeid": 2346244, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -12.023, 
         "longitude": -12.868, 
         "placetype": "state", 
         "iso": "MR", 
-        "date_indexed": "2010-12-02T16:11:57Z", 
+        "sw_latitude": 15.135, 
         "adjacent": [
           "woe:state=2346243", 
           "woe:state=2346245", 
@@ -59,7 +58,7 @@
           "woe:state=56055615", 
           "woe:state=2346990"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.903, 
         "latitude": 16.019, 
         "sw_longitude": -13.713, 
         "fullname": "Gorgol, Mauritania", 
@@ -74,7 +73,8 @@
           "woe:town=1504612", 
           "woe:town=1504971"
         ], 
-        "sw_latitude": 15.135
+        "date_indexed": "2010-12-02T16:11:57Z", 
+        "woe:id": 2346244
       }, 
       "id": 2346244
     }

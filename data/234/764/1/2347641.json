@@ -40,18 +40,17 @@
           2347655
         ], 
         "name": "Canelones", 
-        "ne_latitude": -34.214, 
         "hierarchy": [
           "woe:state=2347641", 
           "woe:country=23424979", 
           "woe:planet=1"
         ], 
-        "woeid": 2347641, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -55.394, 
         "longitude": -55.939, 
         "placetype": "state", 
         "iso": "UY", 
-        "date_indexed": "2010-12-02T17:58:18Z", 
+        "sw_latitude": -34.958, 
         "adjacent": [
           "woe:state=2347646", 
           "woe:state=2347647", 
@@ -59,7 +58,7 @@
           "woe:state=2347649", 
           "woe:state=2347655"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -34.214, 
         "latitude": -34.542, 
         "sw_longitude": -56.483, 
         "fullname": "Canelones, Uruguay", 
@@ -140,7 +139,8 @@
           "woe:town=56125417", 
           "woe:island=12505669"
         ], 
-        "sw_latitude": -34.958
+        "date_indexed": "2010-12-02T17:58:18Z", 
+        "woe:id": 2347641
       }, 
       "id": 2347641
     }

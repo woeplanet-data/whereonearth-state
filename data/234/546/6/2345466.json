@@ -40,18 +40,17 @@
           2345468
         ], 
         "name": "Eastern", 
-        "ne_latitude": 7.216, 
         "hierarchy": [
           "woe:state=2345466", 
           "woe:country=23424824", 
           "woe:planet=1"
         ], 
-        "woeid": 2345466, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 0.375, 
         "longitude": -0.445, 
         "placetype": "state", 
         "iso": "GH", 
-        "date_indexed": "2010-12-02T17:57:50Z", 
+        "sw_latitude": 5.679, 
         "adjacent": [
           "woe:state=2345463", 
           "woe:state=2345464", 
@@ -59,7 +58,7 @@
           "woe:state=2345462", 
           "woe:state=2345468"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 7.216, 
         "latitude": 6.448, 
         "sw_longitude": -1.265, 
         "fullname": "Eastern, Ghana", 
@@ -101,7 +100,8 @@
           "woe:town=1332981", 
           "woe:town=1333042"
         ], 
-        "sw_latitude": 5.679
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "woe:id": 2345466
       }, 
       "id": 2345466
     }

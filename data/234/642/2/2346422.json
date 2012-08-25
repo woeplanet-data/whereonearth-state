@@ -41,18 +41,17 @@
           2346431
         ], 
         "name": "Granada", 
-        "ne_latitude": 12.207, 
         "hierarchy": [
           "woe:state=2346422", 
           "woe:country=23424915", 
           "woe:planet=1"
         ], 
-        "woeid": 2346422, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -85.695, 
         "longitude": -85.914, 
         "placetype": "state", 
         "iso": "NI", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
+        "sw_latitude": 11.603, 
         "adjacent": [
           "woe:state=2346417", 
           "woe:state=2346418", 
@@ -61,7 +60,7 @@
           "woe:state=2346427", 
           "woe:state=2346431"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.207, 
         "latitude": 11.905, 
         "sw_longitude": -86.133, 
         "fullname": "Granada, Nicaragua", 
@@ -71,7 +70,8 @@
           "woe:county=26813333", 
           "woe:county=26813334"
         ], 
-        "sw_latitude": 11.603
+        "date_indexed": "2010-12-02T18:19:07Z", 
+        "woe:id": 2346422
       }, 
       "id": 2346422
     }

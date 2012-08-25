@@ -38,24 +38,23 @@
           20070061
         ], 
         "name": "Pernik", 
-        "ne_latitude": 42.896, 
         "hierarchy": [
           "woe:state=20070058", 
           "woe:country=23424771", 
           "woe:planet=1"
         ], 
-        "woeid": 20070058, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 23.299, 
         "longitude": 22.87, 
         "placetype": "state", 
         "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
+        "sw_latitude": 42.36, 
         "adjacent": [
           "woe:state=20070059", 
           "woe:state=20070061", 
           "woe:state=20069794"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.896, 
         "latitude": 42.628, 
         "sw_longitude": 22.441, 
         "fullname": "Pernik, Bulgaria", 
@@ -67,7 +66,8 @@
           "woe:county=55873769", 
           "woe:county=55873823"
         ], 
-        "sw_latitude": 42.36
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "woe:id": 20070058
       }, 
       "id": 20070058
     }

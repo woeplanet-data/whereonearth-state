@@ -830,7 +830,7 @@
         "ne:Shape_Area": 0.485360297793, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc544\uc774\uce58\ucf04"
         ], 
@@ -917,7 +917,7 @@
         "alias_CHI_Q": [
           "\u611b\u77e5\u53bf"
         ], 
-        "ne:OBJECTID": 1840, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u611b\u77e5"
         ], 
@@ -942,9 +942,9 @@
         "ne:FIRST_HASC": "JP.YT", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 199.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1840, 
         "ne:Postal": "AI", 
         "ne:Region_Cod": "JPN-CHB", 
         "ne:VARNAME_1": "Aiti", 
@@ -963,8 +963,8 @@
           "Pr\u00e4fektur Aichi"
         ], 
         "woe:id": "2345851", 
-        "ne:HASC_1": "JP.AI", 
-        "lang": "JPN", 
+        "name": "\u611b\u77e5\u770c", 
+        "ne:VertexCou": 199.0, 
         "adjacent_woeid": [
           2345859, 
           2345872, 
@@ -972,7 +972,7 @@
           2345886
         ], 
         "ne:FIRST_FIPS": "JA44", 
-        "name": "\u611b\u77e5\u770c", 
+        "ne:HASC_1": "JP.AI", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 137.8055733585237, 
         "longitude": 137.255, 

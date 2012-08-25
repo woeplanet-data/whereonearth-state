@@ -40,18 +40,17 @@
           56190215
         ], 
         "name": "Mpigi", 
-        "ne_latitude": 0.583, 
         "hierarchy": [
           "woe:state=20070436", 
           "woe:country=23424974", 
           "woe:planet=1"
         ], 
-        "woeid": 20070436, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.681, 
         "longitude": 32.007, 
         "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
+        "sw_latitude": -0.162, 
         "adjacent": [
           "woe:state=20070451", 
           "woe:state=56190215", 
@@ -59,7 +58,7 @@
           "woe:state=20070450", 
           "woe:state=24550740"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.583, 
         "latitude": 0.21, 
         "sw_longitude": 31.333, 
         "fullname": "Mpigi, Uganda", 
@@ -68,7 +67,8 @@
           "woe:county=56190318", 
           "woe:county=56190319"
         ], 
-        "sw_latitude": -0.162
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "woe:id": 20070436
       }, 
       "id": 20070436
     }

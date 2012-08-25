@@ -1372,7 +1372,7 @@
         "ne:Shape_Area": 0.340763764623, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "ROS"
         ], 
@@ -1493,7 +1493,7 @@
           "woe:localadmin=20073855", 
           "woe:localadmin=20073856"
         ], 
-        "ne:OBJECTID": 727, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -8.817104864597752, 
@@ -1513,9 +1513,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 53.27623159431266, 
-        "ne:VertexCou": 337.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 727, 
         "ne:Postal": "RN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Ros Com\u00e1in", 
@@ -1531,8 +1531,8 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 2503.5, 
         "woe:id": "2345268", 
-        "ne:HASC_1": "IE.RN", 
-        "lang": "ENG", 
+        "name": "Roscommon", 
+        "ne:VertexCou": 337.0, 
         "adjacent_woeid": [
           2345255, 
           2345259, 
@@ -1542,7 +1542,7 @@
           2345269, 
           2345272
         ], 
-        "name": "Roscommon", 
+        "ne:HASC_1": "IE.RN", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae Ros Comain"

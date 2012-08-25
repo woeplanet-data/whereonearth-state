@@ -40,18 +40,17 @@
           2347367
         ], 
         "name": "Iringa", 
-        "ne_latitude": -6.869, 
         "hierarchy": [
           "woe:state=2347355", 
           "woe:country=23424973", 
           "woe:planet=1"
         ], 
-        "woeid": 2347355, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 36.986, 
         "longitude": 35.635, 
         "placetype": "state", 
         "iso": "TZ", 
-        "date_indexed": "2010-12-02T12:15:58Z", 
+        "sw_latitude": -10.528, 
         "adjacent": [
           "woe:state=2347354", 
           "woe:state=2347360", 
@@ -59,7 +58,7 @@
           "woe:state=2347365", 
           "woe:state=2347367"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -6.869, 
         "latitude": -8.699, 
         "sw_longitude": 33.733, 
         "fullname": "Iringa, Tanzania", 
@@ -72,7 +71,8 @@
           "woe:county=56025170", 
           "woe:county=56025182"
         ], 
-        "sw_latitude": -10.528
+        "date_indexed": "2010-12-02T12:15:58Z", 
+        "woe:id": 2347355
       }, 
       "id": 2347355
     }

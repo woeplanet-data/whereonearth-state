@@ -40,21 +40,18 @@
           56055615
         ], 
         "name": "St.-Louis", 
-        "ne_latitude": 16.692, 
         "hierarchy": [
           "woe:state=2346990", 
           "woe:country=23424943", 
           "woe:planet=1"
         ], 
-        "woeid": 2346990, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -13.698, 
         "longitude": -15.116, 
         "placetype": "state", 
-        "alias_FRE_V": [
-          "St-Louis"
-        ], 
+        "latitude": 16.139, 
         "iso": "SN", 
-        "date_indexed": "2010-12-02T08:57:18Z", 
+        "sw_latitude": 15.587, 
         "adjacent": [
           "woe:state=2346245", 
           "woe:state=2346244", 
@@ -62,8 +59,10 @@
           "woe:state=56055615", 
           "woe:state=2346246"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 16.139, 
+        "ne_latitude": 16.692, 
+        "alias_FRE_V": [
+          "St-Louis"
+        ], 
         "sw_longitude": -16.535, 
         "fullname": "St.-Louis, Senegal", 
         "children": [
@@ -71,7 +70,8 @@
           "woe:county=56055798", 
           "woe:county=56055824"
         ], 
-        "sw_latitude": 15.587
+        "date_indexed": "2010-12-02T08:57:18Z", 
+        "woe:id": 2346990
       }, 
       "id": 2346990
     }

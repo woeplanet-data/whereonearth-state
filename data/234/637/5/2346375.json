@@ -1253,7 +1253,7 @@
         "ne:Shape_Area": 0.672312395874, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
         "children": [
@@ -1316,11 +1316,11 @@
           "woe:landfeature=56058390", 
           "woe:landfeature=56058393"
         ], 
-        "ne:LabelRank": 8, 
+        "ne:Region_Cod": null, 
         "alias_ITA_Q": [
           "Gheldria"
         ], 
-        "ne:OBJECTID": 896, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 5.004480421534254, 
@@ -1343,10 +1343,10 @@
         "alias_DUT_A": [
           "GLD"
         ], 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 896, 
         "ne:Postal": "GE", 
-        "ne:Region_Cod": null, 
+        "ne:LabelRank": 8, 
         "ne:VARNAME_1": "Geldern|Gheldria|Guelders|Gueldre", 
         "ne:ISO": "NLD", 
         "ne:Region_C_3": null, 
@@ -1362,7 +1362,7 @@
         ], 
         "ne:Area_sqkm": 5130.2, 
         "woe:id": "2346375", 
-        "ne:HASC_1": "NL.GE", 
+        "name": "Gelderland", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2345487, 
@@ -1373,7 +1373,7 @@
           2346383, 
           2346384
         ], 
-        "name": "Gelderland", 
+        "ne:HASC_1": "NL.GE", 
         "ne:REMARKS_1": null, 
         "ne:TYPE_1": "Provincie", 
         "ne_longitude": 6.811346876657069, 

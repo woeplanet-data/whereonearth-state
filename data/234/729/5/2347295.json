@@ -270,7 +270,7 @@
         "ne:Shape_Area": 0.665590416724, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1957", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
         "children": [
@@ -282,7 +282,7 @@
           "woe:county=29390638", 
           "woe:county=29390231"
         ], 
-        "ne:OBJECTID": 2286, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 33.52449669766452, 
@@ -300,9 +300,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 38.853132636162286, 
-        "ne:VertexCou": 61.0, 
-        "ne:VALIDFR_1": "1957", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 2286, 
         "ne:Postal": "KH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kirsehir", 
@@ -318,8 +318,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 6371.4, 
         "woe:id": "2347295", 
-        "ne:HASC_1": "TR.KH", 
-        "lang": "UNK", 
+        "name": "K\u0131r\u015fehir", 
+        "ne:VertexCou": 61.0, 
         "adjacent_woeid": [
           2347263, 
           2347303, 
@@ -327,7 +327,7 @@
           2347325, 
           2347329
         ], 
-        "name": "K\u0131r\u015fehir", 
+        "ne:HASC_1": "TR.KH", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Kirsehir"

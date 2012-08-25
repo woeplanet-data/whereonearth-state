@@ -39,25 +39,24 @@
           20070087
         ], 
         "name": "Bac Ninh", 
-        "ne_latitude": 21.261, 
         "hierarchy": [
           "woe:state=20070088", 
           "woe:country=23424984", 
           "woe:planet=1"
         ], 
-        "woeid": 20070088, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.312, 
         "longitude": 106.102, 
         "placetype": "state", 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 20.96, 
         "adjacent": [
           "woe:state=20070087", 
           "woe:state=2347727", 
           "woe:state=20070080", 
           "woe:state=20070079"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 21.261, 
         "latitude": 21.11, 
         "sw_longitude": 105.892, 
         "fullname": "Bac Ninh, Vietnam", 
@@ -73,7 +72,8 @@
           "woe:town=1235427", 
           "woe:town=56124145"
         ], 
-        "sw_latitude": 20.96
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "woe:id": 20070088
       }, 
       "id": 20070088
     }

@@ -1440,8 +1440,7 @@
         "ne:Shape_Area": 0.615696134947, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VARNAME_1": "Cant\u00e0bria|Cant\u00e1bria|Cantabrie|Kantabrien", 
-        "ne:MAP_COLOR": 5, 
+        "ne:VALIDFR_1": "19820131", 
         "alias_POR_Q": [
           "Cant\u00e1bria"
         ], 
@@ -1458,8 +1457,10 @@
         "alias_CHI_Q": [
           "\u574e\u5854\u5e03\u91cc\u4e9a"
         ], 
-        "ne:Area_sqkm": 5558.5, 
-        "ne:OBJECTID": 83, 
+        "alias_DAN_Q": [
+          "Kantabrien"
+        ], 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30ab\u30f3\u30bf\u30d9\u30ea\u30fc"
         ], 
@@ -1476,19 +1477,20 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 43.136, 
+        "alias_SPA_V": [
+          "Cantabria Autonomia"
+        ], 
         "ne:FIPS_1": "SP85", 
         "ne:FIRST_FIPS": "SP39", 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Community", 
         "date_indexed": "2010-12-02T17:07:37Z", 
-        "ne:VertexCou": 353.0, 
-        "ne:VALIDFR_1": "19820131", 
-        "ne:DataRank": 3, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 83, 
         "ne:Postal": "CB", 
         "ne:Region_Cod": null, 
-        "alias_SPA_V": [
-          "Cantabria Autonomia"
-        ], 
+        "ne:VARNAME_1": "Cant\u00e0bria|Cant\u00e1bria|Cantabrie|Kantabrien", 
         "ne:ISO": "ESP", 
         "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
@@ -1501,21 +1503,19 @@
         "ne:Region_C_1": null, 
         "ne:sameAsCity": -99, 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Kantabrien"
-        ], 
+        "ne:Area_sqkm": 5558.5, 
         "alias_GER_Q": [
           "Kantabrien"
         ], 
         "woe:id": "12578028", 
-        "ne:HASC_1": "ES.CB", 
-        "lang": "SPA", 
+        "name": "Cantabria", 
+        "ne:VertexCou": 353.0, 
         "adjacent_woeid": [
           12578027, 
           12578033, 
           12578037
         ], 
-        "name": "Cantabria", 
+        "ne:HASC_1": "ES.CB", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "ne:TYPE_1": "Comunidad Aut\u00f3noma", 

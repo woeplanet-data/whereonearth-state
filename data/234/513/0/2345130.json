@@ -32,23 +32,22 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "placetype": "state", 
+        "ne_latitude": 16.92, 
         "name": "S\u00e3o Vicente", 
         "hierarchy": [
           "woe:state=2345130", 
           "woe:country=23424794", 
           "woe:planet=1"
         ], 
-        "woeid": 2345130, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -24.583, 
-        "longitude": -24.983, 
-        "ne_latitude": 16.92, 
-        "iso": "CV", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
         "alias_POR_S": [
           "Sao Vicente"
         ], 
+        "ne_longitude": -24.583, 
+        "longitude": -24.983, 
+        "placetype": "state", 
+        "iso": "CV", 
+        "sw_latitude": 16.605, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 16.845, 
         "sw_longitude": -25.096, 
         "fullname": "S\u00e3o Vicente, Cape Verde", 
@@ -64,7 +63,8 @@
           "woe:island=12465436", 
           "woe:island=12465440"
         ], 
-        "sw_latitude": 16.605
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "woe:id": 2345130
       }, 
       "id": 2345130
     }

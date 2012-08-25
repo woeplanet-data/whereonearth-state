@@ -620,7 +620,7 @@
         "ne:Shape_Area": 0.419162896917, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
         "children": [
@@ -777,7 +777,7 @@
           "woe:historicalcounty=28477773", 
           "woe:historicalcounty=28477815"
         ], 
-        "ne:OBJECTID": 1836, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5fb3\u5cf6"
         ], 
@@ -797,9 +797,9 @@
         "ne:FIRST_HASC": "JP.SZ", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 33.525912583998604, 
-        "ne:VertexCou": 147.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1836, 
         "ne:Postal": "TS", 
         "ne:Region_Cod": "JPN-SHK", 
         "ne:VARNAME_1": "Tokusima", 
@@ -815,15 +815,15 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 4299.8, 
         "woe:id": "2345888", 
-        "ne:HASC_1": "JP.TS", 
-        "lang": "JPN", 
+        "name": "\u5fb3\u5cf6\u770c", 
+        "ne:VertexCou": 147.0, 
         "adjacent_woeid": [
           2345855, 
           2345862, 
           2345866, 
           2345869
         ], 
-        "name": "\u5fb3\u5cf6\u770c", 
+        "ne:HASC_1": "JP.TS", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 134.75149620988225, 
         "longitude": 134.205, 

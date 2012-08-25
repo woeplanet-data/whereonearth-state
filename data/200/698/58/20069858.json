@@ -37,23 +37,22 @@
           20069859
         ], 
         "name": "Vestgronland", 
-        "ne_latitude": 77.091, 
         "hierarchy": [
           "woe:state=20069858", 
           "woe:country=23424828", 
           "woe:planet=1"
         ], 
-        "woeid": 20069858, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -42.744, 
         "longitude": -47.249, 
         "placetype": "state", 
         "iso": "GL", 
-        "date_indexed": "2010-12-02T17:40:29Z", 
+        "sw_latitude": 59.777, 
         "adjacent": [
           "woe:state=20069857", 
           "woe:state=20069859"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 77.091, 
         "latitude": 69.966, 
         "sw_longitude": -58.332, 
         "fullname": "Vestgronland, Greenland", 
@@ -779,7 +778,8 @@
           "woe:island=12474199", 
           "woe:airport=12523838"
         ], 
-        "sw_latitude": 59.777
+        "date_indexed": "2010-12-02T17:40:29Z", 
+        "woe:id": 20069858
       }, 
       "id": 20069858
     }

@@ -2455,7 +2455,7 @@
         "ne:Shape_Area": 26.2800367211, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18580511", 
         "alias_ENG_A": [
           "MN"
         ], 
@@ -2565,7 +2565,7 @@
         "alias_CHI_Q": [
           "\u660e\u5c3c\u82cf\u8fbe"
         ], 
-        "ne:OBJECTID": 3514, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30df\u30cd\u30bd\u30bf"
         ], 
@@ -2587,9 +2587,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 43.50012615819571, 
-        "ne:VertexCou": 605.0, 
-        "ne:VALIDFR_1": "18580511", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3514, 
         "ne:Postal": "MN", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "MN|Minn.", 
@@ -2605,8 +2605,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 224797.4, 
         "woe:id": "2347582", 
-        "ne:HASC_1": "US.MN", 
-        "lang": "ENG", 
+        "name": "Minnesota", 
+        "ne:VertexCou": 605.0, 
         "adjacent_woeid": [
           2344917, 
           2344922, 
@@ -2615,7 +2615,7 @@
           2347600, 
           2347608
         ], 
-        "name": "Minnesota", 
+        "ne:HASC_1": "US.MN", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -89.49872440790506, 
         "longitude": -93.366, 

@@ -49,26 +49,6 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 52.381, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_UNK_V": [
-          "Chernihivshchyna"
-        ], 
-        "longitude": 31.993, 
-        "ne_longitude": 33.5, 
-        "placetype": "state", 
-        "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "adjacent": [
-          "woe:state=2346892", 
-          "woe:state=2344831", 
-          "woe:state=2347545", 
-          "woe:state=2347550", 
-          "woe:state=2347552"
-        ], 
-        "woeid": 2347535, 
-        "latitude": 51.363, 
-        "sw_longitude": 30.486, 
-        "fullname": "Chernihivs\u00b4ka Oblast\u00b4, Chernihiv Oblast, Ukraine", 
         "children": [
           "woe:town=915490", 
           "woe:town=915686", 
@@ -240,7 +220,27 @@
           "woe:town=940055", 
           "woe:town=940270"
         ], 
-        "sw_latitude": 50.344
+        "alias_UNK_V": [
+          "Chernihivshchyna"
+        ], 
+        "longitude": 31.993, 
+        "ne_longitude": 33.5, 
+        "placetype": "state", 
+        "iso": "UA", 
+        "sw_latitude": 50.344, 
+        "adjacent": [
+          "woe:state=2346892", 
+          "woe:state=2344831", 
+          "woe:state=2347545", 
+          "woe:state=2347550", 
+          "woe:state=2347552"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 51.363, 
+        "sw_longitude": 30.486, 
+        "fullname": "Chernihivs\u00b4ka Oblast\u00b4, Chernihiv Oblast, Ukraine", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "woe:id": 2347535
       }, 
       "id": 2347535
     }

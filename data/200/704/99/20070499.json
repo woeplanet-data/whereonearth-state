@@ -31,23 +31,13 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "CZE", 
-        "adjacent_woeid": [
-          20070468, 
-          20070498, 
-          20070500, 
-          20070501
-        ], 
-        "name": "\u00dasteck\u00fd", 
-        "ne_latitude": 51.056, 
         "hierarchy": [
           "woe:state=20070499", 
           "woe:country=23424810", 
           "woe:planet=1"
         ], 
-        "woeid": 20070499, 
-        "ne_longitude": 14.653, 
-        "longitude": 13.797, 
+        "ne_latitude": 51.056, 
+        "placetype": "state", 
         "children": [
           "woe:county=12582561", 
           "woe:county=12582562", 
@@ -57,12 +47,7 @@
           "woe:county=12582568", 
           "woe:county=12582569"
         ], 
-        "placetype": "state", 
-        "alias_CZE_V": [
-          "Aussig (an der Elbe)"
-        ], 
-        "iso": "CZ", 
-        "date_indexed": "2010-12-02T08:54:50Z", 
+        "sw_longitude": 12.94, 
         "adjacent": [
           "woe:state=20070500", 
           "woe:state=20070498", 
@@ -71,15 +56,30 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.567, 
-        "sw_longitude": 12.94, 
-        "fullname": "\u00dasteck\u00fd, Czech Republic", 
-        "alias_GER_Q": [
-          "Aussig"
+        "woe:id": 20070499, 
+        "sw_latitude": 50.077, 
+        "alias_CZE_V": [
+          "Aussig (an der Elbe)"
         ], 
         "alias_CZE_S": [
           "Ustecky"
         ], 
-        "sw_latitude": 50.077
+        "alias_GER_Q": [
+          "Aussig"
+        ], 
+        "lang": "CZE", 
+        "adjacent_woeid": [
+          20070468, 
+          20070498, 
+          20070500, 
+          20070501
+        ], 
+        "name": "\u00dasteck\u00fd", 
+        "ne_longitude": 14.653, 
+        "longitude": 13.797, 
+        "iso": "CZ", 
+        "date_indexed": "2010-12-02T08:54:50Z", 
+        "fullname": "\u00dasteck\u00fd, Czech Republic"
       }, 
       "id": 20070499
     }

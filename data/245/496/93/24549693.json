@@ -36,27 +36,26 @@
           24549691
         ], 
         "name": "Nor\u00f0ara Eysturoy", 
-        "ne_latitude": 62.343, 
+        "alias_DAN_S": [
+          "Nordara Eysturoy"
+        ], 
         "hierarchy": [
           "woe:state=24549693", 
           "woe:country=23424816", 
           "woe:planet=1"
         ], 
-        "woeid": 24549693, 
-        "sw_latitude": 62.189, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -6.822, 
         "longitude": -6.967, 
         "placetype": "state", 
         "sw_longitude": -7.112, 
-        "iso": "FO", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
         "adjacent": [
           "woe:state=24549691"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 62.343, 
         "latitude": 62.266, 
-        "alias_DAN_S": [
-          "Nordara Eysturoy"
-        ], 
+        "iso": "FO", 
         "fullname": "Nor\u00f0ara Eysturoy, Faroe Islands", 
         "children": [
           "woe:town=472621", 
@@ -70,7 +69,8 @@
           "woe:town=472716", 
           "woe:town=472762"
         ], 
-        "date_indexed": "2010-12-02T08:52:18Z"
+        "sw_latitude": 62.189, 
+        "woe:id": 24549693
       }, 
       "id": 24549693
     }

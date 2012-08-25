@@ -32,33 +32,33 @@
       "type": "Feature", 
       "properties": {
         "lang": "NOR", 
-        "placetype": "state", 
+        "alias_SPA_Q": [
+          "Isla Jan Mayen"
+        ], 
         "name": "Jan Mayen", 
-        "ne_latitude": 71.164, 
         "hierarchy": [
           "woe:state=23424859", 
           "woe:country=28289413", 
           "woe:planet=1"
         ], 
-        "woeid": 23424859, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -7.921, 
         "longitude": -8.5, 
-        "children": [
-          "woe:county=24549925"
-        ], 
-        "alias_SPA_Q": [
-          "Isla Jan Mayen"
-        ], 
-        "iso": "SJ", 
-        "date_indexed": "2010-12-02T17:58:18Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 70.996, 
-        "sw_longitude": -9.08, 
-        "fullname": "Jan Mayen, Svalbard and Jan Mayen", 
         "alias_FRE_S": [
           "ile Jan Mayen"
         ], 
+        "placetype": "state", 
+        "iso": "SJ", 
         "sw_latitude": 70.827, 
+        "woe:id": 23424859, 
+        "ne_latitude": 71.164, 
+        "latitude": 70.996, 
+        "sw_longitude": -9.08, 
+        "fullname": "Jan Mayen, Svalbard and Jan Mayen", 
+        "children": [
+          "woe:county=24549925"
+        ], 
+        "date_indexed": "2010-12-02T17:58:18Z", 
         "alias_FRE_Q": [
           "\u00cele Jan Mayen"
         ]

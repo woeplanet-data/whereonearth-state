@@ -737,11 +737,13 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 47.68225779885836, 
-        "ne:DataRank": 7, 
+        "alias_GER_A": [
+          "TG"
+        ], 
         "ne:Shape_Area": 0.112900926971, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
         "children": [
@@ -758,7 +760,9 @@
         "alias_ITA_Q": [
           "Canton Turgovia"
         ], 
-        "ne:Area_sqkm": 944.5, 
+        "alias_GER_V": [
+          "Kanton Thurgovia"
+        ], 
         "alias_ITA_V": [
           "Turgovia"
         ], 
@@ -775,14 +779,15 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.536, 
+        "iso": "CH", 
         "ne:FIPS_1": "SZ19", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "sw_latitude": 47.37995066968773, 
-        "ne:VertexCou": 177.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:OBJECTID": 174, 
+        "lang": "GER", 
+        "ne:MAP_COLOR": 3, 
+        "ne:DataRank": 7, 
         "ne:Postal": "TG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Thurgovie|Turgovia|Turg\u00a2via", 
@@ -796,22 +801,17 @@
         "ne:Region_C_1": null, 
         "ne:sameAsCity": -99, 
         "ne:LabelRank": 9, 
-        "alias_GER_A": [
-          "TG"
-        ], 
-        "alias_GER_V": [
-          "Kanton Thurgovia"
-        ], 
+        "ne:Area_sqkm": 944.5, 
         "woe:id": "2347101", 
-        "ne:HASC_1": "CH.TG", 
-        "lang": "GER", 
+        "name": "Kanton Thurgau", 
+        "ne:VertexCou": 177.0, 
         "adjacent_woeid": [
           2345481, 
           2347097, 
           2347098, 
           2347107
         ], 
-        "name": "Kanton Thurgau", 
+        "ne:HASC_1": "CH.TG", 
         "ne:REMARKS_1": null, 
         "ne:TYPE_1": "Canton|Kanton|Chantun", 
         "alias_UNK_Q": [
@@ -819,7 +819,7 @@
         ], 
         "ne_longitude": 9.552833286127282, 
         "longitude": 9.054, 
-        "iso": "CH", 
+        "ne:OBJECTID": 174, 
         "date_indexed": "2010-12-02T18:19:21Z", 
         "ne:NL_NAME_1": null, 
         "alias_FRE_V": [

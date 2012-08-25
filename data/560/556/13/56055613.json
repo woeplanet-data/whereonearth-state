@@ -39,21 +39,20 @@
           56059374
         ], 
         "name": "K\u00e9dougou", 
+        "ne_latitude": 13.413, 
         "hierarchy": [
           "woe:state=56055613", 
           "woe:country=23424943", 
           "woe:planet=1"
         ], 
-        "woeid": 56055613, 
         "ne_longitude": -11.356, 
         "longitude": -12.29, 
-        "children": [
-          "woe:county=56055796"
+        "alias_FRE_S": [
+          "Kedougou"
         ], 
         "placetype": "state", 
-        "latitude": 12.86, 
         "iso": "SN", 
-        "sw_latitude": 12.307, 
+        "date_indexed": "2010-12-02T08:57:18Z", 
         "adjacent": [
           "woe:state=56059373", 
           "woe:state=2346182", 
@@ -61,13 +60,14 @@
           "woe:state=2346991"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 13.413, 
+        "latitude": 12.86, 
         "sw_longitude": -13.224, 
         "fullname": "K\u00e9dougou, Senegal", 
-        "alias_FRE_S": [
-          "Kedougou"
+        "children": [
+          "woe:county=56055796"
         ], 
-        "date_indexed": "2010-12-02T08:57:18Z"
+        "sw_latitude": 12.307, 
+        "woe:id": 56055613
       }, 
       "id": 56055613
     }

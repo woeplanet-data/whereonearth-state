@@ -2050,7 +2050,6 @@
         "alias_POL_S": [
           "Macedonia Srodkowa"
         ], 
-        "ne:NL_NAME_1": "?e?t???? ?a?ed???a", 
         "alias_POL_Q": [
           "Macedonia \u015arodkowa"
         ], 
@@ -2069,7 +2068,7 @@
         "ne:Shape_Area": 2.05128112331, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1987", 
         "alias_POR_Q": [
           "Maced\u00f4nia Central"
         ], 
@@ -2093,11 +2092,13 @@
         "alias_CHI_Q": [
           "\u4e2d\u9a6c\u5176\u987f"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Macedonia Central"
+        ], 
         "alias_ITA_Q": [
           "Macedonia Centrale"
         ], 
-        "ne:OBJECTID": 2991, 
+        "ne:DataRank": 6, 
         "alias_ARA_Q": [
           "\u0645\u0642\u062f\u0648\u0646\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
         ], 
@@ -2105,9 +2106,7 @@
           "\u4e2d\u592e\u30de\u30b1\u30c9\u30cb\u30a2"
         ], 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Macedonia Central"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Keski-Makedonia"
         ], 
@@ -2135,9 +2134,23 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "ne:VertexCou": 501.0, 
-        "ne:VALIDFR_1": "1987", 
-        "ne:DataRank": 6, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 9, 
+        "adjacent_woeid": [
+          12577877, 
+          12577878, 
+          12577881, 
+          12577889, 
+          24550774, 
+          24550791, 
+          24550799, 
+          24550808, 
+          24550827, 
+          24550840, 
+          24550853, 
+          24550860
+        ], 
+        "ne:OBJECTID": 2991, 
         "ne:Postal": "MC", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Macedonia Central", 
@@ -2163,24 +2176,11 @@
           "Zentralmakedonien"
         ], 
         "woe:id": "12577884", 
-        "ne:HASC_1": "GR.MC", 
-        "lang": "ENG", 
-        "adjacent_woeid": [
-          12577877, 
-          12577878, 
-          12577881, 
-          12577889, 
-          24550774, 
-          24550791, 
-          24550799, 
-          24550808, 
-          24550827, 
-          24550840, 
-          24550853, 
-          24550860
-        ], 
-        "ne:FIRST_FIPS": null, 
         "name": "Central Macedonia", 
+        "ne:VertexCou": 501.0, 
+        "ne:NL_NAME_1": "?e?t???? ?a?ed???a", 
+        "ne:FIRST_FIPS": null, 
+        "ne:HASC_1": "GR.MC", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "alias_UNK_S": [
@@ -2196,7 +2196,9 @@
         "ne:Shape_Leng": 11.8344136778, 
         "ne_longitude": 24.121659783472296, 
         "longitude": 22.911, 
-        "ne:NEV_Countr": "Greece", 
+        "alias_FRE_S": [
+          "Macedoine-Centrale"
+        ], 
         "ne:NAME_1": "Kentriki Makedonia", 
         "iso": "GR", 
         "sw_latitude": 39.91262868886298, 
@@ -2208,9 +2210,7 @@
         ], 
         "fullname": "Central Macedonia, Kentriki Makedonia, Greece", 
         "ne:Region": null, 
-        "alias_FRE_S": [
-          "Macedoine-Centrale"
-        ], 
+        "ne:NEV_Countr": "Greece", 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Mac\u00e9doine-Centrale"

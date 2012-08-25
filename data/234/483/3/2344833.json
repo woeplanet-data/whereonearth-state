@@ -48,13 +48,12 @@
           "woe:country=23424765", 
           "woe:planet=1"
         ], 
-        "woeid": 2344833, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.794, 
         "longitude": 30.445, 
-        "ne_latitude": 54.47, 
         "placetype": "state", 
         "iso": "BY", 
-        "date_indexed": "2010-12-02T16:32:52Z", 
+        "sw_latitude": 52.681, 
         "adjacent": [
           "woe:state=2346892", 
           "woe:state=2344831", 
@@ -62,7 +61,7 @@
           "woe:state=2346925", 
           "woe:state=2344835"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 54.47, 
         "latitude": 53.575, 
         "sw_longitude": 28.096, 
         "fullname": "Mahilyowskaya Voblasts', Belarus", 
@@ -333,7 +332,8 @@
           "woe:town=834356", 
           "woe:town=834378"
         ], 
-        "sw_latitude": 52.681
+        "date_indexed": "2010-12-02T16:32:52Z", 
+        "woe:id": 2344833
       }, 
       "id": 2344833
     }

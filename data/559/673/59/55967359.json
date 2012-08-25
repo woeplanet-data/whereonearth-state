@@ -39,14 +39,30 @@
           55967002
         ], 
         "name": "L\u00e9raba", 
+        "ne_latitude": 11.079, 
         "hierarchy": [
           "woe:state=55967359", 
           "woe:country=23424978", 
           "woe:planet=1"
         ], 
-        "woeid": 55967359, 
         "ne_longitude": -4.924, 
         "longitude": -5.221, 
+        "alias_FRE_S": [
+          "Leraba"
+        ], 
+        "placetype": "state", 
+        "iso": "BF", 
+        "date_indexed": "2010-12-02T09:36:17Z", 
+        "adjacent": [
+          "woe:state=2347620", 
+          "woe:state=2347621", 
+          "woe:state=55967002", 
+          "woe:state=2346185"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.682, 
+        "sw_longitude": -5.519, 
+        "fullname": "L\u00e9raba, Burkina Faso", 
         "children": [
           "woe:county=55967618", 
           "woe:county=55967617", 
@@ -57,24 +73,8 @@
           "woe:county=55967615", 
           "woe:county=55967613"
         ], 
-        "placetype": "state", 
-        "latitude": 10.682, 
-        "iso": "BF", 
         "sw_latitude": 10.285, 
-        "adjacent": [
-          "woe:state=2347620", 
-          "woe:state=2347621", 
-          "woe:state=55967002", 
-          "woe:state=2346185"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 11.079, 
-        "sw_longitude": -5.519, 
-        "fullname": "L\u00e9raba, Burkina Faso", 
-        "alias_FRE_S": [
-          "Leraba"
-        ], 
-        "date_indexed": "2010-12-02T09:36:17Z"
+        "woe:id": 55967359
       }, 
       "id": 55967359
     }

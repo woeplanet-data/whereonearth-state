@@ -31,6 +31,31 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Kicevo Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550775", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 41.562, 
+        "ne_longitude": 21.004, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=482276"
+        ], 
+        "sw_longitude": 20.899, 
+        "adjacent": [
+          "woe:state=24550764", 
+          "woe:state=24550795", 
+          "woe:state=24550818", 
+          "woe:state=24550864"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.521, 
+        "woe:id": 24550775, 
+        "sw_latitude": 41.48, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550764, 
@@ -39,41 +64,16 @@
           24550864
         ], 
         "name": "Ki\u010devo", 
-        "alias_ENG_P": [
-          "Kicevo Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Kicevo"
-        ], 
-        "woeid": 24550775, 
-        "children": [
-          "woe:town=482276"
         ], 
         "alias_UNK_V": [
           "Opstina Ki\u010devo"
         ], 
         "longitude": 20.952, 
-        "ne_longitude": 21.004, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550775", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550764", 
-          "woe:state=24550795", 
-          "woe:state=24550818", 
-          "woe:state=24550864"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.562, 
-        "sw_longitude": 20.899, 
-        "latitude": 41.521, 
-        "fullname": "Ki\u010devo, Kicevo Municipality, Macedonia", 
-        "sw_latitude": 41.48
+        "fullname": "Ki\u010devo, Kicevo Municipality, Macedonia"
       }, 
       "id": 24550775
     }

@@ -40,18 +40,17 @@
           20070395
         ], 
         "name": "Samtrediis Raioni", 
-        "ne_latitude": 42.262, 
         "hierarchy": [
           "woe:state=20070393", 
           "woe:country=23424823", 
           "woe:planet=1"
         ], 
-        "woeid": 20070393, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 42.634, 
         "longitude": 42.474, 
         "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
+        "sw_latitude": 42.006, 
         "adjacent": [
           "woe:state=20070395", 
           "woe:state=20070377", 
@@ -59,7 +58,7 @@
           "woe:state=20070390", 
           "woe:state=20070391"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.262, 
         "latitude": 42.134, 
         "sw_longitude": 42.315, 
         "fullname": "Samtrediis Raioni, Georgia", 
@@ -79,7 +78,8 @@
           "woe:town=1965764", 
           "woe:town=1966014"
         ], 
-        "sw_latitude": 42.006
+        "date_indexed": "2010-12-02T17:51:52Z", 
+        "woe:id": 20070393
       }, 
       "id": 20070393
     }

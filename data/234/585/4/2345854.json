@@ -710,7 +710,7 @@
         "ne:Shape_Area": 0.515678293352, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uce58\ubc14\ucf04"
         ], 
@@ -776,7 +776,7 @@
         "alias_CHI_Q": [
           "\u5343\u53f6\u53bf"
         ], 
-        "ne:OBJECTID": 1855, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5343\u8449"
         ], 
@@ -801,9 +801,9 @@
         "ne:FIRST_HASC": "JP.IB", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 169.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1855, 
         "ne:Postal": "CH", 
         "ne:Region_Cod": "JPN-KNT", 
         "ne:VARNAME_1": "Tiba|Tsiba", 
@@ -822,8 +822,8 @@
           "Pr\u00e4fektur Chiba"
         ], 
         "woe:id": "2345854", 
-        "ne:HASC_1": "JP.CH", 
-        "lang": "JPN", 
+        "name": "\u5343\u8449\u770c", 
+        "ne:VertexCou": 169.0, 
         "adjacent_woeid": [
           2345863, 
           2345868, 
@@ -831,7 +831,7 @@
           2345889
         ], 
         "ne:FIRST_FIPS": "JA14", 
-        "name": "\u5343\u8449\u770c", 
+        "ne:HASC_1": "JP.CH", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 140.88290490144016, 
         "longitude": 140.312, 

@@ -37,23 +37,22 @@
           20069858
         ], 
         "name": "Ostgronland", 
-        "ne_latitude": 81.681, 
         "hierarchy": [
           "woe:state=20069859", 
           "woe:country=23424828", 
           "woe:planet=1"
         ], 
-        "woeid": 20069859, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -11.312, 
         "longitude": -42.177, 
         "placetype": "state", 
         "iso": "GL", 
-        "date_indexed": "2010-12-02T17:40:29Z", 
+        "sw_latitude": 60.845, 
         "adjacent": [
           "woe:state=20069857", 
           "woe:state=20069858"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 81.681, 
         "latitude": 71.802, 
         "sw_longitude": -44.435, 
         "fullname": "Ostgronland, Greenland", 
@@ -335,7 +334,8 @@
           "woe:island=12474203", 
           "woe:timezone=28350793"
         ], 
-        "sw_latitude": 60.845
+        "date_indexed": "2010-12-02T17:40:29Z", 
+        "woe:id": 20069859
       }, 
       "id": 20069859
     }

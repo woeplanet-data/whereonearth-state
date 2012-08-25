@@ -43,18 +43,17 @@
           56049599
         ], 
         "name": "Rif Dimashq", 
-        "ne_latitude": 34.218, 
         "hierarchy": [
           "woe:state=2347076", 
           "woe:country=23424956", 
           "woe:planet=1"
         ], 
-        "woeid": 2347076, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 38.35, 
         "longitude": 37.109, 
         "placetype": "state", 
         "iso": "SY", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
+        "sw_latitude": 32.532, 
         "adjacent": [
           "woe:state=2346013", 
           "woe:state=2345930", 
@@ -65,7 +64,7 @@
           "woe:state=2347081", 
           "woe:state=2347079"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.218, 
         "latitude": 33.375, 
         "sw_longitude": 35.868, 
         "fullname": "Rif Dimashq, Syria", 
@@ -108,7 +107,8 @@
           "woe:town=1947209", 
           "woe:town=1947234"
         ], 
-        "sw_latitude": 32.532
+        "date_indexed": "2010-12-02T07:50:18Z", 
+        "woe:id": 2347076
       }, 
       "id": 2347076
     }

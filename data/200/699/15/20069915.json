@@ -42,18 +42,17 @@
           56013541
         ], 
         "name": "Sinnar", 
-        "ne_latitude": 14.0, 
         "hierarchy": [
           "woe:state=20069915", 
           "woe:country=23424952", 
           "woe:planet=1"
         ], 
-        "woeid": 20069915, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.708, 
         "longitude": 34.255, 
         "placetype": "state", 
         "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
+        "sw_latitude": 11.849, 
         "adjacent": [
           "woe:state=20069908", 
           "woe:state=20069916", 
@@ -63,7 +62,7 @@
           "woe:state=20069913", 
           "woe:state=56013538"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.0, 
         "latitude": 12.925, 
         "sw_longitude": 32.803, 
         "fullname": "Sinnar, Sudan", 
@@ -96,7 +95,8 @@
           "woe:town=1517358", 
           "woe:town=1437254"
         ], 
-        "sw_latitude": 11.849
+        "date_indexed": "2010-12-02T08:50:49Z", 
+        "woe:id": 20069915
       }, 
       "id": 20069915
     }

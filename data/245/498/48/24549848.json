@@ -32,24 +32,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 8.314, 
         "name": "Lib", 
         "hierarchy": [
           "woe:state=24549848", 
           "woe:country=23424932", 
           "woe:planet=1"
         ], 
-        "woeid": 24549848, 
+        "ne_latitude": 8.314, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 167.41, 
         "longitude": 167.407, 
         "placetype": "state", 
         "iso": "MH", 
-        "sw_latitude": 8.309, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
         "latitude": 8.312, 
         "sw_longitude": 167.405, 
         "fullname": "Lib, Marshall Islands", 
-        "date_indexed": "2010-12-02T09:35:31Z"
+        "woe:id": 24549848, 
+        "sw_latitude": 8.309
       }, 
       "id": 24549848
     }

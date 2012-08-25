@@ -32,27 +32,27 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 10.297, 
         "name": "Mejit", 
         "hierarchy": [
           "woe:state=24549852", 
           "woe:country=23424932", 
           "woe:planet=1"
         ], 
-        "woeid": 24549852, 
+        "ne_latitude": 10.297, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 170.892, 
         "longitude": 170.884, 
         "placetype": "state", 
         "iso": "MH", 
-        "sw_latitude": 10.272, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
         "latitude": 10.284, 
         "sw_longitude": 170.876, 
         "fullname": "Mejit, Marshall Islands", 
         "children": [
           "woe:island=12498918"
         ], 
-        "date_indexed": "2010-12-02T09:35:31Z"
+        "sw_latitude": 10.272, 
+        "woe:id": 24549852
       }, 
       "id": 24549852
     }

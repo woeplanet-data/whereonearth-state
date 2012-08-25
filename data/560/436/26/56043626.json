@@ -45,12 +45,9 @@
         "ne_latitude": 47.61, 
         "ne_longitude": 18.497, 
         "longitude": 18.418, 
-        "children": [
-          "woe:county=12593536"
-        ], 
         "placetype": "state", 
         "iso": "HU", 
-        "sw_latitude": 47.486, 
+        "date_indexed": "2010-12-02T09:55:38Z", 
         "adjacent": [
           "woe:state=12577917", 
           "woe:state=12577921"
@@ -62,8 +59,11 @@
         "alias_HUN_S": [
           "Tatabanya"
         ], 
-        "woeid": 56043626, 
-        "date_indexed": "2010-12-02T09:55:38Z"
+        "children": [
+          "woe:county=12593536"
+        ], 
+        "sw_latitude": 47.486, 
+        "woe:id": 56043626
       }, 
       "id": 56043626
     }

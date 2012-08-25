@@ -626,7 +626,7 @@
         "ne:Shape_Area": 0.241105990695, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uce74\ub098\uac00\uc640\ucf04"
         ], 
@@ -667,7 +667,7 @@
         "alias_CHI_Q": [
           "\u795e\u5948\u5ddd\u53bf"
         ], 
-        "ne:OBJECTID": 1857, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u795e\u5948\u5ddd"
         ], 
@@ -692,9 +692,9 @@
         "ne:FIRST_HASC": "JP.KG", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 148.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1857, 
         "ne:Postal": "KN", 
         "ne:Region_Cod": "JPN-KNT", 
         "ne:VARNAME_1": null, 
@@ -713,8 +713,8 @@
           "Pr\u00e4fektur Kanagawa"
         ], 
         "woe:id": "2345868", 
-        "ne:HASC_1": "JP.KN", 
-        "lang": "JPN", 
+        "name": "\u795e\u5948\u5ddd\u770c", 
+        "ne:VertexCou": 148.0, 
         "adjacent_woeid": [
           2345854, 
           2345886, 
@@ -722,7 +722,7 @@
           2345895
         ], 
         "ne:FIRST_FIPS": "JA17", 
-        "name": "\u795e\u5948\u5ddd\u770c", 
+        "ne:HASC_1": "JP.KN", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 139.7868477725068, 
         "longitude": 139.358, 

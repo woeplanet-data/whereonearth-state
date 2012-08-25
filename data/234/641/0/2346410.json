@@ -38,27 +38,26 @@
           2346414
         ], 
         "name": "Nickerie", 
-        "ne_latitude": 6.0, 
-        "hierarchy": [
-          "woe:state=2346410", 
-          "woe:country=23424913", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2346410, 
-        "alias_DUT_V": [
-          "Nieuw Nickerie"
-        ], 
-        "ne_longitude": -56.452, 
-        "longitude": -56.866, 
-        "placetype": "state", 
-        "iso": "SR", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
         "adjacent": [
           "woe:state=2346408", 
           "woe:state=2345606", 
           "woe:state=2346414"
         ], 
+        "hierarchy": [
+          "woe:state=2346410", 
+          "woe:country=23424913", 
+          "woe:planet=1"
+        ], 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -56.452, 
+        "longitude": -56.866, 
+        "placetype": "state", 
+        "iso": "SR", 
+        "sw_latitude": 5.332, 
+        "alias_DUT_V": [
+          "Nieuw Nickerie"
+        ], 
+        "ne_latitude": 6.0, 
         "latitude": 5.666, 
         "sw_longitude": -57.28, 
         "fullname": "Nickerie, Suriname", 
@@ -70,7 +69,8 @@
           "woe:town=377210", 
           "woe:town=377269"
         ], 
-        "sw_latitude": 5.332
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "woe:id": 2346410
       }, 
       "id": 2346410
     }

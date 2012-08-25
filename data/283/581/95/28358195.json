@@ -40,21 +40,18 @@
           2345201
         ], 
         "name": "San Jose de Ocoa", 
+        "ne_latitude": 18.777, 
         "hierarchy": [
           "woe:state=28358195", 
           "woe:country=23424800", 
           "woe:planet=1"
         ], 
-        "woeid": 28358195, 
-        "alias_SPA_V": [
-          "S. Jose de Ocoa"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -70.36, 
         "longitude": -70.52, 
         "placetype": "state", 
-        "latitude": 18.621, 
         "sw_longitude": -70.68, 
-        "sw_latitude": 18.465, 
+        "date_indexed": "2010-12-02T16:32:46Z", 
         "adjacent": [
           "woe:state=2345172", 
           "woe:state=2345198", 
@@ -62,14 +59,17 @@
           "woe:state=2345186", 
           "woe:state=2345201"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 18.777, 
+        "alias_SPA_V": [
+          "S. Jose de Ocoa"
+        ], 
+        "latitude": 18.621, 
         "iso": "DO", 
         "fullname": "San Jose de Ocoa, Dominican Republic", 
         "children": [
           "woe:town=76356"
         ], 
-        "date_indexed": "2010-12-02T16:32:46Z"
+        "sw_latitude": 18.465, 
+        "woe:id": 28358195
       }, 
       "id": 28358195
     }

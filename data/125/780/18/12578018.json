@@ -10369,7 +10369,7 @@
         "ne:Shape_Area": 34.4711429858, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc708\ub09c"
         ], 
@@ -10393,7 +10393,7 @@
           "woe:county=26198181", 
           "woe:county=26198190"
         ], 
-        "ne:OBJECTID": 1810, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u96f2\u5357\u7701"
         ], 
@@ -10428,9 +10428,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 21.134756781900023, 
-        "ne:VertexCou": 2486.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1810, 
         "ne:Postal": "YN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Y\u00fann\u00e1n", 
@@ -10446,8 +10446,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 385379.2, 
         "woe:id": "12578018", 
-        "ne:HASC_1": "CN.YN", 
-        "lang": "CHI", 
+        "name": "\u4e91\u5357\u7701", 
+        "ne:VertexCou": 2486.0, 
         "adjacent_woeid": [
           2344813, 
           2344820, 
@@ -10463,7 +10463,7 @@
           12578016, 
           28301718
         ], 
-        "name": "\u4e91\u5357\u7701", 
+        "ne:HASC_1": "CN.YN", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 106.19995731018179, 
         "longitude": 101.824, 

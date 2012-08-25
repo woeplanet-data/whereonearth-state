@@ -36,20 +36,19 @@
           "W Falkland"
         ], 
         "name": "West Falkland", 
+        "ne_latitude": -50.966, 
         "hierarchy": [
           "woe:state=24549687", 
           "woe:country=23424814", 
           "woe:planet=1"
         ], 
-        "woeid": 24549687, 
         "ne_longitude": -59.195, 
         "longitude": -60.133, 
         "placetype": "state", 
-        "latitude": -51.801, 
         "iso": "FK", 
-        "sw_latitude": -52.26, 
+        "date_indexed": "2010-12-02T16:12:16Z", 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -50.966, 
+        "latitude": -51.801, 
         "sw_longitude": -61.434, 
         "fullname": "West Falkland, Falkland Islands", 
         "children": [
@@ -126,7 +125,8 @@
           "woe:island=12505386", 
           "woe:island=12505388"
         ], 
-        "date_indexed": "2010-12-02T16:12:16Z"
+        "sw_latitude": -52.26, 
+        "woe:id": 24549687
       }, 
       "id": 24549687
     }

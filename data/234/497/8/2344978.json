@@ -49,18 +49,17 @@
           2345105
         ], 
         "name": "Equateur", 
-        "ne_latitude": 5.146, 
         "hierarchy": [
           "woe:state=2344978", 
           "woe:country=23424780", 
           "woe:planet=1"
         ], 
-        "woeid": 2344978, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 24.404, 
         "longitude": 20.474, 
         "placetype": "state", 
         "iso": "CD", 
-        "date_indexed": "2010-12-02T16:33:06Z", 
+        "sw_latitude": -2.514, 
         "adjacent": [
           "woe:state=2344977", 
           "woe:state=2345105", 
@@ -77,7 +76,7 @@
           "woe:state=2345098", 
           "woe:state=2344973"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 5.146, 
         "latitude": 1.316, 
         "sw_longitude": 16.545, 
         "fullname": "Equateur, Democratic Republic of Congo", 
@@ -472,7 +471,8 @@
           "woe:town=1477804", 
           "woe:town=1299109"
         ], 
-        "sw_latitude": -2.514
+        "date_indexed": "2010-12-02T16:33:06Z", 
+        "woe:id": 2344978
       }, 
       "id": 2344978
     }

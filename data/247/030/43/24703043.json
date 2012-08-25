@@ -38,25 +38,24 @@
           24703045
         ], 
         "name": "South West", 
+        "ne_latitude": 1.453, 
         "hierarchy": [
           "woe:state=24703043", 
           "woe:country=23424948", 
           "woe:planet=1"
         ], 
-        "woeid": 24703043, 
         "ne_longitude": 103.867, 
         "longitude": 103.694, 
         "placetype": "state", 
-        "latitude": 1.367, 
         "iso": "SG", 
-        "sw_latitude": 1.116, 
+        "date_indexed": "2010-12-02T08:53:23Z", 
         "adjacent": [
           "woe:state=24703044", 
           "woe:state=2346296", 
           "woe:state=24703045"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 1.453, 
+        "latitude": 1.367, 
         "sw_longitude": 103.618, 
         "fullname": "South West, Singapore", 
         "children": [
@@ -141,7 +140,8 @@
           "woe:poi=24877060", 
           "woe:poi=24877063"
         ], 
-        "date_indexed": "2010-12-02T08:53:23Z"
+        "sw_latitude": 1.116, 
+        "woe:id": 24703043
       }, 
       "id": 24703043
     }

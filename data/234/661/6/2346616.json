@@ -41,18 +41,17 @@
           12577916
         ], 
         "name": "Arad", 
-        "ne_latitude": 46.68, 
         "hierarchy": [
           "woe:state=2346616", 
           "woe:country=23424933", 
           "woe:planet=1"
         ], 
-        "woeid": 2346616, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 22.748, 
         "longitude": 21.726, 
         "placetype": "state", 
         "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
+        "sw_latitude": 45.908, 
         "adjacent": [
           "woe:state=2346615", 
           "woe:state=2346619", 
@@ -61,7 +60,7 @@
           "woe:state=2346635", 
           "woe:state=2346649"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 46.68, 
         "latitude": 46.294, 
         "sw_longitude": 20.703, 
         "fullname": "Arad, Romania", 
@@ -341,7 +340,8 @@
           "woe:town=881988", 
           "woe:town=881511"
         ], 
-        "sw_latitude": 45.908
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "woe:id": 2346616
       }, 
       "id": 2346616
     }

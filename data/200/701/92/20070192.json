@@ -40,18 +40,17 @@
           20070195
         ], 
         "name": "Talas", 
-        "ne_latitude": 42.833, 
         "hierarchy": [
           "woe:state=20070192", 
           "woe:country=23424864", 
           "woe:planet=1"
         ], 
-        "woeid": 20070192, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 73.733, 
         "longitude": 72.302, 
         "placetype": "state", 
         "iso": "KG", 
-        "date_indexed": "2010-12-02T08:58:47Z", 
+        "sw_latitude": 42.034, 
         "adjacent": [
           "woe:state=20070195", 
           "woe:state=20070193", 
@@ -59,7 +58,7 @@
           "woe:state=2347670", 
           "woe:state=2345983"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.833, 
         "latitude": 42.433, 
         "sw_longitude": 70.871, 
         "fullname": "Talas, Kyrgyzstan", 
@@ -73,7 +72,8 @@
           "woe:town=1969952", 
           "woe:town=1969957"
         ], 
-        "sw_latitude": 42.034
+        "date_indexed": "2010-12-02T08:58:47Z", 
+        "woe:id": 20070192
       }, 
       "id": 20070192
     }

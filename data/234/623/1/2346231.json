@@ -40,18 +40,17 @@
           2346234
         ], 
         "name": "Moka", 
-        "ne_latitude": -20.173, 
         "hierarchy": [
           "woe:state=2346231", 
           "woe:country=23424894", 
           "woe:planet=1"
         ], 
-        "woeid": 2346231, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 57.669, 
         "longitude": 57.569, 
         "placetype": "state", 
         "iso": "MU", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": -20.331, 
         "adjacent": [
           "woe:state=2346229", 
           "woe:state=2346230", 
@@ -59,7 +58,7 @@
           "woe:state=2346233", 
           "woe:state=2346234"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -20.173, 
         "latitude": -20.252, 
         "sw_longitude": 57.469, 
         "fullname": "Moka, Mauritius", 
@@ -67,7 +66,8 @@
           "woe:town=1377392", 
           "woe:town=1377407"
         ], 
-        "sw_latitude": -20.331
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 2346231
       }, 
       "id": 2346231
     }

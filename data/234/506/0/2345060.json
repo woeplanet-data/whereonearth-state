@@ -40,18 +40,17 @@
           2347677
         ], 
         "name": "Guainia", 
-        "ne_latitude": 4.031, 
         "hierarchy": [
           "woe:state=2345060", 
           "woe:country=23424787", 
           "woe:planet=1"
         ], 
-        "woeid": 2345060, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.87, 
         "longitude": -68.914, 
         "placetype": "state", 
         "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
+        "sw_latitude": 1.17, 
         "adjacent": [
           "woe:state=2347677", 
           "woe:state=2344847", 
@@ -59,7 +58,7 @@
           "woe:state=2345075", 
           "woe:state=2345076"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 4.031, 
         "latitude": 2.601, 
         "sw_longitude": -70.958, 
         "fullname": "Guainia, Colombia", 
@@ -74,7 +73,8 @@
           "woe:county=26797659", 
           "woe:county=26797660"
         ], 
-        "sw_latitude": 1.17
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "woe:id": 2345060
       }, 
       "id": 2345060
     }

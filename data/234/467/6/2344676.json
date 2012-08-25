@@ -41,7 +41,24 @@
           2345020, 
           2345022
         ], 
+        "alias_ENG_A": [
+          "C"
+        ], 
         "name": "Catamarca", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=2344676", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "alias_SPA_V": [
+          "Provincia de Catamarca"
+        ], 
+        "ne_longitude": -64.825, 
+        "longitude": -66.96, 
+        "ne_latitude": -25.154, 
+        "sw_longitude": -69.086, 
+        "sw_latitude": -30.122, 
         "adjacent": [
           "woe:state=2345020", 
           "woe:state=2345022", 
@@ -51,25 +68,7 @@
           "woe:state=2344696", 
           "woe:state=2344698"
         ], 
-        "hierarchy": [
-          "woe:state=2344676", 
-          "woe:country=23424747", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2344676, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -64.825, 
-        "longitude": -66.96, 
-        "ne_latitude": -25.154, 
-        "placetype": "state", 
-        "sw_longitude": -69.086, 
-        "date_indexed": "2010-12-02T17:40:36Z", 
-        "alias_ENG_A": [
-          "C"
-        ], 
-        "alias_SPA_V": [
-          "Provincia de Catamarca"
-        ], 
         "latitude": -27.638, 
         "iso": "AR", 
         "fullname": "Catamarca, Argentina", 
@@ -91,7 +90,8 @@
           "woe:county=20070645", 
           "woe:county=20070762"
         ], 
-        "sw_latitude": -30.122
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "woe:id": 2344676
       }, 
       "id": 2344676
     }

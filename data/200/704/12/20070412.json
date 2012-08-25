@@ -41,18 +41,17 @@
           56190208
         ], 
         "name": "Arua", 
-        "ne_latitude": 3.739, 
         "hierarchy": [
           "woe:state=20070412", 
           "woe:country=23424974", 
           "woe:planet=1"
         ], 
-        "woeid": 20070412, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 31.5, 
         "longitude": 31.215, 
         "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
+        "sw_latitude": 2.538, 
         "adjacent": [
           "woe:state=20070445", 
           "woe:state=56190206", 
@@ -61,7 +60,7 @@
           "woe:state=56190208", 
           "woe:state=24550739"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 3.739, 
         "latitude": 3.166, 
         "sw_longitude": 30.763, 
         "fullname": "Arua, Uganda", 
@@ -71,7 +70,8 @@
           "woe:county=56190229", 
           "woe:county=56190230"
         ], 
-        "sw_latitude": 2.538
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "woe:id": 20070412
       }, 
       "id": 20070412
     }

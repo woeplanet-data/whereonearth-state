@@ -47,20 +47,19 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347131, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 101.356, 
         "longitude": 100.846, 
-        "ne_latitude": 19.635, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 18.013, 
         "adjacent": [
           "woe:state=2347166", 
           "woe:state=2347134", 
           "woe:state=2347137", 
           "woe:state=2346010"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.635, 
         "latitude": 18.824, 
         "sw_longitude": 100.336, 
         "fullname": "Nan, Thailand", 
@@ -85,7 +84,8 @@
           "woe:landfeature=56057421", 
           "woe:landfeature=56057437"
         ], 
-        "sw_latitude": 18.013
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347131
       }, 
       "id": 2347131
     }

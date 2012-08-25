@@ -36,7 +36,6 @@
           24550771, 
           24550862
         ], 
-        "ne_latitude": 42.188, 
         "name": "Tearce", 
         "alias_ENG_P": [
           "Tearce Municipality"
@@ -46,7 +45,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550861, 
+        "ne_latitude": 42.188, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Tearce"
         ], 
@@ -54,12 +54,11 @@
         "ne_longitude": 21.104, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 42.044, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550771", 
           "woe:state=24550862"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 42.116, 
         "sw_longitude": 20.954, 
         "fullname": "Tearce, Tearce Municipality, Macedonia", 
@@ -67,7 +66,8 @@
           "woe:town=481927", 
           "woe:town=483088"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 42.044, 
+        "woe:id": 24550861
       }, 
       "id": 24550861
     }

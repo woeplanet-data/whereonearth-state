@@ -43,18 +43,17 @@
           2345078
         ], 
         "name": "Antioquia", 
-        "ne_latitude": 8.849, 
         "hierarchy": [
           "woe:state=2345048", 
           "woe:country=23424787", 
           "woe:planet=1"
         ], 
-        "woeid": 2345048, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -73.878, 
         "longitude": -75.484, 
         "placetype": "state", 
         "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
+        "sw_latitude": 5.421, 
         "adjacent": [
           "woe:state=2345051", 
           "woe:state=2345052", 
@@ -65,7 +64,7 @@
           "woe:state=2345069", 
           "woe:state=2345071"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 8.849, 
         "latitude": 7.135, 
         "sw_longitude": -77.091, 
         "fullname": "Antioquia, Colombia", 
@@ -196,7 +195,8 @@
           "woe:county=26796729", 
           "woe:county=26796730"
         ], 
-        "sw_latitude": 5.421
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "woe:id": 2345048
       }, 
       "id": 2345048
     }

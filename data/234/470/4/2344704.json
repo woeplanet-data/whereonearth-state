@@ -6040,7 +6040,7 @@
         "ne:Shape_Area": 7.39515727657, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19010101", 
         "alias_ENG_A": [
           "TAS"
         ], 
@@ -6109,8 +6109,10 @@
         "alias_CHI_Q": [
           "\u5854\u65af\u9a6c\u5c3c\u4e9a"
         ], 
-        "ne:Area_sqkm": 68115.3, 
-        "ne:OBJECTID": 2660, 
+        "alias_DAN_Q": [
+          "Tasmanien"
+        ], 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30bf\u30b9\u30de\u30cb\u30a2"
         ], 
@@ -6124,12 +6126,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -43.641315199237, 
-        "ne:VertexCou": 1481.0, 
+        "lang": "ENG", 
         "alias_KOR_Q": [
           "\ud0dc\uc988\uba54\uc774\ub2c8\uc544"
         ], 
-        "ne:VALIDFR_1": "19010101", 
-        "ne:DataRank": 3, 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 2660, 
         "ne:Postal": "TS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -6143,14 +6145,12 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 2, 
-        "alias_DAN_Q": [
-          "Tasmanien"
-        ], 
+        "ne:Area_sqkm": 68115.3, 
         "woe:id": "2344704", 
-        "ne:HASC_1": "AU.TS", 
-        "lang": "ENG", 
-        "ne:NL_NAME_1": null, 
         "name": "Tasmania", 
+        "ne:VertexCou": 1481.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "AU.TS", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 148.48486982668123, 
         "longitude": 146.483, 

@@ -32,7 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2345286, 
         "name": "Saaremaa", 
         "alias_ENG_P": [
           "Saare County"
@@ -42,7 +41,7 @@
           "woe:country=23424805", 
           "woe:planet=1"
         ], 
-        "ne_latitude": 58.684, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Saare Maakond"
         ], 
@@ -50,8 +49,8 @@
         "ne_longitude": 23.446, 
         "placetype": "state", 
         "iso": "EE", 
-        "date_indexed": "2010-12-02T16:42:58Z", 
-        "provider": "geoplanet 7.6.0", 
+        "sw_latitude": 57.78, 
+        "ne_latitude": 58.684, 
         "latitude": 58.296, 
         "sw_longitude": 21.772, 
         "fullname": "Saaremaa, Saare County, Estonia", 
@@ -92,7 +91,8 @@
           "woe:island=12471254", 
           "woe:landfeature=56057300"
         ], 
-        "sw_latitude": 57.78
+        "date_indexed": "2010-12-02T16:42:58Z", 
+        "woe:id": 2345286
       }, 
       "id": 2345286
     }

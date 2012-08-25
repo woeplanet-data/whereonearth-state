@@ -41,18 +41,17 @@
           2346655
         ], 
         "name": "Ilfov", 
+        "ne_latitude": 44.769, 
         "hierarchy": [
           "woe:state=29281934", 
           "woe:country=23424933", 
           "woe:planet=1"
         ], 
-        "woeid": 29281934, 
         "ne_longitude": 26.466, 
         "longitude": 26.147, 
         "placetype": "state", 
-        "latitude": 44.501, 
         "iso": "RO", 
-        "sw_latitude": 44.232, 
+        "date_indexed": "2010-12-02T16:36:29Z", 
         "adjacent": [
           "woe:state=2346624", 
           "woe:state=2346654", 
@@ -62,7 +61,7 @@
           "woe:state=2346643"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 44.769, 
+        "latitude": 44.501, 
         "sw_longitude": 25.829, 
         "fullname": "Ilfov, Romania", 
         "children": [
@@ -168,7 +167,8 @@
           "woe:town=880982", 
           "woe:town=880983"
         ], 
-        "date_indexed": "2010-12-02T16:36:29Z"
+        "sw_latitude": 44.232, 
+        "woe:id": 29281934
       }, 
       "id": 29281934
     }

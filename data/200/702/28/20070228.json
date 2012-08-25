@@ -41,18 +41,17 @@
           20070270
         ], 
         "name": "Ismayilli", 
-        "ne_latitude": 41.058, 
         "hierarchy": [
           "woe:state=20070228", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070228, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 48.509, 
         "longitude": 48.16, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 40.558, 
         "adjacent": [
           "woe:state=20070215", 
           "woe:state=20070226", 
@@ -61,7 +60,7 @@
           "woe:state=20070232", 
           "woe:state=20070270"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.058, 
         "latitude": 40.808, 
         "sw_longitude": 47.812, 
         "fullname": "Ismayilli, Azerbaijan", 
@@ -87,7 +86,8 @@
           "woe:town=1949146", 
           "woe:town=1951916"
         ], 
-        "sw_latitude": 40.558
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070228
       }, 
       "id": 20070228
     }

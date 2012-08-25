@@ -31,13 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FRE", 
-        "adjacent_woeid": [
-          24549828, 
-          24549830, 
-          24549831
-        ], 
-        "name": "Saint-Beno\u00eet", 
         "alias_ENG_P": [
           "Arrondissement of Saint-Benoit"
         ], 
@@ -46,10 +39,8 @@
           "woe:country=23424931", 
           "woe:planet=1"
         ], 
-        "woeid": 24549829, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 55.845, 
-        "longitude": 55.532, 
+        "ne_latitude": -20.905, 
+        "placetype": "state", 
         "children": [
           "woe:county=24551451", 
           "woe:county=24551455", 
@@ -58,25 +49,34 @@
           "woe:county=24551453", 
           "woe:county=24551454"
         ], 
-        "placetype": "state", 
-        "latitude": -21.115, 
-        "iso": "RE", 
-        "sw_latitude": -21.235, 
+        "sw_longitude": 55.457, 
         "adjacent": [
           "woe:state=24549830", 
           "woe:state=24549831", 
           "woe:state=24549828"
         ], 
-        "ne_latitude": -20.905, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -21.115, 
+        "woe:id": 24549829, 
+        "date_indexed": "2010-12-02T09:35:31Z", 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          24549828, 
+          24549830, 
+          24549831
+        ], 
+        "name": "Saint-Beno\u00eet", 
+        "ne_longitude": 55.845, 
+        "longitude": 55.532, 
+        "iso": "RE", 
+        "sw_latitude": -21.235, 
         "alias_FRE_V": [
           "Arrondissement de Saint-Beno\u00eet"
         ], 
-        "sw_longitude": 55.457, 
         "fullname": "Saint-Beno\u00eet, Arrondissement of Saint-Benoit, Reunion", 
         "alias_FRE_S": [
           "St.-Benoit"
-        ], 
-        "date_indexed": "2010-12-02T09:35:31Z"
+        ]
       }, 
       "id": 24549829
     }

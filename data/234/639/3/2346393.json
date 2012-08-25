@@ -31,14 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "NOR", 
-        "adjacent_woeid": [
-          2346392, 
-          2346399, 
-          2347050, 
-          2347064
-        ], 
-        "name": "Nord-Tr\u00f8ndelag Fylke", 
         "alias_ENG_P": [
           "Nord-Trondelag"
         ], 
@@ -47,26 +39,8 @@
           "woe:country=23424910", 
           "woe:planet=1"
         ], 
-        "woeid": 2346393, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 14.326, 
-        "longitude": 12.23, 
-        "placetype": "state", 
-        "sw_longitude": 10.134, 
-        "date_indexed": "2010-12-02T10:19:56Z", 
-        "adjacent": [
-          "woe:state=2347050", 
-          "woe:state=2346392", 
-          "woe:state=2346399", 
-          "woe:state=2347064"
-        ], 
         "ne_latitude": 65.307, 
-        "latitude": 64.16, 
-        "iso": "NO", 
-        "fullname": "Nord-Tr\u00f8ndelag Fylke, Nord-Trondelag, Norway", 
-        "alias_NOR_V": [
-          "Nord-Tr\u00f8ndelag"
-        ], 
+        "placetype": "state", 
         "children": [
           "woe:county=12592880", 
           "woe:county=12593035", 
@@ -117,10 +91,36 @@
           "woe:drainage=29362425", 
           "woe:drainage=29360864"
         ], 
-        "sw_latitude": 63.181, 
+        "sw_longitude": 10.134, 
+        "adjacent": [
+          "woe:state=2347050", 
+          "woe:state=2346392", 
+          "woe:state=2346399", 
+          "woe:state=2347064"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 64.16, 
         "alias_NOR_S": [
           "Nord-Troendelags"
-        ]
+        ], 
+        "woe:id": 2346393, 
+        "alias_NOR_V": [
+          "Nord-Tr\u00f8ndelag"
+        ], 
+        "sw_latitude": 63.181, 
+        "lang": "NOR", 
+        "adjacent_woeid": [
+          2346392, 
+          2346399, 
+          2347050, 
+          2347064
+        ], 
+        "name": "Nord-Tr\u00f8ndelag Fylke", 
+        "ne_longitude": 14.326, 
+        "longitude": 12.23, 
+        "iso": "NO", 
+        "date_indexed": "2010-12-02T10:19:56Z", 
+        "fullname": "Nord-Tr\u00f8ndelag Fylke, Nord-Trondelag, Norway"
       }, 
       "id": 2346393
     }

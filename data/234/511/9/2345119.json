@@ -46,20 +46,19 @@
           "woe:country=23424793", 
           "woe:planet=1"
         ], 
-        "woeid": 2345119, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -75.387, 
         "longitude": -76.212, 
         "placetype": "state", 
+        "latitude": 20.234, 
         "iso": "CU", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 19.887, 
         "adjacent": [
           "woe:state=2345113", 
           "woe:state=2345114", 
           "woe:state=2345116"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 20.58, 
-        "latitude": 20.234, 
         "sw_longitude": -77.038, 
         "fullname": "Santiago de Cuba, Cuba", 
         "children": [
@@ -97,7 +96,8 @@
           "woe:town=68339", 
           "woe:town=68468"
         ], 
-        "sw_latitude": 19.887
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "woe:id": 2345119
       }, 
       "id": 2345119
     }

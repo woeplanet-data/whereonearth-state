@@ -45,18 +45,17 @@
           20070277
         ], 
         "name": "Kalbacar", 
-        "ne_latitude": 40.346, 
         "hierarchy": [
           "woe:state=20070273", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070273, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 46.784, 
         "longitude": 46.182, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 39.724, 
         "adjacent": [
           "woe:state=20070258", 
           "woe:state=20070222", 
@@ -69,7 +68,7 @@
           "woe:state=20070268", 
           "woe:state=20070277"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.346, 
         "latitude": 40.035, 
         "sw_longitude": 45.579, 
         "fullname": "Kalbacar, Azerbaijan", 
@@ -78,7 +77,8 @@
           "woe:town=1952032", 
           "woe:town=1951914"
         ], 
-        "sw_latitude": 39.724
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070273
       }, 
       "id": 20070273
     }

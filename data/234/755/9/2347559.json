@@ -1697,7 +1697,7 @@
         "ne:Shape_Area": 12.8843728788, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18170815", 
         "alias_ENG_A": [
           "Ala."
         ], 
@@ -1791,7 +1791,7 @@
         "alias_CHI_Q": [
           "\u4e9a\u62c9\u5df4\u9a6c"
         ], 
-        "ne:OBJECTID": 3541, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30a2\u30e9\u30d0\u30de"
         ], 
@@ -1811,9 +1811,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 30.22373455670447, 
-        "ne:VertexCou": 414.0, 
-        "ne:VALIDFR_1": "18170815", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3541, 
         "ne:Postal": "AL", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "AL|Ala.", 
@@ -1829,15 +1829,15 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 134048.9, 
         "woe:id": "2347559", 
-        "ne:HASC_1": "US.AL", 
-        "lang": "ENG", 
+        "name": "Alabama", 
+        "ne:VertexCou": 414.0, 
         "adjacent_woeid": [
           2347568, 
           2347569, 
           2347583, 
           2347601
         ], 
-        "name": "Alabama", 
+        "ne:HASC_1": "US.AL", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -84.89794315805028, 
         "longitude": -86.681, 

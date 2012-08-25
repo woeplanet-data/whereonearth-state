@@ -43,18 +43,17 @@
           20070508
         ], 
         "name": "Vologodskaya Oblast", 
-        "ne_latitude": 61.623, 
         "hierarchy": [
           "woe:state=2346934", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346934, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 47.242, 
         "longitude": 41.029, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 58.464, 
         "adjacent": [
           "woe:state=20070508", 
           "woe:state=2346873", 
@@ -65,7 +64,7 @@
           "woe:state=2346898", 
           "woe:state=2346936"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 61.623, 
         "latitude": 60.043, 
         "sw_longitude": 34.816, 
         "fullname": "Vologodskaya Oblast, Russia", 
@@ -101,7 +100,8 @@
           "woe:county=12599619", 
           "woe:county=12599620"
         ], 
-        "sw_latitude": 58.464
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346934
       }, 
       "id": 2346934
     }

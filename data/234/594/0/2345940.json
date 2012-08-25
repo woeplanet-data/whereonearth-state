@@ -38,24 +38,23 @@
           2345943
         ], 
         "name": "Nairobi Area", 
-        "ne_latitude": -1.16, 
         "hierarchy": [
           "woe:state=2345940", 
           "woe:country=23424863", 
           "woe:planet=1"
         ], 
-        "woeid": 2345940, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 37.113, 
         "longitude": 36.894, 
         "placetype": "state", 
         "iso": "KE", 
-        "date_indexed": "2010-12-02T08:53:52Z", 
+        "sw_latitude": -1.432, 
         "adjacent": [
           "woe:state=2345937", 
           "woe:state=2345939", 
           "woe:state=2345943"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -1.16, 
         "latitude": -1.296, 
         "sw_longitude": 36.676, 
         "fullname": "Nairobi Area, Kenya", 
@@ -86,7 +85,8 @@
           "woe:town=1528999", 
           "woe:town=1529036"
         ], 
-        "sw_latitude": -1.432
+        "date_indexed": "2010-12-02T08:53:52Z", 
+        "woe:id": 2345940
       }, 
       "id": 2345940
     }

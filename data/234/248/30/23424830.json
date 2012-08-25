@@ -32,36 +32,36 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "state", 
+        "alias_SPA_Q": [
+          "Islas Glorioso"
+        ], 
         "name": "Glorioso Islands", 
-        "ne_latitude": -11.5, 
         "hierarchy": [
           "woe:state=23424830", 
           "woe:country=28289406", 
           "woe:planet=1"
         ], 
-        "woeid": 23424830, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 47.367, 
         "longitude": 47.29, 
-        "children": [
-          "woe:town=1333955"
+        "alias_FRE_S": [
+          "Iles Glorioso"
         ], 
-        "alias_SPA_Q": [
-          "Islas Glorioso"
-        ], 
+        "placetype": "state", 
         "iso": "TF", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "provider": "geoplanet 7.6.0", 
+        "sw_latitude": -11.573, 
+        "woe:id": 23424830, 
+        "ne_latitude": -11.5, 
         "latitude": -11.561, 
         "sw_longitude": 47.28, 
         "fullname": "Glorioso Islands, French Southern Territories", 
         "alias_GER_Q": [
           "Gloriosoinseln"
         ], 
-        "alias_FRE_S": [
-          "Iles Glorioso"
+        "children": [
+          "woe:town=1333955"
         ], 
-        "sw_latitude": -11.573, 
+        "date_indexed": "2010-12-02T08:53:34Z", 
         "alias_FRE_Q": [
           "\u00celes Glorioso"
         ]

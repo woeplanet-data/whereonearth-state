@@ -52,6 +52,27 @@
         "ne_latitude": 48.585, 
         "ne_longitude": 22.128, 
         "longitude": 21.09, 
+        "placetype": "state", 
+        "iso": "HU", 
+        "sw_latitude": 47.643, 
+        "adjacent": [
+          "woe:state=20070495", 
+          "woe:state=56043641", 
+          "woe:state=12577919", 
+          "woe:state=12577920", 
+          "woe:state=12577926", 
+          "woe:state=20070497", 
+          "woe:state=56043619", 
+          "woe:state=12577922", 
+          "woe:state=12577925"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.114, 
+        "sw_longitude": 20.052, 
+        "fullname": "Borsod-Aba\u00faj-Zempl\u00e9n, Hungary", 
+        "alias_HUN_S": [
+          "Borsod-Abauj-Zemplen"
+        ], 
         "children": [
           "woe:county=12593804", 
           "woe:county=12593279", 
@@ -412,29 +433,8 @@
           "woe:zone=24873832", 
           "woe:zone=24873833"
         ], 
-        "placetype": "state", 
-        "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "adjacent": [
-          "woe:state=20070495", 
-          "woe:state=56043641", 
-          "woe:state=12577919", 
-          "woe:state=12577920", 
-          "woe:state=12577926", 
-          "woe:state=20070497", 
-          "woe:state=56043619", 
-          "woe:state=12577922", 
-          "woe:state=12577925"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 48.114, 
-        "sw_longitude": 20.052, 
-        "fullname": "Borsod-Aba\u00faj-Zempl\u00e9n, Hungary", 
-        "alias_HUN_S": [
-          "Borsod-Abauj-Zemplen"
-        ], 
-        "woeid": 12577914, 
-        "sw_latitude": 47.643
+        "woe:id": 12577914
       }, 
       "id": 12577914
     }

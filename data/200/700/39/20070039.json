@@ -40,18 +40,17 @@
           56189859
         ], 
         "name": "Al Jawf", 
-        "ne_latitude": 17.43, 
         "hierarchy": [
           "woe:state=20070039", 
           "woe:country=23425002", 
           "woe:planet=1"
         ], 
-        "woeid": 20070039, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 46.383, 
         "longitude": 45.254, 
         "placetype": "state", 
         "iso": "YE", 
-        "date_indexed": "2010-12-02T16:39:35Z", 
+        "sw_latitude": 15.779, 
         "adjacent": [
           "woe:state=56189859", 
           "woe:state=20070033", 
@@ -59,7 +58,7 @@
           "woe:state=20070038", 
           "woe:state=20070045"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.43, 
         "latitude": 16.399, 
         "sw_longitude": 44.176, 
         "fullname": "Al Jawf, Yemen", 
@@ -77,7 +76,8 @@
           "woe:county=56189945", 
           "woe:county=56189946"
         ], 
-        "sw_latitude": 15.779
+        "date_indexed": "2010-12-02T16:39:35Z", 
+        "woe:id": 20070039
       }, 
       "id": 20070039
     }

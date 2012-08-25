@@ -32,20 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "ne_latitude": 36.082, 
         "name": "Gozo", 
         "hierarchy": [
           "woe:state=24549803", 
           "woe:country=23424897", 
           "woe:planet=1"
         ], 
-        "woeid": 24549803, 
+        "ne_latitude": 36.082, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.351, 
         "longitude": 14.26, 
         "placetype": "state", 
         "iso": "MT", 
-        "sw_latitude": 36.004, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:17Z", 
         "latitude": 36.047, 
         "sw_longitude": 14.183, 
         "fullname": "Gozo, Malta", 
@@ -65,7 +64,8 @@
           "woe:county=24551360", 
           "woe:county=24551359"
         ], 
-        "date_indexed": "2010-12-02T07:50:17Z"
+        "sw_latitude": 36.004, 
+        "woe:id": 24549803
       }, 
       "id": 24549803
     }

@@ -41,7 +41,24 @@
           2346461, 
           20070148
         ], 
+        "alias_ENG_A": [
+          "F"
+        ], 
         "name": "Formosa", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=2344683", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "alias_SPA_V": [
+          "Provincia de Formosa"
+        ], 
+        "ne_longitude": -57.555, 
+        "longitude": -59.954, 
+        "ne_latitude": -22.463, 
+        "sw_longitude": -62.348, 
+        "sw_latitude": -26.872, 
         "adjacent": [
           "woe:state=20070148", 
           "woe:state=2346450", 
@@ -51,25 +68,7 @@
           "woe:state=2344691", 
           "woe:state=2346459"
         ], 
-        "hierarchy": [
-          "woe:state=2344683", 
-          "woe:country=23424747", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2344683, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -57.555, 
-        "longitude": -59.954, 
-        "ne_latitude": -22.463, 
-        "placetype": "state", 
-        "sw_longitude": -62.348, 
-        "date_indexed": "2010-12-02T17:40:36Z", 
-        "alias_ENG_A": [
-          "F"
-        ], 
-        "alias_SPA_V": [
-          "Provincia de Formosa"
-        ], 
         "latitude": -24.671, 
         "iso": "AR", 
         "fullname": "Formosa, Argentina", 
@@ -84,7 +83,8 @@
           "woe:county=20070791", 
           "woe:county=20070676"
         ], 
-        "sw_latitude": -26.872
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "woe:id": 2344683
       }, 
       "id": 2344683
     }

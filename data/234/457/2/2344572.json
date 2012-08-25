@@ -48,13 +48,12 @@
           "woe:country=23424739", 
           "woe:planet=1"
         ], 
-        "woeid": 2344572, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 68.987, 
         "longitude": 68.118, 
-        "ne_latitude": 34.773, 
         "placetype": "state", 
         "iso": "AF", 
-        "date_indexed": "2010-12-02T18:03:37Z", 
+        "sw_latitude": 33.649, 
         "adjacent": [
           "woe:state=2344552", 
           "woe:state=2344555", 
@@ -62,7 +61,7 @@
           "woe:state=2344563", 
           "woe:state=2344568"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.773, 
         "latitude": 34.211, 
         "sw_longitude": 67.249, 
         "fullname": "Vardak, Afghanistan", 
@@ -76,7 +75,8 @@
           "woe:county=56000716", 
           "woe:county=56000718"
         ], 
-        "sw_latitude": 33.649
+        "date_indexed": "2010-12-02T18:03:37Z", 
+        "woe:id": 2344572
       }, 
       "id": 2344572
     }

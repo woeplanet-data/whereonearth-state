@@ -31,8 +31,8 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_ENG_A": [
-          "RJ"
+        "alias_KOR_Q": [
+          "\ub9ac\uc6b0\ub370\uc790\ub124\uc774\ub8e8"
         ], 
         "hierarchy": [
           "woe:state=2344862", 
@@ -44,8 +44,8 @@
         "alias_POR_V": [
           "Riodejaneiro"
         ], 
-        "alias_KOR_Q": [
-          "\ub9ac\uc6b0\ub370\uc790\ub124\uc774\ub8e8"
+        "alias_ENG_A": [
+          "RJ"
         ], 
         "children": [
           "woe:county=12581012", 
@@ -144,7 +144,6 @@
         "alias_CHI_Q": [
           "\u91cc\u7ea6\u70ed\u5185\u5362"
         ], 
-        "woeid": 2344862, 
         "alias_JPN_Q": [
           "\u30ea\u30aa\u30c7\u30b8\u30e3\u30cd\u30a4\u30ed"
         ], 
@@ -156,7 +155,8 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -22.067, 
-        "date_indexed": "2010-12-02T17:58:27Z", 
+        "woe:id": 2344862, 
+        "sw_latitude": -23.371, 
         "lang": "POR", 
         "adjacent_woeid": [
           2344851, 
@@ -167,7 +167,7 @@
         "ne_longitude": -40.954, 
         "longitude": -42.921, 
         "iso": "BR", 
-        "sw_latitude": -23.371, 
+        "date_indexed": "2010-12-02T17:58:27Z", 
         "fullname": "Rio de Janeiro, Brazil"
       }, 
       "id": 2344862

@@ -39,25 +39,24 @@
           20070068
         ], 
         "name": "Smolyan", 
-        "ne_latitude": 41.936, 
         "hierarchy": [
           "woe:state=20070067", 
           "woe:country=23424771", 
           "woe:planet=1"
         ], 
-        "woeid": 20070067, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 25.182, 
         "longitude": 24.62, 
         "placetype": "state", 
         "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
+        "sw_latitude": 41.309, 
         "adjacent": [
           "woe:state=20070060", 
           "woe:state=20070053", 
           "woe:state=20070066", 
           "woe:state=20070068"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.936, 
         "latitude": 41.622, 
         "sw_longitude": 24.057, 
         "fullname": "Smolyan, Bulgaria", 
@@ -73,7 +72,8 @@
           "woe:county=55873858", 
           "woe:county=55873788"
         ], 
-        "sw_latitude": 41.309
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "woe:id": 20070067
       }, 
       "id": 20070067
     }

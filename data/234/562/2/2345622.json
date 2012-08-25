@@ -40,13 +40,12 @@
           2345621
         ], 
         "name": "Sud-Est", 
-        "ne_latitude": 18.404, 
         "hierarchy": [
           "woe:state=2345622", 
           "woe:country=23424839", 
           "woe:planet=1"
         ], 
-        "woeid": 2345622, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -71.693, 
         "longitude": -71.9, 
         "alias_FRE_A": [
@@ -54,7 +53,7 @@
         ], 
         "placetype": "state", 
         "iso": "HT", 
-        "date_indexed": "2010-12-02T17:52:09Z", 
+        "sw_latitude": 18.03, 
         "adjacent": [
           "woe:state=2345617", 
           "woe:state=2345179", 
@@ -62,7 +61,7 @@
           "woe:state=2345185", 
           "woe:state=2345621"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.404, 
         "latitude": 18.217, 
         "sw_longitude": -72.994, 
         "fullname": "Sud-Est, Haiti", 
@@ -83,7 +82,8 @@
           "woe:town=96812", 
           "woe:town=97207"
         ], 
-        "sw_latitude": 18.03
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "woe:id": 2345622
       }, 
       "id": 2345622
     }

@@ -1399,7 +1399,7 @@
         "ne:Shape_Area": 13.5669864832, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18360615", 
         "alias_ENG_A": [
           "Ark"
         ], 
@@ -1494,7 +1494,7 @@
         "alias_CHI_Q": [
           "\u963f\u80af\u8272"
         ], 
-        "ne:OBJECTID": 3528, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30a2\u30fc\u30ab\u30f3\u30bd\u30fc"
         ], 
@@ -1516,9 +1516,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 33.01094158798395, 
-        "ne:VertexCou": 342.0, 
-        "ne:VALIDFR_1": "18360615", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3528, 
         "ne:Postal": "AR", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "AR|Ark.", 
@@ -1534,8 +1534,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 137540.5, 
         "woe:id": "2347562", 
-        "ne:HASC_1": "US.AR", 
-        "lang": "ENG", 
+        "name": "Arkansas", 
+        "ne:VertexCou": 342.0, 
         "adjacent_woeid": [
           2347577, 
           2347583, 
@@ -1544,7 +1544,7 @@
           2347601, 
           2347602
         ], 
-        "name": "Arkansas", 
+        "ne:HASC_1": "US.AR", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -89.66730350984909, 
         "longitude": -92.131, 

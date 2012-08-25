@@ -1888,7 +1888,7 @@
         "ne:Shape_Area": 25.3398050467, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "19970422", 
         "alias_KOR_Q": [
           "\uc54c\ub9c8\ud2f0"
         ], 
@@ -2038,7 +2038,7 @@
         "alias_CHI_Q": [
           "\u963f\u62c9\u6728\u56fe"
         ], 
-        "ne:OBJECTID": 3207, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30de\u30c8\u30a4"
         ], 
@@ -2061,9 +2061,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 42.18969900190746, 
-        "ne:VertexCou": 431.0, 
-        "ne:VALIDFR_1": "19970422", 
-        "ne:DataRank": 6, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3207, 
         "ne:Postal": "AA", 
         "ne:Region_Cod": "KAZ-TKG", 
         "ne:VARNAME_1": "Alma-Ata|Alma-Atinskaya Oblast'|Almatinskaya Oblast'", 
@@ -2079,8 +2079,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 222133.3, 
         "woe:id": "20070180", 
-        "ne:HASC_1": "KZ.AA", 
-        "lang": "ENG", 
+        "name": "Almaty", 
+        "ne:VertexCou": 431.0, 
         "adjacent_woeid": [
           2345983, 
           12578003, 
@@ -2090,7 +2090,7 @@
           20070190, 
           20070195
         ], 
-        "name": "Almaty", 
+        "ne:HASC_1": "KZ.AA", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 82.63602094930741, 
         "longitude": 78.016, 

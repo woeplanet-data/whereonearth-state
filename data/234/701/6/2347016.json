@@ -40,18 +40,17 @@
           56013540
         ], 
         "name": "Nugaal", 
-        "ne_latitude": 9.501, 
         "hierarchy": [
           "woe:state=2347016", 
           "woe:country=23424949", 
           "woe:planet=1"
         ], 
-        "woeid": 2347016, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 50.187, 
         "longitude": 48.542, 
         "placetype": "state", 
         "iso": "SO", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
+        "sw_latitude": 7.253, 
         "adjacent": [
           "woe:state=2347008", 
           "woe:state=2347015", 
@@ -59,7 +58,7 @@
           "woe:state=56013540", 
           "woe:state=2347020"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.501, 
         "latitude": 8.377, 
         "sw_longitude": 46.897, 
         "fullname": "Nugaal, Somalia", 
@@ -77,7 +76,8 @@
           "woe:town=1429508", 
           "woe:town=1429571"
         ], 
-        "sw_latitude": 7.253
+        "date_indexed": "2010-12-02T08:51:00Z", 
+        "woe:id": 2347016
       }, 
       "id": 2347016
     }

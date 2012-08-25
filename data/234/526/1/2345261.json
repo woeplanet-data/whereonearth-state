@@ -1281,7 +1281,7 @@
         "ne:Shape_Area": 0.359549698369, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "1898", 
         "alias_ENG_A": [
           "LIM"
         ], 
@@ -1462,7 +1462,7 @@
           "woe:localadmin=20073278", 
           "woe:localadmin=20073279"
         ], 
-        "ne:OBJECTID": 726, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -9.362601284421714, 
@@ -1479,9 +1479,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.27680939363864, 
-        "ne:VertexCou": 314.0, 
-        "ne:VALIDFR_1": "1898", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 726, 
         "ne:Postal": "LK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Luimneach", 
@@ -1497,15 +1497,15 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 2717.7, 
         "woe:id": "2345261", 
-        "ne:HASC_1": "IE.LK", 
-        "lang": "ENG", 
+        "name": "Limerick", 
+        "ne:VertexCou": 314.0, 
         "adjacent_woeid": [
           2345251, 
           2345252, 
           2345256, 
           2345270
         ], 
-        "name": "Limerick", 
+        "ne:HASC_1": "IE.LK", 
         "ne:REMARKS_1": null, 
         "alias_UNK_Q": [
           "Luimneach"

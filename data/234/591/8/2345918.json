@@ -47,20 +47,19 @@
           "woe:country=23424858", 
           "woe:planet=1"
         ], 
-        "woeid": 2345918, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.833, 
         "longitude": -77.027, 
-        "ne_latitude": 18.255, 
         "placetype": "state", 
         "iso": "JM", 
-        "date_indexed": "2010-12-02T08:58:58Z", 
+        "sw_latitude": 17.8, 
         "adjacent": [
           "woe:state=2345912", 
           "woe:state=2345916", 
           "woe:state=2345917", 
           "woe:state=2345921"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.255, 
         "latitude": 18.046, 
         "sw_longitude": -77.209, 
         "fullname": "Saint Catherine, Jamaica", 
@@ -311,7 +310,8 @@
           "woe:island=12484332", 
           "woe:island=12484337"
         ], 
-        "sw_latitude": 17.8
+        "date_indexed": "2010-12-02T08:58:58Z", 
+        "woe:id": 2345918
       }, 
       "id": 2345918
     }

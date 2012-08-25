@@ -43,18 +43,17 @@
           20069899
         ], 
         "name": "Haute-Kotto", 
-        "ne_latitude": 9.246, 
         "hierarchy": [
           "woe:state=2345091", 
           "woe:country=23424792", 
           "woe:planet=1"
         ], 
-        "woeid": 2345091, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 24.612, 
         "longitude": 22.859, 
         "placetype": "state", 
         "iso": "CF", 
-        "date_indexed": "2010-12-02T17:43:23Z", 
+        "sw_latitude": 5.467, 
         "adjacent": [
           "woe:state=2345089", 
           "woe:state=2345090", 
@@ -65,7 +64,7 @@
           "woe:state=2345098", 
           "woe:state=2345101"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.246, 
         "latitude": 7.357, 
         "sw_longitude": 21.105, 
         "fullname": "Haute-Kotto, Central African Republic", 
@@ -74,7 +73,8 @@
           "woe:county=55998317", 
           "woe:county=55998316"
         ], 
-        "sw_latitude": 5.467
+        "date_indexed": "2010-12-02T17:43:23Z", 
+        "woe:id": 2345091
       }, 
       "id": 2345091
     }

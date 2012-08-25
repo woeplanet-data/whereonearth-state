@@ -8336,7 +8336,7 @@
         "ne:Shape_Area": 16.1069031522, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "KRN"
         ], 
@@ -8375,7 +8375,7 @@
         "alias_CHI_Q": [
           "\u5361\u7d0d\u5854\u514b\u90a6"
         ], 
-        "ne:OBJECTID": 2446, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30ab\u30fc\u30ca\u30bf\u30ab"
         ], 
@@ -8396,9 +8396,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 11.625595607751166, 
-        "ne:VertexCou": 2077.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 2446, 
         "ne:Postal": "KA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Maisur|Mysore", 
@@ -8414,8 +8414,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 191841.8, 
         "woe:id": "2345753", 
-        "ne:HASC_1": "IN.KA", 
-        "lang": "ENG", 
+        "name": "Karnataka", 
+        "ne:VertexCou": 2077.0, 
         "adjacent_woeid": [
           2345740, 
           2345747, 
@@ -8423,7 +8423,7 @@
           2345758, 
           2345764
         ], 
-        "name": "Karnataka", 
+        "ne:HASC_1": "IN.KA", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 78.5689823749367, 
         "longitude": 76.337, 

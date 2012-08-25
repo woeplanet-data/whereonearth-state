@@ -736,7 +736,7 @@
         "ne:Shape_Area": 0.131580288211, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "HRV", 
         "children": [
@@ -762,7 +762,7 @@
           "woe:historicalcounty=15022159", 
           "woe:landfeature=56058431"
         ], 
-        "ne:OBJECTID": 1588, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 15.248609653712606, 
@@ -778,9 +778,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 45.51985748943167, 
-        "ne:VertexCou": 168.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 1588, 
         "ne:Postal": "ZG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Zagreb", 
@@ -796,14 +796,14 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 1138.1, 
         "woe:id": "12577983", 
-        "ne:HASC_1": "HR.ZG", 
-        "lang": "UNK", 
+        "name": "Sibenska", 
+        "ne:VertexCou": 168.0, 
         "adjacent_woeid": [
           12577985, 
           12577989, 
           24549661
         ], 
-        "name": "Sibenska", 
+        "ne:HASC_1": "HR.ZG", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Sibensko-kninska"

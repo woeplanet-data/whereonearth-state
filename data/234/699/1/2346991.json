@@ -45,18 +45,17 @@
           56059373
         ], 
         "name": "Tambacounda", 
-        "ne_latitude": 15.1, 
         "hierarchy": [
           "woe:state=2346991", 
           "woe:country=23424943", 
           "woe:planet=1"
         ], 
-        "woeid": 2346991, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -11.856, 
         "longitude": -13.103, 
         "placetype": "state", 
         "iso": "SN", 
-        "date_indexed": "2010-12-02T08:57:18Z", 
+        "sw_latitude": 12.628, 
         "adjacent": [
           "woe:state=56059373", 
           "woe:state=2346250", 
@@ -69,7 +68,7 @@
           "woe:state=56055615", 
           "woe:state=2345446"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.1, 
         "latitude": 13.704, 
         "sw_longitude": -14.849, 
         "fullname": "Tambacounda, Senegal", 
@@ -77,7 +76,8 @@
           "woe:county=56055828", 
           "woe:county=56055827"
         ], 
-        "sw_latitude": 12.628
+        "date_indexed": "2010-12-02T08:57:18Z", 
+        "woe:id": 2346991
       }, 
       "id": 2346991
     }

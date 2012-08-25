@@ -31,42 +31,15 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "adjacent_woeid": [
-          20070280, 
-          20070282, 
-          20070283
-        ], 
-        "alias_KOR_Q": [
-          "\ubc14\ucfe0"
-        ], 
-        "name": "Baki", 
-        "latitude": 40.137, 
         "hierarchy": [
           "woe:state=20070218", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070218, 
-        "ne_longitude": 50.608, 
-        "longitude": 49.422, 
-        "placetype": "state", 
-        "alias_FIN_Q": [
-          "Baku"
-        ], 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "adjacent": [
-          "woe:state=20070283", 
-          "woe:state=20070282", 
-          "woe:state=20070280"
-        ], 
-        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 40.593, 
-        "sw_longitude": 49.239, 
-        "fullname": "Baki, Azerbaijan", 
-        "alias_GER_Q": [
-          "Baku"
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ubc14\ucfe0"
         ], 
         "children": [
           "woe:town=1951864", 
@@ -124,7 +97,34 @@
           "woe:island=12466844", 
           "woe:island=12466864"
         ], 
-        "sw_latitude": 39.681
+        "alias_FIN_Q": [
+          "Baku"
+        ], 
+        "sw_longitude": 49.239, 
+        "adjacent": [
+          "woe:state=20070283", 
+          "woe:state=20070282", 
+          "woe:state=20070280"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.137, 
+        "woe:id": 20070218, 
+        "sw_latitude": 39.681, 
+        "alias_GER_Q": [
+          "Baku"
+        ], 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          20070280, 
+          20070282, 
+          20070283
+        ], 
+        "name": "Baki", 
+        "ne_longitude": 50.608, 
+        "longitude": 49.422, 
+        "iso": "AZ", 
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "fullname": "Baki, Azerbaijan"
       }, 
       "id": 20070218
     }

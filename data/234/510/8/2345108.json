@@ -46,20 +46,19 @@
           "woe:country=23424793", 
           "woe:planet=1"
         ], 
-        "woeid": 2345108, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -80.471, 
         "longitude": -81.324, 
         "placetype": "state", 
+        "latitude": 22.602, 
         "iso": "CU", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 21.653, 
         "adjacent": [
           "woe:state=2345112", 
           "woe:state=2345115", 
           "woe:state=2345120"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 23.284, 
-        "latitude": 22.602, 
         "sw_longitude": -82.284, 
         "fullname": "Matanzas, Cuba", 
         "children": [
@@ -155,7 +154,8 @@
           "woe:island=12483741", 
           "woe:island=12483767"
         ], 
-        "sw_latitude": 21.653
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "woe:id": 2345108
       }, 
       "id": 2345108
     }

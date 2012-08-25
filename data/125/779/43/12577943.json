@@ -958,7 +958,7 @@
         "ne:Shape_Area": 2.2558879013, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19980727", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "POL", 
         "children": [
@@ -992,15 +992,15 @@
           "woe:zone=24874436"
         ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:OBJECTID": 3152, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30dd\u30c8\u30ab\u30eb\u30d1\u30c1\u30a7\u770c"
         ], 
+        "ne:REMARKS_1": null, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Subcarpatica"
         ], 
-        "ne:ProvNumber": 2000, 
         "sw_longitude": 21.21010623581418, 
         "adjacent": [
           "woe:state=12577938", 
@@ -1017,9 +1017,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "sw_latitude": 48.99421906186029, 
-        "ne:VertexCou": 212.0, 
-        "ne:VALIDFR_1": "19980727", 
-        "ne:DataRank": 5, 
+        "lang": "POL", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3152, 
         "ne:Postal": "PK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Podkarpackie", 
@@ -1038,8 +1038,8 @@
           "Vorkarpaten"
         ], 
         "woe:id": "12577943", 
-        "ne:HASC_1": "PL.PK", 
-        "lang": "POL", 
+        "name": "Podkarpackie", 
+        "ne:VertexCou": 212.0, 
         "adjacent_woeid": [
           2347547, 
           2347556, 
@@ -1048,8 +1048,8 @@
           12577947, 
           20070496
         ], 
-        "name": "Podkarpackie", 
-        "ne:REMARKS_1": null, 
+        "ne:HASC_1": "PL.PK", 
+        "ne:ProvNumber": 2000, 
         "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne_longitude": 23.658122186189985, 
         "longitude": 22.345, 

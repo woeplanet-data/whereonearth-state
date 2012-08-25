@@ -42,18 +42,17 @@
           20070529
         ], 
         "name": "Pavlodar", 
-        "ne_latitude": 54.458, 
         "hierarchy": [
           "woe:state=2345993", 
           "woe:country=23424871", 
           "woe:planet=1"
         ], 
-        "woeid": 2345993, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 79.385, 
         "longitude": 76.395, 
         "placetype": "state", 
         "iso": "KZ", 
-        "date_indexed": "2010-12-02T08:54:03Z", 
+        "sw_latitude": 50.053, 
         "adjacent": [
           "woe:state=20070529", 
           "woe:state=2345996", 
@@ -63,7 +62,7 @@
           "woe:state=20070175", 
           "woe:state=20070174"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 54.458, 
         "latitude": 52.255, 
         "sw_longitude": 73.404, 
         "fullname": "Pavlodar, Kazakhstan", 
@@ -161,7 +160,8 @@
           "woe:town=2265096", 
           "woe:town=2265102"
         ], 
-        "sw_latitude": 50.053
+        "date_indexed": "2010-12-02T08:54:03Z", 
+        "woe:id": 2345993
       }, 
       "id": 2345993
     }

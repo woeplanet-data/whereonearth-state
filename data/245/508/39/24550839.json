@@ -31,6 +31,33 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Gjorce Petrov Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550839", 
+          "woe:town=482940", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 42.127, 
+        "ne_longitude": 21.405, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=481984", 
+          "woe:town=482383", 
+          "woe:town=55856838"
+        ], 
+        "sw_longitude": 21.25, 
+        "adjacent": [
+          "woe:state=24550773", 
+          "woe:state=24550803", 
+          "woe:state=24550830"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.073, 
+        "woe:id": 24550839, 
+        "sw_latitude": 42.001, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550773, 
@@ -38,43 +65,16 @@
           24550830
         ], 
         "name": "Gjor\u010de Petrov", 
-        "alias_ENG_P": [
-          "Gjorce Petrov Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Gjorce Petrov"
-        ], 
-        "woeid": 24550839, 
-        "children": [
-          "woe:town=481984", 
-          "woe:town=482383", 
-          "woe:town=55856838"
         ], 
         "alias_UNK_V": [
           "Opstina Gjor\u010de Petrov"
         ], 
         "longitude": 21.327, 
-        "ne_longitude": 21.405, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550839", 
-          "woe:town=482940", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550773", 
-          "woe:state=24550803", 
-          "woe:state=24550830"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.127, 
-        "sw_longitude": 21.25, 
-        "latitude": 42.073, 
-        "fullname": "Gjor\u010de Petrov, Skopje, Gjorce Petrov Municipality, Macedonia", 
-        "sw_latitude": 42.001
+        "fullname": "Gjor\u010de Petrov, Skopje, Gjorce Petrov Municipality, Macedonia"
       }, 
       "id": 24550839
     }

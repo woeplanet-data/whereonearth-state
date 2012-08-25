@@ -37,23 +37,22 @@
           2347376
         ], 
         "name": "Zanzibar North", 
-        "ne_latitude": -5.719, 
         "hierarchy": [
           "woe:state=2347373", 
           "woe:country=23424973", 
           "woe:planet=1"
         ], 
-        "woeid": 2347373, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 39.385, 
         "longitude": 39.286, 
         "placetype": "state", 
         "iso": "TZ", 
-        "date_indexed": "2010-12-02T12:15:58Z", 
+        "sw_latitude": -6.092, 
         "adjacent": [
           "woe:state=2347372", 
           "woe:state=2347376"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -5.719, 
         "latitude": -5.905, 
         "sw_longitude": 39.186, 
         "fullname": "Zanzibar North, Tanzania", 
@@ -61,7 +60,8 @@
           "woe:county=56025114", 
           "woe:county=56025115"
         ], 
-        "sw_latitude": -6.092
+        "date_indexed": "2010-12-02T12:15:58Z", 
+        "woe:id": 2347373
       }, 
       "id": 2347373
     }

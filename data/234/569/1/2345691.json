@@ -40,16 +40,33 @@
           2345707, 
           20070100
         ], 
+        "alias_UNK_A": [
+          "BORG"
+        ], 
         "name": "Borgarfjardarsysla", 
-        "ne_latitude": 64.983, 
         "hierarchy": [
           "woe:state=2345691", 
           "woe:country=23424845", 
           "woe:planet=1"
         ], 
-        "woeid": 2345691, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -19.657, 
         "longitude": -20.883, 
+        "placetype": "state", 
+        "iso": "IS", 
+        "sw_latitude": 64.302, 
+        "adjacent": [
+          "woe:state=20070100", 
+          "woe:state=2345687", 
+          "woe:state=2345689", 
+          "woe:state=2345695", 
+          "woe:state=2345696", 
+          "woe:state=2345707"
+        ], 
+        "ne_latitude": 64.983, 
+        "latitude": 64.643, 
+        "sw_longitude": -22.087, 
+        "fullname": "Borgarfjardarsysla, Iceland", 
         "children": [
           "woe:town=980217", 
           "woe:town=980263", 
@@ -60,25 +77,8 @@
           "woe:town=980383", 
           "woe:island=12476091"
         ], 
-        "placetype": "state", 
-        "iso": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
-        "adjacent": [
-          "woe:state=20070100", 
-          "woe:state=2345687", 
-          "woe:state=2345689", 
-          "woe:state=2345695", 
-          "woe:state=2345696", 
-          "woe:state=2345707"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 64.643, 
-        "sw_longitude": -22.087, 
-        "fullname": "Borgarfjardarsysla, Iceland", 
-        "alias_UNK_A": [
-          "BORG"
-        ], 
-        "sw_latitude": 64.302
+        "woe:id": 2345691
       }, 
       "id": 2345691
     }

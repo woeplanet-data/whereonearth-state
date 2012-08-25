@@ -37,23 +37,22 @@
           2344758
         ], 
         "name": "Warwick", 
-        "ne_latitude": 32.279, 
         "hierarchy": [
           "woe:state=2344759", 
           "woe:country=23424756", 
           "woe:planet=1"
         ], 
-        "woeid": 2344759, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -64.793, 
         "longitude": -64.816, 
         "placetype": "state", 
         "iso": "BM", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
+        "sw_latitude": 32.255, 
         "adjacent": [
           "woe:state=2344754", 
           "woe:state=2344758"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 32.279, 
         "latitude": 32.267, 
         "sw_longitude": -64.842, 
         "fullname": "Warwick, Bermuda", 
@@ -63,7 +62,8 @@
           "woe:island=12481203", 
           "woe:island=12481213"
         ], 
-        "sw_latitude": 32.255
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "woe:id": 2344759
       }, 
       "id": 2344759
     }

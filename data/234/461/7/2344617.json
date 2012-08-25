@@ -40,18 +40,17 @@
           2344613
         ], 
         "name": "Khenchela", 
-        "ne_latitude": 35.692, 
         "hierarchy": [
           "woe:state=2344617", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344617, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 7.505, 
         "longitude": 7.002, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 34.072, 
         "adjacent": [
           "woe:state=2344580", 
           "woe:state=2344591", 
@@ -59,7 +58,7 @@
           "woe:state=2344600", 
           "woe:state=2344603"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.692, 
         "latitude": 34.882, 
         "sw_longitude": 6.498, 
         "fullname": "Khenchela, Algeria", 
@@ -88,7 +87,8 @@
           "woe:town=1257706", 
           "woe:town=1257887"
         ], 
-        "sw_latitude": 34.072
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344617
       }, 
       "id": 2344617
     }

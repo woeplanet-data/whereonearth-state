@@ -38,24 +38,23 @@
           2346580
         ], 
         "name": "Aveiro", 
-        "ne_latitude": 41.081, 
         "hierarchy": [
           "woe:state=2346562", 
           "woe:country=23424925", 
           "woe:planet=1"
         ], 
-        "woeid": 2346562, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -8.086, 
         "longitude": -8.435, 
         "placetype": "state", 
         "iso": "PT", 
-        "date_indexed": "2010-12-02T09:58:14Z", 
+        "sw_latitude": 40.279, 
         "adjacent": [
           "woe:state=2346567", 
           "woe:state=2346575", 
           "woe:state=2346580"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.081, 
         "latitude": 40.68, 
         "sw_longitude": -8.784, 
         "fullname": "Aveiro, Portugal", 
@@ -80,7 +79,8 @@
           "woe:county=12596433", 
           "woe:county=12596672"
         ], 
-        "sw_latitude": 40.279
+        "date_indexed": "2010-12-02T09:58:14Z", 
+        "woe:id": 2346562
       }, 
       "id": 2346562
     }

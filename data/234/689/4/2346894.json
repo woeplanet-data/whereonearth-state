@@ -45,18 +45,17 @@
           20070517
         ], 
         "name": "Chitinskaya Oblast", 
-        "ne_latitude": 58.582, 
         "hierarchy": [
           "woe:state=2346894", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346894, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 122.157, 
         "longitude": 114.96, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 49.145, 
         "adjacent": [
           "woe:state=20070517", 
           "woe:state=2346888", 
@@ -69,7 +68,7 @@
           "woe:state=12578009", 
           "woe:state=12577998"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 58.582, 
         "latitude": 53.864, 
         "sw_longitude": 107.764, 
         "fullname": "Chitinskaya Oblast, Russia", 
@@ -107,7 +106,8 @@
           "woe:county=12598190", 
           "woe:county=12598191"
         ], 
-        "sw_latitude": 49.145
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346894
       }, 
       "id": 2346894
     }

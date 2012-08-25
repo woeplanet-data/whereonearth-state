@@ -40,18 +40,17 @@
           2347032
         ], 
         "name": "Soufriere", 
-        "ne_latitude": 13.901, 
         "hierarchy": [
           "woe:state=2347031", 
           "woe:country=23424951", 
           "woe:planet=1"
         ], 
-        "woeid": 2347031, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -60.981, 
         "longitude": -61.028, 
         "placetype": "state", 
         "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
+        "sw_latitude": 13.798, 
         "adjacent": [
           "woe:state=2347023", 
           "woe:state=2347025", 
@@ -59,7 +58,7 @@
           "woe:state=2347030", 
           "woe:state=2347032"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.901, 
         "latitude": 13.85, 
         "sw_longitude": -61.074, 
         "fullname": "Soufriere, St. Lucia", 
@@ -68,7 +67,8 @@
           "woe:town=162110", 
           "woe:town=162131"
         ], 
-        "sw_latitude": 13.798
+        "date_indexed": "2010-12-02T18:18:47Z", 
+        "woe:id": 2347031
       }, 
       "id": 2347031
     }

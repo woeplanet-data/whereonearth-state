@@ -46,20 +46,19 @@
           "woe:country=23424793", 
           "woe:planet=1"
         ], 
-        "woeid": 2345118, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -78.925, 
         "longitude": -79.505, 
         "placetype": "state", 
+        "latitude": 21.987, 
         "iso": "CU", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 21.35, 
         "adjacent": [
           "woe:state=2345111", 
           "woe:state=2345112", 
           "woe:state=2345120"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 22.471, 
-        "latitude": 21.987, 
         "sw_longitude": -80.085, 
         "fullname": "Sancti Spiritus, Cuba", 
         "children": [
@@ -100,7 +99,8 @@
           "woe:island=12483752", 
           "woe:island=12483785"
         ], 
-        "sw_latitude": 21.35
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "woe:id": 2345118
       }, 
       "id": 2345118
     }

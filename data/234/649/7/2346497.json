@@ -6913,7 +6913,7 @@
         "ne:Shape_Area": 7.35193534495, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "19700701", 
         "alias_ENG_A": [
           "NWFP"
         ], 
@@ -7333,7 +7333,7 @@
           "woe:town=22723041", 
           "woe:town=2210735"
         ], 
-        "ne:OBJECTID": 1123, 
+        "ne:DataRank": 2, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 70.06779585159734, 
@@ -7352,9 +7352,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 31.245276597536986, 
-        "ne:VertexCou": 1699.0, 
-        "ne:VALIDFR_1": "19700701", 
-        "ne:DataRank": 2, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 1123, 
         "ne:Postal": "NW", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "North-West Frontier Province", 
@@ -7370,8 +7370,8 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 74893.7, 
         "woe:id": "2346497", 
-        "ne:HASC_1": "PK.NW", 
-        "lang": "ENG", 
+        "name": "North-West Frontier", 
+        "ne:VertexCou": 1699.0, 
         "adjacent_woeid": [
           2344549, 
           2345746, 
@@ -7380,7 +7380,7 @@
           2346500, 
           2346501
         ], 
-        "name": "North-West Frontier", 
+        "ne:HASC_1": "PK.NW", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 74.12289716956877, 
         "longitude": 72.046, 

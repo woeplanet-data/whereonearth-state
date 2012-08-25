@@ -44,7 +44,6 @@
           24550858, 
           24550864
         ], 
-        "ne_latitude": 41.603, 
         "name": "Drugovo", 
         "alias_ENG_P": [
           "Drugovo Municipality"
@@ -54,7 +53,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550764, 
+        "ne_latitude": 41.603, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Drugovo"
         ], 
@@ -62,7 +62,7 @@
         "ne_longitude": 21.109, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.33, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550829", 
           "woe:state=24550746", 
@@ -75,7 +75,6 @@
           "woe:state=24550818", 
           "woe:state=24550864"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 41.466, 
         "sw_longitude": 20.638, 
         "fullname": "Drugovo, Drugovo Municipality, Macedonia", 
@@ -85,7 +84,8 @@
           "woe:town=55856829", 
           "woe:town=482488"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.33, 
+        "woe:id": 24550764
       }, 
       "id": 24550764
     }

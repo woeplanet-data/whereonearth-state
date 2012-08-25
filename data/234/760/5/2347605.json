@@ -5505,7 +5505,7 @@
         "ne:Shape_Area": 10.6084912542, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18630619", 
         "alias_POR_Q": [
           "Virg\u00ednia"
         ], 
@@ -5673,7 +5673,7 @@
         "alias_CHI_Q": [
           "\u5f17\u5409\u5c3c\u4e9a"
         ], 
-        "ne:OBJECTID": 3552, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30d0\u30fc\u30b8\u30cb\u30a2"
         ], 
@@ -5695,9 +5695,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 36.53977459582097, 
-        "ne:VertexCou": 1326.0, 
-        "ne:VALIDFR_1": "18630619", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3552, 
         "ne:Postal": "VA", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "VA", 
@@ -5715,8 +5715,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 102867.5, 
         "woe:id": "2347605", 
-        "ne:HASC_1": "US.VA", 
-        "lang": "ENG", 
+        "name": "Virginia", 
+        "ne:VertexCou": 1326.0, 
         "adjacent_woeid": [
           2347567, 
           2347576, 
@@ -5725,7 +5725,7 @@
           2347601, 
           2347607
         ], 
-        "name": "Virginia", 
+        "ne:HASC_1": "US.VA", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne:TYPE_1": "State", 

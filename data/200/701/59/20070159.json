@@ -40,18 +40,17 @@
           20070160
         ], 
         "name": "Attapu", 
-        "ne_latitude": 15.082, 
         "hierarchy": [
           "woe:state=20070159", 
           "woe:country=23424872", 
           "woe:planet=1"
         ], 
-        "woeid": 20070159, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 107.602, 
         "longitude": 106.955, 
         "placetype": "state", 
         "iso": "LA", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
+        "sw_latitude": 14.286, 
         "adjacent": [
           "woe:state=20070160", 
           "woe:state=20070076", 
@@ -59,7 +58,7 @@
           "woe:state=2344942", 
           "woe:state=20070158"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.082, 
         "latitude": 14.684, 
         "sw_longitude": 106.308, 
         "fullname": "Attapu, Laos", 
@@ -71,7 +70,8 @@
           "woe:town=1140559", 
           "woe:town=56121205"
         ], 
-        "sw_latitude": 14.286
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "woe:id": 20070159
       }, 
       "id": 20070159
     }

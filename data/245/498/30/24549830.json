@@ -46,23 +46,22 @@
           "woe:country=23424931", 
           "woe:planet=1"
         ], 
-        "woeid": 24549830, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.661, 
         "longitude": 55.44, 
+        "ne_latitude": -20.857, 
         "placetype": "state", 
-        "latitude": -21.052, 
+        "alias_FRE_V": [
+          "Arrondissement de Saint-Denis"
+        ], 
         "iso": "RE", 
-        "sw_latitude": -21.077, 
+        "date_indexed": "2010-12-02T09:35:31Z", 
         "adjacent": [
           "woe:state=24549829", 
           "woe:state=24549831", 
           "woe:state=24549828"
         ], 
-        "ne_latitude": -20.857, 
-        "alias_FRE_V": [
-          "Arrondissement de Saint-Denis"
-        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -21.052, 
         "sw_longitude": 55.286, 
         "fullname": "Saint-Denis, Arrondissement of Saint-Denis, Reunion", 
         "children": [
@@ -72,7 +71,8 @@
           "woe:county=24551449", 
           "woe:county=24551448"
         ], 
-        "date_indexed": "2010-12-02T09:35:31Z"
+        "sw_latitude": -21.077, 
+        "woe:id": 24549830
       }, 
       "id": 24549830
     }

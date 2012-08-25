@@ -32,20 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 7.835, 
         "name": "Jabat", 
         "hierarchy": [
           "woe:state=24549842", 
           "woe:country=23424932", 
           "woe:planet=1"
         ], 
-        "woeid": 24549842, 
+        "ne_latitude": 7.835, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 168.974, 
         "longitude": 168.971, 
         "placetype": "state", 
         "iso": "MH", 
-        "sw_latitude": 7.562, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
         "latitude": 7.581, 
         "sw_longitude": 168.217, 
         "fullname": "Jabat, Marshall Islands", 
@@ -53,7 +52,8 @@
           "woe:island=12498923", 
           "woe:airport=12515493"
         ], 
-        "date_indexed": "2010-12-02T09:35:31Z"
+        "sw_latitude": 7.562, 
+        "woe:id": 24549842
       }, 
       "id": 24549842
     }

@@ -10189,7 +10189,7 @@
         "alias_POR_V": [
           "Minasgerais"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "17390307", 
         "alias_ENG_A": [
           "MG"
         ], 
@@ -11050,7 +11050,7 @@
           "woe:county=12579412", 
           "woe:county=12579413"
         ], 
-        "ne:OBJECTID": 601, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -51.027603319237755, 
@@ -11070,9 +11070,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -22.892917575385752, 
-        "ne:VertexCou": 2540.0, 
-        "ne:VALIDFR_1": "17390307", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 601, 
         "ne:Postal": "MG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Minas|Minas Geraes", 
@@ -11088,8 +11088,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 586372.6, 
         "woe:id": "2344856", 
-        "ne:HASC_1": "BR.MG", 
-        "lang": "POR", 
+        "name": "Minas Gerais", 
+        "ne:VertexCou": 2540.0, 
         "adjacent_woeid": [
           2344848, 
           2344850, 
@@ -11099,7 +11099,7 @@
           2344862, 
           2344868
         ], 
-        "name": "Minas Gerais", 
+        "ne:HASC_1": "BR.MG", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -39.86073971226784, 
         "longitude": -45.451, 

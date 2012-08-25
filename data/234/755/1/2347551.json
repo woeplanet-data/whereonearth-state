@@ -51,28 +51,6 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 51.95, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_UNK_V": [
-          "Rivnenshchyna"
-        ], 
-        "longitude": 26.408, 
-        "ne_longitude": 27.729, 
-        "placetype": "state", 
-        "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "adjacent": [
-          "woe:state=2344830", 
-          "woe:state=2344831", 
-          "woe:state=2347542", 
-          "woe:state=2347547", 
-          "woe:state=2347553", 
-          "woe:state=2347555", 
-          "woe:state=2347558"
-        ], 
-        "woeid": 2347551, 
-        "latitude": 50.977, 
-        "sw_longitude": 25.087, 
-        "fullname": "Rivnens\u00b4ka Oblast\u00b4, Rivne Oblast, Ukraine", 
         "children": [
           "woe:town=915511", 
           "woe:town=916739", 
@@ -112,7 +90,29 @@
           "woe:town=939882", 
           "woe:town=939883"
         ], 
-        "sw_latitude": 50.005
+        "alias_UNK_V": [
+          "Rivnenshchyna"
+        ], 
+        "longitude": 26.408, 
+        "ne_longitude": 27.729, 
+        "placetype": "state", 
+        "iso": "UA", 
+        "sw_latitude": 50.005, 
+        "adjacent": [
+          "woe:state=2344830", 
+          "woe:state=2344831", 
+          "woe:state=2347542", 
+          "woe:state=2347547", 
+          "woe:state=2347553", 
+          "woe:state=2347555", 
+          "woe:state=2347558"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.977, 
+        "sw_longitude": 25.087, 
+        "fullname": "Rivnens\u00b4ka Oblast\u00b4, Rivne Oblast, Ukraine", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "woe:id": 2347551
       }, 
       "id": 2347551
     }

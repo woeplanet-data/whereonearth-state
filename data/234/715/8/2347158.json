@@ -48,13 +48,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347158, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 100.488, 
         "longitude": 100.335, 
-        "ne_latitude": 15.12, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 14.715, 
         "adjacent": [
           "woe:state=2347160", 
           "woe:state=2347157", 
@@ -62,7 +61,7 @@
           "woe:state=2347143", 
           "woe:state=2347175"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.12, 
         "latitude": 14.917, 
         "sw_longitude": 100.181, 
         "fullname": "Sing Buri, Thailand", 
@@ -74,7 +73,8 @@
           "woe:county=28341483", 
           "woe:county=28341482"
         ], 
-        "sw_latitude": 14.715
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347158
       }, 
       "id": 2347158
     }

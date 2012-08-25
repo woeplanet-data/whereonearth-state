@@ -40,18 +40,17 @@
           20070146
         ], 
         "name": "Thyolo", 
-        "ne_latitude": -15.843, 
         "hierarchy": [
           "woe:state=20070144", 
           "woe:country=23424889", 
           "woe:planet=1"
         ], 
-        "woeid": 20070144, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.329, 
         "longitude": 35.117, 
         "placetype": "state", 
         "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
+        "sw_latitude": -16.407, 
         "adjacent": [
           "woe:state=20070143", 
           "woe:state=20070146", 
@@ -59,7 +58,7 @@
           "woe:state=20070141", 
           "woe:state=20070145"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -15.843, 
         "latitude": -16.123, 
         "sw_longitude": 34.905, 
         "fullname": "Thyolo, Malawi", 
@@ -71,7 +70,8 @@
           "woe:town=1369247", 
           "woe:town=1369249"
         ], 
-        "sw_latitude": -16.407
+        "date_indexed": "2010-12-02T17:40:22Z", 
+        "woe:id": 20070144
       }, 
       "id": 20070144
     }

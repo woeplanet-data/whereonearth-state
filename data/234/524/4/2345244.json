@@ -48,13 +48,12 @@
           "woe:country=23424802", 
           "woe:planet=1"
         ], 
-        "woeid": 2345244, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 30.998, 
         "longitude": 27.848, 
-        "ne_latitude": 31.667, 
         "placetype": "state", 
         "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
+        "sw_latitude": 27.95, 
         "adjacent": [
           "woe:state=2345225", 
           "woe:state=2345228", 
@@ -62,7 +61,7 @@
           "woe:state=56120898", 
           "woe:state=2346128"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.667, 
         "latitude": 29.809, 
         "sw_longitude": 24.698, 
         "fullname": "Matruh, Egypt", 
@@ -101,7 +100,8 @@
           "woe:town=1526674", 
           "woe:town=1526675"
         ], 
-        "sw_latitude": 27.95
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "woe:id": 2345244
       }, 
       "id": 2345244
     }

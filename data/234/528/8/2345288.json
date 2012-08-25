@@ -48,25 +48,6 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 58.184, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_UNK_V": [
-          "Valga Maakond"
-        ], 
-        "longitude": 26.103, 
-        "ne_longitude": 26.625, 
-        "placetype": "state", 
-        "iso": "EE", 
-        "date_indexed": "2010-12-02T16:42:58Z", 
-        "adjacent": [
-          "woe:state=2345284", 
-          "woe:state=2345287", 
-          "woe:state=2345289", 
-          "woe:state=2345290"
-        ], 
-        "woeid": 2345288, 
-        "latitude": 57.878, 
-        "sw_longitude": 25.581, 
-        "fullname": "Valgamaa, Valga County, Estonia", 
         "children": [
           "woe:county=29389774", 
           "woe:county=29389806", 
@@ -82,7 +63,26 @@
           "woe:county=29389789", 
           "woe:county=29389822"
         ], 
-        "sw_latitude": 57.572
+        "alias_UNK_V": [
+          "Valga Maakond"
+        ], 
+        "longitude": 26.103, 
+        "ne_longitude": 26.625, 
+        "placetype": "state", 
+        "iso": "EE", 
+        "sw_latitude": 57.572, 
+        "adjacent": [
+          "woe:state=2345284", 
+          "woe:state=2345287", 
+          "woe:state=2345289", 
+          "woe:state=2345290"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 57.878, 
+        "sw_longitude": 25.581, 
+        "fullname": "Valgamaa, Valga County, Estonia", 
+        "date_indexed": "2010-12-02T16:42:58Z", 
+        "woe:id": 2345288
       }, 
       "id": 2345288
     }

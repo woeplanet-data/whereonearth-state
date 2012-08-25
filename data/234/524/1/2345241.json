@@ -48,13 +48,12 @@
           "woe:country=23424802", 
           "woe:planet=1"
         ], 
-        "woeid": 2345241, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.345, 
         "longitude": 32.295, 
-        "ne_latitude": 31.275, 
         "placetype": "state", 
         "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
+        "sw_latitude": 31.198, 
         "adjacent": [
           "woe:state=2345223", 
           "woe:state=2345229", 
@@ -62,7 +61,7 @@
           "woe:state=2345242", 
           "woe:state=2345248"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.275, 
         "latitude": 31.236, 
         "sw_longitude": 32.267, 
         "fullname": "Bur Sa'id, Egypt", 
@@ -70,7 +69,8 @@
           "woe:town=1522743", 
           "woe:town=1525969"
         ], 
-        "sw_latitude": 31.198
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "woe:id": 2345241
       }, 
       "id": 2345241
     }

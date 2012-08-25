@@ -45,18 +45,17 @@
           "woe:country=23424802", 
           "woe:planet=1"
         ], 
-        "woeid": 2345226, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 31.098, 
         "longitude": 30.664, 
-        "ne_latitude": 29.756, 
         "placetype": "state", 
         "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
+        "sw_latitude": 29.02, 
         "adjacent": [
           "woe:state=2345240", 
           "woe:state=56120898"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 29.756, 
         "latitude": 29.388, 
         "sw_longitude": 30.229, 
         "fullname": "Al Fayyum, Egypt", 
@@ -85,7 +84,8 @@
           "woe:town=1526528", 
           "woe:town=1526636"
         ], 
-        "sw_latitude": 29.02
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "woe:id": 2345226
       }, 
       "id": 2345226
     }

@@ -42,18 +42,17 @@
           56025085
         ], 
         "name": "Morogoro", 
-        "ne_latitude": -5.79, 
         "hierarchy": [
           "woe:state=2347361", 
           "woe:country=23424973", 
           "woe:planet=1"
         ], 
-        "woeid": 2347361, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 38.518, 
         "longitude": 36.915, 
         "placetype": "state", 
         "iso": "TZ", 
-        "date_indexed": "2010-12-02T12:15:58Z", 
+        "sw_latitude": -9.995, 
         "adjacent": [
           "woe:state=2347354", 
           "woe:state=2347355", 
@@ -63,7 +62,7 @@
           "woe:state=2347365", 
           "woe:state=2347369"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -5.79, 
         "latitude": -7.892, 
         "sw_longitude": 35.313, 
         "fullname": "Morogoro, Tanzania", 
@@ -75,7 +74,8 @@
           "woe:county=56025175", 
           "woe:county=56025211"
         ], 
-        "sw_latitude": -9.995
+        "date_indexed": "2010-12-02T12:15:58Z", 
+        "woe:id": 2347361
       }, 
       "id": 2347361
     }

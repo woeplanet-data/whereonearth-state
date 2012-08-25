@@ -1432,7 +1432,7 @@
         "ne:Shape_Area": 5.19030160232, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 6, 
+        "ne:VALIDFR_1": "1956", 
         "alias_ENG_A": [
           "SG"
         ], 
@@ -1469,7 +1469,7 @@
           "woe:town=2266768", 
           "woe:town=2266786"
         ], 
-        "ne:OBJECTID": 3326, 
+        "ne:DataRank": 7, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "1966", 
         "sw_longitude": 104.34932091672698, 
@@ -1488,9 +1488,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 48.504739895130115, 
-        "ne:VertexCou": 348.0, 
-        "ne:VALIDFR_1": "1956", 
-        "ne:DataRank": 7, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 6, 
+        "ne:OBJECTID": 3326, 
         "ne:Postal": "SL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Selenga", 
@@ -1506,8 +1506,8 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 41842.8, 
         "woe:id": "2346170", 
-        "ne:HASC_1": "MN.SL", 
-        "lang": "ENG", 
+        "name": "Selenge", 
+        "ne:VertexCou": 348.0, 
         "adjacent_woeid": [
           2346165, 
           2346172, 
@@ -1516,7 +1516,7 @@
           2346894, 
           20070014
         ], 
-        "name": "Selenge", 
+        "ne:HASC_1": "MN.SL", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 108.57004520032581, 
         "longitude": 106.519, 

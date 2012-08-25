@@ -1751,10 +1751,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 41.136817532103464, 
+        "ne:DataRank": 3, 
         "ne:Shape_Area": 1.06889102735, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "alias_KOR_Q": [
           "\ubc14\uc2e4\ub9ac\uce74\ud0c0"
         ], 
@@ -1768,13 +1769,13 @@
         "alias_CHI_Q": [
           "\u5df4\u897f\u5229\u5361\u5854"
         ], 
-        "ne:OBJECTID": 818, 
         "alias_ITA_V": [
           "Lucania Regione"
         ], 
         "alias_JPN_Q": [
           "\u30d0\u30b8\u30ea\u30ab\u30fc\u30bf"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -1793,9 +1794,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "ne:VertexCou": 432.0, 
-        "ne:VALIDFR_1": "1895", 
-        "ne:DataRank": 3, 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 818, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Basilicate|Lucania", 
@@ -1811,14 +1812,14 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 10061.1, 
         "woe:id": "7153331", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Basilicata", 
+        "ne:VertexCou": 432.0, 
         "adjacent_woeid": [
           7153332, 
           7153333, 
           7153342
         ], 
-        "name": "Basilicata", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITF", 
         "ne_longitude": 16.86329145703519, 
         "longitude": 16.102, 
@@ -1826,13 +1827,12 @@
         "sw_latitude": 39.90079478615053, 
         "ne:NL_NAME_1": null, 
         "fullname": "Basilicata, Italy", 
-        "alias_FRE_Q": [
-          "Basilicate"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Basilicate"
+        ]
       }, 
       "id": 7153331
     }

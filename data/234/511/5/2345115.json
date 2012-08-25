@@ -974,7 +974,7 @@
         "ne:Shape_Area": 0.506619503505, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "19760605", 
         "alias_KOR_Q": [
           "\uc544\ubc14\ub098"
         ], 
@@ -1044,7 +1044,7 @@
         "alias_SPA_A": [
           "LH"
         ], 
-        "ne:OBJECTID": 1429, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30e9\u30fb\u30cf\u30d0\u30ca"
         ], 
@@ -1069,13 +1069,13 @@
         "alias_CHI_Q": [
           "\u54c8\u74e6\u90a3"
         ], 
-        "ne:VALIDFR_1": "19760605", 
+        "ne:MAP_COLOR": 4, 
         "adjacent": [
           "woe:state=2345107", 
           "woe:state=2345108", 
           "woe:state=2345106"
         ], 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 1429, 
         "ne:Postal": "LH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1094,14 +1094,14 @@
           "Havanna"
         ], 
         "woe:id": "2345115", 
-        "ne:HASC_1": "CU.LH", 
+        "name": "La Habana", 
         "lang": "SPA", 
         "adjacent_woeid": [
           2345106, 
           2345107, 
           2345108
         ], 
-        "name": "La Habana", 
+        "ne:HASC_1": "CU.LH", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -82.278, 

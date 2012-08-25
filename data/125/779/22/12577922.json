@@ -49,6 +49,24 @@
         "ne_latitude": 48.25, 
         "ne_longitude": 20.093, 
         "longitude": 19.511, 
+        "placetype": "state", 
+        "iso": "HU", 
+        "sw_latitude": 47.688, 
+        "adjacent": [
+          "woe:state=20070495", 
+          "woe:state=12577914", 
+          "woe:state=12577920", 
+          "woe:state=20070492", 
+          "woe:state=12577923", 
+          "woe:state=56043635"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.969, 
+        "sw_longitude": 18.928, 
+        "fullname": "N\u00f3gr\u00e1d, Hungary", 
+        "alias_HUN_S": [
+          "Nograd"
+        ], 
         "children": [
           "woe:county=12593628", 
           "woe:county=12593678", 
@@ -179,26 +197,8 @@
           "woe:county=12596060", 
           "woe:zone=24873824"
         ], 
-        "placetype": "state", 
-        "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "adjacent": [
-          "woe:state=20070495", 
-          "woe:state=12577914", 
-          "woe:state=12577920", 
-          "woe:state=20070492", 
-          "woe:state=12577923", 
-          "woe:state=56043635"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 47.969, 
-        "sw_longitude": 18.928, 
-        "fullname": "N\u00f3gr\u00e1d, Hungary", 
-        "alias_HUN_S": [
-          "Nograd"
-        ], 
-        "woeid": 12577922, 
-        "sw_latitude": 47.688
+        "woe:id": 12577922
       }, 
       "id": 12577922
     }

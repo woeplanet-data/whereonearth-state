@@ -45,18 +45,17 @@
           "woe:country=23424737", 
           "woe:planet=1"
         ], 
-        "woeid": 2344547, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -61.659, 
         "longitude": -61.707, 
-        "ne_latitude": 17.103, 
         "placetype": "state", 
         "iso": "AG", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 17.031, 
         "adjacent": [
           "woe:state=2344545", 
           "woe:state=2344546"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.103, 
         "latitude": 17.067, 
         "sw_longitude": -61.741, 
         "fullname": "Saint Philip, Antigua and Barbuda", 
@@ -68,7 +67,8 @@
           "woe:town=56219", 
           "woe:island=12481139"
         ], 
-        "sw_latitude": 17.031
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "woe:id": 2344547
       }, 
       "id": 2344547
     }

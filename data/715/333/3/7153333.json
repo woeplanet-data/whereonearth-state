@@ -2043,11 +2043,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 41.495658677406084, 
-        "ne:RegionVar": null, 
+        "ne:OBJECTID": 820, 
         "ne:Shape_Area": 1.4431972635, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "alias_KOR_Q": [
           "\uce84\ud30c\ub2c8\uc544"
         ], 
@@ -2068,13 +2068,16 @@
         "alias_CHI_Q": [
           "\u574e\u5e15\u5c3c\u4e9a"
         ], 
-        "ne:Area_sqkm": 13511.7, 
+        "alias_DAN_Q": [
+          "Campanien"
+        ], 
         "alias_ITA_V": [
           "Campania Regione"
         ], 
         "alias_JPN_Q": [
           "\u30ab\u30f3\u30d1\u30fc\u30cb\u30a2"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -2094,8 +2097,8 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 39.99957428632433, 
-        "ne:VertexCou": 502.0, 
-        "ne:VALIDFR_1": "1895", 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -2110,22 +2113,20 @@
         "ne:Region_C_1": null, 
         "ne:TYPE_1": "Regione", 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Campanien"
-        ], 
+        "ne:Area_sqkm": 13511.7, 
         "alias_GER_Q": [
           "Kampanien"
         ], 
         "woe:id": "7153333", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Campania", 
+        "ne:VertexCou": 502.0, 
         "adjacent_woeid": [
           7153331, 
           7153336, 
           7153340, 
           7153342
         ], 
-        "name": "Campania", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITF", 
         "ne_longitude": 15.790540399220106, 
         "longitude": 14.784, 
@@ -2133,13 +2134,12 @@
         "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Campania, Italy", 
-        "alias_FRE_Q": [
-          "La Campanie"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
-        "ne:OBJECTID": 820, 
-        "ne:sameAsCity": -99
+        "ne:RegionVar": null, 
+        "alias_FRE_Q": [
+          "La Campanie"
+        ]
       }, 
       "id": 7153333
     }

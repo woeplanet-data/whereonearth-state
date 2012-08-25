@@ -6337,8 +6337,7 @@
         "ne:Shape_Area": 12.6901942005, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "17760704", 
-        "ne:Region_C_3": "South Atlantic", 
+        "ne:MAP_COLOR": 1, 
         "alias_POR_Q": [
           "Carolina do Norte"
         ], 
@@ -6476,18 +6475,18 @@
         "alias_CHI_Q": [
           "\u5317\u5361\u7f57\u6765\u7eb3"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Carolina del Norte"
+        ], 
         "alias_ITA_Q": [
           "Carolina del Nord"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3549, 
         "alias_JPN_Q": [
           "\u30ce\u30fc\u30b9\u30ab\u30ed\u30e9\u30a4\u30ca"
         ], 
         "ne:Abbrev": "N.C.", 
-        "alias_SPA_Q": [
-          "Carolina del Norte"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Pohjois-Carolina"
         ], 
@@ -6507,14 +6506,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3549, 
+        "ne:VertexCou": 1520.0, 
+        "ne:VALIDFR_1": "17760704", 
+        "ne:DataRank": 1, 
         "ne:Postal": "NC", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "NC|N.C.", 
         "ne:ISO": "USA", 
-        "ne:TYPE_1": "State", 
+        "ne:Region_C_3": "South Atlantic", 
         "ne:Region_C_2": "South", 
         "ne:Shape_Leng": 41.9897526679, 
         "alias_DUT_Q": [
@@ -6523,15 +6522,15 @@
         "ne:NAME_0": "United States of America", 
         "ne:NAME_1": "North Carolina", 
         "ne:Region_C_1": "South Atlantic", 
-        "ne:sameAsCity": -99, 
+        "ne:TYPE_1": "State", 
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 128874.2, 
         "alias_GER_Q": [
           "Nordkarolinein"
         ], 
         "woe:id": "2347592", 
-        "name": "North Carolina", 
-        "ne:VertexCou": 1520.0, 
+        "ne:HASC_1": "US.NC", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347569, 
           2347599, 
@@ -6539,7 +6538,7 @@
           2347605
         ], 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": "US.NC", 
+        "name": "North Carolina", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne_longitude": -75.45167850925577, 
@@ -6548,12 +6547,13 @@
         "sw_latitude": 33.84800213439104, 
         "ne:NL_NAME_1": null, 
         "fullname": "North Carolina, United States", 
+        "alias_FRE_Q": [
+          "Caroline du Nord"
+        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": null, 
         "ne:RegionVar": null, 
-        "alias_FRE_Q": [
-          "Caroline du Nord"
-        ]
+        "ne:sameAsCity": -99
       }, 
       "id": 2347592
     }

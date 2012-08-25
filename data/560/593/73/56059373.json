@@ -42,25 +42,20 @@
           56059377
         ], 
         "name": "Bok\u00e9", 
+        "ne_latitude": 12.676, 
         "hierarchy": [
           "woe:state=56059373", 
           "woe:country=23424835", 
           "woe:planet=1"
         ], 
-        "woeid": 56059373, 
         "ne_longitude": -12.564, 
         "longitude": -13.124, 
-        "children": [
-          "woe:county=2345575", 
-          "woe:county=2345576", 
-          "woe:county=2345584", 
-          "woe:county=2345585", 
-          "woe:county=2345591"
+        "alias_FRE_S": [
+          "Boke"
         ], 
         "placetype": "state", 
-        "latitude": 11.256, 
         "iso": "GN", 
-        "sw_latitude": 9.836, 
+        "date_indexed": "2010-12-02T16:11:50Z", 
         "adjacent": [
           "woe:state=2346609", 
           "woe:state=56059377", 
@@ -71,13 +66,18 @@
           "woe:state=2346608"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 12.676, 
+        "latitude": 11.256, 
         "sw_longitude": -15.086, 
         "fullname": "Bok\u00e9, Guinea", 
-        "alias_FRE_S": [
-          "Boke"
+        "children": [
+          "woe:county=2345575", 
+          "woe:county=2345576", 
+          "woe:county=2345584", 
+          "woe:county=2345585", 
+          "woe:county=2345591"
         ], 
-        "date_indexed": "2010-12-02T16:11:50Z"
+        "sw_latitude": 9.836, 
+        "woe:id": 56059373
       }, 
       "id": 56059373
     }

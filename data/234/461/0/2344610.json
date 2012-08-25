@@ -39,25 +39,24 @@
           2344593
         ], 
         "name": "Boumerdes", 
-        "ne_latitude": 36.926, 
         "hierarchy": [
           "woe:state=2344610", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344610, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 4.047, 
         "longitude": 3.623, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 36.59, 
         "adjacent": [
           "woe:state=2344579", 
           "woe:state=2344592", 
           "woe:state=2344593", 
           "woe:state=2344588"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.926, 
         "latitude": 36.758, 
         "sw_longitude": 3.199, 
         "fullname": "Boumerdes, Algeria", 
@@ -104,7 +103,8 @@
           "woe:town=1258002", 
           "woe:town=1258030"
         ], 
-        "sw_latitude": 36.59
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344610
       }, 
       "id": 2344610
     }

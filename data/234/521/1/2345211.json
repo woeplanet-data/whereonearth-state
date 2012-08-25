@@ -2152,7 +2152,7 @@
         "ne:Shape_Area": 1.54588706024, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 12, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uacfc\uc57c\uc2a4"
         ], 
@@ -2188,7 +2188,7 @@
         "alias_CHI_Q": [
           "\u74dc\u4e9a\u65af"
         ], 
-        "ne:OBJECTID": 1280, 
+        "ne:DataRank": 7, 
         "alias_JPN_Q": [
           "\u30b0\u30a2\u30e4\u30b9\u5dde"
         ], 
@@ -2212,9 +2212,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -3.064670505739173, 
-        "ne:VertexCou": 529.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 1280, 
         "ne:Postal": "GU", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2230,8 +2230,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 19015.6, 
         "woe:id": "2345211", 
-        "ne:HASC_1": "EC.GU", 
-        "lang": "SPA", 
+        "name": "Guayas", 
+        "ne:VertexCou": 529.0, 
         "adjacent_woeid": [
           2345203, 
           2345204, 
@@ -2242,7 +2242,7 @@
           2345215, 
           56189815
         ], 
-        "name": "Guayas", 
+        "ne:HASC_1": "EC.GU", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -79.12728349473747, 
         "longitude": -80.055, 

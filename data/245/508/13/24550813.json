@@ -40,7 +40,6 @@
           24550840, 
           24550860
         ], 
-        "ne_latitude": 41.456, 
         "name": "Valandovo", 
         "alias_ENG_P": [
           "Valandovo Municipality"
@@ -50,7 +49,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550813, 
+        "ne_latitude": 41.456, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Valandovo"
         ], 
@@ -58,7 +58,7 @@
         "ne_longitude": 22.74, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.228, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550827", 
           "woe:state=24550760", 
@@ -67,7 +67,6 @@
           "woe:state=24550860", 
           "woe:state=24550808"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 41.342, 
         "sw_longitude": 22.297, 
         "fullname": "Valandovo, Valandovo Municipality, Macedonia", 
@@ -80,7 +79,8 @@
           "woe:town=483161", 
           "woe:town=481830"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.228, 
+        "woe:id": 24550813
       }, 
       "id": 24550813
     }

@@ -2157,7 +2157,7 @@
         "ne:Shape_Area": 0.821011307721, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "1985", 
         "alias_ENG_A": [
           "GAL"
         ], 
@@ -2406,7 +2406,7 @@
         "alias_CHI_Q": [
           "\u6208\u5c14\u97e6"
         ], 
-        "ne:OBJECTID": 713, 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u30b4\u30fc\u30eb\u30a6\u30a7\u30a4"
         ], 
@@ -2427,9 +2427,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.968343411019646, 
-        "ne:VertexCou": 527.0, 
-        "ne:VALIDFR_1": "1985", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 713, 
         "ne:Postal": "GY", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Gaillimh", 
@@ -2445,8 +2445,8 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 6083.1, 
         "woe:id": "2345255", 
-        "ne:HASC_1": "IE.GY", 
-        "lang": "ENG", 
+        "name": "Galway", 
+        "ne:VertexCou": 527.0, 
         "adjacent_woeid": [
           2345251, 
           2345264, 
@@ -2454,7 +2454,7 @@
           2345268, 
           2345270
         ], 
-        "name": "Galway", 
+        "ne:HASC_1": "IE.GY", 
         "ne:REMARKS_1": null, 
         "alias_UNK_Q": [
           "Gaillimh"

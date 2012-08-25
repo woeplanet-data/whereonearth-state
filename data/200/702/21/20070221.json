@@ -39,25 +39,24 @@
           20070279
         ], 
         "name": "Xacmaz", 
-        "ne_latitude": 41.885, 
         "hierarchy": [
           "woe:state=20070221", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070221, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 48.98, 
         "longitude": 48.732, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 41.331, 
         "adjacent": [
           "woe:state=2346870", 
           "woe:state=20070279", 
           "woe:state=20070232", 
           "woe:state=20070234"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.885, 
         "latitude": 41.608, 
         "sw_longitude": 48.484, 
         "fullname": "Xacmaz, Azerbaijan", 
@@ -70,7 +69,8 @@
           "woe:town=1951572", 
           "woe:town=1952035"
         ], 
-        "sw_latitude": 41.331
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070221
       }, 
       "id": 20070221
     }

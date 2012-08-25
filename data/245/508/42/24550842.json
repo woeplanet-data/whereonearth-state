@@ -39,7 +39,6 @@
           24550832, 
           55848399
         ], 
-        "ne_latitude": 42.286, 
         "name": "Lipkovo", 
         "alias_ENG_P": [
           "Lipkovo Municipality"
@@ -49,7 +48,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550842, 
+        "ne_latitude": 42.286, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Lipkovo"
         ], 
@@ -57,7 +57,7 @@
         "ne_longitude": 21.691, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 42.078, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550745", 
           "woe:state=55848399", 
@@ -65,7 +65,6 @@
           "woe:state=24550832", 
           "woe:state=24550830"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 42.211, 
         "sw_longitude": 21.487, 
         "fullname": "Lipkovo, Lipkovo Municipality, Macedonia", 
@@ -78,7 +77,8 @@
           "woe:town=482959", 
           "woe:town=483160"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 42.078, 
+        "woe:id": 24550842
       }, 
       "id": 24550842
     }

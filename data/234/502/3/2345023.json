@@ -31,13 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2344689, 
-          2345021, 
-          2345028
-        ], 
-        "name": "Biobio", 
         "alias_ENG_P": [
           "Biobio Region"
         ], 
@@ -46,17 +39,18 @@
           "woe:country=23424782", 
           "woe:planet=1"
         ], 
-        "woeid": 2345023, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -70.997, 
-        "longitude": -72.34, 
         "ne_latitude": -26.466, 
         "placetype": "state", 
+        "children": [
+          "woe:county=26793976", 
+          "woe:county=26793978", 
+          "woe:county=26793990", 
+          "woe:county=26794007"
+        ], 
         "alias_SPA_S": [
           "Region del Biobio"
         ], 
         "sw_longitude": -105.467, 
-        "date_indexed": "2010-12-02T12:15:28Z", 
         "adjacent": [
           "woe:state=2345021", 
           "woe:state=2345028", 
@@ -66,15 +60,21 @@
           "Regi\u00f3n del Biob\u00edo"
         ], 
         "latitude": -37.265, 
-        "iso": "CL", 
-        "fullname": "Biobio, Biobio Region, Chile", 
-        "children": [
-          "woe:county=26793976", 
-          "woe:county=26793978", 
-          "woe:county=26793990", 
-          "woe:county=26794007"
+        "woe:id": 2345023, 
+        "sw_latitude": -38.507, 
+        "provider": "geoplanet 7.6.0", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2344689, 
+          2345021, 
+          2345028
         ], 
-        "sw_latitude": -38.507
+        "name": "Biobio", 
+        "ne_longitude": -70.997, 
+        "longitude": -72.34, 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "fullname": "Biobio, Biobio Region, Chile"
       }, 
       "id": 2345023
     }

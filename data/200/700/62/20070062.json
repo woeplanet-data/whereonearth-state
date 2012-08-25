@@ -38,24 +38,23 @@
           20070064
         ], 
         "name": "Gabrovo", 
-        "ne_latitude": 43.195, 
         "hierarchy": [
           "woe:state=20070062", 
           "woe:country=23424771", 
           "woe:planet=1"
         ], 
-        "woeid": 20070062, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 25.635, 
         "longitude": 25.251, 
         "placetype": "state", 
         "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
+        "sw_latitude": 42.737, 
         "adjacent": [
           "woe:state=20070064", 
           "woe:state=20070054", 
           "woe:state=20070063"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.195, 
         "latitude": 42.966, 
         "sw_longitude": 24.866, 
         "fullname": "Gabrovo, Bulgaria", 
@@ -65,7 +64,8 @@
           "woe:county=55873883", 
           "woe:county=55873711"
         ], 
-        "sw_latitude": 42.737
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "woe:id": 20070062
       }, 
       "id": 20070062
     }

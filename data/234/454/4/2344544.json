@@ -45,18 +45,17 @@
           "woe:country=23424737", 
           "woe:planet=1"
         ], 
-        "woeid": 2344544, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -61.814, 
         "longitude": -61.86, 
-        "ne_latitude": 17.131, 
         "placetype": "state", 
         "iso": "AG", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 16.927, 
         "adjacent": [
           "woe:state=2344543", 
           "woe:state=2344545"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.131, 
         "latitude": 17.068, 
         "sw_longitude": -62.352, 
         "fullname": "Saint Mary, Antigua and Barbuda", 
@@ -69,7 +68,8 @@
           "woe:town=56241", 
           "woe:island=12481162"
         ], 
-        "sw_latitude": 16.927
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "woe:id": 2344544
       }, 
       "id": 2344544
     }

@@ -446,7 +446,7 @@
         "ne:Shape_Area": 0.211048724746, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOS", 
         "children": [
@@ -490,7 +490,7 @@
           "woe:town=536902", 
           "woe:town=536943"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 1527, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 20.47371707538275, 
@@ -509,9 +509,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "District", 
         "sw_latitude": 41.844345404816636, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 11, 
-        "ne:OBJECTID": 1527, 
+        "ne:VertexCou": 94.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "PZ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -527,8 +527,8 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 1934.9, 
         "woe:id": "29389201", 
-        "name": "Kosovo", 
-        "ne:VertexCou": 94.0, 
+        "ne:HASC_1": "RS.PZ", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           29389207, 
           29389208, 
@@ -537,7 +537,7 @@
           29389218, 
           29389219
         ], 
-        "ne:HASC_1": "RS.PZ", 
+        "name": "Kosovo", 
         "ne:REMARKS_1": null, 
         "alias_UNK_Q": [
           "Kosovski"

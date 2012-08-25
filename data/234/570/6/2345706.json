@@ -37,16 +37,30 @@
           2345697, 
           2345708
         ], 
+        "alias_UNK_A": [
+          "V-BARD"
+        ], 
         "name": "Vestur-Bardastrandarsysla", 
-        "ne_latitude": 65.802, 
         "hierarchy": [
           "woe:state=2345706", 
           "woe:country=23424845", 
           "woe:planet=1"
         ], 
-        "woeid": 2345706, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -22.599, 
         "longitude": -23.639, 
+        "placetype": "state", 
+        "iso": "IS", 
+        "sw_latitude": 65.266, 
+        "adjacent": [
+          "woe:state=2345688", 
+          "woe:state=2345697", 
+          "woe:state=2345708"
+        ], 
+        "ne_latitude": 65.802, 
+        "latitude": 65.603, 
+        "sw_longitude": -24.547, 
+        "fullname": "Vestur-Bardastrandarsysla, Iceland", 
         "children": [
           "woe:town=980083", 
           "woe:town=980058", 
@@ -72,22 +86,8 @@
           "woe:island=12476111", 
           "woe:island=12508164"
         ], 
-        "placetype": "state", 
-        "iso": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
-        "adjacent": [
-          "woe:state=2345688", 
-          "woe:state=2345697", 
-          "woe:state=2345708"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 65.603, 
-        "sw_longitude": -24.547, 
-        "fullname": "Vestur-Bardastrandarsysla, Iceland", 
-        "alias_UNK_A": [
-          "V-BARD"
-        ], 
-        "sw_latitude": 65.266
+        "woe:id": 2345706
       }, 
       "id": 2345706
     }

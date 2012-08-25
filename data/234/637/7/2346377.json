@@ -1002,7 +1002,7 @@
         "ne:Shape_Area": 0.268997547262, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "Limburgo"
         ], 
@@ -1051,16 +1051,16 @@
           "woe:county=12592471", 
           "woe:landfeature=56058392"
         ], 
-        "ne:VALIDTO_1": "Present", 
-        "alias_ITA_Q": [
-          "Limburgo"
-        ], 
-        "ne:OBJECTID": 898, 
-        "ne:Abbrev": null, 
+        "ne:Region_Cod": null, 
         "alias_SPA_Q": [
           "Limburgo"
         ], 
-        "ne:LabelRank": 8, 
+        "alias_ITA_Q": [
+          "Limburgo"
+        ], 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
         "sw_longitude": 5.551630486857505, 
         "adjacent": [
           "woe:state=2346375", 
@@ -1079,10 +1079,10 @@
         "alias_DUT_A": [
           "LM"
         ], 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 898, 
         "ne:Postal": "LI", 
-        "ne:Region_Cod": null, 
+        "ne:LabelRank": 8, 
         "ne:VARNAME_1": "Limbourg|Limburgo", 
         "ne:ISO": "NLD", 
         "ne:Region_C_3": null, 
@@ -1098,7 +1098,7 @@
         ], 
         "ne:Area_sqkm": 2091.8, 
         "woe:id": "2346377", 
-        "ne:HASC_1": "NL.LI", 
+        "name": "Limburg", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2345487, 
@@ -1107,7 +1107,7 @@
           7153300, 
           7153301
         ], 
-        "name": "Limburg", 
+        "ne:HASC_1": "NL.LI", 
         "ne:REMARKS_1": null, 
         "ne:TYPE_1": "Provincie", 
         "ne_longitude": 6.20740441278349, 

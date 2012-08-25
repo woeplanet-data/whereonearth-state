@@ -3937,7 +3937,7 @@
         "alias_POR_V": [
           "Estado Mato Grosso do Sul"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19790101", 
         "alias_ENG_A": [
           "MS"
         ], 
@@ -4022,7 +4022,7 @@
           "woe:county=15022634", 
           "woe:county=12579103"
         ], 
-        "ne:OBJECTID": 600, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -58.16324011923609, 
@@ -4045,9 +4045,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -24.050469658747716, 
-        "ne:VertexCou": 968.0, 
-        "ne:VALIDFR_1": "19790101", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 600, 
         "ne:Postal": "MS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -4063,8 +4063,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 356081.4, 
         "woe:id": "2344853", 
-        "ne:HASC_1": "BR.MS", 
-        "lang": "POR", 
+        "name": "Mato Grosso do Sul", 
+        "ne:VertexCou": 968.0, 
         "adjacent_woeid": [
           2344808, 
           2344852, 
@@ -4077,7 +4077,7 @@
           2346463, 
           2346464
         ], 
-        "name": "Mato Grosso do Sul", 
+        "ne:HASC_1": "BR.MS", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -50.93709204746, 
         "longitude": -54.543, 

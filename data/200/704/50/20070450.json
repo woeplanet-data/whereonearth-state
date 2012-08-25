@@ -41,18 +41,17 @@
           56190207
         ], 
         "name": "Sembabule", 
-        "ne_latitude": 0.24, 
         "hierarchy": [
           "woe:state=20070450", 
           "woe:country=23424974", 
           "woe:planet=1"
         ], 
-        "woeid": 20070450, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 31.591, 
         "longitude": 31.301, 
         "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
+        "sw_latitude": -0.373, 
         "adjacent": [
           "woe:state=56190205", 
           "woe:state=24550734", 
@@ -61,7 +60,7 @@
           "woe:state=20070436", 
           "woe:state=20070437"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.24, 
         "latitude": -0.066, 
         "sw_longitude": 31.01, 
         "fullname": "Sembabule, Uganda", 
@@ -69,7 +68,8 @@
           "woe:county=56190358", 
           "woe:county=56190359"
         ], 
-        "sw_latitude": -0.373
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "woe:id": 20070450
       }, 
       "id": 20070450
     }

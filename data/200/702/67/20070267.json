@@ -38,24 +38,23 @@
           20070357
         ], 
         "name": "Qazax", 
-        "ne_latitude": 41.333, 
         "hierarchy": [
           "woe:state=20070267", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070267, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.437, 
         "longitude": 45.22, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 40.964, 
         "adjacent": [
           "woe:state=20070266", 
           "woe:state=20070357", 
           "woe:state=20070202"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.333, 
         "latitude": 41.174, 
         "sw_longitude": 45.004, 
         "fullname": "Qazax, Azerbaijan", 
@@ -67,7 +66,8 @@
           "woe:town=1952015", 
           "woe:town=1951681"
         ], 
-        "sw_latitude": 40.964
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070267
       }, 
       "id": 20070267
     }

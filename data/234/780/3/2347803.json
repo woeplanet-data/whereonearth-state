@@ -41,18 +41,17 @@
           20069834
         ], 
         "name": "Western", 
+        "ne_latitude": -13.69, 
         "hierarchy": [
           "woe:state=2347803", 
           "woe:country=23425003", 
           "woe:planet=1"
         ], 
-        "woeid": 2347803, 
         "ne_longitude": 25.892, 
         "longitude": 23.946, 
         "placetype": "state", 
-        "latitude": -15.665, 
         "iso": "ZM", 
-        "sw_latitude": -17.639, 
+        "date_indexed": "2010-12-02T07:50:33Z", 
         "adjacent": [
           "woe:state=20069834", 
           "woe:state=2347805", 
@@ -62,7 +61,7 @@
           "woe:state=2347804"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -13.69, 
+        "latitude": -15.665, 
         "sw_longitude": 21.999, 
         "fullname": "Western, Zambia", 
         "children": [
@@ -99,7 +98,8 @@
           "woe:town=1575462", 
           "woe:town=1575549"
         ], 
-        "date_indexed": "2010-12-02T07:50:33Z"
+        "sw_latitude": -17.639, 
+        "woe:id": 2347803
       }, 
       "id": 2347803
     }

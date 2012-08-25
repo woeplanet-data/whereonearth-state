@@ -42,18 +42,17 @@
           55999799
         ], 
         "name": "Tahoua", 
-        "ne_latitude": 18.675, 
         "hierarchy": [
           "woe:state=2346329", 
           "woe:country=23424906", 
           "woe:planet=1"
         ], 
-        "woeid": 2346329, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 6.69, 
         "longitude": 5.281, 
         "placetype": "state", 
         "iso": "NE", 
-        "date_indexed": "2010-12-02T17:43:23Z", 
+        "sw_latitude": 13.643, 
         "adjacent": [
           "woe:state=2346324", 
           "woe:state=2346326", 
@@ -63,7 +62,7 @@
           "woe:state=2346361", 
           "woe:state=20069995"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.675, 
         "latitude": 16.159, 
         "sw_longitude": 3.872, 
         "fullname": "Tahoua, Niger", 
@@ -76,7 +75,8 @@
           "woe:county=56055518", 
           "woe:county=56055540"
         ], 
-        "sw_latitude": 13.643
+        "date_indexed": "2010-12-02T17:43:23Z", 
+        "woe:id": 2346329
       }, 
       "id": 2346329
     }

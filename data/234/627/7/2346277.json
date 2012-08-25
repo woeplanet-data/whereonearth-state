@@ -4176,7 +4176,7 @@
         "ne:Shape_Area": 6.93238603301, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "18241004", 
         "alias_ENG_A": [
           "JA"
         ], 
@@ -4320,7 +4320,7 @@
         "alias_CHI_Q": [
           "\u54c8\u5229\u65af\u79d1"
         ], 
-        "ne:OBJECTID": 2719, 
+        "ne:DataRank": 2, 
         "alias_JPN_Q": [
           "\u30cf\u30ea\u30b9\u30b3"
         ], 
@@ -4344,9 +4344,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 18.95383047159902, 
-        "ne:VertexCou": 1037.0, 
-        "ne:VALIDFR_1": "18241004", 
-        "ne:DataRank": 2, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 2719, 
         "ne:Postal": "JA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -4362,8 +4362,8 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 79999.4, 
         "woe:id": "2346277", 
-        "ne:HASC_1": "MX.JA", 
-        "lang": "SPA", 
+        "name": "Jalisco", 
+        "ne:VertexCou": 1037.0, 
         "adjacent_woeid": [
           2346264, 
           2346271, 
@@ -4372,7 +4372,7 @@
           2346281, 
           2346295
         ], 
-        "name": "Jalisco", 
+        "ne:HASC_1": "MX.JA", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -103.606, 

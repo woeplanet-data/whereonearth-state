@@ -1264,7 +1264,7 @@
         "ne:Shape_Area": 0.272506846288, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "OFF"
         ], 
@@ -1359,7 +1359,7 @@
           "woe:localadmin=20073743", 
           "woe:localadmin=20073744"
         ], 
-        "ne:OBJECTID": 716, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -8.076529914024263, 
@@ -1379,9 +1379,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.85310496662095, 
-        "ne:VertexCou": 310.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 716, 
         "ne:Postal": "OY", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "U\u00edbh Fhail\u00ed|Kings", 
@@ -1397,8 +1397,8 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 2026.2, 
         "woe:id": "2345267", 
-        "ne:HASC_1": "IE.OY", 
-        "lang": "ENG", 
+        "name": "Offaly", 
+        "ne:VertexCou": 310.0, 
         "adjacent_woeid": [
           2345255, 
           2345257, 
@@ -1408,7 +1408,7 @@
           2345270, 
           2345272
         ], 
-        "name": "Offaly", 
+        "ne:HASC_1": "IE.OY", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Uibh Fhaili"

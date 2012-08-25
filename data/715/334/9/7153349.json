@@ -3545,10 +3545,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 46.67606598565675, 
+        "ne:DataRank": 3, 
         "ne:Shape_Area": 2.08150937866, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "alias_KOR_Q": [
           "\ubca0\ub124\ud1a0"
         ], 
@@ -3572,13 +3573,13 @@
         "alias_CHI_Q": [
           "\u5a01\u5c3c\u6258"
         ], 
-        "ne:OBJECTID": 1038, 
         "alias_ITA_V": [
           "Veneto Regione"
         ], 
         "alias_JPN_Q": [
           "\u30d9\u30cd\u30c8"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -3598,9 +3599,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "ne:VertexCou": 874.0, 
-        "ne:VALIDFR_1": "1895", 
-        "ne:DataRank": 3, 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 1038, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Venecia|Venetia|Venezia Euganea", 
@@ -3619,19 +3620,21 @@
           "Venetien"
         ], 
         "woe:id": "7153349", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Veneto", 
+        "ne:VertexCou": 874.0, 
         "adjacent_woeid": [
           7153334, 
           7153335, 
           7153338, 
           7153346
         ], 
-        "name": "Veneto", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITD", 
         "ne_longitude": 13.095717807930555, 
         "longitude": 11.862, 
-        "ne:NEV_Countr": "Italy", 
+        "alias_FRE_S": [
+          "La Venetie"
+        ], 
         "iso": "IT", 
         "sw_latitude": 44.79359691026923, 
         "ne:NL_NAME_1": null, 
@@ -3639,15 +3642,12 @@
           "La V\u00e9n\u00e9tie"
         ], 
         "fullname": "Veneto, Italy", 
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Italy", 
+        "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "V\u00e9n\u00e9tie"
-        ], 
-        "ne:Region": null, 
-        "alias_FRE_S": [
-          "La Venetie"
-        ], 
-        "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        ]
       }, 
       "id": 7153349
     }

@@ -2568,7 +2568,7 @@
         "ne:Shape_Area": 1.44715506449, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 12, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NOR", 
         "children": [
@@ -2612,7 +2612,7 @@
           "woe:drainage=29361674", 
           "woe:drainage=29362064"
         ], 
-        "ne:OBJECTID": 914, 
+        "ne:DataRank": 7, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 5.133516473406587, 
@@ -2629,9 +2629,9 @@
         "ne:FIRST_HASC": "NO.HO|NOR-RGL", 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 58.26714142503681, 
-        "ne:VertexCou": 627.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "NOR", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 914, 
         "ne:Postal": "RO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Rogaland fylke|Stavanger", 
@@ -2647,15 +2647,15 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 9235.7, 
         "woe:id": "2346397", 
-        "ne:HASC_1": "NO.RO", 
-        "lang": "NOR", 
+        "name": "Rogaland Fylke", 
+        "ne:VertexCou": 627.0, 
         "adjacent_woeid": [
           2346386, 
           2346390, 
           2346400, 
           2346402
         ], 
-        "name": "Rogaland Fylke", 
+        "ne:HASC_1": "NO.RO", 
         "ne:REMARKS_1": null, 
         "alias_NOR_V": [
           "Rogaland"

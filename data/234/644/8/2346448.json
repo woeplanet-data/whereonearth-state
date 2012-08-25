@@ -41,13 +41,12 @@
           2346464
         ], 
         "name": "Alto Paran\u00e1", 
-        "ne_latitude": -24.448, 
         "hierarchy": [
           "woe:state=2346448", 
           "woe:country=23424917", 
           "woe:planet=1"
         ], 
-        "woeid": 2346448, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -54.339, 
         "longitude": -54.959, 
         "placetype": "state", 
@@ -55,7 +54,7 @@
           "Alto Parana"
         ], 
         "iso": "PY", 
-        "date_indexed": "2010-12-02T12:08:38Z", 
+        "sw_latitude": -26.25, 
         "adjacent": [
           "woe:state=2346451", 
           "woe:state=2346452", 
@@ -64,7 +63,7 @@
           "woe:state=2344688", 
           "woe:state=2344859"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -24.448, 
         "latitude": -25.349, 
         "sw_longitude": -55.579, 
         "fullname": "Alto Paran\u00e1, Paraguay", 
@@ -88,7 +87,8 @@
           "woe:county=26810898", 
           "woe:county=26810785"
         ], 
-        "sw_latitude": -26.25
+        "date_indexed": "2010-12-02T12:08:38Z", 
+        "woe:id": 2346448
       }, 
       "id": 2346448
     }

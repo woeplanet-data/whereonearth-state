@@ -51,6 +51,26 @@
         "ne_latitude": 47.683, 
         "ne_longitude": 21.03, 
         "longitude": 20.341, 
+        "placetype": "state", 
+        "iso": "HU", 
+        "sw_latitude": 46.754, 
+        "adjacent": [
+          "woe:state=12577914", 
+          "woe:state=12577911", 
+          "woe:state=12577913", 
+          "woe:state=12577916", 
+          "woe:state=12577919", 
+          "woe:state=12577920", 
+          "woe:state=12577923", 
+          "woe:state=56043638"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.219, 
+        "sw_longitude": 19.651, 
+        "fullname": "J\u00e1sz-Nagykun-Szolnok, Hungary", 
+        "alias_HUN_S": [
+          "Jasz-Nagykun-Szolnok"
+        ], 
         "children": [
           "woe:county=12593273", 
           "woe:county=12593396", 
@@ -132,28 +152,8 @@
           "woe:zone=24873838", 
           "woe:zone=24873839"
         ], 
-        "placetype": "state", 
-        "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "adjacent": [
-          "woe:state=12577914", 
-          "woe:state=12577911", 
-          "woe:state=12577913", 
-          "woe:state=12577916", 
-          "woe:state=12577919", 
-          "woe:state=12577920", 
-          "woe:state=12577923", 
-          "woe:state=56043638"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 47.219, 
-        "sw_longitude": 19.651, 
-        "fullname": "J\u00e1sz-Nagykun-Szolnok, Hungary", 
-        "alias_HUN_S": [
-          "Jasz-Nagykun-Szolnok"
-        ], 
-        "woeid": 12577926, 
-        "sw_latitude": 46.754
+        "woe:id": 12577926
       }, 
       "id": 12577926
     }

@@ -46,19 +46,18 @@
           "woe:country=23424826", 
           "woe:planet=1"
         ], 
-        "woeid": 2345475, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -61.699, 
         "longitude": -61.75, 
-        "ne_latitude": 12.116, 
         "placetype": "state", 
         "iso": "GD", 
-        "date_indexed": "2010-12-02T17:52:39Z", 
+        "sw_latitude": 11.983, 
         "adjacent": [
           "woe:state=2345473", 
           "woe:state=2345474", 
           "woe:state=2345476"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.116, 
         "latitude": 12.054, 
         "sw_longitude": -61.8, 
         "fullname": "Saint George, Grenada", 
@@ -66,7 +65,8 @@
           "woe:town=80375", 
           "woe:town=80438"
         ], 
-        "sw_latitude": 11.983
+        "date_indexed": "2010-12-02T17:52:39Z", 
+        "woe:id": 2345475
       }, 
       "id": 2345475
     }

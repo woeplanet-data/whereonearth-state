@@ -50,13 +50,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347192, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 101.108, 
         "longitude": 100.581, 
-        "ne_latitude": 7.939, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 6.289, 
         "adjacent": [
           "woe:state=2346297", 
           "woe:state=2347188", 
@@ -66,7 +65,7 @@
           "woe:state=2347191", 
           "woe:state=2347194"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 7.939, 
         "latitude": 7.114, 
         "sw_longitude": 100.055, 
         "fullname": "Songkhla, Thailand", 
@@ -89,7 +88,8 @@
           "woe:county=28341683", 
           "woe:landfeature=56057339"
         ], 
-        "sw_latitude": 6.289
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347192
       }, 
       "id": 2347192
     }

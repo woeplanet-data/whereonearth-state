@@ -41,18 +41,17 @@
           20070461
         ], 
         "name": "Chin State", 
-        "ne_latitude": 24.086, 
         "hierarchy": [
           "woe:state=2344811", 
           "woe:country=23424763", 
           "woe:planet=1"
         ], 
-        "woeid": 2344811, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 94.158, 
         "longitude": 93.38, 
         "placetype": "state", 
         "iso": "MM", 
-        "date_indexed": "2010-12-02T17:58:12Z", 
+        "sw_latitude": 20.611, 
         "adjacent": [
           "woe:state=2344790", 
           "woe:state=2344816", 
@@ -61,7 +60,7 @@
           "woe:state=2344810", 
           "woe:state=2344819"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 24.086, 
         "latitude": 22.348, 
         "sw_longitude": 92.601, 
         "fullname": "Chin State, Myanmar", 
@@ -95,7 +94,8 @@
           "woe:town=1017920", 
           "woe:town=1017928"
         ], 
-        "sw_latitude": 20.611
+        "date_indexed": "2010-12-02T17:58:12Z", 
+        "woe:id": 2344811
       }, 
       "id": 2344811
     }

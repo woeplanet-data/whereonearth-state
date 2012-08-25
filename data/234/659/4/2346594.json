@@ -40,18 +40,17 @@
           2346592
         ], 
         "name": "Morobe", 
-        "ne_latitude": -5.28, 
         "hierarchy": [
           "woe:state=2346594", 
           "woe:country=23424926", 
           "woe:planet=1"
         ], 
-        "woeid": 2346594, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 148.114, 
         "longitude": 146.822, 
         "placetype": "state", 
         "iso": "PG", 
-        "date_indexed": "2010-12-02T09:57:22Z", 
+        "sw_latitude": -8.031, 
         "adjacent": [
           "woe:state=2346581", 
           "woe:state=2346589", 
@@ -59,7 +58,7 @@
           "woe:state=2346592", 
           "woe:state=2346584"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -5.28, 
         "latitude": -6.924, 
         "sw_longitude": 145.709, 
         "fullname": "Morobe, Papua New Guinea", 
@@ -169,7 +168,8 @@
           "woe:island=12498586", 
           "woe:island=12498843"
         ], 
-        "sw_latitude": -8.031
+        "date_indexed": "2010-12-02T09:57:22Z", 
+        "woe:id": 2346594
       }, 
       "id": 2346594
     }

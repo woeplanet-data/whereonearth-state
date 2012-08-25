@@ -1503,10 +1503,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 46.641365261397766, 
+        "ne:DataRank": 3, 
         "ne:Shape_Area": 0.855018992803, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
         "children": [
@@ -1517,10 +1518,10 @@
           "woe:zone=24873928", 
           "woe:zone=24873940"
         ], 
-        "ne:OBJECTID": 1036, 
         "alias_ITA_V": [
           "Friuli-Venezia Giulia Regione"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -1543,9 +1544,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "ne:VertexCou": 344.0, 
-        "ne:VALIDFR_1": "1895", 
-        "ne:DataRank": 3, 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 1036, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Friuli Venezia Giulia|Friuli-Venecia Julia", 
@@ -1564,8 +1565,8 @@
           "Friaul-Julisch-Venetien"
         ], 
         "woe:id": "7153335", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Friuli-Venezia Giulia", 
+        "ne:VertexCou": 344.0, 
         "adjacent_woeid": [
           2344709, 
           7153349, 
@@ -1575,24 +1576,23 @@
           55848385, 
           55848391
         ], 
-        "name": "Friuli-Venezia Giulia", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITD", 
         "ne_longitude": 13.894325392303074, 
         "longitude": 13.12, 
-        "ne:NEV_Countr": "Italy", 
+        "alias_FRE_S": [
+          "Frioul-Venetie Julienne"
+        ], 
         "iso": "IT", 
         "sw_latitude": 45.58166250222274, 
         "ne:NL_NAME_1": null, 
         "fullname": "Friuli-Venezia Giulia, Italy", 
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Italy", 
+        "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Frioul-V\u00e9n\u00e9tie Julienne"
-        ], 
-        "ne:Region": null, 
-        "alias_FRE_S": [
-          "Frioul-Venetie Julienne"
-        ], 
-        "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        ]
       }, 
       "id": 7153335
     }

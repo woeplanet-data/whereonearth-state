@@ -438,7 +438,7 @@
         "ne:Shape_Area": 1.52665538812, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1957", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
         "children": [
@@ -461,7 +461,7 @@
           "woe:county=29390886", 
           "woe:county=29390903"
         ], 
-        "ne:OBJECTID": 2272, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 29.664060500191965, 
@@ -481,9 +481,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 37.75934927035257, 
-        "ne:VertexCou": 103.0, 
-        "ne:VALIDFR_1": "1957", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 2272, 
         "ne:Postal": "AF", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Afyonkarahisar", 
@@ -499,8 +499,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 14758.1, 
         "woe:id": "2347260", 
-        "ne:HASC_1": "TR.AF", 
-        "lang": "UNK", 
+        "name": "Afyonkarahisar", 
+        "ne:VertexCou": 103.0, 
         "adjacent_woeid": [
           2347272, 
           2347277, 
@@ -510,7 +510,7 @@
           2347315, 
           2347321
         ], 
-        "name": "Afyonkarahisar", 
+        "ne:HASC_1": "TR.AF", 
         "ne:REMARKS_1": null, 
         "alias_UNK_V": [
           "Afyon"

@@ -37,23 +37,22 @@
           24549685
         ], 
         "name": "Obock", 
-        "ne_latitude": 12.707, 
         "hierarchy": [
           "woe:state=2345159", 
           "woe:country=23424797", 
           "woe:planet=1"
         ], 
-        "woeid": 2345159, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 43.45, 
         "longitude": 43.04, 
         "placetype": "state", 
         "iso": "DJ", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
+        "sw_latitude": 11.831, 
         "adjacent": [
           "woe:state=24549685", 
           "woe:state=2345160"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.707, 
         "latitude": 12.269, 
         "sw_longitude": 42.662, 
         "fullname": "Obock, Djibouti", 
@@ -66,7 +65,8 @@
           "woe:town=1310960", 
           "woe:town=1310965"
         ], 
-        "sw_latitude": 11.831
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "woe:id": 2345159
       }, 
       "id": 2345159
     }

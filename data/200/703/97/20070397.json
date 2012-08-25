@@ -51,12 +51,19 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 42.85, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 42.454, 
         "longitude": 42.268, 
+        "children": [
+          "woe:town=1962727", 
+          "woe:town=1963841", 
+          "woe:town=1964221", 
+          "woe:town=1964964", 
+          "woe:town=1964966", 
+          "woe:town=1965326"
+        ], 
         "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
+        "sw_latitude": 42.492, 
         "adjacent": [
           "woe:state=20070406", 
           "woe:state=20070382", 
@@ -66,19 +73,12 @@
           "woe:state=20070398", 
           "woe:state=20070410"
         ], 
-        "woeid": 20070397, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 42.671, 
         "sw_longitude": 42.082, 
         "fullname": "Ch\u00b4khorotsqus Raioni, Georgia", 
-        "children": [
-          "woe:town=1962727", 
-          "woe:town=1963841", 
-          "woe:town=1964221", 
-          "woe:town=1964964", 
-          "woe:town=1964966", 
-          "woe:town=1965326"
-        ], 
-        "sw_latitude": 42.492
+        "date_indexed": "2010-12-02T17:51:52Z", 
+        "woe:id": 20070397
       }, 
       "id": 20070397
     }

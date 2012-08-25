@@ -2783,10 +2783,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 42.85038218838736, 
+        "ne:DataRank": 3, 
         "ne:Shape_Area": 1.85052891194, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "alias_POR_Q": [
           "L\u00e1zio"
         ], 
@@ -2811,13 +2812,13 @@
         "alias_CHI_Q": [
           "\u62c9\u9f50\u5965"
         ], 
-        "ne:OBJECTID": 825, 
         "alias_ITA_V": [
           "Lazio Regione"
         ], 
         "alias_JPN_Q": [
           "\u30e9\u30c4\u30a3\u30aa"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -2839,9 +2840,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "ne:VertexCou": 681.0, 
-        "ne:VALIDFR_1": "1895", 
-        "ne:DataRank": 3, 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 825, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lacio|Latium", 
@@ -2860,8 +2861,8 @@
           "Latium"
         ], 
         "woe:id": "7153336", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Lazio", 
+        "ne:VertexCou": 681.0, 
         "adjacent_woeid": [
           7153333, 
           7153339, 
@@ -2870,7 +2871,7 @@
           7153347, 
           7153350
         ], 
-        "name": "Lazio", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITE", 
         "ne_longitude": 14.010080600639242, 
         "longitude": 12.738, 
@@ -2878,13 +2879,12 @@
         "sw_latitude": 40.78588287999099, 
         "ne:NL_NAME_1": null, 
         "fullname": "Lazio, Italy", 
-        "alias_FRE_Q": [
-          "Latium"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Latium"
+        ]
       }, 
       "id": 7153336
     }

@@ -40,18 +40,17 @@
           2347810
         ], 
         "name": "Manica", 
-        "ne_latitude": -16.392, 
         "hierarchy": [
           "woe:state=2346320", 
           "woe:country=23424902", 
           "woe:planet=1"
         ], 
-        "woeid": 2346320, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 34.531, 
         "longitude": 33.449, 
         "placetype": "state", 
         "iso": "MZ", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
+        "sw_latitude": -21.581, 
         "adjacent": [
           "woe:state=2346312", 
           "woe:state=2346313", 
@@ -59,7 +58,7 @@
           "woe:state=2346315", 
           "woe:state=2346318"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -16.392, 
         "latitude": -18.986, 
         "sw_longitude": 32.367, 
         "fullname": "Manica, Mozambique", 
@@ -104,7 +103,8 @@
           "woe:town=1556433", 
           "woe:town=1556504"
         ], 
-        "sw_latitude": -21.581
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "woe:id": 2346320
       }, 
       "id": 2346320
     }

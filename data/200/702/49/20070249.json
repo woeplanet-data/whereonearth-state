@@ -39,25 +39,24 @@
           20070256
         ], 
         "name": "Ucar", 
-        "ne_latitude": 40.541, 
         "hierarchy": [
           "woe:state=20070249", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070249, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 48.011, 
         "longitude": 47.718, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 40.24, 
         "adjacent": [
           "woe:state=20070213", 
           "woe:state=20070226", 
           "woe:state=20070236", 
           "woe:state=20070256"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.541, 
         "latitude": 40.391, 
         "sw_longitude": 47.426, 
         "fullname": "Ucar, Azerbaijan", 
@@ -67,7 +66,8 @@
           "woe:town=1951921", 
           "woe:town=1951420"
         ], 
-        "sw_latitude": 40.24
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070249
       }, 
       "id": 20070249
     }

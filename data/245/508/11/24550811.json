@@ -40,7 +40,6 @@
           24550815, 
           24550832
         ], 
-        "ne_latitude": 42.015, 
         "name": "Sveti Nikole", 
         "alias_ENG_P": [
           "Sveti Nikole Municipality"
@@ -50,7 +49,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550811, 
+        "ne_latitude": 42.015, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Sveti Nikole"
         ], 
@@ -58,7 +58,7 @@
         "ne_longitude": 22.126, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.749, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550832", 
           "woe:state=24550785", 
@@ -67,7 +67,6 @@
           "woe:state=24550815", 
           "woe:state=24550807"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 41.882, 
         "sw_longitude": 21.8, 
         "fullname": "Sveti Nikole, Sveti Nikole Municipality, Macedonia", 
@@ -77,7 +76,8 @@
           "woe:town=482153", 
           "woe:town=483067"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.749, 
+        "woe:id": 24550811
       }, 
       "id": 24550811
     }

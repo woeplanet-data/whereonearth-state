@@ -38,24 +38,23 @@
           2347030
         ], 
         "name": "Praslin", 
-        "ne_latitude": 13.893, 
         "hierarchy": [
           "woe:state=2347033", 
           "woe:country=23424951", 
           "woe:planet=1"
         ], 
-        "woeid": 2347033, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -60.877, 
         "longitude": -60.927, 
         "placetype": "state", 
         "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
+        "sw_latitude": 13.821, 
         "adjacent": [
           "woe:state=2347025", 
           "woe:state=2347027", 
           "woe:state=2347030"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.893, 
         "latitude": 13.857, 
         "sw_longitude": -60.977, 
         "fullname": "Praslin, St. Lucia", 
@@ -63,7 +62,8 @@
           "woe:town=162061", 
           "woe:town=162117"
         ], 
-        "sw_latitude": 13.821
+        "date_indexed": "2010-12-02T18:18:47Z", 
+        "woe:id": 2347033
       }, 
       "id": 2347033
     }

@@ -120,7 +120,7 @@
         "ne:Shape_Area": 0.0208581583766, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 12, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud0a4\uc2dc\ub098\uc6b0"
         ], 
@@ -156,7 +156,7 @@
         "alias_CHI_Q": [
           "\u57fa\u5e0c\u8bb7\u4e4c"
         ], 
-        "ne:OBJECTID": 1627, 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u30ad\u30b7\u30ca\u30a6"
         ], 
@@ -177,9 +177,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "City", 
         "sw_latitude": 46.9611131858249, 
-        "ne:VertexCou": 23.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 1627, 
         "ne:Postal": "CV", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -195,8 +195,8 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 176.2, 
         "woe:id": "20069878", 
-        "ne:HASC_1": "MD.CV", 
-        "lang": "UNK", 
+        "name": "Chisinau", 
+        "ne:VertexCou": 23.0, 
         "adjacent_woeid": [
           20069876, 
           55948185, 
@@ -204,7 +204,7 @@
           55948202, 
           55948205
         ], 
-        "name": "Chisinau", 
+        "ne:HASC_1": "MD.CV", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 28.982086622399777, 
         "longitude": 28.877, 

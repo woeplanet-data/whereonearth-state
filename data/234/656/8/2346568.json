@@ -40,18 +40,17 @@
           12578035
         ], 
         "name": "Evora", 
-        "ne_latitude": 39.026, 
         "hierarchy": [
           "woe:state=2346568", 
           "woe:country=23424925", 
           "woe:planet=1"
         ], 
-        "woeid": 2346568, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -7.107, 
         "longitude": -7.883, 
         "placetype": "state", 
         "iso": "PT", 
-        "date_indexed": "2010-12-02T09:58:14Z", 
+        "sw_latitude": 38.167, 
         "adjacent": [
           "woe:state=2346563", 
           "woe:state=12578035", 
@@ -59,7 +58,7 @@
           "woe:state=2346576", 
           "woe:state=2346577"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.026, 
         "latitude": 38.597, 
         "sw_longitude": -8.658, 
         "fullname": "Evora, Portugal", 
@@ -79,7 +78,8 @@
           "woe:county=12596649", 
           "woe:county=20071106"
         ], 
-        "sw_latitude": 38.167
+        "date_indexed": "2010-12-02T09:58:14Z", 
+        "woe:id": 2346568
       }, 
       "id": 2346568
     }

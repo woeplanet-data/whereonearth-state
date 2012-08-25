@@ -40,18 +40,17 @@
           56051563
         ], 
         "name": "Santa Catarina", 
-        "ne_latitude": 15.206, 
         "hierarchy": [
           "woe:state=2345128", 
           "woe:country=23424794", 
           "woe:planet=1"
         ], 
-        "woeid": 2345128, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -23.621, 
         "longitude": -23.706, 
         "placetype": "state", 
         "iso": "CV", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
+        "sw_latitude": 14.971, 
         "adjacent": [
           "woe:state=56051563", 
           "woe:state=56051561", 
@@ -59,7 +58,7 @@
           "woe:state=56051557", 
           "woe:state=2345131"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.206, 
         "latitude": 15.088, 
         "sw_longitude": -23.792, 
         "fullname": "Santa Catarina, Cape Verde", 
@@ -67,7 +66,8 @@
           "woe:town=1310679", 
           "woe:town=1310868"
         ], 
-        "sw_latitude": 14.971
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "woe:id": 2345128
       }, 
       "id": 2345128
     }

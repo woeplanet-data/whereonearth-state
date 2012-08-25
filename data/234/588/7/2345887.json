@@ -580,7 +580,7 @@
         "ne:Shape_Area": 0.653523633487, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
         "children": [
@@ -619,7 +619,7 @@
           "woe:county=24857669", 
           "woe:county=24857670"
         ], 
-        "ne:OBJECTID": 1859, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u6803\u6728"
         ], 
@@ -639,9 +639,9 @@
         "ne:FIRST_HASC": "JP.KN", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 36.200891424799465, 
-        "ne:VertexCou": 137.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1859, 
         "ne:Postal": "TC", 
         "ne:Region_Cod": "JPN-KNT", 
         "ne:VARNAME_1": "Totigi", 
@@ -657,15 +657,15 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 6481.8, 
         "woe:id": "2345887", 
-        "ne:HASC_1": "JP.TC", 
-        "lang": "JPN", 
+        "name": "\u6803\u6728\u770c", 
+        "ne:VertexCou": 137.0, 
         "adjacent_woeid": [
           2345858, 
           2345860, 
           2345863, 
           2345883
         ], 
-        "name": "\u6803\u6728\u770c", 
+        "ne:HASC_1": "JP.TC", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 140.2667667987488, 
         "longitude": 139.809, 

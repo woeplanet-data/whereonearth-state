@@ -41,18 +41,17 @@
           20070403
         ], 
         "name": "Kaspis Raioni", 
-        "ne_latitude": 42.098, 
         "hierarchy": [
           "woe:state=20070366", 
           "woe:country=23424823", 
           "woe:planet=1"
         ], 
-        "woeid": 20070366, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 44.615, 
         "longitude": 44.401, 
         "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
+        "sw_latitude": 41.717, 
         "adjacent": [
           "woe:state=20070364", 
           "woe:state=20070349", 
@@ -61,7 +60,7 @@
           "woe:state=20070360", 
           "woe:state=20070355"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.098, 
         "latitude": 41.907, 
         "sw_longitude": 44.187, 
         "fullname": "Kaspis Raioni, Georgia", 
@@ -94,7 +93,8 @@
           "woe:town=1966633", 
           "woe:town=1966680"
         ], 
-        "sw_latitude": 41.717
+        "date_indexed": "2010-12-02T17:51:52Z", 
+        "woe:id": 20070366
       }, 
       "id": 20070366
     }

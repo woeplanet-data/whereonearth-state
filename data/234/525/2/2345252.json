@@ -2560,7 +2560,7 @@
         "ne:Shape_Area": 0.947952090498, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "1898", 
         "alias_ENG_A": [
           "COR"
         ], 
@@ -2970,7 +2970,7 @@
         "alias_CHI_Q": [
           "\u79d1\u514b"
         ], 
-        "ne:OBJECTID": 78, 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u30b3\u30fc\u30af"
         ], 
@@ -2990,9 +2990,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T12:07:35Z", 
-        "ne:VertexCou": 629.0, 
-        "ne:VALIDFR_1": "1898", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 78, 
         "ne:Postal": "CK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Corcaigh", 
@@ -3008,15 +3008,15 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 7256.8, 
         "woe:id": "2345252", 
-        "ne:HASC_1": "IE.CK", 
-        "lang": "ENG", 
+        "name": "Cork", 
+        "ne:VertexCou": 629.0, 
         "adjacent_woeid": [
           2345256, 
           2345261, 
           2345270, 
           2345271
         ], 
-        "name": "Cork", 
+        "ne:HASC_1": "IE.CK", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae Chorcai"

@@ -40,23 +40,20 @@
           55967006
         ], 
         "name": "Marahou\u00e9", 
+        "ne_latitude": 7.745, 
         "hierarchy": [
           "woe:state=55966998", 
           "woe:country=23424854", 
           "woe:planet=1"
         ], 
-        "woeid": 55966998, 
         "ne_longitude": -5.409, 
         "longitude": -5.923, 
-        "children": [
-          "woe:county=20069974", 
-          "woe:county=20069973", 
-          "woe:county=20069816"
+        "alias_FRE_S": [
+          "Marahoue"
         ], 
         "placetype": "state", 
-        "latitude": 7.115, 
         "iso": "CI", 
-        "sw_latitude": 6.485, 
+        "date_indexed": "2010-12-02T09:35:13Z", 
         "adjacent": [
           "woe:state=55966995", 
           "woe:state=55966996", 
@@ -65,13 +62,16 @@
           "woe:state=55967006"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 7.745, 
+        "latitude": 7.115, 
         "sw_longitude": -6.437, 
         "fullname": "Marahou\u00e9, Ivory Coast", 
-        "alias_FRE_S": [
-          "Marahoue"
+        "children": [
+          "woe:county=20069974", 
+          "woe:county=20069973", 
+          "woe:county=20069816"
         ], 
-        "date_indexed": "2010-12-02T09:35:13Z"
+        "sw_latitude": 6.485, 
+        "woe:id": 55966998
       }, 
       "id": 55966998
     }

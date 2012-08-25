@@ -3330,7 +3330,7 @@
         "ne:Shape_Area": 7.83683674825, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "1788", 
         "alias_ENG_A": [
           "OA"
         ], 
@@ -3930,7 +3930,7 @@
           "woe:town=148599", 
           "woe:town=149585"
         ], 
-        "ne:OBJECTID": 2723, 
+        "ne:DataRank": 2, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_SPA_S": [
@@ -3952,9 +3952,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 15.647468980708936, 
-        "ne:VertexCou": 826.0, 
-        "ne:VALIDFR_1": "1788", 
-        "ne:DataRank": 2, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 2723, 
         "ne:Postal": "OA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -3970,15 +3970,15 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 92368.2, 
         "woe:id": "2346283", 
-        "ne:HASC_1": "MX.OA", 
-        "lang": "SPA", 
+        "name": "Oaxaca", 
+        "ne:VertexCou": 826.0, 
         "adjacent_woeid": [
           2346268, 
           2346275, 
           2346284, 
           2346293
         ], 
-        "name": "Oaxaca", 
+        "ne:HASC_1": "MX.OA", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -96.209, 

@@ -39,25 +39,24 @@
           15021757
         ], 
         "name": "West Coast", 
-        "ne_latitude": -40.776, 
         "hierarchy": [
           "woe:state=15021752", 
           "woe:country=23424916", 
           "woe:planet=1"
         ], 
-        "woeid": 15021752, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 172.692, 
         "longitude": 171.524, 
         "placetype": "state", 
         "iso": "NZ", 
-        "date_indexed": "2010-12-02T17:02:10Z", 
+        "sw_latitude": -44.499, 
         "adjacent": [
           "woe:state=15021751", 
           "woe:state=15021754", 
           "woe:state=15021750", 
           "woe:state=15021757"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -40.776, 
         "latitude": -42.638, 
         "sw_longitude": 168.052, 
         "fullname": "West Coast, New Zealand", 
@@ -74,7 +73,8 @@
           "woe:island=28646091", 
           "woe:island=28646124"
         ], 
-        "sw_latitude": -44.499
+        "date_indexed": "2010-12-02T17:02:10Z", 
+        "woe:id": 15021752
       }, 
       "id": 15021752
     }

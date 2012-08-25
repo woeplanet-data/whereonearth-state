@@ -2030,7 +2030,7 @@
         "ne:Shape_Area": 13.2094920698, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "1980", 
         "alias_KOR_Q": [
           "\uc13c\ud2b8\ub7f4"
         ], 
@@ -2118,7 +2118,7 @@
         "alias_CHI_Q": [
           "\u4e2d\u90e8"
         ], 
-        "ne:OBJECTID": 2630, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30e9\u30eb"
         ], 
@@ -2142,9 +2142,9 @@
         "ne:FIRST_HASC": "BW.NE|BWA-CNT", 
         "ne:ENGTYPE_1": "District", 
         "sw_latitude": -23.947891941160094, 
-        "ne:VertexCou": 424.0, 
-        "ne:VALIDFR_1": "1980", 
-        "ne:DataRank": 6, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 2630, 
         "ne:Postal": "CE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Centre|Ngwato|Serowe-Palapye", 
@@ -2163,8 +2163,8 @@
           "Zentral"
         ], 
         "woe:id": "2344741", 
-        "ne:HASC_1": "BW.CE", 
-        "lang": "ENG", 
+        "name": "Central", 
+        "ne:VertexCou": 424.0, 
         "adjacent_woeid": [
           2344743, 
           2344745, 
@@ -2175,7 +2175,7 @@
           2347816, 
           55949048
         ], 
-        "name": "Central", 
+        "ne:HASC_1": "BW.CE", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 29.349764438677937, 
         "longitude": 26.629, 

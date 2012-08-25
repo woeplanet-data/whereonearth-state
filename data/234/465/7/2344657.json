@@ -42,18 +42,17 @@
           2344672
         ], 
         "name": "Bie", 
-        "ne_latitude": -10.572, 
         "hierarchy": [
           "woe:state=2344657", 
           "woe:country=23424745", 
           "woe:planet=1"
         ], 
-        "woeid": 2344657, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 19.27, 
         "longitude": 17.483, 
         "placetype": "state", 
         "iso": "AO", 
-        "date_indexed": "2010-12-02T17:52:14Z", 
+        "sw_latitude": -14.306, 
         "adjacent": [
           "woe:state=2344659", 
           "woe:state=2344661", 
@@ -63,7 +62,7 @@
           "woe:state=2344666", 
           "woe:state=2344668"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -10.572, 
         "latitude": -12.439, 
         "sw_longitude": 15.696, 
         "fullname": "Bie, Angola", 
@@ -171,7 +170,8 @@
           "woe:town=1469681", 
           "woe:town=1265492"
         ], 
-        "sw_latitude": -14.306
+        "date_indexed": "2010-12-02T17:52:14Z", 
+        "woe:id": 2344657
       }, 
       "id": 2344657
     }

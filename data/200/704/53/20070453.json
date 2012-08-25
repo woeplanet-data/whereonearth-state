@@ -40,18 +40,17 @@
           56190211
         ], 
         "name": "Luwero", 
-        "ne_latitude": 1.468, 
         "hierarchy": [
           "woe:state=20070453", 
           "woe:country=23424974", 
           "woe:planet=1"
         ], 
-        "woeid": 20070453, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.797, 
         "longitude": 32.325, 
         "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
+        "sw_latitude": 0.537, 
         "adjacent": [
           "woe:state=24550742", 
           "woe:state=20070438", 
@@ -59,7 +58,7 @@
           "woe:state=20070452", 
           "woe:state=24550740"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.468, 
         "latitude": 1.109, 
         "sw_longitude": 31.841, 
         "fullname": "Luwero, Uganda", 
@@ -67,7 +66,8 @@
           "woe:county=56190301", 
           "woe:county=56190302"
         ], 
-        "sw_latitude": 0.537
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "woe:id": 20070453
       }, 
       "id": 20070453
     }

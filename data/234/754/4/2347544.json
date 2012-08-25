@@ -4802,7 +4802,7 @@
         "ne:Shape_Area": 6.18537018755, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "~1922", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "UKR", 
         "children": [
@@ -4955,7 +4955,7 @@
           "woe:town=940447", 
           "woe:island=12481122"
         ], 
-        "ne:OBJECTID": 283, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 31.50467166516529, 
@@ -4970,9 +4970,9 @@
         "ne:FIRST_HASC": "UA.MY|UKR-KRN", 
         "ne:ENGTYPE_1": "Autonomous Republic", 
         "sw_latitude": 44.38111562778403, 
-        "ne:VertexCou": 1196.0, 
-        "ne:VALIDFR_1": "~1922", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 283, 
         "ne:Postal": "KR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Crim\u00e9e|Crim\u00e9ia|Krim|Krymskaya Respublika|Respublika Krym", 
@@ -4988,13 +4988,13 @@
         "ne:LabelRank": 5, 
         "ne:Area_sqkm": 53268.3, 
         "woe:id": "2347544", 
-        "ne:HASC_1": "UA.KR", 
-        "lang": "UNK", 
+        "name": "Avtonomna Respublika Krym", 
+        "ne:VertexCou": 1196.0, 
         "adjacent_woeid": [
           2347541, 
           20070189
         ], 
-        "name": "Avtonomna Respublika Krym", 
+        "ne:HASC_1": "UA.KR", 
         "ne:REMARKS_1": null, 
         "alias_UNK_V": [
           "Qirim Muhtar Cumhuriyeti"

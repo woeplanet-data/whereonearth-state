@@ -38,24 +38,23 @@
           20070270
         ], 
         "name": "Agsu", 
-        "ne_latitude": 40.789, 
         "hierarchy": [
           "woe:state=20070215", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070215, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 48.619, 
         "longitude": 48.364, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 40.297, 
         "adjacent": [
           "woe:state=20070228", 
           "woe:state=20070236", 
           "woe:state=20070270"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.789, 
         "latitude": 40.543, 
         "sw_longitude": 48.108, 
         "fullname": "Agsu, Azerbaijan", 
@@ -71,7 +70,8 @@
           "woe:town=1951644", 
           "woe:town=1951784"
         ], 
-        "sw_latitude": 40.297
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070215
       }, 
       "id": 20070215
     }

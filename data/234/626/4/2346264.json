@@ -36,30 +36,29 @@
           2346277, 
           2346295
         ], 
-        "name": "Aguascalientes", 
-        "adjacent": [
-          "woe:state=2346277", 
-          "woe:state=2346295"
+        "alias_ENG_A": [
+          "AG"
         ], 
+        "name": "Aguascalientes", 
+        "placetype": "state", 
         "hierarchy": [
           "woe:state=2346264", 
           "woe:country=23424900", 
           "woe:planet=1"
         ], 
-        "woeid": 2346264, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -101.836, 
-        "longitude": -102.355, 
-        "ne_latitude": 22.459, 
-        "placetype": "state", 
-        "sw_longitude": -102.875, 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "AG"
-        ], 
         "alias_SPA_V": [
           "Estado de Aguascalientes"
         ], 
+        "ne_longitude": -101.836, 
+        "longitude": -102.355, 
+        "ne_latitude": 22.459, 
+        "sw_longitude": -102.875, 
+        "sw_latitude": 21.622, 
+        "adjacent": [
+          "woe:state=2346277", 
+          "woe:state=2346295"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 22.041, 
         "iso": "MX", 
         "fullname": "Aguascalientes, Mexico", 
@@ -76,7 +75,8 @@
           "woe:county=12599689", 
           "woe:county=12599690"
         ], 
-        "sw_latitude": 21.622
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "woe:id": 2346264
       }, 
       "id": 2346264
     }

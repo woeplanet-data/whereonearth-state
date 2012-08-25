@@ -40,18 +40,17 @@
           24549686
         ], 
         "name": "Al Bahr al Ahmar", 
-        "ne_latitude": 23.147, 
         "hierarchy": [
           "woe:state=20069904", 
           "woe:country=23424952", 
           "woe:planet=1"
         ], 
-        "woeid": 20069904, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 38.834, 
         "longitude": 35.917, 
         "placetype": "state", 
         "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
+        "sw_latitude": 16.943, 
         "adjacent": [
           "woe:state=2345224", 
           "woe:state=24549684", 
@@ -59,7 +58,7 @@
           "woe:state=20069903", 
           "woe:state=24549686"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 23.147, 
         "latitude": 20.045, 
         "sw_longitude": 33.255, 
         "fullname": "Al Bahr al Ahmar, Sudan", 
@@ -89,7 +88,8 @@
           "woe:town=1436548", 
           "woe:island=12466600"
         ], 
-        "sw_latitude": 16.943
+        "date_indexed": "2010-12-02T08:50:49Z", 
+        "woe:id": 20069904
       }, 
       "id": 20069904
     }

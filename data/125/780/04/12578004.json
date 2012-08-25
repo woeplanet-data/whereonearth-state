@@ -10600,7 +10600,7 @@
         "ne:Shape_Area": 107.567401057, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc2dc\uc9f1"
         ], 
@@ -10615,7 +10615,7 @@
           "woe:county=26198319", 
           "woe:county=26198321"
         ], 
-        "ne:OBJECTID": 1662, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u897f\u85cf\u81ea\u6cbb\u5340"
         ], 
@@ -10661,9 +10661,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Region", 
         "date_indexed": "2010-12-02T08:51:01Z", 
-        "ne:VertexCou": 2514.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1662, 
         "ne:Postal": "XZ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Tibet|Xiz\u00e0ng", 
@@ -10679,8 +10679,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 1130124.2, 
         "woe:id": "12578004", 
-        "ne:HASC_1": "CN.XZ", 
-        "lang": "CHI", 
+        "name": "\u897f\u85cf\u81ea\u6cbb\u533a", 
+        "ne:VertexCou": 2514.0, 
         "adjacent_woeid": [
           2344813, 
           2344872, 
@@ -10707,7 +10707,7 @@
           55967862, 
           55967863
         ], 
-        "name": "\u897f\u85cf\u81ea\u6cbb\u533a", 
+        "ne:HASC_1": "CN.XZ", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 99.10881391802798, 
         "longitude": 88.759, 

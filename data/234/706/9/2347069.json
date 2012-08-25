@@ -39,25 +39,24 @@
           2347075
         ], 
         "name": "Al H'asakah", 
-        "ne_latitude": 37.319, 
         "hierarchy": [
           "woe:state=2347069", 
           "woe:country=23424956", 
           "woe:planet=1"
         ], 
-        "woeid": 2347069, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 42.385, 
         "longitude": 41.055, 
         "placetype": "state", 
         "iso": "SY", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
+        "sw_latitude": 35.489, 
         "adjacent": [
           "woe:state=2347072", 
           "woe:state=2345840", 
           "woe:state=2347075", 
           "woe:state=2345847"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 37.319, 
         "latitude": 36.404, 
         "sw_longitude": 39.725, 
         "fullname": "Al H'asakah, Syria", 
@@ -92,7 +91,8 @@
           "woe:town=1947217", 
           "woe:town=1947226"
         ], 
-        "sw_latitude": 35.489
+        "date_indexed": "2010-12-02T07:50:18Z", 
+        "woe:id": 2347069
       }, 
       "id": 2347069
     }

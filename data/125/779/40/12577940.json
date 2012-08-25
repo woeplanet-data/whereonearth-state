@@ -1126,7 +1126,7 @@
         "ne:Shape_Area": 1.95150948843, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19980727", 
         "alias_POR_Q": [
           "Pequena Polonia"
         ], 
@@ -1168,15 +1168,15 @@
         "alias_ITA_Q": [
           "Piccola Polonia"
         ], 
-        "ne:OBJECTID": 3170, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30de\u30a6\u30a9\u30dd\u30eb\u30b9\u30ab\u770c"
         ], 
+        "ne:REMARKS_1": null, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Pequena Polonia"
         ], 
-        "ne:ProvNumber": 2000, 
         "sw_longitude": 19.112353143083112, 
         "adjacent": [
           "woe:state=12577943", 
@@ -1194,9 +1194,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "ne:VertexCou": 248.0, 
-        "ne:VALIDFR_1": "19980727", 
-        "ne:DataRank": 5, 
+        "lang": "POL", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3170, 
         "ne:Postal": "MA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Malopolskie", 
@@ -1220,8 +1220,8 @@
           "Kleinpolen"
         ], 
         "woe:id": "12577940", 
-        "ne:HASC_1": "PL.MA", 
-        "lang": "POL", 
+        "name": "Ma\u0142opolskie", 
+        "ne:VertexCou": 248.0, 
         "adjacent_woeid": [
           12577943, 
           12577946, 
@@ -1230,8 +1230,8 @@
           20070496
         ], 
         "ne:FIRST_FIPS": "PL77", 
-        "name": "Ma\u0142opolskie", 
-        "ne:REMARKS_1": null, 
+        "ne:HASC_1": "PL.MA", 
+        "ne:ProvNumber": 2000, 
         "ne:CheckMe": 10, 
         "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne_longitude": 21.514273716059222, 

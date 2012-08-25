@@ -39,25 +39,24 @@
           20070294
         ], 
         "name": "Samarqand", 
-        "ne_latitude": 40.691, 
         "hierarchy": [
           "woe:state=20070173", 
           "woe:country=23424980", 
           "woe:planet=1"
         ], 
-        "woeid": 20070173, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 67.528, 
         "longitude": 66.333, 
         "placetype": "state", 
         "iso": "UZ", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
+        "sw_latitude": 39.43, 
         "adjacent": [
           "woe:state=2347661", 
           "woe:state=20070294", 
           "woe:state=2347667", 
           "woe:state=2347664"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.691, 
         "latitude": 40.06, 
         "sw_longitude": 65.138, 
         "fullname": "Samarqand, Uzbekistan", 
@@ -96,7 +95,8 @@
           "woe:town=2272663", 
           "woe:town=56122379"
         ], 
-        "sw_latitude": 39.43
+        "date_indexed": "2010-12-02T18:18:47Z", 
+        "woe:id": 20070173
       }, 
       "id": 20070173
     }

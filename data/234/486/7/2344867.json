@@ -5423,7 +5423,7 @@
         "alias_POR_V": [
           "Santacatarina"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "17390307", 
         "alias_ENG_A": [
           "SC"
         ], 
@@ -5725,7 +5725,7 @@
           "woe:county=12581602", 
           "woe:island=12503089"
         ], 
-        "ne:OBJECTID": 614, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -53.84125586586549, 
@@ -5741,9 +5741,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -29.35536549262332, 
-        "ne:VertexCou": 1329.0, 
-        "ne:VALIDFR_1": "17390307", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 614, 
         "ne:Postal": "SC", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Santa Catharina", 
@@ -5759,14 +5759,14 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 95106.7, 
         "woe:id": "2344867", 
-        "ne:HASC_1": "BR.SC", 
-        "lang": "POR", 
+        "name": "Santa Catarina", 
+        "ne:VertexCou": 1329.0, 
         "adjacent_woeid": [
           2344688, 
           2344859, 
           2344864
         ], 
-        "name": "Santa Catarina", 
+        "ne:HASC_1": "BR.SC", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -48.37717078300517, 
         "longitude": -51.15, 

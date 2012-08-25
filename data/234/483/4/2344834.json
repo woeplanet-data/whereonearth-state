@@ -41,18 +41,17 @@
           20069996
         ], 
         "name": "Minskaya Voblasts'", 
-        "ne_latitude": 55.015, 
         "hierarchy": [
           "woe:state=2344834", 
           "woe:country=23424765", 
           "woe:planet=1"
         ], 
-        "woeid": 2344834, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 29.49, 
         "longitude": 27.75, 
         "placetype": "state", 
         "iso": "BY", 
-        "date_indexed": "2010-12-02T16:32:52Z", 
+        "sw_latitude": 52.385, 
         "adjacent": [
           "woe:state=2344830", 
           "woe:state=2344832", 
@@ -61,7 +60,7 @@
           "woe:state=20069996", 
           "woe:state=2344835"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 55.015, 
         "latitude": 53.7, 
         "sw_longitude": 26.011, 
         "fullname": "Minskaya Voblasts', Belarus", 
@@ -372,7 +371,8 @@
           "woe:town=834327", 
           "woe:town=834396"
         ], 
-        "sw_latitude": 52.385
+        "date_indexed": "2010-12-02T16:32:52Z", 
+        "woe:id": 2344834
       }, 
       "id": 2344834
     }

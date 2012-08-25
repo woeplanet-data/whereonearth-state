@@ -42,18 +42,17 @@
           56013541
         ], 
         "name": "Al Qadarif", 
-        "ne_latitude": 15.836, 
         "hierarchy": [
           "woe:state=20069906", 
           "woe:country=23424952", 
           "woe:planet=1"
         ], 
-        "woeid": 20069906, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 36.561, 
         "longitude": 35.085, 
         "placetype": "state", 
         "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
+        "sw_latitude": 12.664, 
         "adjacent": [
           "woe:state=20069916", 
           "woe:state=20069819", 
@@ -63,7 +62,7 @@
           "woe:state=20069915", 
           "woe:state=2345312"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.836, 
         "latitude": 14.25, 
         "sw_longitude": 33.609, 
         "fullname": "Al Qadarif, Sudan", 
@@ -100,7 +99,8 @@
           "woe:town=1437179", 
           "woe:town=1437282"
         ], 
-        "sw_latitude": 12.664
+        "date_indexed": "2010-12-02T08:50:49Z", 
+        "woe:id": 20069906
       }, 
       "id": 20069906
     }

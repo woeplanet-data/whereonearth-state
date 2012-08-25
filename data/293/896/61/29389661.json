@@ -32,24 +32,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 20.026, 
         "name": "Northern Islands", 
         "hierarchy": [
           "woe:state=29389661", 
           "woe:country=23424788", 
           "woe:planet=1"
         ], 
-        "woeid": 29389661, 
+        "ne_latitude": 20.026, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 146.081, 
         "longitude": 145.762, 
         "placetype": "state", 
         "iso": "MP", 
-        "sw_latitude": 16.001, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:08:44Z", 
         "latitude": 18.105, 
         "sw_longitude": 145.228, 
         "fullname": "Northern Islands, Northern Mariana Islands", 
-        "date_indexed": "2010-12-02T12:08:44Z"
+        "woe:id": 29389661, 
+        "sw_latitude": 16.001
       }, 
       "id": 29389661
     }

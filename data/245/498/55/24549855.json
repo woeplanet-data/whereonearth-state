@@ -32,24 +32,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 8.192, 
         "name": "Namu", 
         "hierarchy": [
           "woe:state=24549855", 
           "woe:country=23424932", 
           "woe:planet=1"
         ], 
-        "woeid": 24549855, 
+        "ne_latitude": 8.192, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 168.184, 
         "longitude": 168.18, 
         "placetype": "state", 
         "iso": "MH", 
-        "sw_latitude": 8.07, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
         "latitude": 8.153, 
         "sw_longitude": 167.975, 
         "fullname": "Namu, Marshall Islands", 
-        "date_indexed": "2010-12-02T09:35:31Z"
+        "woe:id": 24549855, 
+        "sw_latitude": 8.07
       }, 
       "id": 24549855
     }

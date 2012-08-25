@@ -49,6 +49,24 @@
         "ne_latitude": 47.823, 
         "ne_longitude": 18.941, 
         "longitude": 18.585, 
+        "placetype": "state", 
+        "iso": "HU", 
+        "sw_latitude": 47.333, 
+        "adjacent": [
+          "woe:state=12577917", 
+          "woe:state=12577918", 
+          "woe:state=20070492", 
+          "woe:state=12577923", 
+          "woe:state=56043626", 
+          "woe:state=12577929"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.578, 
+        "sw_longitude": 17.87, 
+        "fullname": "Kom\u00e1rom-Esztergom, Hungary", 
+        "alias_HUN_S": [
+          "Komarom-Esztergom"
+        ], 
         "children": [
           "woe:county=12593367", 
           "woe:county=12596096", 
@@ -126,26 +144,8 @@
           "woe:county=12596331", 
           "woe:zone=24873822"
         ], 
-        "placetype": "state", 
-        "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "adjacent": [
-          "woe:state=12577917", 
-          "woe:state=12577918", 
-          "woe:state=20070492", 
-          "woe:state=12577923", 
-          "woe:state=56043626", 
-          "woe:state=12577929"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 47.578, 
-        "sw_longitude": 17.87, 
-        "fullname": "Kom\u00e1rom-Esztergom, Hungary", 
-        "alias_HUN_S": [
-          "Komarom-Esztergom"
-        ], 
-        "woeid": 12577921, 
-        "sw_latitude": 47.333
+        "woe:id": 12577921
       }, 
       "id": 12577921
     }

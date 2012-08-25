@@ -441,7 +441,7 @@
         "ne:Shape_Area": 0.0372240429083, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 10, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc138\uc778\ud2b8\uc564\ub4dc\ub958"
         ], 
@@ -551,7 +551,7 @@
         "alias_CHI_Q": [
           "\u5723\u5b89\u5fb7\u9c81"
         ], 
-        "ne:OBJECTID": 1382, 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30fb\u30a2\u30f3\u30c9\u30ea\u30e5\u30fc\u30ba"
         ], 
@@ -572,9 +572,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Parish", 
         "sw_latitude": 17.92970693582646, 
-        "ne:VertexCou": 103.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 10, 
+        "ne:OBJECTID": 1382, 
         "ne:Postal": "SD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -590,8 +590,8 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 436.2, 
         "woe:id": "2345916", 
-        "ne:HASC_1": "JM.SD", 
-        "lang": "ENG", 
+        "name": "Saint Andrew", 
+        "ne:VertexCou": 103.0, 
         "adjacent_woeid": [
           2345915, 
           2345918, 
@@ -599,7 +599,7 @@
           2345922, 
           2345925
         ], 
-        "name": "Saint Andrew", 
+        "ne:HASC_1": "JM.SD", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -76.61624813474356, 
         "longitude": -76.761, 

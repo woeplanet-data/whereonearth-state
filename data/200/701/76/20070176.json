@@ -42,18 +42,17 @@
           20070178
         ], 
         "name": "Qostanay", 
-        "ne_latitude": 54.72, 
         "hierarchy": [
           "woe:state=20070176", 
           "woe:country=23424871", 
           "woe:planet=1"
         ], 
-        "woeid": 20070176, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 67.04, 
         "longitude": 63.547, 
         "placetype": "state", 
         "iso": "KZ", 
-        "date_indexed": "2010-12-02T08:54:03Z", 
+        "sw_latitude": 48.145, 
         "adjacent": [
           "woe:state=2345996", 
           "woe:state=2345980", 
@@ -63,7 +62,7 @@
           "woe:state=20070178", 
           "woe:state=20070174"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 54.72, 
         "latitude": 51.433, 
         "sw_longitude": 60.053, 
         "fullname": "Qostanay, Kazakhstan", 
@@ -192,7 +191,8 @@
           "woe:town=2263982", 
           "woe:town=2265093"
         ], 
-        "sw_latitude": 48.145
+        "date_indexed": "2010-12-02T08:54:03Z", 
+        "woe:id": 20070176
       }, 
       "id": 20070176
     }

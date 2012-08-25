@@ -632,7 +632,7 @@
         "ne:Shape_Area": 0.37709069814, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
         "children": [
@@ -661,7 +661,7 @@
           "woe:historicalcounty=24855800", 
           "woe:historicalcounty=24855814"
         ], 
-        "ne:OBJECTID": 1851, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5948\u826f"
         ], 
@@ -681,9 +681,9 @@
         "ne:FIRST_HASC": "JP.ME", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 33.838141587963946, 
-        "ne:VertexCou": 150.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1851, 
         "ne:Postal": "NR", 
         "ne:Region_Cod": "JPN-KIN", 
         "ne:VARNAME_1": null, 
@@ -699,15 +699,15 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 3851.0, 
         "woe:id": "2345877", 
-        "ne:HASC_1": "JP.NR", 
-        "lang": "JPN", 
+        "name": "\u5948\u826f\u770c", 
+        "ne:VertexCou": 150.0, 
         "adjacent_woeid": [
           2345871, 
           2345872, 
           2345881, 
           2345892
         ], 
-        "name": "\u5948\u826f\u770c", 
+        "ne:HASC_1": "JP.NR", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 136.211200392784, 
         "longitude": 135.885, 

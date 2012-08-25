@@ -43,18 +43,17 @@
           2347255
         ], 
         "name": "Tebessa", 
-        "ne_latitude": 36.018, 
         "hierarchy": [
           "woe:state=2344603", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344603, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 8.473, 
         "longitude": 7.821, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 34.064, 
         "adjacent": [
           "woe:state=2347239", 
           "woe:state=2347235", 
@@ -65,7 +64,7 @@
           "woe:state=2344622", 
           "woe:state=2347255"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.018, 
         "latitude": 35.041, 
         "sw_longitude": 7.168, 
         "fullname": "Tebessa, Algeria", 
@@ -113,7 +112,8 @@
           "woe:town=1257708", 
           "woe:town=1258031"
         ], 
-        "sw_latitude": 34.064
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344603
       }, 
       "id": 2344603
     }

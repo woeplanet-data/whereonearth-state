@@ -51,13 +51,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347145, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 102.153, 
         "longitude": 101.493, 
-        "ne_latitude": 18.221, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 16.754, 
         "adjacent": [
           "woe:state=2347147", 
           "woe:state=2347202", 
@@ -68,7 +67,7 @@
           "woe:state=20070164", 
           "woe:state=2346010"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.221, 
         "latitude": 17.487, 
         "sw_longitude": 100.833, 
         "fullname": "Loei, Thailand", 
@@ -89,7 +88,8 @@
           "woe:county=28340997", 
           "woe:landfeature=56057409"
         ], 
-        "sw_latitude": 16.754
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347145
       }, 
       "id": 2347145
     }

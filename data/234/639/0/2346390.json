@@ -4880,7 +4880,7 @@
         "ne:Shape_Area": 2.40368935858, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 12, 
+        "ne:VALIDFR_1": "1973", 
         "alias_KOR_Q": [
           "\ud638\ub974\ub2ec\ub780\ub4dc"
         ], 
@@ -4942,7 +4942,7 @@
         "alias_CHI_Q": [
           "\u970d\u8fbe\u5170"
         ], 
-        "ne:OBJECTID": 913, 
+        "ne:DataRank": 7, 
         "alias_JPN_Q": [
           "\u30db\u30eb\u30c0\u30e9\u30f3"
         ], 
@@ -4962,9 +4962,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 59.48019399665566, 
-        "ne:VertexCou": 1193.0, 
-        "ne:VALIDFR_1": "1973", 
-        "ne:DataRank": 7, 
+        "lang": "NOR", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 913, 
         "ne:Postal": "HO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Hordaland fylke|H\u00f6r\u00f0aland|S\u00f8ndre Bergenhus", 
@@ -4980,15 +4980,15 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 14787.8, 
         "woe:id": "2346390", 
-        "ne:HASC_1": "NO.HO", 
-        "lang": "NOR", 
+        "name": "Hordaland Fylke", 
+        "ne:VertexCou": 1193.0, 
         "adjacent_woeid": [
           2346387, 
           2346397, 
           2346398, 
           2346400
         ], 
-        "name": "Hordaland Fylke", 
+        "ne:HASC_1": "NO.HO", 
         "ne:REMARKS_1": null, 
         "alias_NOR_V": [
           "Hordaland"

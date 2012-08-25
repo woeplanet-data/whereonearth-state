@@ -38,27 +38,26 @@
           29389223
         ], 
         "name": "Pirot", 
-        "ne_latitude": 43.451, 
         "hierarchy": [
           "woe:state=29389200", 
           "woe:country=20069818", 
           "woe:planet=1"
         ], 
-        "woeid": 29389200, 
         "alias_UNK_Q": [
           "Pirotski Okrug"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 23.007, 
         "longitude": 22.556, 
         "placetype": "state", 
         "iso": "RS", 
-        "sw_latitude": 42.861, 
+        "date_indexed": "2010-12-02T10:22:30Z", 
         "adjacent": [
           "woe:state=29389208", 
           "woe:state=29389223", 
           "woe:state=29389213"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.451, 
         "latitude": 43.156, 
         "sw_longitude": 22.105, 
         "fullname": "Pirot, Serbia", 
@@ -76,7 +75,8 @@
           "woe:town=537065", 
           "woe:town=537131"
         ], 
-        "date_indexed": "2010-12-02T10:22:30Z"
+        "sw_latitude": 42.861, 
+        "woe:id": 29389200
       }, 
       "id": 29389200
     }

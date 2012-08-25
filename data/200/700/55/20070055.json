@@ -38,24 +38,23 @@
           20070056
         ], 
         "name": "Vidin", 
-        "ne_latitude": 44.227, 
         "hierarchy": [
           "woe:state=20070055", 
           "woe:country=23424771", 
           "woe:planet=1"
         ], 
-        "woeid": 20070055, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 23.059, 
         "longitude": 22.708, 
         "placetype": "state", 
         "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
+        "sw_latitude": 43.386, 
         "adjacent": [
           "woe:state=2346631", 
           "woe:state=2346639", 
           "woe:state=20070056"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 44.227, 
         "latitude": 43.807, 
         "sw_longitude": 22.357, 
         "fullname": "Vidin, Bulgaria", 
@@ -72,7 +71,8 @@
           "woe:county=55873791", 
           "woe:county=55873956"
         ], 
-        "sw_latitude": 43.386
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "woe:id": 20070055
       }, 
       "id": 20070055
     }

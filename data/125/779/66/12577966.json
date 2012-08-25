@@ -42,22 +42,21 @@
           "woe:country=26812346", 
           "woe:planet=1"
         ], 
-        "woeid": 12577966, 
-        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Paphos"
         ], 
         "longitude": 32.53, 
         "ne_longitude": 32.787, 
         "placetype": "state", 
+        "latitude": 34.916, 
         "iso": "CY", 
-        "date_indexed": "2010-12-02T09:35:19Z", 
+        "sw_latitude": 34.66, 
         "adjacent": [
           "woe:state=12577965", 
           "woe:state=12577971"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 35.172, 
-        "latitude": 34.916, 
         "sw_longitude": 32.266, 
         "fullname": "Paphos District, Cyprus", 
         "children": [
@@ -189,7 +188,8 @@
           "woe:town=841787", 
           "woe:town=841790"
         ], 
-        "sw_latitude": 34.66
+        "date_indexed": "2010-12-02T09:35:19Z", 
+        "woe:id": 12577966
       }, 
       "id": 12577966
     }

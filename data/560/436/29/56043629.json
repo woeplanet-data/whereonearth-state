@@ -48,12 +48,9 @@
         ], 
         "ne_longitude": 17.808, 
         "longitude": 17.659, 
-        "children": [
-          "woe:county=12593895"
-        ], 
         "placetype": "state", 
         "iso": "HU", 
-        "sw_latitude": 47.591, 
+        "date_indexed": "2010-12-02T09:55:38Z", 
         "adjacent": [
           "woe:state=12577918", 
           "woe:state=20070492"
@@ -65,8 +62,11 @@
         "alias_HUN_S": [
           "Gyor"
         ], 
-        "woeid": 56043629, 
-        "date_indexed": "2010-12-02T09:55:38Z"
+        "children": [
+          "woe:county=12593895"
+        ], 
+        "sw_latitude": 47.591, 
+        "woe:id": 56043629
       }, 
       "id": 56043629
     }

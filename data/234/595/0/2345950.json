@@ -41,18 +41,17 @@
           12578008
         ], 
         "name": "Chagang-do", 
-        "ne_latitude": 41.808, 
         "hierarchy": [
           "woe:state=2345950", 
           "woe:country=23424865", 
           "woe:planet=1"
         ], 
-        "woeid": 2345950, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 127.487, 
         "longitude": 126.416, 
         "placetype": "state", 
         "iso": "KP", 
-        "date_indexed": "2010-12-02T10:22:43Z", 
+        "sw_latitude": 39.959, 
         "adjacent": [
           "woe:state=2345951", 
           "woe:state=2345955", 
@@ -61,7 +60,7 @@
           "woe:state=12577995", 
           "woe:state=12578008"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.808, 
         "latitude": 40.884, 
         "sw_longitude": 125.344, 
         "fullname": "Chagang-do, North Korea", 
@@ -86,7 +85,8 @@
           "woe:town=1092956", 
           "woe:town=1093987"
         ], 
-        "sw_latitude": 39.959
+        "date_indexed": "2010-12-02T10:22:43Z", 
+        "woe:id": 2345950
       }, 
       "id": 2345950
     }

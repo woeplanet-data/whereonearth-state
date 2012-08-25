@@ -50,6 +50,25 @@
         "ne_latitude": 47.486, 
         "ne_longitude": 18.262, 
         "longitude": 17.667, 
+        "placetype": "state", 
+        "iso": "HU", 
+        "sw_latitude": 46.748, 
+        "adjacent": [
+          "woe:state=12577917", 
+          "woe:state=12577918", 
+          "woe:state=12577921", 
+          "woe:state=12577924", 
+          "woe:state=12577928", 
+          "woe:state=56043633", 
+          "woe:state=12577930"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.117, 
+        "sw_longitude": 17.073, 
+        "fullname": "Veszpr\u00e9m, Hungary", 
+        "alias_HUN_S": [
+          "Veszprem"
+        ], 
         "children": [
           "woe:county=12596411", 
           "woe:county=12593313", 
@@ -269,27 +288,8 @@
           "woe:county=12595213", 
           "woe:zone=24873857"
         ], 
-        "placetype": "state", 
-        "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "adjacent": [
-          "woe:state=12577917", 
-          "woe:state=12577918", 
-          "woe:state=12577921", 
-          "woe:state=12577924", 
-          "woe:state=12577928", 
-          "woe:state=56043633", 
-          "woe:state=12577930"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 47.117, 
-        "sw_longitude": 17.073, 
-        "fullname": "Veszpr\u00e9m, Hungary", 
-        "alias_HUN_S": [
-          "Veszprem"
-        ], 
-        "woeid": 12577929, 
-        "sw_latitude": 46.748
+        "woe:id": 12577929
       }, 
       "id": 12577929
     }

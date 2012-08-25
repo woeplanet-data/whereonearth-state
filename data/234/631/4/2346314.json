@@ -39,25 +39,24 @@
           20069891
         ], 
         "name": "Maputo", 
-        "ne_latitude": -24.204, 
         "hierarchy": [
           "woe:state=2346314", 
           "woe:country=23424902", 
           "woe:planet=1"
         ], 
-        "woeid": 2346314, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 33.136, 
         "longitude": 32.537, 
         "placetype": "state", 
         "iso": "MZ", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
+        "sw_latitude": -26.869, 
         "adjacent": [
           "woe:state=2346312", 
           "woe:state=2346982", 
           "woe:state=20069891", 
           "woe:state=2346983"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -24.204, 
         "latitude": -25.536, 
         "sw_longitude": 31.938, 
         "fullname": "Maputo, Mozambique", 
@@ -94,7 +93,8 @@
           "woe:town=1556483", 
           "woe:island=12466183"
         ], 
-        "sw_latitude": -26.869
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "woe:id": 2346314
       }, 
       "id": 2346314
     }

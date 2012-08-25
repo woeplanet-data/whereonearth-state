@@ -40,18 +40,17 @@
           20070507
         ], 
         "name": "Leningradskaya Oblast", 
-        "ne_latitude": 61.289, 
         "hierarchy": [
           "woe:state=2346907", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346907, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.687, 
         "longitude": 31.698, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 58.445, 
         "adjacent": [
           "woe:state=2346873", 
           "woe:state=2346913", 
@@ -59,7 +58,7 @@
           "woe:state=20070507", 
           "woe:state=2346934"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 61.289, 
         "latitude": 59.867, 
         "sw_longitude": 26.932, 
         "fullname": "Leningradskaya Oblast, Russia", 
@@ -102,7 +101,8 @@
           "woe:drainage=26354372", 
           "woe:drainage=26354466"
         ], 
-        "sw_latitude": 58.445
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346907
       }, 
       "id": 2346907
     }

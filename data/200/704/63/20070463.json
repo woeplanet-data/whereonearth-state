@@ -4364,7 +4364,7 @@
         "ne:Shape_Area": 6.89846881426, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "JH"
         ], 
@@ -4394,7 +4394,7 @@
         "alias_CHI_Q": [
           "\u8d3e\u574e\u5fb7\u90a6"
         ], 
-        "ne:OBJECTID": 3256, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30b8\u30e3\u30fc\u30eb\u30ab\u30f3\u30c9\u5dde"
         ], 
@@ -4415,9 +4415,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 21.9861518418341, 
-        "ne:VertexCou": 1084.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3256, 
         "ne:Postal": "JH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Vananchal", 
@@ -4433,8 +4433,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 77947.9, 
         "woe:id": "20070463", 
-        "ne:HASC_1": "IN.JH", 
-        "lang": "ENG", 
+        "name": "Jharkhand", 
+        "ne:VertexCou": 1084.0, 
         "adjacent_woeid": [
           2345742, 
           2345755, 
@@ -4442,7 +4442,7 @@
           2345761, 
           20070464
         ], 
-        "name": "Jharkhand", 
+        "ne:HASC_1": "IN.JH", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 87.89998904785631, 
         "longitude": 85.622, 

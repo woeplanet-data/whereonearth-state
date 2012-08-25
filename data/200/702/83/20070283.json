@@ -41,18 +41,17 @@
           20070282
         ], 
         "name": "Abseron", 
-        "ne_latitude": 40.579, 
         "hierarchy": [
           "woe:state=20070283", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070283, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 49.897, 
         "longitude": 49.101, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 40.021, 
         "adjacent": [
           "woe:state=20070218", 
           "woe:state=20070282", 
@@ -61,7 +60,7 @@
           "woe:state=20070247", 
           "woe:state=20070271"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.579, 
         "latitude": 40.3, 
         "sw_longitude": 48.785, 
         "fullname": "Abseron, Azerbaijan", 
@@ -70,7 +69,8 @@
           "woe:town=1951563", 
           "woe:town=1951164"
         ], 
-        "sw_latitude": 40.021
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070283
       }, 
       "id": 20070283
     }

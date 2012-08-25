@@ -37,23 +37,22 @@
           20070283
         ], 
         "name": "Sumqayit", 
-        "ne_latitude": 40.669, 
         "hierarchy": [
           "woe:state=20070247", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070247, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 49.757, 
         "longitude": 49.618, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 40.546, 
         "adjacent": [
           "woe:state=20070283", 
           "woe:state=20070271"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.669, 
         "latitude": 40.607, 
         "sw_longitude": 49.479, 
         "fullname": "Sumqayit, Azerbaijan", 
@@ -64,7 +63,8 @@
           "woe:town=1952021", 
           "woe:town=1951201"
         ], 
-        "sw_latitude": 40.546
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070247
       }, 
       "id": 20070247
     }

@@ -39,25 +39,24 @@
           2344606
         ], 
         "name": "Oran", 
-        "ne_latitude": 35.915, 
         "hierarchy": [
           "woe:state=2344584", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344584, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -0.132, 
         "longitude": -0.597, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 35.364, 
         "adjacent": [
           "woe:state=2344606", 
           "woe:state=2344598", 
           "woe:state=2344583", 
           "woe:state=2344601"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.915, 
         "latitude": 35.639, 
         "sw_longitude": -1.139, 
         "fullname": "Oran, Algeria", 
@@ -97,7 +96,8 @@
           "woe:town=1257499", 
           "woe:town=1257923"
         ], 
-        "sw_latitude": 35.364
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344584
       }, 
       "id": 2344584
     }

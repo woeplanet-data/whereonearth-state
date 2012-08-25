@@ -40,18 +40,17 @@
           2347375
         ], 
         "name": "Tabora", 
-        "ne_latitude": -3.873, 
         "hierarchy": [
           "woe:state=2347368", 
           "woe:country=23424973", 
           "woe:planet=1"
         ], 
-        "woeid": 2347368, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 34.252, 
         "longitude": 32.643, 
         "placetype": "state", 
         "iso": "TZ", 
-        "date_indexed": "2010-12-02T12:15:58Z", 
+        "sw_latitude": -7.011, 
         "adjacent": [
           "woe:state=2347356", 
           "woe:state=2347360", 
@@ -59,7 +58,7 @@
           "woe:state=2347366", 
           "woe:state=2347367"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -3.873, 
         "latitude": -5.442, 
         "sw_longitude": 31.035, 
         "fullname": "Tabora, Tanzania", 
@@ -71,7 +70,8 @@
           "woe:county=56025212", 
           "woe:county=56025213"
         ], 
-        "sw_latitude": -7.011
+        "date_indexed": "2010-12-02T12:15:58Z", 
+        "woe:id": 2347368
       }, 
       "id": 2347368
     }

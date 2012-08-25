@@ -3296,10 +3296,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 44.48296987585911, 
+        "ne:DataRank": 3, 
         "ne:Shape_Area": 2.55055830608, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "alias_KOR_Q": [
           "\ud22c\uc2a4\uce74\ub2c8"
         ], 
@@ -3327,13 +3328,13 @@
         "alias_CHI_Q": [
           "\u6258\u65af\u5361\u7eb3"
         ], 
-        "ne:OBJECTID": 816, 
         "alias_ITA_V": [
           "Toscana Regione"
         ], 
         "alias_JPN_Q": [
           "\u30c8\u30b9\u30ab\u30fc\u30ca"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -3354,9 +3355,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 42.3239285342745, 
-        "ne:VertexCou": 807.0, 
-        "ne:VALIDFR_1": "1895", 
-        "ne:DataRank": 3, 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 816, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Tuscany|Toscane|Toskana", 
@@ -3377,8 +3378,8 @@
           "Toskana"
         ], 
         "woe:id": "7153345", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Toscana", 
+        "ne:VertexCou": 807.0, 
         "adjacent_woeid": [
           7153334, 
           7153336, 
@@ -3386,7 +3387,7 @@
           7153339, 
           7153347
         ], 
-        "name": "Toscana", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITE", 
         "ne:CheckMe": 0, 
         "ne_longitude": 12.357623325156396, 
@@ -3395,13 +3396,12 @@
         "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Toscana, Tuscany, Italy", 
-        "alias_FRE_Q": [
-          "La Toscane"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "La Toscane"
+        ]
       }, 
       "id": 7153345
     }

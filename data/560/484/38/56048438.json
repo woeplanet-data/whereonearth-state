@@ -873,7 +873,7 @@
         "ne:Shape_Area": 1.40998978724, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1955", 
+        "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TGO", 
         "children": [
@@ -887,7 +887,7 @@
           "woe:county=56048459", 
           "woe:county=56048458"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 86, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 0.494161411519997, 
@@ -906,9 +906,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 6.533865057726302, 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 5, 
-        "ne:OBJECTID": 86, 
+        "ne:VertexCou": 205.0, 
+        "ne:VALIDFR_1": "1955", 
+        "ne:DataRank": 8, 
         "ne:Postal": "PL", 
         "ne:Region_Cod": "TGO-AMO", 
         "ne:VARNAME_1": "R\u00e9gion des Plateaux", 
@@ -924,8 +924,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 17213.0, 
         "woe:id": "56048438", 
-        "name": "Plateaux", 
-        "ne:VertexCou": 205.0, 
+        "ne:HASC_1": "TG.PL", 
+        "lang": "FRE", 
         "adjacent_woeid": [
           2344829, 
           2345468, 
@@ -934,13 +934,11 @@
           56048436, 
           56048437
         ], 
-        "ne:HASC_1": "TG.PL", 
+        "name": "Plateaux", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 1.625306837440633, 
         "longitude": 1.09, 
-        "alias_FRE_S": [
-          "Region des Plateaux"
-        ], 
+        "ne:NEV_Countr": "Togo", 
         "iso": "TG", 
         "date_indexed": "2010-12-02T17:04:11Z", 
         "ne:NL_NAME_1": null, 
@@ -949,7 +947,9 @@
         ], 
         "fullname": "Plateaux, Plateaux Region, Togo", 
         "ne:Region": "Amou", 
-        "ne:NEV_Countr": "Togo", 
+        "alias_FRE_S": [
+          "Region des Plateaux"
+        ], 
         "ne:RegionVar": null, 
         "ne:sameAsCity": -99
       }, 

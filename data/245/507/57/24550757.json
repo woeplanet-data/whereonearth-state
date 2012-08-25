@@ -31,6 +31,33 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Cesinovo-Oblesevo Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550757", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 41.962, 
+        "ne_longitude": 22.381, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=482638", 
+          "woe:town=482972", 
+          "woe:town=481855"
+        ], 
+        "sw_longitude": 22.215, 
+        "adjacent": [
+          "woe:state=24550772", 
+          "woe:state=24550777", 
+          "woe:state=24550800", 
+          "woe:state=24550824"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.893, 
+        "woe:id": 24550757, 
+        "sw_latitude": 41.824, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550772, 
@@ -39,43 +66,16 @@
           24550824
         ], 
         "name": "\u010ce\u0161inovo-Oble\u0161evo", 
-        "alias_ENG_P": [
-          "Cesinovo-Oblesevo Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Cesinovo-Oblesevo"
-        ], 
-        "woeid": 24550757, 
-        "children": [
-          "woe:town=482638", 
-          "woe:town=482972", 
-          "woe:town=481855"
         ], 
         "alias_UNK_V": [
           "Opstina \u010ce\u0161inovo-Oble\u0161evo"
         ], 
         "longitude": 22.298, 
-        "ne_longitude": 22.381, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550757", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550772", 
-          "woe:state=24550777", 
-          "woe:state=24550800", 
-          "woe:state=24550824"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.962, 
-        "sw_longitude": 22.215, 
-        "latitude": 41.893, 
-        "fullname": "\u010ce\u0161inovo-Oble\u0161evo, Cesinovo-Oblesevo Municipality, Macedonia", 
-        "sw_latitude": 41.824
+        "fullname": "\u010ce\u0161inovo-Oble\u0161evo, Cesinovo-Oblesevo Municipality, Macedonia"
       }, 
       "id": 24550757
     }

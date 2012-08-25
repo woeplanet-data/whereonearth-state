@@ -482,7 +482,7 @@
         "ne:Shape_Area": 0.652551635883, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
         "children": [
@@ -494,7 +494,7 @@
           "woe:county=29390959", 
           "woe:county=29390960"
         ], 
-        "ne:OBJECTID": 3044, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 41.68182824068083, 
@@ -511,9 +511,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 37.11021576574507, 
-        "ne:VertexCou": 94.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 3044, 
         "ne:Postal": "SR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Sirnak", 
@@ -529,15 +529,15 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 6407.1, 
         "woe:id": "2347330", 
-        "ne:HASC_1": "TR.SR", 
-        "lang": "UNK", 
+        "name": "\u015e\u0131rnak", 
+        "ne:VertexCou": 94.0, 
         "adjacent_woeid": [
           2347316, 
           2347320, 
           2347322, 
           2347324
         ], 
-        "name": "\u015e\u0131rnak", 
+        "ne:HASC_1": "TR.SR", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Sirnak"

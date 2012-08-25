@@ -38,24 +38,23 @@
           2347128
         ], 
         "name": "Kayan State", 
-        "ne_latitude": 19.999, 
         "hierarchy": [
           "woe:state=2344815", 
           "woe:country=23424763", 
           "woe:planet=1"
         ], 
-        "woeid": 2344815, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 97.91, 
         "longitude": 97.362, 
         "placetype": "state", 
         "iso": "MM", 
-        "date_indexed": "2010-12-02T17:58:12Z", 
+        "sw_latitude": 18.492, 
         "adjacent": [
           "woe:state=2344814", 
           "woe:state=2347128", 
           "woe:state=2344820"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.999, 
         "latitude": 19.245, 
         "sw_longitude": 96.814, 
         "fullname": "Kayan State, Myanmar", 
@@ -73,7 +72,8 @@
           "woe:town=1002794", 
           "woe:town=1018001"
         ], 
-        "sw_latitude": 18.492
+        "date_indexed": "2010-12-02T17:58:12Z", 
+        "woe:id": 2344815
       }, 
       "id": 2344815
     }

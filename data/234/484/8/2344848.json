@@ -9183,7 +9183,7 @@
         "alias_POR_V": [
           "Estado Bahia"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1810", 
         "alias_ENG_A": [
           "BA"
         ], 
@@ -9612,7 +9612,7 @@
           "woe:county=12578354", 
           "woe:island=12503004"
         ], 
-        "ne:OBJECTID": 624, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -46.571854620594195, 
@@ -9633,9 +9633,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -18.323325697223083, 
-        "ne:VertexCou": 2286.0, 
-        "ne:VALIDFR_1": "1810", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 624, 
         "ne:Postal": "BA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Ba\u00a1a", 
@@ -9651,8 +9651,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 559906.3, 
         "woe:id": "2344848", 
-        "ne:HASC_1": "BR.BA", 
-        "lang": "POR", 
+        "name": "Bahia", 
+        "ne:VertexCou": 2286.0, 
         "adjacent_woeid": [
           2344845, 
           2344851, 
@@ -9663,7 +9663,7 @@
           2344869, 
           2344870
         ], 
-        "name": "Bahia", 
+        "ne:HASC_1": "BR.BA", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -37.36068559426474, 
         "longitude": -41.995, 

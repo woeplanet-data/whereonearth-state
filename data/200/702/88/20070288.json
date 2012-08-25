@@ -40,18 +40,17 @@
           23424988
         ], 
         "name": "Madaba", 
-        "ne_latitude": 31.863, 
         "hierarchy": [
           "woe:state=20070288", 
           "woe:country=23424860", 
           "woe:planet=1"
         ], 
-        "woeid": 20070288, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.879, 
         "longitude": 35.685, 
         "placetype": "state", 
         "iso": "JO", 
-        "date_indexed": "2010-12-02T12:08:06Z", 
+        "sw_latitude": 31.397, 
         "adjacent": [
           "woe:state=20070289", 
           "woe:state=2345927", 
@@ -59,7 +58,7 @@
           "woe:state=2345791", 
           "woe:state=23424988"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.863, 
         "latitude": 31.638, 
         "sw_longitude": 35.475, 
         "fullname": "Madaba, Jordan", 
@@ -94,7 +93,8 @@
           "woe:town=1968854", 
           "woe:landfeature=55863649"
         ], 
-        "sw_latitude": 31.397
+        "date_indexed": "2010-12-02T12:08:06Z", 
+        "woe:id": 20070288
       }, 
       "id": 20070288
     }

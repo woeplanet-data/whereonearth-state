@@ -46,19 +46,18 @@
           "woe:country=23424852", 
           "woe:planet=1"
         ], 
-        "woeid": 2345796, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.232, 
         "longitude": 35.038, 
-        "ne_latitude": 31.844, 
         "placetype": "state", 
         "iso": "IL", 
-        "date_indexed": "2010-12-02T08:53:01Z", 
+        "sw_latitude": 31.588, 
         "adjacent": [
           "woe:state=2345792", 
           "woe:state=2345791", 
           "woe:state=23424988"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.844, 
         "latitude": 31.716, 
         "sw_longitude": 34.844, 
         "fullname": "Jerusalem, Yerushalayim, Israel", 
@@ -130,7 +129,8 @@
           "woe:town=1968140", 
           "woe:town=1968141"
         ], 
-        "sw_latitude": 31.588
+        "date_indexed": "2010-12-02T08:53:01Z", 
+        "woe:id": 2345796
       }, 
       "id": 2345796
     }

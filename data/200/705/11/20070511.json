@@ -49,13 +49,12 @@
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 20070511, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 59.713, 
         "longitude": 56.75, 
-        "ne_latitude": 61.648, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 56.092, 
         "adjacent": [
           "woe:state=2346866", 
           "woe:state=2346902", 
@@ -64,7 +63,7 @@
           "woe:state=2346926", 
           "woe:state=2346880"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 61.648, 
         "latitude": 58.87, 
         "sw_longitude": 53.787, 
         "fullname": "Permskiy Kray, Russia", 
@@ -113,7 +112,8 @@
           "woe:county=12599066", 
           "woe:county=24505203"
         ], 
-        "sw_latitude": 56.092
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 20070511
       }, 
       "id": 20070511
     }

@@ -39,25 +39,24 @@
           12578035
         ], 
         "name": "Portalegre", 
-        "ne_latitude": 39.663, 
         "hierarchy": [
           "woe:state=2346574", 
           "woe:country=23424925", 
           "woe:planet=1"
         ], 
-        "woeid": 2346574, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -6.951, 
         "longitude": -7.648, 
         "placetype": "state", 
         "iso": "PT", 
-        "date_indexed": "2010-12-02T09:58:14Z", 
+        "sw_latitude": 38.752, 
         "adjacent": [
           "woe:state=2346566", 
           "woe:state=2346568", 
           "woe:state=12578035", 
           "woe:state=2346576"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.663, 
         "latitude": 39.208, 
         "sw_longitude": -8.344, 
         "fullname": "Portalegre, Portugal", 
@@ -79,7 +78,8 @@
           "woe:county=12596504", 
           "woe:landfeature=56058362"
         ], 
-        "sw_latitude": 38.752
+        "date_indexed": "2010-12-02T09:58:14Z", 
+        "woe:id": 2346574
       }, 
       "id": 2346574
     }

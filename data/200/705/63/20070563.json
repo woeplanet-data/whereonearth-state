@@ -633,8 +633,7 @@
         "ne:Shape_Area": 0.260575699432, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:MAP_COLOR": 3, 
         "alias_POR_Q": [
           "Irlanda do Norte"
         ], 
@@ -670,16 +669,12 @@
         "alias_CHI_Q": [
           "\u5317\u611b\u723e\u862d"
         ], 
-        "alias_SPA_Q": [
-          "Irlanda del Norte"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Irlanda del Nord"
         ], 
-        "alias_DAN_Q": [
-          "Nordirland"
-        ], 
-        "ne:DataRank": 5, 
+        "ne:Area_sqkm": 1886.0, 
+        "ne:OBJECTID": 2136, 
         "alias_CHI_V": [
           "\u5317\u7231\u5c14\u5170"
         ], 
@@ -687,7 +682,9 @@
           "\u5317\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9"
         ], 
         "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Irlanda del Norte"
+        ], 
         "alias_FIN_Q": [
           "Pohjois-Irlanti"
         ], 
@@ -704,14 +701,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "District", 
         "date_indexed": "2010-12-02T12:16:52Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 2136, 
+        "ne:VertexCou": 128.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 5, 
         "ne:Postal": "FE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
         "ne:ISO": "GBR", 
-        "ne:TYPE_1": "District", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 2.92051041123, 
         "alias_DUT_Q": [
@@ -720,20 +717,22 @@
         "ne:NAME_0": "United Kingdom", 
         "ne:NAME_1": "Fermanagh", 
         "ne:Region_C_1": "Northern Ireland", 
-        "ne:sameAsCity": -99, 
+        "ne:TYPE_1": "District", 
         "ne:LabelRank": 9, 
-        "ne:Area_sqkm": 1886.0, 
+        "alias_DAN_Q": [
+          "Nordirland"
+        ], 
         "alias_GER_Q": [
           "Nordirland"
         ], 
         "woe:id": "20070563", 
-        "name": "Northern Ireland", 
-        "ne:VertexCou": 128.0, 
+        "ne:HASC_1": "GB.FE", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2345253
         ], 
         "ne:FIRST_FIPS": "UKS2", 
-        "ne:HASC_1": "GB.FE", 
+        "name": "Northern Ireland", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "ne_longitude": -7.146509161868266, 
@@ -745,12 +744,13 @@
           "Nord Irlande"
         ], 
         "fullname": "Northern Ireland, United Kingdom", 
+        "alias_FRE_Q": [
+          "Irlande du Nord"
+        ], 
         "ne:Region": "Northern Ireland", 
         "ne:NEV_Countr": "United Kingdom", 
         "ne:RegionVar": null, 
-        "alias_FRE_Q": [
-          "Irlande du Nord"
-        ]
+        "ne:sameAsCity": -99
       }, 
       "id": 20070563
     }

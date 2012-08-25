@@ -38,24 +38,23 @@
           20069868
         ], 
         "name": "Quthing", 
-        "ne_latitude": -30.022, 
         "hierarchy": [
           "woe:state=20069867", 
           "woe:country=23424880", 
           "woe:planet=1"
         ], 
-        "woeid": 20069867, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 28.374, 
         "longitude": 27.967, 
         "placetype": "state", 
         "iso": "LS", 
-        "date_indexed": "2010-12-02T08:57:23Z", 
+        "sw_latitude": -30.674, 
         "adjacent": [
           "woe:state=2346979", 
           "woe:state=20069868", 
           "woe:state=20069866"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -30.022, 
         "latitude": -30.348, 
         "sw_longitude": 27.561, 
         "fullname": "Quthing, Lesotho", 
@@ -66,7 +65,8 @@
           "woe:county=55881674", 
           "woe:county=55881622"
         ], 
-        "sw_latitude": -30.674
+        "date_indexed": "2010-12-02T08:57:23Z", 
+        "woe:id": 20069867
       }, 
       "id": 20069867
     }

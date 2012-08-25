@@ -41,18 +41,17 @@
           20070065
         ], 
         "name": "Vratsa", 
-        "ne_latitude": 43.804, 
         "hierarchy": [
           "woe:state=20070057", 
           "woe:country=23424771", 
           "woe:planet=1"
         ], 
-        "woeid": 20070057, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 24.323, 
         "longitude": 23.819, 
         "placetype": "state", 
         "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
+        "sw_latitude": 42.995, 
         "adjacent": [
           "woe:state=2346631", 
           "woe:state=20070064", 
@@ -61,7 +60,7 @@
           "woe:state=20070065", 
           "woe:state=20070061"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.804, 
         "latitude": 43.4, 
         "sw_longitude": 23.315, 
         "fullname": "Vratsa, Bulgaria", 
@@ -77,7 +76,8 @@
           "woe:county=55873884", 
           "woe:county=55873719"
         ], 
-        "sw_latitude": 42.995
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "woe:id": 20070057
       }, 
       "id": 20070057
     }

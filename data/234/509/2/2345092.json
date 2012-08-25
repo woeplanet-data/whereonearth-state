@@ -40,15 +40,34 @@
           2345104
         ], 
         "name": "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef", 
-        "ne_latitude": 5.383, 
         "hierarchy": [
           "woe:state=2345092", 
           "woe:country=23424792", 
           "woe:planet=1"
         ], 
-        "woeid": 2345092, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 17.115, 
         "longitude": 15.897, 
+        "alias_FRE_S": [
+          "Mambere-Kadei"
+        ], 
+        "placetype": "state", 
+        "latitude": 4.53, 
+        "iso": "CF", 
+        "sw_latitude": 3.676, 
+        "adjacent": [
+          "woe:state=2345033", 
+          "woe:state=2345095", 
+          "woe:state=2345097", 
+          "woe:state=2345104", 
+          "woe:state=2345103"
+        ], 
+        "ne_latitude": 5.383, 
+        "alias_FRE_V": [
+          "Haute-Sangha"
+        ], 
+        "sw_longitude": 14.678, 
+        "fullname": "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef, Central African Republic", 
         "children": [
           "woe:county=55998364", 
           "woe:county=55998319", 
@@ -58,27 +77,8 @@
           "woe:county=55998359", 
           "woe:county=55998363"
         ], 
-        "placetype": "state", 
-        "alias_FRE_V": [
-          "Haute-Sangha"
-        ], 
-        "iso": "CF", 
         "date_indexed": "2010-12-02T17:43:23Z", 
-        "adjacent": [
-          "woe:state=2345033", 
-          "woe:state=2345095", 
-          "woe:state=2345097", 
-          "woe:state=2345104", 
-          "woe:state=2345103"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 4.53, 
-        "sw_longitude": 14.678, 
-        "fullname": "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef, Central African Republic", 
-        "alias_FRE_S": [
-          "Mambere-Kadei"
-        ], 
-        "sw_latitude": 3.676
+        "woe:id": 2345092
       }, 
       "id": 2345092
     }

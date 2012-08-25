@@ -44,18 +44,17 @@
           "woe:country=23424793", 
           "woe:planet=1"
         ], 
-        "woeid": 2345106, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -82.834, 
         "longitude": -83.896, 
         "placetype": "state", 
+        "latitude": 22.39, 
         "iso": "CU", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 21.76, 
         "adjacent": [
           "woe:state=2345115"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 23.021, 
-        "latitude": 22.39, 
         "sw_longitude": -84.957, 
         "fullname": "Pinar del Rio, Cuba", 
         "children": [
@@ -127,7 +126,8 @@
           "woe:island=12483760", 
           "woe:island=12483783"
         ], 
-        "sw_latitude": 21.76
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "woe:id": 2345106
       }, 
       "id": 2345106
     }

@@ -44,18 +44,17 @@
           2347667
         ], 
         "name": "Qoraqalpoghiston", 
-        "ne_latitude": 45.605, 
         "hierarchy": [
           "woe:state=2347663", 
           "woe:country=23424980", 
           "woe:planet=1"
         ], 
-        "woeid": 2347663, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 62.739, 
         "longitude": 59.368, 
         "placetype": "state", 
         "iso": "UZ", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
+        "sw_latitude": 41.112, 
         "adjacent": [
           "woe:state=2345980", 
           "woe:state=2347660", 
@@ -67,7 +66,7 @@
           "woe:state=2345990", 
           "woe:state=2347351"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 45.605, 
         "latitude": 43.358, 
         "sw_longitude": 55.997, 
         "fullname": "Qoraqalpoghiston, Uzbekistan", 
@@ -138,7 +137,8 @@
           "woe:airport=12522693", 
           "woe:airport=12522694"
         ], 
-        "sw_latitude": 41.112
+        "date_indexed": "2010-12-02T18:18:47Z", 
+        "woe:id": 2347663
       }, 
       "id": 2347663
     }

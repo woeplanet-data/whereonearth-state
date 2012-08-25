@@ -40,18 +40,17 @@
           20069914
         ], 
         "name": "Janub Kurdufan", 
-        "ne_latitude": 12.677, 
         "hierarchy": [
           "woe:state=20069910", 
           "woe:country=23424952", 
           "woe:planet=1"
         ], 
-        "woeid": 20069910, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.443, 
         "longitude": 30.699, 
         "placetype": "state", 
         "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
+        "sw_latitude": 9.66, 
         "adjacent": [
           "woe:state=20069908", 
           "woe:state=20069907", 
@@ -59,7 +58,7 @@
           "woe:state=20069911", 
           "woe:state=20069912"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.677, 
         "latitude": 11.168, 
         "sw_longitude": 28.956, 
         "fullname": "Janub Kurdufan, Sudan", 
@@ -110,7 +109,8 @@
           "woe:town=1437335", 
           "woe:town=1437412"
         ], 
-        "sw_latitude": 9.66
+        "date_indexed": "2010-12-02T08:50:49Z", 
+        "woe:id": 20069910
       }, 
       "id": 20069910
     }

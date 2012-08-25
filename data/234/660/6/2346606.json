@@ -36,22 +36,21 @@
           2346604
         ], 
         "name": "Bolama", 
-        "ne_latitude": 11.684, 
         "hierarchy": [
           "woe:state=2346606", 
           "woe:country=23424929", 
           "woe:planet=1"
         ], 
-        "woeid": 2346606, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -15.329, 
         "longitude": -16.15, 
         "placetype": "state", 
         "iso": "GW", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 10.866, 
         "adjacent": [
           "woe:state=2346604"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.684, 
         "latitude": 11.112, 
         "sw_longitude": -16.49, 
         "fullname": "Bolama, Guinea-Bissau", 
@@ -101,7 +100,8 @@
           "woe:island=12466259", 
           "woe:island=12466260"
         ], 
-        "sw_latitude": 10.866
+        "date_indexed": "2010-12-02T09:57:34Z", 
+        "woe:id": 2346606
       }, 
       "id": 2346606
     }

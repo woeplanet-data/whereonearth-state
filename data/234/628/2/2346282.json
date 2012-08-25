@@ -38,32 +38,31 @@
           2346291, 
           2346295
         ], 
+        "alias_ENG_A": [
+          "NL"
+        ], 
         "name": "Nuevo Leon", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=2346282", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "alias_SPA_V": [
+          "Nuevoleon"
+        ], 
+        "ne_longitude": -98.423, 
+        "longitude": -99.814, 
+        "ne_latitude": 27.799, 
+        "sw_longitude": -101.206, 
+        "sw_latitude": 23.165, 
         "adjacent": [
           "woe:state=2346270", 
           "woe:state=2346287", 
           "woe:state=2346291", 
           "woe:state=2346295"
         ], 
-        "hierarchy": [
-          "woe:state=2346282", 
-          "woe:country=23424900", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2346282, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -98.423, 
-        "longitude": -99.814, 
-        "ne_latitude": 27.799, 
-        "placetype": "state", 
-        "sw_longitude": -101.206, 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "NL"
-        ], 
-        "alias_SPA_V": [
-          "Nuevoleon"
-        ], 
         "latitude": 25.482, 
         "iso": "MX", 
         "fullname": "Nuevo Leon, Mexico", 
@@ -123,7 +122,8 @@
           "woe:town=123978", 
           "woe:town=134047"
         ], 
-        "sw_latitude": 23.165
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "woe:id": 2346282
       }, 
       "id": 2346282
     }

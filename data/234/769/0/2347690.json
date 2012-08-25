@@ -39,13 +39,12 @@
           2347699
         ], 
         "name": "M\u00e9rida", 
-        "ne_latitude": 9.324, 
         "hierarchy": [
           "woe:state=2347690", 
           "woe:country=23424982", 
           "woe:planet=1"
         ], 
-        "woeid": 2347690, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -70.44, 
         "longitude": -71.155, 
         "placetype": "state", 
@@ -53,14 +52,14 @@
           "Merida"
         ], 
         "iso": "VE", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
+        "sw_latitude": 7.609, 
         "adjacent": [
           "woe:state=2347681", 
           "woe:state=2347696", 
           "woe:state=2347697", 
           "woe:state=2347699"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.324, 
         "latitude": 8.467, 
         "sw_longitude": -71.87, 
         "fullname": "M\u00e9rida, Venezuela", 
@@ -89,7 +88,8 @@
           "woe:county=26804756", 
           "woe:county=26804721"
         ], 
-        "sw_latitude": 7.609
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "woe:id": 2347690
       }, 
       "id": 2347690
     }

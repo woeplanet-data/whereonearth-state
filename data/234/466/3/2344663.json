@@ -39,25 +39,24 @@
           2344664
         ], 
         "name": "Huambo", 
-        "ne_latitude": -11.416, 
         "hierarchy": [
           "woe:state=2344663", 
           "woe:country=23424745", 
           "woe:planet=1"
         ], 
-        "woeid": 2344663, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 16.597, 
         "longitude": 15.698, 
         "placetype": "state", 
         "iso": "AO", 
-        "date_indexed": "2010-12-02T17:52:14Z", 
+        "sw_latitude": -13.762, 
         "adjacent": [
           "woe:state=2344656", 
           "woe:state=2344657", 
           "woe:state=2344661", 
           "woe:state=2344664"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -11.416, 
         "latitude": -12.589, 
         "sw_longitude": 14.799, 
         "fullname": "Huambo, Angola", 
@@ -125,7 +124,8 @@
           "woe:town=1265337", 
           "woe:town=1265338"
         ], 
-        "sw_latitude": -13.762
+        "date_indexed": "2010-12-02T17:52:14Z", 
+        "woe:id": 2344663
       }, 
       "id": 2344663
     }

@@ -7884,7 +7884,7 @@
         "ne:Shape_Area": 5.83489515228, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 12, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NOR", 
         "children": [
@@ -7930,7 +7930,7 @@
           "woe:drainage=29362137", 
           "woe:drainage=29360820"
         ], 
-        "ne:OBJECTID": 900, 
+        "ne:DataRank": 7, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 15.638766717010412, 
@@ -7947,9 +7947,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 68.35071198177258, 
-        "ne:VertexCou": 1916.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "NOR", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 900, 
         "ne:Postal": "TR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Troms fylke|Troms\u00f8|Troms-Fylki", 
@@ -7965,15 +7965,15 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 25715.0, 
         "woe:id": "2346401", 
-        "ne:HASC_1": "NO.TR", 
-        "lang": "NOR", 
+        "name": "Troms Fylke", 
+        "ne:VertexCou": 1916.0, 
         "adjacent_woeid": [
           2346388, 
           2346392, 
           2347057, 
           29389263
         ], 
-        "name": "Troms Fylke", 
+        "ne:HASC_1": "NO.TR", 
         "ne:REMARKS_1": null, 
         "alias_NOR_V": [
           "Troms"

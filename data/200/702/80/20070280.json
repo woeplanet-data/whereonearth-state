@@ -41,18 +41,17 @@
           20070282
         ], 
         "name": "Salyan", 
-        "ne_latitude": 39.934, 
         "hierarchy": [
           "woe:state=20070280", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070280, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 49.417, 
         "longitude": 49.052, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 39.315, 
         "adjacent": [
           "woe:state=20070216", 
           "woe:state=20070218", 
@@ -61,7 +60,7 @@
           "woe:state=20070241", 
           "woe:state=20070281"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.934, 
         "latitude": 39.754, 
         "sw_longitude": 48.726, 
         "fullname": "Salyan, Azerbaijan", 
@@ -69,7 +68,8 @@
           "woe:town=1952002", 
           "woe:town=1952018"
         ], 
-        "sw_latitude": 39.315
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070280
       }, 
       "id": 20070280
     }

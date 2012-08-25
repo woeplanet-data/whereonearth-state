@@ -43,7 +43,24 @@
           2345020, 
           2346450
         ], 
+        "alias_ENG_A": [
+          "S"
+        ], 
         "name": "Salta", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=2344691", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "alias_SPA_V": [
+          "Provincia de Salta"
+        ], 
+        "ne_longitude": -62.341, 
+        "longitude": -63.251, 
+        "ne_latitude": -22.003, 
+        "sw_longitude": -68.577, 
+        "sw_latitude": -26.398, 
         "adjacent": [
           "woe:state=2345020", 
           "woe:state=2346450", 
@@ -55,25 +72,7 @@
           "woe:state=2344809", 
           "woe:state=2344698"
         ], 
-        "hierarchy": [
-          "woe:state=2344691", 
-          "woe:country=23424747", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2344691, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -62.341, 
-        "longitude": -63.251, 
-        "ne_latitude": -22.003, 
-        "placetype": "state", 
-        "sw_longitude": -68.577, 
-        "date_indexed": "2010-12-02T17:40:36Z", 
-        "alias_ENG_A": [
-          "S"
-        ], 
-        "alias_SPA_V": [
-          "Provincia de Salta"
-        ], 
         "latitude": -24.198, 
         "iso": "AR", 
         "fullname": "Salta, Argentina", 
@@ -102,7 +101,8 @@
           "woe:county=20070844", 
           "woe:county=20070736"
         ], 
-        "sw_latitude": -26.398
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "woe:id": 2344691
       }, 
       "id": 2344691
     }

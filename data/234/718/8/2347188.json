@@ -48,13 +48,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347188, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 100.337, 
         "longitude": 99.786, 
-        "ne_latitude": 9.328, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 7.838, 
         "adjacent": [
           "woe:state=2347187", 
           "woe:state=2347190", 
@@ -62,7 +61,7 @@
           "woe:state=2347184", 
           "woe:state=2347189"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.328, 
         "latitude": 8.581, 
         "sw_longitude": 99.234, 
         "fullname": "Nakhon Si Thammarat, Thailand", 
@@ -95,7 +94,8 @@
           "woe:landfeature=56057340", 
           "woe:landfeature=56057392"
         ], 
-        "sw_latitude": 7.838
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347188
       }, 
       "id": 2347188
     }

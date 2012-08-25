@@ -42,7 +42,24 @@
           2346282, 
           2346287
         ], 
+        "alias_ENG_A": [
+          "ZA"
+        ], 
         "name": "Zacatecas", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=2346295", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "alias_SPA_V": [
+          "Estado de Zacatecas"
+        ], 
+        "ne_longitude": -100.742, 
+        "longitude": -102.535, 
+        "ne_latitude": 25.125, 
+        "sw_longitude": -104.328, 
+        "sw_latitude": 21.042, 
         "adjacent": [
           "woe:state=2346264", 
           "woe:state=2346270", 
@@ -53,25 +70,7 @@
           "woe:state=2346282", 
           "woe:state=2346287"
         ], 
-        "hierarchy": [
-          "woe:state=2346295", 
-          "woe:country=23424900", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2346295, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -100.742, 
-        "longitude": -102.535, 
-        "ne_latitude": 25.125, 
-        "placetype": "state", 
-        "sw_longitude": -104.328, 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "ZA"
-        ], 
-        "alias_SPA_V": [
-          "Estado de Zacatecas"
-        ], 
         "latitude": 23.083, 
         "iso": "MX", 
         "fullname": "Zacatecas, Mexico", 
@@ -136,7 +135,8 @@
           "woe:county=12602087", 
           "woe:town=124243"
         ], 
-        "sw_latitude": 21.042
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "woe:id": 2346295
       }, 
       "id": 2346295
     }

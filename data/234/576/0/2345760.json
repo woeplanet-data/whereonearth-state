@@ -8455,7 +8455,7 @@
         "ne:Shape_Area": 21.8397879594, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "UP"
         ], 
@@ -8537,7 +8537,7 @@
         "alias_CHI_Q": [
           "\u5317\u65b9\u90a6"
         ], 
-        "ne:OBJECTID": 3253, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30a6\u30c3\u30bf\u30eb\u30d7\u30e9\u30c7\u30b7\u5dde"
         ], 
@@ -8565,9 +8565,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 23.91104726841678, 
-        "ne:VertexCou": 2096.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3253, 
         "ne:Postal": "UP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "United Provinces", 
@@ -8583,8 +8583,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 240262.4, 
         "woe:id": "2345760", 
-        "ne:HASC_1": "IN.UP", 
-        "lang": "ENG", 
+        "name": "Uttar Pradesh", 
+        "ne:VertexCou": 2096.0, 
         "adjacent_woeid": [
           2345742, 
           2345744, 
@@ -8599,7 +8599,7 @@
           20070463, 
           20070464
         ], 
-        "name": "Uttar Pradesh", 
+        "ne:HASC_1": "IN.UP", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 84.6124377786806, 
         "longitude": 80.862, 

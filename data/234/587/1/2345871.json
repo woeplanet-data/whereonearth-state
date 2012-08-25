@@ -1030,7 +1030,7 @@
         "ne:Shape_Area": 0.453395971058, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ucfc4\ud1a0\ud6c4"
         ], 
@@ -1069,7 +1069,7 @@
           "woe:historicalcounty=24855366"
         ], 
         "ne:ScaleRank": 6, 
-        "ne:OBJECTID": 1850, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u4eac\u90fd"
         ], 
@@ -1096,9 +1096,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Urban Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 249.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1850, 
         "ne:Postal": "KY", 
         "ne:Region_Cod": "JPN-KIN", 
         "ne:VARNAME_1": "Kioto", 
@@ -1117,8 +1117,8 @@
           "Pr\u00e4fektur Kyoto"
         ], 
         "woe:id": "2345871", 
-        "ne:HASC_1": "JP.KY", 
-        "lang": "JPN", 
+        "name": "\u4eac\u90fd\u5e9c", 
+        "ne:VertexCou": 249.0, 
         "adjacent_woeid": [
           2345856, 
           2345862, 
@@ -1128,7 +1128,7 @@
           2345884
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "\u4eac\u90fd\u5e9c", 
+        "ne:HASC_1": "JP.KY", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 136.03648237556126, 
         "longitude": 135.455, 

@@ -32,27 +32,27 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "ne_latitude": -12.75, 
         "name": "Pamandzi", 
         "hierarchy": [
           "woe:state=24549764", 
           "woe:country=23424886", 
           "woe:planet=1"
         ], 
-        "woeid": 24549764, 
+        "ne_latitude": -12.75, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.317, 
         "longitude": 45.275, 
         "placetype": "state", 
         "iso": "YT", 
-        "sw_latitude": -12.812, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:57Z", 
         "latitude": -12.784, 
         "sw_longitude": 45.257, 
         "fullname": "Pamandzi, Mayotte", 
         "children": [
           "woe:town=1365557"
         ], 
-        "date_indexed": "2010-12-02T16:11:57Z"
+        "sw_latitude": -12.812, 
+        "woe:id": 24549764
       }, 
       "id": 24549764
     }

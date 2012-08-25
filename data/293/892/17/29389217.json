@@ -2674,7 +2674,7 @@
         "ne:Shape_Area": 0.380865497842, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 10, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "SRB", 
         "children": [
@@ -2738,7 +2738,7 @@
           "woe:town=533122", 
           "woe:town=537741"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 836, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 19.961190219952755, 
@@ -2758,9 +2758,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "City", 
         "sw_latitude": 44.24045237877431, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 10, 
-        "ne:OBJECTID": 836, 
+        "ne:VertexCou": 662.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "BG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Belgrade", 
@@ -2776,8 +2776,8 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 3358.6, 
         "woe:id": "29389217", 
-        "name": "Beograd", 
-        "ne:VertexCou": 662.0, 
+        "ne:HASC_1": "RS.BG", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           29389197, 
           29389202, 
@@ -2787,7 +2787,7 @@
           29389222, 
           29389225
         ], 
-        "ne:HASC_1": "RS.BG", 
+        "name": "Beograd", 
         "ne:REMARKS_1": null, 
         "alias_UNK_Q": [
           "Belgrade"

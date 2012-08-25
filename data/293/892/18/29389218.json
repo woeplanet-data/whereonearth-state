@@ -38,16 +38,15 @@
           29389215
         ], 
         "name": "Kosovsko Pomoravlje", 
-        "ne_latitude": 42.75, 
         "hierarchy": [
           "woe:state=29389218", 
           "woe:country=20069818", 
           "woe:planet=1"
         ], 
-        "woeid": 29389218, 
         "alias_UNK_Q": [
           "Kosovsko-Pomoravski"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Kosovsko-Pomoravski Okrug"
         ], 
@@ -55,13 +54,13 @@
         "ne_longitude": 21.762, 
         "placetype": "state", 
         "iso": "RS", 
-        "sw_latitude": 42.244, 
+        "date_indexed": "2010-12-02T10:22:30Z", 
         "adjacent": [
           "woe:state=29389208", 
           "woe:state=29389201", 
           "woe:state=29389215"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.75, 
         "latitude": 42.493, 
         "sw_longitude": 21.258, 
         "fullname": "Kosovsko Pomoravlje, Serbia", 
@@ -89,7 +88,8 @@
           "woe:town=537009", 
           "woe:town=537738"
         ], 
-        "date_indexed": "2010-12-02T10:22:30Z"
+        "sw_latitude": 42.244, 
+        "woe:id": 29389218
       }, 
       "id": 29389218
     }

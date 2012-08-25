@@ -42,18 +42,17 @@
           20070279
         ], 
         "name": "Quba", 
-        "ne_latitude": 41.527, 
         "hierarchy": [
           "woe:state=20070232", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070232, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 48.836, 
         "longitude": 48.386, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 40.88, 
         "adjacent": [
           "woe:state=20070279", 
           "woe:state=20070228", 
@@ -63,7 +62,7 @@
           "woe:state=20070221", 
           "woe:state=20070271"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.527, 
         "latitude": 41.204, 
         "sw_longitude": 47.936, 
         "fullname": "Quba, Azerbaijan", 
@@ -79,7 +78,8 @@
           "woe:town=1950712", 
           "woe:town=1951643"
         ], 
-        "sw_latitude": 40.88
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070232
       }, 
       "id": 20070232
     }

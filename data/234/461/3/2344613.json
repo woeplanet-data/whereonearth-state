@@ -43,18 +43,17 @@
           2347255
         ], 
         "name": "El Oued", 
-        "ne_latitude": 34.497, 
         "hierarchy": [
           "woe:state=2344613", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344613, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 9.129, 
         "longitude": 7.094, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 31.968, 
         "adjacent": [
           "woe:state=2344591", 
           "woe:state=2344594", 
@@ -65,7 +64,7 @@
           "woe:state=2347255", 
           "woe:state=2344603"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.497, 
         "latitude": 33.232, 
         "sw_longitude": 5.059, 
         "fullname": "El Oued, Algeria", 
@@ -110,7 +109,8 @@
           "woe:town=1257990", 
           "woe:town=1258016"
         ], 
-        "sw_latitude": 31.968
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344613
       }, 
       "id": 2344613
     }

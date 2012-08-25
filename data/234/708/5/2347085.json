@@ -819,11 +819,13 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 47.563660386617585, 
-        "ne:DataRank": 7, 
+        "alias_GER_A": [
+          "BL"
+        ], 
         "ne:Shape_Area": 0.0656267771458, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
         "children": [
@@ -837,7 +839,9 @@
         "alias_ITA_Q": [
           "Canton Basilea Campagna"
         ], 
-        "ne:Area_sqkm": 550.1, 
+        "alias_GER_V": [
+          "Kanton Basel-Landschaft"
+        ], 
         "alias_ITA_V": [
           "Basilea Campagna"
         ], 
@@ -859,14 +863,15 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.451, 
+        "iso": "CH", 
         "ne:FIPS_1": "SZ05", 
         "ne:FIRST_FIPS": "SZ03", 
         "ne:FIRST_HASC": "CH.BL|CHE-BLN", 
         "ne:ENGTYPE_1": "Canton", 
         "sw_latitude": 47.33850617132282, 
-        "ne:VertexCou": 6.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:OBJECTID": 3423, 
+        "lang": "GER", 
+        "ne:MAP_COLOR": 3, 
+        "ne:DataRank": 7, 
         "ne:Postal": "BS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -880,15 +885,10 @@
         "ne:Region_C_1": null, 
         "ne:sameAsCity": -99, 
         "ne:LabelRank": 9, 
-        "alias_GER_A": [
-          "BL"
-        ], 
-        "alias_GER_V": [
-          "Kanton Basel-Landschaft"
-        ], 
+        "ne:Area_sqkm": 550.1, 
         "woe:id": "2347085", 
-        "ne:HASC_1": "CH.BS", 
-        "lang": "GER", 
+        "name": "Kanton Basel-Land", 
+        "ne:VertexCou": 6.0, 
         "adjacent_woeid": [
           2345481, 
           2347083, 
@@ -897,7 +897,7 @@
           2347108, 
           7153330
         ], 
-        "name": "Kanton Basel-Land", 
+        "ne:HASC_1": "CH.BS", 
         "ne:REMARKS_1": null, 
         "ne:TYPE_1": "Canton|Kanton|Chantun", 
         "alias_UNK_Q": [
@@ -905,15 +905,15 @@
         ], 
         "ne_longitude": 7.954946322914509, 
         "longitude": 7.823, 
-        "ne:NEV_Countr": null, 
-        "iso": "CH", 
+        "alias_FRE_S": [
+          "Canton de Bale-Campagne"
+        ], 
+        "ne:OBJECTID": 3423, 
         "date_indexed": "2010-12-02T18:19:21Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Kanton Basel-Land, Canton of Basel-Country, Switzerland", 
         "ne:Region": "Basel-Stadt", 
-        "alias_FRE_S": [
-          "Canton de Bale-Campagne"
-        ], 
+        "ne:NEV_Countr": null, 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Canton de B\u00e2le-Campagne"

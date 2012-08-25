@@ -41,18 +41,17 @@
           2346653
         ], 
         "name": "Braila", 
-        "ne_latitude": 45.493, 
         "hierarchy": [
           "woe:state=2346622", 
           "woe:country=23424933", 
           "woe:planet=1"
         ], 
-        "woeid": 2346622, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 28.197, 
         "longitude": 27.634, 
         "placetype": "state", 
         "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
+        "sw_latitude": 44.746, 
         "adjacent": [
           "woe:state=2346625", 
           "woe:state=2346628", 
@@ -61,7 +60,7 @@
           "woe:state=2346650", 
           "woe:state=2346653"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 45.493, 
         "latitude": 45.119, 
         "sw_longitude": 27.07, 
         "fullname": "Braila, Romania", 
@@ -204,7 +203,8 @@
           "woe:town=881690", 
           "woe:town=881408"
         ], 
-        "sw_latitude": 44.746
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "woe:id": 2346622
       }, 
       "id": 2346622
     }

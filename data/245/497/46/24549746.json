@@ -37,27 +37,26 @@
           24549747
         ], 
         "name": "St.-Pierre", 
+        "ne_latitude": 14.877, 
         "hierarchy": [
           "woe:state=24549746", 
           "woe:country=23424884", 
           "woe:planet=1"
         ], 
-        "woeid": 24549746, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -61.076, 
         "longitude": -61.153, 
         "placetype": "state", 
-        "latitude": 14.749, 
+        "alias_FRE_V": [
+          "St-Pierre"
+        ], 
         "iso": "MQ", 
-        "sw_latitude": 14.621, 
+        "date_indexed": "2010-12-02T17:06:00Z", 
         "adjacent": [
           "woe:state=24549745", 
           "woe:state=24549747"
         ], 
-        "ne_latitude": 14.877, 
-        "alias_FRE_V": [
-          "St-Pierre"
-        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.749, 
         "sw_longitude": -61.23, 
         "fullname": "St.-Pierre, Martinique", 
         "children": [
@@ -71,7 +70,8 @@
           "woe:county=24551319", 
           "woe:county=24551317"
         ], 
-        "date_indexed": "2010-12-02T17:06:00Z"
+        "sw_latitude": 14.621, 
+        "woe:id": 24549746
       }, 
       "id": 24549746
     }

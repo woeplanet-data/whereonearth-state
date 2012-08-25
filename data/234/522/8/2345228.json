@@ -45,18 +45,17 @@
           "woe:country=23424802", 
           "woe:planet=1"
         ], 
-        "woeid": 2345228, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 30.105, 
         "longitude": 29.877, 
-        "ne_latitude": 31.332, 
         "placetype": "state", 
         "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
+        "sw_latitude": 30.451, 
         "adjacent": [
           "woe:state=2345225", 
           "woe:state=2345244"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.332, 
         "latitude": 30.891, 
         "sw_longitude": 29.649, 
         "fullname": "Al Iskandariyah, Egypt", 
@@ -76,7 +75,8 @@
           "woe:town=1526626", 
           "woe:poi=22131587"
         ], 
-        "sw_latitude": 30.451
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "woe:id": 2345228
       }, 
       "id": 2345228
     }

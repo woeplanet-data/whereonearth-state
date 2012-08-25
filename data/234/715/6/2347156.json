@@ -47,20 +47,19 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347156, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 102.092, 
         "longitude": 101.732, 
-        "ne_latitude": 6.635, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 5.733, 
         "adjacent": [
           "woe:state=2346298", 
           "woe:state=2347193", 
           "woe:state=2346302", 
           "woe:state=2347194"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 6.635, 
         "latitude": 6.184, 
         "sw_longitude": 101.371, 
         "fullname": "Narathiwat, Thailand", 
@@ -80,7 +79,8 @@
           "woe:county=28341718", 
           "woe:landfeature=56057423"
         ], 
-        "sw_latitude": 5.733
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347156
       }, 
       "id": 2347156
     }

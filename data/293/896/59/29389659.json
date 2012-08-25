@@ -32,27 +32,27 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 15.105, 
         "name": "Tinian", 
         "hierarchy": [
           "woe:state=29389659", 
           "woe:country=23424788", 
           "woe:planet=1"
         ], 
-        "woeid": 29389659, 
+        "ne_latitude": 15.105, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 145.679, 
         "longitude": 145.633, 
         "placetype": "state", 
         "iso": "MP", 
-        "sw_latitude": 14.84, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:08:44Z", 
         "latitude": 15.014, 
         "sw_longitude": 145.541, 
         "fullname": "Tinian, Northern Mariana Islands", 
         "children": [
           "woe:town=29389667"
         ], 
-        "date_indexed": "2010-12-02T12:08:44Z"
+        "sw_latitude": 14.84, 
+        "woe:id": 29389659
       }, 
       "id": 29389659
     }

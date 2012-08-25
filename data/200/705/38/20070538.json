@@ -38,24 +38,23 @@
           20070541
         ], 
         "name": "Mauren", 
-        "ne_latitude": 47.232, 
         "hierarchy": [
           "woe:state=20070538", 
           "woe:country=23424879", 
           "woe:planet=1"
         ], 
-        "woeid": 20070538, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 9.585, 
         "longitude": 9.557, 
         "placetype": "state", 
         "iso": "LI", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
+        "sw_latitude": 47.195, 
         "adjacent": [
           "woe:state=20070537", 
           "woe:state=20070541", 
           "woe:state=2344715"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 47.232, 
         "latitude": 47.213, 
         "sw_longitude": 9.529, 
         "fullname": "Mauren, Liechtenstein", 
@@ -63,7 +62,8 @@
           "woe:town=856450", 
           "woe:town=856444"
         ], 
-        "sw_latitude": 47.195
+        "date_indexed": "2010-12-02T08:51:00Z", 
+        "woe:id": 20070538
       }, 
       "id": 20070538
     }

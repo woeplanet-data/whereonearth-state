@@ -44,12 +44,9 @@
         "ne_latitude": 46.451, 
         "ne_longitude": 17.891, 
         "longitude": 17.816, 
-        "children": [
-          "woe:county=12594520"
-        ], 
         "placetype": "state", 
         "iso": "HU", 
-        "sw_latitude": 46.29, 
+        "date_indexed": "2010-12-02T09:55:38Z", 
         "adjacent": [
           "woe:state=12577924"
         ], 
@@ -60,8 +57,11 @@
         "alias_HUN_S": [
           "Kaposvar"
         ], 
-        "woeid": 56043630, 
-        "date_indexed": "2010-12-02T09:55:38Z"
+        "children": [
+          "woe:county=12594520"
+        ], 
+        "sw_latitude": 46.29, 
+        "woe:id": 56043630
       }, 
       "id": 56043630
     }

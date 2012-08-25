@@ -39,25 +39,24 @@
           56120058
         ], 
         "name": "Tlemcen", 
-        "ne_latitude": 35.333, 
         "hierarchy": [
           "woe:state=2344589", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344589, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -0.792, 
         "longitude": -1.504, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 34.068, 
         "adjacent": [
           "woe:state=2344606", 
           "woe:state=2344619", 
           "woe:state=56120058", 
           "woe:state=2344601"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.333, 
         "latitude": 34.701, 
         "sw_longitude": -2.215, 
         "fullname": "Tlemcen, Algeria", 
@@ -115,7 +114,8 @@
           "woe:town=1257898", 
           "woe:town=1257973"
         ], 
-        "sw_latitude": 34.068
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344589
       }, 
       "id": 2344589
     }

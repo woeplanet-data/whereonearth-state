@@ -46,18 +46,17 @@
           20070403
         ], 
         "name": "Borjomis Raioni", 
-        "ne_latitude": 41.995, 
         "hierarchy": [
           "woe:state=20070349", 
           "woe:country=23424823", 
           "woe:planet=1"
         ], 
-        "woeid": 20070349, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 44.272, 
         "longitude": 43.736, 
         "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
+        "sw_latitude": 41.634, 
         "adjacent": [
           "woe:state=20070352", 
           "woe:state=20070348", 
@@ -71,7 +70,7 @@
           "woe:state=20070354", 
           "woe:state=20070355"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.995, 
         "latitude": 41.815, 
         "sw_longitude": 43.2, 
         "fullname": "Borjomis Raioni, Georgia", 
@@ -90,7 +89,8 @@
           "woe:town=1966090", 
           "woe:town=1966105"
         ], 
-        "sw_latitude": 41.634
+        "date_indexed": "2010-12-02T17:51:52Z", 
+        "woe:id": 20070349
       }, 
       "id": 20070349
     }

@@ -41,21 +41,20 @@
           56059378
         ], 
         "name": "Dengu\u00e9l\u00e9", 
+        "ne_latitude": 10.488, 
         "hierarchy": [
           "woe:state=55966993", 
           "woe:country=23424854", 
           "woe:planet=1"
         ], 
-        "woeid": 55966993, 
         "ne_longitude": -6.563, 
         "longitude": -7.365, 
-        "children": [
-          "woe:county=20069808"
+        "alias_FRE_S": [
+          "Denguele"
         ], 
         "placetype": "state", 
-        "latitude": 9.496, 
         "iso": "CI", 
-        "sw_latitude": 8.504, 
+        "date_indexed": "2010-12-02T09:35:13Z", 
         "adjacent": [
           "woe:state=55966992", 
           "woe:state=56059378", 
@@ -65,13 +64,14 @@
           "woe:state=55967006"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 10.488, 
+        "latitude": 9.496, 
         "sw_longitude": -8.167, 
         "fullname": "Dengu\u00e9l\u00e9, Ivory Coast", 
-        "alias_FRE_S": [
-          "Denguele"
+        "children": [
+          "woe:county=20069808"
         ], 
-        "date_indexed": "2010-12-02T09:35:13Z"
+        "sw_latitude": 8.504, 
+        "woe:id": 55966993
       }, 
       "id": 55966993
     }

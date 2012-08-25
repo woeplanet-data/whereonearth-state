@@ -42,18 +42,17 @@
           2347546
         ], 
         "name": "Rostovskaya Oblast", 
-        "ne_latitude": 50.164, 
         "hierarchy": [
           "woe:state=2346921", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346921, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 44.414, 
         "longitude": 41.319, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 45.944, 
         "adjacent": [
           "woe:state=2347538", 
           "woe:state=2346872", 
@@ -63,7 +62,7 @@
           "woe:state=2346933", 
           "woe:state=2346935"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 50.164, 
         "latitude": 48.054, 
         "sw_longitude": 38.222, 
         "fullname": "Rostovskaya Oblast, Russia", 
@@ -128,7 +127,8 @@
           "woe:county=12599155", 
           "woe:county=12599156"
         ], 
-        "sw_latitude": 45.944
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346921
       }, 
       "id": 2346921
     }

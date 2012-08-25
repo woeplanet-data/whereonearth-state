@@ -9493,7 +9493,7 @@
         "ne:Shape_Area": 13.553479777, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18220330", 
         "alias_POR_Q": [
           "Fl\u00f3rida"
         ], 
@@ -9627,7 +9627,7 @@
         "alias_CHI_Q": [
           "\u4f5b\u7f57\u91cc\u8fbe"
         ], 
-        "ne:OBJECTID": 3542, 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u30d5\u30ed\u30ea\u30c0"
         ], 
@@ -9645,9 +9645,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 24.54263104108975, 
-        "ne:VertexCou": 2282.0, 
-        "ne:VALIDFR_1": "18220330", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3542, 
         "ne:Postal": "FL", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "FL|Fla.", 
@@ -9663,13 +9663,13 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 146797.9, 
         "woe:id": "2347568", 
-        "ne:HASC_1": "US.FL", 
-        "lang": "ENG", 
+        "name": "Florida", 
+        "ne:VertexCou": 2282.0, 
         "adjacent_woeid": [
           2347559, 
           2347569
         ], 
-        "name": "Florida", 
+        "ne:HASC_1": "US.FL", 
         "ne:REMARKS_1": null, 
         "ne:TYPE_1": "State", 
         "ne_longitude": -80.03226932986564, 

@@ -41,18 +41,17 @@
           2346579
         ], 
         "name": "Viseu", 
-        "ne_latitude": 41.215, 
         "hierarchy": [
           "woe:state=2346580", 
           "woe:country=23424925", 
           "woe:planet=1"
         ], 
-        "woeid": 2346580, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -7.304, 
         "longitude": -7.83, 
         "placetype": "state", 
         "iso": "PT", 
-        "date_indexed": "2010-12-02T09:58:14Z", 
+        "sw_latitude": 40.322, 
         "adjacent": [
           "woe:state=2346562", 
           "woe:state=2346565", 
@@ -61,7 +60,7 @@
           "woe:state=2346575", 
           "woe:state=2346579"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.215, 
         "latitude": 40.768, 
         "sw_longitude": -8.356, 
         "fullname": "Viseu, Portugal", 
@@ -91,7 +90,8 @@
           "woe:county=12596477", 
           "woe:county=12596453"
         ], 
-        "sw_latitude": 40.322
+        "date_indexed": "2010-12-02T09:58:14Z", 
+        "woe:id": 2346580
       }, 
       "id": 2346580
     }

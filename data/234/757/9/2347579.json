@@ -4497,7 +4497,7 @@
         "ne:Shape_Area": 2.62841077018, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18001201", 
         "alias_ENG_A": [
           "MD"
         ], 
@@ -4544,7 +4544,7 @@
         "alias_CHI_Q": [
           "\u9a6c\u91cc\u5170"
         ], 
-        "ne:OBJECTID": 3557, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30e1\u30ea\u30fc\u30e9\u30f3\u30c9"
         ], 
@@ -4565,9 +4565,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 37.93125408770601, 
-        "ne:VertexCou": 1108.0, 
-        "ne:VALIDFR_1": "18001201", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3557, 
         "ne:Postal": "MD", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "MD", 
@@ -4583,8 +4583,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 25260.5, 
         "woe:id": "2347579", 
-        "ne:HASC_1": "US.MD", 
-        "lang": "ENG", 
+        "name": "Maryland", 
+        "ne:VertexCou": 1108.0, 
         "adjacent_woeid": [
           2347566, 
           2347567, 
@@ -4592,7 +4592,7 @@
           2347605, 
           2347607
         ], 
-        "name": "Maryland", 
+        "ne:HASC_1": "US.MD", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -75.04386600950869, 
         "longitude": -75.924, 

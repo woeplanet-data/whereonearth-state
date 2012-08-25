@@ -32,20 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 14.202, 
         "name": "Rota", 
         "hierarchy": [
           "woe:state=29389660", 
           "woe:country=23424788", 
           "woe:planet=1"
         ], 
-        "woeid": 29389660, 
+        "ne_latitude": 14.202, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 145.295, 
         "longitude": 145.211, 
         "placetype": "state", 
         "iso": "MP", 
-        "sw_latitude": 14.107, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:08:44Z", 
         "latitude": 14.155, 
         "sw_longitude": 145.127, 
         "fullname": "Rota, Northern Mariana Islands", 
@@ -53,7 +52,8 @@
           "woe:town=29389669", 
           "woe:town=29389668"
         ], 
-        "date_indexed": "2010-12-02T12:08:44Z"
+        "sw_latitude": 14.107, 
+        "woe:id": 29389660
       }, 
       "id": 29389660
     }

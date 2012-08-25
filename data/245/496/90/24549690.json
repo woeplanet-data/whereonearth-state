@@ -36,27 +36,26 @@
           24549689
         ], 
         "name": "Nor\u00f0oy", 
-        "ne_latitude": 62.401, 
+        "alias_DAN_S": [
+          "Nordoy"
+        ], 
         "hierarchy": [
           "woe:state=24549690", 
           "woe:country=23424816", 
           "woe:planet=1"
         ], 
-        "woeid": 24549690, 
-        "sw_latitude": 62.18, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -6.259, 
         "longitude": -6.463, 
         "placetype": "state", 
         "sw_longitude": -6.815, 
-        "iso": "FO", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
         "adjacent": [
           "woe:state=24549689"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 62.401, 
         "latitude": 62.29, 
-        "alias_DAN_S": [
-          "Nordoy"
-        ], 
+        "iso": "FO", 
         "fullname": "Nor\u00f0oy, Faroe Islands", 
         "children": [
           "woe:town=472619", 
@@ -82,7 +81,8 @@
           "woe:island=12473088", 
           "woe:island=12473102"
         ], 
-        "date_indexed": "2010-12-02T08:52:18Z"
+        "sw_latitude": 62.18, 
+        "woe:id": 24549690
       }, 
       "id": 24549690
     }

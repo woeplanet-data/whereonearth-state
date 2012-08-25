@@ -644,7 +644,7 @@
         "ne:Shape_Area": 0.341711138955, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 12, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NOR", 
         "children": [
@@ -666,7 +666,7 @@
           "woe:drainage=29359187", 
           "woe:drainage=29359450"
         ], 
-        "ne:OBJECTID": 923, 
+        "ne:DataRank": 7, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 9.770132684176076, 
@@ -681,9 +681,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 58.95578156166977, 
-        "ne:VertexCou": 152.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "NOR", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 923, 
         "ne:Postal": "VF", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Vestfold fylke|Jarlsberg og Larvik", 
@@ -699,13 +699,13 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 2166.2, 
         "woe:id": "2346403", 
-        "ne:HASC_1": "NO.VF", 
-        "lang": "NOR", 
+        "name": "Vestfold Fylke", 
+        "ne:VertexCou": 152.0, 
         "adjacent_woeid": [
           2346387, 
           2346400
         ], 
-        "name": "Vestfold Fylke", 
+        "ne:HASC_1": "NO.VF", 
         "ne:REMARKS_1": null, 
         "alias_NOR_V": [
           "Vestfold"

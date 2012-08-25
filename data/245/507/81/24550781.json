@@ -31,6 +31,33 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Krivogastani Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550781", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 41.434, 
+        "ne_longitude": 21.445, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=482359", 
+          "woe:town=482639", 
+          "woe:town=483208"
+        ], 
+        "sw_longitude": 21.284, 
+        "adjacent": [
+          "woe:state=24550763", 
+          "woe:state=24550782", 
+          "woe:state=24550789", 
+          "woe:state=24550799"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.339, 
+        "woe:id": 24550781, 
+        "sw_latitude": 41.244, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550763, 
@@ -39,43 +66,16 @@
           24550799
         ], 
         "name": "Krivoga\u0161tani", 
-        "alias_ENG_P": [
-          "Krivogastani Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Krivogastani"
-        ], 
-        "woeid": 24550781, 
-        "children": [
-          "woe:town=482359", 
-          "woe:town=482639", 
-          "woe:town=483208"
         ], 
         "alias_UNK_V": [
           "Opstina Krivoga\u0161tani"
         ], 
         "longitude": 21.364, 
-        "ne_longitude": 21.445, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550781", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550763", 
-          "woe:state=24550782", 
-          "woe:state=24550789", 
-          "woe:state=24550799"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.434, 
-        "sw_longitude": 21.284, 
-        "latitude": 41.339, 
-        "fullname": "Krivoga\u0161tani, Krivogastani Municipality, Macedonia", 
-        "sw_latitude": 41.244
+        "fullname": "Krivoga\u0161tani, Krivogastani Municipality, Macedonia"
       }, 
       "id": 24550781
     }

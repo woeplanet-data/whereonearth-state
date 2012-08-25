@@ -32,24 +32,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 9.561, 
         "name": "Wotje", 
         "hierarchy": [
           "woe:state=24549861", 
           "woe:country=23424932", 
           "woe:planet=1"
         ], 
-        "woeid": 24549861, 
+        "ne_latitude": 9.561, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 170.248, 
         "longitude": 170.243, 
         "placetype": "state", 
         "iso": "MH", 
-        "sw_latitude": 9.371, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
         "latitude": 9.457, 
         "sw_longitude": 169.843, 
         "fullname": "Wotje, Marshall Islands", 
-        "date_indexed": "2010-12-02T09:35:31Z"
+        "woe:id": 24549861, 
+        "sw_latitude": 9.371
       }, 
       "id": 24549861
     }

@@ -2838,11 +2838,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 41.26280467359686, 
-        "ne:RegionVar": null, 
+        "ne:OBJECTID": 815, 
         "ne:Shape_Area": 2.54667896995, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "alias_POR_Q": [
           "Sardenha"
         ], 
@@ -2850,6 +2850,7 @@
           "\uc0ac\ub974\ub514\ub2c8\uc544"
         ], 
         "ne:gadm_level": 1.0, 
+        "ne:sameAsCity": -99, 
         "ne:ADM0_A3": "ITA", 
         "children": [
           "woe:landfeature=56058407", 
@@ -2876,23 +2877,25 @@
         "alias_ITA_S": [
           "Sardinia Regione"
         ], 
-        "alias_SPA_Q": [
-          "Cerde\u00f1a"
+        "ne:VALIDTO_1": "Unknown", 
+        "alias_DAN_Q": [
+          "Sardinien"
         ], 
-        "ne:Area_sqkm": 24114.1, 
         "alias_ITA_V": [
           "Sardegna Regione"
         ], 
         "alias_JPN_Q": [
           "\u30b5\u30eb\u30b8\u30cb\u30a2"
         ], 
-        "alias_SPA_S": [
-          "Cerdenya"
-        ], 
-        "ne:Abbrev": null, 
-        "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
           "SD"
+        ], 
+        "ne:Abbrev": null, 
+        "alias_SPA_Q": [
+          "Cerde\u00f1a"
+        ], 
+        "alias_SPA_S": [
+          "Cerdenya"
         ], 
         "sw_longitude": 8.13400516080958, 
         "provider": "geoplanet 7.6.0", 
@@ -2907,7 +2910,7 @@
         "alias_CHI_Q": [
           "\u6492\u4e01"
         ], 
-        "ne:VALIDFR_1": "1895", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -2926,18 +2929,16 @@
         "ne:Region_C_1": null, 
         "ne:TYPE_1": "Regione", 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Sardinien"
-        ], 
+        "ne:Area_sqkm": 24114.1, 
         "alias_GER_Q": [
           "Sardinien"
         ], 
         "woe:id": "7153343", 
-        "ne:HASC_1": null, 
+        "name": "Sardegna", 
         "lang": "ITA", 
         "ne:NL_NAME_1": null, 
         "ne:FIRST_FIPS": null, 
-        "name": "Sardegna", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITG", 
         "ne:CheckMe": 0, 
         "ne_longitude": 9.826770053994835, 
@@ -2947,13 +2948,12 @@
         "iso": "IT", 
         "date_indexed": "2010-12-02T16:24:07Z", 
         "fullname": "Sardegna, Sardinia, Italy", 
-        "alias_FRE_Q": [
-          "La Sardaigne"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
-        "ne:OBJECTID": 815, 
-        "ne:sameAsCity": -99
+        "ne:RegionVar": null, 
+        "alias_FRE_Q": [
+          "La Sardaigne"
+        ]
       }, 
       "id": 7153343
     }

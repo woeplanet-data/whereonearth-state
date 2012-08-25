@@ -40,18 +40,17 @@
           20070164
         ], 
         "name": "Xiangkhoang", 
-        "ne_latitude": 20.165, 
         "hierarchy": [
           "woe:state=2346011", 
           "woe:country=23424872", 
           "woe:planet=1"
         ], 
-        "woeid": 2346011, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 104.293, 
         "longitude": 103.36, 
         "placetype": "state", 
         "iso": "LA", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
+        "sw_latitude": 18.722, 
         "adjacent": [
           "woe:state=20070163", 
           "woe:state=2346001", 
@@ -59,7 +58,7 @@
           "woe:state=2347742", 
           "woe:state=20070164"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 20.165, 
         "latitude": 19.443, 
         "sw_longitude": 102.427, 
         "fullname": "Xiangkhoang, Laos", 
@@ -95,7 +94,8 @@
           "woe:town=1140597", 
           "woe:town=1140393"
         ], 
-        "sw_latitude": 18.722
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "woe:id": 2346011
       }, 
       "id": 2346011
     }

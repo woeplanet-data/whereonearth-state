@@ -41,18 +41,17 @@
           2347239
         ], 
         "name": "Souk Ahras", 
-        "ne_latitude": 36.509, 
         "hierarchy": [
           "woe:state=2344622", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344622, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 8.409, 
         "longitude": 7.855, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 35.779, 
         "adjacent": [
           "woe:state=2347239", 
           "woe:state=2344614", 
@@ -61,7 +60,7 @@
           "woe:state=2344600", 
           "woe:state=2344603"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.509, 
         "latitude": 36.144, 
         "sw_longitude": 7.302, 
         "fullname": "Souk Ahras, Algeria", 
@@ -81,7 +80,8 @@
           "woe:town=1257470", 
           "woe:town=1257991"
         ], 
-        "sw_latitude": 35.779
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344622
       }, 
       "id": 2344622
     }

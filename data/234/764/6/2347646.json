@@ -41,18 +41,17 @@
           2347658
         ], 
         "name": "Florida", 
-        "ne_latitude": -33.112, 
         "hierarchy": [
           "woe:state=2347646", 
           "woe:country=23424979", 
           "woe:planet=1"
         ], 
-        "woeid": 2347646, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -55.112, 
         "longitude": -55.823, 
         "placetype": "state", 
         "iso": "UY", 
-        "date_indexed": "2010-12-02T17:58:18Z", 
+        "sw_latitude": -34.435, 
         "adjacent": [
           "woe:state=2347641", 
           "woe:state=2347644", 
@@ -61,7 +60,7 @@
           "woe:state=2347655", 
           "woe:state=2347658"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -33.112, 
         "latitude": -33.774, 
         "sw_longitude": -56.534, 
         "fullname": "Florida, Uruguay", 
@@ -90,7 +89,8 @@
           "woe:town=468050", 
           "woe:town=468051"
         ], 
-        "sw_latitude": -34.435
+        "date_indexed": "2010-12-02T17:58:18Z", 
+        "woe:id": 2347646
       }, 
       "id": 2347646
     }

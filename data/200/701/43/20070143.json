@@ -41,18 +41,17 @@
           56189820
         ], 
         "name": "Blantyre", 
-        "ne_latitude": -15.348, 
         "hierarchy": [
           "woe:state=20070143", 
           "woe:country=23424889", 
           "woe:planet=1"
         ], 
-        "woeid": 20070143, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.128, 
         "longitude": 34.924, 
         "placetype": "state", 
         "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
+        "sw_latitude": -16.016, 
         "adjacent": [
           "woe:state=20070146", 
           "woe:state=20070142", 
@@ -61,7 +60,7 @@
           "woe:state=20070144", 
           "woe:state=20070140"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -15.348, 
         "latitude": -15.682, 
         "sw_longitude": 34.72, 
         "fullname": "Blantyre, Malawi", 
@@ -73,7 +72,8 @@
           "woe:town=1367521", 
           "woe:town=1368194"
         ], 
-        "sw_latitude": -16.016
+        "date_indexed": "2010-12-02T17:40:22Z", 
+        "woe:id": 20070143
       }, 
       "id": 20070143
     }

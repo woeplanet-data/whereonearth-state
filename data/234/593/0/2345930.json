@@ -44,18 +44,17 @@
           20070292
         ], 
         "name": "Al Mafraq", 
-        "ne_latitude": 33.372, 
         "hierarchy": [
           "woe:state=2345930", 
           "woe:country=23424860", 
           "woe:planet=1"
         ], 
-        "woeid": 2345930, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 39.319, 
         "longitude": 37.631, 
         "placetype": "state", 
         "iso": "JO", 
-        "date_indexed": "2010-12-02T12:08:12Z", 
+        "sw_latitude": 31.698, 
         "adjacent": [
           "woe:state=2345833", 
           "woe:state=2346961", 
@@ -67,7 +66,7 @@
           "woe:state=20070292", 
           "woe:state=2347076"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 33.372, 
         "latitude": 32.533, 
         "sw_longitude": 35.944, 
         "fullname": "Al Mafraq, Jordan", 
@@ -125,7 +124,8 @@
           "woe:town=1968871", 
           "woe:town=1968877"
         ], 
-        "sw_latitude": 31.698
+        "date_indexed": "2010-12-02T12:08:12Z", 
+        "woe:id": 2345930
       }, 
       "id": 2345930
     }

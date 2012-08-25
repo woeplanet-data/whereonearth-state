@@ -32,20 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -9.997, 
         "name": "Rakahanga", 
         "hierarchy": [
           "woe:state=24549673", 
           "woe:country=23424795", 
           "woe:planet=1"
         ], 
-        "woeid": 24549673, 
+        "ne_latitude": -9.997, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -161.067, 
         "longitude": -161.071, 
         "placetype": "state", 
         "iso": "CK", 
-        "sw_latitude": -10.044, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
         "latitude": -10.01, 
         "sw_longitude": -161.1, 
         "fullname": "Rakahanga, Cook Islands", 
@@ -53,7 +52,8 @@
           "woe:island=24548834", 
           "woe:island=12489359"
         ], 
-        "date_indexed": "2010-12-02T17:57:50Z"
+        "sw_latitude": -10.044, 
+        "woe:id": 24549673
       }, 
       "id": 24549673
     }

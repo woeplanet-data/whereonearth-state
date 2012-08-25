@@ -50,13 +50,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 20069925, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 102.941, 
         "longitude": 102.401, 
-        "ne_latitude": 14.197, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 13.237, 
         "adjacent": [
           "woe:state=20070093", 
           "woe:state=20070098", 
@@ -66,7 +65,7 @@
           "woe:state=2347152", 
           "woe:state=20069926"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.197, 
         "latitude": 13.717, 
         "sw_longitude": 101.861, 
         "fullname": "Sa Kaeo, Thailand", 
@@ -81,7 +80,8 @@
           "woe:county=28341324", 
           "woe:county=28341323"
         ], 
-        "sw_latitude": 13.237
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 20069925
       }, 
       "id": 20069925
     }

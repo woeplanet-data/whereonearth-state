@@ -48,13 +48,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347194, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 101.609, 
         "longitude": 101.222, 
-        "ne_latitude": 6.683, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 5.613, 
         "adjacent": [
           "woe:state=2346297", 
           "woe:state=2347156", 
@@ -62,7 +61,7 @@
           "woe:state=2346302", 
           "woe:state=2347192"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 6.683, 
         "latitude": 6.148, 
         "sw_longitude": 100.835, 
         "fullname": "Yala, Thailand", 
@@ -77,7 +76,8 @@
           "woe:county=28341711", 
           "woe:landfeature=56057306"
         ], 
-        "sw_latitude": 5.613
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347194
       }, 
       "id": 2347194
     }

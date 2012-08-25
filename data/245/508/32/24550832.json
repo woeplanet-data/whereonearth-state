@@ -42,7 +42,6 @@
           24550842, 
           24550856
         ], 
-        "ne_latitude": 42.282, 
         "name": "Kumanovo", 
         "alias_ENG_P": [
           "Kumanovo Municipality"
@@ -52,7 +51,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550832, 
+        "ne_latitude": 42.282, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Kumanovo"
         ], 
@@ -60,7 +60,7 @@
         "ne_longitude": 22.044, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.969, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550745", 
           "woe:state=24550769", 
@@ -71,7 +71,6 @@
           "woe:state=24550856", 
           "woe:state=24550811"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 42.126, 
         "sw_longitude": 21.621, 
         "fullname": "Kumanovo, Kumanovo Municipality, Macedonia", 
@@ -84,7 +83,8 @@
           "woe:town=482875", 
           "woe:town=483075"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.969, 
+        "woe:id": 24550832
       }, 
       "id": 24550832
     }

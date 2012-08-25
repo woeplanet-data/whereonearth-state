@@ -39,25 +39,24 @@
           2346934
         ], 
         "name": "Novgorodskaya Oblast", 
-        "ne_latitude": 59.432, 
         "hierarchy": [
           "woe:state=2346913", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346913, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 36.255, 
         "longitude": 32.93, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 56.911, 
         "adjacent": [
           "woe:state=2346907", 
           "woe:state=2346920", 
           "woe:state=2346898", 
           "woe:state=2346934"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 59.432, 
         "latitude": 58.172, 
         "sw_longitude": 29.605, 
         "fullname": "Novgorodskaya Oblast, Russia", 
@@ -87,7 +86,8 @@
           "woe:county=24505256", 
           "woe:county=12598837"
         ], 
-        "sw_latitude": 56.911
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346913
       }, 
       "id": 2346913
     }

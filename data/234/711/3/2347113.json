@@ -47,20 +47,19 @@
           "woe:country=23424738", 
           "woe:planet=1"
         ], 
-        "woeid": 2347113, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 56.175, 
         "longitude": 55.965, 
-        "ne_latitude": 26.06, 
         "placetype": "state", 
         "iso": "AE", 
-        "date_indexed": "2010-12-02T08:58:41Z", 
+        "sw_latitude": 25.165, 
         "adjacent": [
           "woe:state=2347112", 
           "woe:state=4693371", 
           "woe:state=2347114", 
           "woe:state=2347115"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 26.06, 
         "latitude": 25.708, 
         "sw_longitude": 55.755, 
         "fullname": "Ras Al Khaimah, United Arab Emirates", 
@@ -68,7 +67,8 @@
           "woe:county=55922639", 
           "woe:county=55922642"
         ], 
-        "sw_latitude": 25.165
+        "date_indexed": "2010-12-02T08:58:41Z", 
+        "woe:id": 2347113
       }, 
       "id": 2347113
     }

@@ -34,8 +34,8 @@
         "alias_ENG_V": [
           "Newbrunswick"
         ], 
-        "alias_ENG_A": [
-          "NB"
+        "alias_KOR_Q": [
+          "\ub274\ube0c\ub7f0\uc988\uc705"
         ], 
         "hierarchy": [
           "woe:state=2344918", 
@@ -44,8 +44,8 @@
         ], 
         "ne_latitude": 48.075, 
         "placetype": "state", 
-        "alias_KOR_Q": [
-          "\ub274\ube0c\ub7f0\uc988\uc705"
+        "alias_ENG_A": [
+          "NB"
         ], 
         "children": [
           "woe:county=29375098", 
@@ -76,7 +76,6 @@
         "alias_CHI_Q": [
           "\u7ebd\u5e03\u6717\u65af\u5a01\u514b"
         ], 
-        "woeid": 2344918, 
         "alias_JPN_Q": [
           "\u30cb\u30e5\u30fc\u30d6\u30e9\u30f3\u30ba\u30a6\u30a3\u30c3\u30af"
         ], 
@@ -88,7 +87,8 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.496, 
-        "date_indexed": "2010-12-02T10:22:50Z", 
+        "woe:id": 2344918, 
+        "sw_latitude": 44.596, 
         "lang": "ENG", 
         "adjacent_woeid": [
           2344921, 
@@ -99,7 +99,7 @@
         "ne_longitude": -63.765, 
         "longitude": -66.409, 
         "iso": "CA", 
-        "sw_latitude": 44.596, 
+        "date_indexed": "2010-12-02T10:22:50Z", 
         "fullname": "New Brunswick, Canada", 
         "alias_FRE_Q": [
           "Nouveau-Brunswick"

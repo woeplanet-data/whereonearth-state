@@ -129,7 +129,7 @@
         "ne:Shape_Area": 0.00506216121508, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_KOR_Q": [
           "\ub2e4\ub9cc\ub514\uc6b0"
         ], 
@@ -143,8 +143,10 @@
         "alias_CHI_Q": [
           "\u8fbe\u66fc-\u7b2c\u4e4c"
         ], 
-        "ne:Area_sqkm": 58.4, 
-        "ne:OBJECTID": 3504, 
+        "alias_DAN_Q": [
+          "Daman og Diu"
+        ], 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30c0\u30de\u30f3\u30fb\u30c7\u30a3\u30fc\u30a6\u9023\u90a6\u76f4\u8f44\u5730\u57df"
         ], 
@@ -166,12 +168,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": null, 
         "date_indexed": "2010-12-02T08:59:14Z", 
-        "ne:VertexCou": 1842.0, 
+        "lang": "ENG", 
         "alias_ENG_A": [
           "DD"
         ], 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3504, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -185,17 +187,15 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 2, 
-        "alias_DAN_Q": [
-          "Daman og Diu"
-        ], 
+        "ne:Area_sqkm": 58.4, 
         "woe:id": "20070460", 
-        "ne:HASC_1": null, 
-        "lang": "ENG", 
+        "name": "Daman and Diu", 
+        "ne:VertexCou": 1842.0, 
         "adjacent_woeid": [
           2345743
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Daman and Diu", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": null, 
         "ne_longitude": 72.88408126603764, 
         "longitude": 70.947, 

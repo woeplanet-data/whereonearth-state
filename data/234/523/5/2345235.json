@@ -50,13 +50,12 @@
           "woe:country=23424802", 
           "woe:planet=1"
         ], 
-        "woeid": 2345235, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.719, 
         "longitude": 28.86, 
-        "ne_latitude": 27.999, 
         "placetype": "state", 
         "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
+        "sw_latitude": 21.999, 
         "adjacent": [
           "woe:state=2345232", 
           "woe:state=2345238", 
@@ -66,7 +65,7 @@
           "woe:state=2345245", 
           "woe:state=2345246"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 27.999, 
         "latitude": 24.999, 
         "sw_longitude": 25.0, 
         "fullname": "Al Wadi al Jadid, Egypt", 
@@ -89,7 +88,8 @@
           "woe:town=1526019", 
           "woe:town=1526545"
         ], 
-        "sw_latitude": 21.999
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "woe:id": 2345235
       }, 
       "id": 2345235
     }

@@ -43,18 +43,17 @@
           2346936
         ], 
         "name": "Moskovskaya Oblast", 
-        "ne_latitude": 56.946, 
         "hierarchy": [
           "woe:state=2346911", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346911, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 40.183, 
         "longitude": 38.888, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 54.25, 
         "adjacent": [
           "woe:state=2346899", 
           "woe:state=2346910", 
@@ -65,7 +64,7 @@
           "woe:state=2346932", 
           "woe:state=2346936"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 56.946, 
         "latitude": 55.598, 
         "sw_longitude": 35.137, 
         "fullname": "Moskovskaya Oblast, Russia", 
@@ -162,7 +161,8 @@
           "woe:county=12598798", 
           "woe:county=12598799"
         ], 
-        "sw_latitude": 54.25
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346911
       }, 
       "id": 2346911
     }

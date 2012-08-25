@@ -39,28 +39,27 @@
           29389222
         ], 
         "name": "Branichevo", 
-        "ne_latitude": 44.86, 
         "hierarchy": [
           "woe:state=29389198", 
           "woe:country=20069818", 
           "woe:planet=1"
         ], 
-        "woeid": 29389198, 
         "alias_UNK_Q": [
           "Branichevski Okrug"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 22.005, 
         "longitude": 21.523, 
         "placetype": "state", 
         "iso": "RS", 
-        "sw_latitude": 44.127, 
+        "date_indexed": "2010-12-02T10:22:30Z", 
         "adjacent": [
           "woe:state=29389206", 
           "woe:state=29389222", 
           "woe:state=29389211", 
           "woe:state=29389221"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 44.86, 
         "latitude": 44.495, 
         "sw_longitude": 21.043, 
         "fullname": "Branichevo, Serbia", 
@@ -110,7 +109,8 @@
           "woe:town=537678", 
           "woe:town=537729"
         ], 
-        "date_indexed": "2010-12-02T10:22:30Z"
+        "sw_latitude": 44.127, 
+        "woe:id": 29389198
       }, 
       "id": 29389198
     }

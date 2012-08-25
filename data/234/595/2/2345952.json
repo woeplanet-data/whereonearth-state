@@ -37,23 +37,22 @@
           2345957
         ], 
         "name": "Hwanghae-namdo", 
-        "ne_latitude": 38.75, 
         "hierarchy": [
           "woe:state=2345952", 
           "woe:country=23424865", 
           "woe:planet=1"
         ], 
-        "woeid": 2345952, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 126.436, 
         "longitude": 125.545, 
         "placetype": "state", 
         "iso": "KP", 
-        "date_indexed": "2010-12-02T10:22:43Z", 
+        "sw_latitude": 37.633, 
         "adjacent": [
           "woe:state=2345953", 
           "woe:state=2345957"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 38.75, 
         "latitude": 38.191, 
         "sw_longitude": 124.653, 
         "fullname": "Hwanghae-namdo, North Korea", 
@@ -100,7 +99,8 @@
           "woe:island=12494915", 
           "woe:airport=12514129"
         ], 
-        "sw_latitude": 37.633
+        "date_indexed": "2010-12-02T10:22:43Z", 
+        "woe:id": 2345952
       }, 
       "id": 2345952
     }

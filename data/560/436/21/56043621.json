@@ -45,12 +45,9 @@
         "ne_latitude": 47.002, 
         "ne_longitude": 18.966, 
         "longitude": 18.913, 
-        "children": [
-          "woe:county=12593390"
-        ], 
         "placetype": "state", 
         "iso": "HU", 
-        "sw_latitude": 46.89, 
+        "date_indexed": "2010-12-02T09:55:38Z", 
         "adjacent": [
           "woe:state=12577911", 
           "woe:state=12577917"
@@ -62,8 +59,11 @@
         "alias_HUN_S": [
           "Dunaujvaros"
         ], 
-        "woeid": 56043621, 
-        "date_indexed": "2010-12-02T09:55:38Z"
+        "children": [
+          "woe:county=12593390"
+        ], 
+        "sw_latitude": 46.89, 
+        "woe:id": 56043621
       }, 
       "id": 56043621
     }

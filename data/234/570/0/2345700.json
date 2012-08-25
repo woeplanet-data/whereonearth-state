@@ -38,39 +38,39 @@
           2345701, 
           2345709
         ], 
+        "alias_UNK_A": [
+          "RANG"
+        ], 
         "name": "Rangarvallasysla", 
-        "ne_latitude": 64.714, 
         "hierarchy": [
           "woe:state=2345700", 
           "woe:country=23424845", 
           "woe:planet=1"
         ], 
-        "woeid": 2345700, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -18.31, 
         "longitude": -19.552, 
-        "children": [
-          "woe:town=980191", 
-          "woe:town=980260", 
-          "woe:town=980478", 
-          "woe:landfeature=23701996"
-        ], 
         "placetype": "state", 
         "iso": "IS", 
-        "date_indexed": "2010-12-02T09:55:32Z", 
+        "sw_latitude": 63.458, 
         "adjacent": [
           "woe:state=2345687", 
           "woe:state=2345693", 
           "woe:state=2345701", 
           "woe:state=2345709"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 64.714, 
         "latitude": 64.086, 
         "sw_longitude": -20.795, 
         "fullname": "Rangarvallasysla, Iceland", 
-        "alias_UNK_A": [
-          "RANG"
+        "children": [
+          "woe:town=980191", 
+          "woe:town=980260", 
+          "woe:town=980478", 
+          "woe:landfeature=23701996"
         ], 
-        "sw_latitude": 63.458
+        "date_indexed": "2010-12-02T09:55:32Z", 
+        "woe:id": 2345700
       }, 
       "id": 2345700
     }

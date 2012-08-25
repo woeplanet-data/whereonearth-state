@@ -43,23 +43,22 @@
           "woe:country=26812346", 
           "woe:planet=1"
         ], 
-        "woeid": 12577964, 
-        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Larnaca"
         ], 
         "longitude": 33.515, 
         "ne_longitude": 33.902, 
         "placetype": "state", 
+        "latitude": 34.9, 
         "iso": "CY", 
-        "date_indexed": "2010-12-02T09:35:19Z", 
+        "sw_latitude": 34.715, 
         "adjacent": [
           "woe:state=12577963", 
           "woe:state=12577965", 
           "woe:state=12577971"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 35.086, 
-        "latitude": 34.9, 
         "sw_longitude": 33.127, 
         "fullname": "Larnaca District, Cyprus", 
         "children": [
@@ -124,7 +123,8 @@
           "woe:town=841774", 
           "woe:town=841792"
         ], 
-        "sw_latitude": 34.715
+        "date_indexed": "2010-12-02T09:35:19Z", 
+        "woe:id": 12577964
       }, 
       "id": 12577964
     }

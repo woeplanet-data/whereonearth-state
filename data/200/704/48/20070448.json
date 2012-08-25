@@ -42,18 +42,17 @@
           56190200
         ], 
         "name": "Bugiri", 
-        "ne_latitude": 0.722, 
         "hierarchy": [
           "woe:state=20070448", 
           "woe:country=23424974", 
           "woe:planet=1"
         ], 
-        "woeid": 20070448, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 33.976, 
         "longitude": 33.8, 
         "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
+        "sw_latitude": -0.997, 
         "adjacent": [
           "woe:state=20070454", 
           "woe:state=56190199", 
@@ -63,14 +62,15 @@
           "woe:state=56190200", 
           "woe:state=20070455"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.722, 
         "latitude": -0.137, 
         "sw_longitude": 33.625, 
         "fullname": "Bugiri, Uganda", 
         "children": [
           "woe:county=56190235"
         ], 
-        "sw_latitude": -0.997
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "woe:id": 20070448
       }, 
       "id": 20070448
     }

@@ -37,23 +37,22 @@
           20070279
         ], 
         "name": "Siyazan", 
-        "ne_latitude": 41.277, 
         "hierarchy": [
           "woe:state=20070278", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070278, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 49.31, 
         "longitude": 49.09, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 40.878, 
         "adjacent": [
           "woe:state=20070279", 
           "woe:state=20070271"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.277, 
         "latitude": 41.078, 
         "sw_longitude": 48.869, 
         "fullname": "Siyazan, Azerbaijan", 
@@ -63,7 +62,8 @@
           "woe:town=1951143", 
           "woe:town=1951647"
         ], 
-        "sw_latitude": 40.878
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070278
       }, 
       "id": 20070278
     }

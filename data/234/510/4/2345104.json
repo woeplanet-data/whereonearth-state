@@ -43,21 +43,18 @@
           2345105
         ], 
         "name": "Ombella-M'Poko", 
-        "ne_latitude": 5.919, 
         "hierarchy": [
           "woe:state=2345104", 
           "woe:country=23424792", 
           "woe:planet=1"
         ], 
-        "woeid": 2345104, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 19.113, 
         "longitude": 17.807, 
         "placetype": "state", 
-        "alias_FRE_V": [
-          "Ombella-Mpoko"
-        ], 
+        "latitude": 4.902, 
         "iso": "CF", 
-        "date_indexed": "2010-12-02T17:43:23Z", 
+        "sw_latitude": 3.885, 
         "adjacent": [
           "woe:state=2345105", 
           "woe:state=2344978", 
@@ -68,8 +65,10 @@
           "woe:state=2345099", 
           "woe:state=2345100"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 4.902, 
+        "ne_latitude": 5.919, 
+        "alias_FRE_V": [
+          "Ombella-Mpoko"
+        ], 
         "sw_longitude": 16.5, 
         "fullname": "Ombella-M'Poko, Central African Republic", 
         "children": [
@@ -80,7 +79,8 @@
           "woe:county=55998380", 
           "woe:county=55998382"
         ], 
-        "sw_latitude": 3.885
+        "date_indexed": "2010-12-02T17:43:23Z", 
+        "woe:id": 2345104
       }, 
       "id": 2345104
     }

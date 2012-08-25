@@ -4019,7 +4019,7 @@
         "ne:Shape_Area": 12.0374338875, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "1956", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IDN", 
         "children": [
@@ -4112,7 +4112,7 @@
           "woe:island=12492724", 
           "woe:island=12492725"
         ], 
-        "ne:OBJECTID": 1228, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 108.67758385621005, 
@@ -4128,9 +4128,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -3.080690199493063, 
-        "ne:VertexCou": 948.0, 
-        "ne:VALIDFR_1": "1956", 
-        "ne:DataRank": 1, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 1228, 
         "ne:Postal": "KB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kalbar", 
@@ -4146,14 +4146,14 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 148145.4, 
         "woe:id": "2345720", 
-        "ne:HASC_1": "ID.KB", 
-        "lang": "UNK", 
+        "name": "Kalimantan Barat", 
+        "ne:VertexCou": 948.0, 
         "adjacent_woeid": [
           2345722, 
           2345723, 
           2346305
         ], 
-        "name": "Kalimantan Barat", 
+        "ne:HASC_1": "ID.KB", 
         "ne:REMARKS_1": null, 
         "alias_UNK_V": [
           "Kalbar"

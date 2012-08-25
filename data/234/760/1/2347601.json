@@ -1983,7 +1983,7 @@
         "ne:Shape_Area": 10.9045286185, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "17960601", 
         "alias_ENG_A": [
           "TN"
         ], 
@@ -2102,7 +2102,7 @@
         "alias_CHI_Q": [
           "\u7530\u7eb3\u897f"
         ], 
-        "ne:OBJECTID": 3551, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30c6\u30cd\u30b7\u30fc"
         ], 
@@ -2126,9 +2126,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 34.98364666616078, 
-        "ne:VertexCou": 489.0, 
-        "ne:VALIDFR_1": "17960601", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3551, 
         "ne:Postal": "TN", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "TN|Tenn.", 
@@ -2144,8 +2144,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 108908.4, 
         "woe:id": "2347601", 
-        "ne:HASC_1": "US.TN", 
-        "lang": "ENG", 
+        "name": "Tennessee", 
+        "ne:VertexCou": 489.0, 
         "adjacent_woeid": [
           2347559, 
           2347562, 
@@ -2156,7 +2156,7 @@
           2347592, 
           2347605
         ], 
-        "name": "Tennessee", 
+        "ne:HASC_1": "US.TN", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -81.65885624422026, 
         "longitude": -85.979, 

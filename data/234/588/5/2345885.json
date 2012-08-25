@@ -1462,7 +1462,7 @@
         "ne:Shape_Area": 0.663618366818, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
         "children": [
@@ -1503,7 +1503,7 @@
           "woe:historicalcounty=24856838", 
           "woe:drainage=26354355"
         ], 
-        "ne:OBJECTID": 1824, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5cf6\u6839"
         ], 
@@ -1522,9 +1522,9 @@
         "ne:FIRST_HASC": "JP.FI", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 34.29963796611929, 
-        "ne:VertexCou": 349.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1824, 
         "ne:Postal": "SM", 
         "ne:Region_Cod": "JPN-CGK", 
         "ne:VARNAME_1": "Simane", 
@@ -1540,14 +1540,14 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 6715.5, 
         "woe:id": "2345885", 
-        "ne:HASC_1": "JP.SM", 
-        "lang": "JPN", 
+        "name": "\u5cf6\u6839\u770c", 
+        "ne:VertexCou": 349.0, 
         "adjacent_woeid": [
           2345861, 
           2345890, 
           2345894
         ], 
-        "name": "\u5cf6\u6839\u770c", 
+        "ne:HASC_1": "JP.SM", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 133.3821741066498, 
         "longitude": 132.497, 

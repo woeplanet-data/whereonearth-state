@@ -2839,10 +2839,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 45.138485419366646, 
+        "ne:DataRank": 3, 
         "ne:Shape_Area": 2.51246296882, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "alias_POR_Q": [
           "Em\u00edlia Romana"
         ], 
@@ -2862,15 +2863,14 @@
           "woe:zone=24873974", 
           "woe:zone=24873980"
         ], 
-        "ne:VALIDTO_1": "Unknown", 
-        "ne:OBJECTID": 813, 
+        "alias_SPA_Q": [
+          "Emilia Romana"
+        ], 
         "alias_ITA_V": [
           "Emiliaromagna"
         ], 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Emilia Romana"
-        ], 
+        "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
           "ER"
         ], 
@@ -2890,9 +2890,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 43.754177151154636, 
-        "ne:VertexCou": 704.0, 
-        "ne:VALIDFR_1": "1895", 
-        "ne:DataRank": 3, 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 813, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Emilia Romagna|Emilia|Emilia-Roma\u00f1a|\u00c9milie-Romagne", 
@@ -2908,8 +2908,8 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 22189.1, 
         "woe:id": "7153334", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Emilia Romagna", 
+        "ne:VertexCou": 704.0, 
         "adjacent_woeid": [
           7153337, 
           7153338, 
@@ -2918,7 +2918,7 @@
           7153345, 
           7153349
         ], 
-        "name": "Emilia Romagna", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITD", 
         "ne_longitude": 12.753878208312699, 
         "longitude": 10.977, 

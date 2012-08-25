@@ -31,20 +31,17 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "UNK", 
-        "adjacent_woeid": [
-          2345276, 
-          2345283, 
-          2345285
-        ], 
-        "name": "L\u00e4\u00e4nemaa", 
         "alias_ENG_P": [
           "Laane County"
         ], 
-        "alias_UNK_S": [
-          "Laanemaa"
+        "hierarchy": [
+          "woe:state=2345281", 
+          "woe:country=23424805", 
+          "woe:planet=1"
         ], 
-        "woeid": 2345281, 
+        "ne_latitude": 59.304, 
+        "ne_longitude": 24.193, 
+        "placetype": "state", 
         "children": [
           "woe:county=29389925", 
           "woe:county=29389715", 
@@ -76,30 +73,33 @@
           "woe:island=12471258", 
           "woe:landfeature=56057299"
         ], 
-        "alias_UNK_V": [
-          "L\u00e4\u00e4ne Maakond"
-        ], 
-        "longitude": 23.798, 
-        "ne_longitude": 24.193, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=2345281", 
-          "woe:country=23424805", 
-          "woe:planet=1"
-        ], 
-        "iso": "EE", 
-        "sw_latitude": 58.534, 
+        "sw_longitude": 23.117, 
         "adjacent": [
           "woe:state=2345276", 
           "woe:state=2345283", 
           "woe:state=2345285"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 59.304, 
-        "sw_longitude": 23.117, 
         "latitude": 58.891, 
-        "fullname": "L\u00e4\u00e4nemaa, Laane County, Estonia", 
-        "date_indexed": "2010-12-02T16:42:58Z"
+        "woe:id": 2345281, 
+        "date_indexed": "2010-12-02T16:42:58Z", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          2345276, 
+          2345283, 
+          2345285
+        ], 
+        "name": "L\u00e4\u00e4nemaa", 
+        "alias_UNK_S": [
+          "Laanemaa"
+        ], 
+        "alias_UNK_V": [
+          "L\u00e4\u00e4ne Maakond"
+        ], 
+        "longitude": 23.798, 
+        "iso": "EE", 
+        "sw_latitude": 58.534, 
+        "fullname": "L\u00e4\u00e4nemaa, Laane County, Estonia"
       }, 
       "id": 2345281
     }

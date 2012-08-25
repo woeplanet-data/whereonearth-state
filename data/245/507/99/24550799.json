@@ -41,7 +41,6 @@
           24550789, 
           24550791
         ], 
-        "ne_latitude": 41.481, 
         "name": "Prilep", 
         "alias_ENG_P": [
           "Prilep Municipality"
@@ -51,7 +50,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550799, 
+        "ne_latitude": 41.481, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Prilep"
         ], 
@@ -59,7 +59,7 @@
         "ne_longitude": 21.912, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.066, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=12577884", 
           "woe:state=24550763", 
@@ -69,7 +69,6 @@
           "woe:state=24550791", 
           "woe:state=24550754"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 41.273, 
         "sw_longitude": 21.365, 
         "fullname": "Prilep, Prilep Municipality, Macedonia", 
@@ -84,7 +83,8 @@
           "woe:town=483105", 
           "woe:town=483203"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.066, 
+        "woe:id": 24550799
       }, 
       "id": 24550799
     }

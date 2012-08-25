@@ -462,7 +462,7 @@
         "ne:Shape_Area": 0.235490258797, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "19970101", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BFA", 
         "children": [
@@ -477,7 +477,7 @@
         "alias_CHI_Q": [
           "\u5361\u7126\u6208"
         ], 
-        "ne:OBJECTID": 2815, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -1.870319586979292, 
@@ -495,9 +495,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 12.057093817525697, 
-        "ne:VertexCou": 109.0, 
-        "ne:VALIDFR_1": "19970101", 
-        "ne:DataRank": 8, 
+        "lang": "FRE", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 2815, 
         "ne:Postal": "KA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -513,8 +513,8 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 2833.7, 
         "woe:id": "2347619", 
-        "ne:HASC_1": "BF.KA", 
-        "lang": "FRE", 
+        "name": "Kadiogo", 
+        "ne:VertexCou": 109.0, 
         "adjacent_woeid": [
           2347611, 
           2347614, 
@@ -522,7 +522,7 @@
           2347627, 
           55967365
         ], 
-        "name": "Kadiogo", 
+        "ne:HASC_1": "BF.KA", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -1.062074347752912, 
         "longitude": -1.442, 

@@ -41,18 +41,17 @@
           20070200
         ], 
         "name": "Hamadan", 
-        "ne_latitude": 35.841, 
         "hierarchy": [
           "woe:state=2345774", 
           "woe:country=23424851", 
           "woe:planet=1"
         ], 
-        "woeid": 2345774, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 49.607, 
         "longitude": 48.632, 
         "placetype": "state", 
         "iso": "IR", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
+        "sw_latitude": 33.929, 
         "adjacent": [
           "woe:state=2345777", 
           "woe:state=2345779", 
@@ -61,7 +60,7 @@
           "woe:state=20070200", 
           "woe:state=2345786"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.841, 
         "latitude": 34.885, 
         "sw_longitude": 47.657, 
         "fullname": "Hamadan, Iran", 
@@ -113,7 +112,8 @@
           "woe:town=2252577", 
           "woe:town=2255285"
         ], 
-        "sw_latitude": 33.929
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "woe:id": 2345774
       }, 
       "id": 2345774
     }

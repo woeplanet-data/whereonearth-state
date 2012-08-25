@@ -40,18 +40,17 @@
           2345220
         ], 
         "name": "Bolivar", 
-        "ne_latitude": -1.148, 
         "hierarchy": [
           "woe:state=2345204", 
           "woe:country=23424801", 
           "woe:planet=1"
         ], 
-        "woeid": 2345204, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -78.841, 
         "longitude": -79.116, 
         "placetype": "state", 
         "iso": "EC", 
-        "date_indexed": "2010-12-02T17:51:25Z", 
+        "sw_latitude": -2.2, 
         "adjacent": [
           "woe:state=2345207", 
           "woe:state=2345208", 
@@ -59,7 +58,7 @@
           "woe:state=2345214", 
           "woe:state=2345220"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -1.148, 
         "latitude": -1.674, 
         "sw_longitude": -79.392, 
         "fullname": "Bolivar, Ecuador", 
@@ -72,7 +71,8 @@
           "woe:county=26809577", 
           "woe:county=26809658"
         ], 
-        "sw_latitude": -2.2
+        "date_indexed": "2010-12-02T17:51:25Z", 
+        "woe:id": 2345204
       }, 
       "id": 2345204
     }

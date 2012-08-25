@@ -754,7 +754,7 @@
         "ne:Shape_Area": 0.123184699715, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "1898", 
         "alias_ENG_A": [
           "DUB"
         ], 
@@ -1091,7 +1091,7 @@
         "alias_ITA_Q": [
           "Dublino"
         ], 
-        "ne:OBJECTID": 720, 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u30c0\u30d6\u30ea\u30f3"
         ], 
@@ -1112,9 +1112,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T12:07:35Z", 
-        "ne:VertexCou": 180.0, 
-        "ne:VALIDFR_1": "1898", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 720, 
         "ne:Postal": "DN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Baile \u00c1tha Cliath", 
@@ -1130,14 +1130,14 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 912.1, 
         "woe:id": "2345254", 
-        "ne:HASC_1": "IE.DN", 
-        "lang": "ENG", 
+        "name": "Dublin", 
+        "ne:VertexCou": 180.0, 
         "adjacent_woeid": [
           2345257, 
           2345265, 
           2345274
         ], 
-        "name": "Dublin", 
+        "ne:HASC_1": "IE.DN", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae Bhaile Atha Cliath"

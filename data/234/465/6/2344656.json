@@ -39,25 +39,24 @@
           2344667
         ], 
         "name": "Benguela", 
-        "ne_latitude": -11.767, 
         "hierarchy": [
           "woe:state=2344656", 
           "woe:country=23424745", 
           "woe:planet=1"
         ], 
-        "woeid": 2344656, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.096, 
         "longitude": 13.813, 
         "placetype": "state", 
         "iso": "AO", 
-        "date_indexed": "2010-12-02T17:52:14Z", 
+        "sw_latitude": -13.954, 
         "adjacent": [
           "woe:state=2344661", 
           "woe:state=2344663", 
           "woe:state=2344664", 
           "woe:state=2344667"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -11.767, 
         "latitude": -12.86, 
         "sw_longitude": 12.529, 
         "fullname": "Benguela, Angola", 
@@ -123,7 +122,8 @@
           "woe:town=1265201", 
           "woe:town=1265319"
         ], 
-        "sw_latitude": -13.954
+        "date_indexed": "2010-12-02T17:52:14Z", 
+        "woe:id": 2344656
       }, 
       "id": 2344656
     }

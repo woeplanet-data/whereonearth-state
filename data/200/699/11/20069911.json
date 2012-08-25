@@ -41,18 +41,17 @@
           20069912
         ], 
         "name": "Gharb Kurdufan", 
-        "ne_latitude": 14.416, 
         "hierarchy": [
           "woe:state=20069911", 
           "woe:country=23424952", 
           "woe:planet=1"
         ], 
-        "woeid": 20069911, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 29.957, 
         "longitude": 28.5, 
         "placetype": "state", 
         "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
+        "sw_latitude": 9.348, 
         "adjacent": [
           "woe:state=20069907", 
           "woe:state=20069893", 
@@ -61,7 +60,7 @@
           "woe:state=20069895", 
           "woe:state=20069912"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.416, 
         "latitude": 11.882, 
         "sw_longitude": 27.043, 
         "fullname": "Gharb Kurdufan, Sudan", 
@@ -140,7 +139,8 @@
           "woe:town=1437233", 
           "woe:town=1437644"
         ], 
-        "sw_latitude": 9.348
+        "date_indexed": "2010-12-02T08:50:49Z", 
+        "woe:id": 20069911
       }, 
       "id": 20069911
     }

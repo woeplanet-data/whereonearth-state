@@ -899,7 +899,7 @@
         "ne:Shape_Area": 10.9782225847, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 6, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "alias_ARA_V": [
           "Dhufar"
@@ -917,7 +917,7 @@
           "woe:county=55927051", 
           "woe:county=55927090"
         ], 
-        "ne:OBJECTID": 2411, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 51.97815066921805, 
@@ -932,9 +932,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 16.64218862550473, 
-        "ne:VertexCou": 206.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ARA", 
+        "ne:MAP_COLOR": 6, 
+        "ne:OBJECTID": 2411, 
         "ne:Postal": "JA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Al Janubiyah [Zufar]", 
@@ -950,13 +950,13 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 128217.0, 
         "woe:id": "2346258", 
-        "ne:HASC_1": "OM.JA", 
-        "lang": "ARA", 
+        "name": "Zufar", 
+        "ne:VertexCou": 206.0, 
         "adjacent_woeid": [
           2346257, 
           2346954
         ], 
-        "name": "Zufar", 
+        "ne:HASC_1": "OM.JA", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 57.445517205554665, 
         "longitude": 54.235, 

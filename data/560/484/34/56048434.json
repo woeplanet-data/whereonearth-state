@@ -917,7 +917,7 @@
         "ne:Shape_Area": 0.715079257793, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "1981", 
+        "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TGO", 
         "children": [
@@ -926,7 +926,7 @@
           "woe:county=56048440", 
           "woe:county=56048442"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 90, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -0.166470099015783, 
@@ -946,9 +946,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 9.874978949718809, 
-        "lang": "FRE", 
-        "ne:MAP_COLOR": 5, 
-        "ne:OBJECTID": 90, 
+        "ne:VertexCou": 207.0, 
+        "ne:VALIDFR_1": "1981", 
+        "ne:DataRank": 8, 
         "ne:Postal": "SA", 
         "ne:Region_Cod": "TGO-OTI", 
         "ne:VARNAME_1": "R\u00e9gion des Savanes", 
@@ -964,8 +964,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 8656.1, 
         "woe:id": "56048434", 
-        "name": "Savanes", 
-        "ne:VertexCou": 207.0, 
+        "ne:HASC_1": "TG.SA", 
+        "lang": "FRE", 
         "adjacent_woeid": [
           2344824, 
           2345467, 
@@ -975,13 +975,11 @@
           55967355, 
           56048435
         ], 
-        "ne:HASC_1": "TG.SA", 
+        "name": "Savanes", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 0.997076450517852, 
         "longitude": 0.386, 
-        "alias_FRE_S": [
-          "Region des Savanes"
-        ], 
+        "ne:NEV_Countr": "Togo", 
         "iso": "TG", 
         "date_indexed": "2010-12-02T17:04:11Z", 
         "ne:NL_NAME_1": null, 
@@ -990,7 +988,9 @@
         ], 
         "fullname": "Savanes, Savanes Region, Togo", 
         "ne:Region": "Oti", 
-        "ne:NEV_Countr": "Togo", 
+        "alias_FRE_S": [
+          "Region des Savanes"
+        ], 
         "ne:RegionVar": null, 
         "ne:sameAsCity": -99
       }, 

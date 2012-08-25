@@ -36,22 +36,21 @@
           20070515
         ], 
         "name": "Kamchatskaya Oblast", 
-        "ne_latitude": 58.367, 
         "hierarchy": [
           "woe:state=20070514", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 20070514, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 168.134, 
         "longitude": 159.458, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 50.869, 
         "adjacent": [
           "woe:state=20070515"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 58.367, 
         "latitude": 54.618, 
         "sw_longitude": 155.547, 
         "fullname": "Kamchatskaya Oblast, Russia", 
@@ -69,7 +68,8 @@
           "woe:island=12468935", 
           "woe:island=12469335"
         ], 
-        "sw_latitude": 50.869
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 20070514
       }, 
       "id": 20070514
     }

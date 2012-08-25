@@ -48,13 +48,12 @@
           "woe:country=23424826", 
           "woe:planet=1"
         ], 
-        "woeid": 2345473, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -61.583, 
         "longitude": -61.652, 
-        "ne_latitude": 12.171, 
         "placetype": "state", 
         "iso": "GD", 
-        "date_indexed": "2010-12-02T17:52:39Z", 
+        "sw_latitude": 12.042, 
         "adjacent": [
           "woe:state=2345474", 
           "woe:state=2345475", 
@@ -62,7 +61,7 @@
           "woe:state=2345477", 
           "woe:state=2345478"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.171, 
         "latitude": 12.106, 
         "sw_longitude": -61.706, 
         "fullname": "Saint Andrew, Grenada", 
@@ -71,7 +70,8 @@
           "woe:town=80366", 
           "woe:town=80410"
         ], 
-        "sw_latitude": 12.042
+        "date_indexed": "2010-12-02T17:52:39Z", 
+        "woe:id": 2345473
       }, 
       "id": 2345473
     }

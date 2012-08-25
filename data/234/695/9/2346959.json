@@ -3281,7 +3281,7 @@
         "ne:Shape_Area": 12.0483631762, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ub9c9\uce74"
         ], 
@@ -3308,7 +3308,7 @@
         "alias_CHI_Q": [
           "\u9ea6\u52a0"
         ], 
-        "ne:OBJECTID": 888, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30de\u30c3\u30ab"
         ], 
@@ -3332,9 +3332,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 18.121348985267502, 
-        "ne:VertexCou": 813.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 5, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 888, 
         "ne:Postal": "MK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "La Meca|La Mecca|La Mecque|Makka|Makkah al-Mukarramah|Mecca|Meca|Mecka|Mekka", 
@@ -3350,8 +3350,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 138093.6, 
         "woe:id": "2346959", 
-        "ne:HASC_1": "SA.MK", 
-        "lang": "ENG", 
+        "name": "Makka", 
+        "ne:VertexCou": 813.0, 
         "adjacent_woeid": [
           2346949, 
           2346951, 
@@ -3359,7 +3359,7 @@
           2346956, 
           2346958
         ], 
-        "name": "Makka", 
+        "ne:HASC_1": "SA.MK", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 43.66754682812365, 
         "longitude": 40.983, 

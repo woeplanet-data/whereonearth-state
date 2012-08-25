@@ -32,27 +32,27 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -7.182, 
         "name": "Nui", 
         "hierarchy": [
           "woe:state=24549923", 
           "woe:country=23424970", 
           "woe:planet=1"
         ], 
-        "woeid": 24549923, 
+        "ne_latitude": -7.182, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 177.167, 
         "longitude": 177.156, 
         "placetype": "state", 
         "iso": "TV", 
-        "sw_latitude": -7.284, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "latitude": -7.241, 
         "sw_longitude": 177.145, 
         "fullname": "Nui, Tuvalu", 
         "children": [
           "woe:island=12502356"
         ], 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "sw_latitude": -7.284, 
+        "woe:id": 24549923
       }, 
       "id": 24549923
     }

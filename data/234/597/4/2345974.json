@@ -76,7 +76,7 @@
         "alias_KOR_V": [
           "\uad11\uc8fc\uad11\uc5ed"
         ], 
-        "ne:MAP_COLOR": 5, 
+        "ne:VALIDFR_1": "1986", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
         "children": [
@@ -86,7 +86,7 @@
         "alias_CHI_Q": [
           "\u5149\u5dde"
         ], 
-        "ne:OBJECTID": 2506, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30af\u30a1\u30f3\u30b8\u30e5"
         ], 
@@ -106,9 +106,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Metropolitan City", 
         "sw_latitude": 35.15007701254416, 
-        "ne:VertexCou": 10.0, 
-        "ne:VALIDFR_1": "1986", 
-        "ne:DataRank": 3, 
+        "lang": "KOR", 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 2506, 
         "ne:Postal": "KJ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kwangju|Kwangju-gwangyoksi", 
@@ -124,12 +124,12 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 133.0, 
         "woe:id": "2345974", 
-        "ne:HASC_1": "KR.KJ", 
-        "lang": "KOR", 
+        "name": "\uad11\uc8fc", 
+        "ne:VertexCou": 10.0, 
         "adjacent_woeid": [
           2345972
         ], 
-        "name": "\uad11\uc8fc", 
+        "ne:HASC_1": "KR.KJ", 
         "ne:REMARKS_1": "24 (NSO Code)", 
         "ne:Country_Pr": null, 
         "ne_longitude": 127.00581912615178, 

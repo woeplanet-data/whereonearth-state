@@ -1723,9 +1723,9 @@
         "ne:ScaleRank": 5, 
         "ne_latitude": 11.851034043886045, 
         "ne:Shape_Area": 3.09990094865, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "19090805", 
         "alias_KOR_Q": [
           "\uc220\ub9ac\uc544"
         ], 
@@ -1734,7 +1734,7 @@
         "alias_CHI_Q": [
           "\u82cf\u5229\u4e9a"
         ], 
-        "ne:OBJECTID": 31, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30b9\u30ea\u30a2\u5dde"
         ], 
@@ -1748,9 +1748,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 8.382615261685032, 
-        "ne:VertexCou": 425.0, 
-        "ne:VALIDFR_1": "19090805", 
-        "ne:DataRank": 6, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 31, 
         "ne:Postal": "ZU", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1766,8 +1766,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 37605.1, 
         "woe:id": "2347699", 
-        "ne:HASC_1": "VE.ZU", 
-        "lang": "SPA", 
+        "name": "Zulia", 
+        "ne:VertexCou": 425.0, 
         "adjacent_woeid": [
           2345056, 
           2345062, 
@@ -1778,9 +1778,8 @@
           2347696, 
           2347697
         ], 
-        "name": "Zulia", 
+        "ne:HASC_1": "VE.ZU", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424982, 
         "ne_longitude": -71.14242204424193, 
         "longitude": -72.224, 
         "iso": "VE", 

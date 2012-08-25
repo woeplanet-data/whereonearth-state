@@ -40,7 +40,6 @@
           24550801, 
           24550807
         ], 
-        "ne_latitude": 41.669, 
         "name": "Negotino", 
         "alias_ENG_P": [
           "Negotino Municipality"
@@ -50,7 +49,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550790, 
+        "ne_latitude": 41.669, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Negotino"
         ], 
@@ -58,7 +58,7 @@
         "ne_longitude": 22.309, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.341, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550760", 
           "woe:state=24550768", 
@@ -67,7 +67,6 @@
           "woe:state=24550801", 
           "woe:state=24550807"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 41.505, 
         "sw_longitude": 21.985, 
         "fullname": "Negotino, Negotino Municipality, Macedonia", 
@@ -77,7 +76,8 @@
           "woe:town=482572", 
           "woe:town=482717"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.341, 
+        "woe:id": 24550790
       }, 
       "id": 24550790
     }

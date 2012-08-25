@@ -47,21 +47,20 @@
           "woe:country=23424793", 
           "woe:planet=1"
         ], 
-        "woeid": 2345116, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -74.7, 
         "longitude": -75.724, 
         "placetype": "state", 
+        "latitude": 20.806, 
         "iso": "CU", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 20.369, 
         "adjacent": [
           "woe:state=2345113", 
           "woe:state=2345114", 
           "woe:state=2345117", 
           "woe:state=2345119"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 21.243, 
-        "latitude": 20.806, 
         "sw_longitude": -76.735, 
         "fullname": "Holguin, Cuba", 
         "children": [
@@ -118,7 +117,8 @@
           "woe:town=68701", 
           "woe:island=12483644"
         ], 
-        "sw_latitude": 20.369
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "woe:id": 2345116
       }, 
       "id": 2345116
     }

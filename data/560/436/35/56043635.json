@@ -45,12 +45,9 @@
         "ne_latitude": 48.178, 
         "ne_longitude": 19.922, 
         "longitude": 19.824, 
-        "children": [
-          "woe:county=12593466"
-        ], 
         "placetype": "state", 
         "iso": "HU", 
-        "sw_latitude": 48.041, 
+        "date_indexed": "2010-12-02T09:55:38Z", 
         "adjacent": [
           "woe:state=20070495", 
           "woe:state=12577922"
@@ -62,8 +59,11 @@
         "alias_HUN_S": [
           "Salgotarjan"
         ], 
-        "woeid": 56043635, 
-        "date_indexed": "2010-12-02T09:55:38Z"
+        "children": [
+          "woe:county=12593466"
+        ], 
+        "sw_latitude": 48.041, 
+        "woe:id": 56043635
       }, 
       "id": 56043635
     }

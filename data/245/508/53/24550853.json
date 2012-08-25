@@ -38,7 +38,6 @@
           24550808, 
           24550826
         ], 
-        "ne_latitude": 41.517, 
         "name": "Novo Selo", 
         "alias_ENG_P": [
           "Novo Selo Municipality"
@@ -48,7 +47,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550853, 
+        "ne_latitude": 41.517, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Novo Selo"
         ], 
@@ -56,14 +56,13 @@
         "ne_longitude": 22.984, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.335, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550826", 
           "woe:state=24550750", 
           "woe:state=12577884", 
           "woe:state=24550808"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 41.426, 
         "sw_longitude": 22.77, 
         "fullname": "Novo Selo, Novo Selo Municipality, Macedonia", 
@@ -72,7 +71,8 @@
           "woe:town=482548", 
           "woe:town=482629"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.335, 
+        "woe:id": 24550853
       }, 
       "id": 24550853
     }

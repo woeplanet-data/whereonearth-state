@@ -31,6 +31,34 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Konce Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550778", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 41.618, 
+        "ne_longitude": 22.494, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=482307"
+        ], 
+        "sw_longitude": 22.235, 
+        "adjacent": [
+          "woe:state=24550760", 
+          "woe:state=24550790", 
+          "woe:state=24550865", 
+          "woe:state=24550808", 
+          "woe:state=24550813", 
+          "woe:state=24550814", 
+          "woe:state=24550807"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.522, 
+        "woe:id": 24550778, 
+        "sw_latitude": 41.425, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550760, 
@@ -42,44 +70,16 @@
           24550865
         ], 
         "name": "Kon\u010de", 
-        "alias_ENG_P": [
-          "Konce Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Konce"
-        ], 
-        "woeid": 24550778, 
-        "children": [
-          "woe:town=482307"
         ], 
         "alias_UNK_V": [
           "Opstina Kon\u010de"
         ], 
         "longitude": 22.364, 
-        "ne_longitude": 22.494, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550778", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550760", 
-          "woe:state=24550790", 
-          "woe:state=24550865", 
-          "woe:state=24550808", 
-          "woe:state=24550813", 
-          "woe:state=24550814", 
-          "woe:state=24550807"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.618, 
-        "sw_longitude": 22.235, 
-        "latitude": 41.522, 
-        "fullname": "Kon\u010de, Konce Municipality, Macedonia", 
-        "sw_latitude": 41.425
+        "fullname": "Kon\u010de, Konce Municipality, Macedonia"
       }, 
       "id": 24550778
     }

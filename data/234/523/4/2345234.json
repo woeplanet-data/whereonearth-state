@@ -50,13 +50,12 @@
           "woe:country=23424802", 
           "woe:planet=1"
         ], 
-        "woeid": 2345234, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 31.416, 
         "longitude": 31.235, 
-        "ne_latitude": 30.552, 
         "placetype": "state", 
         "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
+        "sw_latitude": 30.094, 
         "adjacent": [
           "woe:state=2345223", 
           "woe:state=2345227", 
@@ -66,7 +65,7 @@
           "woe:state=2345236", 
           "woe:state=56120898"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 30.552, 
         "latitude": 30.323, 
         "sw_longitude": 31.054, 
         "fullname": "Al Qalyobiyah, Egypt", 
@@ -93,7 +92,8 @@
           "woe:town=1526319", 
           "woe:town=1526531"
         ], 
-        "sw_latitude": 30.094
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "woe:id": 2345234
       }, 
       "id": 2345234
     }

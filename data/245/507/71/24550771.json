@@ -38,7 +38,6 @@
           24550861, 
           24550862
         ], 
-        "ne_latitude": 42.191, 
         "name": "Jegunovce", 
         "alias_ENG_P": [
           "Jegunovce Municipality"
@@ -48,7 +47,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550771, 
+        "ne_latitude": 42.191, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Jegunovce"
         ], 
@@ -56,14 +56,13 @@
         "ne_longitude": 21.197, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 42.014, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550803", 
           "woe:state=24550861", 
           "woe:state=24550862", 
           "woe:state=24550821"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 42.103, 
         "sw_longitude": 21.081, 
         "fullname": "Jegunovce, Jegunovce Municipality, Macedonia", 
@@ -72,7 +71,8 @@
           "woe:town=482579", 
           "woe:town=483231"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 42.014, 
+        "woe:id": 24550771
       }, 
       "id": 24550771
     }

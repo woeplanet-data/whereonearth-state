@@ -31,47 +31,16 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2345560, 
-          2345623, 
-          2345626, 
-          2345638, 
-          2345640
-        ], 
-        "alias_KOR_Q": [
-          "\ucf54\ub974\ud14c\uc2a4"
-        ], 
-        "name": "Cort\u00e9s", 
         "hierarchy": [
           "woe:state=2345628", 
           "woe:country=23424841", 
           "woe:planet=1"
         ], 
-        "woeid": 2345628, 
-        "alias_JPN_Q": [
-          "\u30b3\u30eb\u30c6\u30b9"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -87.725, 
-        "longitude": -88.097, 
-        "placetype": "state", 
-        "alias_SPA_S": [
-          "Cortes"
-        ], 
-        "iso": "HN", 
-        "date_indexed": "2010-12-02T19:20:59Z", 
-        "adjacent": [
-          "woe:state=2345623", 
-          "woe:state=2345626", 
-          "woe:state=2345560", 
-          "woe:state=2345638", 
-          "woe:state=2345640"
-        ], 
         "ne_latitude": 15.923, 
-        "latitude": 15.364, 
-        "sw_longitude": -88.469, 
-        "fullname": "Cort\u00e9s, Honduras", 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ucf54\ub974\ud14c\uc2a4"
+        ], 
         "children": [
           "woe:county=26813616", 
           "woe:county=26813690", 
@@ -86,7 +55,38 @@
           "woe:county=26813826", 
           "woe:county=26813872"
         ], 
-        "sw_latitude": 14.805
+        "alias_JPN_Q": [
+          "\u30b3\u30eb\u30c6\u30b9"
+        ], 
+        "alias_SPA_S": [
+          "Cortes"
+        ], 
+        "sw_longitude": -88.469, 
+        "adjacent": [
+          "woe:state=2345623", 
+          "woe:state=2345626", 
+          "woe:state=2345560", 
+          "woe:state=2345638", 
+          "woe:state=2345640"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.364, 
+        "woe:id": 2345628, 
+        "sw_latitude": 14.805, 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2345560, 
+          2345623, 
+          2345626, 
+          2345638, 
+          2345640
+        ], 
+        "name": "Cort\u00e9s", 
+        "ne_longitude": -87.725, 
+        "longitude": -88.097, 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:20:59Z", 
+        "fullname": "Cort\u00e9s, Honduras"
       }, 
       "id": 2345628
     }

@@ -31,43 +31,16 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ARA", 
-        "adjacent_woeid": [
-          2347244, 
-          2347247, 
-          2347248
-        ], 
-        "alias_KOR_Q": [
-          "\ud280\ub2c8\uc2a4"
-        ], 
-        "name": "Tunis", 
         "hierarchy": [
           "woe:state=2347256", 
           "woe:country=23424967", 
           "woe:planet=1"
         ], 
         "ne_latitude": 36.878, 
-        "alias_JPN_Q": [
-          "\u30c1\u30e5\u30cb\u30b9"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 10.436, 
-        "longitude": 10.215, 
-        "alias_CHI_Q": [
-          "\u7a81\u5c3c\u65af"
-        ], 
         "placetype": "state", 
-        "iso": "TN", 
-        "date_indexed": "2010-12-02T18:18:54Z", 
-        "adjacent": [
-          "woe:state=2347247", 
-          "woe:state=2347248", 
-          "woe:state=2347244"
+        "alias_KOR_Q": [
+          "\ud280\ub2c8\uc2a4"
         ], 
-        "woeid": 2347256, 
-        "latitude": 36.76, 
-        "sw_longitude": 9.995, 
-        "fullname": "Tunis, Tunisia", 
         "children": [
           "woe:town=1441791", 
           "woe:town=1441821", 
@@ -96,7 +69,34 @@
           "woe:town=1442674", 
           "woe:town=1442746"
         ], 
-        "sw_latitude": 36.643
+        "alias_CHI_Q": [
+          "\u7a81\u5c3c\u65af"
+        ], 
+        "alias_JPN_Q": [
+          "\u30c1\u30e5\u30cb\u30b9"
+        ], 
+        "sw_longitude": 9.995, 
+        "adjacent": [
+          "woe:state=2347247", 
+          "woe:state=2347248", 
+          "woe:state=2347244"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 36.76, 
+        "woe:id": 2347256, 
+        "sw_latitude": 36.643, 
+        "lang": "ARA", 
+        "adjacent_woeid": [
+          2347244, 
+          2347247, 
+          2347248
+        ], 
+        "name": "Tunis", 
+        "ne_longitude": 10.436, 
+        "longitude": 10.215, 
+        "iso": "TN", 
+        "date_indexed": "2010-12-02T18:18:54Z", 
+        "fullname": "Tunis, Tunisia"
       }, 
       "id": 2347256
     }

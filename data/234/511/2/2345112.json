@@ -46,20 +46,19 @@
           "woe:country=23424793", 
           "woe:planet=1"
         ], 
-        "woeid": 2345112, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -80.034, 
         "longitude": -80.477, 
         "placetype": "state", 
+        "latitude": 22.195, 
         "iso": "CU", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 21.817, 
         "adjacent": [
           "woe:state=2345108", 
           "woe:state=2345118", 
           "woe:state=2345120"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 22.573, 
-        "latitude": 22.195, 
         "sw_longitude": -80.919, 
         "fullname": "Cienfuegos, Cuba", 
         "children": [
@@ -91,7 +90,8 @@
           "woe:town=66689", 
           "woe:town=68696"
         ], 
-        "sw_latitude": 21.817
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "woe:id": 2345112
       }, 
       "id": 2345112
     }

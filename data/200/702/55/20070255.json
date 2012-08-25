@@ -38,24 +38,23 @@
           20070233
         ], 
         "name": "Zangilan", 
-        "ne_latitude": 39.25, 
         "hierarchy": [
           "woe:state=20070255", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070255, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 46.865, 
         "longitude": 46.652, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 38.873, 
         "adjacent": [
           "woe:state=20070224", 
           "woe:state=20070233", 
           "woe:state=20070206"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.25, 
         "latitude": 39.061, 
         "sw_longitude": 46.438, 
         "fullname": "Zangilan, Azerbaijan", 
@@ -65,7 +64,8 @@
           "woe:town=1952040", 
           "woe:town=1951770"
         ], 
-        "sw_latitude": 38.873
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070255
       }, 
       "id": 20070255
     }

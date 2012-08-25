@@ -45,18 +45,17 @@
           "woe:country=23424984", 
           "woe:planet=1"
         ], 
-        "woeid": 20070085, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 108.336, 
         "longitude": 108.071, 
-        "ne_latitude": 16.223, 
         "placetype": "state", 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 15.845, 
         "adjacent": [
           "woe:state=2347711", 
           "woe:state=2347749"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.223, 
         "latitude": 16.027, 
         "sw_longitude": 107.807, 
         "fullname": "Da Nang, Vietnam", 
@@ -70,7 +69,8 @@
           "woe:town=1252270", 
           "woe:island=12502559"
         ], 
-        "sw_latitude": 15.845
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "woe:id": 20070085
       }, 
       "id": 20070085
     }

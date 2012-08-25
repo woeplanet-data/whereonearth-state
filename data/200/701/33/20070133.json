@@ -40,18 +40,17 @@
           20070135
         ], 
         "name": "Salima", 
-        "ne_latitude": -13.403, 
         "hierarchy": [
           "woe:state=20070133", 
           "woe:country=23424889", 
           "woe:planet=1"
         ], 
-        "woeid": 20070133, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 34.861, 
         "longitude": 34.482, 
         "placetype": "state", 
         "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
+        "sw_latitude": -14.127, 
         "adjacent": [
           "woe:state=20070135", 
           "woe:state=20070132", 
@@ -59,7 +58,7 @@
           "woe:state=20070129", 
           "woe:state=20070130"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -13.403, 
         "latitude": -13.765, 
         "sw_longitude": 34.103, 
         "fullname": "Salima, Malawi", 
@@ -69,7 +68,8 @@
           "woe:town=1369046", 
           "woe:town=1369102"
         ], 
-        "sw_latitude": -14.127
+        "date_indexed": "2010-12-02T17:40:22Z", 
+        "woe:id": 20070133
       }, 
       "id": 20070133
     }

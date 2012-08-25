@@ -39,25 +39,24 @@
           12590635
         ], 
         "name": "Hammarland", 
-        "ne_latitude": 60.425, 
         "hierarchy": [
           "woe:state=12590634", 
           "woe:country=12577865", 
           "woe:planet=1"
         ], 
-        "woeid": 12590634, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 19.849, 
         "longitude": 19.742, 
         "placetype": "state", 
         "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
+        "sw_latitude": 60.117, 
         "adjacent": [
           "woe:state=12590630", 
           "woe:state=12590631", 
           "woe:state=12590633", 
           "woe:state=12590635"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 60.425, 
         "latitude": 60.234, 
         "sw_longitude": 19.55, 
         "fullname": "Hammarland, Aland Islands", 
@@ -135,7 +134,8 @@
           "woe:island=24900677", 
           "woe:island=24900685"
         ], 
-        "sw_latitude": 60.117
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "woe:id": 12590634
       }, 
       "id": 12590634
     }

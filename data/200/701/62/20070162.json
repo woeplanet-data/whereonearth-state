@@ -38,24 +38,23 @@
           20070164
         ], 
         "name": "Viangchan", 
-        "ne_latitude": 18.355, 
         "hierarchy": [
           "woe:state=20070162", 
           "woe:country=23424872", 
           "woe:planet=1"
         ], 
-        "woeid": 20070162, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 103.121, 
         "longitude": 102.631, 
         "placetype": "state", 
         "iso": "LA", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
+        "sw_latitude": 17.805, 
         "adjacent": [
           "woe:state=20070163", 
           "woe:state=2347144", 
           "woe:state=20070164"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.355, 
         "latitude": 18.08, 
         "sw_longitude": 102.141, 
         "fullname": "Viangchan, Laos", 
@@ -72,7 +71,8 @@
           "woe:town=1140540", 
           "woe:town=1140612"
         ], 
-        "sw_latitude": 17.805
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "woe:id": 20070162
       }, 
       "id": 20070162
     }

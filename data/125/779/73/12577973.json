@@ -1335,7 +1335,7 @@
         "ne:Shape_Area": 0.159095045809, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "19921230", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "HRV", 
         "children": [
@@ -1368,7 +1368,7 @@
           "woe:historicalcounty=15022350", 
           "woe:historicalcounty=15022378"
         ], 
-        "ne:OBJECTID": 1490, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 16.6318843931503, 
@@ -1384,9 +1384,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 42.41642934833578, 
-        "ne:VertexCou": 304.0, 
-        "ne:VALIDFR_1": "19921230", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 1490, 
         "ne:Postal": "DN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Dubrovnik-Neretva", 
@@ -1402,14 +1402,14 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 1444.0, 
         "woe:id": "12577973", 
-        "ne:HASC_1": "HR.DN", 
-        "lang": "UNK", 
+        "name": "Dubrova\u010dko-neretvanska", 
+        "ne:VertexCou": 304.0, 
         "adjacent_woeid": [
           12577985, 
           24549661, 
           24549662
         ], 
-        "name": "Dubrova\u010dko-neretvanska", 
+        "ne:HASC_1": "HR.DN", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Dubrovacko-neretvanska"

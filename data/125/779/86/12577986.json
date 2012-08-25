@@ -31,28 +31,19 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "UNK", 
-        "adjacent_woeid": [
-          12577976, 
-          12577977, 
-          12577979, 
-          12577990, 
-          55848373, 
-          55848377
+        "alias_ENG_V": [
+          "Vara\u017edin"
         ], 
         "alias_ENG_S": [
           "Varazdin"
         ], 
-        "name": "Vara\u017edinska", 
-        "alias_ENG_V": [
-          "Vara\u017edin"
+        "hierarchy": [
+          "woe:state=12577986", 
+          "woe:country=23424843", 
+          "woe:planet=1"
         ], 
-        "alias_UNK_S": [
-          "Varazdinska"
-        ], 
-        "woeid": 12577986, 
-        "ne_longitude": 16.774, 
-        "longitude": 16.325, 
+        "ne_latitude": 46.405, 
+        "placetype": "state", 
         "children": [
           "woe:county=15022484", 
           "woe:county=15022179", 
@@ -83,14 +74,7 @@
           "woe:county=15022198", 
           "woe:county=15022199"
         ], 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=12577986", 
-          "woe:country=23424843", 
-          "woe:planet=1"
-        ], 
-        "iso": "HR", 
-        "date_indexed": "2010-12-02T17:06:25Z", 
+        "sw_longitude": 15.877, 
         "adjacent": [
           "woe:state=12577976", 
           "woe:state=12577977", 
@@ -100,11 +84,27 @@
           "woe:state=12577990"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 46.405, 
-        "sw_longitude": 15.877, 
         "latitude": 46.208, 
-        "fullname": "Vara\u017edinska, Croatia", 
-        "sw_latitude": 46.01
+        "woe:id": 12577986, 
+        "sw_latitude": 46.01, 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          12577976, 
+          12577977, 
+          12577979, 
+          12577990, 
+          55848373, 
+          55848377
+        ], 
+        "name": "Vara\u017edinska", 
+        "alias_UNK_S": [
+          "Varazdinska"
+        ], 
+        "ne_longitude": 16.774, 
+        "longitude": 16.325, 
+        "iso": "HR", 
+        "date_indexed": "2010-12-02T17:06:25Z", 
+        "fullname": "Vara\u017edinska, Croatia"
       }, 
       "id": 12577986
     }

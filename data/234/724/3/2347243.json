@@ -37,23 +37,22 @@
           2347247
         ], 
         "name": "Banzart", 
-        "ne_latitude": 37.567, 
         "hierarchy": [
           "woe:state=2347243", 
           "woe:country=23424967", 
           "woe:planet=1"
         ], 
-        "woeid": 2347243, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 10.334, 
         "longitude": 9.652, 
         "placetype": "state", 
         "iso": "TN", 
-        "date_indexed": "2010-12-02T18:18:54Z", 
+        "sw_latitude": 36.7, 
         "adjacent": [
           "woe:state=2347247", 
           "woe:state=2347242"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 37.567, 
         "latitude": 37.025, 
         "sw_longitude": 8.866, 
         "fullname": "Banzart, Tunisia", 
@@ -94,7 +93,8 @@
           "woe:island=12466660", 
           "woe:island=12466663"
         ], 
-        "sw_latitude": 36.7
+        "date_indexed": "2010-12-02T18:18:54Z", 
+        "woe:id": 2347243
       }, 
       "id": 2347243
     }

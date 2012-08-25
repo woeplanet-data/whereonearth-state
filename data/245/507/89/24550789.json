@@ -39,7 +39,6 @@
           24550791, 
           24550799
         ], 
-        "ne_latitude": 41.268, 
         "name": "Mogila", 
         "alias_ENG_P": [
           "Mogila Municipality"
@@ -49,7 +48,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550789, 
+        "ne_latitude": 41.268, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Mogila"
         ], 
@@ -57,7 +57,7 @@
         "ne_longitude": 21.606, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.089, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550747", 
           "woe:state=24550781", 
@@ -65,7 +65,6 @@
           "woe:state=24550791", 
           "woe:state=24550799"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 41.178, 
         "sw_longitude": 21.304, 
         "fullname": "Mogila, Mogila Municipality, Macedonia", 
@@ -75,7 +74,8 @@
           "woe:town=482211", 
           "woe:town=482541"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.089, 
+        "woe:id": 24550789
       }, 
       "id": 24550789
     }

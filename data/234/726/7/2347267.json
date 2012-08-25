@@ -1176,7 +1176,7 @@
         "ne:Shape_Area": 1.52670218894, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1957", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
         "children": [
@@ -1201,7 +1201,7 @@
           "woe:county=29390907", 
           "woe:landfeature=56058350"
         ], 
-        "ne:OBJECTID": 2238, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 26.609259881138655, 
@@ -1219,9 +1219,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 39.05017487257237, 
-        "ne:VertexCou": 283.0, 
-        "ne:VALIDFR_1": "1957", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 2238, 
         "ne:Postal": "BK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Balikesir|Balikisri", 
@@ -1237,8 +1237,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 14542.2, 
         "woe:id": "2347267", 
-        "ne:HASC_1": "TR.BK", 
-        "lang": "UNK", 
+        "name": "Bal\u0131kesir", 
+        "ne:VertexCou": 283.0, 
         "adjacent_woeid": [
           2347273, 
           2347274, 
@@ -1246,7 +1246,7 @@
           2347297, 
           2347299
         ], 
-        "name": "Bal\u0131kesir", 
+        "ne:HASC_1": "TR.BK", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Balikesir"

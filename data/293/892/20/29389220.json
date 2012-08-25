@@ -40,21 +40,20 @@
           29389225
         ], 
         "name": "Kolubara", 
-        "ne_latitude": 44.608, 
         "hierarchy": [
           "woe:state=29389220", 
           "woe:country=20069818", 
           "woe:planet=1"
         ], 
-        "woeid": 29389220, 
         "alias_UNK_Q": [
           "Kolubarski Okrug"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.454, 
         "longitude": 19.945, 
         "placetype": "state", 
         "iso": "RS", 
-        "sw_latitude": 44.089, 
+        "date_indexed": "2010-12-02T10:22:30Z", 
         "adjacent": [
           "woe:state=29389217", 
           "woe:state=29389202", 
@@ -62,7 +61,7 @@
           "woe:state=29389225", 
           "woe:state=29389216"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 44.608, 
         "latitude": 44.348, 
         "sw_longitude": 19.437, 
         "fullname": "Kolubara, Serbia", 
@@ -90,7 +89,8 @@
           "woe:town=537258", 
           "woe:town=537299"
         ], 
-        "date_indexed": "2010-12-02T10:22:30Z"
+        "sw_latitude": 44.089, 
+        "woe:id": 29389220
       }, 
       "id": 29389220
     }

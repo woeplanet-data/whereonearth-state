@@ -1839,10 +1839,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 43.97258759234359, 
+        "ne:DataRank": 3, 
         "ne:Shape_Area": 1.08864817238, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
         "children": [
@@ -1852,15 +1853,15 @@
           "woe:county=12591841", 
           "woe:zone=24874002"
         ], 
-        "ne:VALIDTO_1": "Unknown", 
-        "ne:OBJECTID": 826, 
-        "alias_ITA_V": [
-          "Marche Regione"
-        ], 
-        "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Marcas"
         ], 
+        "alias_ITA_V": [
+          "Marche Regione"
+        ], 
+        "ne:sameAsCity": -99, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
           "MH"
         ], 
@@ -1879,9 +1880,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "ne:VertexCou": 454.0, 
-        "ne:VALIDFR_1": "1895", 
-        "ne:DataRank": 3, 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 826, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Marches|Marca", 
@@ -1897,8 +1898,8 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 9802.4, 
         "woe:id": "7153339", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Marche", 
+        "ne:VertexCou": 454.0, 
         "adjacent_woeid": [
           7153334, 
           7153336, 
@@ -1906,7 +1907,7 @@
           7153347, 
           7153350
         ], 
-        "name": "Marche", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITE", 
         "ne_longitude": 13.905745883865507, 
         "longitude": 13.006, 
@@ -1914,13 +1915,12 @@
         "sw_latitude": 42.687653103507955, 
         "ne:NL_NAME_1": null, 
         "fullname": "Marche, Italy", 
-        "alias_FRE_Q": [
-          "Les Marches"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
-        "ne:sameAsCity": -99
+        "alias_FRE_Q": [
+          "Les Marches"
+        ]
       }, 
       "id": 7153339
     }

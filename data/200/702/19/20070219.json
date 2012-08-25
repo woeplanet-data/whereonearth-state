@@ -42,18 +42,17 @@
           20070274
         ], 
         "name": "Barda", 
-        "ne_latitude": 40.556, 
         "hierarchy": [
           "woe:state=20070219", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070219, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 47.506, 
         "longitude": 47.244, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 40.146, 
         "adjacent": [
           "woe:state=20070214", 
           "woe:state=20070258", 
@@ -63,7 +62,7 @@
           "woe:state=20070252", 
           "woe:state=20070256"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.556, 
         "latitude": 40.351, 
         "sw_longitude": 46.983, 
         "fullname": "Barda, Azerbaijan", 
@@ -71,7 +70,8 @@
           "woe:town=1951876", 
           "woe:town=56121507"
         ], 
-        "sw_latitude": 40.146
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070219
       }, 
       "id": 20070219
     }

@@ -2382,7 +2382,7 @@
         "ne:Shape_Area": 5.49487406487, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "18241004", 
         "alias_ENG_A": [
           "GR"
         ], 
@@ -2472,7 +2472,7 @@
           "woe:county=12600109", 
           "woe:town=149306"
         ], 
-        "ne:OBJECTID": 2729, 
+        "ne:DataRank": 2, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -102.17957149932522, 
@@ -2492,9 +2492,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 16.3216397162999, 
-        "ne:VertexCou": 589.0, 
-        "ne:VALIDFR_1": "18241004", 
-        "ne:DataRank": 2, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 2729, 
         "ne:Postal": "GR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2510,8 +2510,8 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 64522.9, 
         "woe:id": "2346275", 
-        "ne:HASC_1": "MX.GR", 
-        "lang": "SPA", 
+        "name": "Guerrero", 
+        "ne:VertexCou": 589.0, 
         "adjacent_woeid": [
           2346278, 
           2346279, 
@@ -2519,7 +2519,7 @@
           2346283, 
           2346284
         ], 
-        "name": "Guerrero", 
+        "ne:HASC_1": "MX.GR", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -100.095, 

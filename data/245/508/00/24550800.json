@@ -31,6 +31,35 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Probistip Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550800", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 42.086, 
+        "ne_longitude": 22.372, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=482792", 
+          "woe:town=483285"
+        ], 
+        "sw_longitude": 22.043, 
+        "adjacent": [
+          "woe:state=24550772", 
+          "woe:state=24550777", 
+          "woe:state=24550780", 
+          "woe:state=24550832", 
+          "woe:state=24550811", 
+          "woe:state=24550757", 
+          "woe:state=24550807"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.969, 
+        "woe:id": 24550800, 
+        "sw_latitude": 41.852, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550757, 
@@ -42,45 +71,16 @@
           24550832
         ], 
         "name": "Probi\u0161tip", 
-        "alias_ENG_P": [
-          "Probistip Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Probistip"
-        ], 
-        "woeid": 24550800, 
-        "children": [
-          "woe:town=482792", 
-          "woe:town=483285"
         ], 
         "alias_UNK_V": [
           "Opstina Probi\u0161tip"
         ], 
         "longitude": 22.207, 
-        "ne_longitude": 22.372, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550800", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550772", 
-          "woe:state=24550777", 
-          "woe:state=24550780", 
-          "woe:state=24550832", 
-          "woe:state=24550811", 
-          "woe:state=24550757", 
-          "woe:state=24550807"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.086, 
-        "sw_longitude": 22.043, 
-        "latitude": 41.969, 
-        "fullname": "Probi\u0161tip, Probistip Municipality, Macedonia", 
-        "sw_latitude": 41.852
+        "fullname": "Probi\u0161tip, Probistip Municipality, Macedonia"
       }, 
       "id": 24550800
     }

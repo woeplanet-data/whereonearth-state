@@ -37,23 +37,22 @@
           56189818
         ], 
         "name": "Chitipa", 
-        "ne_latitude": -9.368, 
         "hierarchy": [
           "woe:state=20070124", 
           "woe:country=23424889", 
           "woe:planet=1"
         ], 
-        "woeid": 20070124, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 33.951, 
         "longitude": 33.447, 
         "placetype": "state", 
         "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
+        "sw_latitude": -10.578, 
         "adjacent": [
           "woe:state=56189818", 
           "woe:state=20070126"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -9.368, 
         "latitude": -9.973, 
         "sw_longitude": 32.944, 
         "fullname": "Chitipa, Malawi", 
@@ -75,7 +74,8 @@
           "woe:town=1368881", 
           "woe:town=1369294"
         ], 
-        "sw_latitude": -10.578
+        "date_indexed": "2010-12-02T17:40:22Z", 
+        "woe:id": 20070124
       }, 
       "id": 20070124
     }

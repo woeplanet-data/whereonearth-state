@@ -41,18 +41,17 @@
           20070406
         ], 
         "name": "Senakis Raioni", 
-        "ne_latitude": 42.512, 
         "hierarchy": [
           "woe:state=20070399", 
           "woe:country=23424823", 
           "woe:planet=1"
         ], 
-        "woeid": 20070399, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 42.38, 
         "longitude": 42.0, 
         "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
+        "sw_latitude": 42.128, 
         "adjacent": [
           "woe:state=20070395", 
           "woe:state=20070397", 
@@ -61,7 +60,7 @@
           "woe:state=20070378", 
           "woe:state=20070396"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.512, 
         "latitude": 42.312, 
         "sw_longitude": 41.787, 
         "fullname": "Senakis Raioni, Georgia", 
@@ -100,7 +99,8 @@
           "woe:town=1966503", 
           "woe:town=22722364"
         ], 
-        "sw_latitude": 42.128
+        "date_indexed": "2010-12-02T17:51:52Z", 
+        "woe:id": 20070399
       }, 
       "id": 20070399
     }

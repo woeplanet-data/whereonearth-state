@@ -39,25 +39,24 @@
           2346598
         ], 
         "name": "Western", 
-        "ne_latitude": -5.036, 
         "hierarchy": [
           "woe:state=2346586", 
           "woe:country=23424926", 
           "woe:planet=1"
         ], 
-        "woeid": 2346586, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 143.905, 
         "longitude": 142.374, 
         "placetype": "state", 
         "iso": "PG", 
-        "date_indexed": "2010-12-02T09:57:22Z", 
+        "sw_latitude": -9.334, 
         "adjacent": [
           "woe:state=2346582", 
           "woe:state=2345718", 
           "woe:state=2346598", 
           "woe:state=2346585"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -5.036, 
         "latitude": -7.185, 
         "sw_longitude": 140.843, 
         "fullname": "Western, Papua New Guinea", 
@@ -270,7 +269,8 @@
           "woe:island=12498665", 
           "woe:island=12498666"
         ], 
-        "sw_latitude": -9.334
+        "date_indexed": "2010-12-02T09:57:22Z", 
+        "woe:id": 2346586
       }, 
       "id": 2346586
     }

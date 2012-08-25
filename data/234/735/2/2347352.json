@@ -530,7 +530,7 @@
         "ne:Shape_Area": 3.14089796773, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "between 1922-1966", 
         "alias_KOR_Q": [
           "\uc544\ub8e8\uc0e4"
         ], 
@@ -547,7 +547,7 @@
         "alias_CHI_Q": [
           "\u963f\u9c81\u6c99"
         ], 
-        "ne:OBJECTID": 3391, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30fc\u30b7\u30e3"
         ], 
@@ -569,9 +569,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": -4.129454147590764, 
-        "ne:VertexCou": 127.0, 
-        "ne:VALIDFR_1": "between 1922-1966", 
-        "ne:DataRank": 5, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3391, 
         "ne:Postal": "AS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -587,8 +587,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 38610.2, 
         "woe:id": "2347352", 
-        "ne:HASC_1": "TZ.AS", 
-        "lang": "ENG", 
+        "name": "Arusha", 
+        "ne:VertexCou": 127.0, 
         "adjacent_woeid": [
           2345943, 
           2347357, 
@@ -597,7 +597,7 @@
           2347367, 
           56025085
         ], 
-        "name": "Arusha", 
+        "ne:HASC_1": "TZ.AS", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 37.423586867340134, 
         "longitude": 36.044, 

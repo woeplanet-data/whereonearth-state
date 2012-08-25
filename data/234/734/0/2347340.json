@@ -31,25 +31,19 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "CHI", 
         "alias_ENG_V": [
           "Pingtung"
         ], 
-        "name": "\u5c4f\u6771\u7e23", 
-        "alias_CHI_V": [
-          "\u5c4f\u6771"
+        "alias_ENG_P": [
+          "Pingtung County"
         ], 
         "hierarchy": [
           "woe:state=2347340", 
           "woe:country=23424971", 
           "woe:planet=1"
         ], 
-        "woeid": 2347340, 
-        "alias_ENG_P": [
-          "Pingtung County"
-        ], 
-        "ne_longitude": 120.904, 
-        "longitude": 120.595, 
+        "ne_latitude": 22.886, 
+        "placetype": "state", 
         "children": [
           "woe:town=2306189", 
           "woe:town=2297839", 
@@ -364,23 +358,29 @@
           "woe:drainage=28803196", 
           "woe:drainage=28803198"
         ], 
-        "placetype": "state", 
-        "adjacent_woeid": [
-          20070570, 
-          2347344
+        "alias_CHI_V": [
+          "\u5c4f\u6771"
         ], 
-        "iso": "TW", 
-        "date_indexed": "2010-12-02T16:15:11Z", 
+        "sw_longitude": 120.353, 
         "adjacent": [
           "woe:state=2347344", 
           "woe:state=20070570"
         ], 
-        "ne_latitude": 22.886, 
-        "latitude": 22.611, 
-        "sw_longitude": 120.353, 
-        "fullname": "\u5c4f\u6771\u7e23, Taiwan, Pingtung County, Taiwan", 
         "provider": "geoplanet 7.6.0", 
-        "sw_latitude": 21.897
+        "latitude": 22.611, 
+        "woe:id": 2347340, 
+        "sw_latitude": 21.897, 
+        "lang": "CHI", 
+        "adjacent_woeid": [
+          20070570, 
+          2347344
+        ], 
+        "name": "\u5c4f\u6771\u7e23", 
+        "ne_longitude": 120.904, 
+        "longitude": 120.595, 
+        "iso": "TW", 
+        "date_indexed": "2010-12-02T16:15:11Z", 
+        "fullname": "\u5c4f\u6771\u7e23, Taiwan, Pingtung County, Taiwan"
       }, 
       "id": 2347340
     }

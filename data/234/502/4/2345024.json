@@ -1505,7 +1505,7 @@
         "ne:Shape_Area": 3.51787621784, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1979", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHL", 
         "children": [
@@ -1513,7 +1513,7 @@
           "woe:county=26793995", 
           "woe:county=26793999"
         ], 
-        "ne:OBJECTID": 2697, 
+        "ne:DataRank": 3, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_SPA_S": [
@@ -1534,9 +1534,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": -32.22035857488828, 
-        "ne:VertexCou": 368.0, 
-        "ne:VALIDFR_1": "1979", 
-        "ne:DataRank": 3, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 2697, 
         "ne:Postal": "CO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1552,14 +1552,14 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 37384.4, 
         "woe:id": "2345024", 
-        "ne:HASC_1": "CL.CO", 
-        "lang": "SPA", 
+        "name": "Coquimbo", 
+        "ne:VertexCou": 368.0, 
         "adjacent_woeid": [
           2344692, 
           2345018, 
           2345022
         ], 
-        "name": "Coquimbo", 
+        "ne:HASC_1": "CL.CO", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -70.761, 

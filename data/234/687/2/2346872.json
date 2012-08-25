@@ -40,18 +40,17 @@
           2346933
         ], 
         "name": "Kalmykiya", 
-        "ne_latitude": 48.226, 
         "hierarchy": [
           "woe:state=2346872", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346872, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 47.595, 
         "longitude": 44.629, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 44.696, 
         "adjacent": [
           "woe:state=2346890", 
           "woe:state=2346870", 
@@ -59,7 +58,7 @@
           "woe:state=2346887", 
           "woe:state=2346933"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 48.226, 
         "latitude": 46.487, 
         "sw_longitude": 41.662, 
         "fullname": "Kalmykiya, Russia", 
@@ -79,7 +78,8 @@
           "woe:county=12597420", 
           "woe:county=12597421"
         ], 
-        "sw_latitude": 44.696
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346872
       }, 
       "id": 2346872
     }

@@ -31,6 +31,33 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Vrapciste Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550819", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 41.973, 
+        "ne_longitude": 20.965, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=481921", 
+          "woe:town=482573", 
+          "woe:town=482734", 
+          "woe:town=483230"
+        ], 
+        "sw_longitude": 20.694, 
+        "adjacent": [
+          "woe:state=24550828", 
+          "woe:state=24550751", 
+          "woe:state=24550767"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.895, 
+        "woe:id": 24550819, 
+        "sw_latitude": 41.816, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550751, 
@@ -38,43 +65,16 @@
           24550828
         ], 
         "name": "Vrap\u010di\u0161te", 
-        "alias_ENG_P": [
-          "Vrapciste Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Vrapciste"
-        ], 
-        "woeid": 24550819, 
-        "children": [
-          "woe:town=481921", 
-          "woe:town=482573", 
-          "woe:town=482734", 
-          "woe:town=483230"
         ], 
         "alias_UNK_V": [
           "Opstina Vrap\u010di\u0161te"
         ], 
         "longitude": 20.83, 
-        "ne_longitude": 20.965, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550819", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550828", 
-          "woe:state=24550751", 
-          "woe:state=24550767"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.973, 
-        "sw_longitude": 20.694, 
-        "latitude": 41.895, 
-        "fullname": "Vrap\u010di\u0161te, Vrapciste Municipality, Macedonia", 
-        "sw_latitude": 41.816
+        "fullname": "Vrap\u010di\u0161te, Vrapciste Municipality, Macedonia"
       }, 
       "id": 24550819
     }

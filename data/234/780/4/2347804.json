@@ -40,18 +40,17 @@
           2347815
         ], 
         "name": "Southern", 
+        "ne_latitude": -15.075, 
         "hierarchy": [
           "woe:state=2347804", 
           "woe:country=23425003", 
           "woe:planet=1"
         ], 
-        "woeid": 2347804, 
         "ne_longitude": 28.892, 
         "longitude": 26.964, 
         "placetype": "state", 
-        "latitude": -16.577, 
         "iso": "ZM", 
-        "sw_latitude": -18.079, 
+        "date_indexed": "2010-12-02T07:50:33Z", 
         "adjacent": [
           "woe:state=2347805", 
           "woe:state=2347809", 
@@ -60,7 +59,7 @@
           "woe:state=2347803"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -15.075, 
+        "latitude": -16.577, 
         "sw_longitude": 25.037, 
         "fullname": "Southern, Zambia", 
         "children": [
@@ -112,7 +111,8 @@
           "woe:town=1576208", 
           "woe:drainage=26354124"
         ], 
-        "date_indexed": "2010-12-02T07:50:33Z"
+        "sw_latitude": -18.079, 
+        "woe:id": 2347804
       }, 
       "id": 2347804
     }

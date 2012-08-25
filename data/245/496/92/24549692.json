@@ -36,27 +36,26 @@
           24549696
         ], 
         "name": "T\u00f3rshavn", 
-        "ne_latitude": 62.057, 
+        "alias_DAN_S": [
+          "Torshavn"
+        ], 
         "hierarchy": [
           "woe:state=24549692", 
           "woe:country=23424816", 
           "woe:planet=1"
         ], 
-        "woeid": 24549692, 
-        "sw_latitude": 61.952, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -6.61, 
         "longitude": -6.786, 
         "placetype": "state", 
         "sw_longitude": -6.83, 
-        "iso": "FO", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
         "adjacent": [
           "woe:state=24549696"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 62.057, 
         "latitude": 62.02, 
-        "alias_DAN_S": [
-          "Torshavn"
-        ], 
+        "iso": "FO", 
         "fullname": "T\u00f3rshavn, Faroe Islands", 
         "children": [
           "woe:town=472654", 
@@ -65,7 +64,8 @@
           "woe:town=472768", 
           "woe:island=12473094"
         ], 
-        "date_indexed": "2010-12-02T08:52:18Z"
+        "sw_latitude": 61.952, 
+        "woe:id": 24549692
       }, 
       "id": 24549692
     }

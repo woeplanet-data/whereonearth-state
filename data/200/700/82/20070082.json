@@ -37,23 +37,22 @@
           20070081
         ], 
         "name": "Ca Mau", 
-        "ne_latitude": 9.563, 
         "hierarchy": [
           "woe:state=20070082", 
           "woe:country=23424984", 
           "woe:planet=1"
         ], 
-        "woeid": 20070082, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.75, 
         "longitude": 105.068, 
         "placetype": "state", 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 8.408, 
         "adjacent": [
           "woe:state=20070081", 
           "woe:state=2347723"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.563, 
         "latitude": 9.061, 
         "sw_longitude": 104.512, 
         "fullname": "Ca Mau, Vietnam", 
@@ -88,7 +87,8 @@
           "woe:island=12502594", 
           "woe:airport=12522889"
         ], 
-        "sw_latitude": 8.408
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "woe:id": 20070082
       }, 
       "id": 20070082
     }

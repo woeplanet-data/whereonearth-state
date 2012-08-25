@@ -38,24 +38,23 @@
           2345198
         ], 
         "name": "Salcedo", 
-        "ne_latitude": 19.56, 
         "hierarchy": [
           "woe:state=2345188", 
           "woe:country=23424800", 
           "woe:planet=1"
         ], 
-        "woeid": 2345188, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -70.213, 
         "longitude": -70.333, 
         "placetype": "state", 
         "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
+        "sw_latitude": 19.219, 
         "adjacent": [
           "woe:state=2345177", 
           "woe:state=2345178", 
           "woe:state=2345198"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.56, 
         "latitude": 19.39, 
         "sw_longitude": -70.453, 
         "fullname": "Salcedo, Dominican Republic", 
@@ -64,7 +63,8 @@
           "woe:town=76538", 
           "woe:town=76685"
         ], 
-        "sw_latitude": 19.219
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "woe:id": 2345188
       }, 
       "id": 2345188
     }

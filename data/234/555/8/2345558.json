@@ -31,51 +31,16 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2345553, 
-          2345554, 
-          2345556, 
-          2345557, 
-          2345561, 
-          2345567, 
-          2345569
-        ], 
-        "alias_KOR_Q": [
-          "\uacfc\ud14c\ub9d0\ub77c"
-        ], 
-        "name": "Guatemala", 
         "hierarchy": [
           "woe:state=2345558", 
           "woe:country=23424834", 
           "woe:planet=1"
         ], 
         "ne_latitude": 14.915, 
-        "alias_JPN_Q": [
-          "\u30b0\u30a2\u30c6\u30de\u30e9"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -90.212, 
-        "longitude": -90.487, 
-        "alias_CHI_Q": [
-          "\u5371\u5730\u9a6c\u62c9"
-        ], 
         "placetype": "state", 
-        "iso": "GT", 
-        "date_indexed": "2010-12-02T16:55:18Z", 
-        "adjacent": [
-          "woe:state=2345553", 
-          "woe:state=2345554", 
-          "woe:state=2345556", 
-          "woe:state=2345557", 
-          "woe:state=2345561", 
-          "woe:state=2345567", 
-          "woe:state=2345569"
+        "alias_KOR_Q": [
+          "\uacfc\ud14c\ub9d0\ub77c"
         ], 
-        "woeid": 2345558, 
-        "latitude": 14.578, 
-        "sw_longitude": -90.763, 
-        "fullname": "Guatemala", 
         "children": [
           "woe:county=26806997", 
           "woe:county=26806986", 
@@ -95,7 +60,42 @@
           "woe:county=26806994", 
           "woe:county=26806993"
         ], 
-        "sw_latitude": 14.242
+        "alias_CHI_Q": [
+          "\u5371\u5730\u9a6c\u62c9"
+        ], 
+        "alias_JPN_Q": [
+          "\u30b0\u30a2\u30c6\u30de\u30e9"
+        ], 
+        "sw_longitude": -90.763, 
+        "adjacent": [
+          "woe:state=2345553", 
+          "woe:state=2345554", 
+          "woe:state=2345556", 
+          "woe:state=2345557", 
+          "woe:state=2345561", 
+          "woe:state=2345567", 
+          "woe:state=2345569"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.578, 
+        "woe:id": 2345558, 
+        "sw_latitude": 14.242, 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2345553, 
+          2345554, 
+          2345556, 
+          2345557, 
+          2345561, 
+          2345567, 
+          2345569
+        ], 
+        "name": "Guatemala", 
+        "ne_longitude": -90.212, 
+        "longitude": -90.487, 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "fullname": "Guatemala"
       }, 
       "id": 2345558
     }

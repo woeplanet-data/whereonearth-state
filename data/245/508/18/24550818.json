@@ -31,6 +31,33 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Vranestica Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550818", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 41.576, 
+        "ne_longitude": 21.125, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=483225", 
+          "woe:town=481843"
+        ], 
+        "sw_longitude": 20.983, 
+        "adjacent": [
+          "woe:state=24550764", 
+          "woe:state=24550775", 
+          "woe:state=24550786", 
+          "woe:state=24550795", 
+          "woe:state=24550797"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.494, 
+        "woe:id": 24550818, 
+        "sw_latitude": 41.413, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550764, 
@@ -40,43 +67,16 @@
           24550797
         ], 
         "name": "Vrane\u0161tica", 
-        "alias_ENG_P": [
-          "Vranestica Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Vranestica"
-        ], 
-        "woeid": 24550818, 
-        "children": [
-          "woe:town=483225", 
-          "woe:town=481843"
         ], 
         "alias_UNK_V": [
           "Opstina Vrane\u0161tica"
         ], 
         "longitude": 21.054, 
-        "ne_longitude": 21.125, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550818", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550764", 
-          "woe:state=24550775", 
-          "woe:state=24550786", 
-          "woe:state=24550795", 
-          "woe:state=24550797"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.576, 
-        "sw_longitude": 20.983, 
-        "latitude": 41.494, 
-        "fullname": "Vrane\u0161tica, Vranestica Municipality, Macedonia", 
-        "sw_latitude": 41.413
+        "fullname": "Vrane\u0161tica, Vranestica Municipality, Macedonia"
       }, 
       "id": 24550818
     }

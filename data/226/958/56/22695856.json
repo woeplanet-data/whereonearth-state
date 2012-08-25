@@ -31,11 +31,9 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "CHI", 
         "alias_ENG_V": [
           "Penghus"
         ], 
-        "name": "\u6f8e\u6e56\u7e23", 
         "alias_ENG_P": [
           "Penghu County"
         ], 
@@ -44,15 +42,11 @@
           "woe:country=23424971", 
           "woe:planet=1"
         ], 
-        "woeid": 22695856, 
-        "alias_JPN_Q": [
-          "\u30dd\u30f3\u30d5\u30fc"
+        "ne_latitude": 23.798, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ud391\ud6c4"
         ], 
-        "alias_CHI_V": [
-          "\u6f8e\u6e56\u53bf"
-        ], 
-        "ne_longitude": 119.728, 
-        "longitude": 119.504, 
         "children": [
           "woe:town=2300940", 
           "woe:landfeature=28805037", 
@@ -108,18 +102,24 @@
           "woe:drainage=28802792", 
           "woe:drainage=28802793"
         ], 
-        "placetype": "state", 
+        "alias_CHI_V": [
+          "\u6f8e\u6e56\u53bf"
+        ], 
+        "alias_JPN_Q": [
+          "\u30dd\u30f3\u30d5\u30fc"
+        ], 
+        "sw_longitude": 119.314, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.622, 
+        "woe:id": 22695856, 
+        "sw_latitude": 23.187, 
+        "lang": "CHI", 
+        "name": "\u6f8e\u6e56\u7e23", 
+        "ne_longitude": 119.728, 
+        "longitude": 119.504, 
         "iso": "TW", 
         "date_indexed": "2010-12-02T16:15:11Z", 
-        "alias_KOR_Q": [
-          "\ud391\ud6c4"
-        ], 
-        "ne_latitude": 23.798, 
-        "latitude": 23.622, 
-        "sw_longitude": 119.314, 
-        "fullname": "\u6f8e\u6e56\u7e23, Taiwan, Penghu County, Taiwan", 
-        "provider": "geoplanet 7.6.0", 
-        "sw_latitude": 23.187
+        "fullname": "\u6f8e\u6e56\u7e23, Taiwan, Penghu County, Taiwan"
       }, 
       "id": 22695856
     }

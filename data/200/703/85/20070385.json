@@ -42,18 +42,17 @@
           20070388
         ], 
         "name": "Kharagaulis Raioni", 
-        "ne_latitude": 42.227, 
         "hierarchy": [
           "woe:state=20070385", 
           "woe:country=23424823", 
           "woe:planet=1"
         ], 
-        "woeid": 20070385, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 43.601, 
         "longitude": 43.318, 
         "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
+        "sw_latitude": 41.835, 
         "adjacent": [
           "woe:state=20070348", 
           "woe:state=20070388", 
@@ -63,7 +62,7 @@
           "woe:state=20070383", 
           "woe:state=20070386"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.227, 
         "latitude": 42.031, 
         "sw_longitude": 43.035, 
         "fullname": "Kharagaulis Raioni, Georgia", 
@@ -90,7 +89,8 @@
           "woe:town=1966361", 
           "woe:town=1966762"
         ], 
-        "sw_latitude": 41.835
+        "date_indexed": "2010-12-02T17:51:52Z", 
+        "woe:id": 20070385
       }, 
       "id": 20070385
     }

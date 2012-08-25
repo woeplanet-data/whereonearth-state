@@ -49,13 +49,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347148, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 104.239, 
         "longitude": 103.668, 
-        "ne_latitude": 17.102, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 16.182, 
         "adjacent": [
           "woe:state=2347147", 
           "woe:state=2347149", 
@@ -64,7 +63,7 @@
           "woe:state=2347146", 
           "woe:state=2347200"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.102, 
         "latitude": 16.642, 
         "sw_longitude": 103.096, 
         "fullname": "Kalasin, Thailand", 
@@ -88,7 +87,8 @@
           "woe:county=28341137", 
           "woe:county=28341147"
         ], 
-        "sw_latitude": 16.182
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347148
       }, 
       "id": 2347148
     }

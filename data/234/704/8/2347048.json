@@ -1062,7 +1062,7 @@
         "ne:Shape_Area": 0.464536877459, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "Gotland"
         ], 
@@ -1072,19 +1072,21 @@
           "woe:county=12587248", 
           "woe:landfeature=29369336"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Gotland"
+        ], 
         "alias_ITA_Q": [
           "Gotland"
         ], 
-        "ne:Area_sqkm": 3100.8, 
-        "ne:OBJECTID": 193, 
+        "alias_DAN_Q": [
+          "Gotland"
+        ], 
+        "ne:DataRank": 7, 
         "alias_SWE_S": [
           "Gotlands"
         ], 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Gotland"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Gotlanti"
         ], 
@@ -1098,9 +1100,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T16:43:54Z", 
-        "ne:VertexCou": 253.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "SWE", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 193, 
         "ne:Postal": "GT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Gotlands l\u00e4n|Gothland|Gottland", 
@@ -1116,18 +1118,16 @@
         "ne:Region_C_1": null, 
         "ne:sameAsCity": -99, 
         "ne:LabelRank": 7, 
-        "alias_DAN_Q": [
-          "Gotland"
-        ], 
+        "ne:Area_sqkm": 3100.8, 
         "alias_GER_Q": [
           "Gotland"
         ], 
         "woe:id": "2347048", 
-        "ne:HASC_1": "SE.GT", 
-        "lang": "SWE", 
+        "name": "Gotlands L\u00e4n", 
+        "ne:VertexCou": 253.0, 
         "ne:NL_NAME_1": null, 
         "ne:FIRST_FIPS": "SW05", 
-        "name": "Gotlands L\u00e4n", 
+        "ne:HASC_1": "SE.GT", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "ne:TYPE_1": "Laen|l\u00e4n", 

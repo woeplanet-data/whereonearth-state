@@ -32,27 +32,27 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -8.433, 
         "name": "Funafuti", 
         "hierarchy": [
           "woe:state=24549921", 
           "woe:country=23424970", 
           "woe:planet=1"
         ], 
-        "woeid": 24549921, 
+        "ne_latitude": -8.433, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 179.2, 
         "longitude": 179.188, 
         "placetype": "state", 
         "iso": "TV", 
-        "sw_latitude": -8.655, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "latitude": -8.498, 
         "sw_longitude": 179.05, 
         "fullname": "Funafuti, Tuvalu", 
         "children": [
           "woe:town=1064289"
         ], 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "sw_latitude": -8.655, 
+        "woe:id": 24549921
       }, 
       "id": 24549921
     }

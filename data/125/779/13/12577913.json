@@ -50,6 +50,25 @@
         "ne_latitude": 47.232, 
         "ne_longitude": 21.685, 
         "longitude": 21.308, 
+        "placetype": "state", 
+        "iso": "HU", 
+        "sw_latitude": 46.243, 
+        "adjacent": [
+          "woe:state=2346616", 
+          "woe:state=2346619", 
+          "woe:state=56043637", 
+          "woe:state=12577916", 
+          "woe:state=12577919", 
+          "woe:state=56043623", 
+          "woe:state=12577926"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.738, 
+        "sw_longitude": 20.408, 
+        "fullname": "B\u00e9k\u00e9s, Hungary", 
+        "alias_HUN_S": [
+          "Bekes"
+        ], 
         "children": [
           "woe:county=12593445", 
           "woe:county=12593421", 
@@ -127,27 +146,8 @@
           "woe:county=12595962", 
           "woe:zone=24873843"
         ], 
-        "placetype": "state", 
-        "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "adjacent": [
-          "woe:state=2346616", 
-          "woe:state=2346619", 
-          "woe:state=56043637", 
-          "woe:state=12577916", 
-          "woe:state=12577919", 
-          "woe:state=56043623", 
-          "woe:state=12577926"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 46.738, 
-        "sw_longitude": 20.408, 
-        "fullname": "B\u00e9k\u00e9s, Hungary", 
-        "alias_HUN_S": [
-          "Bekes"
-        ], 
-        "woeid": 12577913, 
-        "sw_latitude": 46.243
+        "woe:id": 12577913
       }, 
       "id": 12577913
     }

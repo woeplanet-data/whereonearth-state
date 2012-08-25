@@ -51,28 +51,6 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 50.553, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_UNK_V": [
-          "Poltavshchyna"
-        ], 
-        "longitude": 33.789, 
-        "ne_longitude": 35.488, 
-        "placetype": "state", 
-        "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "adjacent": [
-          "woe:state=2347534", 
-          "woe:state=2347535", 
-          "woe:state=2347537", 
-          "woe:state=2347540", 
-          "woe:state=2347543", 
-          "woe:state=2347545", 
-          "woe:state=2347552"
-        ], 
-        "woeid": 2347550, 
-        "latitude": 49.638, 
-        "sw_longitude": 32.09, 
-        "fullname": "Poltavs\u00b4ka Oblast\u00b4, Poltava Oblast, Ukraine", 
         "children": [
           "woe:town=916026", 
           "woe:town=916270", 
@@ -226,7 +204,29 @@
           "woe:town=940433", 
           "woe:town=940449"
         ], 
-        "sw_latitude": 48.722
+        "alias_UNK_V": [
+          "Poltavshchyna"
+        ], 
+        "longitude": 33.789, 
+        "ne_longitude": 35.488, 
+        "placetype": "state", 
+        "iso": "UA", 
+        "sw_latitude": 48.722, 
+        "adjacent": [
+          "woe:state=2347534", 
+          "woe:state=2347535", 
+          "woe:state=2347537", 
+          "woe:state=2347540", 
+          "woe:state=2347543", 
+          "woe:state=2347545", 
+          "woe:state=2347552"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.638, 
+        "sw_longitude": 32.09, 
+        "fullname": "Poltavs\u00b4ka Oblast\u00b4, Poltava Oblast, Ukraine", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "woe:id": 2347550
       }, 
       "id": 2347550
     }

@@ -32,20 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 21.511, 
         "name": "Gand Turk", 
         "hierarchy": [
           "woe:state=24549929", 
           "woe:country=23424962", 
           "woe:planet=1"
         ], 
-        "woeid": 24549929, 
+        "ne_latitude": 21.511, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -71.08, 
         "longitude": -71.138, 
         "placetype": "state", 
         "iso": "TC", 
-        "sw_latitude": 21.345, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:42Z", 
         "latitude": 21.467, 
         "sw_longitude": -71.162, 
         "fullname": "Gand Turk, Turks and Caicos Islands", 
@@ -54,7 +53,8 @@
           "woe:island=12485286", 
           "woe:island=12485291"
         ], 
-        "date_indexed": "2010-12-02T07:50:42Z"
+        "sw_latitude": 21.345, 
+        "woe:id": 24549929
       }, 
       "id": 24549929
     }

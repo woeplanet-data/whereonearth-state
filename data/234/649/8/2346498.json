@@ -4548,7 +4548,7 @@
         "ne:Shape_Area": 19.2177685785, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "19700701", 
         "alias_KOR_Q": [
           "\ud380\uc790\ube0c"
         ], 
@@ -5681,7 +5681,7 @@
         "alias_CHI_Q": [
           "\u65c1\u906e\u666e"
         ], 
-        "ne:OBJECTID": 1113, 
+        "ne:DataRank": 2, 
         "alias_JPN_Q": [
           "\u30d1\u30f3\u30b8\u30e3\u30d6"
         ], 
@@ -5706,9 +5706,9 @@
         "ne:FIRST_HASC": "PK.IS|PAK-PNJ", 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 27.70179779743046, 
-        "ne:VertexCou": 1068.0, 
-        "ne:VALIDFR_1": "19700701", 
-        "ne:DataRank": 2, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 1113, 
         "ne:Postal": "PB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Pendjab|Penjab", 
@@ -5724,8 +5724,8 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 203787.6, 
         "woe:id": "2346498", 
-        "ne:HASC_1": "PK.PB", 
-        "lang": "ENG", 
+        "name": "Punjab", 
+        "ne:VertexCou": 1068.0, 
         "adjacent_woeid": [
           2345746, 
           2345756, 
@@ -5737,7 +5737,7 @@
           2346500, 
           20070149
         ], 
-        "name": "Punjab", 
+        "ne:HASC_1": "PK.PB", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 75.35889407710005, 
         "longitude": 72.374, 

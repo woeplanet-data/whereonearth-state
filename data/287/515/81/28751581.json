@@ -45,24 +45,11 @@
           "woe:country=23424971", 
           "woe:planet=1"
         ], 
-        "woeid": 28751581, 
         "alias_ENG_P": [
           "Tainan City"
         ], 
         "ne_longitude": 120.249, 
         "longitude": 120.181, 
-        "ne_latitude": 23.089, 
-        "placetype": "state", 
-        "iso": "TW", 
-        "sw_latitude": 22.913, 
-        "adjacent": [
-          "woe:state=7153409", 
-          "woe:state=20070570"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 22.997, 
-        "sw_longitude": 120.063, 
-        "fullname": "\u53f0\u5357\u5e02, Taiwan, Tainan City, Taiwan", 
         "children": [
           "woe:county=2295767", 
           "woe:county=2298643", 
@@ -430,7 +417,20 @@
           "woe:drainage=28803176", 
           "woe:drainage=28803181"
         ], 
-        "date_indexed": "2010-12-02T16:15:11Z"
+        "placetype": "state", 
+        "iso": "TW", 
+        "date_indexed": "2010-12-02T16:15:11Z", 
+        "adjacent": [
+          "woe:state=7153409", 
+          "woe:state=20070570"
+        ], 
+        "ne_latitude": 23.089, 
+        "latitude": 22.997, 
+        "sw_longitude": 120.063, 
+        "fullname": "\u53f0\u5357\u5e02, Taiwan, Tainan City, Taiwan", 
+        "provider": "geoplanet 7.6.0", 
+        "sw_latitude": 22.913, 
+        "woe:id": 28751581
       }, 
       "id": 28751581
     }

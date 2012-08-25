@@ -31,29 +31,19 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "UNK", 
-        "adjacent_woeid": [
-          12577924, 
-          12577930, 
-          12577979, 
-          12577986, 
-          12577987, 
-          12577990, 
-          12577991
+        "alias_ENG_V": [
+          "Koprivnica-Kri\u017eevci"
         ], 
         "alias_ENG_S": [
           "Koprivnica-Krizevci"
         ], 
-        "name": "Koprivni\u010dko-kri\u017eeva\u010dka", 
-        "alias_ENG_V": [
-          "Koprivnica-Kri\u017eevci"
+        "hierarchy": [
+          "woe:state=12577976", 
+          "woe:country=23424843", 
+          "woe:planet=1"
         ], 
-        "alias_UNK_S": [
-          "Koprivnicko-krizevacka"
-        ], 
-        "woeid": 12577976, 
-        "ne_longitude": 17.306, 
-        "longitude": 16.824, 
+        "ne_latitude": 46.355, 
+        "placetype": "state", 
         "children": [
           "woe:county=15022502", 
           "woe:county=15022504", 
@@ -81,14 +71,7 @@
           "woe:county=15022500", 
           "woe:county=15022074"
         ], 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=12577976", 
-          "woe:country=23424843", 
-          "woe:planet=1"
-        ], 
-        "iso": "HR", 
-        "date_indexed": "2010-12-02T17:06:25Z", 
+        "sw_longitude": 16.342, 
         "adjacent": [
           "woe:state=12577991", 
           "woe:state=12577979", 
@@ -99,11 +82,28 @@
           "woe:state=12577930"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 46.355, 
-        "sw_longitude": 16.342, 
         "latitude": 46.118, 
-        "fullname": "Koprivni\u010dko-kri\u017eeva\u010dka, Croatia", 
-        "sw_latitude": 45.88
+        "woe:id": 12577976, 
+        "sw_latitude": 45.88, 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          12577924, 
+          12577930, 
+          12577979, 
+          12577986, 
+          12577987, 
+          12577990, 
+          12577991
+        ], 
+        "name": "Koprivni\u010dko-kri\u017eeva\u010dka", 
+        "alias_UNK_S": [
+          "Koprivnicko-krizevacka"
+        ], 
+        "ne_longitude": 17.306, 
+        "longitude": 16.824, 
+        "iso": "HR", 
+        "date_indexed": "2010-12-02T17:06:25Z", 
+        "fullname": "Koprivni\u010dko-kri\u017eeva\u010dka, Croatia"
       }, 
       "id": 12577976
     }

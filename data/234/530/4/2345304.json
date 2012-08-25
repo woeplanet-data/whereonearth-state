@@ -38,24 +38,23 @@
           2345302
         ], 
         "name": "Sonsonate", 
-        "ne_latitude": 13.905, 
         "hierarchy": [
           "woe:state=2345304", 
           "woe:country=23424807", 
           "woe:planet=1"
         ], 
-        "woeid": 2345304, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -89.439, 
         "longitude": -89.697, 
         "placetype": "state", 
         "iso": "SV", 
-        "date_indexed": "2010-12-02T17:05:52Z", 
+        "sw_latitude": 13.514, 
         "adjacent": [
           "woe:state=2345292", 
           "woe:state=2345296", 
           "woe:state=2345302"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.905, 
         "latitude": 13.709, 
         "sw_longitude": -89.955, 
         "fullname": "Sonsonate, El Salvador", 
@@ -77,7 +76,8 @@
           "woe:county=26808745", 
           "woe:county=28358197"
         ], 
-        "sw_latitude": 13.514
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "woe:id": 2345304
       }, 
       "id": 2345304
     }

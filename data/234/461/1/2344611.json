@@ -40,18 +40,17 @@
           2344626
         ], 
         "name": "Chlef", 
-        "ne_latitude": 36.559, 
         "hierarchy": [
           "woe:state=2344611", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344611, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 1.753, 
         "longitude": 1.248, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 35.786, 
         "adjacent": [
           "woe:state=2344605", 
           "woe:state=2344583", 
@@ -59,7 +58,7 @@
           "woe:state=2344625", 
           "woe:state=2344626"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.559, 
         "latitude": 36.173, 
         "sw_longitude": 0.743, 
         "fullname": "Chlef, Algeria", 
@@ -106,7 +105,8 @@
           "woe:town=1257993", 
           "woe:town=1257994"
         ], 
-        "sw_latitude": 35.786
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344611
       }, 
       "id": 2344611
     }

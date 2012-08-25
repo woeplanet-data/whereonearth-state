@@ -40,16 +40,33 @@
           2345709, 
           20070110
         ], 
+        "alias_UNK_A": [
+          "SKAG"
+        ], 
         "name": "Skagafjaryarsysla", 
-        "ne_latitude": 66.137, 
         "hierarchy": [
           "woe:state=2345701", 
           "woe:country=23424845", 
           "woe:planet=1"
         ], 
-        "woeid": 2345701, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -18.31, 
         "longitude": -19.264, 
+        "placetype": "state", 
+        "iso": "IS", 
+        "sw_latitude": 64.682, 
+        "adjacent": [
+          "woe:state=2345687", 
+          "woe:state=2345689", 
+          "woe:state=2345693", 
+          "woe:state=2345700", 
+          "woe:state=20070110", 
+          "woe:state=2345709"
+        ], 
+        "ne_latitude": 66.137, 
+        "latitude": 65.41, 
+        "sw_longitude": -20.218, 
+        "fullname": "Skagafjaryarsysla, Iceland", 
         "children": [
           "woe:town=980122", 
           "woe:town=980219", 
@@ -61,25 +78,8 @@
           "woe:island=12475912", 
           "woe:island=12476018"
         ], 
-        "placetype": "state", 
-        "iso": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
-        "adjacent": [
-          "woe:state=2345687", 
-          "woe:state=2345689", 
-          "woe:state=2345693", 
-          "woe:state=2345700", 
-          "woe:state=20070110", 
-          "woe:state=2345709"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 65.41, 
-        "sw_longitude": -20.218, 
-        "fullname": "Skagafjaryarsysla, Iceland", 
-        "alias_UNK_A": [
-          "SKAG"
-        ], 
-        "sw_latitude": 64.682
+        "woe:id": 2345701
       }, 
       "id": 2345701
     }

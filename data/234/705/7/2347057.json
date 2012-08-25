@@ -3542,7 +3542,7 @@
         "ne:Shape_Area": 21.5174254811, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1810", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "SWE", 
         "children": [
@@ -3615,15 +3615,15 @@
           "woe:drainage=29368347", 
           "woe:drainage=29362755"
         ], 
-        "ne:VALIDTO_1": "Present", 
-        "ne:OBJECTID": 190, 
+        "alias_SPA_Q": [
+          "Norrbotten"
+        ], 
+        "ne:DataRank": 7, 
         "alias_ENG_P": [
           "Norrbotten"
         ], 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Norrbotten"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Norrbotten"
         ], 
@@ -3641,9 +3641,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T16:43:54Z", 
-        "ne:VertexCou": 819.0, 
-        "ne:VALIDFR_1": "1810", 
-        "ne:DataRank": 7, 
+        "lang": "SWE", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 190, 
         "ne:Postal": "NB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Norrbottens l\u00e4n", 
@@ -3664,15 +3664,15 @@
           "Norrbotten"
         ], 
         "woe:id": "2347057", 
-        "ne:HASC_1": "SE.NB", 
-        "lang": "SWE", 
+        "name": "Norrbottens L\u00e4n", 
+        "ne:VertexCou": 819.0, 
         "adjacent_woeid": [
           2346392, 
           2346401, 
           2347064, 
           29389263
         ], 
-        "name": "Norrbottens L\u00e4n", 
+        "ne:HASC_1": "SE.NB", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne:TYPE_1": "Laen|l\u00e4n", 

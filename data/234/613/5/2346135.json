@@ -40,18 +40,17 @@
           2346126
         ], 
         "name": "Awbari", 
-        "ne_latitude": 27.888, 
         "hierarchy": [
           "woe:state=2346135", 
           "woe:country=23424882", 
           "woe:planet=1"
         ], 
-        "woeid": 2346135, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.144, 
         "longitude": 11.766, 
         "placetype": "state", 
         "iso": "LY", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 23.88, 
         "adjacent": [
           "woe:state=2346124", 
           "woe:state=2344616", 
@@ -59,7 +58,7 @@
           "woe:state=2346126", 
           "woe:state=2344623"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 27.888, 
         "latitude": 25.884, 
         "sw_longitude": 9.387, 
         "fullname": "Awbari, Libya", 
@@ -75,7 +74,8 @@
           "woe:town=1353223", 
           "woe:town=1353283"
         ], 
-        "sw_latitude": 23.88
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 2346135
       }, 
       "id": 2346135
     }

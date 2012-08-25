@@ -47,20 +47,19 @@
           "woe:country=23424846", 
           "woe:planet=1"
         ], 
-        "woeid": 2345733, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 101.892, 
         "longitude": 100.541, 
-        "ne_latitude": 0.885, 
         "placetype": "state", 
         "iso": "ID", 
-        "date_indexed": "2010-12-02T16:52:36Z", 
+        "sw_latitude": -3.488, 
         "adjacent": [
           "woe:state=2345712", 
           "woe:state=2345714", 
           "woe:state=2345728", 
           "woe:state=2345735"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.885, 
         "latitude": -0.796, 
         "sw_longitude": 98.589, 
         "fullname": "Sumatera Barat, West Sumatra, Indonesia", 
@@ -126,7 +125,8 @@
           "woe:island=12491892", 
           "woe:island=12492497"
         ], 
-        "sw_latitude": -3.488
+        "date_indexed": "2010-12-02T16:52:36Z", 
+        "woe:id": 2345733
       }, 
       "id": 2345733
     }

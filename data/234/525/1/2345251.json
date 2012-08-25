@@ -1132,7 +1132,7 @@
         "ne:Shape_Area": 0.431519376319, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "CLA"
         ], 
@@ -1296,7 +1296,7 @@
           "woe:localadmin=20071477", 
           "woe:localadmin=20071478"
         ], 
-        "ne:OBJECTID": 76, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -9.936158006286917, 
@@ -1312,9 +1312,9 @@
         "ne:FIRST_HASC": "IE.GY|IRL-CNN", 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.55684398046537, 
-        "ne:VertexCou": 271.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 76, 
         "ne:Postal": "CE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "An Cl\u00e1r", 
@@ -1330,14 +1330,14 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 3235.1, 
         "woe:id": "2345251", 
-        "ne:HASC_1": "IE.CE", 
-        "lang": "ENG", 
+        "name": "Clare", 
+        "ne:VertexCou": 271.0, 
         "adjacent_woeid": [
           2345255, 
           2345261, 
           2345270
         ], 
-        "name": "Clare", 
+        "ne:HASC_1": "IE.CE", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae an Chlair"

@@ -2241,7 +2241,7 @@
         "ne:Shape_Area": 2.44741266723, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "Picardia"
         ], 
@@ -2262,8 +2262,10 @@
         "alias_ITA_Q": [
           "Piccardia"
         ], 
-        "ne:Area_sqkm": 19660.7, 
-        "ne:OBJECTID": 2684, 
+        "alias_DAN_Q": [
+          "Picardiet"
+        ], 
+        "ne:DataRank": 3, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Picard\u00eda"
@@ -2283,9 +2285,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "ne:VertexCou": 549.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "lang": "FRE", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 2684, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2301,12 +2303,10 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Picardiet"
-        ], 
+        "ne:Area_sqkm": 19660.7, 
         "woe:id": "7153326", 
-        "ne:HASC_1": null, 
-        "lang": "FRE", 
+        "name": "Picardie", 
+        "ne:VertexCou": 549.0, 
         "adjacent_woeid": [
           7153299, 
           7153315, 
@@ -2314,7 +2314,7 @@
           7153319, 
           7153324
         ], 
-        "name": "Picardie", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne_longitude": 4.250211216274636, 

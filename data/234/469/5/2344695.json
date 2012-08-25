@@ -31,8 +31,8 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_ENG_A": [
-          "SF"
+        "alias_KOR_Q": [
+          "\uc0b0\ud0c0\ud398"
         ], 
         "hierarchy": [
           "woe:state=2344695", 
@@ -41,8 +41,8 @@
         ], 
         "ne_latitude": -27.995, 
         "placetype": "state", 
-        "alias_KOR_Q": [
-          "\uc0b0\ud0c0\ud398"
+        "alias_ENG_A": [
+          "SF"
         ], 
         "children": [
           "woe:county=20070889", 
@@ -68,7 +68,6 @@
         "alias_CHI_Q": [
           "\u5723\u8fbe\u83f2"
         ], 
-        "woeid": 2344695, 
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30bf\u30d5\u30a7"
         ], 
@@ -85,7 +84,8 @@
           "Santafe"
         ], 
         "latitude": -31.189, 
-        "date_indexed": "2010-12-02T17:40:36Z", 
+        "woe:id": 2344695, 
+        "sw_latitude": -34.384, 
         "provider": "geoplanet 7.6.0", 
         "lang": "SPA", 
         "adjacent_woeid": [
@@ -100,7 +100,7 @@
         "ne_longitude": -58.871, 
         "longitude": -60.88, 
         "iso": "AR", 
-        "sw_latitude": -34.384, 
+        "date_indexed": "2010-12-02T17:40:36Z", 
         "fullname": "Santa Fe, Argentina"
       }, 
       "id": 2344695

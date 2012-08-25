@@ -753,11 +753,13 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 47.62236481398503, 
-        "ne:DataRank": 7, 
+        "alias_GER_A": [
+          "AG"
+        ], 
         "ne:Shape_Area": 0.170058522576, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
         "children": [
@@ -778,7 +780,9 @@
         "alias_ITA_Q": [
           "Canton Argovia"
         ], 
-        "ne:Area_sqkm": 1426.8, 
+        "alias_GER_V": [
+          "Aargau"
+        ], 
         "alias_ITA_V": [
           "Argovia"
         ], 
@@ -798,14 +802,15 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.379, 
+        "iso": "CH", 
         "ne:FIPS_1": "SZ01", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "sw_latitude": 47.14231659563444, 
-        "ne:VertexCou": 181.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:OBJECTID": 162, 
+        "lang": "GER", 
+        "ne:MAP_COLOR": 3, 
+        "ne:DataRank": 7, 
         "ne:Postal": "AG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Argovia|Arg\u00a2via|Argovie", 
@@ -819,15 +824,10 @@
         "ne:Region_C_1": null, 
         "ne:sameAsCity": -99, 
         "ne:LabelRank": 9, 
-        "alias_GER_A": [
-          "AG"
-        ], 
-        "alias_GER_V": [
-          "Aargau"
-        ], 
+        "ne:Area_sqkm": 1426.8, 
         "woe:id": "2347083", 
-        "ne:HASC_1": "CH.AG", 
-        "lang": "GER", 
+        "name": "Kanton Aargau", 
+        "ne:VertexCou": 181.0, 
         "adjacent_woeid": [
           2345481, 
           2347085, 
@@ -837,7 +837,7 @@
           2347106, 
           2347107
         ], 
-        "name": "Kanton Aargau", 
+        "ne:HASC_1": "CH.AG", 
         "ne:REMARKS_1": null, 
         "ne:TYPE_1": "Canton|Kanton|Chantun", 
         "alias_UNK_Q": [
@@ -845,7 +845,7 @@
         ], 
         "ne_longitude": 8.445614048049947, 
         "longitude": 8.084, 
-        "iso": "CH", 
+        "ne:OBJECTID": 162, 
         "date_indexed": "2010-12-02T18:19:21Z", 
         "ne:NL_NAME_1": null, 
         "alias_FRE_V": [

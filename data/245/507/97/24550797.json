@@ -38,7 +38,6 @@
           24550786, 
           24550818
         ], 
-        "ne_latitude": 41.485, 
         "name": "Plasnica", 
         "alias_ENG_P": [
           "Plasnica Municipality"
@@ -48,7 +47,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550797, 
+        "ne_latitude": 41.485, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Plasnica"
         ], 
@@ -56,21 +56,21 @@
         "ne_longitude": 21.183, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.408, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550764", 
           "woe:state=24550782", 
           "woe:state=24550786", 
           "woe:state=24550818"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 41.446, 
         "sw_longitude": 21.038, 
         "fullname": "Plasnica, Plasnica Municipality, Macedonia", 
         "children": [
           "woe:town=482035"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.408, 
+        "woe:id": 24550797
       }, 
       "id": 24550797
     }

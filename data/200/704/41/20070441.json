@@ -42,18 +42,17 @@
           56190214
         ], 
         "name": "Pallisa", 
-        "ne_latitude": 1.349, 
         "hierarchy": [
           "woe:state=20070441", 
           "woe:country=23424974", 
           "woe:planet=1"
         ], 
-        "woeid": 20070441, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 34.159, 
         "longitude": 33.771, 
         "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
+        "sw_latitude": 0.908, 
         "adjacent": [
           "woe:state=56190197", 
           "woe:state=56190199", 
@@ -63,7 +62,7 @@
           "woe:state=56190200", 
           "woe:state=20070447"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.349, 
         "latitude": 1.128, 
         "sw_longitude": 33.382, 
         "fullname": "Pallisa, Uganda", 
@@ -71,7 +70,8 @@
           "woe:county=56190347", 
           "woe:county=56190348"
         ], 
-        "sw_latitude": 0.908
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "woe:id": 20070441
       }, 
       "id": 20070441
     }

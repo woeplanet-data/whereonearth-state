@@ -31,6 +31,33 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Delcevo Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550838", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 42.102, 
+        "ne_longitude": 22.905, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=481906", 
+          "woe:town=482854", 
+          "woe:town=483110"
+        ], 
+        "sw_longitude": 22.62, 
+        "adjacent": [
+          "woe:state=24550826", 
+          "woe:state=24550851", 
+          "woe:state=24550854", 
+          "woe:state=24550817"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.954, 
+        "woe:id": 24550838, 
+        "sw_latitude": 41.807, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550817, 
@@ -39,43 +66,16 @@
           24550854
         ], 
         "name": "Del\u010devo", 
-        "alias_ENG_P": [
-          "Delcevo Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Delcevo"
-        ], 
-        "woeid": 24550838, 
-        "children": [
-          "woe:town=481906", 
-          "woe:town=482854", 
-          "woe:town=483110"
         ], 
         "alias_UNK_V": [
           "Opstina Del\u010devo"
         ], 
         "longitude": 22.762, 
-        "ne_longitude": 22.905, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550838", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550826", 
-          "woe:state=24550851", 
-          "woe:state=24550854", 
-          "woe:state=24550817"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.102, 
-        "sw_longitude": 22.62, 
-        "latitude": 41.954, 
-        "fullname": "Del\u010devo, Delcevo Municipality, Macedonia", 
-        "sw_latitude": 41.807
+        "fullname": "Del\u010devo, Delcevo Municipality, Macedonia"
       }, 
       "id": 24550838
     }

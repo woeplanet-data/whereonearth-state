@@ -39,25 +39,24 @@
           28301720
         ], 
         "name": "Bac Lieu", 
-        "ne_latitude": 9.633, 
         "hierarchy": [
           "woe:state=20070081", 
           "woe:country=23424984", 
           "woe:planet=1"
         ], 
-        "woeid": 20070081, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.919, 
         "longitude": 105.574, 
         "placetype": "state", 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 9.005, 
         "adjacent": [
           "woe:state=20070082", 
           "woe:state=28301720", 
           "woe:state=2347723", 
           "woe:state=2347748"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.633, 
         "latitude": 9.319, 
         "sw_longitude": 105.23, 
         "fullname": "Bac Lieu, Vietnam", 
@@ -71,7 +70,8 @@
           "woe:town=1252279", 
           "woe:town=1229020"
         ], 
-        "sw_latitude": 9.005
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "woe:id": 20070081
       }, 
       "id": 20070081
     }

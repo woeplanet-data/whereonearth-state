@@ -31,43 +31,43 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FRE", 
-        "adjacent_woeid": [
-          2346246
-        ], 
-        "ne_latitude": 18.238, 
-        "name": "Nouakchott", 
-        "adjacent": [
-          "woe:state=2346246"
-        ], 
         "hierarchy": [
           "woe:state=24550716", 
           "woe:country=23424896", 
           "woe:planet=1"
         ], 
-        "woeid": 24550716, 
-        "alias_JPN_Q": [
-          "\u30cc\u30a2\u30af\u30b7\u30e7\u30c3\u30c8"
-        ], 
-        "ne_longitude": -15.847, 
-        "longitude": -15.943, 
-        "alias_CHI_Q": [
-          "\u52aa\u74e6\u514b\u8096\u7279"
-        ], 
+        "ne_latitude": 18.238, 
         "placetype": "state", 
-        "iso": "MR", 
-        "sw_latitude": 17.878, 
         "alias_KOR_Q": [
           "\ub204\uc545\uc1fc\ud2b8"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.058, 
-        "sw_longitude": -16.039, 
-        "fullname": "Nouakchott, Mauritania", 
         "children": [
           "woe:town=1504735"
         ], 
-        "date_indexed": "2010-12-02T16:11:57Z"
+        "alias_CHI_Q": [
+          "\u52aa\u74e6\u514b\u8096\u7279"
+        ], 
+        "alias_JPN_Q": [
+          "\u30cc\u30a2\u30af\u30b7\u30e7\u30c3\u30c8"
+        ], 
+        "sw_longitude": -16.039, 
+        "adjacent": [
+          "woe:state=2346246"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.058, 
+        "woe:id": 24550716, 
+        "date_indexed": "2010-12-02T16:11:57Z", 
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          2346246
+        ], 
+        "name": "Nouakchott", 
+        "ne_longitude": -15.847, 
+        "longitude": -15.943, 
+        "iso": "MR", 
+        "sw_latitude": 17.878, 
+        "fullname": "Nouakchott, Mauritania"
       }, 
       "id": 24550716
     }

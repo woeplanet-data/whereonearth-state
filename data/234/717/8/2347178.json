@@ -46,19 +46,18 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347178, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 100.079, 
         "longitude": 99.966, 
-        "ne_latitude": 13.515, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 13.246, 
         "adjacent": [
           "woe:state=2347180", 
           "woe:state=2347176", 
           "woe:state=2347179"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.515, 
         "latitude": 13.38, 
         "sw_longitude": 99.852, 
         "fullname": "Samut Songkhran, Thailand", 
@@ -67,7 +66,8 @@
           "woe:county=28341558", 
           "woe:county=28341557"
         ], 
-        "sw_latitude": 13.246
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347178
       }, 
       "id": 2347178
     }

@@ -48,13 +48,12 @@
           "woe:country=23424738", 
           "woe:planet=1"
         ], 
-        "woeid": 2347111, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 56.22, 
         "longitude": 55.312, 
-        "ne_latitude": 25.328, 
         "placetype": "state", 
         "iso": "AE", 
-        "date_indexed": "2010-12-02T08:58:41Z", 
+        "sw_latitude": 24.614, 
         "adjacent": [
           "woe:state=2347109", 
           "woe:state=2347110", 
@@ -62,7 +61,7 @@
           "woe:state=2347112", 
           "woe:state=2347114"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 25.328, 
         "latitude": 24.971, 
         "sw_longitude": 54.896, 
         "fullname": "Dubai, United Arab Emirates", 
@@ -70,7 +69,8 @@
           "woe:county=55922623", 
           "woe:county=55922626"
         ], 
-        "sw_latitude": 24.614
+        "date_indexed": "2010-12-02T08:58:41Z", 
+        "woe:id": 2347111
       }, 
       "id": 2347111
     }

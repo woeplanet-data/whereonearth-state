@@ -46,12 +46,9 @@
         "ne_latitude": 47.43, 
         "ne_longitude": 18.961, 
         "longitude": 18.898, 
-        "children": [
-          "woe:county=12593707"
-        ], 
         "placetype": "state", 
         "iso": "HU", 
-        "sw_latitude": 47.314, 
+        "date_indexed": "2010-12-02T09:55:38Z", 
         "adjacent": [
           "woe:state=12577915", 
           "woe:state=12577917", 
@@ -64,8 +61,11 @@
         "alias_HUN_S": [
           "Erd"
         ], 
-        "woeid": 56043627, 
-        "date_indexed": "2010-12-02T09:55:38Z"
+        "children": [
+          "woe:county=12593707"
+        ], 
+        "sw_latitude": 47.314, 
+        "woe:id": 56043627
       }, 
       "id": 56043627
     }

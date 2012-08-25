@@ -40,18 +40,17 @@
           20070528
         ], 
         "name": "Kurganskaya Oblast", 
-        "ne_latitude": 56.841, 
         "hierarchy": [
           "woe:state=2346904", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346904, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 68.734, 
         "longitude": 65.374, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 54.194, 
         "adjacent": [
           "woe:state=2346893", 
           "woe:state=20070176", 
@@ -59,7 +58,7 @@
           "woe:state=2346926", 
           "woe:state=20070528"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 56.841, 
         "latitude": 55.517, 
         "sw_longitude": 62.013, 
         "fullname": "Kurganskaya Oblast, Russia", 
@@ -91,7 +90,8 @@
           "woe:county=12598564", 
           "woe:county=12598565"
         ], 
-        "sw_latitude": 54.194
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346904
       }, 
       "id": 2346904
     }

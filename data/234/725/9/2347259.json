@@ -570,7 +570,7 @@
         "ne:Shape_Area": 0.733630964382, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1954", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
         "children": [
@@ -584,7 +584,7 @@
           "woe:county=29390222", 
           "woe:county=29390810"
         ], 
-        "ne:OBJECTID": 2281, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 37.42172651536646, 
@@ -602,9 +602,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 37.411876939769, 
-        "ne:VertexCou": 136.0, 
-        "ne:VALIDFR_1": "1954", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 2281, 
         "ne:Postal": "AD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Adiyaman", 
@@ -620,8 +620,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 7170.9, 
         "woe:id": "2347259", 
-        "ne:HASC_1": "TR.AD", 
-        "lang": "UNK", 
+        "name": "Ad\u0131yaman", 
+        "ne:VertexCou": 136.0, 
         "adjacent_woeid": [
           2347278, 
           2347284, 
@@ -629,7 +629,7 @@
           2347300, 
           2347314
         ], 
-        "name": "Ad\u0131yaman", 
+        "ne:HASC_1": "TR.AD", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Adiyaman"

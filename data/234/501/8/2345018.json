@@ -31,15 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2344687, 
-          2344692, 
-          2345024, 
-          2345025, 
-          2345029
-        ], 
-        "name": "Valpara\u00edso", 
         "alias_ENG_P": [
           "Valparaiso Region"
         ], 
@@ -48,30 +39,8 @@
           "woe:country=23424782", 
           "woe:planet=1"
         ], 
-        "woeid": 2345018, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -69.997, 
-        "longitude": -70.293, 
         "ne_latitude": -26.272, 
         "placetype": "state", 
-        "alias_SPA_S": [
-          "Region de Valparaiso"
-        ], 
-        "sw_longitude": -109.475, 
-        "date_indexed": "2010-12-02T12:15:28Z", 
-        "adjacent": [
-          "woe:state=2345024", 
-          "woe:state=2345025", 
-          "woe:state=2344687", 
-          "woe:state=2344692", 
-          "woe:state=2345029"
-        ], 
-        "alias_SPA_V": [
-          "Regi\u00f3n de Valpara\u00edso"
-        ], 
-        "latitude": -32.997, 
-        "iso": "CL", 
-        "fullname": "Valpara\u00edso, Valparaiso Region, Chile", 
         "children": [
           "woe:county=28358162", 
           "woe:county=26794002", 
@@ -84,7 +53,38 @@
           "woe:island=12504353", 
           "woe:airport=12512338"
         ], 
-        "sw_latitude": -33.966
+        "alias_SPA_S": [
+          "Region de Valparaiso"
+        ], 
+        "sw_longitude": -109.475, 
+        "adjacent": [
+          "woe:state=2345024", 
+          "woe:state=2345025", 
+          "woe:state=2344687", 
+          "woe:state=2344692", 
+          "woe:state=2345029"
+        ], 
+        "alias_SPA_V": [
+          "Regi\u00f3n de Valpara\u00edso"
+        ], 
+        "latitude": -32.997, 
+        "woe:id": 2345018, 
+        "sw_latitude": -33.966, 
+        "provider": "geoplanet 7.6.0", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2344687, 
+          2344692, 
+          2345024, 
+          2345025, 
+          2345029
+        ], 
+        "name": "Valpara\u00edso", 
+        "ne_longitude": -69.997, 
+        "longitude": -70.293, 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "fullname": "Valpara\u00edso, Valparaiso Region, Chile"
       }, 
       "id": 2345018
     }

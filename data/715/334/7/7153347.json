@@ -2081,11 +2081,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 43.62059357393434, 
-        "ne:RegionVar": null, 
+        "ne:OBJECTID": 827, 
         "ne:Shape_Area": 0.936560533324, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "alias_POR_Q": [
           "\u00dambria"
         ], 
@@ -2103,13 +2103,16 @@
         "alias_CHI_Q": [
           "\u7fc1\u5e03\u91cc\u4e9a"
         ], 
-        "ne:Area_sqkm": 8488.5, 
+        "alias_DAN_Q": [
+          "Umbrien"
+        ], 
         "alias_ITA_V": [
           "Umbria Regione"
         ], 
         "alias_JPN_Q": [
           "\u30a6\u30f3\u30d6\u30ea\u30a2"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -2128,8 +2131,8 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 42.36847361896241, 
-        "ne:VertexCou": 514.0, 
-        "ne:VALIDFR_1": "1895", 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -2148,21 +2151,19 @@
         "ne:Region_C_1": null, 
         "ne:TYPE_1": "Regione", 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Umbrien"
-        ], 
+        "ne:Area_sqkm": 8488.5, 
         "alias_GER_Q": [
           "Umbrien"
         ], 
         "woe:id": "7153347", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Umbria", 
+        "ne:VertexCou": 514.0, 
         "adjacent_woeid": [
           7153336, 
           7153339, 
           7153345
         ], 
-        "name": "Umbria", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITE", 
         "ne:CheckMe": 0, 
         "ne_longitude": 13.256379835261214, 
@@ -2172,13 +2173,12 @@
         "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Umbria, Italy", 
-        "alias_FRE_Q": [
-          "Ombrie"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
-        "ne:OBJECTID": 827, 
-        "ne:sameAsCity": -99
+        "ne:RegionVar": null, 
+        "alias_FRE_Q": [
+          "Ombrie"
+        ]
       }, 
       "id": 7153347
     }

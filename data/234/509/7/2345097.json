@@ -40,21 +40,18 @@
           2345104
         ], 
         "name": "Nana-Mamb\u00e9r\u00e9", 
-        "ne_latitude": 6.769, 
         "hierarchy": [
           "woe:state=2345097", 
           "woe:country=23424792", 
           "woe:planet=1"
         ], 
-        "woeid": 2345097, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 16.526, 
         "longitude": 15.473, 
         "placetype": "state", 
-        "alias_FRE_V": [
-          "Nana-Mambere"
-        ], 
+        "latitude": 5.858, 
         "iso": "CF", 
-        "date_indexed": "2010-12-02T17:43:23Z", 
+        "sw_latitude": 4.946, 
         "adjacent": [
           "woe:state=2345038", 
           "woe:state=2345033", 
@@ -62,8 +59,10 @@
           "woe:state=2345104", 
           "woe:state=2345100"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 5.858, 
+        "ne_latitude": 6.769, 
+        "alias_FRE_V": [
+          "Nana-Mambere"
+        ], 
         "sw_longitude": 14.42, 
         "fullname": "Nana-Mamb\u00e9r\u00e9, Central African Republic", 
         "children": [
@@ -72,7 +71,8 @@
           "woe:county=55998328", 
           "woe:county=55998327"
         ], 
-        "sw_latitude": 4.946
+        "date_indexed": "2010-12-02T17:43:23Z", 
+        "woe:id": 2345097
       }, 
       "id": 2345097
     }

@@ -45,18 +45,17 @@
           "woe:country=23424888", 
           "woe:planet=1"
         ], 
-        "woeid": 20069826, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -62.146, 
         "longitude": -62.194, 
-        "ne_latitude": 16.731, 
         "placetype": "state", 
         "iso": "MS", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 16.671, 
         "adjacent": [
           "woe:state=20069827", 
           "woe:state=20069828"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.731, 
         "latitude": 16.701, 
         "sw_longitude": -62.243, 
         "fullname": "Saint Anthony, Montserrat", 
@@ -69,7 +68,8 @@
           "woe:town=110878", 
           "woe:town=110879"
         ], 
-        "sw_latitude": 16.671
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20069826
       }, 
       "id": 20069826
     }

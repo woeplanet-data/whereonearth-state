@@ -41,18 +41,17 @@
           2344618
         ], 
         "name": "Setif", 
-        "ne_latitude": 36.592, 
         "hierarchy": [
           "woe:state=2344586", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344586, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 6.001, 
         "longitude": 5.41, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 35.538, 
         "adjacent": [
           "woe:state=2344580", 
           "woe:state=2344590", 
@@ -61,7 +60,7 @@
           "woe:state=2344599", 
           "woe:state=2344618"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.592, 
         "latitude": 36.065, 
         "sw_longitude": 4.82, 
         "fullname": "Setif, Algeria", 
@@ -124,7 +123,8 @@
           "woe:town=1257581", 
           "woe:town=1258034"
         ], 
-        "sw_latitude": 35.538
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344586
       }, 
       "id": 2344586
     }

@@ -39,7 +39,24 @@
           2346287, 
           2346295
         ], 
+        "alias_ENG_A": [
+          "GT"
+        ], 
         "name": "Guanajuato", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=2346274", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "alias_SPA_V": [
+          "Estado de Guanajuato"
+        ], 
+        "ne_longitude": -99.671, 
+        "longitude": -100.884, 
+        "ne_latitude": 21.839, 
+        "sw_longitude": -102.096, 
+        "sw_latitude": 19.912, 
         "adjacent": [
           "woe:state=2346277", 
           "woe:state=2346279", 
@@ -47,25 +64,7 @@
           "woe:state=2346287", 
           "woe:state=2346295"
         ], 
-        "hierarchy": [
-          "woe:state=2346274", 
-          "woe:country=23424900", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2346274, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -99.671, 
-        "longitude": -100.884, 
-        "ne_latitude": 21.839, 
-        "placetype": "state", 
-        "sw_longitude": -102.096, 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "GT"
-        ], 
-        "alias_SPA_V": [
-          "Estado de Guanajuato"
-        ], 
         "latitude": 20.876, 
         "iso": "MX", 
         "fullname": "Guanajuato, Mexico", 
@@ -130,7 +129,8 @@
           "woe:town=148335", 
           "woe:town=55907967"
         ], 
-        "sw_latitude": 19.912
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "woe:id": 2346274
       }, 
       "id": 2346274
     }

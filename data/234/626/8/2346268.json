@@ -2336,7 +2336,7 @@
         "ne:Shape_Area": 6.20785170399, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "18420911", 
         "alias_ENG_A": [
           "CS"
         ], 
@@ -2468,7 +2468,7 @@
           "woe:town=115835", 
           "woe:town=140518"
         ], 
-        "ne:OBJECTID": 2735, 
+        "ne:DataRank": 2, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -94.12507605631492, 
@@ -2491,9 +2491,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 14.546244207903896, 
-        "ne:VertexCou": 530.0, 
-        "ne:VALIDFR_1": "18420911", 
-        "ne:DataRank": 2, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 2735, 
         "ne:Postal": "CS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2509,8 +2509,8 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 73340.2, 
         "woe:id": "2346268", 
-        "ne:HASC_1": "MX.CP", 
-        "lang": "SPA", 
+        "name": "Chiapas", 
+        "ne:VertexCou": 530.0, 
         "adjacent_woeid": [
           2345552, 
           2345559, 
@@ -2521,7 +2521,7 @@
           2346290, 
           2346293
         ], 
-        "name": "Chiapas", 
+        "ne:HASC_1": "MX.CP", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -92.299, 

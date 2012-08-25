@@ -1261,7 +1261,7 @@
         "alias_POR_V": [
           "Estado Alagoas"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "18170916", 
         "alias_ENG_A": [
           "AL"
         ], 
@@ -1371,7 +1371,7 @@
           "woe:county=12578159", 
           "woe:county=12578063"
         ], 
-        "ne:OBJECTID": 623, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -38.235180019742074, 
@@ -1387,9 +1387,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -10.49899708374835, 
-        "ne:VertexCou": 310.0, 
-        "ne:VALIDFR_1": "18170916", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 623, 
         "ne:Postal": "AL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1405,14 +1405,14 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 27621.2, 
         "woe:id": "2344845", 
-        "ne:HASC_1": "BR.AL", 
-        "lang": "POR", 
+        "name": "Alagoas", 
+        "ne:VertexCou": 310.0, 
         "adjacent_woeid": [
           2344848, 
           2344860, 
           2344869
         ], 
-        "name": "Alagoas", 
+        "ne:HASC_1": "BR.AL", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -35.14831417475932, 
         "longitude": -36.694, 

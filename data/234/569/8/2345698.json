@@ -39,16 +39,32 @@
           2345705, 
           20070111
         ], 
+        "alias_UNK_A": [
+          "N-MUL"
+        ], 
         "name": "Nordur-Mulasysla", 
-        "ne_latitude": 66.17, 
         "hierarchy": [
           "woe:state=2345698", 
           "woe:country=23424845", 
           "woe:planet=1"
         ], 
-        "woeid": 2345698, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -13.566, 
         "longitude": -15.266, 
+        "placetype": "state", 
+        "iso": "IS", 
+        "sw_latitude": 64.575, 
+        "adjacent": [
+          "woe:state=2345690", 
+          "woe:state=2345699", 
+          "woe:state=20070111", 
+          "woe:state=2345704", 
+          "woe:state=2345705"
+        ], 
+        "ne_latitude": 66.17, 
+        "latitude": 65.372, 
+        "sw_longitude": -16.967, 
+        "fullname": "Nordur-Mulasysla, Iceland", 
         "children": [
           "woe:town=980049", 
           "woe:town=980050", 
@@ -64,24 +80,8 @@
           "woe:town=980556", 
           "woe:island=12476032"
         ], 
-        "placetype": "state", 
-        "iso": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
-        "adjacent": [
-          "woe:state=2345690", 
-          "woe:state=2345699", 
-          "woe:state=20070111", 
-          "woe:state=2345704", 
-          "woe:state=2345705"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 65.372, 
-        "sw_longitude": -16.967, 
-        "fullname": "Nordur-Mulasysla, Iceland", 
-        "alias_UNK_A": [
-          "N-MUL"
-        ], 
-        "sw_latitude": 64.575
+        "woe:id": 2345698
       }, 
       "id": 2345698
     }

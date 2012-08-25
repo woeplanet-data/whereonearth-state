@@ -41,21 +41,20 @@
           29389223
         ], 
         "name": "Jablanica", 
-        "ne_latitude": 43.195, 
         "hierarchy": [
           "woe:state=29389208", 
           "woe:country=20069818", 
           "woe:planet=1"
         ], 
-        "woeid": 29389208, 
         "alias_UNK_Q": [
           "Jablanichki Okrug"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 22.515, 
         "longitude": 21.949, 
         "placetype": "state", 
         "iso": "RS", 
-        "sw_latitude": 42.65, 
+        "date_indexed": "2010-12-02T10:22:30Z", 
         "adjacent": [
           "woe:state=29389201", 
           "woe:state=29389218", 
@@ -64,7 +63,7 @@
           "woe:state=29389200", 
           "woe:state=29389219"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.195, 
         "latitude": 42.922, 
         "sw_longitude": 21.381, 
         "fullname": "Jablanica, Serbia", 
@@ -100,7 +99,8 @@
           "woe:town=537497", 
           "woe:town=537630"
         ], 
-        "date_indexed": "2010-12-02T10:22:30Z"
+        "sw_latitude": 42.65, 
+        "woe:id": 29389208
       }, 
       "id": 29389208
     }

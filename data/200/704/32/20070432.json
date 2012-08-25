@@ -42,18 +42,17 @@
           56190213
         ], 
         "name": "Masindi", 
-        "ne_latitude": 2.374, 
         "hierarchy": [
           "woe:state=20070432", 
           "woe:country=23424974", 
           "woe:planet=1"
         ], 
-        "woeid": 20070432, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.364, 
         "longitude": 31.757, 
         "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
+        "sw_latitude": 1.324, 
         "adjacent": [
           "woe:state=56190206", 
           "woe:state=20070411", 
@@ -63,7 +62,7 @@
           "woe:state=20070452", 
           "woe:state=56190213"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 2.374, 
         "latitude": 1.849, 
         "sw_longitude": 31.15, 
         "fullname": "Masindi, Uganda", 
@@ -71,7 +70,8 @@
           "woe:county=56190308", 
           "woe:county=56190309"
         ], 
-        "sw_latitude": 1.324
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "woe:id": 20070432
       }, 
       "id": 20070432
     }

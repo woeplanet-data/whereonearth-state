@@ -32,25 +32,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "DAN", 
-        "ne_latitude": 62.164, 
         "name": "V\u00e1ga", 
+        "alias_DAN_S": [
+          "Vaga"
+        ], 
         "hierarchy": [
           "woe:state=24549694", 
           "woe:country=23424816", 
           "woe:planet=1"
         ], 
-        "woeid": 24549694, 
-        "sw_latitude": 62.026, 
+        "ne_latitude": 62.164, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -7.056, 
         "longitude": -7.257, 
         "placetype": "state", 
         "sw_longitude": -7.681, 
-        "iso": "FO", 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
         "latitude": 62.095, 
-        "alias_DAN_S": [
-          "Vaga"
-        ], 
+        "iso": "FO", 
         "fullname": "V\u00e1ga, Faroe Islands", 
         "children": [
           "woe:town=472617", 
@@ -64,7 +63,8 @@
           "woe:island=12473091", 
           "woe:island=12473106"
         ], 
-        "date_indexed": "2010-12-02T08:52:18Z"
+        "sw_latitude": 62.026, 
+        "woe:id": 24549694
       }, 
       "id": 24549694
     }

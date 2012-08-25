@@ -42,13 +42,12 @@
           2345638
         ], 
         "name": "Intibuc\u00e1", 
-        "ne_latitude": 14.662, 
         "hierarchy": [
           "woe:state=2345632", 
           "woe:country=23424841", 
           "woe:planet=1"
         ], 
-        "woeid": 2345632, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -87.847, 
         "longitude": -88.18, 
         "placetype": "state", 
@@ -56,7 +55,7 @@
           "Intibuca"
         ], 
         "iso": "HN", 
-        "date_indexed": "2010-12-02T19:20:59Z", 
+        "sw_latitude": 13.85, 
         "adjacent": [
           "woe:state=2345293", 
           "woe:state=2345626", 
@@ -66,7 +65,7 @@
           "woe:state=2345300", 
           "woe:state=2345638"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.662, 
         "latitude": 14.256, 
         "sw_longitude": -88.512, 
         "fullname": "Intibuc\u00e1, Honduras", 
@@ -89,7 +88,8 @@
           "woe:county=26813832", 
           "woe:county=26813876"
         ], 
-        "sw_latitude": 13.85
+        "date_indexed": "2010-12-02T19:20:59Z", 
+        "woe:id": 2345632
       }, 
       "id": 2345632
     }

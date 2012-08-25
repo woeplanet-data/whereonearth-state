@@ -38,16 +38,31 @@
           2345703, 
           2345706
         ], 
+        "alias_UNK_A": [
+          "A-BARD"
+        ], 
         "name": "Austur-Bardastrandarsysla", 
-        "ne_latitude": 65.73, 
         "hierarchy": [
           "woe:state=2345688", 
           "woe:country=23424845", 
           "woe:planet=1"
         ], 
-        "woeid": 2345688, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -21.587, 
         "longitude": -22.181, 
+        "placetype": "state", 
+        "iso": "IS", 
+        "sw_latitude": 65.366, 
+        "adjacent": [
+          "woe:state=2345692", 
+          "woe:state=2345697", 
+          "woe:state=2345703", 
+          "woe:state=2345706"
+        ], 
+        "ne_latitude": 65.73, 
+        "latitude": 65.579, 
+        "sw_longitude": -22.868, 
+        "fullname": "Austur-Bardastrandarsysla, Iceland", 
         "children": [
           "woe:town=980539", 
           "woe:island=12476171", 
@@ -56,23 +71,8 @@
           "woe:island=12476114", 
           "woe:island=12476048"
         ], 
-        "placetype": "state", 
-        "iso": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
-        "adjacent": [
-          "woe:state=2345692", 
-          "woe:state=2345697", 
-          "woe:state=2345703", 
-          "woe:state=2345706"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 65.579, 
-        "sw_longitude": -22.868, 
-        "fullname": "Austur-Bardastrandarsysla, Iceland", 
-        "alias_UNK_A": [
-          "A-BARD"
-        ], 
-        "sw_latitude": 65.366
+        "woe:id": 2345688
       }, 
       "id": 2345688
     }

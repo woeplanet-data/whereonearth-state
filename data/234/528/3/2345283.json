@@ -31,21 +31,17 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "UNK", 
-        "adjacent_woeid": [
-          2345279, 
-          2345281, 
-          2345285, 
-          2345289
-        ], 
-        "name": "P\u00e4rnumaa", 
         "alias_ENG_P": [
           "Parnu County"
         ], 
-        "alias_UNK_S": [
-          "Parnumaa"
+        "hierarchy": [
+          "woe:state=2345283", 
+          "woe:country=23424805", 
+          "woe:planet=1"
         ], 
-        "woeid": 2345283, 
+        "ne_latitude": 58.757, 
+        "ne_longitude": 25.307, 
+        "placetype": "state", 
         "children": [
           "woe:county=29389874", 
           "woe:county=29389921", 
@@ -81,19 +77,7 @@
           "woe:historicalcounty=29389841", 
           "woe:historicalcounty=29389860"
         ], 
-        "alias_UNK_V": [
-          "P\u00e4rnu Maakond"
-        ], 
-        "longitude": 23.978, 
-        "ne_longitude": 25.307, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=2345283", 
-          "woe:country=23424805", 
-          "woe:planet=1"
-        ], 
-        "iso": "EE", 
-        "sw_latitude": 57.865, 
+        "sw_longitude": 23.609, 
         "adjacent": [
           "woe:state=2345279", 
           "woe:state=2345281", 
@@ -101,11 +85,27 @@
           "woe:state=2345289"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 58.757, 
-        "sw_longitude": 23.609, 
         "latitude": 58.311, 
-        "fullname": "P\u00e4rnumaa, Parnu County, Estonia", 
-        "date_indexed": "2010-12-02T16:42:58Z"
+        "woe:id": 2345283, 
+        "date_indexed": "2010-12-02T16:42:58Z", 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          2345279, 
+          2345281, 
+          2345285, 
+          2345289
+        ], 
+        "name": "P\u00e4rnumaa", 
+        "alias_UNK_S": [
+          "Parnumaa"
+        ], 
+        "alias_UNK_V": [
+          "P\u00e4rnu Maakond"
+        ], 
+        "longitude": 23.978, 
+        "iso": "EE", 
+        "sw_latitude": 57.865, 
+        "fullname": "P\u00e4rnumaa, Parnu County, Estonia"
       }, 
       "id": 2345283
     }

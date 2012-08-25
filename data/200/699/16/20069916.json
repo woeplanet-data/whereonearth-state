@@ -39,25 +39,24 @@
           20069915
         ], 
         "name": "Al Jazirah", 
-        "ne_latitude": 15.508, 
         "hierarchy": [
           "woe:state=20069916", 
           "woe:country=23424952", 
           "woe:planet=1"
         ], 
-        "woeid": 20069916, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 34.165, 
         "longitude": 33.262, 
         "placetype": "state", 
         "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
+        "sw_latitude": 13.48, 
         "adjacent": [
           "woe:state=20069819", 
           "woe:state=20069906", 
           "woe:state=20069914", 
           "woe:state=20069915"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.508, 
         "latitude": 14.494, 
         "sw_longitude": 32.36, 
         "fullname": "Al Jazirah, Sudan", 
@@ -118,7 +117,8 @@
           "woe:town=1437295", 
           "woe:town=1437315"
         ], 
-        "sw_latitude": 13.48
+        "date_indexed": "2010-12-02T08:50:49Z", 
+        "woe:id": 20069916
       }, 
       "id": 20069916
     }

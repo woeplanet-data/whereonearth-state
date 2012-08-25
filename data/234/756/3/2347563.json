@@ -4837,7 +4837,7 @@
         "ne:Shape_Area": 41.6210491194, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18500909", 
         "alias_POR_Q": [
           "Calif\u00f3rnia"
         ], 
@@ -5014,8 +5014,10 @@
         "alias_CHI_Q": [
           "\u52a0\u5229\u798f\u5c3c\u4e9a"
         ], 
-        "ne:Area_sqkm": 409437.5, 
-        "ne:OBJECTID": 3521, 
+        "alias_DAN_Q": [
+          "Californien"
+        ], 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2"
         ], 
@@ -5035,14 +5037,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "ne:VertexCou": 1217.0, 
-        "ne:VALIDFR_1": "18500909", 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
         "adjacent": [
           "woe:state=2347561", 
           "woe:state=2347587", 
           "woe:state=2347596"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3521, 
         "ne:Postal": "CA", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "CA|Calif.", 
@@ -5058,21 +5060,19 @@
         "ne:Region_C_1": "Pacific", 
         "ne:sameAsCity": -99, 
         "ne:LabelRank": 0, 
-        "alias_DAN_Q": [
-          "Californien"
-        ], 
+        "ne:Area_sqkm": 409437.5, 
         "alias_GER_Q": [
           "Kalifornien"
         ], 
         "woe:id": "2347563", 
-        "ne:HASC_1": "US.CA", 
-        "lang": "ENG", 
+        "name": "California", 
+        "ne:VertexCou": 1217.0, 
         "adjacent_woeid": [
           2347561, 
           2347587, 
           2347596
         ], 
-        "name": "California", 
+        "ne:HASC_1": "US.CA", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne:TYPE_1": "State", 

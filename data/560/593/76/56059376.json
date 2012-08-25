@@ -44,26 +44,20 @@
           56059379
         ], 
         "name": "Nz\u00e9r\u00e9kor\u00e9", 
+        "ne_latitude": 9.589, 
         "hierarchy": [
           "woe:state=56059376", 
           "woe:country=23424835", 
           "woe:planet=1"
         ], 
-        "woeid": 56059376, 
         "ne_longitude": -7.641, 
         "longitude": -9.18, 
-        "children": [
-          "woe:county=2345574", 
-          "woe:county=2345586", 
-          "woe:county=56059732", 
-          "woe:county=2345594", 
-          "woe:county=2345597", 
-          "woe:county=2345602"
+        "alias_FRE_S": [
+          "Nzerekore"
         ], 
         "placetype": "state", 
-        "latitude": 8.391, 
         "iso": "GN", 
-        "sw_latitude": 7.194, 
+        "date_indexed": "2010-12-02T16:11:50Z", 
         "adjacent": [
           "woe:state=55966992", 
           "woe:state=2346099", 
@@ -76,13 +70,19 @@
           "woe:state=2346103"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 9.589, 
+        "latitude": 8.391, 
         "sw_longitude": -10.719, 
         "fullname": "Nz\u00e9r\u00e9kor\u00e9, Guinea", 
-        "alias_FRE_S": [
-          "Nzerekore"
+        "children": [
+          "woe:county=2345574", 
+          "woe:county=2345586", 
+          "woe:county=56059732", 
+          "woe:county=2345594", 
+          "woe:county=2345597", 
+          "woe:county=2345602"
         ], 
-        "date_indexed": "2010-12-02T16:11:50Z"
+        "sw_latitude": 7.194, 
+        "woe:id": 56059376
       }, 
       "id": 56059376
     }

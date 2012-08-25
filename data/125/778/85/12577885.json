@@ -1671,7 +1671,7 @@
         "ne:Shape_Area": 0.823316116691, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1913", 
         "alias_POR_Q": [
           "Creta"
         ], 
@@ -1690,27 +1690,29 @@
         "alias_CHI_Q": [
           "\u514b\u91cc\u7279"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Creta"
+        ], 
         "alias_ITA_Q": [
           "Creta"
         ], 
-        "ne:Area_sqkm": 8314.9, 
-        "ne:OBJECTID": 2990, 
+        "alias_DAN_Q": [
+          "Kreta"
+        ], 
+        "ne:DataRank": 6, 
         "alias_ARA_Q": [
           "\u0643\u0631\u064a\u062a"
         ], 
         "alias_JPN_Q": [
           "\u30af\u30ec\u30bf\u5cf6"
         ], 
-        "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Creta"
+        "alias_KOR_V": [
+          "\ud06c\ub9ac\ud2f0"
         ], 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Kreeta"
-        ], 
-        "alias_DUT_Q": [
-          "Kreta"
         ], 
         "sw_longitude": 23.518182407592064, 
         "alias_FIN_V": [
@@ -1725,9 +1727,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "ne:VertexCou": 406.0, 
-        "ne:VALIDFR_1": "1913", 
-        "ne:DataRank": 6, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 2990, 
         "ne:Postal": "CR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Crete", 
@@ -1735,7 +1737,9 @@
         "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 8.39538402799, 
-        "ne:CheckMe": 0, 
+        "alias_DUT_Q": [
+          "Kreta"
+        ], 
         "ne:NAME_0": "Greece", 
         "ne:NAME_1": "Kriti", 
         "ne:Region_C_1": null, 
@@ -1744,22 +1748,18 @@
           "Kr\u00e9ta"
         ], 
         "ne:LabelRank": 6, 
-        "alias_DAN_Q": [
-          "Kreta"
-        ], 
+        "ne:Area_sqkm": 8314.9, 
         "alias_GER_Q": [
           "Kreta"
         ], 
         "woe:id": "12577885", 
-        "ne:HASC_1": "GR.CR", 
-        "lang": "ENG", 
+        "name": "Crete", 
+        "ne:VertexCou": 406.0, 
         "ne:NL_NAME_1": "???t?", 
         "ne:FIRST_FIPS": null, 
-        "name": "Crete", 
+        "ne:HASC_1": "GR.CR", 
         "ne:REMARKS_1": null, 
-        "alias_KOR_V": [
-          "\ud06c\ub9ac\ud2f0"
-        ], 
+        "ne:CheckMe": 0, 
         "alias_UNK_S": [
           "Krit"
         ], 

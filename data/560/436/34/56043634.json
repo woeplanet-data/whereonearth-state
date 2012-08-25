@@ -45,12 +45,9 @@
         "ne_latitude": 47.001, 
         "ne_longitude": 19.851, 
         "longitude": 19.679, 
-        "children": [
-          "woe:county=12593496"
-        ], 
         "placetype": "state", 
         "iso": "HU", 
-        "sw_latitude": 46.772, 
+        "date_indexed": "2010-12-02T09:55:38Z", 
         "adjacent": [
           "woe:state=12577911", 
           "woe:state=12577923"
@@ -62,8 +59,11 @@
         "alias_HUN_S": [
           "Kecskemet"
         ], 
-        "woeid": 56043634, 
-        "date_indexed": "2010-12-02T09:55:38Z"
+        "children": [
+          "woe:county=12593496"
+        ], 
+        "sw_latitude": 46.772, 
+        "woe:id": 56043634
       }, 
       "id": 56043634
     }

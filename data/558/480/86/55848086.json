@@ -31,21 +31,17 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "UNK", 
-        "adjacent_woeid": [
-          55848079, 
-          55848081, 
-          55848083, 
-          55848084
-        ], 
-        "name": "Paneve\u017eio Apskritis", 
         "alias_ENG_P": [
           "Panevezys County"
         ], 
-        "alias_UNK_S": [
-          "Panevezys Apskritis"
+        "hierarchy": [
+          "woe:state=55848086", 
+          "woe:country=23424875", 
+          "woe:planet=1"
         ], 
-        "woeid": 55848086, 
+        "ne_latitude": 56.45, 
+        "ne_longitude": 26.046, 
+        "placetype": "state", 
         "children": [
           "woe:county=2346049", 
           "woe:county=2346063", 
@@ -60,19 +56,7 @@
           "woe:zone=24874170", 
           "woe:zone=24874171"
         ], 
-        "alias_UNK_V": [
-          "Panevezio Apskritis"
-        ], 
-        "longitude": 24.963, 
-        "ne_longitude": 26.046, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=55848086", 
-          "woe:country=23424875", 
-          "woe:planet=1"
-        ], 
-        "iso": "LT", 
-        "date_indexed": "2010-12-02T09:35:48Z", 
+        "sw_longitude": 23.879, 
         "adjacent": [
           "woe:state=55848084", 
           "woe:state=55848079", 
@@ -80,11 +64,27 @@
           "woe:state=55848083"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 56.45, 
-        "sw_longitude": 23.879, 
         "latitude": 55.919, 
-        "fullname": "Paneve\u017eio Apskritis, Panevezys County, Lithuania", 
-        "sw_latitude": 55.387
+        "woe:id": 55848086, 
+        "sw_latitude": 55.387, 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          55848079, 
+          55848081, 
+          55848083, 
+          55848084
+        ], 
+        "name": "Paneve\u017eio Apskritis", 
+        "alias_UNK_S": [
+          "Panevezys Apskritis"
+        ], 
+        "alias_UNK_V": [
+          "Panevezio Apskritis"
+        ], 
+        "longitude": 24.963, 
+        "iso": "LT", 
+        "date_indexed": "2010-12-02T09:35:48Z", 
+        "fullname": "Paneve\u017eio Apskritis, Panevezys County, Lithuania"
       }, 
       "id": 55848086
     }

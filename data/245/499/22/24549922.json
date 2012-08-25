@@ -32,27 +32,27 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -7.933, 
         "name": "Nukufetau", 
         "hierarchy": [
           "woe:state=24549922", 
           "woe:country=23424970", 
           "woe:planet=1"
         ], 
-        "woeid": 24549922, 
+        "ne_latitude": -7.933, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 178.434, 
         "longitude": 178.426, 
         "placetype": "state", 
         "iso": "TV", 
-        "sw_latitude": -8.067, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "latitude": -7.971, 
         "sw_longitude": 178.3, 
         "fullname": "Nukufetau, Tuvalu", 
         "children": [
           "woe:island=12502381"
         ], 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "sw_latitude": -8.067, 
+        "woe:id": 24549922
       }, 
       "id": 24549922
     }

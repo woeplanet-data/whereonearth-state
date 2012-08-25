@@ -43,23 +43,22 @@
           "woe:country=26812346", 
           "woe:planet=1"
         ], 
-        "woeid": 12577963, 
-        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Famagusta"
         ], 
         "longitude": 34.055, 
         "ne_longitude": 34.598, 
         "placetype": "state", 
+        "latitude": 35.329, 
         "iso": "CY", 
-        "date_indexed": "2010-12-02T09:35:19Z", 
+        "sw_latitude": 34.956, 
         "adjacent": [
           "woe:state=12577969", 
           "woe:state=12577964", 
           "woe:state=12577971"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 35.702, 
-        "latitude": 35.329, 
         "sw_longitude": 33.511, 
         "fullname": "Famagusta District, Cyprus", 
         "children": [
@@ -172,7 +171,8 @@
           "woe:town=841786", 
           "woe:zone=24875606"
         ], 
-        "sw_latitude": 34.956
+        "date_indexed": "2010-12-02T09:35:19Z", 
+        "woe:id": 12577963
       }, 
       "id": 12577963
     }

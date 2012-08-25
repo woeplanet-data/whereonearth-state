@@ -50,6 +50,25 @@
         "ne_latitude": 48.425, 
         "ne_longitude": 22.897, 
         "longitude": 21.988, 
+        "placetype": "state", 
+        "iso": "HU", 
+        "sw_latitude": 47.593, 
+        "adjacent": [
+          "woe:state=2346619", 
+          "woe:state=12577914", 
+          "woe:state=12577919", 
+          "woe:state=20070497", 
+          "woe:state=56043636", 
+          "woe:state=2346645", 
+          "woe:state=2347556"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.009, 
+        "sw_longitude": 21.079, 
+        "fullname": "Szabolcs-Szatm\u00e1r-Bereg, Hungary", 
+        "alias_HUN_S": [
+          "Szabolcs-Szatmar-Bereg"
+        ], 
         "children": [
           "woe:county=12593362", 
           "woe:county=12593706", 
@@ -282,27 +301,8 @@
           "woe:zone=24873828", 
           "woe:zone=24873829"
         ], 
-        "placetype": "state", 
-        "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "adjacent": [
-          "woe:state=2346619", 
-          "woe:state=12577914", 
-          "woe:state=12577919", 
-          "woe:state=20070497", 
-          "woe:state=56043636", 
-          "woe:state=2346645", 
-          "woe:state=2347556"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 48.009, 
-        "sw_longitude": 21.079, 
-        "fullname": "Szabolcs-Szatm\u00e1r-Bereg, Hungary", 
-        "alias_HUN_S": [
-          "Szabolcs-Szatmar-Bereg"
-        ], 
-        "woeid": 12577925, 
-        "sw_latitude": 47.593
+        "woe:id": 12577925
       }, 
       "id": 12577925
     }

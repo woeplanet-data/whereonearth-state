@@ -40,18 +40,17 @@
           20069909
         ], 
         "name": "Bahr al Jabal", 
-        "ne_latitude": 6.187, 
         "hierarchy": [
           "woe:state=20069902", 
           "woe:country=23424952", 
           "woe:planet=1"
         ], 
-        "woeid": 20069902, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.335, 
         "longitude": 31.064, 
         "placetype": "state", 
         "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
+        "sw_latitude": 3.486, 
         "adjacent": [
           "woe:state=20069896", 
           "woe:state=20069900", 
@@ -59,7 +58,7 @@
           "woe:state=2344985", 
           "woe:state=20069901"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 6.187, 
         "latitude": 4.837, 
         "sw_longitude": 29.793, 
         "fullname": "Bahr al Jabal, Sudan", 
@@ -91,7 +90,8 @@
           "woe:town=1436560", 
           "woe:town=1437602"
         ], 
-        "sw_latitude": 3.486
+        "date_indexed": "2010-12-02T08:50:49Z", 
+        "woe:id": 20069902
       }, 
       "id": 20069902
     }

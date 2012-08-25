@@ -1203,7 +1203,7 @@
         "ne:Shape_Area": 2.76653263297, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "17710304", 
         "alias_ENG_A": [
           "VT"
         ], 
@@ -1237,7 +1237,7 @@
         "alias_CHI_Q": [
           "\u4f5b\u8499\u7279"
         ], 
-        "ne:OBJECTID": 3540, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30d0\u30fc\u30e2\u30f3\u30c8"
         ], 
@@ -1257,9 +1257,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 42.72927654897359, 
-        "ne:VertexCou": 295.0, 
-        "ne:VALIDFR_1": "17710304", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3540, 
         "ne:Postal": "VT", 
         "ne:Region_Cod": "Northeast", 
         "ne:VARNAME_1": "VT", 
@@ -1275,15 +1275,15 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 24621.9, 
         "woe:id": "2347604", 
-        "ne:HASC_1": "US.VT", 
-        "lang": "ENG", 
+        "name": "Vermont", 
+        "ne:VertexCou": 295.0, 
         "adjacent_woeid": [
           2344924, 
           2347580, 
           2347588, 
           2347591
         ], 
-        "name": "Vermont", 
+        "ne:HASC_1": "US.VT", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -71.50465702500168, 
         "longitude": -72.452, 

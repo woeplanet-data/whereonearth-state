@@ -39,18 +39,17 @@
           2347744
         ], 
         "name": "Binh Thuan", 
+        "ne_latitude": 11.553, 
         "hierarchy": [
           "woe:state=2347731", 
           "woe:country=23424984", 
           "woe:planet=1"
         ], 
-        "woeid": 2347731, 
         "ne_longitude": 109.086, 
         "longitude": 108.135, 
         "placetype": "state", 
-        "latitude": 11.064, 
         "iso": "VN", 
-        "sw_latitude": 9.965, 
+        "date_indexed": "2010-12-02T08:52:39Z", 
         "adjacent": [
           "woe:state=2347729", 
           "woe:state=2347721", 
@@ -58,7 +57,7 @@
           "woe:state=2347744"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 11.553, 
+        "latitude": 11.064, 
         "sw_longitude": 107.401, 
         "fullname": "Binh Thuan, Vietnam", 
         "children": [
@@ -118,7 +117,8 @@
           "woe:island=12502562", 
           "woe:island=12510247"
         ], 
-        "date_indexed": "2010-12-02T08:52:39Z"
+        "sw_latitude": 9.965, 
+        "woe:id": 2347731
       }, 
       "id": 2347731
     }

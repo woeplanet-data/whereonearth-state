@@ -32,27 +32,27 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -6.277, 
         "name": "Nanumanga", 
         "hierarchy": [
           "woe:state=24549916", 
           "woe:country=23424970", 
           "woe:planet=1"
         ], 
-        "woeid": 24549916, 
+        "ne_latitude": -6.277, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 176.326, 
         "longitude": 176.318, 
         "placetype": "state", 
         "iso": "TV", 
-        "sw_latitude": -6.304, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "latitude": -6.29, 
         "sw_longitude": 176.31, 
         "fullname": "Nanumanga, Tuvalu", 
         "children": [
           "woe:island=12502352"
         ], 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "sw_latitude": -6.304, 
+        "woe:id": 24549916
       }, 
       "id": 24549916
     }

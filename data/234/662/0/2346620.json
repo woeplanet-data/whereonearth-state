@@ -39,25 +39,24 @@
           2346647
         ], 
         "name": "Bistrita-Nasaud", 
-        "ne_latitude": 47.606, 
         "hierarchy": [
           "woe:state=2346620", 
           "woe:country=23424933", 
           "woe:planet=1"
         ], 
-        "woeid": 2346620, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 25.093, 
         "longitude": 24.509, 
         "placetype": "state", 
         "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
+        "sw_latitude": 46.752, 
         "adjacent": [
           "woe:state=2346627", 
           "woe:state=2346638", 
           "woe:state=2346640", 
           "woe:state=2346647"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 47.606, 
         "latitude": 47.179, 
         "sw_longitude": 23.925, 
         "fullname": "Bistrita-Nasaud, Romania", 
@@ -299,7 +298,8 @@
           "woe:town=881683", 
           "woe:town=881780"
         ], 
-        "sw_latitude": 46.752
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "woe:id": 2346620
       }, 
       "id": 2346620
     }

@@ -31,15 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ARA", 
-        "adjacent_woeid": [
-          2346255, 
-          2346256, 
-          2346257, 
-          2346260, 
-          7038775
-        ], 
-        "name": "Ad Dakhiliyah", 
         "alias_ENG_P": [
           "Interior"
         ], 
@@ -48,29 +39,10 @@
           "woe:country=23424898", 
           "woe:planet=1"
         ], 
-        "woeid": 2346261, 
-        "ne_longitude": 58.588, 
-        "longitude": 57.457, 
         "ne_latitude": 23.504, 
         "placetype": "state", 
-        "iso": "OM", 
-        "date_indexed": "2010-12-02T09:35:37Z", 
-        "adjacent": [
-          "woe:state=7038775", 
-          "woe:state=2346257", 
-          "woe:state=2346256", 
-          "woe:state=2346255", 
-          "woe:state=2346260"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 22.3, 
-        "sw_longitude": 56.326, 
-        "fullname": "Ad Dakhiliyah, Oman", 
         "alias_ARA_V": [
           "Dakhlia"
-        ], 
-        "alias_GER_Q": [
-          "Al Goof"
         ], 
         "children": [
           "woe:county=55927094", 
@@ -82,7 +54,35 @@
           "woe:county=55927053", 
           "woe:county=55927076"
         ], 
-        "sw_latitude": 21.096
+        "sw_longitude": 56.326, 
+        "adjacent": [
+          "woe:state=7038775", 
+          "woe:state=2346257", 
+          "woe:state=2346256", 
+          "woe:state=2346255", 
+          "woe:state=2346260"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.3, 
+        "woe:id": 2346261, 
+        "sw_latitude": 21.096, 
+        "alias_GER_Q": [
+          "Al Goof"
+        ], 
+        "lang": "ARA", 
+        "adjacent_woeid": [
+          2346255, 
+          2346256, 
+          2346257, 
+          2346260, 
+          7038775
+        ], 
+        "name": "Ad Dakhiliyah", 
+        "ne_longitude": 58.588, 
+        "longitude": 57.457, 
+        "iso": "OM", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
+        "fullname": "Ad Dakhiliyah, Oman"
       }, 
       "id": 2346261
     }

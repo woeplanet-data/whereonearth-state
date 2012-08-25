@@ -46,23 +46,22 @@
           "woe:country=23424931", 
           "woe:planet=1"
         ], 
-        "woeid": 24549831, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.467, 
         "longitude": 55.343, 
+        "ne_latitude": -20.944, 
         "placetype": "state", 
-        "latitude": -21.111, 
+        "alias_FRE_V": [
+          "Arrondissement de Saint-Paul"
+        ], 
         "iso": "RE", 
-        "sw_latitude": -21.288, 
+        "date_indexed": "2010-12-02T09:35:31Z", 
         "adjacent": [
           "woe:state=24549829", 
           "woe:state=24549830", 
           "woe:state=24549828"
         ], 
-        "ne_latitude": -20.944, 
-        "alias_FRE_V": [
-          "Arrondissement de Saint-Paul"
-        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -21.111, 
         "sw_longitude": 55.219, 
         "fullname": "Saint-Paul, Arrondissement of Saint-Paul, Reunion", 
         "children": [
@@ -72,7 +71,8 @@
           "woe:county=24551465", 
           "woe:county=24551466"
         ], 
-        "date_indexed": "2010-12-02T09:35:31Z"
+        "sw_latitude": -21.288, 
+        "woe:id": 24549831
       }, 
       "id": 24549831
     }

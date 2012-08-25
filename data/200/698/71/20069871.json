@@ -40,18 +40,17 @@
           55948197
         ], 
         "name": "Edinet", 
-        "ne_latitude": 48.349, 
         "hierarchy": [
           "woe:state=20069871", 
           "woe:country=23424885", 
           "woe:planet=1"
         ], 
-        "woeid": 20069871, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 27.536, 
         "longitude": 27.28, 
         "placetype": "state", 
         "iso": "MD", 
-        "date_indexed": "2010-12-02T17:57:50Z", 
+        "sw_latitude": 47.942, 
         "adjacent": [
           "woe:state=2346621", 
           "woe:state=55948180", 
@@ -59,7 +58,7 @@
           "woe:state=55948195", 
           "woe:state=55948197"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 48.349, 
         "latitude": 48.146, 
         "sw_longitude": 27.023, 
         "fullname": "Edinet, Moldova", 
@@ -100,7 +99,8 @@
           "woe:town=481612", 
           "woe:town=481342"
         ], 
-        "sw_latitude": 47.942
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "woe:id": 20069871
       }, 
       "id": 20069871
     }

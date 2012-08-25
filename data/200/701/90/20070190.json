@@ -39,25 +39,24 @@
           20070195
         ], 
         "name": "Ysyk-Kol", 
-        "ne_latitude": 42.936, 
         "hierarchy": [
           "woe:state=20070190", 
           "woe:country=23424864", 
           "woe:planet=1"
         ], 
-        "woeid": 20070190, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 80.283, 
         "longitude": 77.955, 
         "placetype": "state", 
         "iso": "KG", 
-        "date_indexed": "2010-12-02T08:58:47Z", 
+        "sw_latitude": 41.143, 
         "adjacent": [
           "woe:state=20070180", 
           "woe:state=20070195", 
           "woe:state=20070191", 
           "woe:state=12578003"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.936, 
         "latitude": 42.039, 
         "sw_longitude": 75.627, 
         "fullname": "Ysyk-Kol, Kyrgyzstan", 
@@ -94,7 +93,8 @@
           "woe:town=1969964", 
           "woe:town=1969870"
         ], 
-        "sw_latitude": 41.143
+        "date_indexed": "2010-12-02T08:58:47Z", 
+        "woe:id": 20070190
       }, 
       "id": 20070190
     }

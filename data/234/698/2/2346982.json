@@ -3055,7 +3055,7 @@
         "ne:Shape_Area": 8.61205602369, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud06c\uc640\uc904\ub8e8\ub098\ud0c8"
         ], 
@@ -3218,7 +3218,7 @@
           "woe:historicalcounty=55921587", 
           "woe:historicalcounty=55921893"
         ], 
-        "ne:OBJECTID": 1216, 
+        "ne:DataRank": 3, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 28.752849968851024, 
@@ -3242,9 +3242,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -31.078051038924286, 
-        "ne:VertexCou": 736.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 1216, 
         "ne:Postal": "NL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Natal and Zululand", 
@@ -3260,8 +3260,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 93247.7, 
         "woe:id": "2346982", 
-        "ne:HASC_1": "ZA.NL", 
-        "lang": "ENG", 
+        "name": "Kwazulu Natal", 
+        "ne:VertexCou": 736.0, 
         "adjacent_woeid": [
           2346314, 
           2346979, 
@@ -3274,7 +3274,7 @@
           20069891
         ], 
         "ne:FIRST_FIPS": "SF02", 
-        "name": "Kwazulu Natal", 
+        "ne:HASC_1": "ZA.NL", 
         "ne:REMARKS_1": "CSS 5, Formerly part of Natal, Cape of Good Hope", 
         "ne:TYPE_1": "Provinsie", 
         "ne_longitude": 32.893320754049626, 

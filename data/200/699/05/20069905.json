@@ -41,18 +41,17 @@
           24549684
         ], 
         "name": "Kassala", 
-        "ne_latitude": 17.186, 
         "hierarchy": [
           "woe:state=20069905", 
           "woe:country=23424952", 
           "woe:planet=1"
         ], 
-        "woeid": 20069905, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 37.03, 
         "longitude": 35.632, 
         "placetype": "state", 
         "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
+        "sw_latitude": 14.603, 
         "adjacent": [
           "woe:state=20069904", 
           "woe:state=20069819", 
@@ -61,7 +60,7 @@
           "woe:state=24549681", 
           "woe:state=20069903"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.186, 
         "latitude": 15.894, 
         "sw_longitude": 34.233, 
         "fullname": "Kassala, Sudan", 
@@ -78,7 +77,8 @@
           "woe:town=1435108", 
           "woe:town=1435576"
         ], 
-        "sw_latitude": 14.603
+        "date_indexed": "2010-12-02T08:50:49Z", 
+        "woe:id": 20069905
       }, 
       "id": 20069905
     }

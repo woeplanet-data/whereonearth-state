@@ -38,24 +38,23 @@
           2344984
         ], 
         "name": "Cabinda", 
-        "ne_latitude": -4.373, 
         "hierarchy": [
           "woe:state=2344658", 
           "woe:country=23424745", 
           "woe:planet=1"
         ], 
-        "woeid": 2344658, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 13.11, 
         "longitude": 12.259, 
         "placetype": "state", 
         "iso": "AO", 
-        "date_indexed": "2010-12-02T17:52:14Z", 
+        "sw_latitude": -5.769, 
         "adjacent": [
           "woe:state=2344984", 
           "woe:state=2344969", 
           "woe:state=2344972"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -4.373, 
         "latitude": -5.071, 
         "sw_longitude": 12.013, 
         "fullname": "Cabinda, Angola", 
@@ -67,7 +66,8 @@
           "woe:town=1260897", 
           "woe:town=1261720"
         ], 
-        "sw_latitude": -5.769
+        "date_indexed": "2010-12-02T17:52:14Z", 
+        "woe:id": 2344658
       }, 
       "id": 2344658
     }

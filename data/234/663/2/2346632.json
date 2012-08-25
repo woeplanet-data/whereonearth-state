@@ -42,18 +42,17 @@
           55948182
         ], 
         "name": "Galati", 
-        "ne_latitude": 46.167, 
         "hierarchy": [
           "woe:state=2346632", 
           "woe:country=23424933", 
           "woe:planet=1"
         ], 
-        "woeid": 2346632, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 28.216, 
         "longitude": 27.722, 
         "placetype": "state", 
         "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
+        "sw_latitude": 45.39, 
         "adjacent": [
           "woe:state=2346622", 
           "woe:state=20069882", 
@@ -63,7 +62,7 @@
           "woe:state=2346651", 
           "woe:state=2346653"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 46.167, 
         "latitude": 45.779, 
         "sw_longitude": 27.229, 
         "fullname": "Galati, Romania", 
@@ -269,7 +268,8 @@
           "woe:town=881783", 
           "woe:town=881765"
         ], 
-        "sw_latitude": 45.39
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "woe:id": 2346632
       }, 
       "id": 2346632
     }

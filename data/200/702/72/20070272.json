@@ -38,24 +38,23 @@
           20070283
         ], 
         "name": "Qobustan", 
-        "ne_latitude": 40.751, 
         "hierarchy": [
           "woe:state=20070272", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070272, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 49.217, 
         "longitude": 48.887, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 40.271, 
         "adjacent": [
           "woe:state=20070283", 
           "woe:state=20070270", 
           "woe:state=20070271"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.751, 
         "latitude": 40.541, 
         "sw_longitude": 48.689, 
         "fullname": "Qobustan, Azerbaijan", 
@@ -65,7 +64,8 @@
           "woe:town=1951997", 
           "woe:town=1951056"
         ], 
-        "sw_latitude": 40.271
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070272
       }, 
       "id": 20070272
     }

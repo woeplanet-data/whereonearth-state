@@ -31,25 +31,19 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "CHI", 
         "alias_ENG_V": [
           "Taitung"
         ], 
-        "name": "\u53f0\u6771\u7e23", 
-        "alias_CHI_V": [
-          "\u53f0\u6771"
+        "alias_ENG_P": [
+          "Taitung County"
         ], 
         "hierarchy": [
           "woe:state=2347344", 
           "woe:country=23424971", 
           "woe:planet=1"
         ], 
-        "woeid": 2347344, 
-        "alias_ENG_P": [
-          "Taitung County"
-        ], 
-        "ne_longitude": 121.615, 
-        "longitude": 121.069, 
+        "ne_latitude": 23.444, 
+        "placetype": "state", 
         "children": [
           "woe:town=2306190", 
           "woe:town=2295707", 
@@ -427,25 +421,31 @@
           "woe:drainage=28803156", 
           "woe:drainage=28803185"
         ], 
-        "placetype": "state", 
-        "adjacent_woeid": [
-          2347340, 
-          2347335, 
-          20070570
+        "alias_CHI_V": [
+          "\u53f0\u6771"
         ], 
-        "iso": "TW", 
-        "date_indexed": "2010-12-02T16:15:11Z", 
+        "sw_longitude": 120.739, 
         "adjacent": [
           "woe:state=2347340", 
           "woe:state=2347335", 
           "woe:state=20070570"
         ], 
-        "ne_latitude": 23.444, 
-        "latitude": 22.971, 
-        "sw_longitude": 120.739, 
-        "fullname": "\u53f0\u6771\u7e23, Taiwan, Taitung County, Taiwan", 
         "provider": "geoplanet 7.6.0", 
-        "sw_latitude": 21.944
+        "latitude": 22.971, 
+        "woe:id": 2347344, 
+        "sw_latitude": 21.944, 
+        "lang": "CHI", 
+        "adjacent_woeid": [
+          2347340, 
+          2347335, 
+          20070570
+        ], 
+        "name": "\u53f0\u6771\u7e23", 
+        "ne_longitude": 121.615, 
+        "longitude": 121.069, 
+        "iso": "TW", 
+        "date_indexed": "2010-12-02T16:15:11Z", 
+        "fullname": "\u53f0\u6771\u7e23, Taiwan, Taitung County, Taiwan"
       }, 
       "id": 2347344
     }

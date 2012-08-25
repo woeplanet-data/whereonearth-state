@@ -50,13 +50,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347130, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 100.578, 
         "longitude": 99.918, 
-        "ne_latitude": 20.465, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 19.002, 
         "adjacent": [
           "woe:state=20070156", 
           "woe:state=2347129", 
@@ -66,7 +65,7 @@
           "woe:state=2344820", 
           "woe:state=2346010"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 20.465, 
         "latitude": 19.733, 
         "sw_longitude": 99.258, 
         "fullname": "Chiang Rai, Thailand", 
@@ -91,7 +90,8 @@
           "woe:county=28340861", 
           "woe:landfeature=56057369"
         ], 
-        "sw_latitude": 19.002
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347130
       }, 
       "id": 2347130
     }

@@ -51,25 +51,8 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 42.067, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 42.656, 
         "longitude": 42.384, 
-        "placetype": "state", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "adjacent": [
-          "woe:state=20070395", 
-          "woe:state=20070347", 
-          "woe:state=20070400", 
-          "woe:state=20070378", 
-          "woe:state=20070376", 
-          "woe:state=20070393", 
-          "woe:state=20070391"
-        ], 
-        "woeid": 20070377, 
-        "latitude": 41.909, 
-        "sw_longitude": 42.112, 
-        "fullname": "Ch\u00b4okhatauris Raioni, Georgia", 
         "children": [
           "woe:town=7224098", 
           "woe:town=1962684", 
@@ -92,7 +75,24 @@
           "woe:town=1966692", 
           "woe:town=1966752"
         ], 
-        "sw_latitude": 41.752
+        "placetype": "state", 
+        "iso": "GE", 
+        "sw_latitude": 41.752, 
+        "adjacent": [
+          "woe:state=20070395", 
+          "woe:state=20070347", 
+          "woe:state=20070400", 
+          "woe:state=20070378", 
+          "woe:state=20070376", 
+          "woe:state=20070393", 
+          "woe:state=20070391"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.909, 
+        "sw_longitude": 42.112, 
+        "fullname": "Ch\u00b4okhatauris Raioni, Georgia", 
+        "date_indexed": "2010-12-02T17:51:52Z", 
+        "woe:id": 20070377
       }, 
       "id": 20070377
     }

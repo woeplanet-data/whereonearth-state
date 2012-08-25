@@ -46,19 +46,18 @@
           "woe:country=23424846", 
           "woe:planet=1"
         ], 
-        "woeid": 2345735, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 100.487, 
         "longitude": 99.144, 
-        "ne_latitude": 4.301, 
         "placetype": "state", 
         "iso": "ID", 
-        "date_indexed": "2010-12-02T16:52:36Z", 
+        "sw_latitude": -0.644, 
         "adjacent": [
           "woe:state=2345710", 
           "woe:state=2345728", 
           "woe:state=2345733"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 4.301, 
         "latitude": 2.264, 
         "sw_longitude": 97.066, 
         "fullname": "Sumatera Utara, North Sumatra, Indonesia", 
@@ -114,7 +113,8 @@
           "woe:island=12492731", 
           "woe:island=12492831"
         ], 
-        "sw_latitude": -0.644
+        "date_indexed": "2010-12-02T16:52:36Z", 
+        "woe:id": 2345735
       }, 
       "id": 2345735
     }

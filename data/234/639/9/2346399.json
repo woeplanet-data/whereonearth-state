@@ -31,15 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "NOR", 
-        "adjacent_woeid": [
-          2346389, 
-          2346391, 
-          2346393, 
-          2346394, 
-          2347050
-        ], 
-        "name": "S\u00f8r-Tr\u00f8ndelag Fylke", 
         "alias_ENG_P": [
           "Sor-Trondelag"
         ], 
@@ -48,27 +39,8 @@
           "woe:country=23424910", 
           "woe:planet=1"
         ], 
-        "woeid": 2346399, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 12.255, 
-        "longitude": 10.505, 
-        "placetype": "state", 
-        "sw_longitude": 8.059, 
-        "date_indexed": "2010-12-02T10:19:56Z", 
-        "adjacent": [
-          "woe:state=2346389", 
-          "woe:state=2347050", 
-          "woe:state=2346391", 
-          "woe:state=2346393", 
-          "woe:state=2346394"
-        ], 
         "ne_latitude": 64.445, 
-        "latitude": 62.951, 
-        "iso": "NO", 
-        "fullname": "S\u00f8r-Tr\u00f8ndelag Fylke, Sor-Trondelag, Norway", 
-        "alias_NOR_V": [
-          "S\u00f8r-Tr\u00f8ndelag"
-        ], 
+        "placetype": "state", 
         "children": [
           "woe:county=12592784", 
           "woe:county=12592969", 
@@ -112,10 +84,38 @@
           "woe:drainage=29362273", 
           "woe:drainage=29358179"
         ], 
-        "sw_latitude": 62.255, 
+        "sw_longitude": 8.059, 
+        "adjacent": [
+          "woe:state=2346389", 
+          "woe:state=2347050", 
+          "woe:state=2346391", 
+          "woe:state=2346393", 
+          "woe:state=2346394"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 62.951, 
         "alias_NOR_S": [
           "Soer-Troendelags"
-        ]
+        ], 
+        "woe:id": 2346399, 
+        "alias_NOR_V": [
+          "S\u00f8r-Tr\u00f8ndelag"
+        ], 
+        "sw_latitude": 62.255, 
+        "lang": "NOR", 
+        "adjacent_woeid": [
+          2346389, 
+          2346391, 
+          2346393, 
+          2346394, 
+          2347050
+        ], 
+        "name": "S\u00f8r-Tr\u00f8ndelag Fylke", 
+        "ne_longitude": 12.255, 
+        "longitude": 10.505, 
+        "iso": "NO", 
+        "date_indexed": "2010-12-02T10:19:56Z", 
+        "fullname": "S\u00f8r-Tr\u00f8ndelag Fylke, Sor-Trondelag, Norway"
       }, 
       "id": 2346399
     }

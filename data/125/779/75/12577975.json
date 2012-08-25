@@ -42,6 +42,7 @@
           55848368, 
           55848372
         ], 
+        "fullname": "Karlova\u010dka, Croatia", 
         "name": "Karlova\u010dka", 
         "alias_ENG_V": [
           "Karlovac"
@@ -49,9 +50,30 @@
         "alias_UNK_S": [
           "Karlovacka"
         ], 
-        "woeid": 12577975, 
         "ne_longitude": 15.925, 
         "longitude": 15.443, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=12577975", 
+          "woe:country=23424843", 
+          "woe:planet=1"
+        ], 
+        "iso": "HR", 
+        "sw_latitude": 44.883, 
+        "adjacent": [
+          "woe:state=55848345", 
+          "woe:state=24549661", 
+          "woe:state=12577978", 
+          "woe:state=55848368", 
+          "woe:state=55848372", 
+          "woe:state=12577982", 
+          "woe:state=12577984", 
+          "woe:state=12577990"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 45.763, 
+        "sw_longitude": 14.962, 
+        "latitude": 45.323, 
         "children": [
           "woe:county=15022064", 
           "woe:county=15022466", 
@@ -76,30 +98,8 @@
           "woe:county=15022471", 
           "woe:historicalcounty=15022264"
         ], 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=12577975", 
-          "woe:country=23424843", 
-          "woe:planet=1"
-        ], 
-        "iso": "HR", 
         "date_indexed": "2010-12-02T17:06:25Z", 
-        "adjacent": [
-          "woe:state=55848345", 
-          "woe:state=24549661", 
-          "woe:state=12577978", 
-          "woe:state=55848368", 
-          "woe:state=55848372", 
-          "woe:state=12577982", 
-          "woe:state=12577984", 
-          "woe:state=12577990"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 45.763, 
-        "sw_longitude": 14.962, 
-        "latitude": 45.323, 
-        "fullname": "Karlova\u010dka, Croatia", 
-        "sw_latitude": 44.883
+        "woe:id": 12577975
       }, 
       "id": 12577975
     }

@@ -46,23 +46,22 @@
           "woe:country=23424931", 
           "woe:planet=1"
         ], 
-        "woeid": 24549828, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.819, 
         "longitude": 55.577, 
+        "ne_latitude": -21.077, 
         "placetype": "state", 
-        "latitude": -21.225, 
+        "alias_FRE_V": [
+          "Arrondissement de Saint-Pierre"
+        ], 
         "iso": "RE", 
-        "sw_latitude": -21.372, 
+        "date_indexed": "2010-12-02T09:35:31Z", 
         "adjacent": [
           "woe:state=24549829", 
           "woe:state=24549830", 
           "woe:state=24549831"
         ], 
-        "ne_latitude": -21.077, 
-        "alias_FRE_V": [
-          "Arrondissement de Saint-Pierre"
-        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -21.225, 
         "sw_longitude": 55.334, 
         "fullname": "Saint-Pierre, Arrondissement of Saint-Pierre, Reunion", 
         "children": [
@@ -75,7 +74,8 @@
           "woe:county=24551456", 
           "woe:county=24551460"
         ], 
-        "date_indexed": "2010-12-02T09:35:31Z"
+        "sw_latitude": -21.372, 
+        "woe:id": 24549828
       }, 
       "id": 24549828
     }

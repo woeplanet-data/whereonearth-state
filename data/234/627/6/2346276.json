@@ -2354,7 +2354,7 @@
         "ne:Shape_Area": 1.8445406738, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "18690115", 
         "alias_ENG_A": [
           "HG"
         ], 
@@ -2448,7 +2448,7 @@
           "woe:town=125126", 
           "woe:town=55887615"
         ], 
-        "ne:OBJECTID": 2730, 
+        "ne:DataRank": 2, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -99.84410681817508, 
@@ -2469,9 +2469,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 19.585523179151437, 
-        "ne:VertexCou": 582.0, 
-        "ne:VALIDFR_1": "18690115", 
-        "ne:DataRank": 2, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 2730, 
         "ne:Postal": "HG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2487,8 +2487,8 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 21304.4, 
         "woe:id": "2346276", 
-        "ne:HASC_1": "MX.HI", 
-        "lang": "SPA", 
+        "name": "Hidalgo", 
+        "ne:VertexCou": 582.0, 
         "adjacent_woeid": [
           2346278, 
           2346284, 
@@ -2497,7 +2497,7 @@
           2346292, 
           2346293
         ], 
-        "name": "Hidalgo", 
+        "ne:HASC_1": "MX.HI", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -98.924, 

@@ -39,25 +39,24 @@
           2347658
         ], 
         "name": "Rocha", 
-        "ne_latitude": -33.149, 
         "hierarchy": [
           "woe:state=2347653", 
           "woe:country=23424979", 
           "woe:planet=1"
         ], 
-        "woeid": 2347653, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -53.371, 
         "longitude": -53.972, 
         "placetype": "state", 
         "iso": "UY", 
-        "date_indexed": "2010-12-02T17:58:18Z", 
+        "sw_latitude": -34.95, 
         "adjacent": [
           "woe:state=2347647", 
           "woe:state=2347648", 
           "woe:state=2344864", 
           "woe:state=2347658"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -33.149, 
         "latitude": -33.987, 
         "sw_longitude": -54.573, 
         "fullname": "Rocha, Uruguay", 
@@ -86,7 +85,8 @@
           "woe:town=420100", 
           "woe:town=380869"
         ], 
-        "sw_latitude": -34.95
+        "date_indexed": "2010-12-02T17:58:18Z", 
+        "woe:id": 2347653
       }, 
       "id": 2347653
     }

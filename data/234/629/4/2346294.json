@@ -36,30 +36,29 @@
           2346267, 
           2346286
         ], 
-        "name": "Yucatan", 
-        "adjacent": [
-          "woe:state=2346267", 
-          "woe:state=2346286"
+        "alias_ENG_A": [
+          "YU"
         ], 
+        "name": "Yucatan", 
+        "placetype": "state", 
         "hierarchy": [
           "woe:state=2346294", 
           "woe:country=23424900", 
           "woe:planet=1"
         ], 
-        "woeid": 2346294, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -87.366, 
-        "longitude": -88.881, 
-        "ne_latitude": 22.565, 
-        "placetype": "state", 
-        "sw_longitude": -91.413, 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "YU"
-        ], 
         "alias_SPA_V": [
           "Estado de Yucatan"
         ], 
+        "ne_longitude": -87.366, 
+        "longitude": -88.881, 
+        "ne_latitude": 22.565, 
+        "sw_longitude": -91.413, 
+        "sw_latitude": 19.537, 
+        "adjacent": [
+          "woe:state=2346267", 
+          "woe:state=2346286"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 20.574, 
         "iso": "MX", 
         "fullname": "Yucatan, Mexico", 
@@ -175,7 +174,8 @@
           "woe:town=126241", 
           "woe:town=150355"
         ], 
-        "sw_latitude": 19.537
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "woe:id": 2346294
       }, 
       "id": 2346294
     }

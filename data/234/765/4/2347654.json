@@ -41,18 +41,17 @@
           2347657
         ], 
         "name": "Salto", 
-        "ne_latitude": -30.744, 
         "hierarchy": [
           "woe:state=2347654", 
           "woe:country=23424979", 
           "woe:planet=1"
         ], 
-        "woeid": 2347654, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -56.012, 
         "longitude": -57.049, 
         "placetype": "state", 
         "iso": "UY", 
-        "date_indexed": "2010-12-02T17:58:18Z", 
+        "sw_latitude": -31.846, 
         "adjacent": [
           "woe:state=2347640", 
           "woe:state=2344680", 
@@ -61,7 +60,7 @@
           "woe:state=2347652", 
           "woe:state=2347657"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -30.744, 
         "latitude": -31.295, 
         "sw_longitude": -58.086, 
         "fullname": "Salto, Uruguay", 
@@ -81,7 +80,8 @@
           "woe:town=380851", 
           "woe:town=380870"
         ], 
-        "sw_latitude": -31.846
+        "date_indexed": "2010-12-02T17:58:18Z", 
+        "woe:id": 2347654
       }, 
       "id": 2347654
     }

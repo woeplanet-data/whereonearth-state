@@ -42,18 +42,17 @@
           20070283
         ], 
         "name": "Xizi", 
-        "ne_latitude": 41.013, 
         "hierarchy": [
           "woe:state=20070271", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070271, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 49.551, 
         "longitude": 49.005, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 40.517, 
         "adjacent": [
           "woe:state=20070283", 
           "woe:state=20070279", 
@@ -63,7 +62,7 @@
           "woe:state=20070278", 
           "woe:state=20070247"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.013, 
         "latitude": 40.765, 
         "sw_longitude": 48.704, 
         "fullname": "Xizi, Azerbaijan", 
@@ -75,7 +74,8 @@
           "woe:town=1951566", 
           "woe:town=1951205"
         ], 
-        "sw_latitude": 40.517
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070271
       }, 
       "id": 20070271
     }

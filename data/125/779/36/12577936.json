@@ -616,7 +616,7 @@
         "ne:Shape_Area": 2.38311410462, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19980727", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "POL", 
         "children": [
@@ -647,15 +647,15 @@
         ], 
         "ne:ScaleRank": 5, 
         "ne:VALIDTO_1": "Present", 
-        "ne:OBJECTID": 3145, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30af\u30e4\u30f4\u30a3\uff1d\u30dd\u30e2\u30fc\u30b8\u30a7\u770c"
         ], 
+        "ne:REMARKS_1": null, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Kuyavia y Pomerania"
         ], 
-        "ne:ProvNumber": 2001, 
         "sw_longitude": 17.29747684108338, 
         "adjacent": [
           "woe:state=12577941", 
@@ -671,9 +671,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "sw_latitude": 52.278411363193925, 
-        "ne:VertexCou": 145.0, 
-        "ne:VALIDFR_1": "19980727", 
-        "ne:DataRank": 5, 
+        "lang": "POL", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3145, 
         "ne:Postal": "KP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kujawsko-Pomorskie", 
@@ -692,8 +692,8 @@
           "Kujawien-Pommern"
         ], 
         "woe:id": "12577936", 
-        "ne:HASC_1": "PL.KP", 
-        "lang": "POL", 
+        "name": "Kujawsko-Pomorskie", 
+        "ne:VertexCou": 145.0, 
         "adjacent_woeid": [
           12577937, 
           12577941, 
@@ -701,20 +701,20 @@
           12577948, 
           12577949
         ], 
-        "name": "Kujawsko-Pomorskie", 
-        "ne:REMARKS_1": null, 
+        "ne:HASC_1": "PL.KP", 
+        "ne:ProvNumber": 2001, 
         "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne_longitude": 19.747869907370386, 
         "longitude": 18.504, 
-        "ne:NEV_Countr": "Poland", 
+        "alias_FRE_S": [
+          "La Couiavie-Pomeranie"
+        ], 
         "iso": "PL", 
         "date_indexed": "2010-12-02T12:08:44Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Kujawsko-Pomorskie, Kuiavia-Pomerania, Poland", 
         "ne:Region": null, 
-        "alias_FRE_S": [
-          "La Couiavie-Pomeranie"
-        ], 
+        "ne:NEV_Countr": "Poland", 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "La Couiavie-Pom\u00e9ranie"

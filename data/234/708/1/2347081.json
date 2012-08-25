@@ -36,22 +36,21 @@
           2347076
         ], 
         "name": "Dimashq", 
-        "ne_latitude": 33.591, 
         "hierarchy": [
           "woe:state=2347081", 
           "woe:country=23424956", 
           "woe:planet=1"
         ], 
-        "woeid": 2347081, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 36.433, 
         "longitude": 36.28, 
         "placetype": "state", 
         "iso": "SY", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
+        "sw_latitude": 33.372, 
         "adjacent": [
           "woe:state=2347076"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 33.591, 
         "latitude": 33.482, 
         "sw_longitude": 36.126, 
         "fullname": "Dimashq, Syria", 
@@ -62,7 +61,8 @@
           "woe:town=1943482", 
           "woe:town=1947158"
         ], 
-        "sw_latitude": 33.372
+        "date_indexed": "2010-12-02T07:50:18Z", 
+        "woe:id": 2347081
       }, 
       "id": 2347081
     }

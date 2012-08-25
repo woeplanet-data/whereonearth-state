@@ -1099,7 +1099,7 @@
         "ne:Shape_Area": 0.427089626523, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "19921230", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "HRV", 
         "children": [
@@ -1117,7 +1117,7 @@
           "woe:county=15022112", 
           "woe:landfeature=56058434"
         ], 
-        "ne:OBJECTID": 1584, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 14.733809035158913, 
@@ -1134,9 +1134,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 44.29920848208582, 
-        "ne:VertexCou": 265.0, 
-        "ne:VALIDFR_1": "19921230", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 1584, 
         "ne:Postal": "LS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lika-Senj", 
@@ -1152,15 +1152,15 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 3760.2, 
         "woe:id": "12577978", 
-        "ne:HASC_1": "HR.LS", 
-        "lang": "UNK", 
+        "name": "Li\u010dko-senjska", 
+        "ne:VertexCou": 265.0, 
         "adjacent_woeid": [
           12577975, 
           12577982, 
           12577989, 
           24549661
         ], 
-        "name": "Li\u010dko-senjska", 
+        "ne:HASC_1": "HR.LS", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Licko-senjska"

@@ -40,18 +40,17 @@
           20070560
         ], 
         "name": "Grevenmacher", 
-        "ne_latitude": 49.86, 
         "hierarchy": [
           "woe:state=20070559", 
           "woe:country=23424881", 
           "woe:planet=1"
         ], 
-        "woeid": 20070559, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 6.531, 
         "longitude": 6.349, 
         "placetype": "state", 
         "iso": "LU", 
-        "date_indexed": "2010-12-02T08:54:13Z", 
+        "sw_latitude": 49.459, 
         "adjacent": [
           "woe:state=20070542", 
           "woe:state=7153322", 
@@ -59,7 +58,7 @@
           "woe:state=2345488", 
           "woe:state=2345489"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 49.86, 
         "latitude": 49.66, 
         "sw_longitude": 6.167, 
         "fullname": "Grevenmacher, Luxembourg", 
@@ -68,7 +67,8 @@
           "woe:county=12591958", 
           "woe:county=12592004"
         ], 
-        "sw_latitude": 49.459
+        "date_indexed": "2010-12-02T08:54:13Z", 
+        "woe:id": 20070559
       }, 
       "id": 20070559
     }

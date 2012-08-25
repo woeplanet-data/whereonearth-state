@@ -47,20 +47,19 @@
           "woe:country=23424821", 
           "woe:planet=1"
         ], 
-        "woeid": 2345448, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -15.309, 
         "longitude": -15.935, 
-        "ne_latitude": 13.632, 
         "placetype": "state", 
         "iso": "GM", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
+        "sw_latitude": 13.316, 
         "adjacent": [
           "woe:state=2346994", 
           "woe:state=2346995", 
           "woe:state=2345444", 
           "woe:state=2345445"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.632, 
         "latitude": 13.479, 
         "sw_longitude": -16.56, 
         "fullname": "North Bank, The Gambia", 
@@ -88,7 +87,8 @@
           "woe:town=1322296", 
           "woe:town=1322503"
         ], 
-        "sw_latitude": 13.316
+        "date_indexed": "2010-12-02T08:51:00Z", 
+        "woe:id": 2345448
       }, 
       "id": 2345448
     }

@@ -51,13 +51,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347174, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 99.886, 
         "longitude": 99.035, 
-        "ne_latitude": 15.661, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 13.726, 
         "adjacent": [
           "woe:state=2344814", 
           "woe:state=2344822", 
@@ -68,7 +67,7 @@
           "woe:state=2344821", 
           "woe:state=2347142"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.661, 
         "latitude": 14.693, 
         "sw_longitude": 98.183, 
         "fullname": "Kanchanaburi, Thailand", 
@@ -92,7 +91,8 @@
           "woe:landfeature=56057418", 
           "woe:landfeature=56057440"
         ], 
-        "sw_latitude": 13.726
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347174
       }, 
       "id": 2347174
     }

@@ -37,16 +37,30 @@
           2345691, 
           2345694
         ], 
+        "alias_UNK_A": [
+          "KJOS"
+        ], 
         "name": "Kjosarsysla", 
-        "ne_latitude": 64.399, 
         "hierarchy": [
           "woe:state=2345695", 
           "woe:country=23424845", 
           "woe:planet=1"
         ], 
-        "woeid": 2345695, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -21.06, 
         "longitude": -21.487, 
+        "placetype": "state", 
+        "iso": "IS", 
+        "sw_latitude": 64.062, 
+        "adjacent": [
+          "woe:state=2345687", 
+          "woe:state=2345691", 
+          "woe:state=2345694"
+        ], 
+        "ne_latitude": 64.399, 
+        "latitude": 64.23, 
+        "sw_longitude": -21.918, 
+        "fullname": "Kjosarsysla, Iceland", 
         "children": [
           "woe:town=28752656", 
           "woe:town=980164", 
@@ -56,22 +70,8 @@
           "woe:island=12476074", 
           "woe:island=12476085"
         ], 
-        "placetype": "state", 
-        "iso": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
-        "adjacent": [
-          "woe:state=2345687", 
-          "woe:state=2345691", 
-          "woe:state=2345694"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 64.23, 
-        "sw_longitude": -21.918, 
-        "fullname": "Kjosarsysla, Iceland", 
-        "alias_UNK_A": [
-          "KJOS"
-        ], 
-        "sw_latitude": 64.062
+        "woe:id": 2345695
       }, 
       "id": 2345695
     }

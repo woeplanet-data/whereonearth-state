@@ -590,7 +590,7 @@
         "ne:Shape_Area": 0.963272691104, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1946", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
         "children": [
@@ -606,7 +606,7 @@
           "woe:county=29390681", 
           "woe:county=29390761"
         ], 
-        "ne:OBJECTID": 2282, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 38.34890506361785, 
@@ -624,9 +624,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 38.326033026902735, 
-        "ne:VertexCou": 141.0, 
-        "ne:VALIDFR_1": "1946", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 2282, 
         "ne:Postal": "EG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Elazig", 
@@ -642,8 +642,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 9304.2, 
         "woe:id": "2347280", 
-        "ne:HASC_1": "TR.EG", 
-        "lang": "UNK", 
+        "name": "Elaz\u0131\u011f", 
+        "ne:VertexCou": 141.0, 
         "adjacent_woeid": [
           2347269, 
           2347278, 
@@ -651,7 +651,7 @@
           2347298, 
           2347313
         ], 
-        "name": "Elaz\u0131\u011f", 
+        "ne:HASC_1": "TR.EG", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Elazig"

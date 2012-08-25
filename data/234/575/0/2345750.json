@@ -9396,7 +9396,7 @@
         "ne:Shape_Area": 26.3558495648, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "MAH"
         ], 
@@ -9443,7 +9443,7 @@
         "alias_CHI_Q": [
           "\u9a6c\u54c8\u62c9\u65bd\u7279\u62c9\u90a6"
         ], 
-        "ne:OBJECTID": 2447, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30de\u30cf\u30e9\u30b7\u30e5\u30c8\u30e9"
         ], 
@@ -9466,9 +9466,9 @@
         "ne:FIRST_HASC": "IN.MP|IND-MHR", 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 15.613517564384154, 
-        "ne:VertexCou": 2342.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 2447, 
         "ne:Postal": "MH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -9484,8 +9484,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 306250.6, 
         "woe:id": "2345750", 
-        "ne:HASC_1": "IN.MH", 
-        "lang": "ENG", 
+        "name": "Maharashtra", 
+        "ne:VertexCou": 2342.0, 
         "adjacent_woeid": [
           2345740, 
           2345743, 
@@ -9495,7 +9495,7 @@
           20070457, 
           20070464
         ], 
-        "name": "Maharashtra", 
+        "ne:HASC_1": "IN.MH", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 80.89700564999083, 
         "longitude": 76.766, 

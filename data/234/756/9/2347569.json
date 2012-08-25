@@ -3049,7 +3049,7 @@
         "ne:Shape_Area": 14.643609474, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "1804", 
         "alias_POR_Q": [
           "Ge\u00f3rgia"
         ], 
@@ -3245,7 +3245,7 @@
         "alias_CHI_Q": [
           "\u4f50\u6cbb\u4e9a"
         ], 
-        "ne:OBJECTID": 3543, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30b8\u30e7\u30fc\u30b8\u30a2"
         ], 
@@ -3266,9 +3266,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 30.362699400057295, 
-        "ne:VertexCou": 755.0, 
-        "ne:VALIDFR_1": "1804", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3543, 
         "ne:Postal": "GA", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "GA|Ga.", 
@@ -3286,8 +3286,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 152651.9, 
         "woe:id": "2347569", 
-        "ne:HASC_1": "US.GA", 
-        "lang": "ENG", 
+        "name": "Georgia", 
+        "ne:VertexCou": 755.0, 
         "adjacent_woeid": [
           2347559, 
           2347568, 
@@ -3295,7 +3295,7 @@
           2347599, 
           2347601
         ], 
-        "name": "Georgia", 
+        "ne:HASC_1": "US.GA", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne:TYPE_1": "State", 

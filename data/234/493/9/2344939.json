@@ -42,18 +42,17 @@
           2347722
         ], 
         "name": "Prey Veng", 
-        "ne_latitude": 11.866, 
         "hierarchy": [
           "woe:state=2344939", 
           "woe:country=23424776", 
           "woe:planet=1"
         ], 
-        "woeid": 2344939, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.83, 
         "longitude": 105.467, 
         "placetype": "state", 
         "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
+        "sw_latitude": 10.85, 
         "adjacent": [
           "woe:state=2347719", 
           "woe:state=2347722", 
@@ -63,7 +62,7 @@
           "woe:state=2344943", 
           "woe:state=2347714"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.866, 
         "latitude": 11.358, 
         "sw_longitude": 105.105, 
         "fullname": "Prey Veng, Cambodia", 
@@ -81,7 +80,8 @@
           "woe:county=56063327", 
           "woe:county=56063328"
         ], 
-        "sw_latitude": 10.85
+        "date_indexed": "2010-12-02T16:11:17Z", 
+        "woe:id": 2344939
       }, 
       "id": 2344939
     }

@@ -39,18 +39,17 @@
           20069834
         ], 
         "name": "North-West", 
+        "ne_latitude": -17.78, 
         "hierarchy": [
           "woe:state=55949048", 
           "woe:country=23424755", 
           "woe:planet=1"
         ], 
-        "woeid": 55949048, 
         "ne_longitude": 25.989, 
         "longitude": 23.493, 
         "placetype": "state", 
-        "latitude": -19.391, 
         "iso": "BW", 
-        "sw_latitude": -21.003, 
+        "date_indexed": "2010-12-02T10:22:43Z", 
         "adjacent": [
           "woe:state=20069834", 
           "woe:state=2344741", 
@@ -58,7 +57,7 @@
           "woe:state=2347815"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": -17.78, 
+        "latitude": -19.391, 
         "sw_longitude": 20.997, 
         "fullname": "North-West, Botswana", 
         "children": [
@@ -88,7 +87,8 @@
           "woe:town=1265939", 
           "woe:town=55949021"
         ], 
-        "date_indexed": "2010-12-02T10:22:43Z"
+        "sw_latitude": -21.003, 
+        "woe:id": 55949048
       }, 
       "id": 55949048
     }

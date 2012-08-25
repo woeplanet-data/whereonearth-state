@@ -38,27 +38,26 @@
           2346414
         ], 
         "name": "Coronie", 
-        "ne_latitude": 5.944, 
-        "hierarchy": [
-          "woe:state=2346408", 
-          "woe:country=23424913", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2346408, 
-        "alias_DUT_V": [
-          "Totness"
-        ], 
-        "ne_longitude": -55.883, 
-        "longitude": -56.256, 
-        "placetype": "state", 
-        "iso": "SR", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
         "adjacent": [
           "woe:state=2346410", 
           "woe:state=2346413", 
           "woe:state=2346414"
         ], 
+        "hierarchy": [
+          "woe:state=2346408", 
+          "woe:country=23424913", 
+          "woe:planet=1"
+        ], 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -55.883, 
+        "longitude": -56.256, 
+        "placetype": "state", 
+        "iso": "SR", 
+        "sw_latitude": 5.657, 
+        "alias_DUT_V": [
+          "Totness"
+        ], 
+        "ne_latitude": 5.944, 
         "latitude": 5.801, 
         "sw_longitude": -56.629, 
         "fullname": "Coronie, Suriname", 
@@ -71,7 +70,8 @@
           "woe:town=377087", 
           "woe:town=377234"
         ], 
-        "sw_latitude": 5.657
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "woe:id": 2346408
       }, 
       "id": 2346408
     }

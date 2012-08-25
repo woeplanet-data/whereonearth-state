@@ -46,12 +46,27 @@
           "woe:country=23424925", 
           "woe:planet=1"
         ], 
-        "woeid": 2346576, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -7.809, 
+        "longitude": -8.405, 
+        "placetype": "state", 
+        "latitude": 39.285, 
+        "iso": "PT", 
+        "sw_latitude": 38.731, 
+        "adjacent": [
+          "woe:state=2346566", 
+          "woe:state=2346568", 
+          "woe:state=2346572", 
+          "woe:state=2346573", 
+          "woe:state=2346574", 
+          "woe:state=2346577"
+        ], 
         "alias_POR_S": [
           "Santarem"
         ], 
-        "ne_longitude": -7.809, 
-        "longitude": -8.405, 
+        "ne_latitude": 39.838, 
+        "sw_longitude": -9.002, 
+        "fullname": "Santar\u00e9m, Portugal", 
         "children": [
           "woe:county=12596475", 
           "woe:county=12596574", 
@@ -75,23 +90,8 @@
           "woe:county=12596429", 
           "woe:county=12596668"
         ], 
-        "placetype": "state", 
-        "iso": "PT", 
         "date_indexed": "2010-12-02T09:58:14Z", 
-        "adjacent": [
-          "woe:state=2346566", 
-          "woe:state=2346568", 
-          "woe:state=2346572", 
-          "woe:state=2346573", 
-          "woe:state=2346574", 
-          "woe:state=2346577"
-        ], 
-        "ne_latitude": 39.838, 
-        "latitude": 39.285, 
-        "sw_longitude": -9.002, 
-        "fullname": "Santar\u00e9m, Portugal", 
-        "provider": "geoplanet 7.6.0", 
-        "sw_latitude": 38.731
+        "woe:id": 2346576
       }, 
       "id": 2346576
     }

@@ -746,7 +746,7 @@
         "ne:Shape_Area": 0.507125213603, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 5, 
+        "ne:VALIDFR_1": "1990", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "HUN", 
         "children": [
@@ -931,7 +931,7 @@
           "woe:county=12593693", 
           "woe:county=12595754"
         ], 
-        "ne:OBJECTID": 3156, 
+        "ne:DataRank": 6, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 16.40729861863639, 
@@ -953,9 +953,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 47.39839915619615, 
-        "ne:VertexCou": 160.0, 
-        "ne:VALIDFR_1": "1990", 
-        "ne:DataRank": 6, 
+        "lang": "HUN", 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 3156, 
         "ne:Postal": "GS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Gyor-Sopron", 
@@ -971,8 +971,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 4235.8, 
         "woe:id": "12577918", 
-        "ne:HASC_1": "HU.GS", 
-        "lang": "HUN", 
+        "name": "Gy\u0151r-Moson-Sopron", 
+        "ne:VertexCou": 160.0, 
         "adjacent_woeid": [
           2344708, 
           12577921, 
@@ -984,7 +984,7 @@
           56043628, 
           56043629
         ], 
-        "name": "Gy\u0151r-Moson-Sopron", 
+        "ne:HASC_1": "HU.GS", 
         "ne:REMARKS_1": "Renamed from Gyor -Sopron", 
         "alias_HUN_S": [
           "Gyor-Moson-Sopron"

@@ -37,23 +37,22 @@
           56051556
         ], 
         "name": "Ribeira Grande", 
-        "ne_latitude": 17.197, 
         "hierarchy": [
           "woe:state=2345126", 
           "woe:country=23424794", 
           "woe:planet=1"
         ], 
-        "woeid": 2345126, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -25.023, 
         "longitude": -25.102, 
         "placetype": "state", 
         "iso": "CV", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
+        "sw_latitude": 17.068, 
         "adjacent": [
           "woe:state=20069964", 
           "woe:state=56051556"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.197, 
         "latitude": 17.099, 
         "sw_longitude": -25.234, 
         "fullname": "Ribeira Grande, Cape Verde", 
@@ -63,7 +62,8 @@
           "woe:town=1310874", 
           "woe:town=1310918"
         ], 
-        "sw_latitude": 17.068
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "woe:id": 2345126
       }, 
       "id": 2345126
     }

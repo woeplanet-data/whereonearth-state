@@ -31,41 +31,16 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "adjacent_woeid": [
-          2347347, 
-          2347348
-        ], 
-        "alias_KOR_Q": [
-          "\ub9c8\ub9ac"
-        ], 
-        "name": "Mary", 
         "hierarchy": [
           "woe:state=2347350", 
           "woe:country=23424972", 
           "woe:planet=1"
         ], 
         "ne_latitude": 39.792, 
-        "alias_JPN_Q": [
-          "\u30e1\u30a2\u30ea\u30fc"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 64.794, 
-        "longitude": 62.634, 
-        "alias_CHI_Q": [
-          "\u9a6c\u96f7"
-        ], 
         "placetype": "state", 
-        "iso": "TM", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
-        "adjacent": [
-          "woe:state=2347347", 
-          "woe:state=2347348"
+        "alias_KOR_Q": [
+          "\ub9c8\ub9ac"
         ], 
-        "woeid": 2347350, 
-        "latitude": 37.467, 
-        "sw_longitude": 60.473, 
-        "fullname": "Mary, Turkmenistan", 
         "children": [
           "woe:town=1936515", 
           "woe:town=1935568", 
@@ -100,7 +75,32 @@
           "woe:town=1936498", 
           "woe:town=1936503"
         ], 
-        "sw_latitude": 35.141
+        "alias_CHI_Q": [
+          "\u9a6c\u96f7"
+        ], 
+        "alias_JPN_Q": [
+          "\u30e1\u30a2\u30ea\u30fc"
+        ], 
+        "sw_longitude": 60.473, 
+        "adjacent": [
+          "woe:state=2347347", 
+          "woe:state=2347348"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.467, 
+        "woe:id": 2347350, 
+        "sw_latitude": 35.141, 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347347, 
+          2347348
+        ], 
+        "name": "Mary", 
+        "ne_longitude": 64.794, 
+        "longitude": 62.634, 
+        "iso": "TM", 
+        "date_indexed": "2010-12-02T18:19:07Z", 
+        "fullname": "Mary, Turkmenistan"
       }, 
       "id": 2347350
     }

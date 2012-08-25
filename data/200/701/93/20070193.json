@@ -42,18 +42,17 @@
           20070197
         ], 
         "name": "Jalal-Abad", 
-        "ne_latitude": 42.21, 
         "hierarchy": [
           "woe:state=20070193", 
           "woe:country=23424864", 
           "woe:planet=1"
         ], 
-        "woeid": 20070193, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 74.671, 
         "longitude": 72.425, 
         "placetype": "state", 
         "iso": "KG", 
-        "date_indexed": "2010-12-02T08:58:47Z", 
+        "sw_latitude": 40.812, 
         "adjacent": [
           "woe:state=2347659", 
           "woe:state=20070195", 
@@ -63,7 +62,7 @@
           "woe:state=20070192", 
           "woe:state=2347670"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.21, 
         "latitude": 41.822, 
         "sw_longitude": 70.179, 
         "fullname": "Jalal-Abad, Kyrgyzstan", 
@@ -93,7 +92,8 @@
           "woe:town=1969963", 
           "woe:town=1969824"
         ], 
-        "sw_latitude": 40.812
+        "date_indexed": "2010-12-02T08:58:47Z", 
+        "woe:id": 20070193
       }, 
       "id": 20070193
     }

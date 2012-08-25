@@ -39,25 +39,24 @@
           56043702
         ], 
         "name": "Tacna", 
-        "ne_latitude": -16.78, 
         "hierarchy": [
           "woe:state=2346490", 
           "woe:country=23424919", 
           "woe:planet=1"
         ], 
-        "woeid": 2346490, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -69.463, 
         "longitude": -70.291, 
         "placetype": "state", 
         "iso": "PE", 
-        "date_indexed": "2010-12-02T16:12:03Z", 
+        "sw_latitude": -18.35, 
         "adjacent": [
           "woe:state=56043702", 
           "woe:state=2344804", 
           "woe:state=2346485", 
           "woe:state=2346488"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -16.78, 
         "latitude": -17.565, 
         "sw_longitude": -71.12, 
         "fullname": "Tacna, Peru", 
@@ -67,7 +66,8 @@
           "woe:county=26805943", 
           "woe:county=26805947"
         ], 
-        "sw_latitude": -18.35
+        "date_indexed": "2010-12-02T16:12:03Z", 
+        "woe:id": 2346490
       }, 
       "id": 2346490
     }

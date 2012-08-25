@@ -42,18 +42,17 @@
           56013539
         ], 
         "name": "Junqali", 
-        "ne_latitude": 9.518, 
         "hierarchy": [
           "woe:state=20069909", 
           "woe:country=23424952", 
           "woe:planet=1"
         ], 
-        "woeid": 20069909, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.159, 
         "longitude": 32.676, 
         "placetype": "state", 
         "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
+        "sw_latitude": 5.506, 
         "adjacent": [
           "woe:state=20069908", 
           "woe:state=20069896", 
@@ -63,7 +62,7 @@
           "woe:state=20069901", 
           "woe:state=56013536"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.518, 
         "latitude": 7.512, 
         "sw_longitude": 30.194, 
         "fullname": "Junqali, Sudan", 
@@ -119,7 +118,8 @@
           "woe:town=1437478", 
           "woe:town=1437532"
         ], 
-        "sw_latitude": 5.506
+        "date_indexed": "2010-12-02T08:50:49Z", 
+        "woe:id": 20069909
       }, 
       "id": 20069909
     }

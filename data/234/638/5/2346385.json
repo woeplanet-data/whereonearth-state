@@ -738,7 +738,7 @@
         "ne:Shape_Area": 0.740301785253, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 12, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NOR", 
         "children": [
@@ -808,7 +808,7 @@
           "woe:drainage=29358196", 
           "woe:drainage=29360753"
         ], 
-        "ne:OBJECTID": 917, 
+        "ne:DataRank": 7, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 10.560420363309163, 
@@ -827,9 +827,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 59.4837338325504, 
-        "ne:VertexCou": 176.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "NOR", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 917, 
         "ne:Postal": "AK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Akershus fylke", 
@@ -845,8 +845,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 4596.7, 
         "woe:id": "2346385", 
-        "ne:HASC_1": "NO.AK", 
-        "lang": "NOR", 
+        "name": "Akershus Fylke", 
+        "ne:VertexCou": 176.0, 
         "adjacent_woeid": [
           2346387, 
           2346389, 
@@ -855,7 +855,7 @@
           2346396, 
           2347063
         ], 
-        "name": "Akershus Fylke", 
+        "ne:HASC_1": "NO.AK", 
         "ne:REMARKS_1": null, 
         "alias_NOR_V": [
           "Akershus"

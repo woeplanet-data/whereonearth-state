@@ -1965,11 +1965,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 41.94426178655226, 
-        "ne:RegionVar": null, 
+        "ne:OBJECTID": 822, 
         "ne:Shape_Area": 2.08210641316, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "alias_POR_Q": [
           "Ap\u00falia"
         ], 
@@ -1991,10 +1991,13 @@
           "woe:zone=24874058"
         ], 
         "ne:ScaleRank": 3, 
-        "ne:Area_sqkm": 19457.4, 
+        "alias_DAN_Q": [
+          "Apulien"
+        ], 
         "alias_ITA_V": [
           "Puglia Regione"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
@@ -2013,8 +2016,8 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 39.79674428931753, 
-        "ne:VertexCou": 485.0, 
-        "ne:VALIDFR_1": "1895", 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -2033,21 +2036,19 @@
         "ne:Region_C_1": null, 
         "ne:TYPE_1": "Regione", 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Apulien"
-        ], 
+        "ne:Area_sqkm": 19457.4, 
         "alias_GER_Q": [
           "Apulien"
         ], 
         "woe:id": "7153342", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Puglia", 
+        "ne:VertexCou": 485.0, 
         "adjacent_woeid": [
           7153331, 
           7153333, 
           7153340
         ], 
-        "name": "Puglia", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITF", 
         "ne:CheckMe": 0, 
         "ne_longitude": 18.51760908359239, 
@@ -2057,13 +2058,12 @@
         "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Puglia, Italy", 
-        "alias_FRE_Q": [
-          "Les Pouilles"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
-        "ne:OBJECTID": 822, 
-        "ne:sameAsCity": -99
+        "ne:RegionVar": null, 
+        "alias_FRE_Q": [
+          "Les Pouilles"
+        ]
       }, 
       "id": 7153342
     }

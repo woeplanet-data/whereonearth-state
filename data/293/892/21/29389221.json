@@ -43,21 +43,20 @@
           29389225
         ], 
         "name": "Pomoravlje", 
-        "ne_latitude": 44.355, 
         "hierarchy": [
           "woe:state=29389221", 
           "woe:country=20069818", 
           "woe:planet=1"
         ], 
-        "woeid": 29389221, 
         "alias_UNK_Q": [
           "Pomoravski Okrug"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 21.8, 
         "longitude": 21.367, 
         "placetype": "state", 
         "iso": "RS", 
-        "sw_latitude": 43.765, 
+        "date_indexed": "2010-12-02T10:22:30Z", 
         "adjacent": [
           "woe:state=29389206", 
           "woe:state=29389198", 
@@ -68,7 +67,7 @@
           "woe:state=29389225", 
           "woe:state=29389213"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 44.355, 
         "latitude": 44.06, 
         "sw_longitude": 20.935, 
         "fullname": "Pomoravlje, Serbia", 
@@ -101,7 +100,8 @@
           "woe:town=537373", 
           "woe:town=533271"
         ], 
-        "date_indexed": "2010-12-02T10:22:30Z"
+        "sw_latitude": 43.765, 
+        "woe:id": 29389221
       }, 
       "id": 29389221
     }

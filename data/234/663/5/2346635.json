@@ -41,18 +41,17 @@
           2346652
         ], 
         "name": "Hunedoara", 
-        "ne_latitude": 46.352, 
         "hierarchy": [
           "woe:state=2346635", 
           "woe:country=23424933", 
           "woe:planet=1"
         ], 
-        "woeid": 2346635, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 23.604, 
         "longitude": 22.972, 
         "placetype": "state", 
         "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
+        "sw_latitude": 45.225, 
         "adjacent": [
           "woe:state=2346615", 
           "woe:state=2346616", 
@@ -61,7 +60,7 @@
           "woe:state=2346649", 
           "woe:state=2346652"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 46.352, 
         "latitude": 45.788, 
         "sw_longitude": 22.34, 
         "fullname": "Hunedoara, Romania", 
@@ -542,7 +541,8 @@
           "woe:town=881603", 
           "woe:town=881489"
         ], 
-        "sw_latitude": 45.225
+        "date_indexed": "2010-12-02T16:36:29Z", 
+        "woe:id": 2346635
       }, 
       "id": 2346635
     }

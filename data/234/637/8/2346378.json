@@ -903,8 +903,7 @@
         "ne:Shape_Area": 0.673640001737, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
-        "ne:LabelRank": 8, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
         "children": [
@@ -979,17 +978,20 @@
           "woe:landfeature=56058386", 
           "woe:landfeature=56058388"
         ], 
+        "ne:Region_Cod": null, 
         "ne:ScaleRank": 8, 
-        "ne:VALIDTO_1": "Present", 
-        "alias_ITA_Q": [
-          "Brabante Settentrionale"
-        ], 
-        "ne:Area_sqkm": 5197.6, 
-        "ne:OBJECTID": 3483, 
-        "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Brabante Septentrional"
         ], 
+        "alias_ITA_Q": [
+          "Brabante Settentrionale"
+        ], 
+        "alias_DAN_Q": [
+          "Nordbrabant"
+        ], 
+        "ne:DataRank": 8, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
         "sw_longitude": 4.18613243946055, 
         "adjacent": [
           "woe:state=7153308", 
@@ -1011,10 +1013,10 @@
         "alias_DUT_A": [
           "NB"
         ], 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 3483, 
         "ne:Postal": null, 
-        "ne:Region_Cod": null, 
+        "ne:LabelRank": 8, 
         "ne:VARNAME_1": "Brabante del Norte|Brabante do Norte|Brabante settentrionale|Brabant-septentrional|Nord-Brabant|Nort", 
         "ne:ISO": "NLD", 
         "ne:Region_C_3": null, 
@@ -1028,11 +1030,9 @@
         "alias_DUT_V": [
           "Brabant"
         ], 
-        "alias_DAN_Q": [
-          "Nordbrabant"
-        ], 
+        "ne:Area_sqkm": 5197.6, 
         "woe:id": "2346378", 
-        "ne:HASC_1": "NL.NB", 
+        "name": "Noord-Brabant", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2346375, 
@@ -1043,7 +1043,7 @@
           7153308
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Noord-Brabant", 
+        "ne:HASC_1": "NL.NB", 
         "ne:REMARKS_1": null, 
         "ne:TYPE_1": "Provincie", 
         "ne_longitude": 6.049481235670555, 

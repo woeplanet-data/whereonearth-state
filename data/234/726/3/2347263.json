@@ -774,7 +774,7 @@
         "ne:Shape_Area": 2.82866156792, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1989", 
         "alias_KOR_Q": [
           "\uc559\uce74\ub77c"
         ], 
@@ -809,7 +809,7 @@
         "alias_CHI_Q": [
           "\u5b89\u5361\u62c9"
         ], 
-        "ne:OBJECTID": 3008, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30a2\u30f3\u30ab\u30e9"
         ], 
@@ -832,9 +832,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 38.64358470347133, 
-        "ne:VertexCou": 187.0, 
-        "ne:VALIDFR_1": "1989", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 3008, 
         "ne:Postal": "AN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Ancara|Angora", 
@@ -850,8 +850,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 26904.7, 
         "woe:id": "2347263", 
-        "ne:HASC_1": "TR.AN", 
-        "lang": "UNK", 
+        "name": "Ankara", 
+        "ne:VertexCou": 187.0, 
         "adjacent_woeid": [
           2347271, 
           2347275, 
@@ -861,7 +861,7 @@
           2347325, 
           2347329
         ], 
-        "name": "Ankara", 
+        "ne:HASC_1": "TR.AN", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 33.93739139129974, 
         "longitude": 32.365, 

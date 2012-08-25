@@ -31,27 +31,19 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "UNK", 
-        "adjacent_woeid": [
-          12577972, 
-          12577980, 
-          12577984, 
-          12577987, 
-          12577991
+        "alias_ENG_V": [
+          "Po\u017eega-Slavonia"
         ], 
         "alias_ENG_S": [
           "Pozega-Slavonia"
         ], 
-        "name": "Po\u017ee\u0161ko-slavonska", 
-        "alias_ENG_V": [
-          "Po\u017eega-Slavonia"
+        "hierarchy": [
+          "woe:state=12577981", 
+          "woe:country=23424843", 
+          "woe:planet=1"
         ], 
-        "alias_UNK_S": [
-          "Pozesko-slavonska"
-        ], 
-        "woeid": 12577981, 
-        "ne_longitude": 18.114, 
-        "longitude": 17.521, 
+        "ne_latitude": 45.58, 
+        "placetype": "state", 
         "children": [
           "woe:county=15022138", 
           "woe:county=15022142", 
@@ -64,14 +56,7 @@
           "woe:county=15022150", 
           "woe:county=15022139"
         ], 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=12577981", 
-          "woe:country=23424843", 
-          "woe:planet=1"
-        ], 
-        "iso": "HR", 
-        "date_indexed": "2010-12-02T17:06:25Z", 
+        "sw_longitude": 16.928, 
         "adjacent": [
           "woe:state=12577991", 
           "woe:state=12577972", 
@@ -80,11 +65,26 @@
           "woe:state=12577987"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 45.58, 
-        "sw_longitude": 16.928, 
         "latitude": 45.381, 
-        "fullname": "Po\u017ee\u0161ko-slavonska, Croatia", 
-        "sw_latitude": 45.182
+        "woe:id": 12577981, 
+        "sw_latitude": 45.182, 
+        "lang": "UNK", 
+        "adjacent_woeid": [
+          12577972, 
+          12577980, 
+          12577984, 
+          12577987, 
+          12577991
+        ], 
+        "name": "Po\u017ee\u0161ko-slavonska", 
+        "alias_UNK_S": [
+          "Pozesko-slavonska"
+        ], 
+        "ne_longitude": 18.114, 
+        "longitude": 17.521, 
+        "iso": "HR", 
+        "date_indexed": "2010-12-02T17:06:25Z", 
+        "fullname": "Po\u017ee\u0161ko-slavonska, Croatia"
       }, 
       "id": 12577981
     }

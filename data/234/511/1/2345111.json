@@ -45,19 +45,18 @@
           "woe:country=23424793", 
           "woe:planet=1"
         ], 
-        "woeid": 2345111, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -78.071, 
         "longitude": -78.594, 
         "placetype": "state", 
+        "latitude": 21.96, 
         "iso": "CU", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
+        "sw_latitude": 20.845, 
         "adjacent": [
           "woe:state=2345110", 
           "woe:state=2345118"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 22.75, 
-        "latitude": 21.96, 
         "sw_longitude": -79.452, 
         "fullname": "Ciego de Avila, Cuba", 
         "children": [
@@ -113,7 +112,8 @@
           "woe:island=12483712", 
           "woe:island=12483765"
         ], 
-        "sw_latitude": 20.845
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "woe:id": 2345111
       }, 
       "id": 2345111
     }

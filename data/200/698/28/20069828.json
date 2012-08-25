@@ -45,18 +45,17 @@
           "woe:country=23424888", 
           "woe:planet=1"
         ], 
-        "woeid": 20069828, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -62.172, 
         "longitude": -62.194, 
-        "ne_latitude": 16.817, 
         "placetype": "state", 
         "iso": "MS", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 16.718, 
         "adjacent": [
           "woe:state=20069826", 
           "woe:state=20069827"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.817, 
         "latitude": 16.744, 
         "sw_longitude": -62.239, 
         "fullname": "Saint Peter, Montserrat", 
@@ -80,7 +79,8 @@
           "woe:town=110900", 
           "woe:town=110901"
         ], 
-        "sw_latitude": 16.718
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20069828
       }, 
       "id": 20069828
     }

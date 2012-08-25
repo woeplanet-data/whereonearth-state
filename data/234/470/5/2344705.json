@@ -4402,7 +4402,7 @@
         "ne:Shape_Area": 23.0365533606, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19010101", 
         "alias_ENG_A": [
           "VIC"
         ], 
@@ -4546,7 +4546,7 @@
         "alias_CHI_Q": [
           "\u7ef4\u591a\u5229\u4e9a"
         ], 
-        "ne:OBJECTID": 2656, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30d3\u30af\u30c8\u30ea\u30a2"
         ], 
@@ -4564,9 +4564,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -39.14494882542789, 
-        "ne:VertexCou": 1087.0, 
-        "ne:VALIDFR_1": "19010101", 
-        "ne:DataRank": 3, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 2656, 
         "ne:Postal": "VI", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -4582,13 +4582,13 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 227944.0, 
         "woe:id": "2344705", 
-        "ne:HASC_1": "AU.VI", 
-        "lang": "ENG", 
+        "name": "Victoria", 
+        "ne:VertexCou": 1087.0, 
         "adjacent_woeid": [
           2344700, 
           2344703
         ], 
-        "name": "Victoria", 
+        "ne:HASC_1": "AU.VI", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 149.97227257731765, 
         "longitude": 145.469, 

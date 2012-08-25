@@ -48,13 +48,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347168, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 101.505, 
         "longitude": 101.209, 
-        "ne_latitude": 14.513, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 13.963, 
         "adjacent": [
           "woe:state=2347169", 
           "woe:state=2347152", 
@@ -62,7 +61,7 @@
           "woe:state=20069926", 
           "woe:state=2347162"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.513, 
         "latitude": 14.238, 
         "sw_longitude": 100.914, 
         "fullname": "Nakhon Nayok, Thailand", 
@@ -72,7 +71,8 @@
           "woe:county=28341507", 
           "woe:county=28341504"
         ], 
-        "sw_latitude": 13.963
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347168
       }, 
       "id": 2347168
     }

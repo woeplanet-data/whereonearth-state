@@ -40,13 +40,12 @@
           2345042
         ], 
         "name": "Centre", 
-        "ne_latitude": 6.262, 
         "hierarchy": [
           "woe:state=2345039", 
           "woe:country=23424785", 
           "woe:planet=1"
         ], 
-        "woeid": 2345039, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 13.248, 
         "longitude": 11.746, 
         "alias_FRE_A": [
@@ -54,7 +53,7 @@
         ], 
         "placetype": "state", 
         "iso": "CM", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
+        "sw_latitude": 3.066, 
         "adjacent": [
           "woe:state=2345038", 
           "woe:state=2345033", 
@@ -62,7 +61,7 @@
           "woe:state=2345036", 
           "woe:state=2345042"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 6.262, 
         "latitude": 4.664, 
         "sw_longitude": 10.243, 
         "fullname": "Centre, Cameroon", 
@@ -147,7 +146,8 @@
           "woe:town=1300981", 
           "woe:town=1301266"
         ], 
-        "sw_latitude": 3.066
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "woe:id": 2345039
       }, 
       "id": 2345039
     }

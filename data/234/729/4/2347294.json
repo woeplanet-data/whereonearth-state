@@ -590,7 +590,7 @@
         "ne:Shape_Area": 0.745186540855, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1957", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
         "children": [
@@ -603,7 +603,7 @@
           "woe:county=29390704", 
           "woe:county=29390853"
         ], 
-        "ne:OBJECTID": 2241, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 26.780205519369247, 
@@ -621,9 +621,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 41.26456167278303, 
-        "ne:VertexCou": 139.0, 
-        "ne:VALIDFR_1": "1957", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 2241, 
         "ne:Postal": "KL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kirklareli", 
@@ -639,8 +639,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 6891.0, 
         "woe:id": "2347294", 
-        "ne:HASC_1": "TR.KL", 
-        "lang": "UNK", 
+        "name": "K\u0131rklareli", 
+        "ne:VertexCou": 139.0, 
         "adjacent_woeid": [
           2347279, 
           2347289, 
@@ -648,7 +648,7 @@
           20070074, 
           20070075
         ], 
-        "name": "K\u0131rklareli", 
+        "ne:HASC_1": "TR.KL", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Kirklareli"

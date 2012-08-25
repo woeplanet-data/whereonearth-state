@@ -5108,7 +5108,7 @@
         "ne:Shape_Area": 6.10400970217, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "18241004", 
         "alias_ENG_A": [
           "VE"
         ], 
@@ -5398,7 +5398,7 @@
           "woe:town=151719", 
           "woe:town=111754"
         ], 
-        "ne:OBJECTID": 2734, 
+        "ne:DataRank": 2, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -98.64226803254365, 
@@ -5420,9 +5420,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 17.15021963153083, 
-        "ne:VertexCou": 1268.0, 
-        "ne:VALIDFR_1": "18241004", 
-        "ne:DataRank": 2, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 2734, 
         "ne:Postal": "VE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -5438,8 +5438,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 70963.8, 
         "woe:id": "2346293", 
-        "ne:HASC_1": "MX.VE", 
-        "lang": "SPA", 
+        "name": "Veracruz-Llave", 
+        "ne:VertexCou": 1268.0, 
         "adjacent_woeid": [
           2346268, 
           2346276, 
@@ -5449,7 +5449,7 @@
           2346290, 
           2346291
         ], 
-        "name": "Veracruz-Llave", 
+        "ne:HASC_1": "MX.VE", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -96.868, 

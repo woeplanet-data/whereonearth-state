@@ -38,24 +38,23 @@
           2344610
         ], 
         "name": "Tizi Ouzou", 
-        "ne_latitude": 36.916, 
         "hierarchy": [
           "woe:state=2344588", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344588, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 4.612, 
         "longitude": 4.181, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 36.41, 
         "adjacent": [
           "woe:state=2344590", 
           "woe:state=2344593", 
           "woe:state=2344610"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.916, 
         "latitude": 36.663, 
         "sw_longitude": 3.75, 
         "fullname": "Tizi Ouzou, Algeria", 
@@ -175,7 +174,8 @@
           "woe:town=1257997", 
           "woe:town=1258019"
         ], 
-        "sw_latitude": 36.41
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344588
       }, 
       "id": 2344588
     }

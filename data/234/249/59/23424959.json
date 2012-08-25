@@ -32,36 +32,36 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "state", 
+        "alias_SPA_Q": [
+          "Isla Tromelin"
+        ], 
         "name": "Tromelin Island", 
-        "ne_latitude": -15.88, 
         "hierarchy": [
           "woe:state=23424959", 
           "woe:country=28289406", 
           "woe:planet=1"
         ], 
-        "woeid": 23424959, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 54.527, 
         "longitude": 54.52, 
-        "children": [
-          "woe:island=12466624"
+        "alias_FRE_S": [
+          "Ile Tromelin"
         ], 
-        "alias_SPA_Q": [
-          "Isla Tromelin"
-        ], 
+        "placetype": "state", 
         "iso": "TF", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "provider": "geoplanet 7.6.0", 
+        "sw_latitude": -15.893, 
+        "woe:id": 23424959, 
+        "ne_latitude": -15.88, 
         "latitude": -15.887, 
         "sw_longitude": 54.514, 
         "fullname": "Tromelin Island, French Southern Territories", 
         "alias_GER_Q": [
           "Tromelininseln"
         ], 
-        "alias_FRE_S": [
-          "Ile Tromelin"
+        "children": [
+          "woe:island=12466624"
         ], 
-        "sw_latitude": -15.893, 
+        "date_indexed": "2010-12-02T08:53:34Z", 
         "alias_FRE_Q": [
           "\u00cele Tromelin"
         ]

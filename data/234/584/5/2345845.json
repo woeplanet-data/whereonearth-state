@@ -1094,7 +1094,7 @@
         "ne:Shape_Area": 1.04292786552, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "1935", 
         "ne:gadm_level": 1.0, 
         "alias_ARA_V": [
           "At-Ta'mim"
@@ -1105,7 +1105,7 @@
           "woe:county=55999949", 
           "woe:county=55999948"
         ], 
-        "ne:OBJECTID": 3049, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 43.2673645363443, 
@@ -1121,9 +1121,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 34.70219737380978, 
-        "ne:VertexCou": 267.0, 
-        "ne:VALIDFR_1": "1935", 
-        "ne:DataRank": 5, 
+        "lang": "ARA", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3049, 
         "ne:Postal": "TS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kirkuk|Tamin", 
@@ -1139,14 +1139,14 @@
         "ne:LabelRank": 5, 
         "ne:Area_sqkm": 10517.0, 
         "woe:id": "2345845", 
-        "ne:HASC_1": "IQ.TS", 
-        "lang": "ARA", 
+        "name": "At Ta'mim", 
+        "ne:VertexCou": 267.0, 
         "adjacent_woeid": [
           2345837, 
           2345843, 
           2345850
         ], 
-        "name": "At Ta'mim", 
+        "ne:HASC_1": "IQ.TS", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 44.803394809922565, 
         "longitude": 44.091, 

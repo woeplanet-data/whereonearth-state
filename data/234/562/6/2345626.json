@@ -41,18 +41,17 @@
           2345640
         ], 
         "name": "Comayagua", 
-        "ne_latitude": 15.056, 
         "hierarchy": [
           "woe:state=2345626", 
           "woe:country=23424841", 
           "woe:planet=1"
         ], 
-        "woeid": 2345626, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -87.21, 
         "longitude": -87.648, 
         "placetype": "state", 
         "iso": "HN", 
-        "date_indexed": "2010-12-02T19:20:59Z", 
+        "sw_latitude": 14.044, 
         "adjacent": [
           "woe:state=2345628", 
           "woe:state=2345630", 
@@ -61,7 +60,7 @@
           "woe:state=2345638", 
           "woe:state=2345640"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.056, 
         "latitude": 14.55, 
         "sw_longitude": -88.087, 
         "fullname": "Comayagua, Honduras", 
@@ -88,7 +87,8 @@
           "woe:county=26813852", 
           "woe:county=26813870"
         ], 
-        "sw_latitude": 14.044
+        "date_indexed": "2010-12-02T19:20:59Z", 
+        "woe:id": 2345626
       }, 
       "id": 2345626
     }

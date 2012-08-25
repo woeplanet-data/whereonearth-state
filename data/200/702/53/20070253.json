@@ -45,18 +45,17 @@
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070253, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 47.201, 
         "longitude": 47.141, 
-        "ne_latitude": 40.646, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 40.552, 
         "adjacent": [
           "woe:state=20070219", 
           "woe:state=20070252"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.646, 
         "latitude": 40.599, 
         "sw_longitude": 47.082, 
         "fullname": "Yevlax, Azerbaijan", 
@@ -64,7 +63,8 @@
           "woe:town=1952038", 
           "woe:town=1951726"
         ], 
-        "sw_latitude": 40.552
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070253
       }, 
       "id": 20070253
     }

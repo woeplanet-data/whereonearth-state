@@ -41,13 +41,12 @@
           2346371
         ], 
         "name": "Sud-Ouest", 
-        "ne_latitude": 6.531, 
         "hierarchy": [
           "woe:state=2345037", 
           "woe:country=23424785", 
           "woe:planet=1"
         ], 
-        "woeid": 2345037, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 10.107, 
         "longitude": 9.301, 
         "alias_FRE_A": [
@@ -55,7 +54,7 @@
         ], 
         "placetype": "state", 
         "iso": "CM", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
+        "sw_latitude": 3.891, 
         "adjacent": [
           "woe:state=2346354", 
           "woe:state=2346350", 
@@ -64,7 +63,7 @@
           "woe:state=2345036", 
           "woe:state=2346371"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 6.531, 
         "latitude": 5.211, 
         "sw_longitude": 8.495, 
         "fullname": "Sud-Ouest, Cameroon", 
@@ -96,7 +95,8 @@
           "woe:town=1305684", 
           "woe:town=1305751"
         ], 
-        "sw_latitude": 3.891
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "woe:id": 2345037
       }, 
       "id": 2345037
     }

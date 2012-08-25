@@ -38,24 +38,23 @@
           2346487
         ], 
         "name": "Lambayeque", 
-        "ne_latitude": -5.54, 
         "hierarchy": [
           "woe:state=2346481", 
           "woe:country=23424919", 
           "woe:planet=1"
         ], 
-        "woeid": 2346481, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -79.148, 
         "longitude": -79.879, 
         "placetype": "state", 
         "iso": "PE", 
-        "date_indexed": "2010-12-02T16:12:03Z", 
+        "sw_latitude": -7.134, 
         "adjacent": [
           "woe:state=2346473", 
           "woe:state=2346480", 
           "woe:state=2346487"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -5.54, 
         "latitude": -6.337, 
         "sw_longitude": -80.705, 
         "fullname": "Lambayeque, Peru", 
@@ -64,7 +63,8 @@
           "woe:county=26805842", 
           "woe:county=26805877"
         ], 
-        "sw_latitude": -7.134
+        "date_indexed": "2010-12-02T16:12:03Z", 
+        "woe:id": 2346481
       }, 
       "id": 2346481
     }

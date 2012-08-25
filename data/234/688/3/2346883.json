@@ -41,18 +41,17 @@
           20070516
         ], 
         "name": "Khabarovskiy Kray", 
-        "ne_latitude": 62.265, 
         "hierarchy": [
           "woe:state=2346883", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346883, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 146.8, 
         "longitude": 134.153, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 46.625, 
         "adjacent": [
           "woe:state=2346888", 
           "woe:state=20070512", 
@@ -61,7 +60,7 @@
           "woe:state=20070516", 
           "woe:state=12577998"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 62.265, 
         "latitude": 54.445, 
         "sw_longitude": 130.801, 
         "fullname": "Khabarovskiy Kray, Russia", 
@@ -91,7 +90,8 @@
           "woe:county=12597763", 
           "woe:island=12469119"
         ], 
-        "sw_latitude": 46.625
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346883
       }, 
       "id": 2346883
     }

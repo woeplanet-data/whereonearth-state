@@ -40,18 +40,17 @@
           20070089
         ], 
         "name": "Thai Binh", 
+        "ne_latitude": 20.73, 
         "hierarchy": [
           "woe:state=2347716", 
           "woe:country=23424984", 
           "woe:planet=1"
         ], 
-        "woeid": 2347716, 
         "ne_longitude": 106.631, 
         "longitude": 106.372, 
         "placetype": "state", 
-        "latitude": 20.505, 
         "iso": "VN", 
-        "sw_latitude": 20.28, 
+        "date_indexed": "2010-12-02T08:52:39Z", 
         "adjacent": [
           "woe:state=2347741", 
           "woe:state=20070080", 
@@ -60,7 +59,7 @@
           "woe:state=20070089"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 20.73, 
+        "latitude": 20.505, 
         "sw_longitude": 106.113, 
         "fullname": "Thai Binh, Vietnam", 
         "children": [
@@ -80,7 +79,8 @@
           "woe:town=56124811", 
           "woe:town=56123536"
         ], 
-        "date_indexed": "2010-12-02T08:52:39Z"
+        "sw_latitude": 20.28, 
+        "woe:id": 2347716
       }, 
       "id": 2347716
     }

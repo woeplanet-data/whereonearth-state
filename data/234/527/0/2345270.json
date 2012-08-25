@@ -1600,7 +1600,7 @@
         "ne:Shape_Area": 0.570896023351, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "1898", 
         "alias_ENG_A": [
           "TIP"
         ], 
@@ -1785,7 +1785,7 @@
           "woe:localadmin=20074114", 
           "woe:localadmin=20074115"
         ], 
-        "ne:OBJECTID": 724, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -8.476970587322683, 
@@ -1806,9 +1806,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.20714956360155, 
-        "ne:VertexCou": 392.0, 
-        "ne:VALIDFR_1": "1898", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 724, 
         "ne:Postal": "TY", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Tiobraid \u00c1rann", 
@@ -1824,8 +1824,8 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 4300.2, 
         "woe:id": "2345270", 
-        "ne:HASC_1": "IE.TY", 
-        "lang": "ENG", 
+        "name": "Tipperary", 
+        "ne:VertexCou": 392.0, 
         "adjacent_woeid": [
           2345251, 
           2345252, 
@@ -1836,7 +1836,7 @@
           2345267, 
           2345271
         ], 
-        "name": "Tipperary", 
+        "ne:HASC_1": "IE.TY", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Tiobraid Arann"

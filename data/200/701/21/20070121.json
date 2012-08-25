@@ -210,13 +210,13 @@
         "ne:Shape_Area": 0.0488990547184, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 13, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "LVA", 
         "children": [
           "woe:county=55844479"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 1094, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 23.926736281454282, 
@@ -238,9 +238,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 56.85141388604205, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 13, 
-        "ne:OBJECTID": 1094, 
+        "ne:VertexCou": 46.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 8, 
         "ne:Postal": "R", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -256,8 +256,8 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 331.1, 
         "woe:id": "20070121", 
-        "name": "R\u013cga", 
-        "ne:VertexCou": 46.0, 
+        "ne:HASC_1": "R", 
+        "lang": "UNK", 
         "adjacent_woeid": [
           55844352, 
           56190541, 
@@ -269,7 +269,7 @@
           55844715, 
           56190572
         ], 
-        "ne:HASC_1": "R", 
+        "name": "R\u013cga", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Rlga"

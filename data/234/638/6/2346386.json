@@ -1578,7 +1578,7 @@
         "ne:Shape_Area": 1.4214767895, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 12, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NOR", 
         "children": [
@@ -1619,7 +1619,7 @@
           "woe:drainage=29362274", 
           "woe:drainage=29362340"
         ], 
-        "ne:OBJECTID": 912, 
+        "ne:DataRank": 7, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 6.815067579705101, 
@@ -1635,9 +1635,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 58.15673472772556, 
-        "ne:VertexCou": 388.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "NOR", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 912, 
         "ne:Postal": "AA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Aust-Agder fylke|Austur-Ag\u00f0ir|Nedenes", 
@@ -1653,14 +1653,14 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 9127.9, 
         "woe:id": "2346386", 
-        "ne:HASC_1": "NO.AA", 
-        "lang": "NOR", 
+        "name": "Aust-Agder Fylke", 
+        "ne:VertexCou": 388.0, 
         "adjacent_woeid": [
           2346397, 
           2346400, 
           2346402
         ], 
-        "name": "Aust-Agder Fylke", 
+        "ne:HASC_1": "NO.AA", 
         "ne:REMARKS_1": null, 
         "alias_NOR_V": [
           "Aust-Agder"

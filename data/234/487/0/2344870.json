@@ -5241,7 +5241,7 @@
         "alias_POR_V": [
           "Estado Tocantins"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19890101", 
         "alias_ENG_A": [
           "TO"
         ], 
@@ -5388,7 +5388,7 @@
           "woe:county=12582535", 
           "woe:county=12582536"
         ], 
-        "ne:OBJECTID": 596, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -50.74265947095779, 
@@ -5407,9 +5407,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -13.385177504538149, 
-        "ne:VertexCou": 1305.0, 
-        "ne:VALIDFR_1": "19890101", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 596, 
         "ne:Postal": "TO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -5425,8 +5425,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 278972.9, 
         "woe:id": "2344870", 
-        "ne:HASC_1": "BR.TO", 
-        "lang": "POR", 
+        "name": "Tocantins", 
+        "ne:VertexCou": 1305.0, 
         "adjacent_woeid": [
           2344848, 
           2344852, 
@@ -5435,7 +5435,7 @@
           2344857, 
           2344861
         ], 
-        "name": "Tocantins", 
+        "ne:HASC_1": "BR.TO", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -45.75769243046125, 
         "longitude": -48.219, 

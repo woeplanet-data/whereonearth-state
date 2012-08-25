@@ -31,45 +31,14 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "adjacent_woeid": [
-          29389197, 
-          29389198, 
-          29389211, 
-          29389217
-        ], 
-        "name": "Juzhni Banat", 
-        "ne_latitude": 45.335, 
-        "alias_UNK_S": [
-          "Juzno-Banatski Okrug"
-        ], 
-        "woeid": 29389222, 
-        "alias_UNK_Q": [
-          "Ju\u017eno-Banatski Okrug"
-        ], 
-        "alias_UNK_V": [
-          "South Banat"
-        ], 
-        "longitude": 20.99, 
-        "ne_longitude": 21.565, 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=29389222", 
           "woe:country=20069818", 
           "woe:planet=1"
         ], 
-        "iso": "RS", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
-        "adjacent": [
-          "woe:state=29389217", 
-          "woe:state=29389198", 
-          "woe:state=29389211", 
-          "woe:state=29389197"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 44.995, 
-        "sw_longitude": 20.418, 
-        "fullname": "Juzhni Banat, Serbia", 
+        "ne_latitude": 45.335, 
+        "ne_longitude": 21.565, 
+        "placetype": "state", 
         "children": [
           "woe:county=56072750", 
           "woe:county=56072754", 
@@ -134,7 +103,38 @@
           "woe:town=537610", 
           "woe:town=537671"
         ], 
-        "sw_latitude": 44.658
+        "sw_longitude": 20.418, 
+        "adjacent": [
+          "woe:state=29389217", 
+          "woe:state=29389198", 
+          "woe:state=29389211", 
+          "woe:state=29389197"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.995, 
+        "woe:id": 29389222, 
+        "sw_latitude": 44.658, 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          29389197, 
+          29389198, 
+          29389211, 
+          29389217
+        ], 
+        "name": "Juzhni Banat", 
+        "alias_UNK_S": [
+          "Juzno-Banatski Okrug"
+        ], 
+        "alias_UNK_Q": [
+          "Ju\u017eno-Banatski Okrug"
+        ], 
+        "alias_UNK_V": [
+          "South Banat"
+        ], 
+        "longitude": 20.99, 
+        "iso": "RS", 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "fullname": "Juzhni Banat, Serbia"
       }, 
       "id": 29389222
     }

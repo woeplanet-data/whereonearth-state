@@ -39,7 +39,6 @@
           24550826, 
           24550865
         ], 
-        "ne_latitude": 41.658, 
         "name": "Vasilevo", 
         "alias_ENG_P": [
           "Vasilevo Municipality"
@@ -49,7 +48,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550814, 
+        "ne_latitude": 41.658, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Vasilevo"
         ], 
@@ -57,7 +57,7 @@
         "ne_longitude": 22.755, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.461, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550826", 
           "woe:state=24550750", 
@@ -65,7 +65,6 @@
           "woe:state=24550865", 
           "woe:state=24550808"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 41.559, 
         "sw_longitude": 22.473, 
         "fullname": "Vasilevo, Vasilevo Municipality, Macedonia", 
@@ -74,7 +73,8 @@
           "woe:town=483168", 
           "woe:town=483205"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.461, 
+        "woe:id": 24550814
       }, 
       "id": 24550814
     }

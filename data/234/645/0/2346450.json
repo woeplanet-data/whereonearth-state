@@ -42,13 +42,12 @@
           2346463
         ], 
         "name": "Boquer\u00f3n", 
-        "ne_latitude": -20.074, 
         "hierarchy": [
           "woe:state=2346450", 
           "woe:country=23424917", 
           "woe:planet=1"
         ], 
-        "woeid": 2346450, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -59.375, 
         "longitude": -61.011, 
         "placetype": "state", 
@@ -56,7 +55,7 @@
           "Boqueron"
         ], 
         "iso": "PY", 
-        "date_indexed": "2010-12-02T12:08:38Z", 
+        "sw_latitude": -23.874, 
         "adjacent": [
           "woe:state=2346463", 
           "woe:state=2344801", 
@@ -66,7 +65,7 @@
           "woe:state=2344808", 
           "woe:state=2344809"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -20.074, 
         "latitude": -21.974, 
         "sw_longitude": -62.647, 
         "fullname": "Boquer\u00f3n, Paraguay", 
@@ -75,7 +74,8 @@
           "woe:county=28358312", 
           "woe:county=26810752"
         ], 
-        "sw_latitude": -23.874
+        "date_indexed": "2010-12-02T12:08:38Z", 
+        "woe:id": 2346450
       }, 
       "id": 2346450
     }

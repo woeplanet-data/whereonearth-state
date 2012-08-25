@@ -40,18 +40,17 @@
           2344617
         ], 
         "name": "Biskra", 
-        "ne_latitude": 35.095, 
         "hierarchy": [
           "woe:state=2344591", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344591, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 6.74, 
         "longitude": 6.539, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 33.537, 
         "adjacent": [
           "woe:state=2344580", 
           "woe:state=2344594", 
@@ -59,7 +58,7 @@
           "woe:state=2344617", 
           "woe:state=2344599"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.095, 
         "latitude": 34.316, 
         "sw_longitude": 4.167, 
         "fullname": "Biskra, Algeria", 
@@ -104,7 +103,8 @@
           "woe:town=1258011", 
           "woe:town=1258012"
         ], 
-        "sw_latitude": 33.537
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344591
       }, 
       "id": 2344591
     }

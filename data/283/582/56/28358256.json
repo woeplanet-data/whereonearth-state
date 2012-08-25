@@ -36,14 +36,27 @@
           24549706
         ], 
         "name": "Pointe-\u00c0-Pitre", 
+        "ne_latitude": 16.517, 
         "hierarchy": [
           "woe:state=28358256", 
           "woe:country=23424831", 
           "woe:planet=1"
         ], 
-        "woeid": 28358256, 
         "ne_longitude": -61.0, 
         "longitude": -61.44, 
+        "alias_FRE_S": [
+          "Pointe-a-Pitre"
+        ], 
+        "placetype": "state", 
+        "iso": "GP", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "adjacent": [
+          "woe:state=24549706"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.36, 
+        "sw_longitude": -61.594, 
+        "fullname": "Pointe-\u00c0-Pitre, Guadeloupe", 
         "children": [
           "woe:county=24551296", 
           "woe:county=24551308", 
@@ -63,21 +76,8 @@
           "woe:island=12484115", 
           "woe:island=12484174"
         ], 
-        "placetype": "state", 
-        "latitude": 16.36, 
-        "iso": "GP", 
         "sw_latitude": 15.868, 
-        "adjacent": [
-          "woe:state=24549706"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 16.517, 
-        "sw_longitude": -61.594, 
-        "fullname": "Pointe-\u00c0-Pitre, Guadeloupe", 
-        "alias_FRE_S": [
-          "Pointe-a-Pitre"
-        ], 
-        "date_indexed": "2010-12-02T08:50:01Z"
+        "woe:id": 28358256
       }, 
       "id": 28358256
     }

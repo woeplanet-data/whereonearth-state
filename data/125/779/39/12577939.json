@@ -726,7 +726,7 @@
         "ne:Shape_Area": 1.83592651018, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19980727", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "POL", 
         "children": [
@@ -748,15 +748,15 @@
           "woe:zone=24874464"
         ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:OBJECTID": 3143, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30eb\u30d6\u30b7\u30e5\u770c"
         ], 
+        "ne:REMARKS_1": null, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Lubusz"
         ], 
-        "ne:ProvNumber": 2000, 
         "sw_longitude": 14.5392989433916, 
         "adjacent": [
           "woe:state=2345491", 
@@ -772,9 +772,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "sw_latitude": 51.396346340411355, 
-        "ne:VertexCou": 160.0, 
-        "ne:VALIDFR_1": "19980727", 
-        "ne:DataRank": 5, 
+        "lang": "POL", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3143, 
         "ne:Postal": "LB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lubuskie", 
@@ -793,8 +793,8 @@
           "Lebus"
         ], 
         "woe:id": "12577939", 
-        "ne:HASC_1": "PL.LB", 
-        "lang": "POL", 
+        "name": "Lubuskie", 
+        "ne:VertexCou": 160.0, 
         "adjacent_woeid": [
           2345491, 
           2345493, 
@@ -802,8 +802,8 @@
           12577949, 
           12577950
         ], 
-        "name": "Lubuskie", 
-        "ne:REMARKS_1": null, 
+        "ne:HASC_1": "PL.LB", 
+        "ne:ProvNumber": 2000, 
         "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne_longitude": 16.37112511603135, 
         "longitude": 15.475, 

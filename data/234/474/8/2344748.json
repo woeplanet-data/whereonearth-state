@@ -37,23 +37,22 @@
           2347816
         ], 
         "name": "North-East", 
-        "ne_latitude": -20.468, 
         "hierarchy": [
           "woe:state=2344748", 
           "woe:country=23424755", 
           "woe:planet=1"
         ], 
-        "woeid": 2344748, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 28.013, 
         "longitude": 27.614, 
         "placetype": "state", 
         "iso": "BW", 
-        "date_indexed": "2010-12-02T10:22:43Z", 
+        "sw_latitude": -21.568, 
         "adjacent": [
           "woe:state=2344741", 
           "woe:state=2347816"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -20.468, 
         "latitude": -21.018, 
         "sw_longitude": 27.214, 
         "fullname": "North-East, Botswana", 
@@ -70,7 +69,8 @@
           "woe:town=55949043", 
           "woe:town=1265945"
         ], 
-        "sw_latitude": -21.568
+        "date_indexed": "2010-12-02T10:22:43Z", 
+        "woe:id": 2344748
       }, 
       "id": 2344748
     }

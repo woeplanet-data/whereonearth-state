@@ -48,13 +48,12 @@
           "woe:country=23424938", 
           "woe:planet=1"
         ], 
-        "woeid": 2346958, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 41.709, 
         "longitude": 39.172, 
-        "ne_latitude": 27.496, 
         "placetype": "state", 
         "iso": "SA", 
-        "date_indexed": "2010-12-02T09:34:37Z", 
+        "sw_latitude": 22.571, 
         "adjacent": [
           "woe:state=2346952", 
           "woe:state=2346951", 
@@ -62,7 +61,7 @@
           "woe:state=2346959", 
           "woe:state=2346962"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 27.496, 
         "latitude": 25.033, 
         "sw_longitude": 36.635, 
         "fullname": "Al Madinah, Saudi Arabia", 
@@ -77,7 +76,8 @@
           "woe:historicalcounty=55948227", 
           "woe:historicalcounty=55948235"
         ], 
-        "sw_latitude": 22.571
+        "date_indexed": "2010-12-02T09:34:37Z", 
+        "woe:id": 2346958
       }, 
       "id": 2346958
     }

@@ -32,27 +32,27 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -21.876, 
         "name": "Mangaia", 
         "hierarchy": [
           "woe:state=24549672", 
           "woe:country=23424795", 
           "woe:planet=1"
         ], 
-        "woeid": 24549672, 
+        "ne_latitude": -21.876, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -157.873, 
         "longitude": -157.921, 
         "placetype": "state", 
         "iso": "CK", 
-        "sw_latitude": -21.944, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
         "latitude": -21.91, 
         "sw_longitude": -157.969, 
         "fullname": "Mangaia, Cook Islands", 
         "children": [
           "woe:island=12489418"
         ], 
-        "date_indexed": "2010-12-02T17:57:50Z"
+        "sw_latitude": -21.944, 
+        "woe:id": 24549672
       }, 
       "id": 24549672
     }

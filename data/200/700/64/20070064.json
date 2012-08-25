@@ -42,18 +42,17 @@
           20070068
         ], 
         "name": "Lovech", 
-        "ne_latitude": 43.38, 
         "hierarchy": [
           "woe:state=20070064", 
           "woe:country=23424771", 
           "woe:planet=1"
         ], 
-        "woeid": 20070064, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 25.149, 
         "longitude": 24.554, 
         "placetype": "state", 
         "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
+        "sw_latitude": 42.709, 
         "adjacent": [
           "woe:state=20070062", 
           "woe:state=20070065", 
@@ -63,7 +62,7 @@
           "woe:state=20070063", 
           "woe:state=20070057"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.38, 
         "latitude": 43.044, 
         "sw_longitude": 23.959, 
         "fullname": "Lovech, Bulgaria", 
@@ -77,7 +76,8 @@
           "woe:county=55873814", 
           "woe:county=55873827"
         ], 
-        "sw_latitude": 42.709
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "woe:id": 20070064
       }, 
       "id": 20070064
     }

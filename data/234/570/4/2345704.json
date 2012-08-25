@@ -37,16 +37,30 @@
           2345698, 
           20070107
         ], 
+        "alias_UNK_A": [
+          "S-MUL"
+        ], 
         "name": "Sudur-Mulasysla", 
-        "ne_latitude": 65.415, 
         "hierarchy": [
           "woe:state=2345704", 
           "woe:country=23424845", 
           "woe:planet=1"
         ], 
-        "woeid": 2345704, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -13.232, 
         "longitude": -14.344, 
+        "placetype": "state", 
+        "iso": "IS", 
+        "sw_latitude": 64.435, 
+        "adjacent": [
+          "woe:state=2345690", 
+          "woe:state=20070107", 
+          "woe:state=2345698"
+        ], 
+        "ne_latitude": 65.415, 
+        "latitude": 64.925, 
+        "sw_longitude": -15.192, 
+        "fullname": "Sudur-Mulasysla, Iceland", 
         "children": [
           "woe:town=980055", 
           "woe:town=980079", 
@@ -75,22 +89,8 @@
           "woe:island=12476056", 
           "woe:island=12476063"
         ], 
-        "placetype": "state", 
-        "iso": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
-        "adjacent": [
-          "woe:state=2345690", 
-          "woe:state=20070107", 
-          "woe:state=2345698"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 64.925, 
-        "sw_longitude": -15.192, 
-        "fullname": "Sudur-Mulasysla, Iceland", 
-        "alias_UNK_A": [
-          "S-MUL"
-        ], 
-        "sw_latitude": 64.435
+        "woe:id": 2345704
       }, 
       "id": 2345704
     }

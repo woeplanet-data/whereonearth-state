@@ -2003,7 +2003,7 @@
         "alias_POR_V": [
           "Estado Rio Grande do Norte"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "18070225", 
         "alias_ENG_A": [
           "RN"
         ], 
@@ -2178,7 +2178,7 @@
           "woe:county=12581229", 
           "woe:county=12581085"
         ], 
-        "ne:OBJECTID": 628, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -38.60911068371104, 
@@ -2193,9 +2193,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -6.977816664407499, 
-        "ne:VertexCou": 490.0, 
-        "ne:VALIDFR_1": "18070225", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 628, 
         "ne:Postal": "RN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2211,13 +2211,13 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 52816.0, 
         "woe:id": "2344863", 
-        "ne:HASC_1": "BR.RN", 
-        "lang": "POR", 
+        "name": "Rio Grande do Norte", 
+        "ne:VertexCou": 490.0, 
         "adjacent_woeid": [
           2344849, 
           2344858
         ], 
-        "name": "Rio Grande do Norte", 
+        "ne:HASC_1": "BR.RN", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -29.34533504897331, 
         "longitude": -36.775, 

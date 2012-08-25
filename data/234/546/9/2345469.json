@@ -40,18 +40,17 @@
           55967004
         ], 
         "name": "Western", 
-        "ne_latitude": 7.023, 
         "hierarchy": [
           "woe:state=2345469", 
           "woe:country=23424824", 
           "woe:planet=1"
         ], 
-        "woeid": 2345469, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -1.505, 
         "longitude": -2.38, 
         "placetype": "state", 
         "iso": "GH", 
-        "date_indexed": "2010-12-02T17:57:50Z", 
+        "sw_latitude": 4.737, 
         "adjacent": [
           "woe:state=2345463", 
           "woe:state=2345464", 
@@ -59,7 +58,7 @@
           "woe:state=55967000", 
           "woe:state=55967004"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 7.023, 
         "latitude": 5.88, 
         "sw_longitude": -3.255, 
         "fullname": "Western, Ghana", 
@@ -98,7 +97,8 @@
           "woe:town=1333416", 
           "woe:town=1486053"
         ], 
-        "sw_latitude": 4.737
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "woe:id": 2345469
       }, 
       "id": 2345469
     }

@@ -1326,7 +1326,7 @@
         "ne:Shape_Area": 2.41199794401, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 12, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NOR", 
         "children": [
@@ -1370,7 +1370,7 @@
           "woe:drainage=29362546", 
           "woe:drainage=29362393"
         ], 
-        "ne:OBJECTID": 922, 
+        "ne:DataRank": 7, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 7.092053257052214, 
@@ -1388,9 +1388,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 58.785197658645075, 
-        "ne:VertexCou": 325.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "NOR", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 922, 
         "ne:Postal": "TE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Telemark fylke|Bratsberg|\u00deelam\u00f6rk", 
@@ -1406,8 +1406,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 15202.8, 
         "woe:id": "2346400", 
-        "ne:HASC_1": "NO.TE", 
-        "lang": "NOR", 
+        "name": "Telemark Fylke", 
+        "ne:VertexCou": 325.0, 
         "adjacent_woeid": [
           2346386, 
           2346387, 
@@ -1415,7 +1415,7 @@
           2346397, 
           2346403
         ], 
-        "name": "Telemark Fylke", 
+        "ne:HASC_1": "NO.TE", 
         "ne:REMARKS_1": null, 
         "alias_NOR_V": [
           "Telemark"

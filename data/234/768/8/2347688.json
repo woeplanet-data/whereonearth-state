@@ -43,18 +43,17 @@
           2347691
         ], 
         "name": "Guarico", 
-        "ne_latitude": 10.062, 
         "hierarchy": [
           "woe:state=2347688", 
           "woe:country=23424982", 
           "woe:planet=1"
         ], 
-        "woeid": 2347688, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -64.76, 
         "longitude": -66.397, 
         "placetype": "state", 
         "iso": "VE", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
+        "sw_latitude": 7.638, 
         "adjacent": [
           "woe:state=2347678", 
           "woe:state=2347679", 
@@ -65,7 +64,7 @@
           "woe:state=2347684", 
           "woe:state=2347691"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 10.062, 
         "latitude": 8.85, 
         "sw_longitude": -68.033, 
         "fullname": "Guarico, Venezuela", 
@@ -86,7 +85,8 @@
           "woe:county=26804561", 
           "woe:county=26804563"
         ], 
-        "sw_latitude": 7.638
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "woe:id": 2347688
       }, 
       "id": 2347688
     }

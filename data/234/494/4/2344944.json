@@ -40,18 +40,17 @@
           2347723
         ], 
         "name": "Takev", 
-        "ne_latitude": 11.358, 
         "hierarchy": [
           "woe:state=2344944", 
           "woe:country=23424776", 
           "woe:planet=1"
         ], 
-        "woeid": 2344944, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.099, 
         "longitude": 104.806, 
         "placetype": "state", 
         "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
+        "sw_latitude": 10.52, 
         "adjacent": [
           "woe:state=2347719", 
           "woe:state=2344930", 
@@ -59,7 +58,7 @@
           "woe:state=2344933", 
           "woe:state=2347723"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.358, 
         "latitude": 10.939, 
         "sw_longitude": 104.512, 
         "fullname": "Takev, Cambodia", 
@@ -75,7 +74,8 @@
           "woe:county=56063370", 
           "woe:county=56063371"
         ], 
-        "sw_latitude": 10.52
+        "date_indexed": "2010-12-02T16:11:17Z", 
+        "woe:id": 2344944
       }, 
       "id": 2344944
     }

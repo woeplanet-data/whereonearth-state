@@ -47,20 +47,19 @@
           "woe:country=23424984", 
           "woe:planet=1"
         ], 
-        "woeid": 20070084, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.245, 
         "longitude": 105.832, 
-        "ne_latitude": 22.765, 
         "placetype": "state", 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 21.939, 
         "adjacent": [
           "woe:state=2347704", 
           "woe:state=2347718", 
           "woe:state=20070083", 
           "woe:state=2347751"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 22.765, 
         "latitude": 22.044, 
         "sw_longitude": 105.419, 
         "fullname": "Bac Kan, Vietnam", 
@@ -89,7 +88,8 @@
           "woe:town=56124352", 
           "woe:town=1252632"
         ], 
-        "sw_latitude": 21.939
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "woe:id": 20070084
       }, 
       "id": 20070084
     }

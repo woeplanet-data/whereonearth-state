@@ -48,13 +48,12 @@
           "woe:country=23424765", 
           "woe:planet=1"
         ], 
-        "woeid": 2344835, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 31.204, 
         "longitude": 28.703, 
-        "ne_latitude": 56.172, 
         "placetype": "state", 
         "iso": "BY", 
-        "date_indexed": "2010-12-02T16:32:52Z", 
+        "sw_latitude": 54.233, 
         "adjacent": [
           "woe:state=2344832", 
           "woe:state=2344833", 
@@ -62,7 +61,7 @@
           "woe:state=2346920", 
           "woe:state=2346925"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 56.172, 
         "latitude": 55.203, 
         "sw_longitude": 26.202, 
         "fullname": "Vitsyebskaya Voblasts', Belarus", 
@@ -311,7 +310,8 @@
           "woe:town=834387", 
           "woe:town=834393"
         ], 
-        "sw_latitude": 54.233
+        "date_indexed": "2010-12-02T16:32:52Z", 
+        "woe:id": 2344835
       }, 
       "id": 2344835
     }

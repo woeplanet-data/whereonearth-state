@@ -689,7 +689,7 @@
         "ne:Shape_Area": 0.241390609495, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "19921230", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "HRV", 
         "children": [
@@ -710,7 +710,7 @@
           "woe:county=15022511", 
           "woe:county=15022509"
         ], 
-        "ne:OBJECTID": 1606, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 17.13231896344945, 
@@ -729,9 +729,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 45.47019643861478, 
-        "ne:VertexCou": 156.0, 
-        "ne:VALIDFR_1": "19921230", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 1606, 
         "ne:Postal": "VP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Virovitica-Podravina", 
@@ -747,8 +747,8 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 2088.3, 
         "woe:id": "12577987", 
-        "ne:HASC_1": "HR.VP", 
-        "lang": "UNK", 
+        "name": "Viroviti\u010dko-podravska", 
+        "ne:VertexCou": 156.0, 
         "adjacent_woeid": [
           12577912, 
           12577924, 
@@ -757,7 +757,7 @@
           12577981, 
           12577991
         ], 
-        "name": "Viroviti\u010dko-podravska", 
+        "ne:HASC_1": "HR.VP", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Viroviticko-podravska"

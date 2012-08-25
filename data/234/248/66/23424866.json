@@ -32,30 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "state", 
+        "alias_SPA_Q": [
+          "Isla Kingman"
+        ], 
         "name": "Kingman Reef", 
-        "ne_latitude": 6.383, 
         "hierarchy": [
           "woe:state=23424866", 
           "woe:country=28289407", 
           "woe:planet=1"
         ], 
-        "woeid": 23424866, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -161.881, 
         "longitude": -161.895, 
-        "alias_SPA_Q": [
-          "Isla Kingman"
-        ], 
+        "placetype": "state", 
         "iso": "UM", 
-        "date_indexed": "2010-12-02T16:52:36Z", 
-        "provider": "geoplanet 7.6.0", 
+        "sw_latitude": 6.359, 
+        "ne_latitude": 6.383, 
         "latitude": 6.371, 
         "sw_longitude": -161.909, 
         "fullname": "Kingman Reef, United States Minor Outlying Islands", 
         "children": [
           "woe:island=12494956"
         ], 
-        "sw_latitude": 6.359
+        "date_indexed": "2010-12-02T16:52:36Z", 
+        "woe:id": 23424866
       }, 
       "id": 23424866
     }

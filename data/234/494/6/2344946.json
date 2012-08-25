@@ -39,32 +39,31 @@
           56190452
         ], 
         "name": "Wadi Fira", 
-        "ne_latitude": 15.996, 
         "hierarchy": [
           "woe:state=2344946", 
           "woe:country=23424777", 
           "woe:planet=1"
         ], 
-        "woeid": 2344946, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 23.004, 
         "longitude": 21.584, 
         "alias_FRE_A": [
           "BI"
         ], 
         "placetype": "state", 
-        "alias_FRE_V": [
-          "Biltine"
-        ], 
+        "latitude": 14.978, 
         "iso": "TD", 
-        "date_indexed": "2010-12-02T08:53:18Z", 
+        "sw_latitude": 13.96, 
         "adjacent": [
           "woe:state=2344945", 
           "woe:state=56190451", 
           "woe:state=56190452", 
           "woe:state=2344956"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 14.978, 
+        "ne_latitude": 15.996, 
+        "alias_FRE_V": [
+          "Biltine"
+        ], 
         "sw_longitude": 20.045, 
         "fullname": "Wadi Fira, Chad", 
         "children": [
@@ -72,7 +71,8 @@
           "woe:county=56013533", 
           "woe:county=56013528"
         ], 
-        "sw_latitude": 13.96
+        "date_indexed": "2010-12-02T08:53:18Z", 
+        "woe:id": 2344946
       }, 
       "id": 2344946
     }

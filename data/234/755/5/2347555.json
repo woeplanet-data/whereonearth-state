@@ -2513,7 +2513,7 @@
         "ne:Shape_Area": 2.55242241675, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "19450716", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "UKR", 
         "children": [
@@ -2564,7 +2564,7 @@
           "woe:town=940031", 
           "woe:town=940209"
         ], 
-        "ne:OBJECTID": 318, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 23.592958204657464, 
@@ -2581,9 +2581,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 50.29481151014312, 
-        "ne:VertexCou": 607.0, 
-        "ne:VALIDFR_1": "19450716", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 318, 
         "ne:Postal": "VO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien", 
@@ -2599,15 +2599,15 @@
         "ne:LabelRank": 5, 
         "ne:Area_sqkm": 19855.4, 
         "woe:id": "2347555", 
-        "ne:HASC_1": "UA.VO", 
-        "lang": "UNK", 
+        "name": "Volyns\u00b4ka Oblast\u00b4", 
+        "ne:VertexCou": 607.0, 
         "adjacent_woeid": [
           2344830, 
           2347547, 
           2347551, 
           12577938
         ], 
-        "name": "Volyns\u00b4ka Oblast\u00b4", 
+        "ne:HASC_1": "UA.VO", 
         "ne:REMARKS_1": null, 
         "alias_UNK_V": [
           "Volyn'"

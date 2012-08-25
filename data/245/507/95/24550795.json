@@ -39,7 +39,6 @@
           24550818, 
           24550864
         ], 
-        "ne_latitude": 41.694, 
         "name": "Oslomej", 
         "alias_ENG_P": [
           "Oslomej Municipality"
@@ -49,7 +48,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550795, 
+        "ne_latitude": 41.694, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Oslomej"
         ], 
@@ -57,7 +57,7 @@
         "ne_longitude": 21.137, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.521, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550767", 
           "woe:state=24550775", 
@@ -65,7 +65,6 @@
           "woe:state=24550818", 
           "woe:state=24550864"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 41.607, 
         "sw_longitude": 20.959, 
         "fullname": "Oslomej, Oslomej Municipality, Macedonia", 
@@ -73,7 +72,8 @@
           "woe:town=482677", 
           "woe:town=483029"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.521, 
+        "woe:id": 24550795
       }, 
       "id": 24550795
     }

@@ -40,18 +40,17 @@
           56189860
         ], 
         "name": "Dhamar", 
-        "ne_latitude": 15.012, 
         "hierarchy": [
           "woe:state=20070044", 
           "woe:country=23425002", 
           "woe:planet=1"
         ], 
-        "woeid": 20070044, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 44.894, 
         "longitude": 44.155, 
         "placetype": "state", 
         "iso": "YE", 
-        "date_indexed": "2010-12-02T16:39:35Z", 
+        "sw_latitude": 14.026, 
         "adjacent": [
           "woe:state=20070043", 
           "woe:state=20070047", 
@@ -59,7 +58,7 @@
           "woe:state=56189860", 
           "woe:state=20070045"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.012, 
         "latitude": 14.519, 
         "sw_longitude": 43.417, 
         "fullname": "Dhamar, Yemen", 
@@ -77,7 +76,8 @@
           "woe:county=56190005", 
           "woe:county=56190006"
         ], 
-        "sw_latitude": 14.026
+        "date_indexed": "2010-12-02T16:39:35Z", 
+        "woe:id": 20070044
       }, 
       "id": 20070044
     }

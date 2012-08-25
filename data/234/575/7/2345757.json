@@ -8060,7 +8060,7 @@
         "ne:Shape_Area": 31.0985540296, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "RAJ"
         ], 
@@ -8104,7 +8104,7 @@
         "alias_CHI_Q": [
           "\u62c9\u57fa\u65af\u5766"
         ], 
-        "ne:OBJECTID": 3250, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30e9\u30b8\u30e3\u30b9\u30bf\u30f3"
         ], 
@@ -8127,9 +8127,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 23.03606191652426, 
-        "ne:VertexCou": 1987.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3250, 
         "ne:Postal": "RJ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Greater Rajasthan|Rajputana", 
@@ -8145,8 +8145,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 343110.1, 
         "woe:id": "2345757", 
-        "ne:HASC_1": "IN.RJ", 
-        "lang": "ENG", 
+        "name": "Rajasthan", 
+        "ne:VertexCou": 1987.0, 
         "adjacent_woeid": [
           2345743, 
           2345744, 
@@ -8156,7 +8156,7 @@
           2346498, 
           2346499
         ], 
-        "name": "Rajasthan", 
+        "ne:HASC_1": "IN.RJ", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 78.24652143781418, 
         "longitude": 73.879, 

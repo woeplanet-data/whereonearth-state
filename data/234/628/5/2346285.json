@@ -31,47 +31,16 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "adjacent_woeid": [
-          2346274, 
-          2346276, 
-          2346278, 
-          2346279, 
-          2346287
-        ], 
-        "name": "Queretaro de Arteaga", 
-        "adjacent": [
-          "woe:state=2346274", 
-          "woe:state=2346276", 
-          "woe:state=2346278", 
-          "woe:state=2346279", 
-          "woe:state=2346287"
-        ], 
         "hierarchy": [
           "woe:state=2346285", 
           "woe:country=23424900", 
           "woe:planet=1"
         ], 
-        "woeid": 2346285, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -99.047, 
-        "longitude": -99.821, 
         "ne_latitude": 21.669, 
         "placetype": "state", 
-        "alias_SPA_S": [
-          "Queretaro"
-        ], 
-        "sw_longitude": -100.596, 
-        "date_indexed": "2010-12-02T16:55:36Z", 
         "alias_ENG_A": [
           "QT"
         ], 
-        "alias_SPA_V": [
-          "Estado de Queretaro de Arteaga"
-        ], 
-        "latitude": 20.843, 
-        "iso": "MX", 
-        "fullname": "Queretaro de Arteaga, Mexico", 
         "children": [
           "woe:county=12601444", 
           "woe:county=12601445", 
@@ -100,7 +69,38 @@
           "woe:town=55883321", 
           "woe:town=55893878"
         ], 
-        "sw_latitude": 20.017
+        "alias_SPA_S": [
+          "Queretaro"
+        ], 
+        "sw_longitude": -100.596, 
+        "adjacent": [
+          "woe:state=2346274", 
+          "woe:state=2346276", 
+          "woe:state=2346278", 
+          "woe:state=2346279", 
+          "woe:state=2346287"
+        ], 
+        "alias_SPA_V": [
+          "Estado de Queretaro de Arteaga"
+        ], 
+        "latitude": 20.843, 
+        "woe:id": 2346285, 
+        "sw_latitude": 20.017, 
+        "provider": "geoplanet 7.6.0", 
+        "lang": "SPA", 
+        "adjacent_woeid": [
+          2346274, 
+          2346276, 
+          2346278, 
+          2346279, 
+          2346287
+        ], 
+        "name": "Queretaro de Arteaga", 
+        "ne_longitude": -99.047, 
+        "longitude": -99.821, 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "fullname": "Queretaro de Arteaga, Mexico"
       }, 
       "id": 2346285
     }

@@ -31,50 +31,16 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ARA", 
-        "adjacent_woeid": [
-          2346255, 
-          2346260, 
-          2346261, 
-          2347110, 
-          2347111, 
-          2347112, 
-          2347114, 
-          55927046
-        ], 
-        "alias_KOR_Q": [
-          "\uc54c\ubc14\ud2f0\ub098"
-        ], 
-        "name": "Al Batinah", 
         "hierarchy": [
           "woe:state=7038775", 
           "woe:country=23424898", 
           "woe:planet=1"
         ], 
-        "woeid": 7038775, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 58.126, 
-        "longitude": 56.692, 
-        "alias_CHI_Q": [
-          "\u5df4\u63d0\u5948"
-        ], 
-        "placetype": "state", 
-        "iso": "OM", 
-        "date_indexed": "2010-12-02T09:35:37Z", 
-        "adjacent": [
-          "woe:state=2346261", 
-          "woe:state=2347110", 
-          "woe:state=2346255", 
-          "woe:state=55927046", 
-          "woe:state=2347111", 
-          "woe:state=2347112", 
-          "woe:state=2346260", 
-          "woe:state=2347114"
-        ], 
         "ne_latitude": 24.997, 
-        "latitude": 24.096, 
-        "sw_longitude": 55.862, 
-        "fullname": "Al Batinah, Oman", 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\uc54c\ubc14\ud2f0\ub098"
+        ], 
         "alias_ARA_V": [
           "Al Batnah"
         ], 
@@ -91,7 +57,41 @@
           "woe:county=55927096", 
           "woe:county=55927078"
         ], 
-        "sw_latitude": 23.196
+        "alias_CHI_Q": [
+          "\u5df4\u63d0\u5948"
+        ], 
+        "sw_longitude": 55.862, 
+        "adjacent": [
+          "woe:state=2346261", 
+          "woe:state=2347110", 
+          "woe:state=2346255", 
+          "woe:state=55927046", 
+          "woe:state=2347111", 
+          "woe:state=2347112", 
+          "woe:state=2346260", 
+          "woe:state=2347114"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.096, 
+        "woe:id": 7038775, 
+        "sw_latitude": 23.196, 
+        "lang": "ARA", 
+        "adjacent_woeid": [
+          2346255, 
+          2346260, 
+          2346261, 
+          2347110, 
+          2347111, 
+          2347112, 
+          2347114, 
+          55927046
+        ], 
+        "name": "Al Batinah", 
+        "ne_longitude": 58.126, 
+        "longitude": 56.692, 
+        "iso": "OM", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
+        "fullname": "Al Batinah, Oman"
       }, 
       "id": 7038775
     }

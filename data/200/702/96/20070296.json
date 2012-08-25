@@ -40,18 +40,17 @@
           20070297
         ], 
         "name": "Kuhistoni Badakhshon", 
-        "ne_latitude": 39.469, 
         "hierarchy": [
           "woe:state=20070296", 
           "woe:country=23424961", 
           "woe:planet=1"
         ], 
-        "woeid": 20070296, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 75.137, 
         "longitude": 72.696, 
         "placetype": "state", 
         "iso": "TJ", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
+        "sw_latitude": 36.674, 
         "adjacent": [
           "woe:state=2344549", 
           "woe:state=20070297", 
@@ -59,7 +58,7 @@
           "woe:state=20070197", 
           "woe:state=12578003"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.469, 
         "latitude": 38.071, 
         "sw_longitude": 70.255, 
         "fullname": "Kuhistoni Badakhshon, Tajikistan", 
@@ -92,7 +91,8 @@
           "woe:town=2213203", 
           "woe:town=2213381"
         ], 
-        "sw_latitude": 36.674
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "woe:id": 20070296
       }, 
       "id": 20070296
     }

@@ -40,18 +40,17 @@
           2346596
         ], 
         "name": "Madang", 
-        "ne_latitude": -3.996, 
         "hierarchy": [
           "woe:state=2346592", 
           "woe:country=23424926", 
           "woe:planet=1"
         ], 
-        "woeid": 2346592, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 147.218, 
         "longitude": 145.533, 
         "placetype": "state", 
         "iso": "PG", 
-        "date_indexed": "2010-12-02T09:57:22Z", 
+        "sw_latitude": -6.025, 
         "adjacent": [
           "woe:state=2346588", 
           "woe:state=2346591", 
@@ -59,7 +58,7 @@
           "woe:state=2346594", 
           "woe:state=2346596"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -3.996, 
         "latitude": -5.018, 
         "sw_longitude": 144.302, 
         "fullname": "Madang, Papua New Guinea", 
@@ -144,7 +143,8 @@
           "woe:island=12498431", 
           "woe:island=12498585"
         ], 
-        "sw_latitude": -6.025
+        "date_indexed": "2010-12-02T09:57:22Z", 
+        "woe:id": 2346592
       }, 
       "id": 2346592
     }

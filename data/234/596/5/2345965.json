@@ -960,7 +960,7 @@
         "alias_KOR_V": [
           "\ucda9\ubd81\ub3c4"
         ], 
-        "ne:MAP_COLOR": 5, 
+        "ne:VALIDFR_1": "18960804", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
         "children": [
@@ -980,7 +980,7 @@
         "alias_CHI_Q": [
           "\u5fe0\u6e05\u5317\u9053"
         ], 
-        "ne:OBJECTID": 2494, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30c1\u30e5\u30f3\u30c1\u30e7\u30f3\u30d6\u30af\u30c9"
         ], 
@@ -1007,9 +1007,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "date_indexed": "2010-12-02T17:52:39Z", 
-        "ne:VertexCou": 231.0, 
-        "ne:VALIDFR_1": "18960804", 
-        "ne:DataRank": 3, 
+        "lang": "KOR", 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 2494, 
         "ne:Postal": "GB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Chungchongbuk-Do|Chungcheongbugdo|Ch'ungch'ong-bukto|Chusei Hoku-do|North Chungchong|Ch'ungch'ong-bukto", 
@@ -1025,8 +1025,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 7660.6, 
         "woe:id": "2345965", 
-        "ne:HASC_1": "KR.GB", 
-        "lang": "KOR", 
+        "name": "\ucda9\uccad\ubd81\ub3c4", 
+        "ne:VertexCou": 231.0, 
         "adjacent_woeid": [
           2345964, 
           2345966, 
@@ -1036,7 +1036,7 @@
           2345975
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "\ucda9\uccad\ubd81\ub3c4", 
+        "ne:HASC_1": "KR.GB", 
         "ne:REMARKS_1": "33 (NSO Code)", 
         "ne:Country_Pr": null, 
         "ne_longitude": 128.65026655475776, 

@@ -628,7 +628,8 @@
         "ne:Shape_Area": 0.456722855186, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Between 1900 and 1974", 
+        "ne:Region_C_3": null, 
         "alias_POR_Q": [
           "Inglaterra"
         ], 
@@ -946,11 +947,10 @@
         "alias_ITA_Q": [
           "Inghilterra"
         ], 
-        "ne:OBJECTID": 3409, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": "Kent", 
         "alias_SPA_Q": [
           "Inglaterra"
@@ -969,13 +969,13 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Administrative County", 
         "date_indexed": "2010-12-02T12:16:52Z", 
-        "ne:VertexCou": 148.0, 
-        "ne:VALIDFR_1": "Between 1900 and 1974", 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 3, 
         "adjacent": [
           "woe:state=12578048", 
           "woe:state=12578049"
         ], 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 3409, 
         "ne:Postal": "KE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -989,17 +989,17 @@
         "ne:NAME_0": "United Kingdom", 
         "ne:NAME_1": "Kent", 
         "ne:Region_C_1": "South East", 
-        "ne:Region_C_3": null, 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 3549.9, 
         "woe:id": "24554868", 
-        "ne:HASC_1": "GB.KE", 
-        "lang": "ENG", 
+        "name": "England", 
+        "ne:VertexCou": 148.0, 
         "adjacent_woeid": [
           12578048, 
           12578049
         ], 
-        "name": "England", 
+        "ne:HASC_1": "GB.KE", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "ne_longitude": 1.448315057094248, 

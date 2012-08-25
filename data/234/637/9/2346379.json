@@ -644,7 +644,7 @@
         "ne:Shape_Area": 0.462163102284, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1930", 
         "alias_POR_Q": [
           "Holando do Norte"
         ], 
@@ -720,18 +720,20 @@
           "woe:landfeature=56058402", 
           "woe:drainage=26354387"
         ], 
+        "ne:Region_Cod": null, 
         "ne:ScaleRank": 8, 
         "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Olanda Settentrionale"
         ], 
-        "ne:Area_sqkm": 3484.3, 
-        "ne:OBJECTID": 3486, 
+        "alias_DAN_Q": [
+          "Nordholland"
+        ], 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Holanda Septentrional"
         ], 
-        "ne:LabelRank": 8, 
         "sw_longitude": 4.499033236994364, 
         "adjacent": [
           "woe:state=2346384", 
@@ -750,10 +752,10 @@
         "alias_DUT_A": [
           "NH"
         ], 
-        "ne:VALIDFR_1": "1930", 
-        "ne:DataRank": 8, 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 3486, 
         "ne:Postal": null, 
-        "ne:Region_Cod": null, 
+        "ne:LabelRank": 8, 
         "ne:VARNAME_1": "Holanda do Norte|Hollande-septentrionale|North Holland", 
         "ne:ISO": "NLD", 
         "ne:Region_C_3": null, 
@@ -767,11 +769,9 @@
         "alias_DUT_V": [
           "Noordholland"
         ], 
-        "alias_DAN_Q": [
-          "Nordholland"
-        ], 
+        "ne:Area_sqkm": 3484.3, 
         "woe:id": "2346379", 
-        "ne:HASC_1": "NL.NH", 
+        "name": "Noord-Holland", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2346381, 
@@ -779,7 +779,7 @@
           2346384
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Noord-Holland", 
+        "ne:HASC_1": "NL.NH", 
         "ne:REMARKS_1": null, 
         "ne:TYPE_1": "Provincie", 
         "ne_longitude": 5.370207544442678, 

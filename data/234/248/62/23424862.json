@@ -32,33 +32,33 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "state", 
+        "alias_SPA_Q": [
+          "Isla Juan de Nova"
+        ], 
         "name": "Juan de Nova Island", 
-        "ne_latitude": -17.007, 
         "hierarchy": [
           "woe:state=23424862", 
           "woe:country=28289406", 
           "woe:planet=1"
         ], 
-        "woeid": 23424862, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 42.364, 
         "longitude": 42.354, 
-        "children": [
-          "woe:island=12465880"
-        ], 
-        "alias_SPA_Q": [
-          "Isla Juan de Nova"
-        ], 
-        "iso": "TF", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": -17.015, 
-        "sw_longitude": 42.344, 
-        "fullname": "Juan de Nova Island, French Southern Territories", 
         "alias_FRE_S": [
           "Ile Juan de Nova"
         ], 
+        "placetype": "state", 
+        "iso": "TF", 
         "sw_latitude": -17.023, 
+        "woe:id": 23424862, 
+        "ne_latitude": -17.007, 
+        "latitude": -17.015, 
+        "sw_longitude": 42.344, 
+        "fullname": "Juan de Nova Island, French Southern Territories", 
+        "children": [
+          "woe:island=12465880"
+        ], 
+        "date_indexed": "2010-12-02T08:53:34Z", 
         "alias_FRE_Q": [
           "\u00cele Juan de Nova"
         ]

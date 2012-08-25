@@ -1997,7 +1997,7 @@
         "ne:Shape_Area": 7.23445762333, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1979", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHL", 
         "children": [
@@ -2005,7 +2005,7 @@
           "woe:county=26793991", 
           "woe:county=26793997"
         ], 
-        "ne:OBJECTID": 2696, 
+        "ne:DataRank": 3, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_SPA_S": [
@@ -2028,9 +2028,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": -29.74789967183233, 
-        "ne:VertexCou": 491.0, 
-        "ne:VALIDFR_1": "1979", 
-        "ne:DataRank": 3, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 2696, 
         "ne:Postal": "AT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2046,8 +2046,8 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 79283.4, 
         "woe:id": "2345022", 
-        "ne:HASC_1": "CL.AT", 
-        "lang": "SPA", 
+        "name": "Atacama", 
+        "ne:VertexCou": 491.0, 
         "adjacent_woeid": [
           2344676, 
           2344686, 
@@ -2055,7 +2055,7 @@
           2345020, 
           2345024
         ], 
-        "name": "Atacama", 
+        "ne:HASC_1": "CL.AT", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -69.901, 

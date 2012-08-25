@@ -526,7 +526,7 @@
         "ne:Shape_Area": 0.814438488658, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "1935", 
         "ne:gadm_level": 1.0, 
         "alias_ARA_V": [
           "Qadisiyah"
@@ -538,7 +538,7 @@
           "woe:county=55999910", 
           "woe:county=55999913"
         ], 
-        "ne:OBJECTID": 3224, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 44.42925744037865, 
@@ -556,9 +556,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 31.262639878427706, 
-        "ne:VertexCou": 125.0, 
-        "ne:VALIDFR_1": "1935", 
-        "ne:DataRank": 5, 
+        "lang": "ARA", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3224, 
         "ne:Postal": "QA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Diwaniyah", 
@@ -574,8 +574,8 @@
         "ne:LabelRank": 5, 
         "ne:Area_sqkm": 8545.3, 
         "woe:id": "2345836", 
-        "ne:HASC_1": "IQ.QA", 
-        "lang": "ARA", 
+        "name": "Al Qadisiyah", 
+        "ne:VertexCou": 125.0, 
         "adjacent_woeid": [
           2345835, 
           2345838, 
@@ -583,7 +583,7 @@
           2345848, 
           2345849
         ], 
-        "name": "Al Qadisiyah", 
+        "ne:HASC_1": "IQ.QA", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 45.78576378806844, 
         "longitude": 45.073, 

@@ -38,24 +38,23 @@
           12590640
         ], 
         "name": "Lemland", 
-        "ne_latitude": 60.113, 
         "hierarchy": [
           "woe:state=12590638", 
           "woe:country=12577865", 
           "woe:planet=1"
         ], 
-        "woeid": 12590638, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.237, 
         "longitude": 20.105, 
         "placetype": "state", 
         "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
+        "sw_latitude": 59.808, 
         "adjacent": [
           "woe:state=12590635", 
           "woe:state=12590639", 
           "woe:state=12590640"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 60.113, 
         "latitude": 60.04, 
         "sw_longitude": 19.782, 
         "fullname": "Lemland, Aland Islands", 
@@ -180,7 +179,8 @@
           "woe:island=12472695", 
           "woe:island=24900969"
         ], 
-        "sw_latitude": 59.808
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "woe:id": 12590638
       }, 
       "id": 12590638
     }

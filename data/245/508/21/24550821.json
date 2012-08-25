@@ -31,6 +31,35 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Zelino Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550821", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 42.038, 
+        "ne_longitude": 21.204, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=482187", 
+          "woe:town=481844", 
+          "woe:town=483266"
+        ], 
+        "sw_longitude": 21.017, 
+        "adjacent": [
+          "woe:state=24550751", 
+          "woe:state=24550771", 
+          "woe:state=24550786", 
+          "woe:state=24550803", 
+          "woe:state=24550804", 
+          "woe:state=24550862"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.943, 
+        "woe:id": 24550821, 
+        "sw_latitude": 41.847, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550751, 
@@ -41,45 +70,16 @@
           24550862
         ], 
         "name": "\u017delino", 
-        "alias_ENG_P": [
-          "Zelino Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Zelino"
-        ], 
-        "woeid": 24550821, 
-        "children": [
-          "woe:town=482187", 
-          "woe:town=481844", 
-          "woe:town=483266"
         ], 
         "alias_UNK_V": [
           "Opstina \u017delino"
         ], 
         "longitude": 21.111, 
-        "ne_longitude": 21.204, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550821", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550751", 
-          "woe:state=24550771", 
-          "woe:state=24550786", 
-          "woe:state=24550803", 
-          "woe:state=24550804", 
-          "woe:state=24550862"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 42.038, 
-        "sw_longitude": 21.017, 
-        "latitude": 41.943, 
-        "fullname": "\u017delino, Zelino Municipality, Macedonia", 
-        "sw_latitude": 41.847
+        "fullname": "\u017delino, Zelino Municipality, Macedonia"
       }, 
       "id": 24550821
     }

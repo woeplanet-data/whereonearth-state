@@ -51,13 +51,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347143, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 100.834, 
         "longitude": 99.961, 
-        "ne_latitude": 16.191, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 15.052, 
         "adjacent": [
           "woe:state=2347157", 
           "woe:state=2347138", 
@@ -68,7 +67,7 @@
           "woe:state=2347135", 
           "woe:state=2347142"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.191, 
         "latitude": 15.622, 
         "sw_longitude": 99.088, 
         "fullname": "Nakhon Sawan, Thailand", 
@@ -89,7 +88,8 @@
           "woe:county=28340974", 
           "woe:county=28340985"
         ], 
-        "sw_latitude": 15.052
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347143
       }, 
       "id": 2347143
     }

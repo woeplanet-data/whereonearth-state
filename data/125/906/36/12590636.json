@@ -45,19 +45,18 @@
           "woe:country=12577865", 
           "woe:planet=1"
         ], 
-        "woeid": 12590636, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 21.324, 
         "longitude": 20.958, 
         "placetype": "state", 
+        "latitude": 59.941, 
         "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
+        "sw_latitude": 59.736, 
         "adjacent": [
           "woe:state=12590632", 
           "woe:state=12590642"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_latitude": 60.058, 
-        "latitude": 59.941, 
         "sw_longitude": 20.645, 
         "fullname": "K\u00f6kar, Aland Islands", 
         "children": [
@@ -473,7 +472,8 @@
           "woe:island=24905365", 
           "woe:island=24903805"
         ], 
-        "sw_latitude": 59.736
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "woe:id": 12590636
       }, 
       "id": 12590636
     }

@@ -45,18 +45,17 @@
           20070180
         ], 
         "name": "Qaraghandy", 
-        "ne_latitude": 51.348, 
         "hierarchy": [
           "woe:state=20070178", 
           "woe:country=23424871", 
           "woe:planet=1"
         ], 
-        "woeid": 20070178, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 77.909, 
         "longitude": 70.44, 
         "placetype": "state", 
         "iso": "KZ", 
-        "date_indexed": "2010-12-02T08:54:03Z", 
+        "sw_latitude": 46.014, 
         "adjacent": [
           "woe:state=20070180", 
           "woe:state=2345996", 
@@ -69,7 +68,7 @@
           "woe:state=20070175", 
           "woe:state=2345983"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 51.348, 
         "latitude": 48.681, 
         "sw_longitude": 62.971, 
         "fullname": "Qaraghandy, Kazakhstan", 
@@ -220,7 +219,8 @@
           "woe:town=2265095", 
           "woe:town=2265101"
         ], 
-        "sw_latitude": 46.014
+        "date_indexed": "2010-12-02T08:54:03Z", 
+        "woe:id": 20070178
       }, 
       "id": 20070178
     }

@@ -53,6 +53,28 @@
         "ne_latitude": 47.577, 
         "ne_longitude": 18.968, 
         "longitude": 18.696, 
+        "placetype": "state", 
+        "iso": "HU", 
+        "sw_latitude": 46.687, 
+        "adjacent": [
+          "woe:state=12577911", 
+          "woe:state=56043621", 
+          "woe:state=12577921", 
+          "woe:state=12577923", 
+          "woe:state=12577924", 
+          "woe:state=56043622", 
+          "woe:state=56043626", 
+          "woe:state=12577927", 
+          "woe:state=12577929", 
+          "woe:state=56043627"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.132, 
+        "sw_longitude": 18.034, 
+        "fullname": "Fej\u00e9r, Hungary", 
+        "alias_HUN_S": [
+          "Fejer"
+        ], 
         "children": [
           "woe:county=12593272", 
           "woe:county=12593316", 
@@ -161,30 +183,8 @@
           "woe:county=12596324", 
           "woe:county=12596187"
         ], 
-        "placetype": "state", 
-        "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "adjacent": [
-          "woe:state=12577911", 
-          "woe:state=56043621", 
-          "woe:state=12577921", 
-          "woe:state=12577923", 
-          "woe:state=12577924", 
-          "woe:state=56043622", 
-          "woe:state=56043626", 
-          "woe:state=12577927", 
-          "woe:state=12577929", 
-          "woe:state=56043627"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 47.132, 
-        "sw_longitude": 18.034, 
-        "fullname": "Fej\u00e9r, Hungary", 
-        "alias_HUN_S": [
-          "Fejer"
-        ], 
-        "woeid": 12577917, 
-        "sw_latitude": 46.687
+        "woe:id": 12577917
       }, 
       "id": 12577917
     }

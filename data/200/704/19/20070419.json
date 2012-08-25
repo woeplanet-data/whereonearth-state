@@ -40,18 +40,17 @@
           24550735
         ], 
         "name": "Kabarole", 
-        "ne_latitude": 0.967, 
         "hierarchy": [
           "woe:state=20070419", 
           "woe:country=23424974", 
           "woe:planet=1"
         ], 
-        "woeid": 20070419, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 30.568, 
         "longitude": 30.264, 
         "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
+        "sw_latitude": 0.259, 
         "adjacent": [
           "woe:state=20070413", 
           "woe:state=24550735", 
@@ -59,7 +58,7 @@
           "woe:state=20070425", 
           "woe:state=24550734"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.967, 
         "latitude": 0.613, 
         "sw_longitude": 29.961, 
         "fullname": "Kabarole, Uganda", 
@@ -68,7 +67,8 @@
           "woe:county=56190241", 
           "woe:county=56190242"
         ], 
-        "sw_latitude": 0.259
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "woe:id": 20070419
       }, 
       "id": 20070419
     }

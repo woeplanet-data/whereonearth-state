@@ -2427,7 +2427,7 @@
         "ne:Shape_Area": 0.683896602301, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "19921230", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "HRV", 
         "children": [
@@ -2471,7 +2471,7 @@
           "woe:historicalcounty=15022327", 
           "woe:historicalcounty=15022333"
         ], 
-        "ne:OBJECTID": 1493, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 14.595161166854439, 
@@ -2487,9 +2487,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 43.86373118774418, 
-        "ne:VertexCou": 572.0, 
-        "ne:VALIDFR_1": "19921230", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 1493, 
         "ne:Postal": "ZD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Zadar-Knin", 
@@ -2505,14 +2505,14 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 6066.9, 
         "woe:id": "12577989", 
-        "ne:HASC_1": "HR.ZD", 
-        "lang": "UNK", 
+        "name": "Zadarsko-Kninska", 
+        "ne:VertexCou": 572.0, 
         "adjacent_woeid": [
           12577978, 
           12577983, 
           24549661
         ], 
-        "name": "Zadarsko-Kninska", 
+        "ne:HASC_1": "HR.ZD", 
         "ne:REMARKS_1": null, 
         "alias_UNK_V": [
           "Zadarska"

@@ -929,7 +929,7 @@
         "ne:Shape_Area": 0.272358514686, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "KIK"
         ], 
@@ -1050,7 +1050,7 @@
           "woe:localadmin=20072934", 
           "woe:localadmin=20072935"
         ], 
-        "ne:OBJECTID": 722, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -7.668234422580497, 
@@ -1068,9 +1068,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.24735382761713, 
-        "ne:VertexCou": 225.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 722, 
         "ne:Postal": "KK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Cill Chainnigh", 
@@ -1086,8 +1086,8 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 2054.8, 
         "woe:id": "2345258", 
-        "ne:HASC_1": "IE.KK", 
-        "lang": "ENG", 
+        "name": "Kilkenny", 
+        "ne:VertexCou": 225.0, 
         "adjacent_woeid": [
           2345249, 
           2345260, 
@@ -1095,7 +1095,7 @@
           2345271, 
           2345273
         ], 
-        "name": "Kilkenny", 
+        "ne:HASC_1": "IE.KK", 
         "ne:REMARKS_1": null, 
         "alias_UNK_Q": [
           "Cill Chainnigh"

@@ -7113,7 +7113,7 @@
         "alias_POR_V": [
           "Estado Amazonas"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "18500905", 
         "alias_ENG_A": [
           "AM"
         ], 
@@ -7185,7 +7185,7 @@
           "woe:timezone=56043580", 
           "woe:timezone=56043581"
         ], 
-        "ne:OBJECTID": 592, 
+        "ne:DataRank": 6, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -73.81300838932566, 
@@ -7208,9 +7208,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -9.837952162062606, 
-        "ne:VertexCou": 1732.0, 
-        "ne:VALIDFR_1": "18500905", 
-        "ne:DataRank": 6, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 592, 
         "ne:Postal": "AM", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Amazone", 
@@ -7226,8 +7226,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 1565464.7, 
         "woe:id": "2344847", 
-        "ne:HASC_1": "BR.AM", 
-        "lang": "POR", 
+        "name": "Amazonas", 
+        "ne:VertexCou": 1732.0, 
         "adjacent_woeid": [
           2344844, 
           2344855, 
@@ -7240,7 +7240,7 @@
           2346483, 
           2347677
         ], 
-        "name": "Amazonas", 
+        "ne:HASC_1": "BR.AM", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -56.31193193221287, 
         "longitude": -64.947, 

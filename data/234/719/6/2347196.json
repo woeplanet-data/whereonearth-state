@@ -49,13 +49,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347196, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 104.805, 
         "longitude": 104.594, 
-        "ne_latitude": 18.07, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 16.787, 
         "adjacent": [
           "woe:state=20070163", 
           "woe:state=20070161", 
@@ -64,7 +63,7 @@
           "woe:state=2347146", 
           "woe:state=2346008"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.07, 
         "latitude": 17.428, 
         "sw_longitude": 103.982, 
         "fullname": "Nakhon Phanom, Thailand", 
@@ -83,7 +82,8 @@
           "woe:county=28341078", 
           "woe:landfeature=56057406"
         ], 
-        "sw_latitude": 16.787
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347196
       }, 
       "id": 2347196
     }

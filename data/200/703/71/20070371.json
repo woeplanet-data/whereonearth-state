@@ -49,23 +49,8 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 41.603, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 46.721, 
         "longitude": 46.244, 
-        "placetype": "state", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "adjacent": [
-          "woe:state=20070373", 
-          "woe:state=20070229", 
-          "woe:state=20070269", 
-          "woe:state=20070248", 
-          "woe:state=20070254"
-        ], 
-        "woeid": 20070371, 
-        "latitude": 41.321, 
-        "sw_longitude": 45.767, 
-        "fullname": "Dedop\u00b4listsqaros Raioni, Georgia", 
         "children": [
           "woe:town=1962380", 
           "woe:town=1962399", 
@@ -88,7 +73,22 @@
           "woe:town=1966586", 
           "woe:town=1966656"
         ], 
-        "sw_latitude": 41.039
+        "placetype": "state", 
+        "iso": "GE", 
+        "sw_latitude": 41.039, 
+        "adjacent": [
+          "woe:state=20070373", 
+          "woe:state=20070229", 
+          "woe:state=20070269", 
+          "woe:state=20070248", 
+          "woe:state=20070254"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.321, 
+        "sw_longitude": 45.767, 
+        "fullname": "Dedop\u00b4listsqaros Raioni, Georgia", 
+        "date_indexed": "2010-12-02T17:51:52Z", 
+        "woe:id": 20070371
       }, 
       "id": 20070371
     }

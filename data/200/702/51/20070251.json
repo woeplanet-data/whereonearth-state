@@ -39,25 +39,24 @@
           20070239
         ], 
         "name": "Yardimli", 
-        "ne_latitude": 39.062, 
         "hierarchy": [
           "woe:state=20070251", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070251, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 48.501, 
         "longitude": 48.255, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 38.711, 
         "adjacent": [
           "woe:state=20070198", 
           "woe:state=20070223", 
           "woe:state=20070238", 
           "woe:state=20070239"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.062, 
         "latitude": 38.887, 
         "sw_longitude": 48.009, 
         "fullname": "Yardimli, Azerbaijan", 
@@ -65,7 +64,8 @@
           "woe:town=1952036", 
           "woe:town=1951595"
         ], 
-        "sw_latitude": 38.711
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070251
       }, 
       "id": 20070251
     }

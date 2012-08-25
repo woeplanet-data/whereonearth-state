@@ -42,25 +42,7 @@
           2347653, 
           2347658
         ], 
-        "alias_ENG_A": [
-          "RS"
-        ], 
         "name": "Rio Grande do Sul", 
-        "ne_latitude": -27.08, 
-        "hierarchy": [
-          "woe:state=2344864", 
-          "woe:country=23424768", 
-          "woe:planet=1"
-        ], 
-        "woeid": 2344864, 
-        "ne_longitude": -49.691, 
-        "longitude": -53.655, 
-        "placetype": "state", 
-        "alias_POR_V": [
-          "Riograndedosul"
-        ], 
-        "iso": "BR", 
-        "date_indexed": "2010-12-02T17:58:27Z", 
         "adjacent": [
           "woe:state=2347640", 
           "woe:state=2347642", 
@@ -71,7 +53,24 @@
           "woe:state=2344867", 
           "woe:state=2347658"
         ], 
+        "hierarchy": [
+          "woe:state=2344864", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": -27.08, 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -49.691, 
+        "longitude": -53.655, 
+        "placetype": "state", 
+        "alias_POR_V": [
+          "Riograndedosul"
+        ], 
+        "iso": "BR", 
+        "sw_latitude": -33.751, 
+        "alias_ENG_A": [
+          "RS"
+        ], 
         "latitude": -30.415, 
         "sw_longitude": -57.618, 
         "fullname": "Rio Grande do Sul, Brazil", 
@@ -576,7 +575,8 @@
           "woe:historicalcounty=12581470", 
           "woe:landfeature=55863411"
         ], 
-        "sw_latitude": -33.751
+        "date_indexed": "2010-12-02T17:58:27Z", 
+        "woe:id": 2344864
       }, 
       "id": 2344864
     }

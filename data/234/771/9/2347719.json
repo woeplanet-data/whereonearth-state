@@ -41,18 +41,17 @@
           2347732
         ], 
         "name": "An Giang", 
+        "ne_latitude": 10.956, 
         "hierarchy": [
           "woe:state=2347719", 
           "woe:country=23424984", 
           "woe:planet=1"
         ], 
-        "woeid": 2347719, 
         "ne_longitude": 105.624, 
         "longitude": 105.196, 
         "placetype": "state", 
-        "latitude": 10.513, 
         "iso": "VN", 
-        "sw_latitude": 10.069, 
+        "date_indexed": "2010-12-02T08:52:39Z", 
         "adjacent": [
           "woe:state=2347732", 
           "woe:state=2347722", 
@@ -62,7 +61,7 @@
           "woe:state=2344944"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 10.956, 
+        "latitude": 10.513, 
         "sw_longitude": 104.769, 
         "fullname": "An Giang, Vietnam", 
         "children": [
@@ -85,7 +84,8 @@
           "woe:town=56124862", 
           "woe:town=1252685"
         ], 
-        "date_indexed": "2010-12-02T08:52:39Z"
+        "sw_latitude": 10.069, 
+        "woe:id": 2347719
       }, 
       "id": 2347719
     }

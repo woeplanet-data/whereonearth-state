@@ -937,7 +937,7 @@
         "ne:Shape_Area": 0.227956283723, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "LEX"
         ], 
@@ -1045,7 +1045,7 @@
           "woe:localadmin=20073105", 
           "woe:localadmin=20073106"
         ], 
-        "ne:OBJECTID": 723, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -7.728489142659782, 
@@ -1063,9 +1063,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.779827785424004, 
-        "ne:VertexCou": 227.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 723, 
         "ne:Postal": "LS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Laois|Leix|Queens", 
@@ -1081,8 +1081,8 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 1703.8, 
         "woe:id": "2345260", 
-        "ne:HASC_1": "IE.LS", 
-        "lang": "ENG", 
+        "name": "Laois", 
+        "ne:VertexCou": 227.0, 
         "adjacent_woeid": [
           2345249, 
           2345257, 
@@ -1090,7 +1090,7 @@
           2345267, 
           2345270
         ], 
-        "name": "Laois", 
+        "ne:HASC_1": "IE.LS", 
         "ne:REMARKS_1": null, 
         "alias_UNK_Q": [
           "Laoighis"

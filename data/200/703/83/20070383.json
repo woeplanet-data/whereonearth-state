@@ -52,26 +52,8 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 42.492, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 43.86, 
         "longitude": 43.579, 
-        "placetype": "state", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "adjacent": [
-          "woe:state=20070380", 
-          "woe:state=20070384", 
-          "woe:state=20070403", 
-          "woe:state=20070365", 
-          "woe:state=20070385", 
-          "woe:state=20070367", 
-          "woe:state=20070368", 
-          "woe:state=20070379"
-        ], 
-        "woeid": 20070383, 
-        "latitude": 42.313, 
-        "sw_longitude": 43.299, 
-        "fullname": "Sach\u00b4kheris Raioni, Georgia", 
         "children": [
           "woe:town=1962395", 
           "woe:town=1962749", 
@@ -84,7 +66,25 @@
           "woe:town=1965457", 
           "woe:town=1965498"
         ], 
-        "sw_latitude": 42.134
+        "placetype": "state", 
+        "iso": "GE", 
+        "sw_latitude": 42.134, 
+        "adjacent": [
+          "woe:state=20070380", 
+          "woe:state=20070384", 
+          "woe:state=20070403", 
+          "woe:state=20070365", 
+          "woe:state=20070385", 
+          "woe:state=20070367", 
+          "woe:state=20070368", 
+          "woe:state=20070379"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.313, 
+        "sw_longitude": 43.299, 
+        "fullname": "Sach\u00b4kheris Raioni, Georgia", 
+        "date_indexed": "2010-12-02T17:51:52Z", 
+        "woe:id": 20070383
       }, 
       "id": 20070383
     }

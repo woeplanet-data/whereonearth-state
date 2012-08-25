@@ -2312,7 +2312,7 @@
         "ne:Shape_Area": 5.28353968623, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "HP"
         ], 
@@ -2336,7 +2336,7 @@
         "alias_CHI_Q": [
           "\u559c\u9a6c\u5055\u5c14\u90a6"
         ], 
-        "ne:OBJECTID": 2429, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30d2\u30de\u30c1\u30e3\u30eb\u30fb\u30d7\u30e9\u30c7\u30b7\u30e5"
         ], 
@@ -2358,9 +2358,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Union Territory", 
         "sw_latitude": 30.38217682520036, 
-        "ne:VertexCou": 569.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 2429, 
         "ne:Postal": "HP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2376,8 +2376,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 55395.6, 
         "woe:id": "2345745", 
-        "ne:HASC_1": "IN.HP", 
-        "lang": "ENG", 
+        "name": "Himachal Pradesh", 
+        "ne:VertexCou": 569.0, 
         "adjacent_woeid": [
           2345744, 
           2345746, 
@@ -2386,7 +2386,7 @@
           12578004, 
           20070462
         ], 
-        "name": "Himachal Pradesh", 
+        "ne:HASC_1": "IN.HP", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 78.99706994002577, 
         "longitude": 77.298, 

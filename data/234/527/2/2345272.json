@@ -976,7 +976,7 @@
         "ne:Shape_Area": 0.252295356274, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "WEM"
         ], 
@@ -1089,7 +1089,7 @@
           "woe:localadmin=20074350", 
           "woe:localadmin=20074351"
         ], 
-        "ne:OBJECTID": 717, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -7.962996791968351, 
@@ -1107,9 +1107,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 53.324652411679494, 
-        "ne:VertexCou": 236.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 717, 
         "ne:Postal": "WH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "An Iarmh\u00ed", 
@@ -1125,8 +1125,8 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 1862.1, 
         "woe:id": "2345272", 
-        "ne:HASC_1": "IE.WH", 
-        "lang": "ENG", 
+        "name": "Westmeath", 
+        "ne:VertexCou": 236.0, 
         "adjacent_woeid": [
           2345250, 
           2345262, 
@@ -1134,7 +1134,7 @@
           2345267, 
           2345268
         ], 
-        "name": "Westmeath", 
+        "ne:HASC_1": "IE.WH", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae na hIarmhi"

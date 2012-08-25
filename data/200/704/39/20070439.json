@@ -37,23 +37,22 @@
           56190206
         ], 
         "name": "Nebbi", 
-        "ne_latitude": 2.879, 
         "hierarchy": [
           "woe:state=20070439", 
           "woe:country=23424974", 
           "woe:planet=1"
         ], 
-        "woeid": 20070439, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 31.528, 
         "longitude": 31.137, 
         "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
+        "sw_latitude": 2.13, 
         "adjacent": [
           "woe:state=56190206", 
           "woe:state=20070412"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 2.879, 
         "latitude": 2.504, 
         "sw_longitude": 30.746, 
         "fullname": "Nebbi, Uganda", 
@@ -62,7 +61,8 @@
           "woe:county=56190332", 
           "woe:county=56190333"
         ], 
-        "sw_latitude": 2.13
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "woe:id": 20070439
       }, 
       "id": 20070439
     }

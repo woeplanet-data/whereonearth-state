@@ -45,18 +45,17 @@
           "woe:country=23424802", 
           "woe:planet=1"
         ], 
-        "woeid": 2345242, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.204, 
         "longitude": 32.091, 
-        "ne_latitude": 31.538, 
         "placetype": "state", 
         "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
+        "sw_latitude": 31.156, 
         "adjacent": [
           "woe:state=2345223", 
           "woe:state=2345241"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.538, 
         "latitude": 31.347, 
         "sw_longitude": 31.496, 
         "fullname": "Dumyat, Egypt", 
@@ -71,7 +70,8 @@
           "woe:town=1524735", 
           "woe:town=22662584"
         ], 
-        "sw_latitude": 31.156
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "woe:id": 2345242
       }, 
       "id": 2345242
     }

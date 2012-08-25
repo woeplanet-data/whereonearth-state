@@ -47,21 +47,8 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 42.01, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 42.295, 
         "longitude": 42.027, 
-        "placetype": "state", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "adjacent": [
-          "woe:state=20070400", 
-          "woe:state=20070377", 
-          "woe:state=20070378"
-        ], 
-        "woeid": 20070376, 
-        "latitude": 41.892, 
-        "sw_longitude": 41.758, 
-        "fullname": "Ozurget\u00b4is Raioni, Georgia", 
         "children": [
           "woe:town=1962423", 
           "woe:town=1962489", 
@@ -89,7 +76,20 @@
           "woe:town=1966660", 
           "woe:town=1966668"
         ], 
-        "sw_latitude": 41.774
+        "placetype": "state", 
+        "iso": "GE", 
+        "sw_latitude": 41.774, 
+        "adjacent": [
+          "woe:state=20070400", 
+          "woe:state=20070377", 
+          "woe:state=20070378"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.892, 
+        "sw_longitude": 41.758, 
+        "fullname": "Ozurget\u00b4is Raioni, Georgia", 
+        "date_indexed": "2010-12-02T17:51:52Z", 
+        "woe:id": 20070376
       }, 
       "id": 20070376
     }

@@ -37,7 +37,6 @@
           24550831, 
           24550856
         ], 
-        "ne_latitude": 42.316, 
         "name": "Rankovce", 
         "alias_ENG_P": [
           "Rankovce Municipality"
@@ -47,7 +46,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550844, 
+        "ne_latitude": 42.316, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Rankovce"
         ], 
@@ -55,13 +55,12 @@
         "ne_longitude": 22.23, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 42.114, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550780", 
           "woe:state=24550831", 
           "woe:state=24550856"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 42.229, 
         "sw_longitude": 22.052, 
         "fullname": "Rankovce, Rankovce Municipality, Macedonia", 
@@ -71,7 +70,8 @@
           "woe:town=482800", 
           "woe:town=482837"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 42.114, 
+        "woe:id": 24550844
       }, 
       "id": 24550844
     }

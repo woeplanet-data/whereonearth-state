@@ -31,43 +31,16 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "adjacent_woeid": [
-          2347359, 
-          2347366, 
-          2347370
-        ], 
-        "alias_KOR_Q": [
-          "\ubbc0\uc644\uc790"
-        ], 
-        "name": "Mwanza", 
         "hierarchy": [
           "woe:state=2347363", 
           "woe:country=23424973", 
           "woe:planet=1"
         ], 
         "ne_latitude": -1.502, 
-        "alias_JPN_Q": [
-          "\u30e0\u30ef\u30f3\u30b6\u5dde"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 34.13, 
-        "longitude": 32.932, 
-        "alias_CHI_Q": [
-          "\u59c6\u4e07\u624e\u533a"
-        ], 
         "placetype": "state", 
-        "iso": "TZ", 
-        "date_indexed": "2010-12-02T12:15:58Z", 
-        "adjacent": [
-          "woe:state=2347370", 
-          "woe:state=2347359", 
-          "woe:state=2347366"
+        "alias_KOR_Q": [
+          "\ubbc0\uc644\uc790"
         ], 
-        "woeid": 2347363, 
-        "latitude": -2.475, 
-        "sw_longitude": 31.733, 
-        "fullname": "Mwanza, Tanzania", 
         "children": [
           "woe:county=56025100", 
           "woe:county=56025107", 
@@ -78,7 +51,34 @@
           "woe:county=56025192", 
           "woe:county=56025210"
         ], 
-        "sw_latitude": -3.449
+        "alias_CHI_Q": [
+          "\u59c6\u4e07\u624e\u533a"
+        ], 
+        "alias_JPN_Q": [
+          "\u30e0\u30ef\u30f3\u30b6\u5dde"
+        ], 
+        "sw_longitude": 31.733, 
+        "adjacent": [
+          "woe:state=2347370", 
+          "woe:state=2347359", 
+          "woe:state=2347366"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -2.475, 
+        "woe:id": 2347363, 
+        "sw_latitude": -3.449, 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2347359, 
+          2347366, 
+          2347370
+        ], 
+        "name": "Mwanza", 
+        "ne_longitude": 34.13, 
+        "longitude": 32.932, 
+        "iso": "TZ", 
+        "date_indexed": "2010-12-02T12:15:58Z", 
+        "fullname": "Mwanza, Tanzania"
       }, 
       "id": 2347363
     }

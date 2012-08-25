@@ -1511,7 +1511,7 @@
         "ne:Shape_Area": 21.6835975914, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18640526", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "Nebr"
         ], 
@@ -1619,7 +1619,7 @@
         "alias_CHI_Q": [
           "\u5185\u5e03\u62c9\u65af\u52a0"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3532, 
         "alias_JPN_Q": [
           "\u30cd\u30d6\u30e9\u30b9\u30ab"
         ], 
@@ -1641,9 +1641,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 40.00010174410028, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3532, 
+        "ne:VertexCou": 370.0, 
+        "ne:VALIDFR_1": "18640526", 
+        "ne:DataRank": 1, 
         "ne:Postal": "NE", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "NE|Nebr.", 
@@ -1659,8 +1659,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 200208.4, 
         "woe:id": "2347586", 
-        "name": "Nebraska", 
-        "ne:VertexCou": 370.0, 
+        "ne:HASC_1": "US.NE", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347564, 
           2347574, 
@@ -1669,7 +1669,7 @@
           2347600, 
           2347609
         ], 
-        "ne:HASC_1": "US.NE", 
+        "name": "Nebraska", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -95.31725468155827, 
         "longitude": -99.681, 

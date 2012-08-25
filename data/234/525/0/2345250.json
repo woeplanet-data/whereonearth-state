@@ -1088,7 +1088,7 @@
         "ne:Shape_Area": 0.259346280671, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "CAV"
         ], 
@@ -1188,7 +1188,7 @@
           "woe:localadmin=20071322", 
           "woe:localadmin=20071323"
         ], 
-        "ne:OBJECTID": 79, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -8.048676316658657, 
@@ -1206,9 +1206,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 53.77335887271386, 
-        "ne:VertexCou": 236.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 79, 
         "ne:Postal": "CN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "An Cabh\u00e1n", 
@@ -1224,8 +1224,8 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 1893.2, 
         "woe:id": "2345250", 
-        "ne:HASC_1": "IE.CN", 
-        "lang": "ENG", 
+        "name": "Cavan", 
+        "ne:VertexCou": 236.0, 
         "adjacent_woeid": [
           2345259, 
           2345262, 
@@ -1233,7 +1233,7 @@
           2345266, 
           2345272
         ], 
-        "name": "Cavan", 
+        "ne:HASC_1": "IE.CN", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae an Chabhain"

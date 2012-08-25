@@ -43,18 +43,17 @@
           20070521
         ], 
         "name": "Severnaya Osetiya-Alaniya", 
-        "ne_latitude": 43.836, 
         "hierarchy": [
           "woe:state=2346877", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346877, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 44.936, 
         "longitude": 44.161, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 42.558, 
         "adjacent": [
           "woe:state=2346868", 
           "woe:state=20070363", 
@@ -65,7 +64,7 @@
           "woe:state=20070362", 
           "woe:state=2346887"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.836, 
         "latitude": 43.197, 
         "sw_longitude": 43.386, 
         "fullname": "Severnaya Osetiya-Alaniya, Russia", 
@@ -81,7 +80,8 @@
           "woe:county=12597516", 
           "woe:county=12597517"
         ], 
-        "sw_latitude": 42.558
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346877
       }, 
       "id": 2346877
     }

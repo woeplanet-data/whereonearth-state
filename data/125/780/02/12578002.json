@@ -6413,7 +6413,7 @@
         "ne:Shape_Area": 17.525995971, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud6c4\ubca0\uc774"
         ], 
@@ -6436,7 +6436,7 @@
           "woe:county=26198159", 
           "woe:colloquial=23511719"
         ], 
-        "ne:OBJECTID": 1807, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u6e56\u5317"
         ], 
@@ -6464,9 +6464,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 29.066339830418883, 
-        "ne:VertexCou": 1596.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1807, 
         "ne:Postal": "HU", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "H\u00fabei", 
@@ -6482,8 +6482,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 185599.3, 
         "woe:id": "12578002", 
-        "ne:HASC_1": "CN.HU", 
-        "lang": "CHI", 
+        "name": "\u6e56\u5317\u7701", 
+        "ne:VertexCou": 1596.0, 
         "adjacent_woeid": [
           12577993, 
           12577999, 
@@ -6492,7 +6492,7 @@
           12578022, 
           20070171
         ], 
-        "name": "\u6e56\u5317\u7701", 
+        "ne:HASC_1": "CN.HU", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 116.14725711452422, 
         "longitude": 112.246, 

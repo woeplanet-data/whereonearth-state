@@ -31,23 +31,13 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "CZE", 
-        "adjacent_woeid": [
-          20070468, 
-          20070499, 
-          20070500, 
-          20070502
-        ], 
-        "name": "Plze\u0148sk\u00fd", 
-        "ne_latitude": 50.103, 
         "hierarchy": [
           "woe:state=20070501", 
           "woe:country=23424810", 
           "woe:planet=1"
         ], 
-        "woeid": 20070501, 
-        "ne_longitude": 13.834, 
-        "longitude": 13.117, 
+        "ne_latitude": 50.103, 
+        "placetype": "state", 
         "children": [
           "woe:county=12582605", 
           "woe:county=12582607", 
@@ -57,9 +47,7 @@
           "woe:county=12582611", 
           "woe:county=12582613"
         ], 
-        "placetype": "state", 
-        "iso": "CZ", 
-        "date_indexed": "2010-12-02T08:54:50Z", 
+        "sw_longitude": 12.4, 
         "adjacent": [
           "woe:state=20070502", 
           "woe:state=20070500", 
@@ -68,15 +56,27 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.522, 
-        "sw_longitude": 12.4, 
-        "fullname": "Plze\u0148sk\u00fd, Czech Republic", 
-        "alias_GER_Q": [
-          "Pilsen"
-        ], 
+        "woe:id": 20070501, 
+        "sw_latitude": 48.941, 
         "alias_CZE_S": [
           "Plzensky"
         ], 
-        "sw_latitude": 48.941, 
+        "alias_GER_Q": [
+          "Pilsen"
+        ], 
+        "lang": "CZE", 
+        "adjacent_woeid": [
+          20070468, 
+          20070499, 
+          20070500, 
+          20070502
+        ], 
+        "name": "Plze\u0148sk\u00fd", 
+        "ne_longitude": 13.834, 
+        "longitude": 13.117, 
+        "iso": "CZ", 
+        "date_indexed": "2010-12-02T08:54:50Z", 
+        "fullname": "Plze\u0148sk\u00fd, Czech Republic", 
         "alias_FRE_Q": [
           "Plzen"
         ]

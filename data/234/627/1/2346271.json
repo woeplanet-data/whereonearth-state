@@ -36,30 +36,29 @@
           2346277, 
           2346279
         ], 
-        "name": "Colima", 
-        "adjacent": [
-          "woe:state=2346277", 
-          "woe:state=2346279"
+        "alias_ENG_A": [
+          "CL"
         ], 
+        "name": "Colima", 
+        "placetype": "state", 
         "hierarchy": [
           "woe:state=2346271", 
           "woe:country=23424900", 
           "woe:planet=1"
         ], 
-        "woeid": 2346271, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -103.486, 
-        "longitude": -104.094, 
-        "ne_latitude": 19.512, 
-        "placetype": "state", 
-        "sw_longitude": -104.701, 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "CL"
-        ], 
         "alias_SPA_V": [
           "Estado de Colima"
         ], 
+        "ne_longitude": -103.486, 
+        "longitude": -104.094, 
+        "ne_latitude": 19.512, 
+        "sw_longitude": -104.701, 
+        "sw_latitude": 18.685, 
+        "adjacent": [
+          "woe:state=2346277", 
+          "woe:state=2346279"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 19.098, 
         "iso": "MX", 
         "fullname": "Colima, Mexico", 
@@ -76,7 +75,8 @@
           "woe:county=12599933", 
           "woe:town=116788"
         ], 
-        "sw_latitude": 18.685
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "woe:id": 2346271
       }, 
       "id": 2346271
     }

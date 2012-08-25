@@ -37,16 +37,15 @@
           29389214
         ], 
         "name": "Prizren", 
-        "ne_latitude": 42.544, 
         "hierarchy": [
           "woe:state=29389209", 
           "woe:country=20069818", 
           "woe:planet=1"
         ], 
-        "woeid": 29389209, 
         "alias_UNK_Q": [
           "Prizrenski"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Prizrenski Okrug"
         ], 
@@ -54,12 +53,12 @@
         "ne_longitude": 20.996, 
         "placetype": "state", 
         "iso": "RS", 
-        "sw_latitude": 41.909, 
+        "date_indexed": "2010-12-02T10:22:30Z", 
         "adjacent": [
           "woe:state=29389201", 
           "woe:state=29389214"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.544, 
         "latitude": 42.238, 
         "sw_longitude": 20.483, 
         "fullname": "Prizren, Serbia", 
@@ -85,7 +84,8 @@
           "woe:town=537769", 
           "woe:town=537818"
         ], 
-        "date_indexed": "2010-12-02T10:22:30Z"
+        "sw_latitude": 41.909, 
+        "woe:id": 29389209
       }, 
       "id": 29389209
     }

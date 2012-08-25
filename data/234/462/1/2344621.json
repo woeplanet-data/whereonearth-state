@@ -40,18 +40,17 @@
           2344626
         ], 
         "name": "Relizane", 
-        "ne_latitude": 36.223, 
         "hierarchy": [
           "woe:state=2344621", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344621, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 1.385, 
         "longitude": 0.895, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 35.439, 
         "adjacent": [
           "woe:state=2344611", 
           "woe:state=2344598", 
@@ -59,7 +58,7 @@
           "woe:state=2344587", 
           "woe:state=2344626"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.223, 
         "latitude": 35.831, 
         "sw_longitude": 0.404, 
         "fullname": "Relizane, Algeria", 
@@ -91,7 +90,8 @@
           "woe:town=1257358", 
           "woe:town=1258000"
         ], 
-        "sw_latitude": 35.439
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344621
       }, 
       "id": 2344621
     }

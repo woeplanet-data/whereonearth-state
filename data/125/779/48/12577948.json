@@ -576,7 +576,7 @@
         "ne:Shape_Area": 3.35200208071, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19980727", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "POL", 
         "children": [
@@ -609,15 +609,15 @@
         "alias_ITA_Q": [
           "Varmia-Masuria"
         ], 
-        "ne:OBJECTID": 3139, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30f4\u30a1\u30eb\u30df\u30a2\uff1d\u30de\u30ba\u30fc\u30eb\u30a3\u770c"
         ], 
+        "ne:REMARKS_1": null, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Warmia y Mazuria"
         ], 
-        "ne:ProvNumber": 2001, 
         "sw_longitude": 19.128269484049497, 
         "adjacent": [
           "woe:state=12577936", 
@@ -633,9 +633,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "ne:VertexCou": 143.0, 
-        "ne:VALIDFR_1": "19980727", 
-        "ne:DataRank": 5, 
+        "lang": "POL", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3139, 
         "ne:Postal": "WN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Warminsko-Mazurskie", 
@@ -658,8 +658,8 @@
           "Ermland-Masuren"
         ], 
         "woe:id": "12577948", 
-        "ne:HASC_1": "PL.WN", 
-        "lang": "POL", 
+        "name": "Warminsko-Mazurskie", 
+        "ne:VertexCou": 143.0, 
         "adjacent_woeid": [
           12577936, 
           12577941, 
@@ -667,8 +667,8 @@
           12577945, 
           55848078
         ], 
-        "name": "Warminsko-Mazurskie", 
-        "ne:REMARKS_1": null, 
+        "ne:HASC_1": "PL.WN", 
+        "ne:ProvNumber": 2001, 
         "ne:CheckMe": 10, 
         "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne_longitude": 22.81393598835524, 

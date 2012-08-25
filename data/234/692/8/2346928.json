@@ -41,18 +41,17 @@
           20070528
         ], 
         "name": "Tomskaya Oblast", 
-        "ne_latitude": 61.038, 
         "hierarchy": [
           "woe:state=2346928", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346928, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 89.893, 
         "longitude": 82.827, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 55.679, 
         "adjacent": [
           "woe:state=2346901", 
           "woe:state=20070526", 
@@ -61,7 +60,7 @@
           "woe:state=2346915", 
           "woe:state=20070528"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 61.038, 
         "latitude": 58.359, 
         "sw_longitude": 75.76, 
         "fullname": "Tomskaya Oblast, Russia", 
@@ -89,7 +88,8 @@
           "woe:county=12599404", 
           "woe:county=12599405"
         ], 
-        "sw_latitude": 55.679
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346928
       }, 
       "id": 2346928
     }

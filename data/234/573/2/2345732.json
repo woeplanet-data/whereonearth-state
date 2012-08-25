@@ -37,23 +37,22 @@
           28350156
         ], 
         "name": "Gorontalo", 
-        "ne_latitude": 1.054, 
         "hierarchy": [
           "woe:state=2345732", 
           "woe:country=23424846", 
           "woe:planet=1"
         ], 
-        "woeid": 2345732, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 123.535, 
         "longitude": 122.342, 
         "placetype": "state", 
         "iso": "ID", 
-        "date_indexed": "2010-12-02T16:52:36Z", 
+        "sw_latitude": 0.297, 
         "adjacent": [
           "woe:state=2345730", 
           "woe:state=28350156"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.054, 
         "latitude": 0.676, 
         "sw_longitude": 121.149, 
         "fullname": "Gorontalo, Indonesia", 
@@ -69,7 +68,8 @@
           "woe:island=12492093", 
           "woe:island=12492749"
         ], 
-        "sw_latitude": 0.297
+        "date_indexed": "2010-12-02T16:52:36Z", 
+        "woe:id": 2345732
       }, 
       "id": 2345732
     }

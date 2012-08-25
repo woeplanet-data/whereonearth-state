@@ -41,18 +41,17 @@
           28358286
         ], 
         "name": "Choco", 
-        "ne_latitude": 8.687, 
         "hierarchy": [
           "woe:state=2345057", 
           "woe:country=23424787", 
           "woe:planet=1"
         ], 
-        "woeid": 2345057, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.037, 
         "longitude": -76.962, 
         "placetype": "state", 
         "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
+        "sw_latitude": 3.991, 
         "adjacent": [
           "woe:state=2345048", 
           "woe:state=2346555", 
@@ -61,7 +60,7 @@
           "woe:state=2345069", 
           "woe:state=2345074"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 8.687, 
         "latitude": 6.339, 
         "sw_longitude": -77.887, 
         "fullname": "Choco, Colombia", 
@@ -90,7 +89,8 @@
           "woe:county=26797180", 
           "woe:county=26797181"
         ], 
-        "sw_latitude": 3.991
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "woe:id": 2345057
       }, 
       "id": 2345057
     }

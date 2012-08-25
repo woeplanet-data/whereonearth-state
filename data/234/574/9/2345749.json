@@ -10112,7 +10112,7 @@
         "ne:Shape_Area": 27.3759098122, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "MP"
         ], 
@@ -10169,7 +10169,7 @@
         "alias_CHI_Q": [
           "\u4e2d\u592e\u90a6"
         ], 
-        "ne:OBJECTID": 3261, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30de\u30c9\u30e4\u30fb\u30d1\u30e9\u30c7\u30b7\u30e5"
         ], 
@@ -10190,9 +10190,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 21.074786281761533, 
-        "ne:VertexCou": 2521.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3261, 
         "ne:Postal": "MP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -10208,8 +10208,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 309518.8, 
         "woe:id": "2345749", 
-        "ne:HASC_1": "IN.MP", 
-        "lang": "ENG", 
+        "name": "Madhya Pradesh", 
+        "ne:VertexCou": 2521.0, 
         "adjacent_woeid": [
           2345743, 
           2345750, 
@@ -10217,7 +10217,7 @@
           2345760, 
           20070464
         ], 
-        "name": "Madhya Pradesh", 
+        "ne:HASC_1": "IN.MP", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 82.81802534389459, 
         "longitude": 78.429, 

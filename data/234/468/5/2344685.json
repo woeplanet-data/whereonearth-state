@@ -662,7 +662,7 @@
         "ne:Shape_Area": 14.471428946, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 13, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "LP"
         ], 
@@ -692,7 +692,7 @@
           "woe:county=20070696", 
           "woe:county=20070697"
         ], 
-        "ne:OBJECTID": 1296, 
+        "ne:DataRank": 3, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -68.2931902733124, 
@@ -713,9 +713,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -39.32576466250913, 
-        "ne:VertexCou": 159.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 13, 
+        "ne:OBJECTID": 1296, 
         "ne:Postal": "LP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "El Pampa|Eva Perln", 
@@ -731,8 +731,8 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 142689.1, 
         "woe:id": "2344685", 
-        "ne:HASC_1": "AR.LP", 
-        "lang": "SPA", 
+        "name": "La Pampa", 
+        "ne:VertexCou": 159.0, 
         "adjacent_woeid": [
           2344675, 
           2344679, 
@@ -741,7 +741,7 @@
           2344690, 
           2344693
         ], 
-        "name": "La Pampa", 
+        "ne:HASC_1": "AR.LP", 
         "ne:REMARKS_1": null, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -65.842, 

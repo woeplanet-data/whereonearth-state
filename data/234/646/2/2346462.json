@@ -41,13 +41,12 @@
           2346464
         ], 
         "name": "San Pedro", 
-        "ne_latitude": -23.311, 
         "hierarchy": [
           "woe:state=2346462", 
           "woe:country=23424917", 
           "woe:planet=1"
         ], 
-        "woeid": 2346462, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -55.759, 
         "longitude": -56.63, 
         "placetype": "state", 
@@ -55,7 +54,7 @@
           "S. Pedro"
         ], 
         "iso": "PY", 
-        "date_indexed": "2010-12-02T12:08:38Z", 
+        "sw_latitude": -25.063, 
         "adjacent": [
           "woe:state=2346449", 
           "woe:state=2346451", 
@@ -64,7 +63,7 @@
           "woe:state=2346455", 
           "woe:state=2346461"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -23.311, 
         "latitude": -24.187, 
         "sw_longitude": -57.501, 
         "fullname": "San Pedro, Paraguay", 
@@ -87,7 +86,8 @@
           "woe:county=26810877", 
           "woe:county=26810805"
         ], 
-        "sw_latitude": -25.063
+        "date_indexed": "2010-12-02T12:08:38Z", 
+        "woe:id": 2346462
       }, 
       "id": 2346462
     }

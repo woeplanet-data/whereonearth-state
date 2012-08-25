@@ -40,18 +40,17 @@
           20069907
         ], 
         "name": "Warab", 
-        "ne_latitude": 9.042, 
         "hierarchy": [
           "woe:state=20069898", 
           "woe:country=23424952", 
           "woe:planet=1"
         ], 
-        "woeid": 20069898, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 29.916, 
         "longitude": 28.717, 
         "placetype": "state", 
         "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
+        "sw_latitude": 6.492, 
         "adjacent": [
           "woe:state=20069896", 
           "woe:state=20069907", 
@@ -59,7 +58,7 @@
           "woe:state=20069899", 
           "woe:state=20069897"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.042, 
         "latitude": 7.767, 
         "sw_longitude": 27.518, 
         "fullname": "Warab, Sudan", 
@@ -102,7 +101,8 @@
           "woe:town=1517381", 
           "woe:town=1437513"
         ], 
-        "sw_latitude": 6.492
+        "date_indexed": "2010-12-02T08:50:49Z", 
+        "woe:id": 20069898
       }, 
       "id": 20069898
     }

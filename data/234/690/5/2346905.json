@@ -41,18 +41,17 @@
           2347552
         ], 
         "name": "Kurskaya Oblast", 
-        "ne_latitude": 52.433, 
         "hierarchy": [
           "woe:state=2346905", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346905, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 38.468, 
         "longitude": 36.28, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 50.941, 
         "adjacent": [
           "woe:state=2346891", 
           "woe:state=2346892", 
@@ -61,7 +60,7 @@
           "woe:state=2347552", 
           "woe:state=2346935"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 52.433, 
         "latitude": 51.687, 
         "sw_longitude": 34.101, 
         "fullname": "Kurskaya Oblast, Russia", 
@@ -99,7 +98,8 @@
           "woe:county=12598596", 
           "woe:county=12598597"
         ], 
-        "sw_latitude": 50.941
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346905
       }, 
       "id": 2346905
     }

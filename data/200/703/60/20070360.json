@@ -50,24 +50,8 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 41.996, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.028, 
         "longitude": 44.788, 
-        "placetype": "state", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "adjacent": [
-          "woe:state=20070363", 
-          "woe:state=20070408", 
-          "woe:state=20070366", 
-          "woe:state=20070358", 
-          "woe:state=20070355", 
-          "woe:state=20070361"
-        ], 
-        "woeid": 20070360, 
-        "latitude": 41.861, 
-        "sw_longitude": 44.548, 
-        "fullname": "Mts\u00b4khet\u00b4is Raioni, Georgia", 
         "children": [
           "woe:town=1966786", 
           "woe:town=1966807", 
@@ -87,7 +71,23 @@
           "woe:town=1966493", 
           "woe:town=1966936"
         ], 
-        "sw_latitude": 41.727
+        "placetype": "state", 
+        "iso": "GE", 
+        "sw_latitude": 41.727, 
+        "adjacent": [
+          "woe:state=20070363", 
+          "woe:state=20070408", 
+          "woe:state=20070366", 
+          "woe:state=20070358", 
+          "woe:state=20070355", 
+          "woe:state=20070361"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.861, 
+        "sw_longitude": 44.548, 
+        "fullname": "Mts\u00b4khet\u00b4is Raioni, Georgia", 
+        "date_indexed": "2010-12-02T17:51:52Z", 
+        "woe:id": 20070360
       }, 
       "id": 20070360
     }

@@ -40,18 +40,17 @@
           20070373
         ], 
         "name": "Zaqatala", 
-        "ne_latitude": 41.863, 
         "hierarchy": [
           "woe:state=20070254", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070254, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 47.013, 
         "longitude": 46.659, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 41.352, 
         "adjacent": [
           "woe:state=20070220", 
           "woe:state=2346870", 
@@ -59,7 +58,7 @@
           "woe:state=20070373", 
           "woe:state=20070229"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.863, 
         "latitude": 41.607, 
         "sw_longitude": 46.306, 
         "fullname": "Zaqatala, Azerbaijan", 
@@ -73,7 +72,8 @@
           "woe:town=1952039", 
           "woe:town=1951775"
         ], 
-        "sw_latitude": 41.352
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070254
       }, 
       "id": 20070254
     }

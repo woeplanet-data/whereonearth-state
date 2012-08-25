@@ -2113,11 +2113,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 44.68476634409154, 
-        "ne:RegionVar": null, 
+        "ne:OBJECTID": 814, 
         "ne:Shape_Area": 0.618797607549, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "Before 1900", 
         "alias_POR_Q": [
           "Lig\u00faria"
         ], 
@@ -2137,13 +2137,16 @@
         "alias_CHI_Q": [
           "\u5229\u53e4\u91cc\u4e9a"
         ], 
-        "ne:Area_sqkm": 5490.3, 
+        "alias_DAN_Q": [
+          "Ligurien"
+        ], 
         "alias_ITA_V": [
           "Liguria Regione"
         ], 
         "alias_JPN_Q": [
           "\u30ea\u30b0\u30ea\u30a2"
         ], 
+        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_ITA_A": [
@@ -2163,8 +2166,8 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 43.784614570006454, 
-        "ne:VertexCou": 520.0, 
-        "ne:VALIDFR_1": "Before 1900", 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -2183,22 +2186,20 @@
         "ne:Region_C_1": null, 
         "ne:TYPE_1": "Regione", 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Ligurien"
-        ], 
+        "ne:Area_sqkm": 5490.3, 
         "alias_GER_Q": [
           "Ligurien"
         ], 
         "woe:id": "7153337", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Liguria", 
+        "ne:VertexCou": 520.0, 
         "adjacent_woeid": [
           7153328, 
           7153334, 
           7153341, 
           7153345
         ], 
-        "name": "Liguria", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
         "ne_longitude": 10.056885206687014, 
@@ -2208,13 +2209,12 @@
         "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Liguria, Italy", 
-        "alias_FRE_Q": [
-          "La Ligurie"
-        ], 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 
-        "ne:OBJECTID": 814, 
-        "ne:sameAsCity": -99
+        "ne:RegionVar": null, 
+        "alias_FRE_Q": [
+          "La Ligurie"
+        ]
       }, 
       "id": 7153337
     }

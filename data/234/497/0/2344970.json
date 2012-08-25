@@ -40,24 +40,20 @@
           2345450
         ], 
         "name": "L\u00e9koumou", 
-        "ne_latitude": -2.113, 
         "hierarchy": [
           "woe:state=2344970", 
           "woe:country=23424779", 
           "woe:planet=1"
         ], 
-        "woeid": 2344970, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.348, 
         "longitude": 13.477, 
-        "children": [
-          "woe:county=55998402", 
-          "woe:county=55998403", 
-          "woe:county=55998405", 
-          "woe:county=55998404"
+        "alias_FRE_S": [
+          "Lekoumou"
         ], 
         "placetype": "state", 
         "iso": "CG", 
-        "date_indexed": "2010-12-02T18:21:30Z", 
+        "sw_latitude": -4.053, 
         "adjacent": [
           "woe:state=2344967", 
           "woe:state=2345450", 
@@ -65,14 +61,18 @@
           "woe:state=2344973", 
           "woe:state=2344975"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -2.113, 
         "latitude": -3.083, 
         "sw_longitude": 12.606, 
         "fullname": "L\u00e9koumou, Congo", 
-        "alias_FRE_S": [
-          "Lekoumou"
+        "children": [
+          "woe:county=55998402", 
+          "woe:county=55998403", 
+          "woe:county=55998405", 
+          "woe:county=55998404"
         ], 
-        "sw_latitude": -4.053
+        "date_indexed": "2010-12-02T18:21:30Z", 
+        "woe:id": 2344970
       }, 
       "id": 2344970
     }

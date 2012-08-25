@@ -50,13 +50,12 @@
           "woe:country=23424960", 
           "woe:planet=1"
         ], 
-        "woeid": 2347144, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 104.148, 
         "longitude": 103.101, 
-        "ne_latitude": 18.449, 
         "placetype": "state", 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "sw_latitude": 17.591, 
         "adjacent": [
           "woe:state=20070163", 
           "woe:state=2347145", 
@@ -66,7 +65,7 @@
           "woe:state=20070164", 
           "woe:state=20070162"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.449, 
         "latitude": 18.02, 
         "sw_longitude": 102.054, 
         "fullname": "Nong Khai, Thailand", 
@@ -89,7 +88,8 @@
           "woe:county=28341050", 
           "woe:county=28341049"
         ], 
-        "sw_latitude": 17.591
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 2347144
       }, 
       "id": 2347144
     }

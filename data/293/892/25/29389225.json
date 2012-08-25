@@ -31,49 +31,14 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "adjacent_woeid": [
-          29389210, 
-          29389211, 
-          29389217, 
-          29389220, 
-          29389221, 
-          29389224
-        ], 
-        "name": "Shumadija", 
-        "ne_latitude": 44.474, 
-        "alias_UNK_S": [
-          "Sumadija"
-        ], 
-        "woeid": 29389225, 
-        "alias_UNK_Q": [
-          "\u0160umadija"
-        ], 
-        "alias_UNK_V": [
-          "\u0160umadijski Okrug"
-        ], 
-        "longitude": 20.794, 
-        "ne_longitude": 21.168, 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=29389225", 
           "woe:country=20069818", 
           "woe:planet=1"
         ], 
-        "iso": "RS", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
-        "adjacent": [
-          "woe:state=29389217", 
-          "woe:state=29389220", 
-          "woe:state=29389210", 
-          "woe:state=29389211", 
-          "woe:state=29389221", 
-          "woe:state=29389224"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 44.151, 
-        "sw_longitude": 20.42, 
-        "fullname": "Shumadija, Serbia", 
+        "ne_latitude": 44.474, 
+        "ne_longitude": 21.168, 
+        "placetype": "state", 
         "children": [
           "woe:county=56072795", 
           "woe:county=56072768", 
@@ -111,7 +76,42 @@
           "woe:town=533268", 
           "woe:town=537754"
         ], 
-        "sw_latitude": 43.827
+        "sw_longitude": 20.42, 
+        "adjacent": [
+          "woe:state=29389217", 
+          "woe:state=29389220", 
+          "woe:state=29389210", 
+          "woe:state=29389211", 
+          "woe:state=29389221", 
+          "woe:state=29389224"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.151, 
+        "woe:id": 29389225, 
+        "sw_latitude": 43.827, 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          29389210, 
+          29389211, 
+          29389217, 
+          29389220, 
+          29389221, 
+          29389224
+        ], 
+        "name": "Shumadija", 
+        "alias_UNK_S": [
+          "Sumadija"
+        ], 
+        "alias_UNK_Q": [
+          "\u0160umadija"
+        ], 
+        "alias_UNK_V": [
+          "\u0160umadijski Okrug"
+        ], 
+        "longitude": 20.794, 
+        "iso": "RS", 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "fullname": "Shumadija, Serbia"
       }, 
       "id": 29389225
     }

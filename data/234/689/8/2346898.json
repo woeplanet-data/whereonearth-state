@@ -41,18 +41,17 @@
           2346936
         ], 
         "name": "Tverskaya Oblast", 
-        "ne_latitude": 58.86, 
         "hierarchy": [
           "woe:state=2346898", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346898, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 38.284, 
         "longitude": 34.545, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 55.646, 
         "adjacent": [
           "woe:state=2346911", 
           "woe:state=2346913", 
@@ -61,7 +60,7 @@
           "woe:state=2346934", 
           "woe:state=2346936"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 58.86, 
         "latitude": 57.253, 
         "sw_longitude": 30.806, 
         "fullname": "Tverskaya Oblast, Russia", 
@@ -117,7 +116,8 @@
           "woe:county=12598389", 
           "woe:county=12598390"
         ], 
-        "sw_latitude": 55.646
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346898
       }, 
       "id": 2346898
     }

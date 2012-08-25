@@ -38,24 +38,23 @@
           2347291
         ], 
         "name": "Ardahan", 
-        "ne_latitude": 41.602, 
         "hierarchy": [
           "woe:state=20070284", 
           "woe:country=23424969", 
           "woe:planet=1"
         ], 
-        "woeid": 20070284, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 43.48, 
         "longitude": 42.909, 
         "placetype": "state", 
         "iso": "TR", 
-        "date_indexed": "2010-12-02T16:22:51Z", 
+        "sw_latitude": 40.663, 
         "adjacent": [
           "woe:state=2347265", 
           "woe:state=2347282", 
           "woe:state=2347291"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.602, 
         "latitude": 41.133, 
         "sw_longitude": 42.338, 
         "fullname": "Ardahan, Turkey", 
@@ -67,7 +66,8 @@
           "woe:county=29390968", 
           "woe:county=29390970"
         ], 
-        "sw_latitude": 40.663
+        "date_indexed": "2010-12-02T16:22:51Z", 
+        "woe:id": 20070284
       }, 
       "id": 20070284
     }

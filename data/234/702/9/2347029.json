@@ -37,23 +37,22 @@
           2347032
         ], 
         "name": "Laborie", 
-        "ne_latitude": 13.835, 
         "hierarchy": [
           "woe:state=2347029", 
           "woe:country=23424951", 
           "woe:planet=1"
         ], 
-        "woeid": 2347029, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -60.98, 
         "longitude": -61.009, 
         "placetype": "state", 
         "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
+        "sw_latitude": 13.736, 
         "adjacent": [
           "woe:state=2347026", 
           "woe:state=2347032"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.835, 
         "latitude": 13.786, 
         "sw_longitude": -61.038, 
         "fullname": "Laborie, St. Lucia", 
@@ -61,7 +60,8 @@
           "woe:town=161991", 
           "woe:town=162076"
         ], 
-        "sw_latitude": 13.736
+        "date_indexed": "2010-12-02T18:18:47Z", 
+        "woe:id": 2347029
       }, 
       "id": 2347029
     }

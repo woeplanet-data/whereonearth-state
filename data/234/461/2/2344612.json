@@ -42,18 +42,17 @@
           2344619
         ], 
         "name": "El Bayadh", 
-        "ne_latitude": 34.426, 
         "hierarchy": [
           "woe:state=2344612", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344612, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 2.052, 
         "longitude": 0.743, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 30.62, 
         "adjacent": [
           "woe:state=2344604", 
           "woe:state=2344608", 
@@ -63,7 +62,7 @@
           "woe:state=2344585", 
           "woe:state=2344587"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.426, 
         "latitude": 32.523, 
         "sw_longitude": -0.567, 
         "fullname": "El Bayadh, Algeria", 
@@ -94,7 +93,8 @@
           "woe:town=1257453", 
           "woe:town=1257927"
         ], 
-        "sw_latitude": 30.62
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344612
       }, 
       "id": 2344612
     }

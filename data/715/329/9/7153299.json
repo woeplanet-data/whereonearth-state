@@ -31,6 +31,46 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Hainault"
+        ], 
+        "hierarchy": [
+          "woe:state=7153299", 
+          "woe:country=23424757", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 50.811, 
+        "placetype": "state", 
+        "children": [
+          "woe:county=12591784", 
+          "woe:county=12591791", 
+          "woe:county=12591796", 
+          "woe:county=12591771", 
+          "woe:county=12591759", 
+          "woe:county=12591785", 
+          "woe:county=12591795"
+        ], 
+        "sw_longitude": 2.842, 
+        "adjacent": [
+          "woe:state=22525997", 
+          "woe:state=7153315", 
+          "woe:state=7153303", 
+          "woe:state=7153324", 
+          "woe:state=7153304", 
+          "woe:state=7153326", 
+          "woe:state=22525998", 
+          "woe:state=7153305"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.362, 
+        "woe:id": 7153299, 
+        "sw_latitude": 49.942, 
+        "alias_DUT_Q": [
+          "Henegouwen"
+        ], 
+        "alias_GER_Q": [
+          "Hennegau"
+        ], 
         "lang": "FRE", 
         "adjacent_woeid": [
           7153303, 
@@ -43,51 +83,11 @@
           22525998
         ], 
         "name": "Hainaut", 
-        "alias_ENG_P": [
-          "Hainault"
-        ], 
-        "hierarchy": [
-          "woe:state=7153299", 
-          "woe:country=23424757", 
-          "woe:planet=1"
-        ], 
-        "woeid": 7153299, 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 4.617, 
         "longitude": 3.898, 
-        "placetype": "state", 
-        "alias_DUT_Q": [
-          "Henegouwen"
-        ], 
         "iso": "BE", 
         "date_indexed": "2010-12-02T16:31:49Z", 
-        "adjacent": [
-          "woe:state=22525997", 
-          "woe:state=7153315", 
-          "woe:state=7153303", 
-          "woe:state=7153324", 
-          "woe:state=7153304", 
-          "woe:state=7153326", 
-          "woe:state=22525998", 
-          "woe:state=7153305"
-        ], 
-        "ne_latitude": 50.811, 
-        "latitude": 50.362, 
-        "sw_longitude": 2.842, 
-        "fullname": "Hainaut, Hainault, Belgium", 
-        "alias_GER_Q": [
-          "Hennegau"
-        ], 
-        "children": [
-          "woe:county=12591784", 
-          "woe:county=12591791", 
-          "woe:county=12591796", 
-          "woe:county=12591771", 
-          "woe:county=12591759", 
-          "woe:county=12591785", 
-          "woe:county=12591795"
-        ], 
-        "sw_latitude": 49.942
+        "fullname": "Hainaut, Hainault, Belgium"
       }, 
       "id": 7153299
     }

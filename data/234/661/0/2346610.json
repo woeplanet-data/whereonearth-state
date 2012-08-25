@@ -37,23 +37,22 @@
           2346611
         ], 
         "name": "Bissau", 
-        "ne_latitude": 11.942, 
         "hierarchy": [
           "woe:state=2346610", 
           "woe:country=23424929", 
           "woe:planet=1"
         ], 
-        "woeid": 2346610, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -15.553, 
         "longitude": -15.621, 
         "placetype": "state", 
         "iso": "GW", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
+        "sw_latitude": 11.797, 
         "adjacent": [
           "woe:state=2346611", 
           "woe:state=2346605"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.942, 
         "latitude": 11.87, 
         "sw_longitude": -15.689, 
         "fullname": "Bissau, Guinea-Bissau", 
@@ -74,7 +73,8 @@
           "woe:town=1561814", 
           "woe:town=1561939"
         ], 
-        "sw_latitude": 11.797
+        "date_indexed": "2010-12-02T09:57:34Z", 
+        "woe:id": 2346610
       }, 
       "id": 2346610
     }

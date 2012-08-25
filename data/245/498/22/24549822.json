@@ -32,20 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 7.36, 
         "name": "Koror", 
         "hierarchy": [
           "woe:state=24549822", 
           "woe:country=23424927", 
           "woe:planet=1"
         ], 
-        "woeid": 24549822, 
+        "ne_latitude": 7.36, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 134.525, 
         "longitude": 134.435, 
         "placetype": "state", 
         "iso": "PW", 
-        "sw_latitude": 7.136, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "latitude": 7.278, 
         "sw_longitude": 134.286, 
         "fullname": "Koror, Palau", 
@@ -58,7 +57,8 @@
           "woe:island=12498913", 
           "woe:island=12498917"
         ], 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "sw_latitude": 7.136, 
+        "woe:id": 24549822
       }, 
       "id": 24549822
     }

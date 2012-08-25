@@ -31,25 +31,19 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "CHI", 
         "alias_ENG_V": [
           "Chunghua"
         ], 
-        "name": "\u5f70\u5316\u7e23", 
-        "alias_CHI_V": [
-          "\u5f70\u5316"
+        "alias_ENG_P": [
+          "Changhua County"
         ], 
         "hierarchy": [
           "woe:state=20070572", 
           "woe:country=23424971", 
           "woe:planet=1"
         ], 
-        "woeid": 20070572, 
-        "alias_ENG_P": [
-          "Changhua County"
-        ], 
-        "ne_longitude": 120.684, 
-        "longitude": 120.492, 
+        "ne_latitude": 24.196, 
+        "placetype": "state", 
         "children": [
           "woe:county=2297343", 
           "woe:county=2302915", 
@@ -133,25 +127,31 @@
           "woe:drainage=28803068", 
           "woe:drainage=28803104"
         ], 
-        "placetype": "state", 
-        "adjacent_woeid": [
-          2347346, 
-          2347339, 
-          28751584
+        "alias_CHI_V": [
+          "\u5f70\u5316"
         ], 
-        "iso": "TW", 
-        "date_indexed": "2010-12-02T16:15:11Z", 
+        "sw_longitude": 120.239, 
         "adjacent": [
           "woe:state=2347339", 
           "woe:state=28751584", 
           "woe:state=2347346"
         ], 
-        "ne_latitude": 24.196, 
-        "latitude": 23.998, 
-        "sw_longitude": 120.239, 
-        "fullname": "\u5f70\u5316\u7e23, Taiwan, Changhua County, Taiwan", 
         "provider": "geoplanet 7.6.0", 
-        "sw_latitude": 23.786
+        "latitude": 23.998, 
+        "woe:id": 20070572, 
+        "sw_latitude": 23.786, 
+        "lang": "CHI", 
+        "adjacent_woeid": [
+          2347346, 
+          2347339, 
+          28751584
+        ], 
+        "name": "\u5f70\u5316\u7e23", 
+        "ne_longitude": 120.684, 
+        "longitude": 120.492, 
+        "iso": "TW", 
+        "date_indexed": "2010-12-02T16:15:11Z", 
+        "fullname": "\u5f70\u5316\u7e23, Taiwan, Changhua County, Taiwan"
       }, 
       "id": 20070572
     }

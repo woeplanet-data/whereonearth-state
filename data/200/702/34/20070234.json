@@ -39,25 +39,24 @@
           20070235
         ], 
         "name": "Qusar", 
-        "ne_latitude": 41.812, 
         "hierarchy": [
           "woe:state=20070234", 
           "woe:country=23424741", 
           "woe:planet=1"
         ], 
-        "woeid": 20070234, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 48.588, 
         "longitude": 48.242, 
         "placetype": "state", 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 41.224, 
         "adjacent": [
           "woe:state=2346870", 
           "woe:state=20070235", 
           "woe:state=20070232", 
           "woe:state=20070221"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.812, 
         "latitude": 41.518, 
         "sw_longitude": 47.896, 
         "fullname": "Qusar, Azerbaijan", 
@@ -77,7 +76,8 @@
           "woe:town=1947688", 
           "woe:town=1951126"
         ], 
-        "sw_latitude": 41.224
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20070234
       }, 
       "id": 20070234
     }

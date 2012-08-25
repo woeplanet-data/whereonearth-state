@@ -32,20 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": -14.161, 
         "name": "Manua", 
         "hierarchy": [
           "woe:state=24549644", 
           "woe:country=23424746", 
           "woe:planet=1"
         ], 
-        "woeid": 24549644, 
+        "ne_latitude": -14.161, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -169.416, 
         "longitude": -169.468, 
         "placetype": "state", 
         "iso": "AS", 
-        "sw_latitude": -14.277, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:40:22Z", 
         "latitude": -14.246, 
         "sw_longitude": -169.682, 
         "fullname": "Manua, American Samoa", 
@@ -58,7 +57,8 @@
           "woe:island=12485830", 
           "woe:island=12485829"
         ], 
-        "date_indexed": "2010-12-02T17:40:22Z"
+        "sw_latitude": -14.277, 
+        "woe:id": 24549644
       }, 
       "id": 24549644
     }

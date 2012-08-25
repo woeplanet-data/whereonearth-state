@@ -652,7 +652,7 @@
         "ne:Shape_Area": 0.23337056026, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19110101", 
         "alias_ENG_A": [
           "ACT"
         ], 
@@ -666,7 +666,7 @@
         "alias_CHI_Q": [
           "\u6fb3\u6d32\u9996\u5e9c\u5730\u57df"
         ], 
-        "ne:OBJECTID": 2653, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u30f3\u30fb\u30ad\u30e3\u30d4\u30bf\u30eb\u30fb\u30c6\u30ea\u30c8\u30ea\u30fc"
         ], 
@@ -683,9 +683,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Territory", 
         "sw_latitude": -35.91961598109259, 
-        "ne:VertexCou": 156.0, 
-        "ne:VALIDFR_1": "19110101", 
-        "ne:DataRank": 3, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 2653, 
         "ne:Postal": "CT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -701,12 +701,12 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 2349.2, 
         "woe:id": "2344699", 
-        "ne:HASC_1": "AU.CT", 
-        "lang": "ENG", 
+        "name": "Australian Capital Territory", 
+        "ne:VertexCou": 156.0, 
         "adjacent_woeid": [
           2344700
         ], 
-        "name": "Australian Capital Territory", 
+        "ne:HASC_1": "AU.CT", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 149.4044002623623, 
         "longitude": 149.081, 

@@ -38,24 +38,23 @@
           2346320
         ], 
         "name": "Inhambane", 
-        "ne_latitude": -20.958, 
         "hierarchy": [
           "woe:state=2346313", 
           "woe:country=23424902", 
           "woe:planet=1"
         ], 
-        "woeid": 2346313, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.605, 
         "longitude": 34.363, 
         "placetype": "state", 
         "iso": "MZ", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
+        "sw_latitude": -24.857, 
         "adjacent": [
           "woe:state=2346312", 
           "woe:state=2346320", 
           "woe:state=2346315"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -20.958, 
         "latitude": -22.907, 
         "sw_longitude": 33.121, 
         "fullname": "Inhambane, Mozambique", 
@@ -140,7 +139,8 @@
           "woe:town=1556406", 
           "woe:town=1559481"
         ], 
-        "sw_latitude": -24.857
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "woe:id": 2346313
       }, 
       "id": 2346313
     }

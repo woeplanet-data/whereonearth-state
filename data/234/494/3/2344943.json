@@ -38,24 +38,23 @@
           2347714
         ], 
         "name": "Svay Rieng", 
-        "ne_latitude": 11.585, 
         "hierarchy": [
           "woe:state=2344943", 
           "woe:country=23424776", 
           "woe:planet=1"
         ], 
-        "woeid": 2344943, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.208, 
         "longitude": 105.9, 
         "placetype": "state", 
         "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
+        "sw_latitude": 10.79, 
         "adjacent": [
           "woe:state=2347710", 
           "woe:state=2344939", 
           "woe:state=2347714"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.585, 
         "latitude": 11.188, 
         "sw_longitude": 105.593, 
         "fullname": "Svay Rieng, Cambodia", 
@@ -68,7 +67,8 @@
           "woe:county=56063360", 
           "woe:county=56063361"
         ], 
-        "sw_latitude": 10.79
+        "date_indexed": "2010-12-02T16:11:17Z", 
+        "woe:id": 2344943
       }, 
       "id": 2344943
     }

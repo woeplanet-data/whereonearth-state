@@ -40,18 +40,17 @@
           56013540
         ], 
         "name": "Dikhil", 
-        "ne_latitude": 11.934, 
         "hierarchy": [
           "woe:state=2345157", 
           "woe:country=23424797", 
           "woe:planet=1"
         ], 
-        "woeid": 2345157, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 42.9, 
         "longitude": 42.337, 
         "placetype": "state", 
         "iso": "DJ", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
+        "sw_latitude": 10.91, 
         "adjacent": [
           "woe:state=2345156", 
           "woe:state=56013537", 
@@ -59,7 +58,7 @@
           "woe:state=56013540", 
           "woe:state=2345160"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.934, 
         "latitude": 11.422, 
         "sw_longitude": 41.773, 
         "fullname": "Dikhil, Djibouti", 
@@ -74,7 +73,8 @@
           "woe:town=1310968", 
           "woe:town=1310929"
         ], 
-        "sw_latitude": 10.91
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "woe:id": 2345157
       }, 
       "id": 2345157
     }

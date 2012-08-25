@@ -40,18 +40,17 @@
           2345969
         ], 
         "name": "Kangwon-do", 
-        "ne_latitude": 39.422, 
         "hierarchy": [
           "woe:state=2345954", 
           "woe:country=23424865", 
           "woe:planet=1"
         ], 
-        "woeid": 2345954, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 128.367, 
         "longitude": 127.525, 
         "placetype": "state", 
         "iso": "KP", 
-        "date_indexed": "2010-12-02T10:22:43Z", 
+        "sw_latitude": 38.104, 
         "adjacent": [
           "woe:state=2345951", 
           "woe:state=2345953", 
@@ -59,7 +58,7 @@
           "woe:state=2345966", 
           "woe:state=2345969"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.422, 
         "latitude": 38.757, 
         "sw_longitude": 126.687, 
         "fullname": "Kangwon-do, North Korea", 
@@ -87,7 +86,8 @@
           "woe:island=12494866", 
           "woe:island=12494909"
         ], 
-        "sw_latitude": 38.104
+        "date_indexed": "2010-12-02T10:22:43Z", 
+        "woe:id": 2345954
       }, 
       "id": 2345954
     }

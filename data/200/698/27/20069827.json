@@ -45,18 +45,17 @@
           "woe:country=23424888", 
           "woe:planet=1"
         ], 
-        "woeid": 20069827, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -62.15, 
         "longitude": -62.18, 
-        "ne_latitude": 16.78, 
         "placetype": "state", 
         "iso": "MS", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 16.701, 
         "adjacent": [
           "woe:state=20069826", 
           "woe:state=20069828"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.78, 
         "latitude": 16.741, 
         "sw_longitude": -62.209, 
         "fullname": "Saint Georges, Montserrat", 
@@ -67,7 +66,8 @@
           "woe:town=110899", 
           "woe:landfeature=23702016"
         ], 
-        "sw_latitude": 16.701
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "woe:id": 20069827
       }, 
       "id": 20069827
     }

@@ -41,18 +41,17 @@
           20070290
         ], 
         "name": "Ma'an", 
-        "ne_latitude": 31.275, 
         "hierarchy": [
           "woe:state=2345928", 
           "woe:country=23424860", 
           "woe:planet=1"
         ], 
-        "woeid": 2345928, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 38.006, 
         "longitude": 36.478, 
         "placetype": "state", 
         "iso": "JO", 
-        "date_indexed": "2010-12-02T12:08:06Z", 
+        "sw_latitude": 29.184, 
         "adjacent": [
           "woe:state=20070289", 
           "woe:state=20070290", 
@@ -61,7 +60,7 @@
           "woe:state=2345932", 
           "woe:state=2346962"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.275, 
         "latitude": 30.231, 
         "sw_longitude": 35.333, 
         "fullname": "Ma'an, Jordan", 
@@ -117,7 +116,8 @@
           "woe:town=56125039", 
           "woe:town=1968964"
         ], 
-        "sw_latitude": 29.184
+        "date_indexed": "2010-12-02T12:08:06Z", 
+        "woe:id": 2345928
       }, 
       "id": 2345928
     }

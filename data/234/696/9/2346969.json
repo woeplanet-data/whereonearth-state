@@ -47,20 +47,19 @@
           "woe:country=23424940", 
           "woe:planet=1"
         ], 
-        "woeid": 2346969, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -62.767, 
         "longitude": -62.816, 
-        "ne_latitude": 17.415, 
         "placetype": "state", 
         "iso": "KN", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 17.357, 
         "adjacent": [
           "woe:state=2346964", 
           "woe:state=2346965", 
           "woe:state=2346972", 
           "woe:state=2346976"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.415, 
         "latitude": 17.386, 
         "sw_longitude": -62.864, 
         "fullname": "Saint John Capesterre, Saint Kitts and Nevis", 
@@ -68,7 +67,8 @@
           "woe:town=161853", 
           "woe:town=161951"
         ], 
-        "sw_latitude": 17.357
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "woe:id": 2346969
       }, 
       "id": 2346969
     }

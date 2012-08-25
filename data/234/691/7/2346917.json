@@ -40,18 +40,17 @@
           2346929
         ], 
         "name": "Orlovskaya Oblast", 
-        "ne_latitude": 53.631, 
         "hierarchy": [
           "woe:state=2346917", 
           "woe:country=23424936", 
           "woe:planet=1"
         ], 
-        "woeid": 2346917, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 38.042, 
         "longitude": 36.442, 
         "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "sw_latitude": 51.962, 
         "adjacent": [
           "woe:state=2346892", 
           "woe:state=2346899", 
@@ -59,7 +58,7 @@
           "woe:state=2346908", 
           "woe:state=2346929"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 53.631, 
         "latitude": 52.796, 
         "sw_longitude": 34.842, 
         "fullname": "Orlovskaya Oblast, Russia", 
@@ -92,7 +91,8 @@
           "woe:county=12598985", 
           "woe:county=12598986"
         ], 
-        "sw_latitude": 51.962
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "woe:id": 2346917
       }, 
       "id": 2346917
     }

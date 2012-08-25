@@ -38,7 +38,6 @@
           24550831, 
           24550838
         ], 
-        "ne_latitude": 42.158, 
         "name": "Makedonska Kamenica", 
         "alias_ENG_P": [
           "Makedonska Kamenica Municipality"
@@ -48,7 +47,8 @@
           "woe:country=23424890", 
           "woe:planet=1"
         ], 
-        "woeid": 24550851, 
+        "ne_latitude": 42.158, 
+        "provider": "geoplanet 7.6.0", 
         "alias_UNK_V": [
           "Opstina Makedonska Kamenica"
         ], 
@@ -56,14 +56,13 @@
         "ne_longitude": 22.644, 
         "placetype": "state", 
         "iso": "MK", 
-        "sw_latitude": 41.952, 
+        "date_indexed": "2010-12-02T09:34:49Z", 
         "adjacent": [
           "woe:state=24550838", 
           "woe:state=24550777", 
           "woe:state=24550831", 
           "woe:state=24550817"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 42.096, 
         "sw_longitude": 22.458, 
         "fullname": "Makedonska Kamenica, Makedonska Kamenica Municipality, Macedonia", 
@@ -71,7 +70,8 @@
           "woe:town=482257", 
           "woe:town=482899"
         ], 
-        "date_indexed": "2010-12-02T09:34:49Z"
+        "sw_latitude": 41.952, 
+        "woe:id": 24550851
       }, 
       "id": 24550851
     }

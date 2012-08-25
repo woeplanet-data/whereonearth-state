@@ -45,24 +45,11 @@
           "woe:country=23424971", 
           "woe:planet=1"
         ], 
-        "woeid": 28751582, 
         "alias_ENG_P": [
           "Hsinchu City"
         ], 
         "ne_longitude": 121.033, 
         "longitude": 120.958, 
-        "ne_latitude": 24.854, 
-        "placetype": "state", 
-        "iso": "TW", 
-        "sw_latitude": 24.713, 
-        "adjacent": [
-          "woe:state=2347334", 
-          "woe:state=2347338"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 24.791, 
-        "sw_longitude": 120.878, 
-        "fullname": "\u65b0\u7af9\u5e02, Taiwan, Hsinchu City, Taiwan", 
         "children": [
           "woe:town=2306185", 
           "woe:landfeature=28805415", 
@@ -75,7 +62,20 @@
           "woe:drainage=28802987", 
           "woe:drainage=28802984"
         ], 
-        "date_indexed": "2010-12-02T16:15:11Z"
+        "placetype": "state", 
+        "iso": "TW", 
+        "date_indexed": "2010-12-02T16:15:11Z", 
+        "adjacent": [
+          "woe:state=2347334", 
+          "woe:state=2347338"
+        ], 
+        "ne_latitude": 24.854, 
+        "latitude": 24.791, 
+        "sw_longitude": 120.878, 
+        "fullname": "\u65b0\u7af9\u5e02, Taiwan, Hsinchu City, Taiwan", 
+        "provider": "geoplanet 7.6.0", 
+        "sw_latitude": 24.713, 
+        "woe:id": 28751582
       }, 
       "id": 28751582
     }

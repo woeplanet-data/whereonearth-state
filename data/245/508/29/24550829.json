@@ -31,6 +31,31 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_ENG_P": [
+          "Centar Zupa Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550829", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 41.544, 
+        "ne_longitude": 20.675, 
+        "placetype": "state", 
+        "children": [
+          "woe:town=482092"
+        ], 
+        "sw_longitude": 20.516, 
+        "adjacent": [
+          "woe:state=24550837", 
+          "woe:state=24550764", 
+          "woe:state=24550858", 
+          "woe:state=24550846"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.468, 
+        "woe:id": 24550829, 
+        "sw_latitude": 41.404, 
         "lang": "UNK", 
         "adjacent_woeid": [
           24550764, 
@@ -39,41 +64,16 @@
           24550858
         ], 
         "name": "Centar \u017dupa", 
-        "alias_ENG_P": [
-          "Centar Zupa Municipality"
-        ], 
         "alias_UNK_S": [
           "Opstina Centar Zupa"
-        ], 
-        "woeid": 24550829, 
-        "children": [
-          "woe:town=482092"
         ], 
         "alias_UNK_V": [
           "Opstina Centar \u017dupa"
         ], 
         "longitude": 20.575, 
-        "ne_longitude": 20.675, 
-        "placetype": "state", 
-        "hierarchy": [
-          "woe:state=24550829", 
-          "woe:country=23424890", 
-          "woe:planet=1"
-        ], 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
-        "adjacent": [
-          "woe:state=24550837", 
-          "woe:state=24550764", 
-          "woe:state=24550858", 
-          "woe:state=24550846"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_latitude": 41.544, 
-        "sw_longitude": 20.516, 
-        "latitude": 41.468, 
-        "fullname": "Centar \u017dupa, Centar Zupa Municipality, Macedonia", 
-        "sw_latitude": 41.404
+        "fullname": "Centar \u017dupa, Centar Zupa Municipality, Macedonia"
       }, 
       "id": 24550829
     }

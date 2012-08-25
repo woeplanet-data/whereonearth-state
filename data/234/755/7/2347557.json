@@ -47,24 +47,6 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 48.143, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_UNK_V": [
-          "Zaporizhzhia"
-        ], 
-        "longitude": 35.69, 
-        "ne_longitude": 37.245, 
-        "placetype": "state", 
-        "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "adjacent": [
-          "woe:state=2347537", 
-          "woe:state=2347538", 
-          "woe:state=2347541"
-        ], 
-        "woeid": 2347557, 
-        "latitude": 47.111, 
-        "sw_longitude": 34.136, 
-        "fullname": "Zaporiz\u00b4ka Oblast\u00b4, Zaporizhia Oblast, Ukraine", 
         "children": [
           "woe:town=915478", 
           "woe:town=915625", 
@@ -258,7 +240,25 @@
           "woe:town=940011", 
           "woe:town=940414"
         ], 
-        "sw_latitude": 46.079
+        "alias_UNK_V": [
+          "Zaporizhzhia"
+        ], 
+        "longitude": 35.69, 
+        "ne_longitude": 37.245, 
+        "placetype": "state", 
+        "iso": "UA", 
+        "sw_latitude": 46.079, 
+        "adjacent": [
+          "woe:state=2347537", 
+          "woe:state=2347538", 
+          "woe:state=2347541"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.111, 
+        "sw_longitude": 34.136, 
+        "fullname": "Zaporiz\u00b4ka Oblast\u00b4, Zaporizhia Oblast, Ukraine", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "woe:id": 2347557
       }, 
       "id": 2347557
     }

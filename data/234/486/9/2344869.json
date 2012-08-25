@@ -1509,7 +1509,7 @@
         "alias_POR_V": [
           "Estado Sergipe"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1820", 
         "alias_ENG_A": [
           "SE"
         ], 
@@ -1592,7 +1592,7 @@
           "woe:county=12582456", 
           "woe:county=12582457"
         ], 
-        "ne:OBJECTID": 629, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -38.24484351211834, 
@@ -1607,9 +1607,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -11.568905938558146, 
-        "ne:VertexCou": 370.0, 
-        "ne:VALIDFR_1": "1820", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 629, 
         "ne:Postal": "SE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1625,13 +1625,13 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 21608.2, 
         "woe:id": "2344869", 
-        "ne:HASC_1": "BR.SE", 
-        "lang": "POR", 
+        "name": "Sergipe", 
+        "ne:VertexCou": 370.0, 
         "adjacent_woeid": [
           2344845, 
           2344848
         ], 
-        "name": "Sergipe", 
+        "ne:HASC_1": "BR.SE", 
         "ne:REMARKS_1": null, 
         "ne_longitude": -36.405498419916114, 
         "longitude": -37.323, 

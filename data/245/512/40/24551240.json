@@ -32,20 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 26.558, 
         "name": "Hope Town", 
         "hierarchy": [
           "woe:state=24551240", 
           "woe:country=23424758", 
           "woe:planet=1"
         ], 
-        "woeid": 24551240, 
+        "ne_latitude": 26.558, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.946, 
         "longitude": -76.982, 
         "placetype": "state", 
         "iso": "BS", 
-        "sw_latitude": 26.436, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
         "latitude": 26.497, 
         "sw_longitude": -77.002, 
         "fullname": "Hope Town, The Bahamas", 
@@ -53,7 +52,8 @@
           "woe:town=56963", 
           "woe:island=12481498"
         ], 
-        "date_indexed": "2010-12-02T07:50:25Z"
+        "sw_latitude": 26.436, 
+        "woe:id": 24551240
       }, 
       "id": 24551240
     }

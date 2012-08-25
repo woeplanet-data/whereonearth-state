@@ -126,13 +126,13 @@
         "ne:Shape_Area": 0.00230551345817, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "MKD", 
         "children": [
           "woe:town=482241"
         ], 
-        "ne:DataRank": 8, 
+        "ne:OBJECTID": 2937, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 21.432211541629385, 
@@ -150,9 +150,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Statistical Region", 
         "sw_latitude": 41.918681952310294, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 2937, 
+        "ne:VertexCou": 24.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 8, 
         "ne:Postal": "AD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -168,8 +168,8 @@
         "ne:LabelRank": 10, 
         "ne:Area_sqkm": 21.2, 
         "woe:id": "55848400", 
-        "name": "Aerodrom", 
-        "ne:VertexCou": 24.0, 
+        "ne:HASC_1": "MK.AD", 
+        "lang": "UNK", 
         "adjacent_woeid": [
           24550766, 
           24550769, 
@@ -177,7 +177,7 @@
           24550820, 
           24550866
         ], 
-        "ne:HASC_1": "MK.AD", 
+        "name": "Aerodrom", 
         "ne:REMARKS_1": null, 
         "alias_UNK_V": [
           "Opstina Aerodrom"

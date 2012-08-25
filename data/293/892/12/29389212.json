@@ -31,47 +31,14 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "adjacent_woeid": [
-          29389196, 
-          29389197, 
-          29389203, 
-          29389204, 
-          29389205
-        ], 
-        "name": "Juzhna Bachka", 
-        "ne_latitude": 45.777, 
-        "alias_UNK_S": [
-          "Juzno-Backi Okrug"
-        ], 
-        "woeid": 29389212, 
-        "alias_UNK_Q": [
-          "Ju\u017eno-Backi Okrug"
-        ], 
-        "alias_UNK_V": [
-          "South Backa"
-        ], 
-        "longitude": 19.643, 
-        "ne_longitude": 20.316, 
-        "placetype": "state", 
         "hierarchy": [
           "woe:state=29389212", 
           "woe:country=20069818", 
           "woe:planet=1"
         ], 
-        "iso": "RS", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
-        "adjacent": [
-          "woe:state=29389196", 
-          "woe:state=29389203", 
-          "woe:state=29389197", 
-          "woe:state=29389205", 
-          "woe:state=29389204"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 45.465, 
-        "sw_longitude": 18.968, 
-        "fullname": "Juzhna Bachka, Serbia", 
+        "ne_latitude": 45.777, 
+        "ne_longitude": 20.316, 
+        "placetype": "state", 
         "children": [
           "woe:county=56072680", 
           "woe:county=56072679", 
@@ -128,7 +95,40 @@
           "woe:town=533275", 
           "woe:town=537648"
         ], 
-        "sw_latitude": 45.153
+        "sw_longitude": 18.968, 
+        "adjacent": [
+          "woe:state=29389196", 
+          "woe:state=29389203", 
+          "woe:state=29389197", 
+          "woe:state=29389205", 
+          "woe:state=29389204"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.465, 
+        "woe:id": 29389212, 
+        "sw_latitude": 45.153, 
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          29389196, 
+          29389197, 
+          29389203, 
+          29389204, 
+          29389205
+        ], 
+        "name": "Juzhna Bachka", 
+        "alias_UNK_S": [
+          "Juzno-Backi Okrug"
+        ], 
+        "alias_UNK_Q": [
+          "Ju\u017eno-Backi Okrug"
+        ], 
+        "alias_UNK_V": [
+          "South Backa"
+        ], 
+        "longitude": 19.643, 
+        "iso": "RS", 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "fullname": "Juzhna Bachka, Serbia"
       }, 
       "id": 29389212
     }

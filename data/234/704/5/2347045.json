@@ -978,7 +978,7 @@
         "ne:Shape_Area": 0.437978478958, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1714", 
         "alias_POR_Q": [
           "Blekinge"
         ], 
@@ -999,19 +999,21 @@
           "woe:landfeature=29369245", 
           "woe:drainage=29365051"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Blekinge"
+        ], 
         "alias_ITA_Q": [
           "Blekinge"
         ], 
-        "ne:Area_sqkm": 3019.6, 
-        "ne:OBJECTID": 262, 
+        "alias_DAN_Q": [
+          "Blekinge"
+        ], 
+        "ne:DataRank": 7, 
         "alias_ENG_P": [
           "Blekinge"
         ], 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Blekinge"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Blekinge"
         ], 
@@ -1030,9 +1032,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T16:43:54Z", 
-        "ne:VertexCou": 234.0, 
-        "ne:VALIDFR_1": "1714", 
-        "ne:DataRank": 7, 
+        "lang": "SWE", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 262, 
         "ne:Postal": "BL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Blekinge l\u00e4n", 
@@ -1048,22 +1050,20 @@
         "ne:Region_C_1": null, 
         "ne:sameAsCity": -99, 
         "ne:LabelRank": 7, 
-        "alias_DAN_Q": [
-          "Blekinge"
-        ], 
+        "ne:Area_sqkm": 3019.6, 
         "alias_GER_Q": [
           "Blekinge"
         ], 
         "woe:id": "2347045", 
-        "ne:HASC_1": "SE.BL", 
-        "lang": "SWE", 
+        "name": "Blekinge L\u00e4n", 
+        "ne:VertexCou": 234.0, 
         "adjacent_woeid": [
           2347052, 
           2347055, 
           20070561
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Blekinge L\u00e4n", 
+        "ne:HASC_1": "SE.BL", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne:TYPE_1": "Laen|l\u00e4n", 

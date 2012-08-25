@@ -41,18 +41,17 @@
           56190213
         ], 
         "name": "Apac", 
-        "ne_latitude": 2.597, 
         "hierarchy": [
           "woe:state=20070411", 
           "woe:country=23424974", 
           "woe:planet=1"
         ], 
-        "woeid": 20070411, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.961, 
         "longitude": 32.531, 
         "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
+        "sw_latitude": 1.652, 
         "adjacent": [
           "woe:state=56190195", 
           "woe:state=56190203", 
@@ -61,7 +60,7 @@
           "woe:state=20070452", 
           "woe:state=56190213"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 2.597, 
         "latitude": 2.125, 
         "sw_longitude": 32.101, 
         "fullname": "Apac, Uganda", 
@@ -70,7 +69,8 @@
           "woe:county=56190219", 
           "woe:county=56190221"
         ], 
-        "sw_latitude": 1.652
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "woe:id": 20070411
       }, 
       "id": 20070411
     }

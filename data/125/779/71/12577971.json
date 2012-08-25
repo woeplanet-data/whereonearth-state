@@ -48,13 +48,12 @@
           "woe:country=26812346", 
           "woe:planet=1"
         ], 
-        "woeid": 12577971, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 33.599, 
         "longitude": 33.076, 
-        "ne_latitude": 35.286, 
         "placetype": "state", 
         "iso": "CY", 
-        "date_indexed": "2010-12-02T09:35:19Z", 
+        "sw_latitude": 34.883, 
         "adjacent": [
           "woe:state=12577963", 
           "woe:state=12577969", 
@@ -62,7 +61,7 @@
           "woe:state=12577965", 
           "woe:state=12577966"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.286, 
         "latitude": 35.084, 
         "sw_longitude": 32.553, 
         "fullname": "Nicosia District, Cyprus", 
@@ -237,7 +236,8 @@
           "woe:town=841362", 
           "woe:zone=24875524"
         ], 
-        "sw_latitude": 34.883
+        "date_indexed": "2010-12-02T09:35:19Z", 
+        "woe:id": 12577971
       }, 
       "id": 12577971
     }

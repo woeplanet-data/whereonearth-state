@@ -32,20 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "DUT", 
-        "ne_latitude": 12.386, 
         "name": "Curacao", 
         "hierarchy": [
           "woe:state=24549810", 
           "woe:country=23424914", 
           "woe:planet=1"
         ], 
-        "woeid": 24549810, 
+        "ne_latitude": 12.386, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -68.639, 
         "longitude": -69.039, 
         "placetype": "state", 
         "iso": "AN", 
-        "sw_latitude": 11.973, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:42:51Z", 
         "latitude": 12.209, 
         "sw_longitude": -69.157, 
         "fullname": "Curacao, Netherlands Antilles", 
@@ -73,7 +72,8 @@
           "woe:town=152045", 
           "woe:island=12484677"
         ], 
-        "date_indexed": "2010-12-02T16:42:51Z"
+        "sw_latitude": 11.973, 
+        "woe:id": 24549810
       }, 
       "id": 24549810
     }

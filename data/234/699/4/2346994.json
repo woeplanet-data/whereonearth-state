@@ -41,18 +41,17 @@
           56055612
         ], 
         "name": "Fatick", 
-        "ne_latitude": 14.87, 
         "hierarchy": [
           "woe:state=2346994", 
           "woe:country=23424943", 
           "woe:planet=1"
         ], 
-        "woeid": 2346994, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -15.425, 
         "longitude": -16.11, 
         "placetype": "state", 
         "iso": "SN", 
-        "date_indexed": "2010-12-02T08:57:18Z", 
+        "sw_latitude": 13.587, 
         "adjacent": [
           "woe:state=2346989", 
           "woe:state=56055612", 
@@ -61,7 +60,7 @@
           "woe:state=2345448", 
           "woe:state=2346992"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.87, 
         "latitude": 14.228, 
         "sw_longitude": -16.796, 
         "fullname": "Fatick, Senegal", 
@@ -70,7 +69,8 @@
           "woe:county=56055811", 
           "woe:county=56055812"
         ], 
-        "sw_latitude": 13.587
+        "date_indexed": "2010-12-02T08:57:18Z", 
+        "woe:id": 2346994
       }, 
       "id": 2346994
     }

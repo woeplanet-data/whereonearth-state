@@ -1315,7 +1315,7 @@
         "ne:Shape_Area": 12.7562059199, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "17760704", 
         "alias_POR_Q": [
           "Pensilv\u00e2nia"
         ], 
@@ -1425,7 +1425,7 @@
           "\u5bbe\u5915\u6cd5\u5c3c\u4e9a"
         ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:OBJECTID": 3560, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30da\u30f3\u30b7\u30eb\u30d0\u30cb\u30a2"
         ], 
@@ -1452,9 +1452,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "ne:VertexCou": 319.0, 
-        "ne:VALIDFR_1": "17760704", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3560, 
         "ne:Postal": "PA", 
         "ne:Region_Cod": "Northeast", 
         "ne:VARNAME_1": "Commonwealth of Pennsylvania|PA", 
@@ -1472,8 +1472,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 119322.5, 
         "woe:id": "2347597", 
-        "ne:HASC_1": "US.PA", 
-        "lang": "ENG", 
+        "name": "Pennsylvania", 
+        "ne:VertexCou": 319.0, 
         "adjacent_woeid": [
           2347566, 
           2347579, 
@@ -1482,7 +1482,7 @@
           2347594, 
           2347607
         ], 
-        "name": "Pennsylvania", 
+        "ne:HASC_1": "US.PA", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "ne:TYPE_1": "State", 

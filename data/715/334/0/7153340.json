@@ -1319,10 +1319,11 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 42.078103746191005, 
+        "ne:DataRank": 3, 
         "ne:Shape_Area": 0.489440349997, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
         "children": [
@@ -1330,7 +1331,6 @@
           "woe:county=12591849", 
           "woe:zone=24874054"
         ], 
-        "ne:OBJECTID": 821, 
         "alias_ITA_V": [
           "Molise Regione"
         ], 
@@ -1353,9 +1353,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "ne:VertexCou": 324.0, 
-        "ne:VALIDFR_1": "1895", 
-        "ne:DataRank": 3, 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 821, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Molisa", 
@@ -1371,15 +1371,15 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 4525.8, 
         "woe:id": "7153340", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Molise", 
+        "ne:VertexCou": 324.0, 
         "adjacent_woeid": [
           7153333, 
           7153336, 
           7153342, 
           7153350
         ], 
-        "name": "Molise", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITF", 
         "ne_longitude": 15.158796013924928, 
         "longitude": 14.551, 

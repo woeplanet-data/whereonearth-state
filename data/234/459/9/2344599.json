@@ -42,18 +42,17 @@
           2344609
         ], 
         "name": "M'sila", 
-        "ne_latitude": 35.936, 
         "hierarchy": [
           "woe:state=2344599", 
           "woe:country=23424740", 
           "woe:planet=1"
         ], 
-        "woeid": 2344599, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 5.453, 
         "longitude": 4.385, 
         "placetype": "state", 
         "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
+        "sw_latitude": 34.223, 
         "adjacent": [
           "woe:state=2344580", 
           "woe:state=2344591", 
@@ -63,7 +62,7 @@
           "woe:state=2344582", 
           "woe:state=2344586"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.936, 
         "latitude": 35.08, 
         "sw_longitude": 3.317, 
         "fullname": "M'sila, Algeria", 
@@ -109,7 +108,8 @@
           "woe:town=1257444", 
           "woe:town=1257668"
         ], 
-        "sw_latitude": 34.223
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "woe:id": 2344599
       }, 
       "id": 2344599
     }

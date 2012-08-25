@@ -431,7 +431,7 @@
         "ne:Shape_Area": 0.0445662690778, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "DNH"
         ], 
@@ -444,8 +444,10 @@
         "alias_CHI_Q": [
           "\u8fbe\u5fb7\u62c9\u548c\u7eb3\u52a0\u5c14\u54c8\u7ef4\u5229"
         ], 
-        "ne:Area_sqkm": 515.7, 
-        "ne:OBJECTID": 2445, 
+        "alias_DAN_Q": [
+          "Dadra og Nagar Haveli"
+        ], 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30c0\u30fc\u30c9\u30e9\u30fb\u30ca\u30ac\u30eb\u30cf\u30d9\u30ea"
         ], 
@@ -465,12 +467,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Union Territory", 
         "date_indexed": "2010-12-02T08:59:14Z", 
-        "ne:VertexCou": 100.0, 
+        "lang": "ENG", 
         "alias_KOR_Q": [
           "\ub2e4\ub4dc\ub77c\ub098\uac00\ub974\ud558\ubca8\ub9ac"
         ], 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 2445, 
         "ne:Postal": "DN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "DAdra et Nagar Haveli|Dadra e Nagar Haveli", 
@@ -484,18 +486,16 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 9, 
-        "alias_DAN_Q": [
-          "Dadra og Nagar Haveli"
-        ], 
+        "ne:Area_sqkm": 515.7, 
         "woe:id": "20070457", 
-        "ne:HASC_1": "IN.DN", 
-        "lang": "ENG", 
+        "name": "Dadra and Nagar Haveli", 
+        "ne:VertexCou": 100.0, 
         "adjacent_woeid": [
           2345743, 
           2345750
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Dadra and Nagar Haveli", 
+        "ne:HASC_1": "IN.DN", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 73.17003543518723, 
         "longitude": 73.163, 

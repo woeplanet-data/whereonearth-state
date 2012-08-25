@@ -42,13 +42,12 @@
           2345103
         ], 
         "name": "Est", 
-        "ne_latitude": 6.117, 
         "hierarchy": [
           "woe:state=2345033", 
           "woe:country=23424785", 
           "woe:planet=1"
         ], 
-        "woeid": 2345033, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 16.192, 
         "longitude": 14.324, 
         "alias_FRE_A": [
@@ -56,7 +55,7 @@
         ], 
         "placetype": "state", 
         "iso": "CM", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
+        "sw_latitude": 1.653, 
         "adjacent": [
           "woe:state=2345038", 
           "woe:state=2345039", 
@@ -66,7 +65,7 @@
           "woe:state=2345103", 
           "woe:state=2345042"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 6.117, 
         "latitude": 3.885, 
         "sw_longitude": 12.457, 
         "fullname": "Est, Cameroon", 
@@ -125,7 +124,8 @@
           "woe:town=1305910", 
           "woe:town=1306002"
         ], 
-        "sw_latitude": 1.653
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "woe:id": 2345033
       }, 
       "id": 2345033
     }

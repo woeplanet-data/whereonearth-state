@@ -37,23 +37,22 @@
           2345067
         ], 
         "name": "Narino", 
-        "ne_latitude": 3.004, 
         "hierarchy": [
           "woe:state=2345065", 
           "woe:country=23424787", 
           "woe:planet=1"
         ], 
-        "woeid": 2345065, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.838, 
         "longitude": -77.943, 
         "placetype": "state", 
         "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
+        "sw_latitude": 0.352, 
         "adjacent": [
           "woe:state=2345055", 
           "woe:state=2345067"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 3.004, 
         "latitude": 1.522, 
         "sw_longitude": -79.047, 
         "fullname": "Narino, Colombia", 
@@ -123,7 +122,8 @@
           "woe:county=26797336", 
           "woe:county=26797337"
         ], 
-        "sw_latitude": 0.352
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "woe:id": 2345065
       }, 
       "id": 2345065
     }

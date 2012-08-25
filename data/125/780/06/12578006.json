@@ -9387,7 +9387,7 @@
         "ne:Shape_Area": 21.0333204318, 
         "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uad11\uc2dc"
         ], 
@@ -9411,7 +9411,7 @@
           "woe:county=26198180", 
           "woe:island=12467819"
         ], 
-        "ne:OBJECTID": 1152, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u5ee3\u897f\u7701"
         ], 
@@ -9441,9 +9441,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Region", 
         "sw_latitude": 21.02119782142239, 
-        "ne:VertexCou": 2336.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1152, 
         "ne:Postal": "GX", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Guangxi Zhu\u00e0ngz\u00fa", 
@@ -9459,8 +9459,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 237299.8, 
         "woe:id": "12578006", 
-        "ne:HASC_1": "CN.GX", 
-        "lang": "CHI", 
+        "name": "\u5e7f\u897f\u7701", 
+        "ne:VertexCou": 2336.0, 
         "adjacent_woeid": [
           2347704, 
           2347712, 
@@ -9471,7 +9471,7 @@
           12578018, 
           12578019
         ], 
-        "name": "\u5e7f\u897f\u7701", 
+        "ne:HASC_1": "CN.GX", 
         "ne:REMARKS_1": null, 
         "ne_longitude": 112.05257164926229, 
         "longitude": 108.267, 

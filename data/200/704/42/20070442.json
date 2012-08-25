@@ -39,25 +39,24 @@
           56190210
         ], 
         "name": "Rakai", 
-        "ne_latitude": -0.034, 
         "hierarchy": [
           "woe:state=20070442", 
           "woe:country=23424974", 
           "woe:planet=1"
         ], 
-        "woeid": 20070442, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.0, 
         "longitude": 31.596, 
         "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
+        "sw_latitude": -0.995, 
         "adjacent": [
           "woe:state=56190210", 
           "woe:state=56190205", 
           "woe:state=56190207", 
           "woe:state=20070451"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -0.034, 
         "latitude": -0.515, 
         "sw_longitude": 31.074, 
         "fullname": "Rakai, Uganda", 
@@ -66,7 +65,8 @@
           "woe:county=56190350", 
           "woe:county=56190351"
         ], 
-        "sw_latitude": -0.995
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "woe:id": 20070442
       }, 
       "id": 20070442
     }

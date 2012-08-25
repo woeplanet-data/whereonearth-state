@@ -42,18 +42,17 @@
           2347033
         ], 
         "name": "Castries", 
-        "ne_latitude": 14.038, 
         "hierarchy": [
           "woe:state=2347025", 
           "woe:country=23424951", 
           "woe:planet=1"
         ], 
-        "woeid": 2347025, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -60.936, 
         "longitude": -60.984, 
         "placetype": "state", 
         "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
+        "sw_latitude": 13.865, 
         "adjacent": [
           "woe:state=2347023", 
           "woe:state=2347024", 
@@ -63,7 +62,7 @@
           "woe:state=2347033", 
           "woe:state=2347031"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.038, 
         "latitude": 13.951, 
         "sw_longitude": -61.032, 
         "fullname": "Castries, St. Lucia", 
@@ -77,7 +76,8 @@
           "woe:town=162119", 
           "woe:town=162142"
         ], 
-        "sw_latitude": 13.865
+        "date_indexed": "2010-12-02T18:18:47Z", 
+        "woe:id": 2347025
       }, 
       "id": 2347025
     }

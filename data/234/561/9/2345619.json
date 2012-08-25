@@ -40,13 +40,12 @@
           2345618
         ], 
         "name": "Nord-Est", 
-        "ne_latitude": 19.739, 
         "hierarchy": [
           "woe:state=2345619", 
           "woe:country=23424839", 
           "woe:planet=1"
         ], 
-        "woeid": 2345619, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -71.613, 
         "longitude": -71.863, 
         "alias_FRE_A": [
@@ -54,7 +53,7 @@
         ], 
         "placetype": "state", 
         "iso": "HT", 
-        "date_indexed": "2010-12-02T17:52:09Z", 
+        "sw_latitude": 19.116, 
         "adjacent": [
           "woe:state=2345616", 
           "woe:state=2345175", 
@@ -62,7 +61,7 @@
           "woe:state=2345184", 
           "woe:state=2345618"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.739, 
         "latitude": 19.428, 
         "sw_longitude": -72.113, 
         "fullname": "Nord-Est, Haiti", 
@@ -88,7 +87,8 @@
           "woe:island=12484183", 
           "woe:island=12484191"
         ], 
-        "sw_latitude": 19.116
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "woe:id": 2345619
       }, 
       "id": 2345619
     }
