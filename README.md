@@ -89,3 +89,5 @@ See also
 * [Natural Earth 1:10m Cultural Vectors](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 
 * [Geonames](http://www.geonames.org/)
+
+* [Show Me the GeoJSON](http://straup.github.com/showme-the-geojson/)
