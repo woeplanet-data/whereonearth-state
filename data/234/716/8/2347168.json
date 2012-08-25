@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347168, 
-        "name": "Nakhon Nayok", 
         "adjacent_woeid": [
           2347152, 
           2347162, 
@@ -41,23 +39,42 @@
           2347169, 
           20069926
         ], 
-        "ne_latitude": 14.513, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nakhon Nayok", 
         "alias_ENG_V": [
           "Changwat Nakhon Nayok"
         ], 
+        "hierarchy": [
+          "woe:state=2347168", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347168, 
         "ne_longitude": 101.505, 
         "longitude": 101.209, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 14.238, 
+        "iso": "TH", 
+        "sw_latitude": 13.963, 
+        "adjacent": [
+          "woe:state=2347169", 
+          "woe:state=2347152", 
+          "woe:state=2347164", 
+          "woe:state=20069926", 
+          "woe:state=2347162"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.513, 
         "sw_longitude": 100.914, 
         "fullname": "Nakhon Nayok, Thailand", 
-        "sw_latitude": 13.963
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347168
     }
+  ], 
+  "bbox": [
+    100.914, 
+    13.963, 
+    101.505, 
+    14.513
   ]
 }

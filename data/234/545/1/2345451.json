@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2345451, 
-        "name": "Moyen-Ogooue", 
         "adjacent_woeid": [
           2345449, 
           2345452, 
@@ -42,23 +40,43 @@
           2345456, 
           2345457
         ], 
-        "ne_latitude": 0.266, 
+        "name": "Moyen-Ogooue", 
+        "hierarchy": [
+          "woe:state=2345451", 
+          "woe:country=23424822", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345451, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 11.582, 
         "longitude": 10.574, 
-        "parent_woeid": 23424822, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -0.49, 
+        "iso": "GA", 
+        "sw_latitude": -1.247, 
+        "adjacent": [
+          "woe:state=2345449", 
+          "woe:state=2345452", 
+          "woe:state=2345454", 
+          "woe:state=2345455", 
+          "woe:state=2345456", 
+          "woe:state=2345457"
+        ], 
+        "ne_latitude": 0.266, 
         "alias_FRE_V": [
           "Moyen-Ogoou\u00e9"
         ], 
-        "iso": "GA", 
-        "date_indexed": "2010-12-02T08:50:01Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": -0.490, 
         "sw_longitude": 9.566, 
         "fullname": "Moyen-Ogooue, Gabon", 
-        "sw_latitude": -1.247
+        "date_indexed": "2010-12-02T08:50:01Z"
       }, 
       "id": 2345451
     }
+  ], 
+  "bbox": [
+    9.566, 
+    -1.247, 
+    11.582, 
+    0.266
   ]
 }

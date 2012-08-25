@@ -14,15 +14,27 @@
           56120061
         ], 
         "name": "Souss-Massa-Dra\u00e2", 
-        "parent_woeid": 23424893, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56120060", 
+          "woe:country=23424893", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "MA", 
+        "date_indexed": "2010-12-02T18:19:13Z", 
+        "adjacent": [
+          "woe:state=2344608", 
+          "woe:state=56120055", 
+          "woe:state=56120056", 
+          "woe:state=56120057", 
+          "woe:state=56120061", 
+          "woe:state=2344624"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "woeid": 56120060, 
         "alias_ARA_S": [
           "Souss-Massa-Draa"
-        ], 
-        "woeid": 56120060, 
-        "date_indexed": "2010-12-02T18:19:13Z"
+        ]
       }, 
       "id": 56120060
     }

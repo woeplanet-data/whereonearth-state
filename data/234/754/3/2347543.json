@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347543, 
-        "alias_UNK_V": [
-          "Kirovohradshchyna"
-        ], 
-        "name": "Kirovohrads\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Kirovohrad Oblast"
-        ], 
-        "ne_latitude": 49.245, 
-        "ne_longitude": 33.893, 
-        "longitude": 31.821, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2347534, 
           2347537, 
@@ -53,15 +40,46 @@
           2347550, 
           2347554
         ], 
+        "ne_latitude": 49.245, 
+        "name": "Kirovohrads\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Kirovohrad Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347543", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347543, 
+        "alias_UNK_V": [
+          "Kirovohradshchyna"
+        ], 
+        "longitude": 31.821, 
+        "ne_longitude": 33.893, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 47.748, 
+        "adjacent": [
+          "woe:state=2347534", 
+          "woe:state=2347537", 
+          "woe:state=2347548", 
+          "woe:state=2347549", 
+          "woe:state=2347550", 
+          "woe:state=2347554"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.496, 
         "sw_longitude": 29.749, 
         "fullname": "Kirovohrads\u00b4ka Oblast\u00b4, Kirovohrad Oblast, Ukraine", 
-        "sw_latitude": 47.748
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347543
     }
+  ], 
+  "bbox": [
+    29.749, 
+    47.748, 
+    33.893, 
+    49.245
   ]
 }

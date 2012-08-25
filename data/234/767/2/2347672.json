@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347672, 
-        "name": "Saint Andrew", 
         "adjacent_woeid": [
           2347671, 
           2347674, 
           2347675
         ], 
-        "ne_latitude": 13.231, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint Andrew", 
         "alias_ENG_V": [
           "St. Andrew"
         ], 
+        "hierarchy": [
+          "woe:state=2347672", 
+          "woe:country=23424981", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347672, 
         "ne_longitude": -61.201, 
-        "longitude": -61.240, 
-        "placetype": "State", 
-        "iso": "VC", 
-        "date_indexed": "2010-12-02T09:57:17Z", 
-        "parent_woeid": 23424981, 
+        "longitude": -61.24, 
+        "placetype": "state", 
         "latitude": 13.192, 
+        "iso": "VC", 
+        "sw_latitude": 13.153, 
+        "adjacent": [
+          "woe:state=2347671", 
+          "woe:state=2347674", 
+          "woe:state=2347675"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.231, 
         "sw_longitude": -61.279, 
         "fullname": "Saint Andrew, Saint Vincent and the Grenadines", 
-        "sw_latitude": 13.153
+        "date_indexed": "2010-12-02T09:57:17Z"
       }, 
       "id": 2347672
     }
+  ], 
+  "bbox": [
+    -61.279, 
+    13.153, 
+    -61.201, 
+    13.231
   ]
 }

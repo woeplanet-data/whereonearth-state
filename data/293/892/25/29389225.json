@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              20.420, 
+              20.42, 
               43.827
             ], 
             [
-              20.420, 
+              20.42, 
               44.474
             ], 
             [
@@ -23,7 +23,7 @@
               43.827
             ], 
             [
-              20.420, 
+              20.42, 
               43.827
             ]
           ]
@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 29389225, 
-        "alias_UNK_V": [
-          "\u0160umadijski Okrug"
-        ], 
-        "name": "Shumadija", 
         "adjacent_woeid": [
           29389210, 
           29389211, 
@@ -45,26 +40,49 @@
           29389221, 
           29389224
         ], 
+        "name": "Shumadija", 
+        "latitude": 44.151, 
         "alias_UNK_S": [
           "Sumadija"
         ], 
-        "ne_latitude": 44.474, 
+        "woeid": 29389225, 
         "alias_UNK_Q": [
           "\u0160umadija"
         ], 
-        "ne_longitude": 21.168, 
+        "alias_UNK_V": [
+          "\u0160umadijski Okrug"
+        ], 
         "longitude": 20.794, 
-        "parent_woeid": 20069818, 
-        "placetype": "State", 
+        "ne_longitude": 21.168, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=29389225", 
+          "woe:country=20069818", 
+          "woe:planet=1"
+        ], 
         "iso": "RS", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
+        "sw_latitude": 43.827, 
+        "adjacent": [
+          "woe:state=29389217", 
+          "woe:state=29389220", 
+          "woe:state=29389210", 
+          "woe:state=29389211", 
+          "woe:state=29389221", 
+          "woe:state=29389224"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 44.151, 
-        "sw_longitude": 20.420, 
+        "ne_latitude": 44.474, 
+        "sw_longitude": 20.42, 
         "fullname": "Shumadija, Serbia", 
-        "sw_latitude": 43.827
+        "date_indexed": "2010-12-02T10:22:30Z"
       }, 
       "id": 29389225
     }
+  ], 
+  "bbox": [
+    20.42, 
+    43.827, 
+    21.168, 
+    44.474
   ]
 }

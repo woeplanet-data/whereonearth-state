@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070267, 
-        "name": "Qazax", 
         "adjacent_woeid": [
           20070202, 
           20070266, 
           20070357
         ], 
-        "ne_latitude": 41.333, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Qazax", 
+        "hierarchy": [
+          "woe:state=20070267", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070267, 
         "ne_longitude": 45.437, 
-        "longitude": 45.220, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "longitude": 45.22, 
+        "placetype": "state", 
         "latitude": 41.174, 
+        "iso": "AZ", 
+        "sw_latitude": 40.964, 
+        "adjacent": [
+          "woe:state=20070266", 
+          "woe:state=20070357", 
+          "woe:state=20070202"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.333, 
         "sw_longitude": 45.004, 
         "fullname": "Qazax, Azerbaijan", 
-        "sw_latitude": 40.964
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070267
     }
+  ], 
+  "bbox": [
+    45.004, 
+    40.964, 
+    45.437, 
+    41.333
   ]
 }

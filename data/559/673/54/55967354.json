@@ -869,9 +869,14 @@
       "properties": {
         "ne:ProvNumber": 2001, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=55967354", 
+          "woe:country=23424978", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 11.918084214914643, 
         "ne:Shape_Area": 0.583530690576, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
@@ -880,6 +885,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 0.374763014501582, 
+        "adjacent": [
+          "woe:state=2344824", 
+          "woe:state=2347617", 
+          "woe:state=55967355", 
+          "woe:state=56048434", 
+          "woe:state=2347637"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 11.443, 
         "ne:FIPS_1": "UV22", 
@@ -916,7 +928,6 @@
         ], 
         "name": "Kompienga", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424978, 
         "ne_longitude": 1.422993605270733, 
         "longitude": 0.947, 
         "iso": "BF", 

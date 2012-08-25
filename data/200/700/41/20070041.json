@@ -707,11 +707,16 @@
       "properties": {
         "ne:ProvNumber": 2, 
         "ne:ScaleRank": 6, 
+        "hierarchy": [
+          "woe:state=20070041", 
+          "woe:country=23425002", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 13.911993516387724, 
         "ne:Shape_Area": 0.867377326052, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "19980729", 
         "alias_KOR_Q": [
           "\ud0c0\uc774\uc988"
         ], 
@@ -720,7 +725,7 @@
         "alias_CHI_Q": [
           "\u5854\u4f0a\u5179"
         ], 
-        "ne:OBJECTID": 158, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30bf\u30a4\u30ba"
         ], 
@@ -728,6 +733,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 43.22654015470442, 
+        "adjacent": [
+          "woe:state=56189857", 
+          "woe:state=20070047", 
+          "woe:state=20070042", 
+          "woe:state=20070040"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 13.358, 
         "ne:FIPS_1": "YM25", 
@@ -735,38 +746,37 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Governorate", 
         "sw_latitude": 12.63225250894618, 
-        "ne:VertexCou": 170.0, 
-        "ne:VALIDFR_1": "19980729", 
-        "ne:DataRank": 6, 
+        "lang": "ARA", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 158, 
         "ne:Postal": "TA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Taez|Taiz|Taizz", 
         "ne:ISO": "YEM", 
-        "ne:TYPE_1": "Muhafazah", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 4.80504169645, 
         "ne:CheckMe": 10, 
         "ne:NAME_0": "Yemen", 
         "ne:NAME_1": "Ta`izz", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Muhafazah", 
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 10392.9, 
         "alias_GER_Q": [
           "Taizz"
         ], 
         "woe:id": "20070041", 
-        "ne:HASC_1": "YE.TA", 
-        "lang": "ARA", 
+        "name": "Ta`izz", 
+        "ne:VertexCou": 170.0, 
         "adjacent_woeid": [
           20070040, 
           20070042, 
           20070047, 
           56189857
         ], 
-        "name": "Ta`izz", 
+        "ne:HASC_1": "YE.TA", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23425002, 
         "ne_longitude": 44.533230421946485, 
         "longitude": 43.879, 
         "iso": "YE", 

@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550820, 
-        "alias_UNK_V": [
-          "Opstina Zelenikovo"
-        ], 
-        "name": "Zelenikovo", 
-        "alias_ENG_P": [
-          "Zelenikovo Municipality"
-        ], 
-        "ne_latitude": 41.925, 
-        "ne_longitude": 21.691, 
-        "longitude": 21.586, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550796, 
           24550809, 
@@ -52,15 +39,45 @@
           24550866, 
           55848400
         ], 
+        "name": "Zelenikovo", 
+        "alias_ENG_P": [
+          "Zelenikovo Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550820", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550820, 
+        "alias_UNK_V": [
+          "Opstina Zelenikovo"
+        ], 
+        "longitude": 21.586, 
+        "ne_longitude": 21.691, 
+        "placetype": "state", 
+        "latitude": 41.839, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=55848400", 
+          "woe:state=24550866", 
+          "woe:state=24550796", 
+          "woe:state=24550809", 
+          "woe:state=24550815"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.839, 
+        "ne_latitude": 41.925, 
         "sw_longitude": 21.481, 
         "fullname": "Zelenikovo, Zelenikovo Municipality, Macedonia", 
         "sw_latitude": 41.754
       }, 
       "id": 24550820
     }
+  ], 
+  "bbox": [
+    21.481, 
+    41.754, 
+    21.691, 
+    41.925
   ]
 }

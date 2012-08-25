@@ -32,9 +32,9 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2345290, 
-        "alias_UNK_V": [
-          "V\u00f5ru Maakond"
+        "adjacent_woeid": [
+          2345284, 
+          2345288
         ], 
         "name": "V\u00f5rumaa", 
         "alias_ENG_P": [
@@ -43,24 +43,38 @@
         "alias_UNK_S": [
           "Vorumaa"
         ], 
-        "ne_latitude": 57.957, 
-        "ne_longitude": 27.555, 
+        "woeid": 2345290, 
+        "alias_UNK_V": [
+          "V\u00f5ru Maakond"
+        ], 
         "longitude": 26.963, 
-        "parent_woeid": 23424805, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          2345284, 
-          2345288
+        "ne_longitude": 27.555, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=2345290", 
+          "woe:country=23424805", 
+          "woe:planet=1"
         ], 
         "iso": "EE", 
         "date_indexed": "2010-12-02T16:42:58Z", 
+        "adjacent": [
+          "woe:state=2345284", 
+          "woe:state=2345288"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 57.733, 
+        "ne_latitude": 57.957, 
         "sw_longitude": 26.371, 
+        "latitude": 57.733, 
         "fullname": "V\u00f5rumaa, Voru County, Estonia", 
         "sw_latitude": 57.509
       }, 
       "id": 2345290
     }
+  ], 
+  "bbox": [
+    26.371, 
+    57.509, 
+    27.555, 
+    57.957
   ]
 }

@@ -89,9 +89,14 @@
       "properties": {
         "ne:ProvNumber": 116, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848369", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.343373114477686, 
         "ne:Shape_Area": 0.0108124065026, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 2.0, 
@@ -100,6 +105,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 14.703991733032126, 
+        "adjacent": [
+          "woe:state=55848355", 
+          "woe:state=55848358", 
+          "woe:state=2344709", 
+          "woe:state=55848380", 
+          "woe:state=55848395", 
+          "woe:state=55848398"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.344, 
         "ne:FIPS_1": "SI30", 
@@ -137,7 +150,6 @@
         ], 
         "name": "Mozirje", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 14.877004428811404, 
         "longitude": 14.787, 
         "iso": "SI", 

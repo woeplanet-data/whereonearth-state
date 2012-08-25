@@ -31,26 +31,40 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FRE", 
-        "woeid": 2344924, 
-        "name": "Qu\u00e9bec", 
         "alias_ENG_P": [
           "Quebec"
         ], 
+        "hierarchy": [
+          "woe:state=2344924", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 62.585, 
-        "alias_JPN_Q": [
-          "\u30b1\u30d9\u30c3\u30af"
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ud018\ubca1"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -57.097, 
-        "longitude": -68.431, 
-        "alias_FRE_A": [
-          "Que."
-        ], 
-        "placetype": "State", 
         "alias_CHI_Q": [
           "\u9b41\u5317\u514b"
         ], 
+        "woeid": 2344924, 
+        "alias_JPN_Q": [
+          "\u30b1\u30d9\u30c3\u30af"
+        ], 
+        "sw_longitude": -79.765, 
+        "adjacent": [
+          "woe:state=2347578", 
+          "woe:state=2344918", 
+          "woe:state=2347588", 
+          "woe:state=2347591", 
+          "woe:state=2344919", 
+          "woe:state=2344922", 
+          "woe:state=2347604"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 53.891, 
+        "sw_latitude": 44.992, 
+        "lang": "FRE", 
         "adjacent_woeid": [
           2344918, 
           2344919, 
@@ -60,18 +74,23 @@
           2347591, 
           2347604
         ], 
+        "name": "Qu\u00e9bec", 
+        "ne_longitude": -57.097, 
+        "longitude": -68.431, 
+        "alias_FRE_A": [
+          "Que."
+        ], 
         "iso": "CA", 
         "date_indexed": "2010-12-02T10:22:50Z", 
-        "alias_KOR_Q": [
-          "\ud018\ubca1"
-        ], 
-        "parent_woeid": 23424775, 
-        "latitude": 53.891, 
-        "sw_longitude": -79.765, 
-        "fullname": "Qu\u00e9bec, Quebec, Canada", 
-        "sw_latitude": 44.992
+        "fullname": "Qu\u00e9bec, Quebec, Canada"
       }, 
       "id": 2344924
     }
+  ], 
+  "bbox": [
+    -79.765, 
+    44.992, 
+    -57.097, 
+    62.585
   ]
 }

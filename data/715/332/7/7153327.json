@@ -2543,11 +2543,16 @@
       "properties": {
         "ne:ProvNumber": 1, 
         "ne:ScaleRank": 3, 
+        "hierarchy": [
+          "woe:state=7153327", 
+          "woe:country=23424819", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.16058421498957, 
         "ne:Shape_Area": 3.0104190826, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud478\uc544\ud22c\uc0e4\ub791\ud2b8"
         ], 
@@ -2556,13 +2561,19 @@
         "alias_CHI_Q": [
           "\u666e\u74e6\u56fe-\u590f\u6717\u5fb7"
         ], 
-        "ne:OBJECTID": 2663, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30dd\u30ef\u30c8\u30a5\u30fc\u30fb\u30b7\u30e3\u30e9\u30f3\u30c8\u5730\u57df\u570f"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": -1.5556101143153, 
+        "adjacent": [
+          "woe:state=7153309", 
+          "woe:state=7153314", 
+          "woe:state=7153321", 
+          "woe:state=7153325"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.132, 
         "ne:FIPS_1": "FRB7", 
@@ -2570,9 +2581,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 45.10114919677807, 
-        "ne:VertexCou": 627.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "lang": "FRE", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 2663, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2588,17 +2599,16 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 25842.7, 
         "woe:id": "7153327", 
-        "ne:HASC_1": null, 
-        "lang": "FRE", 
+        "name": "Poitou-Charentes", 
+        "ne:VertexCou": 627.0, 
         "adjacent_woeid": [
           7153309, 
           7153314, 
           7153321, 
           7153325
         ], 
-        "name": "Poitou-Charentes", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424819, 
         "ne_longitude": 1.194687127708846, 
         "longitude": -0.015, 
         "iso": "FR", 

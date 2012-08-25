@@ -32,19 +32,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549688, 
-        "name": "East Falkland", 
         "alias_ENG_V": [
           "E Falkland"
         ], 
-        "ne_latitude": -51.241, 
+        "name": "East Falkland", 
+        "hierarchy": [
+          "woe:state=24549688", 
+          "woe:country=23424814", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549688, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -57.712, 
         "longitude": -58.721, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "FK", 
         "date_indexed": "2010-12-02T16:12:16Z", 
-        "parent_woeid": 23424814, 
+        "ne_latitude": -51.241, 
         "latitude": -51.801, 
         "sw_longitude": -59.857, 
         "fullname": "East Falkland, Falkland Islands", 
@@ -52,5 +56,11 @@
       }, 
       "id": 24549688
     }
+  ], 
+  "bbox": [
+    -59.857, 
+    -52.901, 
+    -57.712, 
+    -51.241
   ]
 }

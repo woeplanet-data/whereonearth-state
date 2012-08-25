@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347542, 
-        "alias_UNK_V": [
-          "Khmel'nychchyna"
-        ], 
-        "name": "Khmel\u00b4nyts\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Khmelnytskyi Oblast"
-        ], 
-        "ne_latitude": 50.593, 
-        "ne_longitude": 27.899, 
-        "longitude": 27.016, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2347536, 
           2347551, 
@@ -52,15 +39,45 @@
           2347554, 
           2347558
         ], 
+        "ne_latitude": 50.593, 
+        "name": "Khmel\u00b4nyts\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Khmelnytskyi Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347542", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347542, 
+        "alias_UNK_V": [
+          "Khmel'nychchyna"
+        ], 
+        "longitude": 27.016, 
+        "ne_longitude": 27.899, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 48.451, 
+        "adjacent": [
+          "woe:state=2347536", 
+          "woe:state=2347551", 
+          "woe:state=2347553", 
+          "woe:state=2347554", 
+          "woe:state=2347558"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.522, 
         "sw_longitude": 26.133, 
         "fullname": "Khmel\u00b4nyts\u00b4ka Oblast\u00b4, Khmelnytskyi Oblast, Ukraine", 
-        "sw_latitude": 48.451
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347542
     }
+  ], 
+  "bbox": [
+    26.133, 
+    48.451, 
+    27.899, 
+    50.593
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 55967358, 
-        "name": "Bal\u00e9", 
         "adjacent_woeid": [
           2347624, 
           2347631, 
@@ -41,14 +39,27 @@
           55967357, 
           55967366
         ], 
-        "ne_latitude": 12.124, 
+        "name": "Bal\u00e9", 
+        "hierarchy": [
+          "woe:state=55967358", 
+          "woe:country=23424978", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55967358, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -2.529, 
         "longitude": -3.078, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "BF", 
         "date_indexed": "2010-12-02T09:36:17Z", 
-        "parent_woeid": 23424978, 
+        "adjacent": [
+          "woe:state=55967357", 
+          "woe:state=2347624", 
+          "woe:state=2347631", 
+          "woe:state=2347634", 
+          "woe:state=55967366"
+        ], 
+        "ne_latitude": 12.124, 
         "latitude": 11.685, 
         "sw_longitude": -3.628, 
         "fullname": "Bal\u00e9, Burkina Faso", 
@@ -59,5 +70,11 @@
       }, 
       "id": 55967358
     }
+  ], 
+  "bbox": [
+    -3.628, 
+    11.246, 
+    -2.529, 
+    12.124
   ]
 }

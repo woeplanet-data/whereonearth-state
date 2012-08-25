@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346102, 
-        "name": "Monrovia", 
         "adjacent_woeid": [
           2346108
         ], 
-        "ne_latitude": 6.328, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Monrovia", 
+        "hierarchy": [
+          "woe:state=2346102", 
+          "woe:country=23424876", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346102, 
         "ne_longitude": -10.784, 
         "longitude": -10.799, 
-        "placetype": "State", 
-        "iso": "LR", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
-        "parent_woeid": 23424876, 
+        "placetype": "state", 
         "latitude": 6.312, 
+        "iso": "LR", 
+        "sw_latitude": 6.297, 
+        "adjacent": [
+          "woe:state=2346108"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 6.328, 
         "sw_longitude": -10.813, 
         "fullname": "Monrovia, Liberia", 
-        "sw_latitude": 6.297
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 2346102
     }
+  ], 
+  "bbox": [
+    -10.813, 
+    6.297, 
+    -10.784, 
+    6.328
   ]
 }

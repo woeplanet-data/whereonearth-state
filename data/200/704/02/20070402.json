@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070402, 
-        "name": "Gori", 
         "adjacent_woeid": [
           20070403
         ], 
-        "ne_latitude": 41.994, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Gori", 
+        "hierarchy": [
+          "woe:state=20070402", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070402, 
         "ne_longitude": 44.125, 
-        "longitude": 44.110, 
-        "placetype": "State", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "longitude": 44.11, 
+        "placetype": "state", 
         "latitude": 41.981, 
+        "iso": "GE", 
+        "sw_latitude": 41.969, 
+        "adjacent": [
+          "woe:state=20070403"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.994, 
         "sw_longitude": 44.094, 
         "fullname": "Gori, Georgia", 
-        "sw_latitude": 41.969
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070402
     }
+  ], 
+  "bbox": [
+    44.094, 
+    41.969, 
+    44.125, 
+    41.994
   ]
 }

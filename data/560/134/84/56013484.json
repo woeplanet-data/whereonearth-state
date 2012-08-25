@@ -12,11 +12,11 @@
             ], 
             [
               14.019, 
-              10.010
+              10.01
             ], 
             [
               15.469, 
-              10.010
+              10.01
             ], 
             [
               15.469, 
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 56013484, 
-        "name": "Mayo-Kebbi Ouest", 
         "adjacent_woeid": [
           2344952, 
           2344953, 
           2344958, 
           56013483
         ], 
-        "ne_latitude": 10.010, 
+        "name": "Mayo-Kebbi Ouest", 
+        "hierarchy": [
+          "woe:state=56013484", 
+          "woe:country=23424777", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56013484, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.469, 
         "longitude": 14.744, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "TD", 
         "date_indexed": "2010-12-02T08:53:18Z", 
-        "parent_woeid": 23424777, 
+        "adjacent": [
+          "woe:state=2344952", 
+          "woe:state=2344953", 
+          "woe:state=56013483", 
+          "woe:state=2344958"
+        ], 
+        "ne_latitude": 10.01, 
         "latitude": 9.227, 
         "sw_longitude": 14.019, 
         "fullname": "Mayo-Kebbi Ouest, Chad", 
@@ -55,5 +65,11 @@
       }, 
       "id": 56013484
     }
+  ], 
+  "bbox": [
+    14.019, 
+    8.444, 
+    15.469, 
+    10.01
   ]
 }

@@ -1399,11 +1399,16 @@
         "alias_KOR_Q": [
           "\ub9c8\ub2c8\ud478\ub974"
         ], 
+        "hierarchy": [
+          "woe:state=2345751", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 25.687631334318667, 
         "ne:Shape_Area": 1.93298099152, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "MNP"
         ], 
@@ -1413,13 +1418,20 @@
         "alias_CHI_Q": [
           "\u66fc\u5c3c\u666e\u5c14\u90a6"
         ], 
-        "ne:OBJECTID": 2478, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30de\u30cb\u30d7\u30fc\u30eb"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 92.97792199130691, 
+        "adjacent": [
+          "woe:state=2345741", 
+          "woe:state=2344811", 
+          "woe:state=20070461", 
+          "woe:state=2345754", 
+          "woe:state=2344819"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 24.764, 
         "ne:FIPS_1": "IN17", 
@@ -1427,9 +1439,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 23.841800848630328, 
-        "ne:VertexCou": 323.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 2478, 
         "ne:Postal": "MN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1445,8 +1457,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 21661.1, 
         "woe:id": "2345751", 
-        "ne:HASC_1": "IN.MN", 
-        "lang": "ENG", 
+        "name": "Manipur", 
+        "ne:VertexCou": 323.0, 
         "adjacent_woeid": [
           2344811, 
           2344819, 
@@ -1454,9 +1466,8 @@
           2345754, 
           20070461
         ], 
-        "name": "Manipur", 
+        "ne:HASC_1": "IN.MN", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 94.71352664593803, 
         "longitude": 93.856, 
         "iso": "IN", 

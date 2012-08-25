@@ -40,8 +40,13 @@
         "alias_ENG_P": [
           "Seoul"
         ], 
+        "hierarchy": [
+          "woe:state=20069923", 
+          "woe:country=23424868", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 37.693, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_V": [
           "\uc11c\uc6b8\ud2b9\ubcc4"
         ], 
@@ -56,23 +61,32 @@
           "Soul"
         ], 
         "sw_longitude": 126.769, 
+        "adjacent": [
+          "woe:state=2345969", 
+          "woe:state=20069922"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 37.557, 
-        "date_indexed": "2010-12-02T17:52:39Z", 
+        "sw_latitude": 37.421, 
         "lang": "KOR", 
         "adjacent_woeid": [
           2345969, 
           20069922
         ], 
         "name": "\uc11c\uc6b8", 
-        "parent_woeid": 23424868, 
         "ne_longitude": 127.186, 
         "longitude": 126.977, 
         "iso": "KR", 
-        "sw_latitude": 37.421, 
+        "date_indexed": "2010-12-02T17:52:39Z", 
         "fullname": "\uc11c\uc6b8, Seoul, South Korea"
       }, 
       "id": 20069923
     }
+  ], 
+  "bbox": [
+    126.769, 
+    37.421, 
+    127.186, 
+    37.693
   ]
 }

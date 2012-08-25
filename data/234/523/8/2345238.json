@@ -37,8 +37,13 @@
         "alias_SWE_Q": [
           "Assuan"
         ], 
+        "hierarchy": [
+          "woe:state=2345238", 
+          "woe:country=23424802", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 25.325, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uc544\uc2a4\uc644"
         ], 
@@ -50,9 +55,14 @@
           "\u30a2\u30b9\u30ef\u30f3"
         ], 
         "sw_longitude": 31.155, 
+        "adjacent": [
+          "woe:state=2345224", 
+          "woe:state=2345235", 
+          "woe:state=2345245"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 23.665, 
-        "date_indexed": "2010-12-02T12:16:45Z", 
+        "sw_latitude": 22.005, 
         "alias_GER_Q": [
           "Assuan"
         ], 
@@ -63,14 +73,19 @@
           2345245
         ], 
         "name": "Aswan", 
-        "parent_woeid": 23424802, 
         "ne_longitude": 33.129, 
         "longitude": 32.758, 
         "iso": "EG", 
-        "sw_latitude": 22.005, 
+        "date_indexed": "2010-12-02T12:16:45Z", 
         "fullname": "Aswan, Egypt"
       }, 
       "id": 2345238
     }
+  ], 
+  "bbox": [
+    31.155, 
+    22.005, 
+    33.129, 
+    25.325
   ]
 }

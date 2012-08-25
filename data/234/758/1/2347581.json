@@ -2194,11 +2194,16 @@
         "alias_KOR_Q": [
           "\ubbf8\uc2dc\uac04"
         ], 
+        "hierarchy": [
+          "woe:state=2347581", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 48.305448423705855, 
         "ne:Shape_Area": 28.4888638, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18360704", 
         "alias_ENG_A": [
           "Mich"
         ], 
@@ -2208,13 +2213,18 @@
         "alias_CHI_Q": [
           "\u5bc6\u6267\u5b89"
         ], 
-        "ne:OBJECTID": 3562, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30df\u30b7\u30ac\u30f3"
         ], 
         "ne:Abbrev": "Mich.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -90.41254276723487, 
+        "adjacent": [
+          "woe:state=2347573", 
+          "woe:state=2347594", 
+          "woe:state=2347608"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 43.743, 
         "ne:FIPS_1": "US26", 
@@ -2222,9 +2232,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 41.700394712845764, 
-        "ne:VertexCou": 542.0, 
-        "ne:VALIDFR_1": "18360704", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3562, 
         "ne:Postal": "MI", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "MI|Mich.", 
@@ -2240,16 +2250,15 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 250046.7, 
         "woe:id": "2347581", 
-        "ne:HASC_1": "US.MI", 
-        "lang": "ENG", 
+        "name": "Michigan", 
+        "ne:VertexCou": 542.0, 
         "adjacent_woeid": [
           2347573, 
           2347594, 
           2347608
         ], 
-        "name": "Michigan", 
+        "ne:HASC_1": "US.MI", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -82.1461121033908, 
         "longitude": -84.622, 
         "iso": "US", 

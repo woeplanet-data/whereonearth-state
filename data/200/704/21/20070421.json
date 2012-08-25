@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              32.500, 
+              32.5, 
               0.202
             ], 
             [
-              32.500, 
+              32.5, 
               0.443
             ], 
             [
@@ -23,7 +23,7 @@
               0.202
             ], 
             [
-              32.500, 
+              32.5, 
               0.202
             ]
           ]
@@ -32,34 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070421, 
-        "name": "Kampala", 
         "adjacent_woeid": [
           24550740
         ], 
         "ne_latitude": 0.443, 
+        "name": "Kampala", 
+        "adjacent": [
+          "woe:state=24550740"
+        ], 
+        "hierarchy": [
+          "woe:state=20070421", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070421, 
         "alias_JPN_Q": [
           "\u30ab\u30f3\u30d1\u30e9"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.666, 
         "longitude": 32.583, 
         "alias_CHI_Q": [
           "\u574e\u5e15\u62c9"
         ], 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
+        "sw_latitude": 0.202, 
         "alias_KOR_Q": [
           "\uce84\ud314\ub77c"
         ], 
-        "parent_woeid": 23424974, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 0.322, 
-        "sw_longitude": 32.500, 
+        "sw_longitude": 32.5, 
         "fullname": "Kampala, Uganda", 
-        "sw_latitude": 0.202
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070421
     }
+  ], 
+  "bbox": [
+    32.5, 
+    0.202, 
+    32.666, 
+    0.443
   ]
 }

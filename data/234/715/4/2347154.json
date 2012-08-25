@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347154, 
-        "name": "Surin", 
         "adjacent_woeid": [
           2347149, 
           2347150, 
@@ -41,23 +39,42 @@
           2347155, 
           20070092
         ], 
-        "ne_latitude": 15.483, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Surin", 
         "alias_ENG_V": [
           "Changwat Surin"
         ], 
+        "hierarchy": [
+          "woe:state=2347154", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347154, 
         "ne_longitude": 104.091, 
-        "longitude": 103.590, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "longitude": 103.59, 
+        "placetype": "state", 
         "latitude": 14.905, 
+        "iso": "TH", 
+        "sw_latitude": 14.327, 
+        "adjacent": [
+          "woe:state=2347153", 
+          "woe:state=2347149", 
+          "woe:state=20070092", 
+          "woe:state=2347150", 
+          "woe:state=2347155"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.483, 
         "sw_longitude": 103.089, 
         "fullname": "Surin, Thailand", 
-        "sw_latitude": 14.327
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347154
     }
+  ], 
+  "bbox": [
+    103.089, 
+    14.327, 
+    104.091, 
+    15.483
   ]
 }

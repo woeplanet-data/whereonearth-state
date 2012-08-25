@@ -2312,9 +2312,14 @@
           "Amara"
         ], 
         "ne:ScaleRank": 3, 
+        "hierarchy": [
+          "woe:state=56013541", 
+          "woe:country=23424808", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 13.776523749671355, 
         "ne:Shape_Area": 12.9474140176, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 13, 
         "ne:gadm_level": 1.0, 
@@ -2323,6 +2328,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 35.24780236158978, 
+        "adjacent": [
+          "woe:state=56013537", 
+          "woe:state=20069906", 
+          "woe:state=56013538", 
+          "woe:state=56013545", 
+          "woe:state=20069915", 
+          "woe:state=2345312"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 12.131, 
         "ne:FIPS_1": "ET46", 
@@ -2360,7 +2373,6 @@
         ], 
         "name": "Amhara", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424808, 
         "ne_longitude": 40.196647576324665, 
         "longitude": 37.163, 
         "iso": "ET", 

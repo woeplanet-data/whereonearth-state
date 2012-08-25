@@ -200,9 +200,14 @@
           "St. John Island"
         ], 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=24549908", 
+          "woe:country=23424985", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 11.351090400002022, 
         "ne:Shape_Area": 0.0240740855685, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
@@ -241,7 +246,6 @@
         "ne:NL_NAME_1": null, 
         "name": "Saint John Island", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424985, 
         "ne_longitude": -60.52206254744857, 
         "longitude": -64.732, 
         "iso": "VI", 

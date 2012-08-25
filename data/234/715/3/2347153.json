@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347153, 
-        "name": "Buriram", 
         "adjacent_woeid": [
           2347147, 
           2347149, 
@@ -43,23 +41,44 @@
           20070092, 
           20070093
         ], 
-        "ne_latitude": 15.796, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Buriram", 
         "alias_ENG_V": [
           "Changwat Buriram"
         ], 
+        "hierarchy": [
+          "woe:state=2347153", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347153, 
         "ne_longitude": 103.504, 
         "longitude": 102.967, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 14.963, 
+        "iso": "TH", 
+        "sw_latitude": 14.131, 
+        "adjacent": [
+          "woe:state=20070093", 
+          "woe:state=2347147", 
+          "woe:state=2347149", 
+          "woe:state=2347152", 
+          "woe:state=20070092", 
+          "woe:state=20069925", 
+          "woe:state=2347154"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.796, 
         "sw_longitude": 102.431, 
         "fullname": "Buriram, Thailand", 
-        "sw_latitude": 14.131
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347153
     }
+  ], 
+  "bbox": [
+    102.431, 
+    14.131, 
+    103.504, 
+    15.796
   ]
 }

@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550817, 
-        "alias_UNK_V": [
-          "Opstina Vinica"
-        ], 
-        "name": "Vinica", 
-        "alias_ENG_P": [
-          "Vinica Municipality"
-        ], 
-        "ne_latitude": 42.001, 
-        "ne_longitude": 22.738, 
-        "longitude": 22.595, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550777, 
           24550824, 
@@ -53,15 +40,46 @@
           24550851, 
           24550865
         ], 
+        "name": "Vinica", 
+        "alias_ENG_P": [
+          "Vinica Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550817", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550817, 
+        "alias_UNK_V": [
+          "Opstina Vinica"
+        ], 
+        "longitude": 22.595, 
+        "ne_longitude": 22.738, 
+        "placetype": "state", 
+        "latitude": 41.868, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550826", 
+          "woe:state=24550838", 
+          "woe:state=24550777", 
+          "woe:state=24550851", 
+          "woe:state=24550865", 
+          "woe:state=24550824"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.868, 
+        "ne_latitude": 42.001, 
         "sw_longitude": 22.452, 
         "fullname": "Vinica, Vinica Municipality, Macedonia", 
         "sw_latitude": 41.735
       }, 
       "id": 24550817
     }
+  ], 
+  "bbox": [
+    22.452, 
+    41.735, 
+    22.738, 
+    42.001
   ]
 }

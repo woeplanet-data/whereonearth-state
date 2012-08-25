@@ -1293,9 +1293,14 @@
       "properties": {
         "ne:ProvNumber": 2000, 
         "ne:ScaleRank": 5, 
+        "hierarchy": [
+          "woe:state=55998384", 
+          "woe:country=23424779", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 1.391078192904331, 
         "ne:Shape_Area": 2.06915772892, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 10, 
         "ne:gadm_level": 1.0, 
@@ -1304,6 +1309,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 13.830711704381713, 
+        "adjacent": [
+          "woe:state=2344968", 
+          "woe:state=2345450", 
+          "woe:state=2345454", 
+          "woe:state=2344974"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 0.076, 
         "ne:FIPS_1": "CF10", 
@@ -1339,7 +1350,6 @@
         ], 
         "name": "Cuvette-Ouest", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424779, 
         "ne_longitude": 15.28529992025517, 
         "longitude": 14.577, 
         "iso": "CG", 

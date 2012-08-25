@@ -3925,23 +3925,40 @@
       "properties": {
         "ne:ProvNumber": 20, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=2344853", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -17.187271009849155, 
         "ne:Shape_Area": 30.8116085882, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "alias_POR_V": [
           "Estado Mato Grosso do Sul"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19790101", 
         "alias_ENG_A": [
           "MS"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BRA", 
-        "ne:OBJECTID": 600, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -58.16324011923609, 
+        "adjacent": [
+          "woe:state=2346463", 
+          "woe:state=2346449", 
+          "woe:state=2346464", 
+          "woe:state=2346454", 
+          "woe:state=2344852", 
+          "woe:state=2344855", 
+          "woe:state=2344856", 
+          "woe:state=2344859", 
+          "woe:state=2344808", 
+          "woe:state=2344868"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -20.617, 
         "ne:FIPS_1": "BR11", 
@@ -3949,9 +3966,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -24.050469658747716, 
-        "ne:VertexCou": 968.0, 
-        "ne:VALIDFR_1": "19790101", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 600, 
         "ne:Postal": "MS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -3967,8 +3984,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 356081.4, 
         "woe:id": "2344853", 
-        "ne:HASC_1": "BR.MS", 
-        "lang": "POR", 
+        "name": "Mato Grosso do Sul", 
+        "ne:VertexCou": 968.0, 
         "adjacent_woeid": [
           2344808, 
           2344852, 
@@ -3981,9 +3998,8 @@
           2346463, 
           2346464
         ], 
-        "name": "Mato Grosso do Sul", 
+        "ne:HASC_1": "BR.MS", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424768, 
         "ne_longitude": -50.93709204746, 
         "longitude": -54.543, 
         "iso": "BR", 

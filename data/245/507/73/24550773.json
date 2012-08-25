@@ -32,22 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550773, 
-        "alias_UNK_V": [
-          "Opstina Karpo\u0161"
-        ], 
-        "name": "Karpo\u0161", 
-        "alias_ENG_P": [
-          "Karpos Municipality"
-        ], 
-        "alias_UNK_S": [
-          "Opstina Karpos"
-        ], 
-        "ne_latitude": 42.076, 
-        "ne_longitude": 21.462, 
-        "longitude": 21.422, 
-        "parent_woeid": 482940, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550752, 
           24550756, 
@@ -57,15 +41,51 @@
           24550830, 
           24550839
         ], 
+        "name": "Karpo\u0161", 
+        "alias_ENG_P": [
+          "Karpos Municipality"
+        ], 
+        "alias_UNK_S": [
+          "Opstina Karpos"
+        ], 
+        "woeid": 24550773, 
+        "alias_UNK_V": [
+          "Opstina Karpo\u0161"
+        ], 
+        "longitude": 21.422, 
+        "ne_longitude": 21.462, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=24550773", 
+          "woe:town=482940", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.956, 
+        "adjacent": [
+          "woe:state=24550756", 
+          "woe:state=24550839", 
+          "woe:state=24550803", 
+          "woe:state=24550804", 
+          "woe:state=24550752", 
+          "woe:state=24550830", 
+          "woe:state=24550810"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 42.016, 
+        "ne_latitude": 42.076, 
         "sw_longitude": 21.321, 
+        "latitude": 42.016, 
         "fullname": "Karpo\u0161, Skopje, Karpos Municipality, Macedonia", 
-        "sw_latitude": 41.956
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550773
     }
+  ], 
+  "bbox": [
+    21.321, 
+    41.956, 
+    21.462, 
+    42.076
   ]
 }

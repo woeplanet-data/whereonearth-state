@@ -7,24 +7,24 @@
         "coordinates": [
           [
             [
-              22.650, 
-              46.400
+              22.65, 
+              46.4
             ], 
             [
-              22.650, 
-              47.370
-            ], 
-            [
-              24.242, 
-              47.370
+              22.65, 
+              47.37
             ], 
             [
               24.242, 
-              46.400
+              47.37
             ], 
             [
-              22.650, 
-              46.400
+              24.242, 
+              46.4
+            ], 
+            [
+              22.65, 
+              46.4
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "RUM", 
-        "woeid": 2346627, 
-        "name": "Cluj", 
         "adjacent_woeid": [
           2346615, 
           2346619, 
@@ -42,20 +40,40 @@
           2346640, 
           2346644
         ], 
-        "ne_latitude": 47.370, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Cluj", 
+        "hierarchy": [
+          "woe:state=2346627", 
+          "woe:country=23424933", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346627, 
         "ne_longitude": 24.242, 
         "longitude": 23.446, 
-        "placetype": "State", 
-        "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
-        "parent_woeid": 23424933, 
+        "placetype": "state", 
         "latitude": 46.885, 
-        "sw_longitude": 22.650, 
+        "iso": "RO", 
+        "sw_latitude": 46.4, 
+        "adjacent": [
+          "woe:state=2346615", 
+          "woe:state=2346619", 
+          "woe:state=2346620", 
+          "woe:state=2346638", 
+          "woe:state=2346640", 
+          "woe:state=2346644"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 47.37, 
+        "sw_longitude": 22.65, 
         "fullname": "Cluj, Romania", 
-        "sw_latitude": 46.400
+        "date_indexed": "2010-12-02T16:36:29Z"
       }, 
       "id": 2346627
     }
+  ], 
+  "bbox": [
+    22.65, 
+    46.4, 
+    24.242, 
+    47.37
   ]
 }

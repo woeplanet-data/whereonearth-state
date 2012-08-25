@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2345094, 
-        "name": "K\u00e9mo", 
         "adjacent_woeid": [
           2344978, 
           2345098, 
@@ -41,26 +39,45 @@
           2345102, 
           2345104
         ], 
-        "ne_latitude": 6.551, 
+        "name": "K\u00e9mo", 
+        "hierarchy": [
+          "woe:state=2345094", 
+          "woe:country=23424792", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345094, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.012, 
         "longitude": 19.305, 
-        "parent_woeid": 23424792, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 5.737, 
+        "iso": "CF", 
+        "sw_latitude": 4.922, 
+        "adjacent": [
+          "woe:state=2344978", 
+          "woe:state=2345102", 
+          "woe:state=2345104", 
+          "woe:state=2345098", 
+          "woe:state=2345099"
+        ], 
+        "ne_latitude": 6.551, 
         "alias_FRE_V": [
           "Kemo-Gribingui"
         ], 
-        "iso": "CF", 
-        "date_indexed": "2010-12-02T17:43:23Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 5.737, 
         "sw_longitude": 18.598, 
         "fullname": "K\u00e9mo, Central African Republic", 
         "alias_FRE_S": [
           "Kemo"
         ], 
-        "sw_latitude": 4.922
+        "date_indexed": "2010-12-02T17:43:23Z"
       }, 
       "id": 2345094
     }
+  ], 
+  "bbox": [
+    18.598, 
+    4.922, 
+    20.012, 
+    6.551
   ]
 }

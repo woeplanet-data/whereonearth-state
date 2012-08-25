@@ -8,7 +8,7 @@
           [
             [
               101.018, 
-              6.550
+              6.55
             ], 
             [
               101.018, 
@@ -20,11 +20,11 @@
             ], 
             [
               101.725, 
-              6.550
+              6.55
             ], 
             [
               101.018, 
-              6.550
+              6.55
             ]
           ]
         ]
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347193, 
-        "name": "Pattani", 
         "adjacent_woeid": [
           2347156, 
           2347192, 
           2347194
         ], 
-        "ne_latitude": 6.953, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Pattani", 
         "alias_ENG_V": [
           "Changwat Pattani"
         ], 
+        "hierarchy": [
+          "woe:state=2347193", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347193, 
         "ne_longitude": 101.725, 
         "longitude": 101.372, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 6.751, 
+        "iso": "TH", 
+        "sw_latitude": 6.55, 
+        "adjacent": [
+          "woe:state=2347156", 
+          "woe:state=2347192", 
+          "woe:state=2347194"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 6.953, 
         "sw_longitude": 101.018, 
         "fullname": "Pattani, Thailand", 
-        "sw_latitude": 6.550
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347193
     }
+  ], 
+  "bbox": [
+    101.018, 
+    6.55, 
+    101.725, 
+    6.953
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347000, 
-        "name": "Eastern", 
         "adjacent_woeid": [
           2346101, 
           2346106, 
@@ -42,20 +40,40 @@
           56059376, 
           56059379
         ], 
-        "ne_latitude": 9.074, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Eastern", 
+        "hierarchy": [
+          "woe:state=2347000", 
+          "woe:country=23424946", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347000, 
         "ne_longitude": -10.284, 
-        "longitude": -10.940, 
-        "placetype": "State", 
-        "iso": "SL", 
-        "date_indexed": "2010-12-02T12:08:44Z", 
-        "parent_woeid": 23424946, 
+        "longitude": -10.94, 
+        "placetype": "state", 
         "latitude": 8.208, 
+        "iso": "SL", 
+        "sw_latitude": 7.341, 
+        "adjacent": [
+          "woe:state=56059379", 
+          "woe:state=2346106", 
+          "woe:state=2346101", 
+          "woe:state=2347001", 
+          "woe:state=56059376", 
+          "woe:state=2347002"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.074, 
         "sw_longitude": -11.597, 
         "fullname": "Eastern, Sierra Leone", 
-        "sw_latitude": 7.341
+        "date_indexed": "2010-12-02T12:08:44Z"
       }, 
       "id": 2347000
     }
+  ], 
+  "bbox": [
+    -11.597, 
+    7.341, 
+    -10.284, 
+    9.074
   ]
 }

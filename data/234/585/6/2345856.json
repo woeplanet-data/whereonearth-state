@@ -983,20 +983,31 @@
         "alias_ENG_P": [
           "Fukui Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345856", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.27179149008526, 
         "ne:Shape_Area": 0.409488350272, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:DataRank": 2, 
+        "ne:OBJECTID": 1848, 
         "alias_JPN_V": [
           "\u798f\u4e95"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 135.43930952331596, 
+        "adjacent": [
+          "woe:state=2345871", 
+          "woe:state=2345859", 
+          "woe:state=2345884", 
+          "woe:state=2345864"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.82, 
         "ne:FIPS_1": "JA06", 
@@ -1004,9 +1015,9 @@
         "ne:FIRST_HASC": "JP.GM", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 35.330350246366834, 
-        "lang": "JPN", 
-        "ne:MAP_COLOR": 4, 
-        "ne:OBJECTID": 1848, 
+        "ne:VertexCou": 240.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 2, 
         "ne:Postal": "FI", 
         "ne:Region_Cod": "JPN-KIN", 
         "ne:VARNAME_1": "Hukui", 
@@ -1022,17 +1033,16 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 4105.5, 
         "woe:id": "2345856", 
-        "name": "\u798f\u4e95\u770c", 
-        "ne:VertexCou": 240.0, 
+        "ne:HASC_1": "JP.FI", 
+        "lang": "JPN", 
         "adjacent_woeid": [
           2345859, 
           2345864, 
           2345871, 
           2345884
         ], 
-        "ne:HASC_1": "JP.FI", 
+        "name": "\u798f\u4e95\u770c", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 136.80305057152668, 
         "longitude": 136.141, 
         "iso": "JP", 

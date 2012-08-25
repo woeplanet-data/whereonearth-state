@@ -8,7 +8,7 @@
           [
             [
               20.514, 
-              59.910
+              59.91
             ], 
             [
               20.514, 
@@ -20,11 +20,11 @@
             ], 
             [
               20.994, 
-              59.910
+              59.91
             ], 
             [
               20.514, 
-              59.910
+              59.91
             ]
           ]
         ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "SWE", 
-        "woeid": 12590642, 
-        "name": "Sottunga", 
         "adjacent_woeid": [
           12590629, 
           12590632, 
           12590636, 
           12590637
         ], 
-        "ne_latitude": 60.209, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sottunga", 
+        "hierarchy": [
+          "woe:state=12590642", 
+          "woe:country=12577865", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12590642, 
         "ne_longitude": 20.994, 
         "longitude": 20.661, 
-        "placetype": "State", 
-        "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
-        "parent_woeid": 12577865, 
+        "placetype": "state", 
         "latitude": 60.132, 
+        "iso": "AX", 
+        "sw_latitude": 59.91, 
+        "adjacent": [
+          "woe:state=12590629", 
+          "woe:state=12590632", 
+          "woe:state=12590637", 
+          "woe:state=12590636"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 60.209, 
         "sw_longitude": 20.514, 
         "fullname": "Sottunga, Aland Islands", 
-        "sw_latitude": 59.910
+        "date_indexed": "2010-12-02T17:06:00Z"
       }, 
       "id": 12590642
     }
+  ], 
+  "bbox": [
+    20.514, 
+    59.91, 
+    20.994, 
+    60.209
   ]
 }

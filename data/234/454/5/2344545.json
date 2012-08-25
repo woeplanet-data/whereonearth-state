@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -61.820, 
+              -61.82, 
               16.997
             ], 
             [
-              -61.820, 
+              -61.82, 
               17.067
             ], 
             [
-              -61.730, 
+              -61.73, 
               17.067
             ], 
             [
-              -61.730, 
+              -61.73, 
               16.997
             ], 
             [
-              -61.820, 
+              -61.82, 
               16.997
             ]
           ]
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344545, 
-        "name": "Saint Paul", 
         "adjacent_woeid": [
           2344543, 
           2344544, 
           2344546, 
           2344547
         ], 
-        "ne_latitude": 17.067, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint Paul", 
         "alias_ENG_V": [
           "St. Paul"
         ], 
-        "ne_longitude": -61.730, 
+        "hierarchy": [
+          "woe:state=2344545", 
+          "woe:country=23424737", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344545, 
+        "ne_longitude": -61.73, 
         "longitude": -61.775, 
-        "placetype": "State", 
-        "iso": "AG", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424737, 
+        "placetype": "state", 
         "latitude": 17.032, 
-        "sw_longitude": -61.820, 
+        "iso": "AG", 
+        "sw_latitude": 16.997, 
+        "adjacent": [
+          "woe:state=2344543", 
+          "woe:state=2344544", 
+          "woe:state=2344546", 
+          "woe:state=2344547"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.067, 
+        "sw_longitude": -61.82, 
         "fullname": "Saint Paul, Antigua and Barbuda", 
-        "sw_latitude": 16.997
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 2344545
     }
+  ], 
+  "bbox": [
+    -61.82, 
+    16.997, 
+    -61.73, 
+    17.067
   ]
 }

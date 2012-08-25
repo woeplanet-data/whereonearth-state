@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "RUM", 
-        "woeid": 2346650, 
-        "name": "Tulcea", 
         "adjacent_woeid": [
           2346622, 
           2346628, 
           2346632, 
           2347549
         ], 
-        "ne_latitude": 45.467, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tulcea", 
+        "hierarchy": [
+          "woe:state=2346650", 
+          "woe:country=23424933", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346650, 
         "ne_longitude": 29.719, 
         "longitude": 28.857, 
-        "placetype": "State", 
-        "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
-        "parent_woeid": 23424933, 
+        "placetype": "state", 
         "latitude": 45.044, 
+        "iso": "RO", 
+        "sw_latitude": 44.621, 
+        "adjacent": [
+          "woe:state=2346622", 
+          "woe:state=2346628", 
+          "woe:state=2346632", 
+          "woe:state=2347549"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 45.467, 
         "sw_longitude": 27.995, 
         "fullname": "Tulcea, Romania", 
-        "sw_latitude": 44.621
+        "date_indexed": "2010-12-02T16:36:29Z"
       }, 
       "id": 2346650
     }
+  ], 
+  "bbox": [
+    27.995, 
+    44.621, 
+    29.719, 
+    45.467
   ]
 }

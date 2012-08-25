@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070116, 
-        "name": "Kaesong-si", 
         "adjacent_woeid": [
           2345953
         ], 
-        "ne_latitude": 37.982, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kaesong-si", 
+        "hierarchy": [
+          "woe:state=20070116", 
+          "woe:country=23424865", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070116, 
         "ne_longitude": 126.578, 
         "longitude": 126.556, 
-        "placetype": "State", 
-        "iso": "KP", 
-        "date_indexed": "2010-12-02T10:22:43Z", 
-        "parent_woeid": 23424865, 
+        "placetype": "state", 
         "latitude": 37.967, 
+        "iso": "KP", 
+        "sw_latitude": 37.953, 
+        "adjacent": [
+          "woe:state=2345953"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 37.982, 
         "sw_longitude": 126.535, 
         "fullname": "Kaesong-si, North Korea", 
-        "sw_latitude": 37.953
+        "date_indexed": "2010-12-02T10:22:43Z"
       }, 
       "id": 20070116
     }
+  ], 
+  "bbox": [
+    126.535, 
+    37.953, 
+    126.578, 
+    37.982
   ]
 }

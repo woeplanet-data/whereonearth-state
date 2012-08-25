@@ -5496,11 +5496,16 @@
         "alias_KOR_Q": [
           "\ubc84\uc9c0\ub2c8\uc544"
         ], 
+        "hierarchy": [
+          "woe:state=2347605", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 39.450834165664276, 
         "ne:Shape_Area": 10.6084912542, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18630619", 
         "alias_POR_Q": [
           "Virg\u00ednia"
         ], 
@@ -5513,7 +5518,7 @@
         "alias_CHI_Q": [
           "\u5f17\u5409\u5c3c\u4e9a"
         ], 
-        "ne:OBJECTID": 3552, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30d0\u30fc\u30b8\u30cb\u30a2"
         ], 
@@ -5521,6 +5526,14 @@
         "ne:Abbrev": "Va.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -83.66747440831728, 
+        "adjacent": [
+          "woe:state=2347567", 
+          "woe:state=2347576", 
+          "woe:state=2347579", 
+          "woe:state=2347592", 
+          "woe:state=2347601", 
+          "woe:state=2347607"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 38.003, 
         "ne:FIPS_1": "US51", 
@@ -5528,14 +5541,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 36.53977459582097, 
-        "ne:VertexCou": 1326.0, 
-        "ne:VALIDFR_1": "18630619", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3552, 
         "ne:Postal": "VA", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "VA", 
         "ne:ISO": "USA", 
-        "ne:TYPE_1": "State", 
+        "ne:Region_C_3": "South Atlantic", 
         "ne:Region_C_2": "South", 
         "ne:Shape_Leng": 33.7486905849, 
         "alias_DUT_Q": [
@@ -5544,12 +5557,12 @@
         "ne:NAME_0": "United States of America", 
         "ne:NAME_1": "Virginia", 
         "ne:Region_C_1": "South Atlantic", 
-        "ne:Region_C_3": "South Atlantic", 
+        "ne:TYPE_1": "State", 
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 102867.5, 
         "woe:id": "2347605", 
-        "ne:HASC_1": "US.VA", 
-        "lang": "ENG", 
+        "name": "Virginia", 
+        "ne:VertexCou": 1326.0, 
         "adjacent_woeid": [
           2347567, 
           2347576, 
@@ -5558,10 +5571,9 @@
           2347601, 
           2347607
         ], 
-        "name": "Virginia", 
+        "ne:HASC_1": "US.VA", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -75.23395390005243, 
         "longitude": -79.771, 
         "iso": "US", 

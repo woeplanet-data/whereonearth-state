@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347160, 
-        "name": "Ang Thong", 
         "adjacent_woeid": [
           2347158, 
           2347159, 
           2347161, 
           2347175
         ], 
-        "ne_latitude": 14.802, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ang Thong", 
         "alias_ENG_V": [
           "Changwat Ang Thong"
         ], 
+        "hierarchy": [
+          "woe:state=2347160", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347160, 
         "ne_longitude": 100.516, 
         "longitude": 100.349, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 14.62, 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
-        "latitude": 14.620, 
+        "sw_latitude": 14.439, 
+        "adjacent": [
+          "woe:state=2347159", 
+          "woe:state=2347161", 
+          "woe:state=2347158", 
+          "woe:state=2347175"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.802, 
         "sw_longitude": 100.181, 
         "fullname": "Ang Thong, Thailand", 
-        "sw_latitude": 14.439
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347160
     }
+  ], 
+  "bbox": [
+    100.181, 
+    14.439, 
+    100.516, 
+    14.802
   ]
 }

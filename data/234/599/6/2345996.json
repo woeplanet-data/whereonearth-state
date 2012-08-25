@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345996, 
-        "name": "Aqmola", 
         "adjacent_woeid": [
           2345993, 
           20070174, 
@@ -41,20 +39,39 @@
           20070178, 
           20070181
         ], 
-        "ne_latitude": 52.893, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Aqmola", 
+        "hierarchy": [
+          "woe:state=2345996", 
+          "woe:country=23424871", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345996, 
         "ne_longitude": 74.113, 
         "longitude": 69.449, 
-        "placetype": "State", 
-        "iso": "KZ", 
-        "date_indexed": "2010-12-02T08:54:03Z", 
-        "parent_woeid": 23424871, 
+        "placetype": "state", 
         "latitude": 50.814, 
+        "iso": "KZ", 
+        "sw_latitude": 48.734, 
+        "adjacent": [
+          "woe:state=20070181", 
+          "woe:state=2345993", 
+          "woe:state=20070178", 
+          "woe:state=20070176", 
+          "woe:state=20070174"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 52.893, 
         "sw_longitude": 64.786, 
         "fullname": "Aqmola, Kazakhstan", 
-        "sw_latitude": 48.734
+        "date_indexed": "2010-12-02T08:54:03Z"
       }, 
       "id": 2345996
     }
+  ], 
+  "bbox": [
+    64.786, 
+    48.734, 
+    74.113, 
+    52.893
   ]
 }

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              33.500, 
+              33.5, 
               2.446
             ], 
             [
-              33.500, 
+              33.5, 
               4.214
             ], 
             [
@@ -23,7 +23,7 @@
               2.446
             ], 
             [
-              33.500, 
+              33.5, 
               2.446
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070429, 
-        "name": "Kotido", 
         "adjacent_woeid": [
           20070428, 
           20070435, 
@@ -41,20 +39,39 @@
           56190216, 
           56190217
         ], 
-        "ne_latitude": 4.214, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kotido", 
+        "hierarchy": [
+          "woe:state=20070429", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070429, 
         "ne_longitude": 34.556, 
         "longitude": 34.028, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 3.33, 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
-        "latitude": 3.330, 
-        "sw_longitude": 33.500, 
+        "sw_latitude": 2.446, 
+        "adjacent": [
+          "woe:state=56190217", 
+          "woe:state=56190216", 
+          "woe:state=20070428", 
+          "woe:state=20070435", 
+          "woe:state=24550736"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 4.214, 
+        "sw_longitude": 33.5, 
         "fullname": "Kotido, Uganda", 
-        "sw_latitude": 2.446
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070429
     }
+  ], 
+  "bbox": [
+    33.5, 
+    2.446, 
+    34.556, 
+    4.214
   ]
 }

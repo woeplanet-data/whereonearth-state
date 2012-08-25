@@ -8,23 +8,23 @@
           [
             [
               -70.958, 
-              1.170
+              1.17
             ], 
             [
               -70.958, 
               4.031
             ], 
             [
-              -66.870, 
+              -66.87, 
               4.031
             ], 
             [
-              -66.870, 
-              1.170
+              -66.87, 
+              1.17
             ], 
             [
               -70.958, 
-              1.170
+              1.17
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345060, 
-        "name": "Guainia", 
         "adjacent_woeid": [
           2344847, 
           2345059, 
@@ -41,20 +39,39 @@
           2345076, 
           2347677
         ], 
-        "ne_latitude": 4.031, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -66.870, 
+        "name": "Guainia", 
+        "hierarchy": [
+          "woe:state=2345060", 
+          "woe:country=23424787", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345060, 
+        "ne_longitude": -66.87, 
         "longitude": -68.914, 
-        "placetype": "State", 
-        "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
-        "parent_woeid": 23424787, 
+        "placetype": "state", 
         "latitude": 2.601, 
+        "iso": "CO", 
+        "sw_latitude": 1.17, 
+        "adjacent": [
+          "woe:state=2347677", 
+          "woe:state=2344847", 
+          "woe:state=2345059", 
+          "woe:state=2345075", 
+          "woe:state=2345076"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 4.031, 
         "sw_longitude": -70.958, 
         "fullname": "Guainia, Colombia", 
-        "sw_latitude": 1.170
+        "date_indexed": "2010-12-02T17:57:12Z"
       }, 
       "id": 2345060
     }
+  ], 
+  "bbox": [
+    -70.958, 
+    1.17, 
+    -66.87, 
+    4.031
   ]
 }

@@ -31,43 +31,58 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "CHI", 
-        "woeid": 12578010, 
-        "name": "\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a", 
         "alias_ENG_P": [
           "Ningxia"
         ], 
+        "hierarchy": [
+          "woe:state=12578010", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 39.378, 
-        "alias_JPN_Q": [
-          "\u306d\u3044\u304b"
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ub2dd\uc0e4\ud6c4\uc774\uc871\uc790\uce58\uad6c"
         ], 
         "alias_CHI_V": [
           "\u5be7\u590f\u56de\u65cf\u81ea\u6cbb\u5340"
         ], 
+        "woeid": 12578010, 
+        "alias_JPN_Q": [
+          "\u306d\u3044\u304b"
+        ], 
         "alias_JPN_V": [
           "\u5be7\u590f"
         ], 
-        "ne_longitude": 107.534, 
-        "longitude": 105.922, 
-        "parent_woeid": 23424781, 
-        "placetype": "State", 
+        "sw_longitude": 104.311, 
+        "adjacent": [
+          "woe:state=12578009", 
+          "woe:state=12578005", 
+          "woe:state=12578015"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.291, 
+        "sw_latitude": 35.204, 
+        "lang": "CHI", 
         "adjacent_woeid": [
           12578005, 
           12578009, 
           12578015
         ], 
+        "name": "\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a", 
+        "ne_longitude": 107.534, 
+        "longitude": 105.922, 
         "iso": "CN", 
         "date_indexed": "2010-12-02T08:51:01Z", 
-        "alias_KOR_Q": [
-          "\ub2dd\uc0e4\ud6c4\uc774\uc871\uc790\uce58\uad6c"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 37.291, 
-        "sw_longitude": 104.311, 
-        "fullname": "\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a, Ningxia, China", 
-        "sw_latitude": 35.204
+        "fullname": "\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a, Ningxia, China"
       }, 
       "id": 12578010
     }
+  ], 
+  "bbox": [
+    104.311, 
+    35.204, 
+    107.534, 
+    39.378
   ]
 }

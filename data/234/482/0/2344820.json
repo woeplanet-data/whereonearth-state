@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344820, 
-        "name": "Shan State", 
         "adjacent_woeid": [
           2344813, 
           2344814, 
@@ -47,20 +45,45 @@
           12578018, 
           20070156
         ], 
-        "ne_latitude": 24.164, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Shan State", 
+        "hierarchy": [
+          "woe:state=2344820", 
+          "woe:country=23424763", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344820, 
         "ne_longitude": 101.177, 
         "longitude": 98.689, 
-        "placetype": "State", 
-        "iso": "MM", 
-        "date_indexed": "2010-12-02T17:58:12Z", 
-        "parent_woeid": 23424763, 
+        "placetype": "state", 
         "latitude": 21.735, 
+        "iso": "MM", 
+        "sw_latitude": 19.305, 
+        "adjacent": [
+          "woe:state=20070156", 
+          "woe:state=2347129", 
+          "woe:state=2347130", 
+          "woe:state=2344813", 
+          "woe:state=2344814", 
+          "woe:state=2344815", 
+          "woe:state=2346003", 
+          "woe:state=2347128", 
+          "woe:state=2344817", 
+          "woe:state=2344819", 
+          "woe:state=12578018"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 24.164, 
         "sw_longitude": 96.202, 
         "fullname": "Shan State, Myanmar", 
-        "sw_latitude": 19.305
+        "date_indexed": "2010-12-02T17:58:12Z"
       }, 
       "id": 2344820
     }
+  ], 
+  "bbox": [
+    96.202, 
+    19.305, 
+    101.177, 
+    24.164
   ]
 }

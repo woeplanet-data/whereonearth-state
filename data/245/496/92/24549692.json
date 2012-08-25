@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -6.830, 
+              -6.83, 
               61.952
             ], 
             [
-              -6.830, 
+              -6.83, 
               62.057
             ], 
             [
-              -6.610, 
+              -6.61, 
               62.057
             ], 
             [
-              -6.610, 
+              -6.61, 
               61.952
             ], 
             [
-              -6.830, 
+              -6.83, 
               61.952
             ]
           ]
@@ -32,28 +32,41 @@
       "type": "Feature", 
       "properties": {
         "lang": "DAN", 
-        "woeid": 24549692, 
+        "adjacent_woeid": [
+          24549696
+        ], 
         "name": "T\u00f3rshavn", 
         "alias_DAN_S": [
           "Torshavn"
         ], 
-        "adjacent_woeid": [
-          24549696
+        "hierarchy": [
+          "woe:state=24549692", 
+          "woe:country=23424816", 
+          "woe:planet=1"
         ], 
-        "ne_latitude": 62.057, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -6.610, 
+        "woeid": 24549692, 
+        "ne_longitude": -6.61, 
         "longitude": -6.786, 
-        "placetype": "State", 
-        "iso": "FO", 
+        "placetype": "state", 
+        "latitude": 62.02, 
+        "sw_longitude": -6.83, 
         "date_indexed": "2010-12-02T08:52:18Z", 
-        "parent_woeid": 23424816, 
-        "latitude": 62.020, 
-        "sw_longitude": -6.830, 
+        "adjacent": [
+          "woe:state=24549696"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 62.057, 
+        "iso": "FO", 
         "fullname": "T\u00f3rshavn, Faroe Islands", 
         "sw_latitude": 61.952
       }, 
       "id": 24549692
     }
+  ], 
+  "bbox": [
+    -6.83, 
+    61.952, 
+    -6.61, 
+    62.057
   ]
 }

@@ -5229,23 +5229,36 @@
       "properties": {
         "ne:ProvNumber": 21, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=2344870", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -5.163767184707751, 
         "ne:Shape_Area": 23.0269905794, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "alias_POR_V": [
           "Estado Tocantins"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19890101", 
         "alias_ENG_A": [
           "TO"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BRA", 
-        "ne:OBJECTID": 596, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -50.74265947095779, 
+        "adjacent": [
+          "woe:state=2344848", 
+          "woe:state=2344852", 
+          "woe:state=2344854", 
+          "woe:state=2344855", 
+          "woe:state=2344857", 
+          "woe:state=2344861"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -9.318, 
         "ne:FIPS_1": "BR31", 
@@ -5253,9 +5266,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -13.385177504538149, 
-        "ne:VertexCou": 1305.0, 
-        "ne:VALIDFR_1": "19890101", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 596, 
         "ne:Postal": "TO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -5271,8 +5284,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 278972.9, 
         "woe:id": "2344870", 
-        "ne:HASC_1": "BR.TO", 
-        "lang": "POR", 
+        "name": "Tocantins", 
+        "ne:VertexCou": 1305.0, 
         "adjacent_woeid": [
           2344848, 
           2344852, 
@@ -5281,9 +5294,8 @@
           2344857, 
           2344861
         ], 
-        "name": "Tocantins", 
+        "ne:HASC_1": "BR.TO", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424768, 
         "ne_longitude": -45.75769243046125, 
         "longitude": -48.219, 
         "iso": "BR", 

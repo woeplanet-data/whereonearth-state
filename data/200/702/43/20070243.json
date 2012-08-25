@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070243, 
-        "name": "Saatli", 
         "adjacent_woeid": [
           20070227, 
           20070242, 
           20070281
         ], 
-        "ne_latitude": 40.036, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saatli", 
+        "hierarchy": [
+          "woe:state=20070243", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070243, 
         "ne_longitude": 48.771, 
         "longitude": 48.466, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.805, 
+        "iso": "AZ", 
+        "sw_latitude": 39.574, 
+        "adjacent": [
+          "woe:state=20070242", 
+          "woe:state=20070227", 
+          "woe:state=20070281"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.036, 
         "sw_longitude": 48.161, 
         "fullname": "Saatli, Azerbaijan", 
-        "sw_latitude": 39.574
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070243
     }
+  ], 
+  "bbox": [
+    48.161, 
+    39.574, 
+    48.771, 
+    40.036
   ]
 }

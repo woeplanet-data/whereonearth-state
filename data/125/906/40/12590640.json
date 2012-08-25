@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "SWE", 
-        "woeid": 12590640, 
-        "name": "Mariehamn", 
         "adjacent_woeid": [
           12590635, 
           12590638
         ], 
-        "ne_latitude": 60.129, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mariehamn", 
+        "latitude": 60.095, 
+        "hierarchy": [
+          "woe:state=12590640", 
+          "woe:country=12577865", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12590640, 
         "ne_longitude": 19.965, 
         "longitude": 19.942, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_FIN_Q": [
           "Maarianhamina"
         ], 
         "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
-        "parent_woeid": 12577865, 
-        "latitude": 60.095, 
+        "sw_latitude": 60.048, 
+        "adjacent": [
+          "woe:state=12590635", 
+          "woe:state=12590638"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 60.129, 
         "sw_longitude": 19.914, 
         "fullname": "Mariehamn, Aland Islands", 
-        "sw_latitude": 60.048
+        "date_indexed": "2010-12-02T17:06:00Z"
       }, 
       "id": 12590640
     }
+  ], 
+  "bbox": [
+    19.914, 
+    60.048, 
+    19.965, 
+    60.129
   ]
 }

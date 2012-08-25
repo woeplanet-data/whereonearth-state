@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              108.600, 
+              108.6, 
               13.518
             ], 
             [
-              108.600, 
+              108.6, 
               14.691
             ], 
             [
@@ -23,7 +23,7 @@
               13.518
             ], 
             [
-              108.600, 
+              108.6, 
               13.518
             ]
           ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347730, 
-        "name": "Binh Dinh", 
         "adjacent_woeid": [
           2347733, 
           2347745, 
           20070077
         ], 
-        "ne_latitude": 14.691, 
+        "name": "Binh Dinh", 
+        "hierarchy": [
+          "woe:state=2347730", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347730, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 109.317, 
         "longitude": 108.954, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347733", 
+          "woe:state=2347745", 
+          "woe:state=20070077"
+        ], 
+        "ne_latitude": 14.691, 
         "latitude": 14.104, 
-        "sw_longitude": 108.600, 
+        "sw_longitude": 108.6, 
         "fullname": "Binh Dinh, Vietnam", 
         "sw_latitude": 13.518
       }, 
       "id": 2347730
     }
+  ], 
+  "bbox": [
+    108.6, 
+    13.518, 
+    109.317, 
+    14.691
   ]
 }

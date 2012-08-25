@@ -1024,20 +1024,30 @@
           "County Wexford"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2345273", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 52.791610012192336, 
         "ne:Shape_Area": 0.309177200776, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "WEX"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:OBJECTID": 718, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -7.019333461969666, 
+        "adjacent": [
+          "woe:state=2345249", 
+          "woe:state=2345258", 
+          "woe:state=2345274"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.461, 
         "ne:FIPS_1": "EI30", 
@@ -1045,9 +1055,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.124777329909875, 
-        "ne:VertexCou": 251.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 718, 
         "ne:Postal": "WX", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Loch Garman", 
@@ -1063,16 +1073,15 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 2338.5, 
         "woe:id": "2345273", 
-        "ne:HASC_1": "IE.WX", 
-        "lang": "ENG", 
+        "name": "Wexford", 
+        "ne:VertexCou": 251.0, 
         "adjacent_woeid": [
           2345249, 
           2345258, 
           2345274
         ], 
-        "name": "Wexford", 
+        "ne:HASC_1": "IE.WX", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Loch Garman"
         ], 

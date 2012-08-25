@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070050, 
-        "name": "Dobrich", 
         "adjacent_woeid": [
           2346628, 
           20070051, 
           20070052, 
           20070070
         ], 
-        "ne_latitude": 44.008, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Dobrich", 
+        "hierarchy": [
+          "woe:state=20070050", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070050, 
         "ne_longitude": 28.609, 
         "longitude": 27.903, 
-        "placetype": "State", 
-        "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
+        "placetype": "state", 
         "latitude": 43.664, 
+        "iso": "BG", 
+        "sw_latitude": 43.319, 
+        "adjacent": [
+          "woe:state=2346628", 
+          "woe:state=20070052", 
+          "woe:state=20070070", 
+          "woe:state=20070051"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 44.008, 
         "sw_longitude": 27.197, 
         "fullname": "Dobrich, Bulgaria", 
-        "sw_latitude": 43.319
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070050
     }
+  ], 
+  "bbox": [
+    27.197, 
+    43.319, 
+    28.609, 
+    44.008
   ]
 }

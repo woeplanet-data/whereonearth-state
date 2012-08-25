@@ -15,11 +15,11 @@
               21.564
             ], 
             [
-              101.790, 
+              101.79, 
               21.564
             ], 
             [
-              101.790, 
+              101.79, 
               20.381
             ], 
             [
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346003, 
-        "name": "Louang Namtha Province", 
         "adjacent_woeid": [
           2344820, 
           2346005, 
           12578018, 
           20070156
         ], 
-        "ne_latitude": 21.564, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Louang Namtha Province", 
         "alias_ENG_V": [
           "Louangnamtha"
         ], 
-        "ne_longitude": 101.790, 
+        "hierarchy": [
+          "woe:state=2346003", 
+          "woe:country=23424872", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346003, 
+        "ne_longitude": 101.79, 
         "longitude": 100.942, 
-        "placetype": "State", 
-        "iso": "LA", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
-        "parent_woeid": 23424872, 
+        "placetype": "state", 
         "latitude": 20.852, 
+        "iso": "LA", 
+        "sw_latitude": 20.381, 
+        "adjacent": [
+          "woe:state=20070156", 
+          "woe:state=2346005", 
+          "woe:state=2344820", 
+          "woe:state=12578018"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 21.564, 
         "sw_longitude": 100.515, 
         "fullname": "Louang Namtha Province, Laos", 
-        "sw_latitude": 20.381
+        "date_indexed": "2010-12-02T16:42:51Z"
       }, 
       "id": 2346003
     }
+  ], 
+  "bbox": [
+    100.515, 
+    20.381, 
+    101.79, 
+    21.564
   ]
 }

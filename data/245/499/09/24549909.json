@@ -8,7 +8,7 @@
           [
             [
               -65.086, 
-              18.310
+              18.31
             ], 
             [
               -65.086, 
@@ -20,11 +20,11 @@
             ], 
             [
               -64.823, 
-              18.310
+              18.31
             ], 
             [
               -65.086, 
-              18.310
+              18.31
             ]
           ]
         ]
@@ -32,25 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549909, 
-        "name": "Saint Thomas Island", 
         "alias_ENG_V": [
           "St. Thomas Island"
         ], 
-        "ne_latitude": 18.412, 
+        "name": "Saint Thomas Island", 
+        "hierarchy": [
+          "woe:state=24549909", 
+          "woe:country=23424985", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549909, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -64.823, 
         "longitude": -64.936, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VI", 
         "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424985, 
+        "ne_latitude": 18.412, 
         "latitude": 18.351, 
         "sw_longitude": -65.086, 
         "fullname": "Saint Thomas Island, US Virgin Islands", 
-        "sw_latitude": 18.310
+        "sw_latitude": 18.31
       }, 
       "id": 24549909
     }
+  ], 
+  "bbox": [
+    -65.086, 
+    18.31, 
+    -64.823, 
+    18.412
   ]
 }

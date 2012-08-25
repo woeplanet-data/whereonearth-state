@@ -15,11 +15,11 @@
               41.385
             ], 
             [
-              22.600, 
+              22.6, 
               41.385
             ], 
             [
-              22.600, 
+              22.6, 
               41.117
             ], 
             [
@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550840, 
-        "alias_UNK_V": [
-          "Opstina Gevgelija"
-        ], 
-        "name": "Gevgelija", 
-        "alias_ENG_P": [
-          "Gevgelija Municipality"
-        ], 
-        "ne_latitude": 41.385, 
-        "ne_longitude": 22.600, 
-        "longitude": 22.413, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           12577884, 
           24550760, 
@@ -52,15 +39,45 @@
           24550813, 
           24550827
         ], 
+        "name": "Gevgelija", 
+        "alias_ENG_P": [
+          "Gevgelija Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550840", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550840, 
+        "alias_UNK_V": [
+          "Opstina Gevgelija"
+        ], 
+        "longitude": 22.413, 
+        "ne_longitude": 22.6, 
+        "placetype": "state", 
+        "latitude": 41.251, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550827", 
+          "woe:state=12577884", 
+          "woe:state=24550760", 
+          "woe:state=24550774", 
+          "woe:state=24550813"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.251, 
+        "ne_latitude": 41.385, 
         "sw_longitude": 22.227, 
         "fullname": "Gevgelija, Gevgelija Municipality, Macedonia", 
         "sw_latitude": 41.117
       }, 
       "id": 24550840
     }
+  ], 
+  "bbox": [
+    22.227, 
+    41.117, 
+    22.6, 
+    41.385
   ]
 }

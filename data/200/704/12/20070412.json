@@ -15,11 +15,11 @@
               3.739
             ], 
             [
-              31.500, 
+              31.5, 
               3.739
             ], 
             [
-              31.500, 
+              31.5, 
               2.538
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070412, 
-        "name": "Arua", 
         "adjacent_woeid": [
           20070439, 
           20070444, 
@@ -42,20 +40,40 @@
           56190206, 
           56190208
         ], 
-        "ne_latitude": 3.739, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 31.500, 
+        "name": "Arua", 
+        "hierarchy": [
+          "woe:state=20070412", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070412, 
+        "ne_longitude": 31.5, 
         "longitude": 31.215, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 3.166, 
+        "iso": "UG", 
+        "sw_latitude": 2.538, 
+        "adjacent": [
+          "woe:state=20070445", 
+          "woe:state=56190206", 
+          "woe:state=20070444", 
+          "woe:state=20070439", 
+          "woe:state=56190208", 
+          "woe:state=24550739"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 3.739, 
         "sw_longitude": 30.763, 
         "fullname": "Arua, Uganda", 
-        "sw_latitude": 2.538
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070412
     }
+  ], 
+  "bbox": [
+    30.763, 
+    2.538, 
+    31.5, 
+    3.739
   ]
 }

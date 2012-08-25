@@ -344,9 +344,14 @@
         "alias_ENG_P": [
           "Debarca Municipality"
         ], 
+        "hierarchy": [
+          "woe:state=24550746", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.42868602164265, 
         "ne:Shape_Area": 0.0445127664896, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -355,6 +360,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 20.687347446327635, 
+        "adjacent": [
+          "woe:state=24550759", 
+          "woe:state=24550764", 
+          "woe:state=24550834", 
+          "woe:state=24550846"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.313, 
         "ne:FIPS_1": "MK00", 
@@ -390,7 +401,6 @@
         ], 
         "name": "Debarca", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424890, 
         "alias_UNK_V": [
           "Opstina Debarca"
         ], 

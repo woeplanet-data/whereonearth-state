@@ -8,7 +8,7 @@
           [
             [
               -57.815, 
-              -26.000
+              -26.0
             ], 
             [
               -57.815, 
@@ -20,20 +20,24 @@
             ], 
             [
               -57.251, 
-              -26.000
+              -26.0
             ], 
             [
               -57.815, 
-              -26.000
+              -26.0
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_CHI_Q": [
+          "\u4e2d\u592e"
+        ], 
         "lang": "SPA", 
-        "woeid": 2346453, 
-        "name": "Central", 
+        "alias_KOR_Q": [
+          "\uc13c\ud2b8\ub7f4"
+        ], 
         "adjacent_woeid": [
           2344683, 
           2346455, 
@@ -42,32 +46,46 @@
           2346461, 
           20070148
         ], 
+        "hierarchy": [
+          "woe:state=2346453", 
+          "woe:country=23424917", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -25.131, 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30e9\u30eb"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -57.251, 
         "longitude": -57.492, 
-        "alias_CHI_Q": [
-          "\u4e2d\u592e"
-        ], 
-        "placetype": "State", 
-        "iso": "PY", 
-        "date_indexed": "2010-12-02T12:08:38Z", 
-        "alias_KOR_Q": [
-          "\uc13c\ud2b8\ub7f4"
-        ], 
-        "parent_woeid": 23424917, 
-        "latitude": -25.566, 
+        "placetype": "state", 
         "sw_longitude": -57.815, 
+        "sw_latitude": -26.0, 
+        "adjacent": [
+          "woe:state=20070148", 
+          "woe:state=2346455", 
+          "woe:state=2344683", 
+          "woe:state=2346460", 
+          "woe:state=2346461", 
+          "woe:state=2346459"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -25.566, 
+        "iso": "PY", 
         "fullname": "Central, Paraguay", 
         "alias_GER_Q": [
           "Zentral"
         ], 
-        "sw_latitude": -26.000
+        "woeid": 2346453, 
+        "date_indexed": "2010-12-02T12:08:38Z", 
+        "name": "Central"
       }, 
       "id": 2346453
     }
+  ], 
+  "bbox": [
+    -57.815, 
+    -26.0, 
+    -57.251, 
+    -25.131
   ]
 }

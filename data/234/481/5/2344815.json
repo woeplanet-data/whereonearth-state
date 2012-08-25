@@ -15,11 +15,11 @@
               19.999
             ], 
             [
-              97.910, 
+              97.91, 
               19.999
             ], 
             [
-              97.910, 
+              97.91, 
               18.492
             ], 
             [
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344815, 
-        "name": "Kayan State", 
         "adjacent_woeid": [
           2344814, 
           2344820, 
           2347128
         ], 
-        "ne_latitude": 19.999, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 97.910, 
+        "name": "Kayan State", 
+        "hierarchy": [
+          "woe:state=2344815", 
+          "woe:country=23424763", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344815, 
+        "ne_longitude": 97.91, 
         "longitude": 97.362, 
-        "placetype": "State", 
-        "iso": "MM", 
-        "date_indexed": "2010-12-02T17:58:12Z", 
-        "parent_woeid": 23424763, 
+        "placetype": "state", 
         "latitude": 19.245, 
+        "iso": "MM", 
+        "sw_latitude": 18.492, 
+        "adjacent": [
+          "woe:state=2344814", 
+          "woe:state=2347128", 
+          "woe:state=2344820"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.999, 
         "sw_longitude": 96.814, 
         "fullname": "Kayan State, Myanmar", 
-        "sw_latitude": 18.492
+        "date_indexed": "2010-12-02T17:58:12Z"
       }, 
       "id": 2344815
     }
+  ], 
+  "bbox": [
+    96.814, 
+    18.492, 
+    97.91, 
+    19.999
   ]
 }

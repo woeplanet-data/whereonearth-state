@@ -15,11 +15,11 @@
               43.659
             ], 
             [
-              -4.510, 
+              -4.51, 
               43.659
             ], 
             [
-              -4.510, 
+              -4.51, 
               42.881
             ], 
             [
@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Asturias"
         ], 
+        "hierarchy": [
+          "woe:state=12578027", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 43.659, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Ast\u00farias"
         ], 
@@ -59,8 +64,13 @@
           "Asturian Ruhtinaskunta"
         ], 
         "sw_longitude": -7.183, 
+        "adjacent": [
+          "woe:state=12578028", 
+          "woe:state=12578033", 
+          "woe:state=12578036"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 43.270, 
+        "latitude": 43.27, 
         "alias_NOR_Q": [
           "Asturias"
         ], 
@@ -84,8 +94,7 @@
           12578036
         ], 
         "name": "Principado de Asturias", 
-        "parent_woeid": 23424950, 
-        "ne_longitude": -4.510, 
+        "ne_longitude": -4.51, 
         "longitude": -5.847, 
         "iso": "ES", 
         "sw_latitude": 42.881, 
@@ -99,5 +108,11 @@
       }, 
       "id": 12578027
     }
+  ], 
+  "bbox": [
+    -7.183, 
+    42.881, 
+    -4.51, 
+    43.659
   ]
 }

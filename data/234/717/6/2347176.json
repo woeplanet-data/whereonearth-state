@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347176, 
-        "name": "Ratchaburi", 
         "adjacent_woeid": [
           2344821, 
           2347174, 
@@ -42,23 +40,43 @@
           2347179, 
           2347180
         ], 
-        "ne_latitude": 13.944, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ratchaburi", 
         "alias_ENG_V": [
           "Changwat Ratchaburi"
         ], 
+        "hierarchy": [
+          "woe:state=2347176", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347176, 
         "ne_longitude": 100.069, 
         "longitude": 99.616, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 13.546, 
+        "iso": "TH", 
+        "sw_latitude": 13.149, 
+        "adjacent": [
+          "woe:state=2347174", 
+          "woe:state=2347177", 
+          "woe:state=2347180", 
+          "woe:state=2347179", 
+          "woe:state=2347178", 
+          "woe:state=2344821"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.944, 
         "sw_longitude": 99.163, 
         "fullname": "Ratchaburi, Thailand", 
-        "sw_latitude": 13.149
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347176
     }
+  ], 
+  "bbox": [
+    99.163, 
+    13.149, 
+    100.069, 
+    13.944
   ]
 }

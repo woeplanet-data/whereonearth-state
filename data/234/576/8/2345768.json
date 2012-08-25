@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              45.090, 
+              45.09, 
               36.809
             ], 
             [
-              45.090, 
+              45.09, 
               39.176
             ], 
             [
@@ -23,7 +23,7 @@
               36.809
             ], 
             [
-              45.090, 
+              45.09, 
               36.809
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345768, 
-        "name": "Azarbayjan-e Sharqi", 
         "adjacent_woeid": [
           2345767, 
           2345786, 
@@ -41,20 +39,39 @@
           20070206, 
           20070224
         ], 
-        "ne_latitude": 39.176, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Azarbayjan-e Sharqi", 
+        "hierarchy": [
+          "woe:state=2345768", 
+          "woe:country=23424851", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345768, 
         "ne_longitude": 48.341, 
         "longitude": 46.716, 
-        "placetype": "State", 
-        "iso": "IR", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424851, 
+        "placetype": "state", 
         "latitude": 38.005, 
-        "sw_longitude": 45.090, 
+        "iso": "IR", 
+        "sw_latitude": 36.809, 
+        "adjacent": [
+          "woe:state=20070198", 
+          "woe:state=2345767", 
+          "woe:state=20070224", 
+          "woe:state=20070206", 
+          "woe:state=2345786"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.176, 
+        "sw_longitude": 45.09, 
         "fullname": "Azarbayjan-e Sharqi, Iran", 
-        "sw_latitude": 36.809
+        "date_indexed": "2010-12-02T08:53:34Z"
       }, 
       "id": 2345768
     }
+  ], 
+  "bbox": [
+    45.09, 
+    36.809, 
+    48.341, 
+    39.176
   ]
 }

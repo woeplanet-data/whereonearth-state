@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 56051560, 
-        "name": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os", 
         "adjacent_woeid": [
           56051557, 
           56051561, 
           56051562, 
           56051563
         ], 
-        "ne_latitude": 15.106, 
+        "name": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os", 
+        "hierarchy": [
+          "woe:state=56051560", 
+          "woe:country=23424794", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56051560, 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -23.557, 
+        "longitude": -23.6, 
+        "placetype": "state", 
+        "latitude": 15.072, 
+        "iso": "CV", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "adjacent": [
+          "woe:state=56051563", 
+          "woe:state=56051561", 
+          "woe:state=56051562", 
+          "woe:state=56051557"
+        ], 
         "alias_POR_S": [
           "Sao Lourenco dos Orgaos"
         ], 
-        "ne_longitude": -23.557, 
-        "longitude": -23.600, 
-        "placetype": "State", 
-        "iso": "CV", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424794, 
-        "latitude": 15.072, 
+        "ne_latitude": 15.106, 
         "sw_longitude": -23.642, 
         "fullname": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os, Cape Verde", 
         "sw_latitude": 15.037
       }, 
       "id": 56051560
     }
+  ], 
+  "bbox": [
+    -23.642, 
+    15.037, 
+    -23.557, 
+    15.106
   ]
 }

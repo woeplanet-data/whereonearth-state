@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 20069903, 
-        "name": "Nahr an Nil", 
         "adjacent_woeid": [
           20069819, 
           20069904, 
           20069905, 
           20069999
         ], 
-        "ne_latitude": 22.006, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nahr an Nil", 
+        "hierarchy": [
+          "woe:state=20069903", 
+          "woe:country=23424952", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069903, 
         "ne_longitude": 35.338, 
         "longitude": 33.578, 
-        "placetype": "State", 
-        "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
-        "parent_woeid": 23424952, 
+        "placetype": "state", 
         "latitude": 18.995, 
+        "iso": "SD", 
+        "sw_latitude": 15.985, 
+        "adjacent": [
+          "woe:state=20069904", 
+          "woe:state=20069819", 
+          "woe:state=20069999", 
+          "woe:state=20069905"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 22.006, 
         "sw_longitude": 31.817, 
         "fullname": "Nahr an Nil, Sudan", 
-        "sw_latitude": 15.985
+        "date_indexed": "2010-12-02T08:50:49Z"
       }, 
       "id": 20069903
     }
+  ], 
+  "bbox": [
+    31.817, 
+    15.985, 
+    35.338, 
+    22.006
   ]
 }

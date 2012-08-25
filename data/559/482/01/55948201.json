@@ -15,11 +15,11 @@
               48.175
             ], 
             [
-              29.980, 
+              29.98, 
               48.175
             ], 
             [
-              29.980, 
+              29.98, 
               46.547
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55948201, 
-        "name": "Stinga Nistrul", 
         "adjacent_woeid": [
           2347549, 
           20069875, 
@@ -47,14 +45,33 @@
           55948200, 
           55948205
         ], 
-        "ne_latitude": 48.175, 
+        "name": "Stinga Nistrul", 
+        "hierarchy": [
+          "woe:state=55948201", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55948201, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 29.980, 
-        "longitude": 29.240, 
-        "placetype": "State", 
+        "ne_longitude": 29.98, 
+        "longitude": 29.24, 
+        "placetype": "state", 
         "iso": "MD", 
         "date_indexed": "2010-12-02T17:57:50Z", 
-        "parent_woeid": 23424885, 
+        "adjacent": [
+          "woe:state=55948205", 
+          "woe:state=55948183", 
+          "woe:state=55948185", 
+          "woe:state=20069876", 
+          "woe:state=55948189", 
+          "woe:state=2347549", 
+          "woe:state=20069875", 
+          "woe:state=55948196", 
+          "woe:state=55948199", 
+          "woe:state=55948200", 
+          "woe:state=20069877"
+        ], 
+        "ne_latitude": 48.175, 
         "latitude": 47.361, 
         "sw_longitude": 28.501, 
         "fullname": "Stinga Nistrul, Moldova", 
@@ -62,5 +79,11 @@
       }, 
       "id": 55948201
     }
+  ], 
+  "bbox": [
+    28.501, 
+    46.547, 
+    29.98, 
+    48.175
   ]
 }

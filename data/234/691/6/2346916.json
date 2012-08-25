@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346916, 
-        "name": "Orenburgskaya Oblast", 
         "adjacent_woeid": [
           2345980, 
           2345998, 
@@ -44,20 +42,42 @@
           2346924, 
           20070176
         ], 
-        "ne_latitude": 54.356, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Orenburgskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346916", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346916, 
         "ne_longitude": 61.676, 
         "longitude": 56.264, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 52.435, 
+        "iso": "RU", 
+        "sw_latitude": 50.514, 
+        "adjacent": [
+          "woe:state=2345980", 
+          "woe:state=2346866", 
+          "woe:state=2345998", 
+          "woe:state=2346893", 
+          "woe:state=20070176", 
+          "woe:state=2346906", 
+          "woe:state=2346924", 
+          "woe:state=2346878"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 54.356, 
         "sw_longitude": 50.852, 
         "fullname": "Orenburgskaya Oblast, Russia", 
-        "sw_latitude": 50.514
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346916
     }
+  ], 
+  "bbox": [
+    50.852, 
+    50.514, 
+    61.676, 
+    54.356
   ]
 }

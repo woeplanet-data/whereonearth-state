@@ -32,26 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549831, 
-        "name": "Saint-Paul", 
-        "alias_ENG_P": [
-          "Arrondissement of Saint-Paul"
-        ], 
-        "ne_latitude": -20.944, 
-        "ne_longitude": 55.467, 
-        "longitude": 55.343, 
-        "parent_woeid": 23424931, 
-        "placetype": "State", 
-        "alias_FRE_V": [
-          "Arrondissement de Saint-Paul"
-        ], 
         "adjacent_woeid": [
           24549828, 
           24549829, 
           24549830
         ], 
+        "name": "Saint-Paul", 
+        "alias_ENG_P": [
+          "Arrondissement of Saint-Paul"
+        ], 
+        "hierarchy": [
+          "woe:state=24549831", 
+          "woe:country=23424931", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549831, 
+        "ne_longitude": 55.467, 
+        "longitude": 55.343, 
+        "ne_latitude": -20.944, 
+        "placetype": "state", 
+        "alias_FRE_V": [
+          "Arrondissement de Saint-Paul"
+        ], 
         "iso": "RE", 
         "date_indexed": "2010-12-02T09:35:31Z", 
+        "adjacent": [
+          "woe:state=24549829", 
+          "woe:state=24549830", 
+          "woe:state=24549828"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -21.111, 
         "sw_longitude": 55.219, 
@@ -60,5 +69,11 @@
       }, 
       "id": 24549831
     }
+  ], 
+  "bbox": [
+    55.219, 
+    -21.288, 
+    55.467, 
+    -20.944
   ]
 }

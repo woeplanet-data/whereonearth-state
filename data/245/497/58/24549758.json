@@ -8,7 +8,7 @@
           [
             [
               45.015, 
-              -12.730
+              -12.73
             ], 
             [
               45.015, 
@@ -20,11 +20,11 @@
             ], 
             [
               45.087, 
-              -12.730
+              -12.73
             ], 
             [
               45.015, 
-              -12.730
+              -12.73
             ]
           ]
         ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549758, 
-        "name": "Mtsamboro", 
         "adjacent_woeid": [
           24549750, 
           24549755, 
           24549762
         ], 
-        "ne_latitude": -12.634, 
+        "name": "Mtsamboro", 
+        "hierarchy": [
+          "woe:state=24549758", 
+          "woe:country=23424886", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549758, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.087, 
         "longitude": 45.069, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "YT", 
         "date_indexed": "2010-12-02T16:11:57Z", 
-        "parent_woeid": 23424886, 
+        "adjacent": [
+          "woe:state=24549755", 
+          "woe:state=24549762", 
+          "woe:state=24549750"
+        ], 
+        "ne_latitude": -12.634, 
         "latitude": -12.719, 
         "sw_longitude": 45.015, 
         "fullname": "Mtsamboro, Mayotte", 
-        "sw_latitude": -12.730
+        "sw_latitude": -12.73
       }, 
       "id": 24549758
     }
+  ], 
+  "bbox": [
+    45.015, 
+    -12.73, 
+    45.087, 
+    -12.634
   ]
 }

@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 29389223, 
-        "alias_UNK_V": [
-          "Ni\u0161avski Okrug"
-        ], 
-        "name": "Nishava", 
         "adjacent_woeid": [
           29389199, 
           29389200, 
@@ -45,26 +40,49 @@
           29389219, 
           29389221
         ], 
+        "name": "Nishava", 
+        "latitude": 43.473, 
         "alias_UNK_S": [
           "Nisava"
         ], 
-        "ne_latitude": 43.865, 
+        "woeid": 29389223, 
         "alias_UNK_Q": [
           "Ni\u0161ava"
         ], 
+        "alias_UNK_V": [
+          "Ni\u0161avski Okrug"
+        ], 
+        "longitude": 21.88, 
         "ne_longitude": 22.309, 
-        "longitude": 21.880, 
-        "parent_woeid": 20069818, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=29389223", 
+          "woe:country=20069818", 
+          "woe:planet=1"
+        ], 
         "iso": "RS", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
+        "sw_latitude": 43.082, 
+        "adjacent": [
+          "woe:state=29389208", 
+          "woe:state=29389200", 
+          "woe:state=29389221", 
+          "woe:state=29389199", 
+          "woe:state=29389219", 
+          "woe:state=29389213"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 43.473, 
+        "ne_latitude": 43.865, 
         "sw_longitude": 21.451, 
         "fullname": "Nishava, Serbia", 
-        "sw_latitude": 43.082
+        "date_indexed": "2010-12-02T10:22:30Z"
       }, 
       "id": 29389223
     }
+  ], 
+  "bbox": [
+    21.451, 
+    43.082, 
+    22.309, 
+    43.865
   ]
 }

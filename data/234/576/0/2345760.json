@@ -8446,11 +8446,16 @@
         "alias_KOR_Q": [
           "\uc6b0\ud0c0\ub974\ud504\ub77c\ub370\uc2dc"
         ], 
+        "hierarchy": [
+          "woe:state=2345760", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 30.40202057568905, 
         "ne:Shape_Area": 21.8397879594, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "UP"
         ], 
@@ -8460,13 +8465,27 @@
         "alias_CHI_Q": [
           "\u5317\u65b9\u90a6"
         ], 
-        "ne:OBJECTID": 3253, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30a6\u30c3\u30bf\u30eb\u30d7\u30e9\u30c7\u30b7\u5dde"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 77.0581702003945, 
+        "adjacent": [
+          "woe:state=2345742", 
+          "woe:state=20070464", 
+          "woe:state=20070458", 
+          "woe:state=2345744", 
+          "woe:state=2345745", 
+          "woe:state=20070463", 
+          "woe:state=20070018", 
+          "woe:state=2345749", 
+          "woe:state=20070026", 
+          "woe:state=2345757", 
+          "woe:state=20070030", 
+          "woe:state=20070462"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 27.138, 
         "ne:FIPS_1": "IN36", 
@@ -8474,9 +8493,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 23.91104726841678, 
-        "ne:VertexCou": 2096.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3253, 
         "ne:Postal": "UP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "United Provinces", 
@@ -8492,8 +8511,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 240262.4, 
         "woe:id": "2345760", 
-        "ne:HASC_1": "IN.UP", 
-        "lang": "ENG", 
+        "name": "Uttar Pradesh", 
+        "ne:VertexCou": 2096.0, 
         "adjacent_woeid": [
           2345742, 
           2345744, 
@@ -8508,9 +8527,8 @@
           20070463, 
           20070464
         ], 
-        "name": "Uttar Pradesh", 
+        "ne:HASC_1": "IN.UP", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 84.6124377786806, 
         "longitude": 80.862, 
         "iso": "IN", 

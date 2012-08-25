@@ -40,8 +40,13 @@
         "alias_ENG_P": [
           "Basque Country"
         ], 
+        "hierarchy": [
+          "woe:state=12578037", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 43.457, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Pa\u00eds Basco"
         ], 
@@ -56,6 +61,13 @@
           "Pais Vasco"
         ], 
         "sw_longitude": -3.451, 
+        "adjacent": [
+          "woe:state=7153309", 
+          "woe:state=12578028", 
+          "woe:state=12578033", 
+          "woe:state=12578026", 
+          "woe:state=12578023"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.964, 
         "alias_NOR_Q": [
@@ -83,12 +95,11 @@
           12578033
         ], 
         "name": "Pa\u00eds Vasco", 
-        "parent_woeid": 23424950, 
         "alias_UNK_Q": [
           "Euskadi"
         ], 
         "ne_longitude": -1.729, 
-        "longitude": -2.590, 
+        "longitude": -2.59, 
         "iso": "ES", 
         "sw_latitude": 42.472, 
         "fullname": "Pa\u00eds Vasco, Basque Country, Spain", 
@@ -98,5 +109,11 @@
       }, 
       "id": 12578037
     }
+  ], 
+  "bbox": [
+    -3.451, 
+    42.472, 
+    -1.729, 
+    43.457
   ]
 }

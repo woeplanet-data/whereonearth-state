@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347188, 
-        "name": "Nakhon Si Thammarat", 
         "adjacent_woeid": [
           2347184, 
           2347187, 
@@ -41,23 +39,42 @@
           2347190, 
           2347192
         ], 
-        "ne_latitude": 9.328, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nakhon Si Thammarat", 
         "alias_ENG_V": [
           "Changwat Nakhon Si Thammarat"
         ], 
+        "hierarchy": [
+          "woe:state=2347188", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347188, 
         "ne_longitude": 100.337, 
         "longitude": 99.786, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 8.581, 
+        "iso": "TH", 
+        "sw_latitude": 7.838, 
+        "adjacent": [
+          "woe:state=2347187", 
+          "woe:state=2347190", 
+          "woe:state=2347192", 
+          "woe:state=2347184", 
+          "woe:state=2347189"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.328, 
         "sw_longitude": 99.234, 
         "fullname": "Nakhon Si Thammarat, Thailand", 
-        "sw_latitude": 7.838
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347188
     }
+  ], 
+  "bbox": [
+    99.234, 
+    7.838, 
+    100.337, 
+    9.328
   ]
 }

@@ -5696,16 +5696,23 @@
       "type": "Feature", 
       "properties": {
         "ne:ProvNumber": 19, 
-        "ne:ISO": "DEU", 
         "ne:ScaleRank": 3, 
         "alias_ENG_P": [
           "Hesse"
         ], 
+        "hierarchy": [
+          "woe:state=2345485", 
+          "woe:country=23424829", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 51.65501272245922, 
+        "alias_GER_A": [
+          "HE"
+        ], 
         "ne:Shape_Area": 2.66816365428, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud5e4\uc13c"
         ], 
@@ -5717,8 +5724,10 @@
         "alias_ITA_Q": [
           "Assia"
         ], 
-        "ne:Area_sqkm": 21012.4, 
-        "ne:OBJECTID": 1574, 
+        "alias_GER_V": [
+          "Land Hessen"
+        ], 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30d8\u30c3\u30bb\u30f3"
         ], 
@@ -5726,6 +5735,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 7.771391635615544, 
+        "adjacent": [
+          "woe:state=2345481", 
+          "woe:state=2345482", 
+          "woe:state=2345486", 
+          "woe:state=2345487", 
+          "woe:state=2345488", 
+          "woe:state=2345495"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.527, 
         "ne:FIPS_1": "GM05", 
@@ -5733,30 +5750,26 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 49.39628754313566, 
-        "ne:VertexCou": 1420.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "lang": "GER", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 1574, 
         "ne:Postal": "HE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Hesse", 
-        "alias_GER_A": [
-          "HE"
-        ], 
-        "ne:TYPE_1": "Land", 
+        "ne:ISO": "DEU", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 12.2852891289, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "Germany", 
         "ne:NAME_1": "Hessen", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Land", 
         "ne:LabelRank": 3, 
-        "alias_GER_V": [
-          "Land Hessen"
-        ], 
+        "ne:Area_sqkm": 21012.4, 
         "woe:id": "2345485", 
-        "ne:HASC_1": "DE.HE", 
-        "lang": "GER", 
+        "name": "Hessen", 
+        "ne:VertexCou": 1420.0, 
         "adjacent_woeid": [
           2345481, 
           2345482, 
@@ -5765,9 +5778,8 @@
           2345488, 
           2345495
         ], 
-        "name": "Hessen", 
+        "ne:HASC_1": "DE.HE", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424829, 
         "ne_longitude": 10.232895135102467, 
         "longitude": 9.004, 
         "iso": "DE", 

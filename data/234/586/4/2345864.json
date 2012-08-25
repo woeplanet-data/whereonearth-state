@@ -837,20 +837,30 @@
         "alias_ENG_P": [
           "Ishikawa Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345864", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 37.528200588886136, 
         "ne:Shape_Area": 0.403476181455, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1842, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u77f3\u5ddd"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 136.24122439958649, 
+        "adjacent": [
+          "woe:state=2345891", 
+          "woe:state=2345859", 
+          "woe:state=2345856"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 36.8, 
         "ne:FIPS_1": "JA15", 
@@ -858,9 +868,9 @@
         "ne:FIRST_HASC": "JP.HS", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 36.06343211490025, 
-        "ne:VertexCou": 201.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1842, 
         "ne:Postal": "IS", 
         "ne:Region_Cod": "JPN-CHB", 
         "ne:VARNAME_1": "Isikawa", 
@@ -876,16 +886,15 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 3997.0, 
         "woe:id": "2345864", 
-        "ne:HASC_1": "JP.IS", 
-        "lang": "JPN", 
+        "name": "\u77f3\u5ddd\u770c", 
+        "ne:VertexCou": 201.0, 
         "adjacent_woeid": [
           2345856, 
           2345859, 
           2345891
         ], 
-        "name": "\u77f3\u5ddd\u770c", 
+        "ne:HASC_1": "JP.IS", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 137.36332645075515, 
         "longitude": 136.802, 
         "iso": "JP", 

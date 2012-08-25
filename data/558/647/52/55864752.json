@@ -12,11 +12,11 @@
             ], 
             [
               29.282, 
-              -1.730
+              -1.73
             ], 
             [
               30.027, 
-              -1.730
+              -1.73
             ], 
             [
               30.027, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 55864752, 
-        "name": "Province du Sud", 
         "adjacent_woeid": [
           2344905, 
           2344908, 
@@ -44,17 +42,33 @@
           55864751, 
           55864753
         ], 
-        "ne_latitude": -1.730, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Province du Sud", 
         "alias_ENG_V": [
           "South Province"
         ], 
+        "hierarchy": [
+          "woe:state=55864752", 
+          "woe:country=23424937", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55864752, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 30.027, 
         "longitude": 29.655, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "RW", 
         "date_indexed": "2010-12-02T09:35:43Z", 
-        "parent_woeid": 23424937, 
+        "adjacent": [
+          "woe:state=2344905", 
+          "woe:state=2344908", 
+          "woe:state=55864750", 
+          "woe:state=2344909", 
+          "woe:state=2344912", 
+          "woe:state=55864749", 
+          "woe:state=55864753", 
+          "woe:state=55864751"
+        ], 
+        "ne_latitude": -1.73, 
         "latitude": -2.285, 
         "sw_longitude": 29.282, 
         "fullname": "Province du Sud, Rwanda", 
@@ -62,5 +76,11 @@
       }, 
       "id": 55864752
     }
+  ], 
+  "bbox": [
+    29.282, 
+    -2.841, 
+    30.027, 
+    -1.73
   ]
 }

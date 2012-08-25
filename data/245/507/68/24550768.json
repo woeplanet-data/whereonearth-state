@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550768, 
-        "alias_UNK_V": [
-          "Opstina Gradsko"
-        ], 
-        "name": "Gradsko", 
-        "alias_ENG_P": [
-          "Gradsko Municipality"
-        ], 
-        "ne_latitude": 41.733, 
-        "ne_longitude": 22.027, 
-        "longitude": 21.906, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550754, 
           24550785, 
@@ -53,15 +40,46 @@
           24550807, 
           24550815
         ], 
+        "name": "Gradsko", 
+        "alias_ENG_P": [
+          "Gradsko Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550768", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550768, 
+        "alias_UNK_V": [
+          "Opstina Gradsko"
+        ], 
+        "longitude": 21.906, 
+        "ne_longitude": 22.027, 
+        "placetype": "state", 
+        "latitude": 41.611, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550785", 
+          "woe:state=24550790", 
+          "woe:state=24550801", 
+          "woe:state=24550815", 
+          "woe:state=24550754", 
+          "woe:state=24550807"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.611, 
+        "ne_latitude": 41.733, 
         "sw_longitude": 21.785, 
         "fullname": "Gradsko, Gradsko Municipality, Macedonia", 
         "sw_latitude": 41.489
       }, 
       "id": 24550768
     }
+  ], 
+  "bbox": [
+    21.785, 
+    41.489, 
+    22.027, 
+    41.733
   ]
 }

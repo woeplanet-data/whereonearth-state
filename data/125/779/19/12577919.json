@@ -15,11 +15,11 @@
               47.965
             ], 
             [
-              22.130, 
+              22.13, 
               47.965
             ], 
             [
-              22.130, 
+              22.13, 
               46.941
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "ne_latitude": 47.965, 
-        "name": "Hajd\u00fa-Bihar", 
         "adjacent_woeid": [
           2346619, 
           12577913, 
@@ -43,13 +41,27 @@
           56043620, 
           56043636
         ], 
-        "woeid": 12577919, 
-        "ne_longitude": 22.130, 
+        "name": "Hajd\u00fa-Bihar", 
+        "hierarchy": [
+          "woe:state=12577919", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 47.965, 
+        "ne_longitude": 22.13, 
         "longitude": 21.476, 
-        "parent_woeid": 23424844, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
-        "date_indexed": "2010-12-02T09:55:38Z", 
+        "sw_latitude": 46.941, 
+        "adjacent": [
+          "woe:state=2346619", 
+          "woe:state=12577914", 
+          "woe:state=12577913", 
+          "woe:state=56043620", 
+          "woe:state=12577926", 
+          "woe:state=56043636", 
+          "woe:state=12577925"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.453, 
         "sw_longitude": 20.823, 
@@ -57,9 +69,16 @@
         "alias_HUN_S": [
           "Hajdu-Bihar"
         ], 
-        "sw_latitude": 46.941
+        "woeid": 12577919, 
+        "date_indexed": "2010-12-02T09:55:38Z"
       }, 
       "id": 12577919
     }
+  ], 
+  "bbox": [
+    20.823, 
+    46.941, 
+    22.13, 
+    47.965
   ]
 }

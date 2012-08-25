@@ -12,11 +12,11 @@
             ], 
             [
               -63.394, 
-              -33.260
+              -33.26
             ], 
             [
               -56.666, 
-              -33.260
+              -33.26
             ], 
             [
               -56.666, 
@@ -31,12 +31,42 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "ne_latitude": -33.260, 
         "alias_KOR_Q": [
           "\ubd80\uc5d0\ub178\uc2a4\uc544\uc774\ub808\uc2a4"
         ], 
-        "name": "Buenos Aires", 
+        "hierarchy": [
+          "woe:state=2344675", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": -33.26, 
+        "placetype": "state", 
+        "alias_ENG_A": [
+          "BR"
+        ], 
+        "alias_CHI_Q": [
+          "\u5e03\u5b9c\u8bfa\u65af\u827e\u5229\u65af"
+        ], 
+        "woeid": 2344675, 
+        "alias_JPN_Q": [
+          "\u30d6\u30a8\u30ce\u30b9\u30a2\u30a4\u30ec\u30b9"
+        ], 
+        "sw_longitude": -63.394, 
+        "adjacent": [
+          "woe:state=2344681", 
+          "woe:state=2344679", 
+          "woe:state=2344682", 
+          "woe:state=2344685", 
+          "woe:state=2344690", 
+          "woe:state=2344695"
+        ], 
+        "alias_SPA_V": [
+          "Buenosaires"
+        ], 
+        "latitude": -37.148, 
+        "sw_latitude": -41.036, 
+        "provider": "geoplanet 7.6.0", 
+        "lang": "SPA", 
         "adjacent_woeid": [
           2344679, 
           2344681, 
@@ -45,32 +75,20 @@
           2344690, 
           2344695
         ], 
-        "woeid": 2344675, 
-        "alias_JPN_Q": [
-          "\u30d6\u30a8\u30ce\u30b9\u30a2\u30a4\u30ec\u30b9"
-        ], 
-        "alias_SPA_V": [
-          "Buenosaires"
-        ], 
+        "name": "Buenos Aires", 
         "ne_longitude": -56.666, 
-        "longitude": -60.030, 
-        "parent_woeid": 23424747, 
-        "placetype": "State", 
-        "alias_CHI_Q": [
-          "\u5e03\u5b9c\u8bfa\u65af\u827e\u5229\u65af"
-        ], 
+        "longitude": -60.03, 
         "iso": "AR", 
         "date_indexed": "2010-12-02T17:40:36Z", 
-        "alias_ENG_A": [
-          "BR"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": -37.148, 
-        "sw_longitude": -63.394, 
-        "fullname": "Buenos Aires, Argentina", 
-        "sw_latitude": -41.036
+        "fullname": "Buenos Aires, Argentina"
       }, 
       "id": 2344675
     }
+  ], 
+  "bbox": [
+    -63.394, 
+    -41.036, 
+    -56.666, 
+    -33.26
   ]
 }

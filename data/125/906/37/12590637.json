@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "SWE", 
-        "woeid": 12590637, 
-        "name": "Kumlinge", 
         "adjacent_woeid": [
           12590629, 
           12590642, 
           12590644
         ], 
-        "ne_latitude": 60.512, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kumlinge", 
+        "hierarchy": [
+          "woe:state=12590637", 
+          "woe:country=12577865", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12590637, 
         "ne_longitude": 20.983, 
         "longitude": 20.789, 
-        "placetype": "State", 
-        "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
-        "parent_woeid": 12577865, 
+        "placetype": "state", 
         "latitude": 60.258, 
+        "iso": "AX", 
+        "sw_latitude": 60.116, 
+        "adjacent": [
+          "woe:state=12590629", 
+          "woe:state=12590642", 
+          "woe:state=12590644"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 60.512, 
         "sw_longitude": 20.425, 
         "fullname": "Kumlinge, Aland Islands", 
-        "sw_latitude": 60.116
+        "date_indexed": "2010-12-02T17:06:00Z"
       }, 
       "id": 12590637
     }
+  ], 
+  "bbox": [
+    20.425, 
+    60.116, 
+    20.983, 
+    60.512
   ]
 }

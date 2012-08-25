@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              4.980, 
+              4.98, 
               50.695
             ], 
             [
-              4.980, 
-              51.300
+              4.98, 
+              51.3
             ], 
             [
               5.911, 
-              51.300
+              51.3
             ], 
             [
               5.911, 
               50.695
             ], 
             [
-              4.980, 
+              4.98, 
               50.695
             ]
           ]
@@ -31,15 +31,35 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "DUT", 
-        "woeid": 7153301, 
-        "alias_ITA_Q": [
-          "Limburgo"
+        "hierarchy": [
+          "woe:state=7153301", 
+          "woe:country=23424757", 
+          "woe:planet=1"
         ], 
+        "ne_latitude": 51.3, 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Limburgo"
         ], 
-        "name": "Limburg", 
+        "alias_ITA_Q": [
+          "Limburgo"
+        ], 
+        "woeid": 7153301, 
+        "alias_SPA_Q": [
+          "Limburgo"
+        ], 
+        "sw_longitude": 4.98, 
+        "adjacent": [
+          "woe:state=7153308", 
+          "woe:state=2346377", 
+          "woe:state=7153300", 
+          "woe:state=2346378", 
+          "woe:state=22525998"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.998, 
+        "date_indexed": "2010-12-02T16:31:49Z", 
+        "lang": "DUT", 
         "adjacent_woeid": [
           2346377, 
           2346378, 
@@ -47,26 +67,23 @@
           7153308, 
           22525998
         ], 
-        "ne_latitude": 51.300, 
-        "alias_SPA_Q": [
-          "Limburgo"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Limburg", 
         "ne_longitude": 5.911, 
         "longitude": 5.418, 
-        "placetype": "State", 
         "iso": "BE", 
-        "date_indexed": "2010-12-02T16:31:49Z", 
-        "parent_woeid": 23424757, 
-        "latitude": 50.998, 
-        "sw_longitude": 4.980, 
-        "fullname": "Limburg, Belgium", 
         "sw_latitude": 50.695, 
+        "fullname": "Limburg, Belgium", 
         "alias_FRE_Q": [
           "Limbourg"
         ]
       }, 
       "id": 7153301
     }
+  ], 
+  "bbox": [
+    4.98, 
+    50.695, 
+    5.911, 
+    51.3
   ]
 }

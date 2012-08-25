@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347115, 
-        "name": "Umm Al Quwain", 
         "adjacent_woeid": [
           2347113, 
           2347114
         ], 
-        "ne_latitude": 25.665, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Umm Al Quwain", 
         "alias_ENG_V": [
           "Umm al Qaywayn"
         ], 
+        "hierarchy": [
+          "woe:state=2347115", 
+          "woe:country=23424738", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347115, 
         "ne_longitude": 55.953, 
         "longitude": 55.737, 
-        "placetype": "State", 
-        "iso": "AE", 
-        "date_indexed": "2010-12-02T08:58:41Z", 
-        "parent_woeid": 23424738, 
+        "placetype": "state", 
         "latitude": 25.496, 
+        "iso": "AE", 
+        "sw_latitude": 25.327, 
+        "adjacent": [
+          "woe:state=2347113", 
+          "woe:state=2347114"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 25.665, 
         "sw_longitude": 55.521, 
         "fullname": "Umm Al Quwain, United Arab Emirates", 
-        "sw_latitude": 25.327
+        "date_indexed": "2010-12-02T08:58:41Z"
       }, 
       "id": 2347115
     }
+  ], 
+  "bbox": [
+    55.521, 
+    25.327, 
+    55.953, 
+    25.665
   ]
 }

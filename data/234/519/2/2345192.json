@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.798, 
-        "name": "San Pedro de Marcoris", 
         "adjacent_woeid": [
           2345182, 
           2345196, 
@@ -41,26 +39,45 @@
           2345200, 
           28358196
         ], 
+        "name": "San Pedro de Marcoris", 
+        "hierarchy": [
+          "woe:state=2345192", 
+          "woe:country=23424800", 
+          "woe:planet=1"
+        ], 
         "woeid": 2345192, 
         "alias_SPA_V": [
           "San Pedro Macoris"
         ], 
         "ne_longitude": -69.066, 
         "longitude": -69.222, 
-        "parent_woeid": 23424800, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 18.597, 
         "alias_SPA_S": [
           "S. Pedro de Macoris"
         ], 
-        "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.597, 
         "sw_longitude": -69.596, 
+        "sw_latitude": 18.397, 
+        "adjacent": [
+          "woe:state=2345196", 
+          "woe:state=2345197", 
+          "woe:state=2345200", 
+          "woe:state=2345182", 
+          "woe:state=28358196"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.798, 
+        "iso": "DO", 
         "fullname": "San Pedro de Marcoris, Dominican Republic", 
-        "sw_latitude": 18.397
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345192
     }
+  ], 
+  "bbox": [
+    -69.596, 
+    18.397, 
+    -69.066, 
+    18.798
   ]
 }

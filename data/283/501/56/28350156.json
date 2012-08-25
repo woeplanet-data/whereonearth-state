@@ -2018,9 +2018,14 @@
         "alias_ENG_P": [
           "North Sulawesi"
         ], 
+        "hierarchy": [
+          "woe:state=28350156", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 5.56534536389745, 
         "ne:Shape_Area": 1.20408979698, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
@@ -2029,6 +2034,9 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 123.09727216967497, 
+        "adjacent": [
+          "woe:state=2345732"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 1.015, 
         "ne:FIPS_1": "ID31", 
@@ -2061,7 +2069,6 @@
         ], 
         "name": "Sulawesi Utara", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424846, 
         "ne_longitude": 127.14575890474975, 
         "longitude": 124.606, 
         "iso": "ID", 

@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "SWE", 
-        "woeid": 12590629, 
-        "alias_SWE_S": [
-          "Braendoe"
-        ], 
-        "name": "Br\u00e4nd\u00f6", 
         "adjacent_woeid": [
           12590637, 
           12590642
         ], 
-        "ne_latitude": 60.666, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Br\u00e4nd\u00f6", 
+        "alias_SWE_S": [
+          "Braendoe"
+        ], 
+        "hierarchy": [
+          "woe:state=12590629", 
+          "woe:country=12577865", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12590629, 
         "ne_longitude": 21.144, 
-        "longitude": 21.080, 
-        "placetype": "State", 
+        "longitude": 21.08, 
+        "ne_latitude": 60.666, 
+        "placetype": "state", 
         "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
-        "parent_woeid": 12577865, 
+        "sw_latitude": 60.139, 
+        "adjacent": [
+          "woe:state=12590637", 
+          "woe:state=12590642"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 60.465, 
         "sw_longitude": 20.474, 
         "fullname": "Br\u00e4nd\u00f6, Aland Islands", 
-        "sw_latitude": 60.139
+        "date_indexed": "2010-12-02T17:06:00Z"
       }, 
       "id": 12590629
     }
+  ], 
+  "bbox": [
+    20.474, 
+    60.139, 
+    21.144, 
+    60.666
   ]
 }

@@ -1974,11 +1974,16 @@
         "alias_KOR_Q": [
           "\ud14c\ub124\uc2dc"
         ], 
+        "hierarchy": [
+          "woe:state=2347601", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.68970135383444, 
         "ne:Shape_Area": 10.9045286185, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "17960601", 
         "alias_ENG_A": [
           "TN"
         ], 
@@ -1988,13 +1993,23 @@
         "alias_CHI_Q": [
           "\u7530\u7eb3\u897f"
         ], 
-        "ne:OBJECTID": 3551, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30c6\u30cd\u30b7\u30fc"
         ], 
         "ne:Abbrev": "Tenn.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -90.31266483781195, 
+        "adjacent": [
+          "woe:state=2347559", 
+          "woe:state=2347562", 
+          "woe:state=2347569", 
+          "woe:state=2347576", 
+          "woe:state=2347583", 
+          "woe:state=2347584", 
+          "woe:state=2347592", 
+          "woe:state=2347605"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.831, 
         "ne:FIPS_1": "US47", 
@@ -2002,9 +2017,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 34.98364666616078, 
-        "ne:VertexCou": 489.0, 
-        "ne:VALIDFR_1": "17960601", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3551, 
         "ne:Postal": "TN", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "TN|Tenn.", 
@@ -2020,8 +2035,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 108908.4, 
         "woe:id": "2347601", 
-        "ne:HASC_1": "US.TN", 
-        "lang": "ENG", 
+        "name": "Tennessee", 
+        "ne:VertexCou": 489.0, 
         "adjacent_woeid": [
           2347559, 
           2347562, 
@@ -2032,9 +2047,8 @@
           2347592, 
           2347605
         ], 
-        "name": "Tennessee", 
+        "ne:HASC_1": "US.TN", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -81.65885624422026, 
         "longitude": -85.979, 
         "iso": "US", 

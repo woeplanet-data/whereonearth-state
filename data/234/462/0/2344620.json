@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344620, 
-        "name": "Ouargla", 
         "adjacent_woeid": [
           2344594, 
           2344613, 
@@ -43,20 +41,41 @@
           2346139, 
           2347254
         ], 
-        "ne_latitude": 33.388, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ouargla", 
+        "hierarchy": [
+          "woe:state=2344620", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344620, 
         "ne_longitude": 9.575, 
         "longitude": 6.292, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 31.052, 
+        "iso": "DZ", 
+        "sw_latitude": 28.716, 
+        "adjacent": [
+          "woe:state=2344594", 
+          "woe:state=2344613", 
+          "woe:state=2346139", 
+          "woe:state=2344615", 
+          "woe:state=2344616", 
+          "woe:state=2344623", 
+          "woe:state=2347254"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 33.388, 
         "sw_longitude": 3.009, 
         "fullname": "Ouargla, Algeria", 
-        "sw_latitude": 28.716
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344620
     }
+  ], 
+  "bbox": [
+    3.009, 
+    28.716, 
+    9.575, 
+    33.388
   ]
 }

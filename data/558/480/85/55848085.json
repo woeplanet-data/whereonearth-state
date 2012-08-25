@@ -1238,9 +1238,14 @@
         "alias_ENG_P": [
           "Klaipeda County"
         ], 
+        "hierarchy": [
+          "woe:state=55848085", 
+          "woe:country=23424875", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 56.38423310007755, 
         "ne:Shape_Area": 0.767860817841, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
@@ -1249,6 +1254,10 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 20.92500735880259, 
+        "adjacent": [
+          "woe:state=55848087", 
+          "woe:state=55848080"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 55.782, 
         "ne:FIPS_1": "LH58", 
@@ -1285,7 +1294,6 @@
         "alias_UNK_S": [
           "Klaipidos Apskritis"
         ], 
-        "parent_woeid": 23424875, 
         "alias_UNK_V": [
           "Klaipedos Apskritis"
         ], 

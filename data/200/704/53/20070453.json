@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070453, 
-        "name": "Luwero", 
         "adjacent_woeid": [
           20070438, 
           20070452, 
@@ -41,20 +39,39 @@
           24550742, 
           56190211
         ], 
-        "ne_latitude": 1.468, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Luwero", 
+        "hierarchy": [
+          "woe:state=20070453", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070453, 
         "ne_longitude": 32.797, 
         "longitude": 32.325, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 1.109, 
+        "iso": "UG", 
+        "sw_latitude": 0.537, 
+        "adjacent": [
+          "woe:state=24550742", 
+          "woe:state=20070438", 
+          "woe:state=56190211", 
+          "woe:state=20070452", 
+          "woe:state=24550740"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.468, 
         "sw_longitude": 31.841, 
         "fullname": "Luwero, Uganda", 
-        "sw_latitude": 0.537
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070453
     }
+  ], 
+  "bbox": [
+    31.841, 
+    0.537, 
+    32.797, 
+    1.468
   ]
 }

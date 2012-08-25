@@ -31,44 +31,60 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "POR", 
-        "woeid": 2346575, 
+        "hierarchy": [
+          "woe:state=2346575", 
+          "woe:country=23424925", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 41.472, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\uc624\ud3ec\ub974\ud1a0"
+        ], 
+        "alias_CHI_Q": [
+          "\u6ce2\u5c14\u56fe"
+        ], 
         "alias_ITA_Q": [
           "Oporto"
         ], 
-        "name": "Porto", 
+        "woeid": 2346575, 
+        "alias_JPN_Q": [
+          "\u30dd\u30eb\u30c8"
+        ], 
+        "alias_SPA_Q": [
+          "Oporto"
+        ], 
+        "sw_longitude": -8.789, 
+        "adjacent": [
+          "woe:state=2346562", 
+          "woe:state=2346564", 
+          "woe:state=2346579", 
+          "woe:state=2346580"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.237, 
+        "sw_latitude": 41.001, 
+        "lang": "POR", 
         "adjacent_woeid": [
           2346562, 
           2346564, 
           2346579, 
           2346580
         ], 
-        "ne_latitude": 41.472, 
-        "alias_SPA_Q": [
-          "Oporto"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Porto", 
         "ne_longitude": -7.875, 
         "longitude": -8.332, 
-        "alias_CHI_Q": [
-          "\u6ce2\u5c14\u56fe"
-        ], 
-        "placetype": "State", 
         "iso": "PT", 
         "date_indexed": "2010-12-02T09:58:14Z", 
-        "alias_KOR_Q": [
-          "\uc624\ud3ec\ub974\ud1a0"
-        ], 
-        "parent_woeid": 23424925, 
-        "latitude": 41.237, 
-        "sw_longitude": -8.789, 
-        "fullname": "Porto, Portugal", 
-        "alias_JPN_Q": [
-          "\u30dd\u30eb\u30c8"
-        ], 
-        "sw_latitude": 41.001
+        "fullname": "Porto, Portugal"
       }, 
       "id": 2346575
     }
+  ], 
+  "bbox": [
+    -8.789, 
+    41.001, 
+    -7.875, 
+    41.472
   ]
 }

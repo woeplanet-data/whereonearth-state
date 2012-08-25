@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347145, 
-        "name": "Loei", 
         "adjacent_woeid": [
           2346010, 
           2347139, 
@@ -44,23 +42,45 @@
           2347202, 
           20070164
         ], 
-        "ne_latitude": 18.221, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Loei", 
         "alias_ENG_V": [
           "Changwat Loei"
         ], 
+        "hierarchy": [
+          "woe:state=2347145", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347145, 
         "ne_longitude": 102.153, 
         "longitude": 101.493, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 17.487, 
+        "iso": "TH", 
+        "sw_latitude": 16.754, 
+        "adjacent": [
+          "woe:state=2347147", 
+          "woe:state=2347202", 
+          "woe:state=2347144", 
+          "woe:state=2347141", 
+          "woe:state=2347139", 
+          "woe:state=2347200", 
+          "woe:state=20070164", 
+          "woe:state=2346010"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.221, 
         "sw_longitude": 100.833, 
         "fullname": "Loei, Thailand", 
-        "sw_latitude": 16.754
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347145
     }
+  ], 
+  "bbox": [
+    100.833, 
+    16.754, 
+    102.153, 
+    18.221
   ]
 }

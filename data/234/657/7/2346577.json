@@ -8,23 +8,23 @@
           [
             [
               -9.263, 
-              37.750
+              37.75
             ], 
             [
               -9.263, 
-              38.860
+              38.86
             ], 
             [
-              -8.130, 
-              38.860
+              -8.13, 
+              38.86
             ], 
             [
-              -8.130, 
-              37.750
+              -8.13, 
+              37.75
             ], 
             [
               -9.263, 
-              37.750
+              37.75
             ]
           ]
         ]
@@ -32,34 +32,50 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2346577, 
-        "name": "Set\u00fabal", 
         "adjacent_woeid": [
           2346563, 
           2346568, 
           2346573, 
           2346576
         ], 
-        "ne_latitude": 38.860, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -8.130, 
+        "name": "Set\u00fabal", 
+        "hierarchy": [
+          "woe:state=2346577", 
+          "woe:country=23424925", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346577, 
+        "ne_longitude": -8.13, 
         "longitude": -8.696, 
-        "placetype": "State", 
-        "iso": "PT", 
-        "date_indexed": "2010-12-02T09:58:14Z", 
-        "parent_woeid": 23424925, 
+        "placetype": "state", 
         "latitude": 38.305, 
+        "iso": "PT", 
+        "sw_latitude": 37.75, 
+        "adjacent": [
+          "woe:state=2346563", 
+          "woe:state=2346568", 
+          "woe:state=2346573", 
+          "woe:state=2346576"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 38.86, 
         "sw_longitude": -9.263, 
         "fullname": "Set\u00fabal, Portugal", 
         "alias_GER_Q": [
           "Setubal"
         ], 
-        "sw_latitude": 37.750, 
+        "date_indexed": "2010-12-02T09:58:14Z", 
         "alias_FRE_Q": [
           "S\u00e9tubal"
         ]
       }, 
       "id": 2346577
     }
+  ], 
+  "bbox": [
+    -9.263, 
+    37.75, 
+    -8.13, 
+    38.86
   ]
 }

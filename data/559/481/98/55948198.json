@@ -12,11 +12,11 @@
             ], 
             [
               27.886, 
-              47.910
+              47.91
             ], 
             [
               28.407, 
-              47.910
+              47.91
             ], 
             [
               28.407, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55948198, 
-        "name": "Singerei", 
         "adjacent_woeid": [
           20069873, 
           20069874, 
@@ -43,14 +41,29 @@
           55948197, 
           55948204
         ], 
-        "ne_latitude": 47.910, 
+        "name": "Singerei", 
+        "hierarchy": [
+          "woe:state=55948198", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55948198, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 28.407, 
         "longitude": 28.147, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MD", 
         "date_indexed": "2010-12-02T17:57:50Z", 
-        "parent_woeid": 23424885, 
+        "adjacent": [
+          "woe:state=20069873", 
+          "woe:state=55948187", 
+          "woe:state=55948188", 
+          "woe:state=55948189", 
+          "woe:state=55948197", 
+          "woe:state=55948204", 
+          "woe:state=20069874"
+        ], 
+        "ne_latitude": 47.91, 
         "latitude": 47.672, 
         "sw_longitude": 27.886, 
         "fullname": "Singerei, Moldova", 
@@ -58,5 +71,11 @@
       }, 
       "id": 55948198
     }
+  ], 
+  "bbox": [
+    27.886, 
+    47.435, 
+    28.407, 
+    47.91
   ]
 }

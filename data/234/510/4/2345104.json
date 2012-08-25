@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              16.500, 
+              16.5, 
               3.885
             ], 
             [
-              16.500, 
+              16.5, 
               5.919
             ], 
             [
@@ -23,7 +23,7 @@
               3.885
             ], 
             [
-              16.500, 
+              16.5, 
               3.885
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2345104, 
-        "name": "Ombella-M'Poko", 
         "adjacent_woeid": [
           2344978, 
           2345092, 
@@ -44,23 +42,45 @@
           2345100, 
           2345105
         ], 
-        "ne_latitude": 5.919, 
+        "name": "Ombella-M'Poko", 
+        "hierarchy": [
+          "woe:state=2345104", 
+          "woe:country=23424792", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345104, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 19.113, 
         "longitude": 17.807, 
-        "parent_woeid": 23424792, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 4.902, 
+        "iso": "CF", 
+        "sw_latitude": 3.885, 
+        "adjacent": [
+          "woe:state=2345105", 
+          "woe:state=2344978", 
+          "woe:state=2345094", 
+          "woe:state=2345095", 
+          "woe:state=2345092", 
+          "woe:state=2345097", 
+          "woe:state=2345099", 
+          "woe:state=2345100"
+        ], 
+        "ne_latitude": 5.919, 
         "alias_FRE_V": [
           "Ombella-Mpoko"
         ], 
-        "iso": "CF", 
-        "date_indexed": "2010-12-02T17:43:23Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 4.902, 
-        "sw_longitude": 16.500, 
+        "sw_longitude": 16.5, 
         "fullname": "Ombella-M'Poko, Central African Republic", 
-        "sw_latitude": 3.885
+        "date_indexed": "2010-12-02T17:43:23Z"
       }, 
       "id": 2345104
     }
+  ], 
+  "bbox": [
+    16.5, 
+    3.885, 
+    19.113, 
+    5.919
   ]
 }

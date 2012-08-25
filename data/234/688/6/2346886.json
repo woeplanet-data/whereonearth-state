@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346886, 
-        "name": "Primorskiy Kray", 
         "adjacent_woeid": [
           2345958, 
           2346883, 
           12577995, 
           12577998
         ], 
-        "ne_latitude": 48.438, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Primorskiy Kray", 
+        "hierarchy": [
+          "woe:state=2346886", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346886, 
         "ne_longitude": 139.045, 
         "longitude": 134.724, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 45.361, 
+        "iso": "RU", 
+        "sw_latitude": 42.284, 
+        "adjacent": [
+          "woe:state=2345958", 
+          "woe:state=2346883", 
+          "woe:state=12577995", 
+          "woe:state=12577998"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 48.438, 
         "sw_longitude": 130.404, 
         "fullname": "Primorskiy Kray, Russia", 
-        "sw_latitude": 42.284
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346886
     }
+  ], 
+  "bbox": [
+    130.404, 
+    42.284, 
+    139.045, 
+    48.438
   ]
 }

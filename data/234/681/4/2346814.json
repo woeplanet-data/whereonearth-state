@@ -15,11 +15,11 @@
               18.441
             ], 
             [
-              -66.080, 
+              -66.08, 
               18.441
             ], 
             [
-              -66.080, 
+              -66.08, 
               18.278
             ], 
             [
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.441, 
-        "name": "Guaynabo", 
         "adjacent_woeid": [
           2346813, 
           2346815, 
           2346858, 
           2346859
         ], 
+        "name": "Guaynabo", 
+        "hierarchy": [
+          "woe:state=2346814", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346814, 
         "alias_SPA_V": [
           "Guaynabo Municipios"
         ], 
-        "ne_longitude": -66.080, 
+        "ne_longitude": -66.08, 
         "longitude": -66.112, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.359, 
         "sw_longitude": -66.144, 
+        "sw_latitude": 18.278, 
+        "adjacent": [
+          "woe:state=2346858", 
+          "woe:state=2346859", 
+          "woe:state=2346813", 
+          "woe:state=2346815"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.441, 
+        "iso": "PR", 
         "fullname": "Guaynabo, Puerto Rico", 
-        "sw_latitude": 18.278
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346814
     }
+  ], 
+  "bbox": [
+    -66.144, 
+    18.278, 
+    -66.08, 
+    18.441
   ]
 }

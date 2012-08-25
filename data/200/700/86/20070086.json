@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070086, 
-        "name": "Bin Phuoc", 
         "adjacent_woeid": [
           2344928, 
           2344935, 
@@ -44,20 +42,42 @@
           20070078, 
           28301719
         ], 
-        "ne_latitude": 12.277, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bin Phuoc", 
+        "hierarchy": [
+          "woe:state=20070086", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070086, 
         "ne_longitude": 107.422, 
         "longitude": 106.912, 
-        "placetype": "State", 
-        "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "placetype": "state", 
         "latitude": 11.786, 
+        "iso": "VN", 
+        "sw_latitude": 11.295, 
+        "adjacent": [
+          "woe:state=20070078", 
+          "woe:state=28301719", 
+          "woe:state=2347721", 
+          "woe:state=2344928", 
+          "woe:state=2344935", 
+          "woe:state=2347709", 
+          "woe:state=2344936", 
+          "woe:state=2347714"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.277, 
         "sw_longitude": 106.402, 
         "fullname": "Bin Phuoc, Vietnam", 
-        "sw_latitude": 11.295
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 20070086
     }
+  ], 
+  "bbox": [
+    106.402, 
+    11.295, 
+    107.422, 
+    12.277
   ]
 }

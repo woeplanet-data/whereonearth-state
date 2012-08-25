@@ -15,11 +15,11 @@
               14.441
             ], 
             [
-              104.480, 
+              104.48, 
               14.441
             ], 
             [
-              104.480, 
+              104.48, 
               13.877
             ], 
             [
@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070092, 
-        "alias_ENG_S": [
-          "Otdar Meanchey"
-        ], 
-        "name": "Otdar Mean Cheay", 
         "adjacent_woeid": [
           2344938, 
           2344941, 
@@ -45,23 +40,46 @@
           2347155, 
           20070093
         ], 
-        "ne_latitude": 14.441, 
-        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_S": [
+          "Otdar Meanchey"
+        ], 
+        "name": "Otdar Mean Cheay", 
         "alias_ENG_V": [
           "Otd\u00e2r M\u00e9anchey"
         ], 
-        "ne_longitude": 104.480, 
+        "hierarchy": [
+          "woe:state=20070092", 
+          "woe:country=23424776", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070092, 
+        "ne_longitude": 104.48, 
         "longitude": 103.716, 
-        "placetype": "State", 
+        "ne_latitude": 14.441, 
+        "placetype": "state", 
         "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
-        "parent_woeid": 23424776, 
+        "sw_latitude": 13.877, 
+        "adjacent": [
+          "woe:state=20070093", 
+          "woe:state=2347153", 
+          "woe:state=2344938", 
+          "woe:state=2344941", 
+          "woe:state=2347155", 
+          "woe:state=2347154"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 14.159, 
         "sw_longitude": 102.952, 
         "fullname": "Otdar Mean Cheay, Cambodia", 
-        "sw_latitude": 13.877
+        "date_indexed": "2010-12-02T16:11:17Z"
       }, 
       "id": 20070092
     }
+  ], 
+  "bbox": [
+    102.952, 
+    13.877, 
+    104.48, 
+    14.441
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               -75.908, 
-              10.110
+              10.11
             ], 
             [
               -74.526, 
-              10.110
+              10.11
             ], 
             [
               -74.526, 
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345072, 
-        "name": "Sucre", 
         "adjacent_woeid": [
           2345051, 
           2345058
         ], 
-        "ne_latitude": 10.110, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sucre", 
+        "hierarchy": [
+          "woe:state=2345072", 
+          "woe:country=23424787", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345072, 
         "ne_longitude": -74.526, 
         "longitude": -75.113, 
-        "placetype": "State", 
-        "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
-        "parent_woeid": 23424787, 
+        "placetype": "state", 
         "latitude": 9.185, 
+        "iso": "CO", 
+        "sw_latitude": 8.259, 
+        "adjacent": [
+          "woe:state=2345051", 
+          "woe:state=2345058"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 10.11, 
         "sw_longitude": -75.908, 
         "fullname": "Sucre, Colombia", 
-        "sw_latitude": 8.259
+        "date_indexed": "2010-12-02T17:57:12Z"
       }, 
       "id": 2345072
     }
+  ], 
+  "bbox": [
+    -75.908, 
+    8.259, 
+    -74.526, 
+    10.11
   ]
 }

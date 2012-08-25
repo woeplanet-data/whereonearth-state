@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              30.620, 
+              30.62, 
               26.802
             ], 
             [
-              30.620, 
+              30.62, 
               27.639
             ], 
             [
@@ -23,7 +23,7 @@
               26.802
             ], 
             [
-              30.620, 
+              30.62, 
               26.802
             ]
           ]
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345239, 
-        "name": "Asyut", 
         "adjacent_woeid": [
           2345224, 
           2345232, 
           2345235, 
           2345246
         ], 
-        "ne_latitude": 27.639, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Asyut", 
         "alias_ENG_V": [
           "Asyut Governorate"
         ], 
+        "hierarchy": [
+          "woe:state=2345239", 
+          "woe:country=23424802", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345239, 
         "ne_longitude": 31.643, 
         "longitude": 31.132, 
-        "placetype": "State", 
-        "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
-        "parent_woeid": 23424802, 
+        "placetype": "state", 
         "latitude": 27.221, 
-        "sw_longitude": 30.620, 
+        "iso": "EG", 
+        "sw_latitude": 26.802, 
+        "adjacent": [
+          "woe:state=2345224", 
+          "woe:state=2345232", 
+          "woe:state=2345235", 
+          "woe:state=2345246"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 27.639, 
+        "sw_longitude": 30.62, 
         "fullname": "Asyut, Egypt", 
-        "sw_latitude": 26.802
+        "date_indexed": "2010-12-02T12:16:45Z"
       }, 
       "id": 2345239
     }
+  ], 
+  "bbox": [
+    30.62, 
+    26.802, 
+    31.643, 
+    27.639
   ]
 }

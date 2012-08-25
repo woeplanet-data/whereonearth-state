@@ -437,9 +437,14 @@
       "properties": {
         "ne:ProvNumber": 2, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=29389201", 
+          "woe:country=20069818", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.52355459217074, 
         "ne:Shape_Area": 0.211048724746, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
@@ -448,6 +453,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 20.47371707538275, 
+        "adjacent": [
+          "woe:state=29389208", 
+          "woe:state=29389207", 
+          "woe:state=29389218", 
+          "woe:state=29389214", 
+          "woe:state=29389209", 
+          "woe:state=29389219"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.624, 
         "ne:FIPS_1": "MKA6", 
@@ -485,7 +498,6 @@
         ], 
         "name": "Kosovo", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 20069818, 
         "alias_UNK_Q": [
           "Kosovski"
         ], 

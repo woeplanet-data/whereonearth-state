@@ -32,12 +32,16 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.513, 
-        "name": "Aguadilla", 
         "adjacent_woeid": [
           2346801, 
           2346840, 
           2346841
+        ], 
+        "name": "Aguadilla", 
+        "hierarchy": [
+          "woe:state=2346842", 
+          "woe:country=23424935", 
+          "woe:planet=1"
         ], 
         "woeid": 2346842, 
         "alias_SPA_V": [
@@ -45,17 +49,28 @@
         ], 
         "ne_longitude": -67.056, 
         "longitude": -67.113, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.450, 
+        "placetype": "state", 
+        "latitude": 18.45, 
         "sw_longitude": -67.169, 
+        "sw_latitude": 18.386, 
+        "adjacent": [
+          "woe:state=2346841", 
+          "woe:state=2346840", 
+          "woe:state=2346801"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.513, 
+        "iso": "PR", 
         "fullname": "Aguadilla, Puerto Rico", 
-        "sw_latitude": 18.386
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346842
     }
+  ], 
+  "bbox": [
+    -67.169, 
+    18.386, 
+    -67.056, 
+    18.513
   ]
 }

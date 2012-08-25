@@ -723,20 +723,30 @@
           "Pt. Lairge"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2345271", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 52.35985342089873, 
         "ne:Shape_Area": 0.241218099716, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "1898", 
         "alias_ENG_A": [
           "WAT"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:OBJECTID": 1444, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -8.147740037672577, 
+        "adjacent": [
+          "woe:state=2345252", 
+          "woe:state=2345258", 
+          "woe:state=2345270"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.153, 
         "ne:FIPS_1": "EI32", 
@@ -744,9 +754,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 51.94468496324049, 
-        "ne:VertexCou": 175.0, 
-        "ne:VALIDFR_1": "1898", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 1444, 
         "ne:Postal": "WD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Port L\u00e1irge", 
@@ -762,19 +772,18 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 1836.2, 
         "woe:id": "2345271", 
-        "ne:HASC_1": "IE.WD", 
-        "lang": "ENG", 
+        "name": "Waterford", 
+        "ne:VertexCou": 175.0, 
         "adjacent_woeid": [
           2345252, 
           2345258, 
           2345270
         ], 
-        "name": "Waterford", 
+        "ne:HASC_1": "IE.WD", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Port Lairge"
         ], 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Port L\u00e1irge"
         ], 

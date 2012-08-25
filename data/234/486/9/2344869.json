@@ -1497,23 +1497,32 @@
       "properties": {
         "ne:ProvNumber": 15, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=2344869", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -9.526756686871579, 
         "ne:Shape_Area": 1.78507694062, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "alias_POR_V": [
           "Estado Sergipe"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1820", 
         "alias_ENG_A": [
           "SE"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BRA", 
-        "ne:OBJECTID": 629, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -38.24484351211834, 
+        "adjacent": [
+          "woe:state=2344845", 
+          "woe:state=2344848"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -10.541, 
         "ne:FIPS_1": "BR28", 
@@ -1521,9 +1530,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -11.568905938558146, 
-        "ne:VertexCou": 370.0, 
-        "ne:VALIDFR_1": "1820", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 629, 
         "ne:Postal": "SE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1539,15 +1548,14 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 21608.2, 
         "woe:id": "2344869", 
-        "ne:HASC_1": "BR.SE", 
-        "lang": "POR", 
+        "name": "Sergipe", 
+        "ne:VertexCou": 370.0, 
         "adjacent_woeid": [
           2344845, 
           2344848
         ], 
-        "name": "Sergipe", 
+        "ne:HASC_1": "BR.SE", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424768, 
         "ne_longitude": -36.405498419916114, 
         "longitude": -37.323, 
         "iso": "BR", 

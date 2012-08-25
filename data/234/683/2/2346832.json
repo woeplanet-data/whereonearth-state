@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.153, 
-        "name": "Juana D\u00edaz", 
         "adjacent_woeid": [
           2346795, 
           2346796, 
@@ -42,26 +40,46 @@
           2346831, 
           2346833
         ], 
+        "name": "Juana D\u00edaz", 
+        "hierarchy": [
+          "woe:state=2346832", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346832, 
         "alias_SPA_V": [
           "Juana D\u00edaz Municipios"
         ], 
         "ne_longitude": -66.421, 
         "longitude": -66.493, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 18.064, 
         "alias_SPA_S": [
           "Juana Diaz Municipios"
         ], 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.064, 
         "sw_longitude": -66.565, 
+        "sw_latitude": 17.923, 
+        "adjacent": [
+          "woe:state=2346795", 
+          "woe:state=2346796", 
+          "woe:state=2346803", 
+          "woe:state=2346833", 
+          "woe:state=2346831", 
+          "woe:state=2346809"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.153, 
+        "iso": "PR", 
         "fullname": "Juana D\u00edaz, Puerto Rico", 
-        "sw_latitude": 17.923
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346832
     }
+  ], 
+  "bbox": [
+    -66.565, 
+    17.923, 
+    -66.421, 
+    18.153
   ]
 }

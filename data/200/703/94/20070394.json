@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070394, 
-        "name": "Mestiis Raioni", 
         "adjacent_woeid": [
           2346871, 
           20070382, 
@@ -42,20 +40,40 @@
           20070401, 
           20070522
         ], 
-        "ne_latitude": 43.254, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mestiis Raioni", 
+        "hierarchy": [
+          "woe:state=20070394", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070394, 
         "ne_longitude": 43.178, 
-        "longitude": 42.600, 
-        "placetype": "State", 
+        "longitude": 42.6, 
+        "placetype": "state", 
+        "latitude": 43.05, 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
-        "latitude": 43.050, 
+        "sw_latitude": 42.846, 
+        "adjacent": [
+          "woe:state=20070401", 
+          "woe:state=20070397", 
+          "woe:state=2346871", 
+          "woe:state=20070522", 
+          "woe:state=20070382", 
+          "woe:state=20070398"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.254, 
         "sw_longitude": 42.023, 
         "fullname": "Mestiis Raioni, Georgia", 
-        "sw_latitude": 42.846
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070394
     }
+  ], 
+  "bbox": [
+    42.023, 
+    42.846, 
+    43.178, 
+    43.254
   ]
 }

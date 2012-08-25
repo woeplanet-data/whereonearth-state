@@ -12,11 +12,11 @@
             ], 
             [
               -23.697, 
-              15.240
+              15.24
             ], 
             [
               -23.593, 
-              15.240
+              15.24
             ], 
             [
               -23.593, 
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 56051558, 
-        "name": "S\u00e3o Miguel", 
         "adjacent_woeid": [
           2345128, 
           2345131, 
           56051561
         ], 
-        "ne_latitude": 15.240, 
+        "name": "S\u00e3o Miguel", 
+        "hierarchy": [
+          "woe:state=56051558", 
+          "woe:country=23424794", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56051558, 
         "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -23.593, 
+        "longitude": -23.645, 
+        "placetype": "state", 
+        "latitude": 15.186, 
+        "iso": "CV", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "adjacent": [
+          "woe:state=2345128", 
+          "woe:state=56051561", 
+          "woe:state=2345131"
+        ], 
         "alias_POR_S": [
           "Sao Miguel"
         ], 
-        "ne_longitude": -23.593, 
-        "longitude": -23.645, 
-        "placetype": "State", 
-        "iso": "CV", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424794, 
-        "latitude": 15.186, 
+        "ne_latitude": 15.24, 
         "sw_longitude": -23.697, 
         "fullname": "S\u00e3o Miguel, Cape Verde", 
         "sw_latitude": 15.133
       }, 
       "id": 56051558
     }
+  ], 
+  "bbox": [
+    -23.697, 
+    15.133, 
+    -23.593, 
+    15.24
   ]
 }

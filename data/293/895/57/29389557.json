@@ -785,9 +785,14 @@
       "properties": {
         "ne:ProvNumber": 7, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=29389557", 
+          "woe:country=23424742", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.38868846320207, 
         "ne:Shape_Area": 0.347410969049, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 6, 
         "ne:gadm_level": 1.0, 
@@ -796,6 +801,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 19.669218377626066, 
+        "adjacent": [
+          "woe:state=29389554", 
+          "woe:state=29389555", 
+          "woe:state=29389558", 
+          "woe:state=29389560", 
+          "woe:state=29389564"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.044, 
         "ne:FIPS_1": "AL43", 
@@ -832,7 +844,6 @@
         ], 
         "name": "Elbasan", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424742, 
         "ne_longitude": 20.602391392049128, 
         "longitude": 20.15, 
         "iso": "AL", 

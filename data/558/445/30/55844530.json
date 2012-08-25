@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              27.830, 
+              27.83, 
               56.464
             ], 
             [
-              27.830, 
+              27.83, 
               56.705
             ], 
             [
@@ -23,7 +23,7 @@
               56.464
             ], 
             [
-              27.830, 
+              27.83, 
               56.464
             ]
           ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55844530, 
-        "name": "Ciblas Novads", 
         "adjacent_woeid": [
           56190544, 
           56190573, 
           56190597
         ], 
-        "ne_latitude": 56.705, 
+        "name": "Ciblas Novads", 
+        "hierarchy": [
+          "woe:state=55844530", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55844530, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 28.143, 
         "longitude": 27.986, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "LV", 
         "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
+        "adjacent": [
+          "woe:state=56190573", 
+          "woe:state=56190544", 
+          "woe:state=56190597"
+        ], 
+        "ne_latitude": 56.705, 
         "latitude": 56.585, 
-        "sw_longitude": 27.830, 
+        "sw_longitude": 27.83, 
         "fullname": "Ciblas Novads, Ludzas Rajons, Ciblas Novads, Latvia", 
         "sw_latitude": 56.464
       }, 
       "id": 55844530
     }
+  ], 
+  "bbox": [
+    27.83, 
+    56.464, 
+    28.143, 
+    56.705
   ]
 }

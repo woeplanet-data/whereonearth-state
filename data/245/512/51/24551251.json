@@ -32,22 +32,29 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24551251, 
-        "name": "North Eleuthera", 
         "adjacent_woeid": [
           24551244
         ], 
-        "ne_latitude": 25.563, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "North Eleuthera", 
         "alias_ENG_V": [
           "N Eleuthera"
         ], 
+        "hierarchy": [
+          "woe:state=24551251", 
+          "woe:country=23424758", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24551251, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.606, 
         "longitude": -76.698, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "BS", 
         "date_indexed": "2010-12-02T07:50:25Z", 
-        "parent_woeid": 23424758, 
+        "adjacent": [
+          "woe:state=24551244"
+        ], 
+        "ne_latitude": 25.563, 
         "latitude": 25.484, 
         "sw_longitude": -76.886, 
         "fullname": "North Eleuthera, The Bahamas", 
@@ -55,5 +62,11 @@
       }, 
       "id": 24551251
     }
+  ], 
+  "bbox": [
+    -76.886, 
+    25.316, 
+    -76.606, 
+    25.563
   ]
 }

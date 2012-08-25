@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346230, 
-        "name": "Grand Port", 
         "adjacent_woeid": [
           2346229, 
           2346231, 
           2346233, 
           2346236
         ], 
-        "ne_latitude": -20.321, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Grand Port", 
+        "hierarchy": [
+          "woe:state=2346230", 
+          "woe:country=23424894", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346230, 
         "ne_longitude": 57.786, 
         "longitude": 57.634, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -20.41, 
         "iso": "MU", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424894, 
-        "latitude": -20.410, 
+        "sw_latitude": -20.499, 
+        "adjacent": [
+          "woe:state=2346229", 
+          "woe:state=2346231", 
+          "woe:state=2346233", 
+          "woe:state=2346236"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -20.321, 
         "sw_longitude": 57.491, 
         "fullname": "Grand Port, Mauritius", 
-        "sw_latitude": -20.499
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 2346230
     }
+  ], 
+  "bbox": [
+    57.491, 
+    -20.499, 
+    57.786, 
+    -20.321
   ]
 }

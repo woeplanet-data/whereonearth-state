@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              100.420, 
+              100.42, 
               14.656
             ], 
             [
-              100.420, 
+              100.42, 
               15.582
             ], 
             [
-              101.400, 
+              101.4, 
               15.582
             ], 
             [
-              101.400, 
+              101.4, 
               14.656
             ], 
             [
-              100.420, 
+              100.42, 
               14.656
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347159, 
-        "name": "Lop Buri", 
         "adjacent_woeid": [
           2347141, 
           2347143, 
@@ -44,23 +42,45 @@
           2347161, 
           2347162
         ], 
-        "ne_latitude": 15.582, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Lop Buri", 
         "alias_ENG_V": [
           "Changwat Lop Buri"
         ], 
-        "ne_longitude": 101.400, 
-        "longitude": 100.910, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "hierarchy": [
+          "woe:state=2347159", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347159, 
+        "ne_longitude": 101.4, 
+        "longitude": 100.91, 
+        "placetype": "state", 
         "latitude": 15.119, 
-        "sw_longitude": 100.420, 
+        "iso": "TH", 
+        "sw_latitude": 14.656, 
+        "adjacent": [
+          "woe:state=2347160", 
+          "woe:state=2347151", 
+          "woe:state=2347152", 
+          "woe:state=2347143", 
+          "woe:state=2347141", 
+          "woe:state=2347161", 
+          "woe:state=2347162", 
+          "woe:state=2347158"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.582, 
+        "sw_longitude": 100.42, 
         "fullname": "Lop Buri, Thailand", 
-        "sw_latitude": 14.656
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347159
     }
+  ], 
+  "bbox": [
+    100.42, 
+    14.656, 
+    101.4, 
+    15.582
   ]
 }

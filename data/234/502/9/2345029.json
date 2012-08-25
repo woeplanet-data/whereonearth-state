@@ -34,8 +34,13 @@
         "alias_ENG_P": [
           "Santiago Metropolitan Region"
         ], 
+        "hierarchy": [
+          "woe:state=2345029", 
+          "woe:country=23424782", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -32.916, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uc0b0\ud2f0\uc544\uace0"
         ], 
@@ -50,6 +55,11 @@
           "Region Metropolitana de Santiago"
         ], 
         "sw_longitude": -71.726, 
+        "adjacent": [
+          "woe:state=2345025", 
+          "woe:state=2344687", 
+          "woe:state=2345018"
+        ], 
         "alias_SPA_V": [
           "Regi\u00f3n Metropolitana de Santiago"
         ], 
@@ -63,7 +73,6 @@
           2345025
         ], 
         "name": "Santiago", 
-        "parent_woeid": 23424782, 
         "ne_longitude": -69.744, 
         "longitude": -70.735, 
         "iso": "CL", 
@@ -72,5 +81,11 @@
       }, 
       "id": 2345029
     }
+  ], 
+  "bbox": [
+    -71.726, 
+    -34.297, 
+    -69.744, 
+    -32.916
   ]
 }

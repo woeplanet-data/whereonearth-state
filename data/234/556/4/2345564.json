@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345564, 
-        "name": "Quetzaltenango", 
         "adjacent_woeid": [
           2345559, 
           2345566, 
@@ -42,20 +40,40 @@
           2345571, 
           2345572
         ], 
-        "ne_latitude": 15.226, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Quetzaltenango", 
+        "hierarchy": [
+          "woe:state=2345564", 
+          "woe:country=23424834", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345564, 
         "ne_longitude": -91.404, 
-        "longitude": -91.600, 
-        "placetype": "State", 
+        "longitude": -91.6, 
+        "placetype": "state", 
+        "latitude": 14.86, 
         "iso": "GT", 
-        "date_indexed": "2010-12-02T16:55:18Z", 
-        "parent_woeid": 23424834, 
-        "latitude": 14.860, 
+        "sw_latitude": 14.494, 
+        "adjacent": [
+          "woe:state=2345559", 
+          "woe:state=2345566", 
+          "woe:state=2345568", 
+          "woe:state=2345570", 
+          "woe:state=2345571", 
+          "woe:state=2345572"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.226, 
         "sw_longitude": -92.139, 
         "fullname": "Quetzaltenango, Guatemala", 
-        "sw_latitude": 14.494
+        "date_indexed": "2010-12-02T16:55:18Z"
       }, 
       "id": 2345564
     }
+  ], 
+  "bbox": [
+    -92.139, 
+    14.494, 
+    -91.404, 
+    15.226
   ]
 }

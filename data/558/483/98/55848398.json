@@ -12,11 +12,11 @@
             ], 
             [
               14.884, 
-              46.350
+              46.35
             ], 
             [
               15.225, 
-              46.350
+              46.35
             ], 
             [
               15.225, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848398, 
-        "name": "Zalec", 
         "adjacent_woeid": [
           55848343, 
           55848350, 
@@ -44,14 +42,30 @@
           55848395, 
           55848397
         ], 
-        "ne_latitude": 46.350, 
+        "name": "Zalec", 
+        "hierarchy": [
+          "woe:state=55848398", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848398, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.225, 
         "longitude": 15.055, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848343", 
+          "woe:state=55848350", 
+          "woe:state=55848355", 
+          "woe:state=55848360", 
+          "woe:state=55848369", 
+          "woe:state=55848392", 
+          "woe:state=55848395", 
+          "woe:state=55848397"
+        ], 
+        "ne_latitude": 46.35, 
         "latitude": 46.266, 
         "sw_longitude": 14.884, 
         "fullname": "Zalec, Slovenia", 
@@ -59,5 +73,11 @@
       }, 
       "id": 55848398
     }
+  ], 
+  "bbox": [
+    14.884, 
+    46.182, 
+    15.225, 
+    46.35
   ]
 }

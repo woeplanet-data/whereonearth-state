@@ -407,20 +407,32 @@
         "alias_ENG_P": [
           "Central Oman"
         ], 
+        "hierarchy": [
+          "woe:state=2346257", 
+          "woe:country=23424898", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 22.015297349493153, 
         "ne:Shape_Area": 5.63565791268, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 6, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "alias_ARA_V": [
           "`Uman al-Wusta"
         ], 
         "ne:ADM0_A3": "OMN", 
-        "ne:OBJECTID": 2405, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 55.34414676256307, 
+        "adjacent": [
+          "woe:state=2346261", 
+          "woe:state=2346256", 
+          "woe:state=2346954", 
+          "woe:state=2346255", 
+          "woe:state=2346258"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 20.045, 
         "ne:FIPS_1": "MU02", 
@@ -428,9 +440,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 18.943908595905043, 
-        "ne:VertexCou": 163.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ARA", 
+        "ne:MAP_COLOR": 6, 
+        "ne:OBJECTID": 2405, 
         "ne:Postal": "WU", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -446,8 +458,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 65062.7, 
         "woe:id": "2346257", 
-        "ne:HASC_1": "OM.WU", 
-        "lang": "ARA", 
+        "name": "Al Wusta", 
+        "ne:VertexCou": 163.0, 
         "adjacent_woeid": [
           2346255, 
           2346256, 
@@ -455,9 +467,8 @@
           2346261, 
           2346954
         ], 
-        "name": "Al Wusta", 
+        "ne:HASC_1": "OM.WU", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424898, 
         "ne_longitude": 58.3968307390474, 
         "longitude": 57.053, 
         "iso": "OM", 

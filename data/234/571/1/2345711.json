@@ -475,11 +475,16 @@
       "properties": {
         "ne:ProvNumber": 22, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=2345711", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -8.055063571626476, 
         "ne:Shape_Area": 0.459321995465, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "1958", 
         "alias_KOR_Q": [
           "\ubc1c\ub9ac"
         ], 
@@ -488,7 +493,7 @@
         "alias_CHI_Q": [
           "\u5df4\u5398"
         ], 
-        "ne:OBJECTID": 1232, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30d0\u30ea"
         ], 
@@ -502,9 +507,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -8.851759128081255, 
-        "ne:VertexCou": 112.0, 
-        "ne:VALIDFR_1": "1958", 
-        "ne:DataRank": 1, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 1232, 
         "ne:Postal": "BA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Penida|Lembongan|Ceningan|Menjangan", 
@@ -520,12 +525,11 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 5595.2, 
         "woe:id": "2345711", 
-        "ne:HASC_1": "ID.BA", 
-        "lang": "UNK", 
-        "ne:NL_NAME_1": null, 
         "name": "Bali", 
+        "ne:VertexCou": 112.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "ID.BA", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424846, 
         "ne_longitude": 115.71451867040037, 
         "longitude": 115.072, 
         "iso": "ID", 

@@ -11,10 +11,19 @@
           56189834
         ], 
         "name": "Chaguanas", 
-        "parent_woeid": 23424958, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56189826", 
+          "woe:country=23424958", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "TT", 
+        "adjacent": [
+          "woe:state=56189827", 
+          "woe:state=56189834", 
+          "woe:state=56189836"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56189826, 
         "date_indexed": "2010-12-02T18:05:31Z"
       }, 

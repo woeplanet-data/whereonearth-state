@@ -76,9 +76,15 @@
         "alias_ENG_P": [
           "Centar Municipality"
         ], 
+        "hierarchy": [
+          "woe:state=24550756", 
+          "woe:town=482940", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.00570506413743, 
         "ne:Shape_Area": 0.000295728711998, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -87,6 +93,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 21.42694054497025, 
+        "adjacent": [
+          "woe:state=24550766", 
+          "woe:state=24550773", 
+          "woe:state=24550866", 
+          "woe:state=24550804", 
+          "woe:state=24550809", 
+          "woe:state=24550752"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.002, 
         "ne:FIPS_1": "MK17", 
@@ -124,7 +138,6 @@
         ], 
         "name": "Centar", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 482940, 
         "alias_UNK_V": [
           "Opstina Centar"
         ], 

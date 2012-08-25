@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              14.860, 
+              14.86, 
               45.838
             ], 
             [
-              14.860, 
+              14.86, 
               46.022
             ], 
             [
-              15.230, 
+              15.23, 
               46.022
             ], 
             [
-              15.230, 
+              15.23, 
               45.838
             ], 
             [
-              14.860, 
+              14.86, 
               45.838
             ]
           ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848393, 
-        "name": "Trebnje", 
         "adjacent_woeid": [
           55848349, 
           55848363, 
           55848372, 
           55848384
         ], 
-        "ne_latitude": 46.022, 
+        "name": "Trebnje", 
+        "hierarchy": [
+          "woe:state=55848393", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848393, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 15.230, 
+        "ne_longitude": 15.23, 
         "longitude": 15.045, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
-        "latitude": 45.930, 
-        "sw_longitude": 14.860, 
+        "adjacent": [
+          "woe:state=55848349", 
+          "woe:state=55848363", 
+          "woe:state=55848372", 
+          "woe:state=55848384"
+        ], 
+        "ne_latitude": 46.022, 
+        "latitude": 45.93, 
+        "sw_longitude": 14.86, 
         "fullname": "Trebnje, Slovenia", 
         "sw_latitude": 45.838
       }, 
       "id": 55848393
     }
+  ], 
+  "bbox": [
+    14.86, 
+    45.838, 
+    15.23, 
+    46.022
   ]
 }

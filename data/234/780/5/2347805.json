@@ -3345,9 +3345,14 @@
       "properties": {
         "ne:ProvNumber": 10, 
         "ne:ScaleRank": 4, 
+        "hierarchy": [
+          "woe:state=2347805", 
+          "woe:country=23425003", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -12.00050750112024, 
         "ne:Shape_Area": 7.98622037636, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 13, 
         "ne:gadm_level": 1.0, 
@@ -3356,6 +3361,18 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 25.321534865241915, 
+        "adjacent": [
+          "woe:state=2347802", 
+          "woe:state=2347806", 
+          "woe:state=2344981", 
+          "woe:state=2347808", 
+          "woe:state=2347809", 
+          "woe:state=2347801", 
+          "woe:state=2347807", 
+          "woe:state=2347804", 
+          "woe:state=2346318", 
+          "woe:state=2347803"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -13.929, 
         "ne:FIPS_1": "ZA02", 
@@ -3397,7 +3414,6 @@
         ], 
         "name": "Central", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23425003, 
         "ne_longitude": 31.429430780106486, 
         "longitude": 28.379, 
         "iso": "ZM", 

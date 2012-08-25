@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Valencia"
         ], 
+        "hierarchy": [
+          "woe:state=12578038", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.789, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Val\u00eancia"
         ], 
@@ -56,6 +61,12 @@
           "\u30f4\u30a1\u30ec\u30f3\u30b7\u30a2"
         ], 
         "sw_longitude": -1.524, 
+        "adjacent": [
+          "woe:state=12578030", 
+          "woe:state=12578032", 
+          "woe:state=12578034", 
+          "woe:state=12578025"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.316, 
         "alias_NOR_Q": [
@@ -82,7 +93,6 @@
           12578034
         ], 
         "name": "Comunidad Valenciana", 
-        "parent_woeid": 23424950, 
         "alias_UNK_Q": [
           "Comunitat Valenciana"
         ], 
@@ -97,5 +107,11 @@
       }, 
       "id": 12578038
     }
+  ], 
+  "bbox": [
+    -1.524, 
+    37.844, 
+    0.692, 
+    40.789
   ]
 }

@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2344667, 
-        "name": "Namibe", 
         "adjacent_woeid": [
           2344656, 
           2344662, 
           2344664, 
           20069839
         ], 
-        "ne_latitude": -13.506, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Namibe", 
+        "hierarchy": [
+          "woe:state=2344667", 
+          "woe:country=23424745", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344667, 
         "ne_longitude": 13.683, 
         "longitude": 12.708, 
-        "placetype": "State", 
-        "iso": "AO", 
-        "date_indexed": "2010-12-02T17:52:14Z", 
-        "parent_woeid": 23424745, 
+        "placetype": "state", 
         "latitude": -15.388, 
+        "iso": "AO", 
+        "sw_latitude": -17.269, 
+        "adjacent": [
+          "woe:state=2344656", 
+          "woe:state=2344662", 
+          "woe:state=2344664", 
+          "woe:state=20069839"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -13.506, 
         "sw_longitude": 11.679, 
         "fullname": "Namibe, Angola", 
-        "sw_latitude": -17.269
+        "date_indexed": "2010-12-02T17:52:14Z"
       }, 
       "id": 2344667
     }
+  ], 
+  "bbox": [
+    11.679, 
+    -17.269, 
+    13.683, 
+    -13.506
   ]
 }

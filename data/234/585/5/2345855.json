@@ -1313,20 +1313,31 @@
         "alias_ENG_P": [
           "Ehime Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345855", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 34.193520412636985, 
         "ne:Shape_Area": 0.530680043626, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1832, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u611b\u5a9b"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 132.02447920145403, 
+        "adjacent": [
+          "woe:state=2345861", 
+          "woe:state=2345888", 
+          "woe:state=2345866", 
+          "woe:state=2345869"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 33.52, 
         "ne:FIPS_1": "JA05", 
@@ -1334,9 +1345,9 @@
         "ne:FIRST_HASC": "JP.ST", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 32.889362290937015, 
-        "ne:VertexCou": 318.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1832, 
         "ne:Postal": "EH", 
         "ne:Region_Cod": "JPN-SHK", 
         "ne:VARNAME_1": null, 
@@ -1352,17 +1363,16 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 5462.9, 
         "woe:id": "2345855", 
-        "ne:HASC_1": "JP.EH", 
-        "lang": "JPN", 
+        "name": "\u611b\u5a9b\u770c", 
+        "ne:VertexCou": 318.0, 
         "adjacent_woeid": [
           2345861, 
           2345866, 
           2345869, 
           2345888
         ], 
-        "name": "\u611b\u5a9b\u770c", 
+        "ne:HASC_1": "JP.EH", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 133.66887495321657, 
         "longitude": 132.853, 
         "iso": "JP", 

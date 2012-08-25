@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55844184, 
-        "name": "Lielv\u0105rdes Novads", 
         "adjacent_woeid": [
           55844512, 
           55844585, 
           56190566
         ], 
+        "name": "Lielv\u0105rdes Novads", 
+        "latitude": 56.722, 
         "alias_UNK_S": [
           "Lielvardes Novads"
         ], 
-        "ne_latitude": 56.773, 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 55844184, 
         "ne_longitude": 24.956, 
         "longitude": 24.863, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=55844184", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
         "iso": "LV", 
         "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
-        "latitude": 56.722, 
+        "adjacent": [
+          "woe:state=55844512", 
+          "woe:state=56190566", 
+          "woe:state=55844585"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 56.773, 
         "sw_longitude": 24.771, 
         "fullname": "Lielv\u0105rdes Novads, Ogres Rajons, Lielv\u0105rdes Novads, Latvia", 
         "sw_latitude": 56.671
       }, 
       "id": 55844184
     }
+  ], 
+  "bbox": [
+    24.771, 
+    56.671, 
+    24.956, 
+    56.773
   ]
 }

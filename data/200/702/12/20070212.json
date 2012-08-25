@@ -34,8 +34,13 @@
         "alias_SWE_Q": [
           "Jerevan"
         ], 
+        "hierarchy": [
+          "woe:state=20070212", 
+          "woe:country=23424743", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.276, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uc608\ub840\ubc18"
         ], 
@@ -50,12 +55,18 @@
           "Jerevan"
         ], 
         "sw_longitude": 44.436, 
+        "adjacent": [
+          "woe:state=20070209", 
+          "woe:state=20070211", 
+          "woe:state=20070210", 
+          "woe:state=20070208"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.122, 
         "alias_NOR_Q": [
           "Jerevan"
         ], 
-        "date_indexed": "2010-12-02T12:16:10Z", 
+        "sw_latitude": 40.089, 
         "alias_GER_Q": [
           "Eriwan"
         ], 
@@ -67,14 +78,19 @@
           20070211
         ], 
         "name": "Yerevan", 
-        "parent_woeid": 23424743, 
         "ne_longitude": 44.675, 
-        "longitude": 44.510, 
+        "longitude": 44.51, 
         "iso": "AM", 
-        "sw_latitude": 40.089, 
+        "date_indexed": "2010-12-02T12:16:10Z", 
         "fullname": "Yerevan, Armenia"
       }, 
       "id": 20070212
     }
+  ], 
+  "bbox": [
+    44.436, 
+    40.089, 
+    44.675, 
+    40.276
   ]
 }

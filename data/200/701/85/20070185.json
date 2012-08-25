@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070185, 
-        "alias_UNK_V": [
-          "Zongulda"
-        ], 
-        "name": "Zonguldak", 
         "adjacent_woeid": [
           2347271, 
           20070186, 
           20070187, 
           29390030
         ], 
+        "name": "Zonguldak", 
         "ne_latitude": 41.586, 
-        "ne_longitude": 32.327, 
+        "hierarchy": [
+          "woe:state=20070185", 
+          "woe:country=23424969", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070185, 
+        "alias_UNK_V": [
+          "Zongulda"
+        ], 
         "longitude": 31.812, 
-        "parent_woeid": 23424969, 
-        "placetype": "State", 
+        "ne_longitude": 32.327, 
+        "placetype": "state", 
         "iso": "TR", 
-        "date_indexed": "2010-12-02T16:22:51Z", 
+        "sw_latitude": 41.008, 
+        "adjacent": [
+          "woe:state=20070187", 
+          "woe:state=2347271", 
+          "woe:state=29390030", 
+          "woe:state=20070186"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.297, 
         "sw_longitude": 31.297, 
         "fullname": "Zonguldak, Turkey", 
-        "sw_latitude": 41.008
+        "date_indexed": "2010-12-02T16:22:51Z"
       }, 
       "id": 20070185
     }
+  ], 
+  "bbox": [
+    31.297, 
+    41.008, 
+    32.327, 
+    41.586
   ]
 }

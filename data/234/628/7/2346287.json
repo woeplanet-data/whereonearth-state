@@ -15,11 +15,11 @@
               24.491
             ], 
             [
-              -98.330, 
+              -98.33, 
               24.491
             ], 
             [
-              -98.330, 
+              -98.33, 
               21.159
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 24.491, 
-        "name": "San Luis Potosi", 
         "adjacent_woeid": [
           2346274, 
           2346276, 
@@ -43,29 +41,50 @@
           2346293, 
           2346295
         ], 
+        "alias_ENG_A": [
+          "SL"
+        ], 
+        "name": "San Luis Potosi", 
+        "hierarchy": [
+          "woe:state=2346287", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346287, 
         "alias_SPA_V": [
           "Sanluis"
         ], 
-        "ne_longitude": -98.330, 
+        "ne_longitude": -98.33, 
         "longitude": -100.317, 
-        "parent_woeid": 23424900, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 22.825, 
         "alias_SPA_S": [
           "S. Luis Potosi"
         ], 
-        "iso": "MX", 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "SL"
+        "sw_longitude": -102.303, 
+        "sw_latitude": 21.159, 
+        "adjacent": [
+          "woe:state=2346274", 
+          "woe:state=2346276", 
+          "woe:state=2346282", 
+          "woe:state=2346285", 
+          "woe:state=2346291", 
+          "woe:state=2346293", 
+          "woe:state=2346295"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 22.825, 
-        "sw_longitude": -102.303, 
+        "ne_latitude": 24.491, 
+        "iso": "MX", 
         "fullname": "San Luis Potosi, Mexico", 
-        "sw_latitude": 21.159
+        "date_indexed": "2010-12-02T16:55:36Z"
       }, 
       "id": 2346287
     }
+  ], 
+  "bbox": [
+    -102.303, 
+    21.159, 
+    -98.33, 
+    24.491
   ]
 }

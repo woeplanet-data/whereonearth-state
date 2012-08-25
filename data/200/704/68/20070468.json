@@ -31,8 +31,13 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "hierarchy": [
+          "woe:state=20070468", 
+          "woe:country=23424810", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 50.619, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_ITA_Q": [
           "Boemia Centrale"
         ], 
@@ -41,11 +46,21 @@
         ], 
         "woeid": 20070468, 
         "sw_longitude": 13.397, 
+        "adjacent": [
+          "woe:state=20070472", 
+          "woe:state=20070502", 
+          "woe:state=20070466", 
+          "woe:state=20070498", 
+          "woe:state=20070465", 
+          "woe:state=20070501", 
+          "woe:state=20070467", 
+          "woe:state=20070499"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 50.060, 
-        "date_indexed": "2010-12-02T08:54:50Z", 
-        "alias_CZE_V": [
-          "Central Bohemia"
+        "latitude": 50.06, 
+        "sw_latitude": 49.501, 
+        "alias_DUT_Q": [
+          "Midden-Bohemen"
         ], 
         "alias_CZE_S": [
           "Stredocesky"
@@ -68,17 +83,22 @@
           20070502
         ], 
         "name": "St\u0159edo\u010desk\u00fd", 
-        "alias_DUT_Q": [
-          "Midden-Bohemen"
+        "alias_CZE_V": [
+          "Central Bohemia"
         ], 
-        "parent_woeid": 23424810, 
         "ne_longitude": 15.535, 
         "longitude": 13.831, 
         "iso": "CZ", 
-        "sw_latitude": 49.501, 
+        "date_indexed": "2010-12-02T08:54:50Z", 
         "fullname": "St\u0159edo\u010desk\u00fd, Czech Republic"
       }, 
       "id": 20070468
     }
+  ], 
+  "bbox": [
+    13.397, 
+    49.501, 
+    15.535, 
+    50.619
   ]
 }

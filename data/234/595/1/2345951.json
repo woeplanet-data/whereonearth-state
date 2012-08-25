@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345951, 
-        "name": "Hamgyong-namdo", 
         "adjacent_woeid": [
           2345950, 
           2345954, 
@@ -41,20 +39,39 @@
           2345957, 
           2345958
         ], 
-        "ne_latitude": 41.166, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Hamgyong-namdo", 
+        "hierarchy": [
+          "woe:state=2345951", 
+          "woe:country=23424865", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345951, 
         "ne_longitude": 129.073, 
         "longitude": 127.825, 
-        "placetype": "State", 
-        "iso": "KP", 
-        "date_indexed": "2010-12-02T10:22:43Z", 
-        "parent_woeid": 23424865, 
+        "placetype": "state", 
         "latitude": 40.181, 
+        "iso": "KP", 
+        "sw_latitude": 39.196, 
+        "adjacent": [
+          "woe:state=2345950", 
+          "woe:state=2345958", 
+          "woe:state=2345954", 
+          "woe:state=2345957", 
+          "woe:state=2345956"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.166, 
         "sw_longitude": 126.577, 
         "fullname": "Hamgyong-namdo, North Korea", 
-        "sw_latitude": 39.196
+        "date_indexed": "2010-12-02T10:22:43Z"
       }, 
       "id": 2345951
     }
+  ], 
+  "bbox": [
+    126.577, 
+    39.196, 
+    129.073, 
+    41.166
   ]
 }

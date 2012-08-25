@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345051, 
-        "name": "Bolivar", 
         "adjacent_woeid": [
           2345048, 
           2345050, 
@@ -43,20 +41,41 @@
           2345071, 
           2345072
         ], 
-        "ne_latitude": 10.806, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bolivar", 
+        "hierarchy": [
+          "woe:state=2345051", 
+          "woe:country=23424787", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345051, 
         "ne_longitude": -73.747, 
         "longitude": -74.242, 
-        "placetype": "State", 
-        "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
-        "parent_woeid": 23424787, 
+        "placetype": "state", 
         "latitude": 8.895, 
+        "iso": "CO", 
+        "sw_latitude": 6.984, 
+        "adjacent": [
+          "woe:state=2345048", 
+          "woe:state=2345050", 
+          "woe:state=2345056", 
+          "woe:state=2345058", 
+          "woe:state=2345063", 
+          "woe:state=2345071", 
+          "woe:state=2345072"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 10.806, 
         "sw_longitude": -75.801, 
         "fullname": "Bolivar, Colombia", 
-        "sw_latitude": 6.984
+        "date_indexed": "2010-12-02T17:57:12Z"
       }, 
       "id": 2345051
     }
+  ], 
+  "bbox": [
+    -75.801, 
+    6.984, 
+    -73.747, 
+    10.806
   ]
 }

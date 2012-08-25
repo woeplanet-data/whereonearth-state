@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347189, 
-        "name": "Trang", 
         "adjacent_woeid": [
           2347187, 
           2347188, 
           2347190, 
           2347191
         ], 
-        "ne_latitude": 8.013, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Trang", 
         "alias_ENG_V": [
           "Changwat Trang"
         ], 
+        "hierarchy": [
+          "woe:state=2347189", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347189, 
         "ne_longitude": 100.028, 
-        "longitude": 99.630, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "longitude": 99.63, 
+        "placetype": "state", 
         "latitude": 7.539, 
+        "iso": "TH", 
+        "sw_latitude": 6.973, 
+        "adjacent": [
+          "woe:state=2347187", 
+          "woe:state=2347188", 
+          "woe:state=2347190", 
+          "woe:state=2347191"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 8.013, 
         "sw_longitude": 99.233, 
         "fullname": "Trang, Thailand", 
-        "sw_latitude": 6.973
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347189
     }
+  ], 
+  "bbox": [
+    99.233, 
+    6.973, 
+    100.028, 
+    8.013
   ]
 }

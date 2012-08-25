@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346914, 
-        "name": "Novosibirskaya Oblast", 
         "adjacent_woeid": [
           2345993, 
           2346901, 
@@ -41,20 +39,39 @@
           2346928, 
           20070529
         ], 
-        "ne_latitude": 57.156, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Novosibirskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346914", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346914, 
         "ne_longitude": 85.039, 
         "longitude": 80.073, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 55.23, 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
-        "latitude": 55.230, 
+        "sw_latitude": 53.304, 
+        "adjacent": [
+          "woe:state=20070529", 
+          "woe:state=2346901", 
+          "woe:state=2346915", 
+          "woe:state=2345993", 
+          "woe:state=2346928"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 57.156, 
         "sw_longitude": 75.107, 
         "fullname": "Novosibirskaya Oblast, Russia", 
-        "sw_latitude": 53.304
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346914
     }
+  ], 
+  "bbox": [
+    75.107, 
+    53.304, 
+    85.039, 
+    57.156
   ]
 }

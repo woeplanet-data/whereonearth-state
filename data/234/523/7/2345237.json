@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345237, 
-        "name": "As Suways", 
         "adjacent_woeid": [
           2345224, 
           2345229, 
@@ -44,23 +42,45 @@
           2345248, 
           56120897
         ], 
-        "ne_latitude": 30.274, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "As Suways", 
         "alias_ENG_V": [
           "Suez Governorate"
         ], 
+        "hierarchy": [
+          "woe:state=2345237", 
+          "woe:country=23424802", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345237, 
         "ne_longitude": 32.656, 
         "longitude": 32.245, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 29.61, 
         "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
-        "parent_woeid": 23424802, 
-        "latitude": 29.610, 
+        "sw_latitude": 28.947, 
+        "adjacent": [
+          "woe:state=2345224", 
+          "woe:state=2345229", 
+          "woe:state=2345233", 
+          "woe:state=2345236", 
+          "woe:state=2345240", 
+          "woe:state=56120897", 
+          "woe:state=2345247", 
+          "woe:state=2345248"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 30.274, 
         "sw_longitude": 31.835, 
         "fullname": "As Suways, Egypt", 
-        "sw_latitude": 28.947
+        "date_indexed": "2010-12-02T12:16:45Z"
       }, 
       "id": 2345237
     }
+  ], 
+  "bbox": [
+    31.835, 
+    28.947, 
+    32.656, 
+    30.274
   ]
 }

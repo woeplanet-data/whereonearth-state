@@ -8,7 +8,7 @@
           [
             [
               -2.501, 
-              41.910
+              41.91
             ], 
             [
               -2.501, 
@@ -20,11 +20,11 @@
             ], 
             [
               -0.724, 
-              41.910
+              41.91
             ], 
             [
               -2.501, 
-              41.910
+              41.91
             ]
           ]
         ]
@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Navarre"
         ], 
+        "hierarchy": [
+          "woe:state=12578026", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 43.315, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Navarra"
         ], 
@@ -47,6 +52,12 @@
         ], 
         "woeid": 12578026, 
         "sw_longitude": -2.501, 
+        "adjacent": [
+          "woe:state=7153309", 
+          "woe:state=12578030", 
+          "woe:state=12578023", 
+          "woe:state=12578037"
+        ], 
         "alias_SPA_V": [
           "Comunidad Foral de Navarra Autonomia"
         ], 
@@ -73,14 +84,13 @@
           12578037
         ], 
         "name": "Comunidad Foral de Navarra", 
-        "parent_woeid": 23424950, 
         "alias_UNK_Q": [
           "Nafarroa"
         ], 
         "ne_longitude": -0.724, 
         "longitude": -1.612, 
         "iso": "ES", 
-        "sw_latitude": 41.910, 
+        "sw_latitude": 41.91, 
         "fullname": "Comunidad Foral de Navarra, Navarre, Spain", 
         "alias_FRE_Q": [
           "Navarre"
@@ -88,5 +98,11 @@
       }, 
       "id": 12578026
     }
+  ], 
+  "bbox": [
+    -2.501, 
+    41.91, 
+    -0.724, 
+    43.315
   ]
 }

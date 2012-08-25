@@ -860,13 +860,20 @@
       "type": "Feature", 
       "properties": {
         "ne:ProvNumber": 12, 
-        "ne:ISO": "DEU", 
         "ne:ScaleRank": 3, 
+        "hierarchy": [
+          "woe:state=2345489", 
+          "woe:country=23424829", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 49.629477443729115, 
+        "alias_GER_A": [
+          "SL"
+        ], 
         "ne:Shape_Area": 0.32834768933, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc790\ub97c\ub780\ud2b8"
         ], 
@@ -879,8 +886,10 @@
         "alias_ITA_Q": [
           "Saar, Territorio della"
         ], 
-        "ne:Area_sqkm": 2651.8, 
-        "ne:OBJECTID": 1581, 
+        "alias_GER_V": [
+          "Saar"
+        ], 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30b6\u30fc\u30eb\u30e9\u30f3\u30c8"
         ], 
@@ -890,6 +899,11 @@
           "El Sarre"
         ], 
         "sw_longitude": 6.341918165990592, 
+        "adjacent": [
+          "woe:state=20070559", 
+          "woe:state=7153322", 
+          "woe:state=2345488"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.376, 
         "ne:FIPS_1": "GM09", 
@@ -897,38 +911,33 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 49.105426743949124, 
-        "ne:VertexCou": 197.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "lang": "GER", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 1581, 
         "ne:Postal": "SL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
-        "alias_GER_A": [
-          "SL"
-        ], 
-        "ne:TYPE_1": "Land", 
+        "ne:ISO": "DEU", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 3.14394571238, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "Germany", 
         "ne:NAME_1": "Saarland", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Land", 
         "ne:LabelRank": 3, 
-        "alias_GER_V": [
-          "Saar"
-        ], 
+        "ne:Area_sqkm": 2651.8, 
         "woe:id": "2345489", 
-        "ne:HASC_1": "DE.SL", 
-        "lang": "GER", 
+        "name": "Saarland", 
+        "ne:VertexCou": 197.0, 
         "adjacent_woeid": [
           2345488, 
           7153322, 
           20070559
         ], 
-        "name": "Saarland", 
+        "ne:HASC_1": "DE.SL", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424829, 
         "ne_longitude": 7.390588006331484, 
         "longitude": 6.88, 
         "iso": "DE", 

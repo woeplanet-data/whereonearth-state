@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347665, 
-        "name": "Khorazm", 
         "adjacent_woeid": [
           2347348, 
           2347660, 
           2347663
         ], 
-        "ne_latitude": 41.378, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Khorazm", 
+        "hierarchy": [
+          "woe:state=2347665", 
+          "woe:country=23424980", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347665, 
         "ne_longitude": 62.586, 
         "longitude": 62.251, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 40.96, 
         "iso": "UZ", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424980, 
-        "latitude": 40.960, 
+        "sw_latitude": 40.543, 
+        "adjacent": [
+          "woe:state=2347660", 
+          "woe:state=2347348", 
+          "woe:state=2347663"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.378, 
         "sw_longitude": 61.382, 
         "fullname": "Khorazm, Uzbekistan", 
-        "sw_latitude": 40.543
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347665
     }
+  ], 
+  "bbox": [
+    61.382, 
+    40.543, 
+    62.586, 
+    41.378
   ]
 }

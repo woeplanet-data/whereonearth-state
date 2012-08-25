@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24550721, 
-        "name": "Culfa", 
         "adjacent_woeid": [
           20070206, 
           20070275, 
@@ -41,14 +39,27 @@
           24550719, 
           24550722
         ], 
-        "ne_latitude": 39.366, 
+        "name": "Culfa", 
+        "hierarchy": [
+          "woe:state=24550721", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550721, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.944, 
         "longitude": 45.731, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AZ", 
         "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "adjacent": [
+          "woe:state=24550722", 
+          "woe:state=20070275", 
+          "woe:state=24550719", 
+          "woe:state=24550718", 
+          "woe:state=20070206"
+        ], 
+        "ne_latitude": 39.366, 
         "latitude": 39.142, 
         "sw_longitude": 45.519, 
         "fullname": "Culfa, Azerbaijan", 
@@ -56,5 +67,11 @@
       }, 
       "id": 24550721
     }
+  ], 
+  "bbox": [
+    45.519, 
+    38.918, 
+    45.944, 
+    39.366
   ]
 }

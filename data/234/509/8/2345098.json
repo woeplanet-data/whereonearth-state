@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2345098, 
-        "name": "Ouaka", 
         "adjacent_woeid": [
           2344978, 
           2345089, 
@@ -42,20 +40,40 @@
           2345094, 
           2345102
         ], 
-        "ne_latitude": 7.707, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ouaka", 
+        "hierarchy": [
+          "woe:state=2345098", 
+          "woe:country=23424792", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345098, 
         "ne_longitude": 21.952, 
         "longitude": 20.703, 
-        "placetype": "State", 
-        "iso": "CF", 
-        "date_indexed": "2010-12-02T17:43:23Z", 
-        "parent_woeid": 23424792, 
+        "placetype": "state", 
         "latitude": 6.113, 
+        "iso": "CF", 
+        "sw_latitude": 4.519, 
+        "adjacent": [
+          "woe:state=2345089", 
+          "woe:state=2345090", 
+          "woe:state=2344978", 
+          "woe:state=2345091", 
+          "woe:state=2345094", 
+          "woe:state=2345102"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 7.707, 
         "sw_longitude": 19.454, 
         "fullname": "Ouaka, Central African Republic", 
-        "sw_latitude": 4.519
+        "date_indexed": "2010-12-02T17:43:23Z"
       }, 
       "id": 2345098
     }
+  ], 
+  "bbox": [
+    19.454, 
+    4.519, 
+    21.952, 
+    7.707
   ]
 }

@@ -1313,9 +1313,14 @@
       "properties": {
         "ne:ProvNumber": 0, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=55966997", 
+          "woe:country=23424854", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 7.54925527621009, 
         "ne:Shape_Area": 0.720333374767, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -1324,6 +1329,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -5.676159633760051, 
+        "adjacent": [
+          "woe:state=55966995", 
+          "woe:state=55967009", 
+          "woe:state=55966998", 
+          "woe:state=55967001", 
+          "woe:state=55967005"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 6.892, 
         "ne:FIPS_1": "IV56", 
@@ -1360,7 +1372,6 @@
         ], 
         "name": "Lacs", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424854, 
         "ne_longitude": -4.632088995610616, 
         "longitude": -5.152, 
         "iso": "CI", 

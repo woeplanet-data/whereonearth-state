@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              5.810, 
+              5.81, 
               49.448
             ], 
             [
-              5.810, 
+              5.81, 
               49.834
             ], 
             [
-              6.310, 
+              6.31, 
               49.834
             ], 
             [
-              6.310, 
+              6.31, 
               49.448
             ], 
             [
-              5.810, 
+              5.81, 
               49.448
             ]
           ]
@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Luxemburg"
         ], 
+        "hierarchy": [
+          "woe:state=20070560", 
+          "woe:country=23424881", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 49.834, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Luxemburgo"
         ], 
@@ -49,7 +54,13 @@
         "alias_SPA_Q": [
           "Luxemburgo"
         ], 
-        "sw_longitude": 5.810, 
+        "sw_longitude": 5.81, 
+        "adjacent": [
+          "woe:state=20070542", 
+          "woe:state=20070559", 
+          "woe:state=7153322", 
+          "woe:state=7153302"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.641, 
         "alias_NOR_Q": [
@@ -73,14 +84,19 @@
           20070559
         ], 
         "name": "Luxembourg", 
-        "parent_woeid": 23424881, 
-        "ne_longitude": 6.310, 
-        "longitude": 6.060, 
+        "ne_longitude": 6.31, 
+        "longitude": 6.06, 
         "iso": "LU", 
         "sw_latitude": 49.448, 
         "fullname": "Luxembourg, Luxemburg, Luxembourg"
       }, 
       "id": 20070560
     }
+  ], 
+  "bbox": [
+    5.81, 
+    49.448, 
+    6.31, 
+    49.834
   ]
 }

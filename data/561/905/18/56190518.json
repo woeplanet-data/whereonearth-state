@@ -17,10 +17,25 @@
           56190535
         ], 
         "name": "Tukums Novads", 
-        "parent_woeid": 23424874, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56190518", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "LV", 
+        "adjacent": [
+          "woe:state=56190541", 
+          "woe:state=56190547", 
+          "woe:state=56190550", 
+          "woe:state=56190556", 
+          "woe:state=56190591", 
+          "woe:state=20070119", 
+          "woe:state=55844299", 
+          "woe:state=56190564", 
+          "woe:state=56190535"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56190518, 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 

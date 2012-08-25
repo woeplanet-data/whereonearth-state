@@ -15,11 +15,11 @@
               34.218
             ], 
             [
-              38.350, 
+              38.35, 
               34.218
             ], 
             [
-              38.350, 
+              38.35, 
               32.532
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347076, 
-        "name": "Rif Dimashq", 
         "adjacent_woeid": [
           2345930, 
           2346013, 
@@ -44,20 +42,42 @@
           2347081, 
           56049599
         ], 
-        "ne_latitude": 34.218, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 38.350, 
+        "name": "Rif Dimashq", 
+        "hierarchy": [
+          "woe:state=2347076", 
+          "woe:country=23424956", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347076, 
+        "ne_longitude": 38.35, 
         "longitude": 37.109, 
-        "placetype": "State", 
-        "iso": "SY", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
-        "parent_woeid": 23424956, 
+        "placetype": "state", 
         "latitude": 33.375, 
+        "iso": "SY", 
+        "sw_latitude": 32.532, 
+        "adjacent": [
+          "woe:state=2346013", 
+          "woe:state=2345930", 
+          "woe:state=2347071", 
+          "woe:state=2347073", 
+          "woe:state=56049599", 
+          "woe:state=2347074", 
+          "woe:state=2347081", 
+          "woe:state=2347079"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.218, 
         "sw_longitude": 35.868, 
         "fullname": "Rif Dimashq, Syria", 
-        "sw_latitude": 32.532
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 2347076
     }
+  ], 
+  "bbox": [
+    35.868, 
+    32.532, 
+    38.35, 
+    34.218
   ]
 }

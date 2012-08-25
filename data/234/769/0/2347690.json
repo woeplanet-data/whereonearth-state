@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -71.870, 
+              -71.87, 
               7.609
             ], 
             [
-              -71.870, 
+              -71.87, 
               9.324
             ], 
             [
-              -70.440, 
+              -70.44, 
               9.324
             ], 
             [
-              -70.440, 
+              -70.44, 
               7.609
             ], 
             [
-              -71.870, 
+              -71.87, 
               7.609
             ]
           ]
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2347690, 
-        "name": "M\u00e9rida", 
         "adjacent_woeid": [
           2347681, 
           2347696, 
           2347697, 
           2347699
         ], 
-        "ne_latitude": 9.324, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -70.440, 
+        "name": "M\u00e9rida", 
+        "hierarchy": [
+          "woe:state=2347690", 
+          "woe:country=23424982", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347690, 
+        "ne_longitude": -70.44, 
         "longitude": -71.155, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 8.467, 
         "alias_SPA_S": [
           "Merida"
         ], 
         "iso": "VE", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "parent_woeid": 23424982, 
-        "latitude": 8.467, 
-        "sw_longitude": -71.870, 
+        "sw_latitude": 7.609, 
+        "adjacent": [
+          "woe:state=2347681", 
+          "woe:state=2347696", 
+          "woe:state=2347697", 
+          "woe:state=2347699"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.324, 
+        "sw_longitude": -71.87, 
         "fullname": "M\u00e9rida, Venezuela", 
-        "sw_latitude": 7.609
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 2347690
     }
+  ], 
+  "bbox": [
+    -71.87, 
+    7.609, 
+    -70.44, 
+    9.324
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346167, 
-        "name": "Hovsgol", 
         "adjacent_woeid": [
           2346157, 
           2346163, 
@@ -41,20 +39,39 @@
           2346867, 
           2346879
         ], 
-        "ne_latitude": 52.154, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Hovsgol", 
+        "hierarchy": [
+          "woe:state=2346167", 
+          "woe:country=23424887", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346167, 
         "ne_longitude": 102.632, 
-        "longitude": 99.860, 
-        "placetype": "State", 
-        "iso": "MN", 
-        "date_indexed": "2010-12-02T08:53:23Z", 
-        "parent_woeid": 23424887, 
+        "longitude": 99.86, 
+        "placetype": "state", 
         "latitude": 50.239, 
+        "iso": "MN", 
+        "sw_latitude": 48.325, 
+        "adjacent": [
+          "woe:state=2346157", 
+          "woe:state=2346174", 
+          "woe:state=2346867", 
+          "woe:state=2346163", 
+          "woe:state=2346879"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 52.154, 
         "sw_longitude": 97.089, 
         "fullname": "Hovsgol, Mongolia", 
-        "sw_latitude": 48.325
+        "date_indexed": "2010-12-02T08:53:23Z"
       }, 
       "id": 2346167
     }
+  ], 
+  "bbox": [
+    97.089, 
+    48.325, 
+    102.632, 
+    52.154
   ]
 }

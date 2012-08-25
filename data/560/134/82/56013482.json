@@ -2041,9 +2041,14 @@
       "properties": {
         "ne:ProvNumber": 1, 
         "ne:ScaleRank": 4, 
+        "hierarchy": [
+          "woe:state=56013482", 
+          "woe:country=23424777", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 10.618473619462009, 
         "ne:Shape_Area": 4.8237077716, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 6, 
         "ne:gadm_level": 1.0, 
@@ -2052,6 +2057,11 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "19990901", 
         "sw_longitude": 17.03346194801054, 
+        "adjacent": [
+          "woe:state=2344953", 
+          "woe:state=2344955", 
+          "woe:state=2344958"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 8.716, 
         "ne:FIPS_1": "CD11", 
@@ -2086,7 +2096,6 @@
         ], 
         "name": "Mandoul", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424777, 
         "ne_longitude": 19.93199303545026, 
         "longitude": 17.652, 
         "iso": "TD", 

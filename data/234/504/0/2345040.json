@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              13.380, 
+              13.38, 
               9.924
             ], 
             [
-              13.380, 
+              13.38, 
               13.078
             ], 
             [
@@ -23,7 +23,7 @@
               9.924
             ], 
             [
-              13.380, 
+              13.38, 
               9.924
             ]
           ]
@@ -31,40 +31,55 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_CHI_Q": [
+          "\u5317\u7aef"
+        ], 
         "lang": "FRE", 
-        "woeid": 2345040, 
-        "name": "Extreme-Nord", 
+        "alias_KOR_Q": [
+          "\uc775\uc2a4\ud2b8\ub9bc\ub178\ub4dc"
+        ], 
         "adjacent_woeid": [
           2345041, 
           2346355, 
           2346363
         ], 
+        "hierarchy": [
+          "woe:state=2345040", 
+          "woe:country=23424785", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 13.078, 
         "ne_longitude": 15.684, 
         "longitude": 14.848, 
-        "parent_woeid": 23424785, 
-        "placetype": "State", 
+        "alias_FRE_A": [
+          "EN"
+        ], 
+        "placetype": "state", 
+        "latitude": 11.501, 
+        "sw_longitude": 13.38, 
+        "sw_latitude": 9.924, 
+        "adjacent": [
+          "woe:state=2346363", 
+          "woe:state=2346355", 
+          "woe:state=2345041"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "alias_FRE_V": [
           "Extr\u00eame Nord"
         ], 
         "iso": "CM", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
-        "alias_KOR_Q": [
-          "\uc775\uc2a4\ud2b8\ub9bc\ub178\ub4dc"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 11.501, 
-        "sw_longitude": 13.380, 
         "fullname": "Extreme-Nord, Cameroon", 
-        "alias_FRE_A": [
-          "EN"
-        ], 
-        "alias_CHI_Q": [
-          "\u5317\u7aef"
-        ], 
-        "sw_latitude": 9.924
+        "woeid": 2345040, 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "name": "Extreme-Nord"
       }, 
       "id": 2345040
     }
+  ], 
+  "bbox": [
+    13.38, 
+    9.924, 
+    15.684, 
+    13.078
   ]
 }

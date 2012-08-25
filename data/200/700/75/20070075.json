@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070075, 
-        "name": "Burgas", 
         "adjacent_woeid": [
           2347294, 
           20070049, 
@@ -41,20 +39,39 @@
           20070052, 
           20070074
         ], 
-        "ne_latitude": 42.988, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Burgas", 
+        "hierarchy": [
+          "woe:state=20070075", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070075, 
         "ne_longitude": 28.034, 
         "longitude": 27.306, 
-        "placetype": "State", 
-        "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
+        "placetype": "state", 
         "latitude": 42.446, 
+        "iso": "BG", 
+        "sw_latitude": 41.904, 
+        "adjacent": [
+          "woe:state=2347294", 
+          "woe:state=20070052", 
+          "woe:state=20070049", 
+          "woe:state=20070051", 
+          "woe:state=20070074"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.988, 
         "sw_longitude": 26.577, 
         "fullname": "Burgas, Bulgaria", 
-        "sw_latitude": 41.904
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070075
     }
+  ], 
+  "bbox": [
+    26.577, 
+    41.904, 
+    28.034, 
+    42.988
   ]
 }

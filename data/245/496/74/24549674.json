@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549674, 
         "name": "Atiu", 
-        "ne_latitude": -19.966, 
+        "hierarchy": [
+          "woe:state=24549674", 
+          "woe:country=23424795", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549674, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -158.074, 
         "longitude": -158.104, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "CK", 
         "date_indexed": "2010-12-02T17:57:50Z", 
-        "parent_woeid": 23424795, 
+        "ne_latitude": -19.966, 
         "latitude": -19.996, 
         "sw_longitude": -158.135, 
         "fullname": "Atiu, Cook Islands", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549674
     }
+  ], 
+  "bbox": [
+    -158.135, 
+    -20.034, 
+    -158.074, 
+    -19.966
   ]
 }

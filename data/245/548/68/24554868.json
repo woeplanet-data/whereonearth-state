@@ -619,9 +619,14 @@
       "properties": {
         "ne:ProvNumber": 2000, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=24554868", 
+          "woe:country=23424975", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 51.48765859606743, 
         "ne:Shape_Area": 0.456722855186, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:VALIDFR_1": "Between 1900 and 1974", 
         "alias_POR_Q": [
@@ -643,7 +648,6 @@
         "alias_JPN_Q": [
           "\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": "Kent", 
         "alias_SPA_Q": [
           "Inglaterra"
@@ -664,12 +668,16 @@
         "date_indexed": "2010-12-02T12:16:52Z", 
         "lang": "ENG", 
         "ne:MAP_COLOR": 3, 
+        "adjacent": [
+          "woe:state=12578048", 
+          "woe:state=12578049"
+        ], 
         "ne:OBJECTID": 3409, 
         "ne:Postal": "KE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
         "ne:ISO": "GBR", 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Administrative County", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 4.50264808282, 
         "alias_DUT_Q": [
@@ -678,7 +686,7 @@
         "ne:NAME_0": "United Kingdom", 
         "ne:NAME_1": "Kent", 
         "ne:Region_C_1": "South East", 
-        "ne:TYPE_1": "Administrative County", 
+        "ne:Region_C_3": null, 
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 3549.9, 
         "woe:id": "24554868", 
@@ -691,19 +699,19 @@
         "ne:HASC_1": "GB.KE", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
-        "parent_woeid": 23424975, 
         "ne_longitude": 1.448315057094248, 
         "longitude": -1.974, 
         "iso": "GB", 
         "sw_latitude": 50.90934764237983, 
         "ne:NL_NAME_1": null, 
         "fullname": "England, United Kingdom", 
+        "alias_FRE_Q": [
+          "Angleterre"
+        ], 
         "ne:Region": "England", 
         "ne:NEV_Countr": "United Kingdom", 
         "ne:RegionVar": null, 
-        "alias_FRE_Q": [
-          "Angleterre"
-        ]
+        "ne:sameAsCity": -99
       }, 
       "id": 24554868
     }

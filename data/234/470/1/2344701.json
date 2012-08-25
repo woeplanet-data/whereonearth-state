@@ -12187,11 +12187,16 @@
         "alias_SWE_Q": [
           "Norra territoriet"
         ], 
+        "hierarchy": [
+          "woe:state=2344701", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -10.968219089739137, 
         "ne:Shape_Area": 116.266974204, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19110101", 
         "alias_KOR_Q": [
           "\ub178\ub358\ud14c\ub9ac\ud1a0\ub9ac"
         ], 
@@ -12201,7 +12206,7 @@
         "alias_CHI_Q": [
           "\u5317\u90e8\u9886\u5730"
         ], 
-        "ne:OBJECTID": 2650, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30ce\u30fc\u30b6\u30f3\u30fb\u30c6\u30ea\u30c8\u30ea\u30fc"
         ], 
@@ -12211,6 +12216,11 @@
           "Pohjoisterritorio"
         ], 
         "sw_longitude": 129.00011600125254, 
+        "adjacent": [
+          "woe:state=2344702", 
+          "woe:state=2344703", 
+          "woe:state=2344706"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -18.557, 
         "ne:FIPS_1": "AS03", 
@@ -12220,12 +12230,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Territory", 
         "date_indexed": "2010-12-02T17:43:32Z", 
-        "ne:VertexCou": 2982.0, 
+        "lang": "ENG", 
         "alias_ENG_A": [
           "NT"
         ], 
-        "ne:VALIDFR_1": "19110101", 
-        "ne:DataRank": 3, 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 2650, 
         "ne:Postal": "NT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -12241,17 +12251,16 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 1348630.2, 
         "woe:id": "2344701", 
-        "ne:HASC_1": "AU.NT", 
-        "lang": "ENG", 
+        "name": "Northern Territory", 
+        "ne:VertexCou": 2982.0, 
         "adjacent_woeid": [
           2344702, 
           2344703, 
           2344706
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Northern Territory", 
+        "ne:HASC_1": "AU.NT", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424748, 
         "ne_longitude": 138.0001868021792, 
         "longitude": 133.501, 
         "iso": "AU", 

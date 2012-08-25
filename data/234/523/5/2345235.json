@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              25.000, 
+              25.0, 
               21.999
             ], 
             [
-              25.000, 
+              25.0, 
               27.999
             ], 
             [
@@ -23,7 +23,7 @@
               21.999
             ], 
             [
-              25.000, 
+              25.0, 
               21.999
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345235, 
-        "name": "Al Wadi al Jadid", 
         "adjacent_woeid": [
           2345232, 
           2345238, 
@@ -43,23 +41,44 @@
           2345246, 
           56120898
         ], 
-        "ne_latitude": 27.999, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Al Wadi al Jadid", 
         "alias_ENG_V": [
           "New Valley Governorate"
         ], 
+        "hierarchy": [
+          "woe:state=2345235", 
+          "woe:country=23424802", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345235, 
         "ne_longitude": 32.719, 
-        "longitude": 28.860, 
-        "placetype": "State", 
-        "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
-        "parent_woeid": 23424802, 
+        "longitude": 28.86, 
+        "placetype": "state", 
         "latitude": 24.999, 
-        "sw_longitude": 25.000, 
+        "iso": "EG", 
+        "sw_latitude": 21.999, 
+        "adjacent": [
+          "woe:state=2345232", 
+          "woe:state=2345238", 
+          "woe:state=2345239", 
+          "woe:state=56120898", 
+          "woe:state=2345244", 
+          "woe:state=2345245", 
+          "woe:state=2345246"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 27.999, 
+        "sw_longitude": 25.0, 
         "fullname": "Al Wadi al Jadid, Egypt", 
-        "sw_latitude": 21.999
+        "date_indexed": "2010-12-02T12:16:45Z"
       }, 
       "id": 2345235
     }
+  ], 
+  "bbox": [
+    25.0, 
+    21.999, 
+    32.719, 
+    27.999
   ]
 }

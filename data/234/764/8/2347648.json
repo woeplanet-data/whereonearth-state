@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2347648, 
-        "name": "Maldonado", 
         "adjacent_woeid": [
           2347641, 
           2347647, 
           2347653
         ], 
-        "ne_latitude": -33.951, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Maldonado", 
+        "hierarchy": [
+          "woe:state=2347648", 
+          "woe:country=23424979", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347648, 
         "ne_longitude": -54.456, 
         "longitude": -54.752, 
-        "placetype": "State", 
-        "iso": "UY", 
-        "date_indexed": "2010-12-02T17:58:18Z", 
-        "parent_woeid": 23424979, 
+        "placetype": "state", 
         "latitude": -34.466, 
+        "iso": "UY", 
+        "sw_latitude": -35.048, 
+        "adjacent": [
+          "woe:state=2347641", 
+          "woe:state=2347647", 
+          "woe:state=2347653"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -33.951, 
         "sw_longitude": -55.493, 
         "fullname": "Maldonado, Uruguay", 
-        "sw_latitude": -35.048
+        "date_indexed": "2010-12-02T17:58:18Z"
       }, 
       "id": 2347648
     }
+  ], 
+  "bbox": [
+    -55.493, 
+    -35.048, 
+    -54.456, 
+    -33.951
   ]
 }

@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070279, 
-        "name": "Davaci", 
         "adjacent_woeid": [
           20070221, 
           20070232, 
           20070271, 
           20070278
         ], 
-        "ne_latitude": 41.471, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Davaci", 
+        "hierarchy": [
+          "woe:state=20070279", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070279, 
         "ne_longitude": 49.123, 
         "longitude": 48.928, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 41.171, 
+        "iso": "AZ", 
+        "sw_latitude": 40.872, 
+        "adjacent": [
+          "woe:state=20070232", 
+          "woe:state=20070278", 
+          "woe:state=20070221", 
+          "woe:state=20070271"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.471, 
         "sw_longitude": 48.732, 
         "fullname": "Davaci, Azerbaijan", 
-        "sw_latitude": 40.872
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070279
     }
+  ], 
+  "bbox": [
+    48.732, 
+    40.872, 
+    49.123, 
+    41.471
   ]
 }

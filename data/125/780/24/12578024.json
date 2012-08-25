@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Madrid"
         ], 
+        "hierarchy": [
+          "woe:state=12578024", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.165, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Madrid"
         ], 
@@ -59,6 +64,10 @@
           "Madridin Itsehallintoalue"
         ], 
         "sw_longitude": -4.579, 
+        "adjacent": [
+          "woe:state=12578033", 
+          "woe:state=12578032"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.525, 
         "alias_NOR_Q": [
@@ -83,7 +92,6 @@
           12578033
         ], 
         "name": "Comunidad de Madrid", 
-        "parent_woeid": 23424950, 
         "ne_longitude": -3.053, 
         "longitude": -3.816, 
         "iso": "ES", 
@@ -95,5 +103,11 @@
       }, 
       "id": 12578024
     }
+  ], 
+  "bbox": [
+    -4.579, 
+    39.885, 
+    -3.053, 
+    41.165
   ]
 }

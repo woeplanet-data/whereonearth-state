@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344613, 
-        "name": "El Oued", 
         "adjacent_woeid": [
           2344591, 
           2344594, 
@@ -44,20 +42,42 @@
           2347254, 
           2347255
         ], 
-        "ne_latitude": 34.497, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "El Oued", 
+        "hierarchy": [
+          "woe:state=2344613", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344613, 
         "ne_longitude": 9.129, 
         "longitude": 7.094, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 33.232, 
+        "iso": "DZ", 
+        "sw_latitude": 31.968, 
+        "adjacent": [
+          "woe:state=2344591", 
+          "woe:state=2344594", 
+          "woe:state=2344617", 
+          "woe:state=2344620", 
+          "woe:state=2347251", 
+          "woe:state=2347254", 
+          "woe:state=2347255", 
+          "woe:state=2344603"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.497, 
         "sw_longitude": 5.059, 
         "fullname": "El Oued, Algeria", 
-        "sw_latitude": 31.968
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344613
     }
+  ], 
+  "bbox": [
+    5.059, 
+    31.968, 
+    9.129, 
+    34.497
   ]
 }

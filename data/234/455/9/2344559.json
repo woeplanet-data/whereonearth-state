@@ -553,11 +553,16 @@
       "properties": {
         "ne:ProvNumber": 34, 
         "ne:ScaleRank": 5, 
+        "hierarchy": [
+          "woe:state=2344559", 
+          "woe:country=23424739", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 34.895389715962665, 
         "ne:Shape_Area": 0.434081376415, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uce74\ubd88"
         ], 
@@ -566,10 +571,18 @@
         "alias_CHI_Q": [
           "\u5580\u5e03\u5c14"
         ], 
-        "ne:OBJECTID": 1767, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 68.84006717336143, 
+        "adjacent": [
+          "woe:state=2344560", 
+          "woe:state=2344562", 
+          "woe:state=2344563", 
+          "woe:state=2344564", 
+          "woe:state=2344568", 
+          "woe:state=2344572"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 34.544, 
         "ne:FIPS_1": "AF13", 
@@ -577,9 +590,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 34.14313589140829, 
-        "ne:VertexCou": 134.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 5, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 1767, 
         "ne:Postal": "KB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Cabul|Kabol|Kaboul", 
@@ -595,8 +608,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 4419.5, 
         "woe:id": "2344559", 
-        "ne:HASC_1": "AF.KB", 
-        "lang": "ENG", 
+        "name": "Kabul", 
+        "ne:VertexCou": 134.0, 
         "adjacent_woeid": [
           2344560, 
           2344562, 
@@ -605,9 +618,8 @@
           2344568, 
           2344572
         ], 
-        "name": "Kabul", 
+        "ne:HASC_1": "AF.KB", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424739, 
         "ne_longitude": 69.92904463050536, 
         "longitude": 69.37, 
         "iso": "AF", 

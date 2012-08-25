@@ -2181,9 +2181,14 @@
       "properties": {
         "ne:ProvNumber": 11, 
         "ne:ScaleRank": 4, 
+        "hierarchy": [
+          "woe:state=56013481", 
+          "woe:country=23424777", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 13.405125230345163, 
         "ne:Shape_Area": 6.70935764122, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 6, 
         "ne:gadm_level": 1.0, 
@@ -2192,6 +2197,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "19990901", 
         "sw_longitude": 14.48085289844255, 
+        "adjacent": [
+          "woe:state=56190455", 
+          "woe:state=2344945", 
+          "woe:state=2344948", 
+          "woe:state=2344949", 
+          "woe:state=2344950", 
+          "woe:state=2344951", 
+          "woe:state=56013485"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 12.329, 
         "ne:FIPS_1": "CD04", 
@@ -2230,7 +2244,6 @@
         ], 
         "name": "Hadjer-Lamis", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424777, 
         "ne_longitude": 17.625570509171723, 
         "longitude": 16.876, 
         "iso": "TD", 

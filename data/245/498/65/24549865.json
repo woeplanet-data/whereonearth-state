@@ -32,13 +32,17 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549865, 
-        "name": "St.-Pierre", 
         "ne_latitude": 46.819, 
+        "name": "St.-Pierre", 
+        "hierarchy": [
+          "woe:state=24549865", 
+          "woe:country=23424939", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549865, 
         "ne_longitude": -56.157, 
         "longitude": -56.211, 
-        "parent_woeid": 23424939, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_FRE_V": [
           "St-Pierre"
         ], 
@@ -52,5 +56,11 @@
       }, 
       "id": 24549865
     }
+  ], 
+  "bbox": [
+    -56.255, 
+    46.753, 
+    -56.157, 
+    46.819
   ]
 }

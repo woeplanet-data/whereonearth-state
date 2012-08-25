@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              120.250, 
+              120.25, 
               22.506
             ], 
             [
-              120.250, 
+              120.25, 
               22.756
             ], 
             [
@@ -23,7 +23,7 @@
               22.506
             ], 
             [
-              120.250, 
+              120.25, 
               22.506
             ]
           ]
@@ -32,22 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "CHI", 
-        "woeid": 20070570, 
+        "alias_ENG_V": [
+          "Kaosiung City"
+        ], 
         "name": "\u9ad8\u96c4\u5e02", 
         "alias_CHI_V": [
           "\u9ad8\u96c4"
         ], 
+        "hierarchy": [
+          "woe:state=20070570", 
+          "woe:country=23424971", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070570, 
         "alias_ENG_P": [
           "Kaohsiung City"
         ], 
-        "ne_latitude": 22.756, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "Kaosiung City"
-        ], 
         "ne_longitude": 120.399, 
         "longitude": 120.293, 
-        "placetype": "State", 
+        "ne_latitude": 22.756, 
+        "placetype": "state", 
         "adjacent_woeid": [
           2347339, 
           28751581, 
@@ -57,14 +61,28 @@
           7153409
         ], 
         "iso": "TW", 
-        "date_indexed": "2010-12-02T16:15:11Z", 
-        "parent_woeid": 23424971, 
+        "sw_latitude": 22.506, 
+        "adjacent": [
+          "woe:state=2347339", 
+          "woe:state=28751581", 
+          "woe:state=2347344", 
+          "woe:state=7153409", 
+          "woe:state=2347340", 
+          "woe:state=2347335"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 22.673, 
-        "sw_longitude": 120.250, 
+        "sw_longitude": 120.25, 
         "fullname": "\u9ad8\u96c4\u5e02, Kaohsiung City, Kaohsiung City, Taiwan", 
-        "sw_latitude": 22.506
+        "date_indexed": "2010-12-02T16:15:11Z"
       }, 
       "id": 20070570
     }
+  ], 
+  "bbox": [
+    120.25, 
+    22.506, 
+    120.399, 
+    22.756
   ]
 }

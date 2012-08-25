@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070244, 
-        "name": "Samkir", 
         "adjacent_woeid": [
           20070222, 
           20070230, 
@@ -41,20 +39,39 @@
           20070268, 
           20070269
         ], 
-        "ne_latitude": 41.101, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Samkir", 
+        "hierarchy": [
+          "woe:state=20070244", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070244, 
         "ne_longitude": 46.296, 
-        "longitude": 46.000, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "longitude": 46.0, 
+        "placetype": "state", 
         "latitude": 40.834, 
+        "iso": "AZ", 
+        "sw_latitude": 40.567, 
+        "adjacent": [
+          "woe:state=20070222", 
+          "woe:state=20070230", 
+          "woe:state=20070269", 
+          "woe:state=20070248", 
+          "woe:state=20070268"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.101, 
         "sw_longitude": 45.705, 
         "fullname": "Samkir, Azerbaijan", 
-        "sw_latitude": 40.567
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070244
     }
+  ], 
+  "bbox": [
+    45.705, 
+    40.567, 
+    46.296, 
+    41.101
   ]
 }

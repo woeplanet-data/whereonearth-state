@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": -25.652, 
-        "name": "Santiago del Estero", 
         "adjacent_woeid": [
           2344676, 
           2344677, 
@@ -42,26 +40,46 @@
           2344695, 
           2344698
         ], 
+        "alias_ENG_A": [
+          "SE"
+        ], 
+        "name": "Santiago del Estero", 
+        "hierarchy": [
+          "woe:state=2344696", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
         "woeid": 2344696, 
         "alias_SPA_V": [
           "Provincia de Santiago del Estero"
         ], 
         "ne_longitude": -61.709, 
         "longitude": -63.448, 
-        "parent_woeid": 23424747, 
-        "placetype": "State", 
-        "iso": "AR", 
-        "date_indexed": "2010-12-02T17:40:36Z", 
-        "alias_ENG_A": [
-          "SE"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": -28.065, 
         "sw_longitude": -65.187, 
+        "sw_latitude": -30.479, 
+        "adjacent": [
+          "woe:state=2344676", 
+          "woe:state=2344677", 
+          "woe:state=2344679", 
+          "woe:state=2344691", 
+          "woe:state=2344695", 
+          "woe:state=2344698"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -25.652, 
+        "iso": "AR", 
         "fullname": "Santiago del Estero, Argentina", 
-        "sw_latitude": -30.479
+        "date_indexed": "2010-12-02T17:40:36Z"
       }, 
       "id": 2344696
     }
+  ], 
+  "bbox": [
+    -65.187, 
+    -30.479, 
+    -61.709, 
+    -25.652
   ]
 }

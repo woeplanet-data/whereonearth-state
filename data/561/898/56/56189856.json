@@ -9,10 +9,17 @@
           56189855
         ], 
         "name": "Eastern Tobago", 
-        "parent_woeid": 23424958, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56189856", 
+          "woe:country=23424958", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "TT", 
+        "adjacent": [
+          "woe:state=56189855"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56189856, 
         "date_indexed": "2010-12-02T18:05:31Z"
       }, 

@@ -8,7 +8,7 @@
           [
             [
               91.098, 
-              26.770
+              26.77
             ], 
             [
               91.098, 
@@ -20,11 +20,11 @@
             ], 
             [
               92.115, 
-              26.770
+              26.77
             ], 
             [
               91.098, 
-              26.770
+              26.77
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344884, 
-        "name": "Samdrup", 
         "adjacent_woeid": [
           2344881, 
           2344885, 
@@ -41,23 +39,42 @@
           2345741, 
           2345763
         ], 
-        "ne_latitude": 27.163, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Samdrup", 
         "alias_ENG_V": [
           "Samdrup Jongkhar"
         ], 
+        "hierarchy": [
+          "woe:state=2344884", 
+          "woe:country=23424770", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344884, 
         "ne_longitude": 92.115, 
         "longitude": 91.868, 
-        "placetype": "State", 
-        "iso": "BT", 
-        "date_indexed": "2010-12-02T17:56:39Z", 
-        "parent_woeid": 23424770, 
+        "placetype": "state", 
         "latitude": 26.967, 
+        "iso": "BT", 
+        "sw_latitude": 26.77, 
+        "adjacent": [
+          "woe:state=2345763", 
+          "woe:state=2345741", 
+          "woe:state=2344881", 
+          "woe:state=2344885", 
+          "woe:state=2344886"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 27.163, 
         "sw_longitude": 91.098, 
         "fullname": "Samdrup, Bhutan", 
-        "sw_latitude": 26.770
+        "date_indexed": "2010-12-02T17:56:39Z"
       }, 
       "id": 2344884
     }
+  ], 
+  "bbox": [
+    91.098, 
+    26.77, 
+    92.115, 
+    27.163
   ]
 }

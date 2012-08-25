@@ -12,11 +12,11 @@
             ], 
             [
               -16.745, 
-              16.170
+              16.17
             ], 
             [
               -14.321, 
-              16.170
+              16.17
             ], 
             [
               -14.321, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2346993, 
-        "name": "Louga", 
         "adjacent_woeid": [
           2346989, 
           2346990, 
@@ -43,20 +41,41 @@
           56055612, 
           56055615
         ], 
-        "ne_latitude": 16.170, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Louga", 
+        "hierarchy": [
+          "woe:state=2346993", 
+          "woe:country=23424943", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346993, 
         "ne_longitude": -14.321, 
         "longitude": -15.533, 
-        "placetype": "State", 
-        "iso": "SN", 
-        "date_indexed": "2010-12-02T08:57:18Z", 
-        "parent_woeid": 23424943, 
+        "placetype": "state", 
         "latitude": 15.359, 
+        "iso": "SN", 
+        "sw_latitude": 14.549, 
+        "adjacent": [
+          "woe:state=2346989", 
+          "woe:state=2346994", 
+          "woe:state=56055612", 
+          "woe:state=56055615", 
+          "woe:state=2346990", 
+          "woe:state=2346991", 
+          "woe:state=2346992"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.17, 
         "sw_longitude": -16.745, 
         "fullname": "Louga, Senegal", 
-        "sw_latitude": 14.549
+        "date_indexed": "2010-12-02T08:57:18Z"
       }, 
       "id": 2346993
     }
+  ], 
+  "bbox": [
+    -16.745, 
+    14.549, 
+    -14.321, 
+    16.17
   ]
 }

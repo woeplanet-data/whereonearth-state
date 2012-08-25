@@ -32,19 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 56014685, 
-        "name": "Kuala Lumpur", 
         "adjacent_woeid": [
           2346306
         ], 
-        "ne_latitude": 3.245, 
+        "name": "Kuala Lumpur", 
+        "hierarchy": [
+          "woe:state=56014685", 
+          "woe:country=23424901", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56014685, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 101.758, 
         "longitude": 101.687, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MY", 
         "date_indexed": "2010-12-02T18:03:44Z", 
-        "parent_woeid": 23424901, 
+        "adjacent": [
+          "woe:state=2346306"
+        ], 
+        "ne_latitude": 3.245, 
         "latitude": 3.141, 
         "sw_longitude": 101.615, 
         "fullname": "Kuala Lumpur, Malaysia", 
@@ -52,5 +59,11 @@
       }, 
       "id": 56014685
     }
+  ], 
+  "bbox": [
+    101.615, 
+    3.036, 
+    101.758, 
+    3.245
   ]
 }

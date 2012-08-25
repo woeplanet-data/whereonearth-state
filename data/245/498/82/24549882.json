@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549882, 
-        "name": "Mont Fleuri", 
         "adjacent_woeid": [
           24549879, 
           24549881, 
           24549883, 
           24549885
         ], 
-        "ne_latitude": -4.623, 
+        "name": "Mont Fleuri", 
+        "hierarchy": [
+          "woe:state=24549882", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549882, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.468, 
         "longitude": 55.457, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549883", 
+          "woe:state=24549885", 
+          "woe:state=24549881", 
+          "woe:state=24549879"
+        ], 
+        "ne_latitude": -4.623, 
         "latitude": -4.633, 
         "sw_longitude": 55.445, 
         "fullname": "Mont Fleuri, Seychelles", 
@@ -55,5 +65,11 @@
       }, 
       "id": 24549882
     }
+  ], 
+  "bbox": [
+    55.445, 
+    -4.642, 
+    55.468, 
+    -4.623
   ]
 }

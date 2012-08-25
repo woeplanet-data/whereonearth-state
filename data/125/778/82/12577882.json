@@ -15,11 +15,11 @@
               39.901
             ], 
             [
-              21.120, 
+              21.12, 
               39.901
             ], 
             [
-              21.120, 
+              21.12, 
               37.242
             ], 
             [
@@ -40,11 +40,16 @@
         "alias_POL_Q": [
           "Wyspy Jo\u0144skie"
         ], 
+        "hierarchy": [
+          "woe:state=12577882", 
+          "woe:country=23424833", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 39.901, 
         "alias_RUM_Q": [
           "Insulele Ionice"
         ], 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Ilhas J\u00f3nicas"
         ], 
@@ -112,20 +117,19 @@
         "alias_UNK_S": [
           "Iyonya Adalari"
         ], 
-        "parent_woeid": 23424833, 
+        "alias_HUN_S": [
+          "Jon-Szigetek"
+        ], 
         "alias_UNK_Q": [
           "Ynysoedd Ionaidd"
         ], 
         "alias_HUN_Q": [
           "J\u00f3n-Szigetek"
         ], 
-        "ne_longitude": 21.120, 
+        "ne_longitude": 21.12, 
         "longitude": 20.576, 
         "iso": "GR", 
         "sw_latitude": 37.242, 
-        "alias_HUN_S": [
-          "Jon-Szigetek"
-        ], 
         "fullname": "Ionian Islands, Nisia Ionioy, Greece", 
         "alias_FRE_S": [
           "Iles Ioniennes"
@@ -136,5 +140,11 @@
       }, 
       "id": 12577882
     }
+  ], 
+  "bbox": [
+    19.374, 
+    37.242, 
+    21.12, 
+    39.901
   ]
 }

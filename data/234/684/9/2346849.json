@@ -32,13 +32,17 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.168, 
-        "name": "Cabo Rojo", 
         "adjacent_woeid": [
           2346805, 
           2346837, 
           2346848, 
           2346850
+        ], 
+        "name": "Cabo Rojo", 
+        "hierarchy": [
+          "woe:state=2346849", 
+          "woe:country=23424935", 
+          "woe:planet=1"
         ], 
         "woeid": 2346849, 
         "alias_SPA_V": [
@@ -46,17 +50,29 @@
         ], 
         "ne_longitude": -67.098, 
         "longitude": -67.157, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.050, 
+        "placetype": "state", 
+        "latitude": 18.05, 
         "sw_longitude": -67.216, 
+        "sw_latitude": 17.932, 
+        "adjacent": [
+          "woe:state=2346850", 
+          "woe:state=2346837", 
+          "woe:state=2346848", 
+          "woe:state=2346805"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.168, 
+        "iso": "PR", 
         "fullname": "Cabo Rojo, Puerto Rico", 
-        "sw_latitude": 17.932
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346849
     }
+  ], 
+  "bbox": [
+    -67.216, 
+    17.932, 
+    -67.098, 
+    18.168
   ]
 }

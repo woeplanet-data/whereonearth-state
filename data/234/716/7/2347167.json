@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347167, 
-        "name": "Samut Prakan", 
         "adjacent_woeid": [
           2347165, 
           2347169
         ], 
-        "ne_latitude": 13.717, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Samut Prakan", 
         "alias_ENG_V": [
           "Changwat Samut Prakan"
         ], 
+        "hierarchy": [
+          "woe:state=2347167", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347167, 
         "ne_longitude": 100.962, 
         "longitude": 100.703, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 13.598, 
+        "iso": "TH", 
+        "sw_latitude": 13.478, 
+        "adjacent": [
+          "woe:state=2347165", 
+          "woe:state=2347169"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.717, 
         "sw_longitude": 100.444, 
         "fullname": "Samut Prakan, Thailand", 
-        "sw_latitude": 13.478
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347167
     }
+  ], 
+  "bbox": [
+    100.444, 
+    13.478, 
+    100.962, 
+    13.717
   ]
 }

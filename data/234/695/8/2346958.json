@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346958, 
-        "name": "Al Madinah", 
         "adjacent_woeid": [
           2346951, 
           2346952, 
@@ -41,23 +39,42 @@
           2346959, 
           2346962
         ], 
-        "ne_latitude": 27.496, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Al Madinah", 
         "alias_ENG_V": [
           "Madinah"
         ], 
+        "hierarchy": [
+          "woe:state=2346958", 
+          "woe:country=23424938", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346958, 
         "ne_longitude": 41.709, 
         "longitude": 39.172, 
-        "placetype": "State", 
-        "iso": "SA", 
-        "date_indexed": "2010-12-02T09:34:37Z", 
-        "parent_woeid": 23424938, 
+        "placetype": "state", 
         "latitude": 25.033, 
+        "iso": "SA", 
+        "sw_latitude": 22.571, 
+        "adjacent": [
+          "woe:state=2346952", 
+          "woe:state=2346951", 
+          "woe:state=2346957", 
+          "woe:state=2346959", 
+          "woe:state=2346962"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 27.496, 
         "sw_longitude": 36.635, 
         "fullname": "Al Madinah, Saudi Arabia", 
-        "sw_latitude": 22.571
+        "date_indexed": "2010-12-02T09:34:37Z"
       }, 
       "id": 2346958
     }
+  ], 
+  "bbox": [
+    36.635, 
+    22.571, 
+    41.709, 
+    27.496
   ]
 }

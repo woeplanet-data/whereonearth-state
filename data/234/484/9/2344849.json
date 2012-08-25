@@ -32,40 +32,56 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2344849, 
-        "name": "Cear\u00e1", 
-        "alias_ENG_P": [
-          "Ceara"
-        ], 
-        "ne_latitude": -2.787, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_POR_S": [
-          "Estado Ceara"
-        ], 
-        "ne_longitude": -37.249, 
-        "longitude": -39.343, 
-        "placetype": "State", 
-        "alias_POR_V": [
-          "Estado Cear\u00e1"
-        ], 
         "adjacent_woeid": [
           2344858, 
           2344860, 
           2344861, 
           2344863
         ], 
-        "iso": "BR", 
-        "date_indexed": "2010-12-02T17:58:27Z", 
         "alias_ENG_A": [
           "CE"
         ], 
-        "parent_woeid": 23424768, 
-        "latitude": -5.322, 
+        "alias_ENG_P": [
+          "Ceara"
+        ], 
+        "hierarchy": [
+          "woe:state=2344849", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344849, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_POR_S": [
+          "Estado Ceara"
+        ], 
+        "ne_longitude": -37.249, 
+        "longitude": -39.343, 
+        "placetype": "state", 
+        "alias_POR_V": [
+          "Estado Cear\u00e1"
+        ], 
         "sw_longitude": -41.436, 
+        "sw_latitude": -7.858, 
+        "adjacent": [
+          "woe:state=2344858", 
+          "woe:state=2344860", 
+          "woe:state=2344861", 
+          "woe:state=2344863"
+        ], 
+        "ne_latitude": -2.787, 
+        "latitude": -5.322, 
+        "iso": "BR", 
         "fullname": "Cear\u00e1, Ceara, Brazil", 
-        "sw_latitude": -7.858
+        "date_indexed": "2010-12-02T17:58:27Z", 
+        "name": "Cear\u00e1"
       }, 
       "id": 2344849
     }
+  ], 
+  "bbox": [
+    -41.436, 
+    -7.858, 
+    -37.249, 
+    -2.787
   ]
 }

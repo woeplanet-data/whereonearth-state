@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              36.120, 
+              36.12, 
               33.135
             ], 
             [
-              36.120, 
+              36.12, 
               35.614
             ], 
             [
@@ -23,7 +23,7 @@
               33.135
             ], 
             [
-              36.120, 
+              36.12, 
               33.135
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347079, 
-        "name": "H'ims", 
         "adjacent_woeid": [
           2345833, 
           2345930, 
@@ -46,20 +44,44 @@
           56049598, 
           56049599
         ], 
-        "ne_latitude": 35.614, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "H'ims", 
+        "hierarchy": [
+          "woe:state=2347079", 
+          "woe:country=23424956", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347079, 
         "ne_longitude": 40.215, 
         "longitude": 38.168, 
-        "placetype": "State", 
-        "iso": "SY", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
-        "parent_woeid": 23424956, 
+        "placetype": "state", 
         "latitude": 34.375, 
-        "sw_longitude": 36.120, 
+        "iso": "SY", 
+        "sw_latitude": 33.135, 
+        "adjacent": [
+          "woe:state=56049598", 
+          "woe:state=2345833", 
+          "woe:state=2345930", 
+          "woe:state=2347072", 
+          "woe:state=56049599", 
+          "woe:state=2347075", 
+          "woe:state=2347077", 
+          "woe:state=2347078", 
+          "woe:state=2347076", 
+          "woe:state=2347082"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.614, 
+        "sw_longitude": 36.12, 
         "fullname": "H'ims, Syria", 
-        "sw_latitude": 33.135
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 2347079
     }
+  ], 
+  "bbox": [
+    36.12, 
+    33.135, 
+    40.215, 
+    35.614
   ]
 }

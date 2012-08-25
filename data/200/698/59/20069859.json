@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "DAN", 
-        "woeid": 20069859, 
-        "name": "Ostgronland", 
         "adjacent_woeid": [
           20069857, 
           20069858
         ], 
-        "ne_latitude": 81.681, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ostgronland", 
+        "hierarchy": [
+          "woe:state=20069859", 
+          "woe:country=23424828", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069859, 
         "ne_longitude": -11.312, 
         "longitude": -42.177, 
-        "placetype": "State", 
-        "iso": "GL", 
-        "date_indexed": "2010-12-02T17:40:29Z", 
-        "parent_woeid": 23424828, 
+        "placetype": "state", 
         "latitude": 71.802, 
+        "iso": "GL", 
+        "sw_latitude": 60.845, 
+        "adjacent": [
+          "woe:state=20069857", 
+          "woe:state=20069858"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 81.681, 
         "sw_longitude": -44.435, 
         "fullname": "Ostgronland, Greenland", 
-        "sw_latitude": 60.845
+        "date_indexed": "2010-12-02T17:40:29Z"
       }, 
       "id": 20069859
     }
+  ], 
+  "bbox": [
+    -44.435, 
+    60.845, 
+    -11.312, 
+    81.681
   ]
 }

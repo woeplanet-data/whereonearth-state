@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347723, 
-        "name": "Kien Giang", 
         "adjacent_woeid": [
           2344932, 
           2344944, 
@@ -43,14 +41,29 @@
           20070082, 
           28301720
         ], 
-        "ne_latitude": 10.539, 
+        "name": "Kien Giang", 
+        "hierarchy": [
+          "woe:state=2347723", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347723, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.543, 
         "longitude": 105.286, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347719", 
+          "woe:state=20070081", 
+          "woe:state=20070082", 
+          "woe:state=2347732", 
+          "woe:state=28301720", 
+          "woe:state=2344932", 
+          "woe:state=2344944"
+        ], 
+        "ne_latitude": 10.539, 
         "latitude": 9.964, 
         "sw_longitude": 103.831, 
         "fullname": "Kien Giang, Vietnam", 
@@ -58,5 +71,11 @@
       }, 
       "id": 2347723
     }
+  ], 
+  "bbox": [
+    103.831, 
+    9.409, 
+    105.543, 
+    10.539
   ]
 }

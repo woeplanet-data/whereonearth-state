@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              45.360, 
+              45.36, 
               13.609
             ], 
             [
-              45.360, 
+              45.36, 
               17.679
             ], 
             [
@@ -23,7 +23,7 @@
               13.609
             ], 
             [
-              45.360, 
+              45.36, 
               13.609
             ]
           ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 20070034, 
-        "name": "Shabwah", 
         "adjacent_woeid": [
           20070033, 
           20070036, 
           20070037, 
           20070043
         ], 
-        "ne_latitude": 17.679, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Shabwah", 
+        "hierarchy": [
+          "woe:state=20070034", 
+          "woe:country=23425002", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070034, 
         "ne_longitude": 48.695, 
         "longitude": 47.027, 
-        "placetype": "State", 
-        "iso": "YE", 
-        "date_indexed": "2010-12-02T16:39:35Z", 
-        "parent_woeid": 23425002, 
+        "placetype": "state", 
         "latitude": 15.527, 
-        "sw_longitude": 45.360, 
+        "iso": "YE", 
+        "sw_latitude": 13.609, 
+        "adjacent": [
+          "woe:state=20070036", 
+          "woe:state=20070043", 
+          "woe:state=20070033", 
+          "woe:state=20070037"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.679, 
+        "sw_longitude": 45.36, 
         "fullname": "Shabwah, Yemen", 
-        "sw_latitude": 13.609
+        "date_indexed": "2010-12-02T16:39:35Z"
       }, 
       "id": 20070034
     }
+  ], 
+  "bbox": [
+    45.36, 
+    13.609, 
+    48.695, 
+    17.679
   ]
 }

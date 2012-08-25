@@ -12,11 +12,11 @@
             ], 
             [
               25.195, 
-              59.270
+              59.27
             ], 
             [
               26.169, 
-              59.270
+              59.27
             ], 
             [
               26.169, 
@@ -32,22 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2345279, 
-        "alias_UNK_V": [
-          "J\u00e4rva Maakond"
-        ], 
-        "name": "J\u00e4rvamaa", 
-        "alias_ENG_P": [
-          "Jarva County"
-        ], 
-        "alias_UNK_S": [
-          "Jarvamaa"
-        ], 
-        "ne_latitude": 59.270, 
-        "ne_longitude": 26.169, 
-        "longitude": 25.682, 
-        "parent_woeid": 23424805, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2345276, 
           2345280, 
@@ -56,15 +40,49 @@
           2345285, 
           2345289
         ], 
+        "name": "J\u00e4rvamaa", 
+        "alias_ENG_P": [
+          "Jarva County"
+        ], 
+        "alias_UNK_S": [
+          "Jarvamaa"
+        ], 
+        "woeid": 2345279, 
+        "alias_UNK_V": [
+          "J\u00e4rva Maakond"
+        ], 
+        "longitude": 25.682, 
+        "ne_longitude": 26.169, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=2345279", 
+          "woe:country=23424805", 
+          "woe:planet=1"
+        ], 
         "iso": "EE", 
         "date_indexed": "2010-12-02T16:42:58Z", 
+        "adjacent": [
+          "woe:state=2345276", 
+          "woe:state=2345280", 
+          "woe:state=2345282", 
+          "woe:state=2345283", 
+          "woe:state=2345285", 
+          "woe:state=2345289"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 58.938, 
+        "ne_latitude": 59.27, 
         "sw_longitude": 25.195, 
+        "latitude": 58.938, 
         "fullname": "J\u00e4rvamaa, Jarva County, Estonia", 
         "sw_latitude": 58.606
       }, 
       "id": 2345279
     }
+  ], 
+  "bbox": [
+    25.195, 
+    58.606, 
+    26.169, 
+    59.27
   ]
 }

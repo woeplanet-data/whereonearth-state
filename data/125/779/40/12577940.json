@@ -1113,18 +1113,20 @@
         "alias_ENG_V": [
           "Lesser Poland Voivodeship"
         ], 
-        "alias_POL_S": [
-          "Malopolskie"
-        ], 
+        "ne:ScaleRank": 5, 
         "alias_ENG_P": [
           "Lesser Poland"
         ], 
+        "hierarchy": [
+          "woe:state=12577940", 
+          "woe:country=23424923", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 50.48446401640126, 
-        "ne:ScaleRank": 5, 
         "ne:Shape_Area": 1.95150948843, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19980727", 
         "alias_POR_Q": [
           "Pequena Polonia"
         ], 
@@ -1138,7 +1140,7 @@
           "Piccola Polonia"
         ], 
         "ne:sameAsCity": -99, 
-        "ne:OBJECTID": 3170, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30de\u30a6\u30a9\u30dd\u30eb\u30b9\u30ab\u770c"
         ], 
@@ -1148,6 +1150,13 @@
           "Pequena Polonia"
         ], 
         "sw_longitude": 19.112353143083112, 
+        "adjacent": [
+          "woe:state=12577943", 
+          "woe:state=20070496", 
+          "woe:state=12577946", 
+          "woe:state=12577947", 
+          "woe:state=20070494"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.849, 
         "ne:FIPS_1": "PL39", 
@@ -1157,14 +1166,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "ne:VertexCou": 248.0, 
-        "ne:VALIDFR_1": "19980727", 
-        "ne:DataRank": 5, 
+        "lang": "POL", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3170, 
         "ne:Postal": "MA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Malopolskie", 
         "ne:ISO": "POL", 
-        "ne:TYPE_1": "Wojew\u00f3dztwo", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 7.60675807009, 
         "alias_DUT_Q": [
@@ -1173,15 +1182,18 @@
         "ne:NAME_0": "Poland", 
         "ne:NAME_1": "Lesser Poland", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne:LabelRank": 5, 
+        "alias_POL_S": [
+          "Malopolskie"
+        ], 
         "ne:Area_sqkm": 15613.5, 
         "alias_GER_Q": [
           "Kleinpolen"
         ], 
         "woe:id": "12577940", 
-        "ne:HASC_1": "PL.MA", 
-        "lang": "POL", 
+        "name": "Ma\u0142opolskie", 
+        "ne:VertexCou": 248.0, 
         "adjacent_woeid": [
           12577943, 
           12577946, 
@@ -1190,10 +1202,9 @@
           20070496
         ], 
         "ne:FIRST_FIPS": "PL77", 
-        "name": "Ma\u0142opolskie", 
+        "ne:HASC_1": "PL.MA", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
-        "parent_woeid": 23424923, 
         "ne_longitude": 21.514273716059222, 
         "longitude": 20.252, 
         "iso": "PL", 

@@ -1265,20 +1265,32 @@
         "alias_ENG_P": [
           "Niigata Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345878", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 38.544960232029155, 
         "ne:Shape_Area": 1.26170845396, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1867, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u65b0\u6f5f"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 137.6149906762788, 
+        "adjacent": [
+          "woe:state=2345891", 
+          "woe:state=2345893", 
+          "woe:state=2345858", 
+          "woe:state=2345860", 
+          "woe:state=2345875"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 37.645, 
         "ne:FIPS_1": "JA29", 
@@ -1286,9 +1298,9 @@
         "ne:FIRST_HASC": "JP.HK", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 36.73065237081033, 
-        "ne:VertexCou": 308.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1867, 
         "ne:Postal": "NI", 
         "ne:Region_Cod": "JPN-THO", 
         "ne:VARNAME_1": null, 
@@ -1304,8 +1316,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 12379.6, 
         "woe:id": "2345878", 
-        "ne:HASC_1": "JP.NI", 
-        "lang": "JPN", 
+        "name": "\u65b0\u6f5f\u770c", 
+        "ne:VertexCou": 308.0, 
         "adjacent_woeid": [
           2345858, 
           2345860, 
@@ -1313,9 +1325,8 @@
           2345891, 
           2345893
         ], 
-        "name": "\u65b0\u6f5f\u770c", 
+        "ne:HASC_1": "JP.NI", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 139.87118371006022, 
         "longitude": 138.767, 
         "iso": "JP", 

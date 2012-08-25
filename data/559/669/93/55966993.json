@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 55966993, 
-        "name": "Dengu\u00e9l\u00e9", 
         "adjacent_woeid": [
           2346185, 
           55966992, 
@@ -42,14 +40,28 @@
           56059376, 
           56059378
         ], 
-        "ne_latitude": 10.488, 
+        "name": "Dengu\u00e9l\u00e9", 
+        "hierarchy": [
+          "woe:state=55966993", 
+          "woe:country=23424854", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55966993, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -6.563, 
         "longitude": -7.365, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "CI", 
         "date_indexed": "2010-12-02T09:35:13Z", 
-        "parent_woeid": 23424854, 
+        "adjacent": [
+          "woe:state=55966992", 
+          "woe:state=56059378", 
+          "woe:state=56059376", 
+          "woe:state=55967002", 
+          "woe:state=2346185", 
+          "woe:state=55967006"
+        ], 
+        "ne_latitude": 10.488, 
         "latitude": 9.496, 
         "sw_longitude": -8.167, 
         "fullname": "Dengu\u00e9l\u00e9, Ivory Coast", 
@@ -60,5 +72,11 @@
       }, 
       "id": 55966993
     }
+  ], 
+  "bbox": [
+    -8.167, 
+    8.504, 
+    -6.563, 
+    10.488
   ]
 }

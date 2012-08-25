@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2346015, 
-        "name": "Ash Shamal", 
         "adjacent_woeid": [
           2346017, 
           56049598, 
           56049599
         ], 
-        "ne_latitude": 34.514, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ash Shamal", 
         "alias_ENG_V": [
           "North Lebanon"
         ], 
+        "hierarchy": [
+          "woe:state=2346015", 
+          "woe:country=23424873", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346015, 
         "ne_longitude": 36.205, 
         "longitude": 36.058, 
-        "placetype": "State", 
-        "iso": "LB", 
-        "date_indexed": "2010-12-02T16:50:02Z", 
-        "parent_woeid": 23424873, 
+        "placetype": "state", 
         "latitude": 34.414, 
+        "iso": "LB", 
+        "sw_latitude": 34.136, 
+        "adjacent": [
+          "woe:state=56049598", 
+          "woe:state=56049599", 
+          "woe:state=2346017"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.514, 
         "sw_longitude": 35.644, 
         "fullname": "Ash Shamal, Lebanon", 
-        "sw_latitude": 34.136
+        "date_indexed": "2010-12-02T16:50:02Z"
       }, 
       "id": 2346015
     }
+  ], 
+  "bbox": [
+    35.644, 
+    34.136, 
+    36.205, 
+    34.514
   ]
 }

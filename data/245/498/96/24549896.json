@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549896, 
-        "name": "Bobonaro", 
         "adjacent_woeid": [
           2345727, 
           24549894, 
           24549895, 
           24549900
         ], 
-        "ne_latitude": -8.751, 
+        "name": "Bobonaro", 
+        "hierarchy": [
+          "woe:state=24549896", 
+          "woe:country=23424968", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549896, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 125.443, 
         "longitude": 125.188, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "TL", 
         "date_indexed": "2010-12-02T07:50:18Z", 
-        "parent_woeid": 23424968, 
+        "adjacent": [
+          "woe:state=24549900", 
+          "woe:state=24549894", 
+          "woe:state=24549895", 
+          "woe:state=2345727"
+        ], 
+        "ne_latitude": -8.751, 
         "latitude": -8.988, 
         "sw_longitude": 124.934, 
         "fullname": "Bobonaro, East Timor", 
@@ -55,5 +65,11 @@
       }, 
       "id": 24549896
     }
+  ], 
+  "bbox": [
+    124.934, 
+    -9.225, 
+    125.443, 
+    -8.751
   ]
 }

@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549724, 
-        "name": "Dededo", 
         "adjacent_woeid": [
           24549721, 
           24549722, 
           24549723, 
           24549725
         ], 
-        "ne_latitude": 13.652, 
+        "name": "Dededo", 
+        "hierarchy": [
+          "woe:state=24549724", 
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549724, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.877, 
         "longitude": 144.842, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "parent_woeid": 23424832, 
+        "adjacent": [
+          "woe:state=24549722", 
+          "woe:state=24549723", 
+          "woe:state=24549721", 
+          "woe:state=24549725"
+        ], 
+        "ne_latitude": 13.652, 
         "latitude": 13.574, 
         "sw_longitude": 144.807, 
         "fullname": "Dededo, Guam", 
@@ -55,5 +65,11 @@
       }, 
       "id": 24549724
     }
+  ], 
+  "bbox": [
+    144.807, 
+    13.495, 
+    144.877, 
+    13.652
   ]
 }

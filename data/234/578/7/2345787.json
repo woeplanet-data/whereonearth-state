@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345787, 
-        "name": "Esfahan", 
         "adjacent_woeid": [
           2345769, 
           2345771, 
@@ -46,20 +44,44 @@
           20070199, 
           56189823
         ], 
-        "ne_latitude": 34.477, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Esfahan", 
+        "hierarchy": [
+          "woe:state=2345787", 
+          "woe:country=23424851", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345787, 
         "ne_longitude": 55.454, 
         "longitude": 52.519, 
-        "placetype": "State", 
-        "iso": "IR", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424851, 
+        "placetype": "state", 
         "latitude": 32.635, 
+        "iso": "IR", 
+        "sw_latitude": 30.793, 
+        "adjacent": [
+          "woe:state=2345769", 
+          "woe:state=2345772", 
+          "woe:state=2345778", 
+          "woe:state=2345771", 
+          "woe:state=2345782", 
+          "woe:state=2345783", 
+          "woe:state=56189823", 
+          "woe:state=20070199", 
+          "woe:state=2345784", 
+          "woe:state=2345790"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.477, 
         "sw_longitude": 49.583, 
         "fullname": "Esfahan, Iran", 
-        "sw_latitude": 30.793
+        "date_indexed": "2010-12-02T08:53:34Z"
       }, 
       "id": 2345787
     }
+  ], 
+  "bbox": [
+    49.583, 
+    30.793, 
+    55.454, 
+    34.477
   ]
 }

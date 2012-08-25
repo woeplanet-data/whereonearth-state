@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 56055612, 
-        "name": "Kaffrine", 
         "adjacent_woeid": [
           2345445, 
           2346991, 
@@ -41,20 +39,39 @@
           2346994, 
           2346995
         ], 
-        "ne_latitude": 14.814, 
+        "name": "Kaffrine", 
+        "hierarchy": [
+          "woe:state=56055612", 
+          "woe:country=23424943", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56055612, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -14.586, 
-        "longitude": -15.480, 
-        "placetype": "State", 
+        "longitude": -15.48, 
+        "placetype": "state", 
         "iso": "SN", 
         "date_indexed": "2010-12-02T08:57:18Z", 
-        "parent_woeid": 23424943, 
-        "latitude": 14.200, 
+        "adjacent": [
+          "woe:state=2346994", 
+          "woe:state=2346995", 
+          "woe:state=2346993", 
+          "woe:state=2345445", 
+          "woe:state=2346991"
+        ], 
+        "ne_latitude": 14.814, 
+        "latitude": 14.2, 
         "sw_longitude": -15.855, 
         "fullname": "Kaffrine, Senegal", 
         "sw_latitude": 13.737
       }, 
       "id": 56055612
     }
+  ], 
+  "bbox": [
+    -15.855, 
+    13.737, 
+    -14.586, 
+    14.814
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347737, 
-        "name": "Hoa Binh", 
         "adjacent_woeid": [
           2347713, 
           2347715, 
@@ -43,17 +41,32 @@
           2347753, 
           20070091
         ], 
-        "ne_latitude": 21.108, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Hoa Binh", 
         "alias_ENG_V": [
           "Hoabinh"
         ], 
+        "hierarchy": [
+          "woe:state=2347737", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347737, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.837, 
         "longitude": 105.331, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347741", 
+          "woe:state=2347735", 
+          "woe:state=2347743", 
+          "woe:state=20070091", 
+          "woe:state=2347713", 
+          "woe:state=2347715", 
+          "woe:state=2347753"
+        ], 
+        "ne_latitude": 21.108, 
         "latitude": 20.698, 
         "sw_longitude": 104.826, 
         "fullname": "Hoa Binh, Vietnam", 
@@ -61,5 +74,11 @@
       }, 
       "id": 2347737
     }
+  ], 
+  "bbox": [
+    104.826, 
+    20.288, 
+    105.837, 
+    21.108
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 29389558, 
-        "name": "Fier", 
         "adjacent_woeid": [
           29389554, 
           29389557, 
@@ -41,14 +39,27 @@
           29389564, 
           29389565
         ], 
-        "ne_latitude": 41.069, 
+        "name": "Fier", 
+        "hierarchy": [
+          "woe:state=29389558", 
+          "woe:country=23424742", 
+          "woe:planet=1"
+        ], 
+        "woeid": 29389558, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 19.919, 
         "longitude": 19.611, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AL", 
         "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424742, 
+        "adjacent": [
+          "woe:state=29389554", 
+          "woe:state=29389557", 
+          "woe:state=29389559", 
+          "woe:state=29389564", 
+          "woe:state=29389565"
+        ], 
+        "ne_latitude": 41.069, 
         "latitude": 40.741, 
         "sw_longitude": 19.304, 
         "fullname": "Fier, Albania", 
@@ -56,5 +67,11 @@
       }, 
       "id": 29389558
     }
+  ], 
+  "bbox": [
+    19.304, 
+    40.413, 
+    19.919, 
+    41.069
   ]
 }

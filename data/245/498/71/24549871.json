@@ -8,23 +8,23 @@
           [
             [
               55.489, 
-              -4.710
+              -4.71
             ], 
             [
               55.489, 
-              -4.650
+              -4.65
             ], 
             [
               55.517, 
-              -4.650
+              -4.65
             ], 
             [
               55.517, 
-              -4.710
+              -4.71
             ], 
             [
               55.489, 
-              -4.710
+              -4.71
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549871, 
-        "name": "Cascade", 
         "adjacent_woeid": [
           24549869, 
           24549870, 
@@ -44,20 +42,42 @@
           24549876, 
           24549879
         ], 
-        "ne_latitude": -4.650, 
+        "name": "Cascade", 
+        "hierarchy": [
+          "woe:state=24549871", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549871, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.517, 
         "longitude": 55.499, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549874", 
+          "woe:state=24549869", 
+          "woe:state=24549870", 
+          "woe:state=24549872", 
+          "woe:state=24549875", 
+          "woe:state=24549873", 
+          "woe:state=24549876", 
+          "woe:state=24549879"
+        ], 
+        "ne_latitude": -4.65, 
         "latitude": -4.684, 
         "sw_longitude": 55.489, 
         "fullname": "Cascade, Seychelles", 
-        "sw_latitude": -4.710
+        "sw_latitude": -4.71
       }, 
       "id": 24549871
     }
+  ], 
+  "bbox": [
+    55.489, 
+    -4.71, 
+    55.517, 
+    -4.65
   ]
 }

@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2346014, 
-        "name": "Al Janub", 
         "adjacent_woeid": [
           2345793, 
           2346013, 
           2346017, 
           56049597
         ], 
-        "ne_latitude": 33.601, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Al Janub", 
         "alias_ENG_V": [
           "South Lebanon"
         ], 
+        "hierarchy": [
+          "woe:state=2346014", 
+          "woe:country=23424873", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346014, 
         "ne_longitude": 35.652, 
         "longitude": 35.291, 
-        "placetype": "State", 
-        "iso": "LB", 
-        "date_indexed": "2010-12-02T16:50:02Z", 
-        "parent_woeid": 23424873, 
+        "placetype": "state", 
         "latitude": 33.344, 
+        "iso": "LB", 
+        "sw_latitude": 33.087, 
+        "adjacent": [
+          "woe:state=2346013", 
+          "woe:state=56049597", 
+          "woe:state=2346017", 
+          "woe:state=2345793"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 33.601, 
         "sw_longitude": 35.114, 
         "fullname": "Al Janub, Lebanon", 
-        "sw_latitude": 33.087
+        "date_indexed": "2010-12-02T16:50:02Z"
       }, 
       "id": 2346014
     }
+  ], 
+  "bbox": [
+    35.114, 
+    33.087, 
+    35.652, 
+    33.601
   ]
 }

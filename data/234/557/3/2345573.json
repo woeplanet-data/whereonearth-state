@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -89.900, 
+              -89.9, 
               14.742
             ], 
             [
-              -89.900, 
+              -89.9, 
               15.298
             ], 
             [
@@ -23,7 +23,7 @@
               14.742
             ], 
             [
-              -89.900, 
+              -89.9, 
               14.742
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345573, 
-        "name": "Zacapa", 
         "adjacent_woeid": [
           2345552, 
           2345553, 
@@ -43,20 +41,41 @@
           2345561, 
           2345627
         ], 
-        "ne_latitude": 15.298, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Zacapa", 
+        "hierarchy": [
+          "woe:state=2345573", 
+          "woe:country=23424834", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345573, 
         "ne_longitude": -89.153, 
         "longitude": -89.526, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 15.02, 
         "iso": "GT", 
-        "date_indexed": "2010-12-02T16:55:18Z", 
-        "parent_woeid": 23424834, 
-        "latitude": 15.020, 
-        "sw_longitude": -89.900, 
+        "sw_latitude": 14.742, 
+        "adjacent": [
+          "woe:state=2345552", 
+          "woe:state=2345553", 
+          "woe:state=2345555", 
+          "woe:state=2345627", 
+          "woe:state=2345556", 
+          "woe:state=2345560", 
+          "woe:state=2345561"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.298, 
+        "sw_longitude": -89.9, 
         "fullname": "Zacapa, Guatemala", 
-        "sw_latitude": 14.742
+        "date_indexed": "2010-12-02T16:55:18Z"
       }, 
       "id": 2345573
     }
+  ], 
+  "bbox": [
+    -89.9, 
+    14.742, 
+    -89.153, 
+    15.298
   ]
 }

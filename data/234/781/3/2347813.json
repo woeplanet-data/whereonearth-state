@@ -2484,9 +2484,14 @@
           "Mashonaland East Province"
         ], 
         "ne:ScaleRank": 5, 
+        "hierarchy": [
+          "woe:state=2347813", 
+          "woe:country=23425004", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -16.68146209100263, 
         "ne:Shape_Area": 2.78335965123, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
@@ -2495,6 +2500,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 30.363087599613095, 
+        "adjacent": [
+          "woe:state=24550731", 
+          "woe:state=2347810", 
+          "woe:state=2347812", 
+          "woe:state=2347814", 
+          "woe:state=2347817", 
+          "woe:state=2347811", 
+          "woe:state=2346318"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -17.977, 
         "ne:FIPS_1": "ZI04", 
@@ -2533,7 +2547,6 @@
         ], 
         "name": "Mashonaland East", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23425004, 
         "ne_longitude": 32.968820021526824, 
         "longitude": 31.749, 
         "iso": "ZW", 

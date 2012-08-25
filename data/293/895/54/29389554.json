@@ -733,9 +733,14 @@
       "properties": {
         "ne:ProvNumber": 8, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=29389554", 
+          "woe:country=23424742", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.881690985950286, 
         "ne:Shape_Area": 0.193725870541, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 6, 
         "ne:gadm_level": 1.0, 
@@ -744,6 +749,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 19.730351596848777, 
+        "adjacent": [
+          "woe:state=29389557", 
+          "woe:state=29389558", 
+          "woe:state=29389559", 
+          "woe:state=29389560"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.611, 
         "ne:FIPS_1": "AL40", 
@@ -779,7 +790,6 @@
         ], 
         "name": "Berat", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424742, 
         "ne_longitude": 20.442607862962575, 
         "longitude": 20.124, 
         "iso": "AL", 

@@ -3040,11 +3040,16 @@
         "alias_KOR_Q": [
           "\uc870\uc9c0\uc544"
         ], 
+        "hierarchy": [
+          "woe:state=2347569", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.00044354143637, 
         "ne:Shape_Area": 14.643609474, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "1804", 
         "alias_POR_Q": [
           "Ge\u00f3rgia"
         ], 
@@ -3057,7 +3062,7 @@
         "alias_CHI_Q": [
           "\u4f50\u6cbb\u4e9a"
         ], 
-        "ne:OBJECTID": 3543, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30b8\u30e7\u30fc\u30b8\u30a2"
         ], 
@@ -3065,6 +3070,13 @@
         "ne:Abbrev": "Ga.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -85.60568241551101, 
+        "adjacent": [
+          "woe:state=2347559", 
+          "woe:state=2347568", 
+          "woe:state=2347592", 
+          "woe:state=2347599", 
+          "woe:state=2347601"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 32.678, 
         "ne:FIPS_1": "US13", 
@@ -3072,14 +3084,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 30.362699400057295, 
-        "ne:VertexCou": 755.0, 
-        "ne:VALIDFR_1": "1804", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3543, 
         "ne:Postal": "GA", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "GA|Ga.", 
         "ne:ISO": "USA", 
-        "ne:TYPE_1": "State", 
+        "ne:Region_C_3": "South Atlantic", 
         "ne:Region_C_2": "South", 
         "ne:Shape_Leng": 20.824673814, 
         "alias_DUT_Q": [
@@ -3088,12 +3100,12 @@
         "ne:NAME_0": "United States of America", 
         "ne:NAME_1": "Georgia", 
         "ne:Region_C_1": "South Atlantic", 
-        "ne:Region_C_3": "South Atlantic", 
+        "ne:TYPE_1": "State", 
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 152651.9, 
         "woe:id": "2347569", 
-        "ne:HASC_1": "US.GA", 
-        "lang": "ENG", 
+        "name": "Georgia", 
+        "ne:VertexCou": 755.0, 
         "adjacent_woeid": [
           2347559, 
           2347568, 
@@ -3101,10 +3113,9 @@
           2347599, 
           2347601
         ], 
-        "name": "Georgia", 
+        "ne:HASC_1": "US.GA", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -80.83551640066133, 
         "longitude": -83.223, 
         "iso": "US", 

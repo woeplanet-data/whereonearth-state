@@ -12,11 +12,11 @@
             ], 
             [
               37.839, 
-              50.090
+              50.09
             ], 
             [
               40.227, 
-              50.090
+              50.09
             ], 
             [
               40.227, 
@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347546, 
-        "alias_UNK_V": [
-          "Lugan"
-        ], 
-        "name": "Luhans\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Luhansk Oblast"
-        ], 
-        "ne_latitude": 50.090, 
-        "ne_longitude": 40.227, 
-        "longitude": 39.033, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2346891, 
           2346921, 
@@ -52,15 +39,45 @@
           2347538, 
           2347540
         ], 
+        "ne_latitude": 50.09, 
+        "name": "Luhans\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Luhansk Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347546", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347546, 
+        "alias_UNK_V": [
+          "Lugan"
+        ], 
+        "longitude": 39.033, 
+        "ne_longitude": 40.227, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 47.824, 
+        "adjacent": [
+          "woe:state=2346891", 
+          "woe:state=2347538", 
+          "woe:state=2347540", 
+          "woe:state=2346921", 
+          "woe:state=2346935"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.957, 
         "sw_longitude": 37.839, 
         "fullname": "Luhans\u00b4ka Oblast\u00b4, Luhansk Oblast, Ukraine", 
-        "sw_latitude": 47.824
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347546
     }
+  ], 
+  "bbox": [
+    37.839, 
+    47.824, 
+    40.227, 
+    50.09
   ]
 }

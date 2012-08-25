@@ -15,10 +15,20 @@
         "alias_UNK_S": [
           "Llgatnes Novads"
         ], 
-        "parent_woeid": 23424874, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=56190551", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
         "iso": "LV", 
+        "adjacent": [
+          "woe:state=55844556", 
+          "woe:state=56190585", 
+          "woe:state=56190594", 
+          "woe:state=55844261"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56190551, 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 

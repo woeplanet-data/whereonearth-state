@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2345928, 
-        "name": "Ma'an", 
         "adjacent_woeid": [
           2345929, 
           2345932, 
@@ -42,20 +40,40 @@
           20070289, 
           20070290
         ], 
-        "ne_latitude": 31.275, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ma'an", 
+        "hierarchy": [
+          "woe:state=2345928", 
+          "woe:country=23424860", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345928, 
         "ne_longitude": 38.006, 
         "longitude": 36.478, 
-        "placetype": "State", 
-        "iso": "JO", 
-        "date_indexed": "2010-12-02T12:08:06Z", 
-        "parent_woeid": 23424860, 
+        "placetype": "state", 
         "latitude": 30.231, 
+        "iso": "JO", 
+        "sw_latitude": 29.184, 
+        "adjacent": [
+          "woe:state=20070289", 
+          "woe:state=20070290", 
+          "woe:state=2346950", 
+          "woe:state=2345929", 
+          "woe:state=2345932", 
+          "woe:state=2346962"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.275, 
         "sw_longitude": 35.333, 
         "fullname": "Ma'an, Jordan", 
-        "sw_latitude": 29.184
+        "date_indexed": "2010-12-02T12:08:06Z"
       }, 
       "id": 2345928
     }
+  ], 
+  "bbox": [
+    35.333, 
+    29.184, 
+    38.006, 
+    31.275
   ]
 }

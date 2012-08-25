@@ -8,7 +8,7 @@
           [
             [
               28.461, 
-              5.720
+              5.72
             ], 
             [
               28.461, 
@@ -20,11 +20,11 @@
             ], 
             [
               31.761, 
-              5.720
+              5.72
             ], 
             [
               28.461, 
-              5.720
+              5.72
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 20069896, 
-        "name": "Al Buhayrat", 
         "adjacent_woeid": [
           20069898, 
           20069899, 
@@ -42,20 +40,40 @@
           20069907, 
           20069909
         ], 
-        "ne_latitude": 7.636, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Al Buhayrat", 
+        "hierarchy": [
+          "woe:state=20069896", 
+          "woe:country=23424952", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069896, 
         "ne_longitude": 31.761, 
-        "longitude": 30.100, 
-        "placetype": "State", 
-        "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
-        "parent_woeid": 23424952, 
+        "longitude": 30.1, 
+        "placetype": "state", 
         "latitude": 6.678, 
+        "iso": "SD", 
+        "sw_latitude": 5.72, 
+        "adjacent": [
+          "woe:state=20069907", 
+          "woe:state=20069902", 
+          "woe:state=20069900", 
+          "woe:state=20069899", 
+          "woe:state=20069909", 
+          "woe:state=20069898"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 7.636, 
         "sw_longitude": 28.461, 
         "fullname": "Al Buhayrat, Sudan", 
-        "sw_latitude": 5.720
+        "date_indexed": "2010-12-02T08:50:49Z"
       }, 
       "id": 20069896
     }
+  ], 
+  "bbox": [
+    28.461, 
+    5.72, 
+    31.761, 
+    7.636
   ]
 }

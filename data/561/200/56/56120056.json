@@ -12,14 +12,24 @@
           56120061
         ], 
         "name": "Marrakech-Tensift-El Haouz", 
-        "parent_woeid": 23424893, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56120056", 
+          "woe:country=23424893", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "MA", 
-        "woeid": 56120056, 
+        "adjacent": [
+          "woe:state=56120050", 
+          "woe:state=56120051", 
+          "woe:state=56120060", 
+          "woe:state=56120061"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "alias_ARA_V": [
           "Marrakech-Tensift-Al Haouz"
         ], 
+        "woeid": 56120056, 
         "date_indexed": "2010-12-02T18:19:13Z"
       }, 
       "id": 56120056

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              102.850, 
+              102.85, 
               9.283
             ], 
             [
-              102.850, 
+              102.85, 
               11.149
             ], 
             [
@@ -23,7 +23,7 @@
               9.283
             ], 
             [
-              102.850, 
+              102.85, 
               9.283
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344932, 
-        "name": "Kampot", 
         "adjacent_woeid": [
           2344930, 
           2344934, 
@@ -42,20 +40,40 @@
           20070094, 
           20070096
         ], 
-        "ne_latitude": 11.149, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kampot", 
+        "hierarchy": [
+          "woe:state=2344932", 
+          "woe:country=23424776", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344932, 
         "ne_longitude": 104.755, 
         "longitude": 104.329, 
-        "placetype": "State", 
-        "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
-        "parent_woeid": 23424776, 
+        "placetype": "state", 
         "latitude": 10.779, 
-        "sw_longitude": 102.850, 
+        "iso": "KH", 
+        "sw_latitude": 9.283, 
+        "adjacent": [
+          "woe:state=2344930", 
+          "woe:state=2344934", 
+          "woe:state=20070094", 
+          "woe:state=2347723", 
+          "woe:state=20070096", 
+          "woe:state=2344944"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.149, 
+        "sw_longitude": 102.85, 
         "fullname": "Kampot, Cambodia", 
-        "sw_latitude": 9.283
+        "date_indexed": "2010-12-02T16:11:17Z"
       }, 
       "id": 2344932
     }
+  ], 
+  "bbox": [
+    102.85, 
+    9.283, 
+    104.755, 
+    11.149
   ]
 }

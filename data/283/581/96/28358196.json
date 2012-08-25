@@ -333,9 +333,14 @@
       "properties": {
         "ne:ProvNumber": 14, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=28358196", 
+          "woe:country=23424800", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 18.73167348894043, 
         "ne:Shape_Area": 0.107843645621, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 7, 
         "alias_KOR_Q": [
@@ -353,6 +358,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -70.16718441472892, 
+        "adjacent": [
+          "woe:state=2345176", 
+          "woe:state=2345200", 
+          "woe:state=2345201", 
+          "woe:state=2345192"
+        ], 
         "alias_SPA_V": [
           "Sto. Domingo"
         ], 
@@ -390,7 +401,6 @@
         ], 
         "name": "Santo Domingo", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424800, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -69.83, 
         "ne_longitude": -69.51825761569637, 

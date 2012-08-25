@@ -2176,11 +2176,16 @@
         "alias_ENG_P": [
           "Lower Normandy"
         ], 
+        "hierarchy": [
+          "woe:state=7153311", 
+          "woe:country=23424819", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 49.72647410719435, 
         "ne:Shape_Area": 2.19383375673, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "Baixa Normandia"
         ], 
@@ -2196,8 +2201,10 @@
         "alias_ITA_Q": [
           "Bassa Normandia"
         ], 
-        "ne:Area_sqkm": 17876.8, 
-        "ne:OBJECTID": 2661, 
+        "alias_DAN_Q": [
+          "Sydnormandiet"
+        ], 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30d0\u30b9\u30fc\u30ce\u30eb\u30de\u30f3\u30c7\u30a3\u30fc"
         ], 
@@ -2209,6 +2216,12 @@
           "Baja Normandia"
         ], 
         "sw_longitude": -1.945405442407207, 
+        "adjacent": [
+          "woe:state=7153313", 
+          "woe:state=7153314", 
+          "woe:state=7153318", 
+          "woe:state=7153325"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.954, 
         "ne:FIPS_1": "FR99", 
@@ -2218,9 +2231,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "ne:VertexCou": 539.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "lang": "FRE", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 2661, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Baja Normand\u00a1a|Lower Normandy", 
@@ -2238,12 +2251,10 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Sydnormandiet"
-        ], 
+        "ne:Area_sqkm": 17876.8, 
         "woe:id": "7153311", 
-        "ne:HASC_1": null, 
-        "lang": "FRE", 
+        "name": "Basse-Normandie", 
+        "ne:VertexCou": 539.0, 
         "adjacent_woeid": [
           7153313, 
           7153314, 
@@ -2251,10 +2262,9 @@
           7153325
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Basse-Normandie", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424819, 
         "ne_longitude": 0.979816521515318, 
         "longitude": -0.486, 
         "ne:NAME_1": "Basse-Normandie", 

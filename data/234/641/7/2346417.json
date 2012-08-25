@@ -15,11 +15,11 @@
               12.802
             ], 
             [
-              -84.950, 
+              -84.95, 
               12.802
             ], 
             [
-              -84.950, 
+              -84.95, 
               11.902
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346417, 
-        "name": "Boaco", 
         "adjacent_woeid": [
           2346420, 
           2346422, 
@@ -42,20 +40,40 @@
           2346431, 
           20069832
         ], 
-        "ne_latitude": 12.802, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -84.950, 
+        "name": "Boaco", 
+        "hierarchy": [
+          "woe:state=2346417", 
+          "woe:country=23424915", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346417, 
+        "ne_longitude": -84.95, 
         "longitude": -85.468, 
-        "placetype": "State", 
-        "iso": "NI", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
-        "parent_woeid": 23424915, 
+        "placetype": "state", 
         "latitude": 12.352, 
+        "iso": "NI", 
+        "sw_latitude": 11.902, 
+        "adjacent": [
+          "woe:state=2346420", 
+          "woe:state=2346422", 
+          "woe:state=2346426", 
+          "woe:state=2346428", 
+          "woe:state=20069832", 
+          "woe:state=2346431"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.802, 
         "sw_longitude": -85.986, 
         "fullname": "Boaco, Nicaragua", 
-        "sw_latitude": 11.902
+        "date_indexed": "2010-12-02T18:19:07Z"
       }, 
       "id": 2346417
     }
+  ], 
+  "bbox": [
+    -85.986, 
+    11.902, 
+    -84.95, 
+    12.802
   ]
 }

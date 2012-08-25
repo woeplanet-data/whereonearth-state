@@ -1984,11 +1984,16 @@
         "alias_KOR_Q": [
           "\ubbf8\uc2dc\uc2dc\ud53c"
         ], 
+        "hierarchy": [
+          "woe:state=2347583", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.00007733030458, 
         "ne:Shape_Area": 11.9166456472, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18170815", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "MS"
         ], 
@@ -1999,7 +2004,7 @@
           "\u5bc6\u897f\u897f\u6bd4"
         ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3544, 
         "alias_JPN_Q": [
           "\u30df\u30b7\u30b7\u30c3\u30d4"
         ], 
@@ -2011,6 +2016,12 @@
           "Misisipi"
         ], 
         "sw_longitude": -91.65734257170226, 
+        "adjacent": [
+          "woe:state=2347559", 
+          "woe:state=2347562", 
+          "woe:state=2347577", 
+          "woe:state=2347601"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 32.585, 
         "ne:FIPS_1": "US28", 
@@ -2018,9 +2029,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 30.18159588514203, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3544, 
+        "ne:VertexCou": 482.0, 
+        "ne:VALIDFR_1": "18170815", 
+        "ne:DataRank": 1, 
         "ne:Postal": "MS", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "MS|Miss.", 
@@ -2036,17 +2047,16 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 123805.7, 
         "woe:id": "2347583", 
-        "name": "Mississippi", 
-        "ne:VertexCou": 482.0, 
+        "ne:HASC_1": "US.MS", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347559, 
           2347562, 
           2347577, 
           2347601
         ], 
-        "ne:HASC_1": "US.MS", 
+        "name": "Mississippi", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -88.088153119271, 
         "longitude": -89.874, 
         "iso": "US", 

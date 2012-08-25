@@ -19,10 +19,24 @@
         "alias_UNK_S": [
           "Kuldlga Novads"
         ], 
-        "parent_woeid": 23424874, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=56190576", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
         "iso": "LV", 
+        "adjacent": [
+          "woe:state=56190543", 
+          "woe:state=56190533", 
+          "woe:state=55844299", 
+          "woe:state=56190578", 
+          "woe:state=56190517", 
+          "woe:state=56190552", 
+          "woe:state=56190535", 
+          "woe:state=56190590"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56190576, 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 

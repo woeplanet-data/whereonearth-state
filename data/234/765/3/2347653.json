@@ -8,7 +8,7 @@
           [
             [
               -54.573, 
-              -34.950
+              -34.95
             ], 
             [
               -54.573, 
@@ -20,11 +20,11 @@
             ], 
             [
               -53.371, 
-              -34.950
+              -34.95
             ], 
             [
               -54.573, 
-              -34.950
+              -34.95
             ]
           ]
         ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2347653, 
-        "name": "Rocha", 
         "adjacent_woeid": [
           2344864, 
           2347647, 
           2347648, 
           2347658
         ], 
-        "ne_latitude": -33.149, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Rocha", 
+        "hierarchy": [
+          "woe:state=2347653", 
+          "woe:country=23424979", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347653, 
         "ne_longitude": -53.371, 
         "longitude": -53.972, 
-        "placetype": "State", 
-        "iso": "UY", 
-        "date_indexed": "2010-12-02T17:58:18Z", 
-        "parent_woeid": 23424979, 
+        "placetype": "state", 
         "latitude": -33.987, 
+        "iso": "UY", 
+        "sw_latitude": -34.95, 
+        "adjacent": [
+          "woe:state=2347647", 
+          "woe:state=2347648", 
+          "woe:state=2344864", 
+          "woe:state=2347658"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -33.149, 
         "sw_longitude": -54.573, 
         "fullname": "Rocha, Uruguay", 
-        "sw_latitude": -34.950
+        "date_indexed": "2010-12-02T17:58:18Z"
       }, 
       "id": 2347653
     }
+  ], 
+  "bbox": [
+    -54.573, 
+    -34.95, 
+    -53.371, 
+    -33.149
   ]
 }

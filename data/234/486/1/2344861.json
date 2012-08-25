@@ -15,11 +15,11 @@
               -2.751
             ], 
             [
-              -40.370, 
+              -40.37, 
               -2.751
             ], 
             [
-              -40.370, 
+              -40.37, 
               -10.929
             ], 
             [
@@ -32,22 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2344861, 
-        "name": "Piau\u00ed", 
-        "alias_ENG_P": [
-          "Piaui"
-        ], 
-        "ne_latitude": -2.751, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_POR_S": [
-          "Estado Piaui"
-        ], 
-        "ne_longitude": -40.370, 
-        "longitude": -43.182, 
-        "placetype": "State", 
-        "alias_POR_V": [
-          "Estado Piau\u00ed"
-        ], 
         "adjacent_woeid": [
           2344848, 
           2344849, 
@@ -55,18 +39,51 @@
           2344860, 
           2344870
         ], 
-        "iso": "BR", 
-        "date_indexed": "2010-12-02T17:58:27Z", 
         "alias_ENG_A": [
           "PI"
         ], 
-        "parent_woeid": 23424768, 
-        "latitude": -6.840, 
+        "alias_ENG_P": [
+          "Piaui"
+        ], 
+        "hierarchy": [
+          "woe:state=2344861", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344861, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_POR_S": [
+          "Estado Piaui"
+        ], 
+        "ne_longitude": -40.37, 
+        "longitude": -43.182, 
+        "placetype": "state", 
+        "alias_POR_V": [
+          "Estado Piau\u00ed"
+        ], 
         "sw_longitude": -45.995, 
+        "sw_latitude": -10.929, 
+        "adjacent": [
+          "woe:state=2344848", 
+          "woe:state=2344849", 
+          "woe:state=2344854", 
+          "woe:state=2344860", 
+          "woe:state=2344870"
+        ], 
+        "ne_latitude": -2.751, 
+        "latitude": -6.84, 
+        "iso": "BR", 
         "fullname": "Piau\u00ed, Piaui, Brazil", 
-        "sw_latitude": -10.929
+        "date_indexed": "2010-12-02T17:58:27Z", 
+        "name": "Piau\u00ed"
       }, 
       "id": 2344861
     }
+  ], 
+  "bbox": [
+    -45.995, 
+    -10.929, 
+    -40.37, 
+    -2.751
   ]
 }

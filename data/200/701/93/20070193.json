@@ -12,11 +12,11 @@
             ], 
             [
               70.179, 
-              42.210
+              42.21
             ], 
             [
               74.671, 
-              42.210
+              42.21
             ], 
             [
               74.671, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070193, 
-        "name": "Jalal-Abad", 
         "adjacent_woeid": [
           2347659, 
           2347666, 
@@ -43,20 +41,41 @@
           20070195, 
           20070197
         ], 
-        "ne_latitude": 42.210, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Jalal-Abad", 
+        "hierarchy": [
+          "woe:state=20070193", 
+          "woe:country=23424864", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070193, 
         "ne_longitude": 74.671, 
         "longitude": 72.425, 
-        "placetype": "State", 
-        "iso": "KG", 
-        "date_indexed": "2010-12-02T08:58:47Z", 
-        "parent_woeid": 23424864, 
+        "placetype": "state", 
         "latitude": 41.822, 
+        "iso": "KG", 
+        "sw_latitude": 40.812, 
+        "adjacent": [
+          "woe:state=2347659", 
+          "woe:state=20070195", 
+          "woe:state=2347666", 
+          "woe:state=20070191", 
+          "woe:state=20070197", 
+          "woe:state=20070192", 
+          "woe:state=2347670"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.21, 
         "sw_longitude": 70.179, 
         "fullname": "Jalal-Abad, Kyrgyzstan", 
-        "sw_latitude": 40.812
+        "date_indexed": "2010-12-02T08:58:47Z"
       }, 
       "id": 20070193
     }
+  ], 
+  "bbox": [
+    70.179, 
+    40.812, 
+    74.671, 
+    42.21
   ]
 }

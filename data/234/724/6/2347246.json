@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347246, 
-        "name": "Susah", 
         "adjacent_woeid": [
           2347236, 
           2347240, 
@@ -41,20 +39,39 @@
           2347244, 
           2347257
         ], 
-        "ne_latitude": 36.327, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Susah", 
+        "hierarchy": [
+          "woe:state=2347246", 
+          "woe:country=23424967", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347246, 
         "ne_longitude": 10.655, 
         "longitude": 10.421, 
-        "placetype": "State", 
-        "iso": "TN", 
-        "date_indexed": "2010-12-02T18:18:54Z", 
-        "parent_woeid": 23424967, 
+        "placetype": "state", 
         "latitude": 35.869, 
+        "iso": "TN", 
+        "sw_latitude": 35.411, 
+        "adjacent": [
+          "woe:state=2347240", 
+          "woe:state=2347241", 
+          "woe:state=2347236", 
+          "woe:state=2347244", 
+          "woe:state=2347257"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.327, 
         "sw_longitude": 10.187, 
         "fullname": "Susah, Tunisia", 
-        "sw_latitude": 35.411
+        "date_indexed": "2010-12-02T18:18:54Z"
       }, 
       "id": 2347246
     }
+  ], 
+  "bbox": [
+    10.187, 
+    35.411, 
+    10.655, 
+    36.327
   ]
 }

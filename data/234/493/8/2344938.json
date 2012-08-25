@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344938, 
-        "name": "Preah Vihear", 
         "adjacent_woeid": [
           2344931, 
           2344941, 
@@ -43,20 +41,41 @@
           20070092, 
           20070160
         ], 
-        "ne_latitude": 14.437, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Preah Vihear", 
+        "hierarchy": [
+          "woe:state=2344938", 
+          "woe:country=23424776", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344938, 
         "ne_longitude": 105.913, 
         "longitude": 104.956, 
-        "placetype": "State", 
-        "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
-        "parent_woeid": 23424776, 
+        "placetype": "state", 
         "latitude": 13.739, 
+        "iso": "KH", 
+        "sw_latitude": 13.044, 
+        "adjacent": [
+          "woe:state=20070160", 
+          "woe:state=2344931", 
+          "woe:state=20070092", 
+          "woe:state=2344941", 
+          "woe:state=2347155", 
+          "woe:state=2344942", 
+          "woe:state=2347199"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.437, 
         "sw_longitude": 104.431, 
         "fullname": "Preah Vihear, Cambodia", 
-        "sw_latitude": 13.044
+        "date_indexed": "2010-12-02T16:11:17Z"
       }, 
       "id": 2344938
     }
+  ], 
+  "bbox": [
+    104.431, 
+    13.044, 
+    105.913, 
+    14.437
   ]
 }

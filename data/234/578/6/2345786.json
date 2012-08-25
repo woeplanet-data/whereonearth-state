@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345786, 
-        "name": "Zanjan", 
         "adjacent_woeid": [
           2345767, 
           2345768, 
@@ -43,20 +41,41 @@
           20070198, 
           20070200
         ], 
-        "ne_latitude": 37.184, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Zanjan", 
+        "hierarchy": [
+          "woe:state=2345786", 
+          "woe:country=23424851", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345786, 
         "ne_longitude": 49.519, 
         "longitude": 49.073, 
-        "placetype": "State", 
-        "iso": "IR", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424851, 
+        "placetype": "state", 
         "latitude": 36.323, 
+        "iso": "IR", 
+        "sw_latitude": 35.495, 
+        "adjacent": [
+          "woe:state=20070198", 
+          "woe:state=2345767", 
+          "woe:state=2345768", 
+          "woe:state=2345773", 
+          "woe:state=2345774", 
+          "woe:state=2345779", 
+          "woe:state=20070200"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 37.184, 
         "sw_longitude": 47.287, 
         "fullname": "Zanjan, Iran", 
-        "sw_latitude": 35.495
+        "date_indexed": "2010-12-02T08:53:34Z"
       }, 
       "id": 2345786
     }
+  ], 
+  "bbox": [
+    47.287, 
+    35.495, 
+    49.519, 
+    37.184
   ]
 }

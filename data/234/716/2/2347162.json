@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347162, 
-        "name": "Sara Buri", 
         "adjacent_woeid": [
           2347152, 
           2347159, 
@@ -41,23 +39,42 @@
           2347164, 
           2347168
         ], 
-        "ne_latitude": 15.074, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sara Buri", 
         "alias_ENG_V": [
           "Changwat Sara Buri"
         ], 
+        "hierarchy": [
+          "woe:state=2347162", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347162, 
         "ne_longitude": 101.454, 
         "longitude": 101.015, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 14.659, 
+        "iso": "TH", 
+        "sw_latitude": 14.243, 
+        "adjacent": [
+          "woe:state=2347159", 
+          "woe:state=2347168", 
+          "woe:state=2347152", 
+          "woe:state=2347164", 
+          "woe:state=2347161"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.074, 
         "sw_longitude": 100.575, 
         "fullname": "Sara Buri, Thailand", 
-        "sw_latitude": 14.243
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347162
     }
+  ], 
+  "bbox": [
+    100.575, 
+    14.243, 
+    101.454, 
+    15.074
   ]
 }

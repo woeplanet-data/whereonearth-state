@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070304, 
-        "name": "Anibare", 
         "adjacent_woeid": [
           20070301, 
           20070303, 
@@ -43,20 +41,41 @@
           20070308, 
           20070309
         ], 
-        "ne_latitude": -0.522, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Anibare", 
+        "hierarchy": [
+          "woe:state=20070304", 
+          "woe:country=23424912", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070304, 
         "ne_longitude": 166.943, 
         "longitude": 166.933, 
-        "placetype": "State", 
-        "iso": "NR", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "parent_woeid": 23424912, 
+        "placetype": "state", 
         "latitude": -0.533, 
+        "iso": "NR", 
+        "sw_latitude": -0.544, 
+        "adjacent": [
+          "woe:state=20070308", 
+          "woe:state=20070309", 
+          "woe:state=20070303", 
+          "woe:state=20070305", 
+          "woe:state=20070301", 
+          "woe:state=20070306", 
+          "woe:state=20070307"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -0.522, 
         "sw_longitude": 166.922, 
         "fullname": "Anibare, Nauru", 
-        "sw_latitude": -0.544
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 20070304
     }
+  ], 
+  "bbox": [
+    166.922, 
+    -0.544, 
+    166.943, 
+    -0.522
   ]
 }

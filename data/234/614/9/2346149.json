@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              47.690, 
+              47.69, 
               -20.434
             ], 
             [
-              47.690, 
+              47.69, 
               -15.045
             ], 
             [
-              50.120, 
+              50.12, 
               -15.045
             ], 
             [
-              50.120, 
+              50.12, 
               -20.434
             ], 
             [
-              47.690, 
+              47.69, 
               -20.434
             ]
           ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346149, 
-        "name": "Toamasina", 
         "adjacent_woeid": [
           2346146, 
           2346147, 
           2346148, 
           2346150
         ], 
-        "ne_latitude": -15.045, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 50.120, 
+        "name": "Toamasina", 
+        "hierarchy": [
+          "woe:state=2346149", 
+          "woe:country=23424883", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346149, 
+        "ne_longitude": 50.12, 
         "longitude": 48.905, 
-        "placetype": "State", 
-        "iso": "MG", 
-        "date_indexed": "2010-12-02T16:43:41Z", 
-        "parent_woeid": 23424883, 
+        "placetype": "state", 
         "latitude": -17.739, 
-        "sw_longitude": 47.690, 
+        "iso": "MG", 
+        "sw_latitude": -20.434, 
+        "adjacent": [
+          "woe:state=2346150", 
+          "woe:state=2346146", 
+          "woe:state=2346147", 
+          "woe:state=2346148"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -15.045, 
+        "sw_longitude": 47.69, 
         "fullname": "Toamasina, Madagascar", 
-        "sw_latitude": -20.434
+        "date_indexed": "2010-12-02T16:43:41Z"
       }, 
       "id": 2346149
     }
+  ], 
+  "bbox": [
+    47.69, 
+    -20.434, 
+    50.12, 
+    -15.045
   ]
 }

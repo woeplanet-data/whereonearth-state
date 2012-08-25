@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347362, 
-        "name": "Mtwara", 
         "adjacent_woeid": [
           2346311, 
           2346317, 
           2347358, 
           2347365
         ], 
-        "ne_latitude": -10.172, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mtwara", 
+        "hierarchy": [
+          "woe:state=2347362", 
+          "woe:country=23424973", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347362, 
         "ne_longitude": 40.443, 
         "longitude": 39.197, 
-        "placetype": "State", 
-        "iso": "TZ", 
-        "date_indexed": "2010-12-02T12:15:58Z", 
-        "parent_woeid": 23424973, 
+        "placetype": "state", 
         "latitude": -10.794, 
+        "iso": "TZ", 
+        "sw_latitude": -11.417, 
+        "adjacent": [
+          "woe:state=2346311", 
+          "woe:state=2347358", 
+          "woe:state=2346317", 
+          "woe:state=2347365"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -10.172, 
         "sw_longitude": 37.951, 
         "fullname": "Mtwara, Tanzania", 
-        "sw_latitude": -11.417
+        "date_indexed": "2010-12-02T12:15:58Z"
       }, 
       "id": 2347362
     }
+  ], 
+  "bbox": [
+    37.951, 
+    -11.417, 
+    40.443, 
+    -10.172
   ]
 }

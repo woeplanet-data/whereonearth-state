@@ -8,7 +8,7 @@
           [
             [
               101.182, 
-              14.120
+              14.12
             ], 
             [
               101.182, 
@@ -20,11 +20,11 @@
             ], 
             [
               103.012, 
-              14.120
+              14.12
             ], 
             [
               101.182, 
-              14.120
+              14.12
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347152, 
-        "name": "Nakhon Ratchasima", 
         "adjacent_woeid": [
           2347147, 
           2347151, 
@@ -44,23 +42,45 @@
           20069925, 
           20069926
         ], 
-        "ne_latitude": 15.808, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nakhon Ratchasima", 
         "alias_ENG_V": [
           "Changwat Nakhon Ratchasima"
         ], 
+        "hierarchy": [
+          "woe:state=2347152", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347152, 
         "ne_longitude": 103.012, 
         "longitude": 102.097, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 14.964, 
+        "iso": "TH", 
+        "sw_latitude": 14.12, 
+        "adjacent": [
+          "woe:state=2347153", 
+          "woe:state=2347151", 
+          "woe:state=2347147", 
+          "woe:state=2347159", 
+          "woe:state=2347168", 
+          "woe:state=20069926", 
+          "woe:state=20069925", 
+          "woe:state=2347162"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.808, 
         "sw_longitude": 101.182, 
         "fullname": "Nakhon Ratchasima, Thailand", 
-        "sw_latitude": 14.120
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347152
     }
+  ], 
+  "bbox": [
+    101.182, 
+    14.12, 
+    103.012, 
+    15.808
   ]
 }

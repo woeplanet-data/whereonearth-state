@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -66.530, 
+              -66.53, 
               18.081
             ], 
             [
-              -66.530, 
+              -66.53, 
               18.179
             ], 
             [
@@ -23,7 +23,7 @@
               18.081
             ], 
             [
-              -66.530, 
+              -66.53, 
               18.081
             ]
           ]
@@ -32,12 +32,16 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.179, 
-        "name": "Villalba", 
         "adjacent_woeid": [
           2346795, 
           2346803, 
           2346832
+        ], 
+        "name": "Villalba", 
+        "hierarchy": [
+          "woe:state=2346809", 
+          "woe:country=23424935", 
+          "woe:planet=1"
         ], 
         "woeid": 2346809, 
         "alias_SPA_V": [
@@ -45,17 +49,28 @@
         ], 
         "ne_longitude": -66.418, 
         "longitude": -66.474, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
+        "placetype": "state", 
+        "latitude": 18.13, 
+        "sw_longitude": -66.53, 
+        "sw_latitude": 18.081, 
+        "adjacent": [
+          "woe:state=2346795", 
+          "woe:state=2346832", 
+          "woe:state=2346803"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 18.130, 
-        "sw_longitude": -66.530, 
+        "ne_latitude": 18.179, 
+        "iso": "PR", 
         "fullname": "Villalba, Puerto Rico", 
-        "sw_latitude": 18.081
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346809
     }
+  ], 
+  "bbox": [
+    -66.53, 
+    18.081, 
+    -66.418, 
+    18.179
   ]
 }

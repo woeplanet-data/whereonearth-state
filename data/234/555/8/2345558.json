@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345558, 
-        "name": "Guatemala", 
         "adjacent_woeid": [
           2345553, 
           2345554, 
@@ -44,28 +42,49 @@
           2345569
         ], 
         "ne_latitude": 14.915, 
+        "name": "Guatemala", 
+        "adjacent": [
+          "woe:state=2345553", 
+          "woe:state=2345554", 
+          "woe:state=2345556", 
+          "woe:state=2345557", 
+          "woe:state=2345561", 
+          "woe:state=2345567", 
+          "woe:state=2345569"
+        ], 
+        "hierarchy": [
+          "woe:state=2345558", 
+          "woe:country=23424834", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345558, 
         "alias_JPN_Q": [
           "\u30b0\u30a2\u30c6\u30de\u30e9"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -90.212, 
         "longitude": -90.487, 
         "alias_CHI_Q": [
           "\u5371\u5730\u9a6c\u62c9"
         ], 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GT", 
-        "date_indexed": "2010-12-02T16:55:18Z", 
+        "sw_latitude": 14.242, 
         "alias_KOR_Q": [
           "\uacfc\ud14c\ub9d0\ub77c"
         ], 
-        "parent_woeid": 23424834, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 14.578, 
         "sw_longitude": -90.763, 
         "fullname": "Guatemala", 
-        "sw_latitude": 14.242
+        "date_indexed": "2010-12-02T16:55:18Z"
       }, 
       "id": 2345558
     }
+  ], 
+  "bbox": [
+    -90.763, 
+    14.242, 
+    -90.212, 
+    14.915
   ]
 }

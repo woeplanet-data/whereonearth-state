@@ -15,11 +15,11 @@
               10.297
             ], 
             [
-              -61.450, 
+              -61.45, 
               10.297
             ], 
             [
-              -61.450, 
+              -61.45, 
               10.275
             ], 
             [
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20069924, 
-        "name": "San Fernando", 
         "adjacent_woeid": [
           56189827, 
           56189829, 
           56189831
         ], 
-        "ne_latitude": 10.297, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "San Fernando", 
         "alias_ENG_V": [
           "S. Fernando"
         ], 
-        "ne_longitude": -61.450, 
+        "hierarchy": [
+          "woe:state=20069924", 
+          "woe:country=23424958", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069924, 
+        "ne_longitude": -61.45, 
         "longitude": -61.458, 
-        "placetype": "State", 
-        "iso": "TT", 
-        "date_indexed": "2010-12-02T18:05:31Z", 
-        "parent_woeid": 23424958, 
+        "placetype": "state", 
         "latitude": 10.286, 
+        "iso": "TT", 
+        "sw_latitude": 10.275, 
+        "adjacent": [
+          "woe:state=56189827", 
+          "woe:state=56189829", 
+          "woe:state=56189831"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 10.297, 
         "sw_longitude": -61.465, 
         "fullname": "San Fernando, Trinidad and Tobago", 
-        "sw_latitude": 10.275
+        "date_indexed": "2010-12-02T18:05:31Z"
       }, 
       "id": 20069924
     }
+  ], 
+  "bbox": [
+    -61.465, 
+    10.275, 
+    -61.45, 
+    10.297
   ]
 }

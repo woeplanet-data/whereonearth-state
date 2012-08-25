@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2347641, 
-        "name": "Canelones", 
         "adjacent_woeid": [
           2347646, 
           2347647, 
@@ -41,20 +39,39 @@
           2347649, 
           2347655
         ], 
-        "ne_latitude": -34.214, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Canelones", 
+        "hierarchy": [
+          "woe:state=2347641", 
+          "woe:country=23424979", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347641, 
         "ne_longitude": -55.394, 
         "longitude": -55.939, 
-        "placetype": "State", 
-        "iso": "UY", 
-        "date_indexed": "2010-12-02T17:58:18Z", 
-        "parent_woeid": 23424979, 
+        "placetype": "state", 
         "latitude": -34.542, 
+        "iso": "UY", 
+        "sw_latitude": -34.958, 
+        "adjacent": [
+          "woe:state=2347646", 
+          "woe:state=2347647", 
+          "woe:state=2347648", 
+          "woe:state=2347649", 
+          "woe:state=2347655"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -34.214, 
         "sw_longitude": -56.483, 
         "fullname": "Canelones, Uruguay", 
-        "sw_latitude": -34.958
+        "date_indexed": "2010-12-02T17:58:18Z"
       }, 
       "id": 2347641
     }
+  ], 
+  "bbox": [
+    -56.483, 
+    -34.958, 
+    -55.394, 
+    -34.214
   ]
 }

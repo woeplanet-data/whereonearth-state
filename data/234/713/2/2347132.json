@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              98.670, 
+              98.67, 
               17.423
             ], 
             [
-              98.670, 
-              18.710
+              98.67, 
+              18.71
             ], 
             [
               99.321, 
-              18.710
+              18.71
             ], 
             [
               99.321, 
               17.423
             ], 
             [
-              98.670, 
+              98.67, 
               17.423
             ]
           ]
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347132, 
-        "name": "Lamphun", 
         "adjacent_woeid": [
           2347129, 
           2347133, 
           2347135
         ], 
-        "ne_latitude": 18.710, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Lamphun", 
         "alias_ENG_V": [
           "Changwat Lamphun"
         ], 
+        "hierarchy": [
+          "woe:state=2347132", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347132, 
         "ne_longitude": 99.321, 
         "longitude": 98.996, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 18.067, 
-        "sw_longitude": 98.670, 
+        "iso": "TH", 
+        "sw_latitude": 17.423, 
+        "adjacent": [
+          "woe:state=2347129", 
+          "woe:state=2347133", 
+          "woe:state=2347135"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.71, 
+        "sw_longitude": 98.67, 
         "fullname": "Lamphun, Thailand", 
-        "sw_latitude": 17.423
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347132
     }
+  ], 
+  "bbox": [
+    98.67, 
+    17.423, 
+    99.321, 
+    18.71
   ]
 }

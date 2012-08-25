@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              38.030, 
+              38.03, 
               34.649
             ], 
             [
-              38.030, 
+              38.03, 
               36.747
             ], 
             [
@@ -23,7 +23,7 @@
               34.649
             ], 
             [
-              38.030, 
+              38.03, 
               34.649
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347072, 
-        "name": "Ar Raqqah", 
         "adjacent_woeid": [
           2347069, 
           2347075, 
@@ -41,20 +39,39 @@
           2347078, 
           2347079
         ], 
-        "ne_latitude": 36.747, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ar Raqqah", 
+        "hierarchy": [
+          "woe:state=2347072", 
+          "woe:country=23424956", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347072, 
         "ne_longitude": 40.112, 
         "longitude": 39.071, 
-        "placetype": "State", 
-        "iso": "SY", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
-        "parent_woeid": 23424956, 
+        "placetype": "state", 
         "latitude": 35.698, 
-        "sw_longitude": 38.030, 
+        "iso": "SY", 
+        "sw_latitude": 34.649, 
+        "adjacent": [
+          "woe:state=2347069", 
+          "woe:state=2347075", 
+          "woe:state=2347077", 
+          "woe:state=2347078", 
+          "woe:state=2347079"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.747, 
+        "sw_longitude": 38.03, 
         "fullname": "Ar Raqqah, Syria", 
-        "sw_latitude": 34.649
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 2347072
     }
+  ], 
+  "bbox": [
+    38.03, 
+    34.649, 
+    40.112, 
+    36.747
   ]
 }

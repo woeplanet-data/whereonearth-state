@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2344666, 
-        "name": "Malanje", 
         "adjacent_woeid": [
           2344657, 
           2344660, 
@@ -43,20 +41,41 @@
           2344672, 
           2344977
         ], 
-        "ne_latitude": -7.326, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Malanje", 
+        "hierarchy": [
+          "woe:state=2344666", 
+          "woe:country=23424745", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344666, 
         "ne_longitude": 18.847, 
         "longitude": 16.966, 
-        "placetype": "State", 
-        "iso": "AO", 
-        "date_indexed": "2010-12-02T17:52:14Z", 
-        "parent_woeid": 23424745, 
+        "placetype": "state", 
         "latitude": -9.535, 
+        "iso": "AO", 
+        "sw_latitude": -11.743, 
+        "adjacent": [
+          "woe:state=2344977", 
+          "woe:state=2344657", 
+          "woe:state=2344660", 
+          "woe:state=2344661", 
+          "woe:state=2344671", 
+          "woe:state=2344672", 
+          "woe:state=2344669"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -7.326, 
         "sw_longitude": 15.085, 
         "fullname": "Malanje, Angola", 
-        "sw_latitude": -11.743
+        "date_indexed": "2010-12-02T17:52:14Z"
       }, 
       "id": 2344666
     }
+  ], 
+  "bbox": [
+    15.085, 
+    -11.743, 
+    18.847, 
+    -7.326
   ]
 }

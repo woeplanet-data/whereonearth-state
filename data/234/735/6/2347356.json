@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347356, 
-        "name": "Kigoma", 
         "adjacent_woeid": [
           2344904, 
           2344910, 
@@ -46,20 +44,44 @@
           2347375, 
           20069829
         ], 
-        "ne_latitude": -2.872, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kigoma", 
+        "hierarchy": [
+          "woe:state=2347356", 
+          "woe:country=23424973", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347356, 
         "ne_longitude": 31.435, 
         "longitude": 30.381, 
-        "placetype": "State", 
-        "iso": "TZ", 
-        "date_indexed": "2010-12-02T12:15:58Z", 
-        "parent_woeid": 23424973, 
+        "placetype": "state", 
         "latitude": -4.813, 
+        "iso": "TZ", 
+        "sw_latitude": -6.754, 
+        "adjacent": [
+          "woe:state=2344904", 
+          "woe:state=2347370", 
+          "woe:state=2344981", 
+          "woe:state=2344910", 
+          "woe:state=2347375", 
+          "woe:state=2344913", 
+          "woe:state=2344914", 
+          "woe:state=2347366", 
+          "woe:state=20069829", 
+          "woe:state=2347368"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -2.872, 
         "sw_longitude": 29.327, 
         "fullname": "Kigoma, Tanzania", 
-        "sw_latitude": -6.754
+        "date_indexed": "2010-12-02T12:15:58Z"
       }, 
       "id": 2347356
     }
+  ], 
+  "bbox": [
+    29.327, 
+    -6.754, 
+    31.435, 
+    -2.872
   ]
 }

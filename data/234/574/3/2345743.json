@@ -7515,11 +7515,16 @@
         "alias_KOR_Q": [
           "\uad6c\uc790\ub77c\ud2b8"
         ], 
+        "hierarchy": [
+          "woe:state=2345743", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 24.708362941596533, 
         "ne:Shape_Area": 16.2139822992, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "GUJ"
         ], 
@@ -7529,13 +7534,21 @@
         "alias_CHI_Q": [
           "\u6208\u52a0\u745e"
         ], 
-        "ne:OBJECTID": 3264, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30b0\u30b8\u30e3\u30e9\u30fc\u30c8"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 68.14346886579557, 
+        "adjacent": [
+          "woe:state=20070457", 
+          "woe:state=20070460", 
+          "woe:state=2345749", 
+          "woe:state=2345750", 
+          "woe:state=2345757", 
+          "woe:state=2346499"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 22.408, 
         "ne:FIPS_1": "IN32", 
@@ -7543,9 +7556,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": null, 
         "sw_latitude": 20.072676906813854, 
-        "ne:VertexCou": 1842.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3264, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -7561,8 +7574,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 184439.9, 
         "woe:id": "2345743", 
-        "ne:HASC_1": null, 
-        "lang": "ENG", 
+        "name": "Gujarat", 
+        "ne:VertexCou": 1842.0, 
         "adjacent_woeid": [
           2345749, 
           2345750, 
@@ -7571,9 +7584,8 @@
           20070457, 
           20070460
         ], 
-        "name": "Gujarat", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 74.45905236227674, 
         "longitude": 71.305, 
         "iso": "IN", 

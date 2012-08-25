@@ -32,37 +32,53 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 29389222, 
-        "alias_UNK_V": [
-          "South Banat"
-        ], 
-        "name": "Juzhni Banat", 
         "adjacent_woeid": [
           29389197, 
           29389198, 
           29389211, 
           29389217
         ], 
+        "name": "Juzhni Banat", 
+        "latitude": 44.995, 
         "alias_UNK_S": [
           "Juzno-Banatski Okrug"
         ], 
-        "ne_latitude": 45.335, 
+        "woeid": 29389222, 
         "alias_UNK_Q": [
           "Ju\u017eno-Banatski Okrug"
         ], 
+        "alias_UNK_V": [
+          "South Banat"
+        ], 
+        "longitude": 20.99, 
         "ne_longitude": 21.565, 
-        "longitude": 20.990, 
-        "parent_woeid": 20069818, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=29389222", 
+          "woe:country=20069818", 
+          "woe:planet=1"
+        ], 
         "iso": "RS", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
+        "sw_latitude": 44.658, 
+        "adjacent": [
+          "woe:state=29389217", 
+          "woe:state=29389198", 
+          "woe:state=29389211", 
+          "woe:state=29389197"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 44.995, 
+        "ne_latitude": 45.335, 
         "sw_longitude": 20.418, 
         "fullname": "Juzhni Banat, Serbia", 
-        "sw_latitude": 44.658
+        "date_indexed": "2010-12-02T10:22:30Z"
       }, 
       "id": 29389222
     }
+  ], 
+  "bbox": [
+    20.418, 
+    44.658, 
+    21.565, 
+    45.335
   ]
 }

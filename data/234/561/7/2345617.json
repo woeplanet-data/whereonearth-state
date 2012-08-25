@@ -8,7 +8,7 @@
           [
             [
               -74.479, 
-              18.290
+              18.29
             ], 
             [
               -74.479, 
@@ -20,11 +20,11 @@
             ], 
             [
               -72.994, 
-              18.290
+              18.29
             ], 
             [
               -74.479, 
-              18.290
+              18.29
             ]
           ]
         ]
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2345617, 
-        "name": "Grand 'Anse", 
         "adjacent_woeid": [
           2345620, 
           2345621, 
           2345622
         ], 
-        "ne_latitude": 18.682, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Grand 'Anse", 
+        "hierarchy": [
+          "woe:state=2345617", 
+          "woe:country=23424839", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345617, 
         "ne_longitude": -72.994, 
         "longitude": -73.736, 
         "alias_FRE_A": [
           "GA"
         ], 
-        "placetype": "State", 
-        "iso": "HT", 
-        "date_indexed": "2010-12-02T17:52:09Z", 
-        "parent_woeid": 23424839, 
+        "placetype": "state", 
         "latitude": 18.486, 
+        "iso": "HT", 
+        "sw_latitude": 18.29, 
+        "adjacent": [
+          "woe:state=2345620", 
+          "woe:state=2345621", 
+          "woe:state=2345622"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.682, 
         "sw_longitude": -74.479, 
         "fullname": "Grand 'Anse, Haiti", 
-        "sw_latitude": 18.290
+        "date_indexed": "2010-12-02T17:52:09Z"
       }, 
       "id": 2345617
     }
+  ], 
+  "bbox": [
+    -74.479, 
+    18.29, 
+    -72.994, 
+    18.682
   ]
 }

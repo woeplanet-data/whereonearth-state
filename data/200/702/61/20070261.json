@@ -12,14 +12,14 @@
             ], 
             [
               46.335, 
-              40.910
+              40.91
             ], 
             [
-              46.980, 
-              40.910
+              46.98, 
+              40.91
             ], 
             [
-              46.980, 
+              46.98, 
               40.255
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070261, 
-        "name": "Goranboy", 
         "adjacent_woeid": [
           20070231, 
           20070252, 
@@ -43,20 +41,41 @@
           20070273, 
           20070274
         ], 
-        "ne_latitude": 40.910, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 46.980, 
+        "name": "Goranboy", 
+        "hierarchy": [
+          "woe:state=20070261", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070261, 
+        "ne_longitude": 46.98, 
         "longitude": 46.657, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.582, 
+        "iso": "AZ", 
+        "sw_latitude": 40.255, 
+        "adjacent": [
+          "woe:state=20070231", 
+          "woe:state=20070273", 
+          "woe:state=20070260", 
+          "woe:state=20070269", 
+          "woe:state=20070274", 
+          "woe:state=20070268", 
+          "woe:state=20070252"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.91, 
         "sw_longitude": 46.335, 
         "fullname": "Goranboy, Azerbaijan", 
-        "sw_latitude": 40.255
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070261
     }
+  ], 
+  "bbox": [
+    46.335, 
+    40.255, 
+    46.98, 
+    40.91
   ]
 }

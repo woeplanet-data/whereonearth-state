@@ -177,9 +177,14 @@
       "properties": {
         "ne:ProvNumber": 41, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55948181", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.440489610607074, 
         "ne:Shape_Area": 0.0891270916213, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -188,6 +193,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 28.086689080136978, 
+        "adjacent": [
+          "woe:state=55948194", 
+          "woe:state=20069875", 
+          "woe:state=55948202", 
+          "woe:state=55948204", 
+          "woe:state=20069874"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.303, 
         "ne:FIPS_1": "MD66", 
@@ -224,7 +236,6 @@
         ], 
         "name": "Calarasi", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424885, 
         "ne_longitude": 28.587950473635487, 
         "longitude": 28.306, 
         "iso": "MD", 

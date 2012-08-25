@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070276, 
-        "name": "Xankandi", 
         "adjacent_woeid": [
           20070277
         ], 
-        "ne_latitude": 39.868, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Xankandi", 
+        "hierarchy": [
+          "woe:state=20070276", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070276, 
         "ne_longitude": 46.785, 
         "longitude": 46.768, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.855, 
+        "iso": "AZ", 
+        "sw_latitude": 39.841, 
+        "adjacent": [
+          "woe:state=20070277"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.868, 
         "sw_longitude": 46.751, 
         "fullname": "Xankandi, Azerbaijan", 
-        "sw_latitude": 39.841
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070276
     }
+  ], 
+  "bbox": [
+    46.751, 
+    39.841, 
+    46.785, 
+    39.868
   ]
 }

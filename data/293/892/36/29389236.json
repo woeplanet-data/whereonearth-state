@@ -185,9 +185,14 @@
       "properties": {
         "ne:ProvNumber": 12, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=29389236", 
+          "woe:country=20069817", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.75950918230296, 
         "ne:Shape_Area": 0.0562163153921, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
@@ -196,6 +201,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 18.93717003786702, 
+        "adjacent": [
+          "woe:state=29389242", 
+          "woe:state=29389235", 
+          "woe:state=29389238", 
+          "woe:state=29389237"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.626, 
         "ne:FIPS_1": "MJ00", 
@@ -231,7 +242,6 @@
         ], 
         "name": "Danilovgrad", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 20069817, 
         "ne_longitude": 19.30097212056694, 
         "longitude": 19.134, 
         "iso": "ME", 

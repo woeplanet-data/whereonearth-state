@@ -6760,11 +6760,16 @@
         "alias_KOR_Q": [
           "\ub8e8\uc774\uc9c0\uc560\ub098"
         ], 
+        "hierarchy": [
+          "woe:state=2347577", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 33.01433514285259, 
         "ne:Shape_Area": 11.2890550844, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18121207", 
         "alias_POR_Q": [
           "Luisiana"
         ], 
@@ -6778,7 +6783,7 @@
           "\u8def\u6613\u65af\u5b89\u90a3"
         ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:OBJECTID": 3535, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30eb\u30a4\u30b8\u30a2\u30ca"
         ], 
@@ -6788,6 +6793,11 @@
           "Luisiana"
         ], 
         "sw_longitude": -94.04323124442635, 
+        "adjacent": [
+          "woe:state=2347562", 
+          "woe:state=2347583", 
+          "woe:state=2347602"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 30.974, 
         "ne:FIPS_1": "US22", 
@@ -6795,14 +6805,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "ne:VertexCou": 1642.0, 
-        "ne:VALIDFR_1": "18121207", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3535, 
         "ne:Postal": "LA", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "LA", 
         "ne:ISO": "USA", 
-        "ne:TYPE_1": "State", 
+        "ne:Region_C_3": "West South Central", 
         "ne:Region_C_2": "South", 
         "ne:Shape_Leng": 35.4511116877, 
         "alias_DUT_Q": [
@@ -6811,21 +6821,20 @@
         "ne:NAME_0": "United States of America", 
         "ne:NAME_1": "Louisiana", 
         "ne:Region_C_1": "West South Central", 
-        "ne:Region_C_3": "West South Central", 
+        "ne:TYPE_1": "State", 
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 119413.7, 
         "woe:id": "2347577", 
-        "ne:HASC_1": "US.LA", 
-        "lang": "ENG", 
+        "name": "Louisiana", 
+        "ne:VertexCou": 1642.0, 
         "adjacent_woeid": [
           2347562, 
           2347583, 
           2347602
         ], 
-        "name": "Louisiana", 
+        "ne:HASC_1": "US.LA", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -88.8108337833524, 
         "longitude": -91.524, 
         "iso": "US", 

@@ -8,7 +8,7 @@
           [
             [
               38.263, 
-              55.110
+              55.11
             ], 
             [
               38.263, 
@@ -20,11 +20,11 @@
             ], 
             [
               42.982, 
-              55.110
+              55.11
             ], 
             [
               38.263, 
-              55.110
+              55.11
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346932, 
-        "name": "Vladimirskaya Oblast", 
         "adjacent_woeid": [
           2346895, 
           2346897, 
@@ -41,20 +39,39 @@
           2346922, 
           2346936
         ], 
-        "ne_latitude": 56.816, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Vladimirskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346932", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346932, 
         "ne_longitude": 42.982, 
         "longitude": 40.623, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 55.963, 
+        "iso": "RU", 
+        "sw_latitude": 55.11, 
+        "adjacent": [
+          "woe:state=2346897", 
+          "woe:state=2346911", 
+          "woe:state=2346895", 
+          "woe:state=2346922", 
+          "woe:state=2346936"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 56.816, 
         "sw_longitude": 38.263, 
         "fullname": "Vladimirskaya Oblast, Russia", 
-        "sw_latitude": 55.110
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346932
     }
+  ], 
+  "bbox": [
+    38.263, 
+    55.11, 
+    42.982, 
+    56.816
   ]
 }

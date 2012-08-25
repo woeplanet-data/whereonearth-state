@@ -3988,17 +3988,22 @@
         "alias_ENG_P": [
           "Chongqing"
         ], 
+        "hierarchy": [
+          "woe:state=20070171", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 32.19756989203694, 
         "ne:Shape_Area": 7.70564800234, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "19970314", 
         "alias_KOR_Q": [
           "\ucda9\uce6d"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1154, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u91cd\u6176 \u76f4\u8f44\u5e02"
         ], 
@@ -4011,6 +4016,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 105.28518110542376, 
+        "adjacent": [
+          "woe:state=12578016", 
+          "woe:state=12578002", 
+          "woe:state=12578001", 
+          "woe:state=12578007", 
+          "woe:state=12578015"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 30.187, 
         "ne:FIPS_1": "CH33", 
@@ -4018,9 +4030,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Municipality", 
         "sw_latitude": 28.191819566519825, 
-        "ne:VertexCou": 992.0, 
-        "ne:VALIDFR_1": "19970314", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1154, 
         "ne:Postal": "CQ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Ch\u00f3ngq\u00ecng", 
@@ -4036,8 +4048,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 82362.5, 
         "woe:id": "20070171", 
-        "ne:HASC_1": "CN.CQ", 
-        "lang": "CHI", 
+        "name": "\u91cd\u5e86\u76f4\u8f96\u5e02", 
+        "ne:VertexCou": 992.0, 
         "adjacent_woeid": [
           12578001, 
           12578002, 
@@ -4045,9 +4057,8 @@
           12578015, 
           12578016
         ], 
-        "name": "\u91cd\u5e86\u76f4\u8f96\u5e02", 
+        "ne:HASC_1": "CN.CQ", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 110.17547692242209, 
         "longitude": 107.602, 
         "iso": "CN", 

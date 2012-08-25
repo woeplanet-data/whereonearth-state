@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070392, 
-        "name": "Khonis Raioni", 
         "adjacent_woeid": [
           20070381, 
           20070390, 
@@ -42,20 +40,40 @@
           20070396, 
           20070399
         ], 
-        "ne_latitude": 42.627, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Khonis Raioni", 
+        "hierarchy": [
+          "woe:state=20070392", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070392, 
         "ne_longitude": 42.712, 
         "longitude": 42.488, 
-        "placetype": "State", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "placetype": "state", 
         "latitude": 42.434, 
+        "iso": "GE", 
+        "sw_latitude": 42.241, 
+        "adjacent": [
+          "woe:state=20070395", 
+          "woe:state=20070396", 
+          "woe:state=20070393", 
+          "woe:state=20070399", 
+          "woe:state=20070390", 
+          "woe:state=20070381"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.627, 
         "sw_longitude": 42.264, 
         "fullname": "Khonis Raioni, Georgia", 
-        "sw_latitude": 42.241
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070392
     }
+  ], 
+  "bbox": [
+    42.264, 
+    42.241, 
+    42.712, 
+    42.627
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070417, 
-        "name": "Jinja", 
         "adjacent_woeid": [
           20070422, 
           20070438, 
@@ -41,20 +39,39 @@
           24550732, 
           24550742
         ], 
-        "ne_latitude": 0.683, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Jinja", 
+        "hierarchy": [
+          "woe:state=20070417", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070417, 
         "ne_longitude": 33.361, 
         "longitude": 33.204, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 0.544, 
+        "iso": "UG", 
+        "sw_latitude": 0.405, 
+        "adjacent": [
+          "woe:state=20070449", 
+          "woe:state=20070422", 
+          "woe:state=24550742", 
+          "woe:state=24550732", 
+          "woe:state=20070438"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.683, 
         "sw_longitude": 33.048, 
         "fullname": "Jinja, Uganda", 
-        "sw_latitude": 0.405
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070417
     }
+  ], 
+  "bbox": [
+    33.048, 
+    0.405, 
+    33.361, 
+    0.683
   ]
 }

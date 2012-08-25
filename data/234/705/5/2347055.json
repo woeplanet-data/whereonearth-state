@@ -947,34 +947,48 @@
         "alias_SWE_S": [
           "Kronobergs"
         ], 
+        "hierarchy": [
+          "woe:state=2347055", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 57.241932684545816, 
         "ne:Shape_Area": 1.37893529591, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "Kronoberg"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "SWE", 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Kronoberg"
+        ], 
         "alias_ITA_Q": [
           "Kronoberg"
         ], 
-        "ne:Area_sqkm": 9380.3, 
-        "ne:OBJECTID": 182, 
+        "alias_DAN_Q": [
+          "Kronoberg"
+        ], 
+        "ne:DataRank": 7, 
         "alias_ENG_P": [
           "Kronoberg"
         ], 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Kronoberg"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Kronoberg"
         ], 
         "sw_longitude": 13.308211297313562, 
+        "adjacent": [
+          "woe:state=2347045", 
+          "woe:state=2347049", 
+          "woe:state=2347051", 
+          "woe:state=2347052", 
+          "woe:state=20070561"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 56.799, 
         "ne:FIPS_1": "SW12", 
@@ -984,14 +998,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T16:43:54Z", 
-        "ne:VertexCou": 231.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "SWE", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 182, 
         "ne:Postal": "KR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kronobergs l\u00e4n", 
         "ne:ISO": "SWE", 
-        "ne:TYPE_1": "Laen|l\u00e4n", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 6.56502471806, 
         "alias_DUT_Q": [
@@ -1000,17 +1014,15 @@
         "ne:NAME_0": "Sweden", 
         "ne:NAME_1": "Kronoberg", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Laen|l\u00e4n", 
         "ne:LabelRank": 7, 
-        "alias_DAN_Q": [
-          "Kronoberg"
-        ], 
+        "ne:Area_sqkm": 9380.3, 
         "alias_GER_Q": [
           "Kronoberg"
         ], 
         "woe:id": "2347055", 
-        "ne:HASC_1": "SE.KR", 
-        "lang": "SWE", 
+        "name": "Kronobergs L\u00e4n", 
+        "ne:VertexCou": 231.0, 
         "adjacent_woeid": [
           2347045, 
           2347049, 
@@ -1019,10 +1031,9 @@
           20070561
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Kronobergs L\u00e4n", 
+        "ne:HASC_1": "SE.KR", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424954, 
         "ne_longitude": 15.846402621783625, 
         "longitude": 14.568, 
         "iso": "SE", 

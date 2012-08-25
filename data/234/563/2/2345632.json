@@ -8,7 +8,7 @@
           [
             [
               -88.512, 
-              13.850
+              13.85
             ], 
             [
               -88.512, 
@@ -20,11 +20,11 @@
             ], 
             [
               -87.847, 
-              13.850
+              13.85
             ], 
             [
               -88.512, 
-              13.850
+              13.85
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345632, 
-        "name": "Intibuc\u00e1", 
         "adjacent_woeid": [
           2345293, 
           2345299, 
@@ -43,23 +41,44 @@
           2345635, 
           2345638
         ], 
-        "ne_latitude": 14.662, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Intibuc\u00e1", 
+        "hierarchy": [
+          "woe:state=2345632", 
+          "woe:country=23424841", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345632, 
         "ne_longitude": -87.847, 
-        "longitude": -88.180, 
-        "placetype": "State", 
+        "longitude": -88.18, 
+        "placetype": "state", 
+        "latitude": 14.256, 
         "alias_SPA_S": [
           "Intibuca"
         ], 
         "iso": "HN", 
-        "date_indexed": "2010-12-02T19:20:59Z", 
-        "parent_woeid": 23424841, 
-        "latitude": 14.256, 
+        "sw_latitude": 13.85, 
+        "adjacent": [
+          "woe:state=2345293", 
+          "woe:state=2345626", 
+          "woe:state=2345634", 
+          "woe:state=2345635", 
+          "woe:state=2345299", 
+          "woe:state=2345300", 
+          "woe:state=2345638"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.662, 
         "sw_longitude": -88.512, 
         "fullname": "Intibuc\u00e1, Honduras", 
-        "sw_latitude": 13.850
+        "date_indexed": "2010-12-02T19:20:59Z"
       }, 
       "id": 2345632
     }
+  ], 
+  "bbox": [
+    -88.512, 
+    13.85, 
+    -87.847, 
+    14.662
   ]
 }

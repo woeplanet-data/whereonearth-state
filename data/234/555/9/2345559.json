@@ -12,11 +12,11 @@
             ], 
             [
               -92.115, 
-              16.080
+              16.08
             ], 
             [
               -91.047, 
-              16.080
+              16.08
             ], 
             [
               -91.047, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345559, 
-        "name": "Huehuetenango", 
         "adjacent_woeid": [
           2345564, 
           2345565, 
@@ -41,20 +39,39 @@
           2345572, 
           2346268
         ], 
-        "ne_latitude": 16.080, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Huehuetenango", 
+        "hierarchy": [
+          "woe:state=2345559", 
+          "woe:country=23424834", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345559, 
         "ne_longitude": -91.047, 
         "longitude": -91.581, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 15.61, 
         "iso": "GT", 
-        "date_indexed": "2010-12-02T16:55:18Z", 
-        "parent_woeid": 23424834, 
-        "latitude": 15.610, 
+        "sw_latitude": 15.139, 
+        "adjacent": [
+          "woe:state=2346268", 
+          "woe:state=2345564", 
+          "woe:state=2345565", 
+          "woe:state=2345568", 
+          "woe:state=2345572"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.08, 
         "sw_longitude": -92.115, 
         "fullname": "Huehuetenango, Guatemala", 
-        "sw_latitude": 15.139
+        "date_indexed": "2010-12-02T16:55:18Z"
       }, 
       "id": 2345559
     }
+  ], 
+  "bbox": [
+    -92.115, 
+    15.139, 
+    -91.047, 
+    16.08
   ]
 }

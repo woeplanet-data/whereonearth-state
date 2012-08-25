@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55844641, 
-        "name": "Durbes Novads", 
         "adjacent_woeid": [
           56190540, 
           56190543, 
           56190577, 
           56190578
         ], 
-        "ne_latitude": 56.657, 
+        "name": "Durbes Novads", 
+        "hierarchy": [
+          "woe:state=55844641", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55844641, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 21.527, 
         "longitude": 21.386, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "LV", 
         "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
+        "adjacent": [
+          "woe:state=56190543", 
+          "woe:state=56190577", 
+          "woe:state=56190578", 
+          "woe:state=56190540"
+        ], 
+        "ne_latitude": 56.657, 
         "latitude": 56.587, 
         "sw_longitude": 21.246, 
         "fullname": "Durbes Novads, Liepajas Rajons, Durbes Novads, Latvia", 
@@ -55,5 +65,11 @@
       }, 
       "id": 55844641
     }
+  ], 
+  "bbox": [
+    21.246, 
+    56.517, 
+    21.527, 
+    56.657
   ]
 }

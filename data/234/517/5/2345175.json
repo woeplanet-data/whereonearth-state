@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345175, 
-        "name": "Dajabon", 
         "adjacent_woeid": [
           2345181, 
           2345184, 
           2345194, 
           2345619
         ], 
-        "ne_latitude": 19.646, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Dajabon", 
+        "hierarchy": [
+          "woe:state=2345175", 
+          "woe:country=23424800", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345175, 
         "ne_longitude": -71.395, 
         "longitude": -71.591, 
-        "placetype": "State", 
-        "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "parent_woeid": 23424800, 
+        "placetype": "state", 
         "latitude": 19.431, 
+        "iso": "DO", 
+        "sw_latitude": 19.217, 
+        "adjacent": [
+          "woe:state=2345181", 
+          "woe:state=2345184", 
+          "woe:state=2345619", 
+          "woe:state=2345194"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.646, 
         "sw_longitude": -71.787, 
         "fullname": "Dajabon, Dominican Republic", 
-        "sw_latitude": 19.217
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345175
     }
+  ], 
+  "bbox": [
+    -71.787, 
+    19.217, 
+    -71.395, 
+    19.646
   ]
 }

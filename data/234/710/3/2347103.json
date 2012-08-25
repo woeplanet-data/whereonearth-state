@@ -755,27 +755,46 @@
         "alias_ENG_V": [
           "Uri"
         ], 
-        "ne:ISO": "CHE", 
         "ne:ScaleRank": 9, 
         "alias_ENG_P": [
           "Canton of Uri"
         ], 
+        "hierarchy": [
+          "woe:state=2347103", 
+          "woe:country=23424957", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.98922516560896, 
+        "alias_GER_A": [
+          "UR"
+        ], 
         "ne:Shape_Area": 0.126101072828, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
         "alias_ITA_Q": [
           "Canton Uri"
         ], 
-        "ne:Area_sqkm": 1070.6, 
-        "ne:OBJECTID": 175, 
+        "alias_GER_V": [
+          "Uri"
+        ], 
+        "ne:DataRank": 7, 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 8.40168908008701, 
+        "adjacent": [
+          "woe:state=2347104", 
+          "woe:state=2347102", 
+          "woe:state=2347087", 
+          "woe:state=2347090", 
+          "woe:state=2347091", 
+          "woe:state=2347095", 
+          "woe:state=2347096", 
+          "woe:state=2347099"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.76, 
         "ne:FIPS_1": "SZ21", 
@@ -783,30 +802,26 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
         "sw_latitude": 46.53183706322994, 
-        "ne:VertexCou": 184.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "GER", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 175, 
         "ne:Postal": "UR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
-        "alias_GER_A": [
-          "UR"
-        ], 
-        "ne:TYPE_1": "Canton|Kanton|Chantun", 
+        "ne:ISO": "CHE", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 1.90490144152, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "Switzerland", 
         "ne:NAME_1": "Uri", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Canton|Kanton|Chantun", 
         "ne:LabelRank": 9, 
-        "alias_GER_V": [
-          "Uri"
-        ], 
+        "ne:Area_sqkm": 1070.6, 
         "woe:id": "2347103", 
-        "ne:HASC_1": "CH.UR", 
-        "lang": "GER", 
+        "name": "Kanton Uri", 
+        "ne:VertexCou": 184.0, 
         "adjacent_woeid": [
           2347087, 
           2347090, 
@@ -817,9 +832,8 @@
           2347102, 
           2347104
         ], 
-        "name": "Kanton Uri", 
+        "ne:HASC_1": "CH.UR", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424957, 
         "ne_longitude": 8.948684116678692, 
         "longitude": 8.677, 
         "iso": "CH", 

@@ -15,11 +15,11 @@
               42.629
             ], 
             [
-              24.540, 
+              24.54, 
               42.629
             ], 
             [
-              24.540, 
+              24.54, 
               41.668
             ], 
             [
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070066, 
-        "name": "Pazardzhik", 
         "adjacent_woeid": [
           20070060, 
           20070061, 
           20070067, 
           20070068
         ], 
-        "ne_latitude": 42.629, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 24.540, 
+        "name": "Pazardzhik", 
+        "hierarchy": [
+          "woe:state=20070066", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070066, 
+        "ne_longitude": 24.54, 
         "longitude": 24.148, 
-        "placetype": "State", 
-        "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
+        "placetype": "state", 
         "latitude": 42.148, 
+        "iso": "BG", 
+        "sw_latitude": 41.668, 
+        "adjacent": [
+          "woe:state=20070060", 
+          "woe:state=20070068", 
+          "woe:state=20070067", 
+          "woe:state=20070061"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.629, 
         "sw_longitude": 23.755, 
         "fullname": "Pazardzhik, Bulgaria", 
-        "sw_latitude": 41.668
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070066
     }
+  ], 
+  "bbox": [
+    23.755, 
+    41.668, 
+    24.54, 
+    42.629
   ]
 }

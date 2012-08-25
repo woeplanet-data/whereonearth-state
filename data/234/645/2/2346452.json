@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346452, 
-        "name": "Caazap\u00e1", 
         "adjacent_woeid": [
           2346448, 
           2346451, 
@@ -42,23 +40,43 @@
           2346458, 
           2346460
         ], 
-        "ne_latitude": -25.525, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Caazap\u00e1", 
+        "hierarchy": [
+          "woe:state=2346452", 
+          "woe:country=23424917", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346452, 
         "ne_longitude": -55.231, 
         "longitude": -56.006, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -26.143, 
         "alias_SPA_S": [
           "Caazapa"
         ], 
         "iso": "PY", 
-        "date_indexed": "2010-12-02T12:08:38Z", 
-        "parent_woeid": 23424917, 
-        "latitude": -26.143, 
+        "sw_latitude": -26.762, 
+        "adjacent": [
+          "woe:state=2346448", 
+          "woe:state=2346451", 
+          "woe:state=2346456", 
+          "woe:state=2346457", 
+          "woe:state=2346458", 
+          "woe:state=2346460"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -25.525, 
         "sw_longitude": -56.782, 
         "fullname": "Caazap\u00e1, Paraguay", 
-        "sw_latitude": -26.762
+        "date_indexed": "2010-12-02T12:08:38Z"
       }, 
       "id": 2346452
     }
+  ], 
+  "bbox": [
+    -56.782, 
+    -26.762, 
+    -55.231, 
+    -25.525
   ]
 }

@@ -2501,11 +2501,16 @@
         "alias_SWE_Q": [
           "Irawaddy"
         ], 
+        "hierarchy": [
+          "woe:state=2344812", 
+          "woe:country=23424763", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 18.47127594612806, 
         "ne:Shape_Area": 2.82701096526, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 13, 
+        "ne:VALIDFR_1": "1900", 
         "alias_KOR_Q": [
           "\uc5d0\uc57c\uc6cc\ub514"
         ], 
@@ -2515,13 +2520,18 @@
         "alias_CHI_Q": [
           "\u4f0a\u6d1b\u74e6\u5e95"
         ], 
-        "ne:OBJECTID": 3275, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30a8\u30fc\u30e4\u30ef\u30c7\u30a3\u30fc\u5ddd"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 93.37479699118825, 
+        "adjacent": [
+          "woe:state=2344818", 
+          "woe:state=2344810", 
+          "woe:state=2344823"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 17.107, 
         "ne:FIPS_1": "BM03", 
@@ -2531,9 +2541,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Division", 
         "sw_latitude": 14.064671535263187, 
-        "ne:VertexCou": 543.0, 
-        "ne:VALIDFR_1": "1900", 
-        "ne:DataRank": 5, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 13, 
+        "ne:OBJECTID": 3275, 
         "ne:Postal": "AY", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Irrawaddy|Ayeyarwaddy|Ayeyawady|Irawadi|Irraouaddi|Irrauaddy", 
@@ -2552,17 +2562,16 @@
           "Irrawaddy"
         ], 
         "woe:id": "2344812", 
-        "ne:HASC_1": "MM.AY", 
-        "lang": "ENG", 
+        "name": "Ayeyarwady", 
+        "ne:VertexCou": 543.0, 
         "adjacent_woeid": [
           2344810, 
           2344818, 
           2344823
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Ayeyarwady", 
+        "ne:HASC_1": "MM.AY", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424763, 
         "ne_longitude": 96.06755252492917, 
         "longitude": 95.063, 
         "iso": "MM", 

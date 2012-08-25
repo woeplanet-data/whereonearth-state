@@ -15,11 +15,11 @@
               47.683
             ], 
             [
-              21.030, 
+              21.03, 
               47.683
             ], 
             [
-              21.030, 
+              21.03, 
               46.754
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "ne_latitude": 47.683, 
-        "name": "J\u00e1sz-Nagykun-Szolnok", 
         "adjacent_woeid": [
           12577911, 
           12577913, 
@@ -44,13 +42,28 @@
           12577923, 
           56043638
         ], 
-        "woeid": 12577926, 
-        "ne_longitude": 21.030, 
+        "name": "J\u00e1sz-Nagykun-Szolnok", 
+        "hierarchy": [
+          "woe:state=12577926", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 47.683, 
+        "ne_longitude": 21.03, 
         "longitude": 20.341, 
-        "parent_woeid": 23424844, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
-        "date_indexed": "2010-12-02T09:55:38Z", 
+        "sw_latitude": 46.754, 
+        "adjacent": [
+          "woe:state=12577914", 
+          "woe:state=12577911", 
+          "woe:state=12577913", 
+          "woe:state=12577916", 
+          "woe:state=12577919", 
+          "woe:state=12577920", 
+          "woe:state=12577923", 
+          "woe:state=56043638"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.219, 
         "sw_longitude": 19.651, 
@@ -58,9 +71,16 @@
         "alias_HUN_S": [
           "Jasz-Nagykun-Szolnok"
         ], 
-        "sw_latitude": 46.754
+        "woeid": 12577926, 
+        "date_indexed": "2010-12-02T09:55:38Z"
       }, 
       "id": 12577926
     }
+  ], 
+  "bbox": [
+    19.651, 
+    46.754, 
+    21.03, 
+    47.683
   ]
 }

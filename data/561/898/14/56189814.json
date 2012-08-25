@@ -13,13 +13,24 @@
           2345208
         ], 
         "name": "Santo Domingo de los Ts\u00e1chilas", 
-        "parent_woeid": 23424801, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56189814", 
+          "woe:country=23424801", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "alias_SPA_S": [
           "Santo Domingo de los Tsachilas"
         ], 
         "iso": "EC", 
+        "adjacent": [
+          "woe:state=2345208", 
+          "woe:state=2345210", 
+          "woe:state=2345214", 
+          "woe:state=2345215", 
+          "woe:state=2345219"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56189814, 
         "date_indexed": "2010-12-02T17:51:25Z"
       }, 

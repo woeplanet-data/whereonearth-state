@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Mittpyreneerna"
         ], 
+        "hierarchy": [
+          "woe:state=7153323", 
+          "woe:country=23424819", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 45.047, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Pirineu Central"
         ], 
@@ -59,6 +64,17 @@
           "Pirineo Central"
         ], 
         "sw_longitude": -0.327, 
+        "adjacent": [
+          "woe:state=7153309", 
+          "woe:state=12578030", 
+          "woe:state=7153310", 
+          "woe:state=20070557", 
+          "woe:state=12578034", 
+          "woe:state=20070555", 
+          "woe:state=7153320", 
+          "woe:state=7153321", 
+          "woe:state=20070556"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 43.809, 
         "alias_NOR_Q": [
@@ -84,7 +100,6 @@
           20070557
         ], 
         "name": "Midi-Pyr\u00e9n\u00e9es", 
-        "parent_woeid": 23424819, 
         "ne_longitude": 3.451, 
         "longitude": 1.562, 
         "iso": "FR", 
@@ -99,5 +114,11 @@
       }, 
       "id": 7153323
     }
+  ], 
+  "bbox": [
+    -0.327, 
+    42.572, 
+    3.451, 
+    45.047
   ]
 }

@@ -614,11 +614,16 @@
         "alias_KOR_Q": [
           "\ub378\ub77c\uc6e8\uc5b4"
         ], 
+        "hierarchy": [
+          "woe:state=2347566", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 39.83862713433484, 
         "ne:Shape_Area": 0.549455428086, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "17760704", 
         "alias_ENG_A": [
           "Del"
         ], 
@@ -628,13 +633,18 @@
         "alias_CHI_Q": [
           "\u5fb7\u62c9\u7ef4\u5c14"
         ], 
-        "ne:OBJECTID": 3555, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30c7\u30e9\u30a6\u30a7\u30a2"
         ], 
         "ne:Abbrev": "Del.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -75.78468632211604, 
+        "adjacent": [
+          "woe:state=2347579", 
+          "woe:state=2347589", 
+          "woe:state=2347597"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.145, 
         "ne:FIPS_1": "US10", 
@@ -642,9 +652,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 38.45327557250971, 
-        "ne:VertexCou": 148.0, 
-        "ne:VALIDFR_1": "17760704", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3555, 
         "ne:Postal": "DE", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "DE|Del.", 
@@ -660,16 +670,15 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 5322.1, 
         "woe:id": "2347566", 
-        "ne:HASC_1": "US.DE", 
-        "lang": "ENG", 
+        "name": "Delaware", 
+        "ne:VertexCou": 148.0, 
         "adjacent_woeid": [
           2347579, 
           2347589, 
           2347597
         ], 
-        "name": "Delaware", 
+        "ne:HASC_1": "US.DE", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -75.03778690813925, 
         "longitude": -75.419, 
         "iso": "US", 

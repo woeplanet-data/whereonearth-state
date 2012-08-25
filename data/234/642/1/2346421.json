@@ -15,11 +15,11 @@
               13.435
             ], 
             [
-              -86.110, 
+              -86.11, 
               13.435
             ], 
             [
-              -86.110, 
+              -86.11, 
               12.852
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346421, 
-        "name": "Estel\u00ed", 
         "adjacent_woeid": [
           2346419, 
           2346423, 
@@ -41,23 +39,42 @@
           2346425, 
           2346428
         ], 
-        "ne_latitude": 13.435, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -86.110, 
+        "name": "Estel\u00ed", 
+        "hierarchy": [
+          "woe:state=2346421", 
+          "woe:country=23424915", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346421, 
+        "ne_longitude": -86.11, 
         "longitude": -86.428, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 13.143, 
         "alias_SPA_S": [
           "Esteli"
         ], 
         "iso": "NI", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
-        "parent_woeid": 23424915, 
-        "latitude": 13.143, 
+        "sw_latitude": 12.852, 
+        "adjacent": [
+          "woe:state=2346419", 
+          "woe:state=2346423", 
+          "woe:state=2346424", 
+          "woe:state=2346425", 
+          "woe:state=2346428"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.435, 
         "sw_longitude": -86.746, 
         "fullname": "Estel\u00ed, Nicaragua", 
-        "sw_latitude": 12.852
+        "date_indexed": "2010-12-02T18:19:07Z"
       }, 
       "id": 2346421
     }
+  ], 
+  "bbox": [
+    -86.746, 
+    12.852, 
+    -86.11, 
+    13.435
   ]
 }

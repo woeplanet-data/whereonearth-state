@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 20069914, 
-        "name": "An Nil al Abyad", 
         "adjacent_woeid": [
           20069819, 
           20069908, 
@@ -42,20 +40,40 @@
           20069915, 
           20069916
         ], 
-        "ne_latitude": 15.209, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "An Nil al Abyad", 
+        "hierarchy": [
+          "woe:state=20069914", 
+          "woe:country=23424952", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069914, 
         "ne_longitude": 33.259, 
         "longitude": 32.401, 
-        "placetype": "State", 
-        "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
-        "parent_woeid": 23424952, 
+        "placetype": "state", 
         "latitude": 13.589, 
+        "iso": "SD", 
+        "sw_latitude": 11.969, 
+        "adjacent": [
+          "woe:state=20069908", 
+          "woe:state=20069916", 
+          "woe:state=20069819", 
+          "woe:state=20069910", 
+          "woe:state=20069912", 
+          "woe:state=20069915"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.209, 
         "sw_longitude": 31.543, 
         "fullname": "An Nil al Abyad, Sudan", 
-        "sw_latitude": 11.969
+        "date_indexed": "2010-12-02T08:50:49Z"
       }, 
       "id": 20069914
     }
+  ], 
+  "bbox": [
+    31.543, 
+    11.969, 
+    33.259, 
+    15.209
   ]
 }

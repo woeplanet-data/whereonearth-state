@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344758, 
-        "name": "Southampton", 
         "adjacent_woeid": [
           2344756, 
           2344759
         ], 
-        "ne_latitude": 32.288, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Southampton", 
+        "hierarchy": [
+          "woe:state=2344758", 
+          "woe:country=23424756", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344758, 
         "ne_longitude": -64.821, 
-        "longitude": -64.880, 
-        "placetype": "State", 
-        "iso": "BM", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "parent_woeid": 23424756, 
+        "longitude": -64.88, 
+        "placetype": "state", 
         "latitude": 32.267, 
+        "iso": "BM", 
+        "sw_latitude": 32.247, 
+        "adjacent": [
+          "woe:state=2344756", 
+          "woe:state=2344759"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 32.288, 
         "sw_longitude": -64.896, 
         "fullname": "Southampton, Bermuda", 
-        "sw_latitude": 32.247
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2344758
     }
+  ], 
+  "bbox": [
+    -64.896, 
+    32.247, 
+    -64.821, 
+    32.288
   ]
 }

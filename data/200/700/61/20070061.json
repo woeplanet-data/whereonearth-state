@@ -1001,11 +1001,16 @@
       "properties": {
         "ne:ProvNumber": 2000, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=20070061", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 43.19493480070054, 
         "ne:Shape_Area": 0.781130020184, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19990108", 
+        "ne:MAP_COLOR": 8, 
         "alias_KOR_Q": [
           "\uc18c\ud53c\uc544"
         ], 
@@ -1014,13 +1019,24 @@
         "alias_CHI_Q": [
           "\u7d22\u975e\u4e9a"
         ], 
-        "ne:DataRank": 7, 
+        "ne:OBJECTID": 2244, 
         "alias_JPN_Q": [
           "\u30bd\u30d5\u30a3\u30e4"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 22.739108514446457, 
+        "adjacent": [
+          "woe:state=20070060", 
+          "woe:state=20070059", 
+          "woe:state=20070064", 
+          "woe:state=20070056", 
+          "woe:state=20070066", 
+          "woe:state=20070058", 
+          "woe:state=20070068", 
+          "woe:state=20069794", 
+          "woe:state=20070057"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.642, 
         "ne:FIPS_1": "BU42", 
@@ -1028,9 +1044,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 42.084124050784396, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 8, 
-        "ne:OBJECTID": 2244, 
+        "ne:VertexCou": 235.0, 
+        "ne:VALIDFR_1": "19990108", 
+        "ne:DataRank": 7, 
         "ne:Postal": "SF", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Sofiya|Sofija", 
@@ -1049,8 +1065,8 @@
           "Sofia"
         ], 
         "woe:id": "20070061", 
-        "name": "Sofiya", 
-        "ne:VertexCou": 235.0, 
+        "ne:HASC_1": "BG.SF", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           20069794, 
           20070056, 
@@ -1062,9 +1078,8 @@
           20070066, 
           20070068
         ], 
-        "ne:HASC_1": "BG.SF", 
+        "name": "Sofiya", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424771, 
         "ne_longitude": 24.472956170790724, 
         "longitude": 23.616, 
         "iso": "BG", 

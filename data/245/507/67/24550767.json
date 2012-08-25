@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550767, 
-        "alias_UNK_V": [
-          "Opstina Gostivar"
-        ], 
-        "name": "Gostivar", 
-        "alias_ENG_P": [
-          "Gostivar Municipality"
-        ], 
-        "ne_latitude": 41.923, 
-        "ne_longitude": 21.081, 
-        "longitude": 20.826, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550751, 
           24550786, 
@@ -53,15 +40,46 @@
           24550858, 
           24550864
         ], 
+        "name": "Gostivar", 
+        "alias_ENG_P": [
+          "Gostivar Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550767", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550767, 
+        "alias_UNK_V": [
+          "Opstina Gostivar"
+        ], 
+        "longitude": 20.826, 
+        "ne_longitude": 21.081, 
+        "placetype": "state", 
+        "latitude": 41.781, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550751", 
+          "woe:state=24550786", 
+          "woe:state=24550858", 
+          "woe:state=24550795", 
+          "woe:state=24550819", 
+          "woe:state=24550864"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.781, 
+        "ne_latitude": 41.923, 
         "sw_longitude": 20.571, 
         "fullname": "Gostivar, Gostivar Municipality, Macedonia", 
         "sw_latitude": 41.638
       }, 
       "id": 24550767
     }
+  ], 
+  "bbox": [
+    20.571, 
+    41.638, 
+    21.081, 
+    41.923
   ]
 }

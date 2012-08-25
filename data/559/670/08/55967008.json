@@ -1105,9 +1105,14 @@
       "properties": {
         "ne:ProvNumber": 0, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=55967008", 
+          "woe:country=23424854", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 6.557868760834708, 
         "ne:Shape_Area": 2.13662637133, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -1116,6 +1121,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -7.606481085733492, 
+        "adjacent": [
+          "woe:state=55966995", 
+          "woe:state=2346100", 
+          "woe:state=55966996", 
+          "woe:state=2346107", 
+          "woe:state=55966999", 
+          "woe:state=55967003"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 5.454, 
         "ne:FIPS_1": "IV32", 
@@ -1153,7 +1166,6 @@
         ], 
         "name": "Bas-Sassandra", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424854, 
         "ne_longitude": -5.743959112722848, 
         "longitude": -6.652, 
         "iso": "CI", 

@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -80.480, 
+              -80.48, 
               -4.738
             ], 
             [
-              -80.480, 
+              -80.48, 
               -3.327
             ], 
             [
-              -79.090, 
+              -79.09, 
               -3.327
             ], 
             [
-              -79.090, 
+              -79.09, 
               -4.738
             ], 
             [
-              -80.480, 
+              -80.48, 
               -4.738
             ]
           ]
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345213, 
+        "alias_SPA_A": [
+          "LOH"
+        ], 
         "name": "Loja", 
         "adjacent_woeid": [
           2345203, 
           2345209, 
           2345221
         ], 
+        "hierarchy": [
+          "woe:state=2345213", 
+          "woe:country=23424801", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345213, 
+        "ne_longitude": -79.09, 
+        "longitude": -79.785, 
         "ne_latitude": -3.327, 
-        "alias_SPA_A": [
-          "LOH"
+        "placetype": "state", 
+        "iso": "EC", 
+        "sw_latitude": -4.738, 
+        "adjacent": [
+          "woe:state=2345203", 
+          "woe:state=2345209", 
+          "woe:state=2345221"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -79.090, 
-        "longitude": -79.785, 
-        "placetype": "State", 
-        "iso": "EC", 
-        "date_indexed": "2010-12-02T17:51:25Z", 
-        "parent_woeid": 23424801, 
         "latitude": -4.032, 
-        "sw_longitude": -80.480, 
+        "sw_longitude": -80.48, 
         "fullname": "Loja, Ecuador", 
-        "sw_latitude": -4.738
+        "date_indexed": "2010-12-02T17:51:25Z"
       }, 
       "id": 2345213
     }
+  ], 
+  "bbox": [
+    -80.48, 
+    -4.738, 
+    -79.09, 
+    -3.327
   ]
 }

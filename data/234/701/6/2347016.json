@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347016, 
-        "name": "Nugaal", 
         "adjacent_woeid": [
           2347008, 
           2347015, 
@@ -41,20 +39,39 @@
           2347020, 
           56013540
         ], 
-        "ne_latitude": 9.501, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nugaal", 
+        "hierarchy": [
+          "woe:state=2347016", 
+          "woe:country=23424949", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347016, 
         "ne_longitude": 50.187, 
         "longitude": 48.542, 
-        "placetype": "State", 
-        "iso": "SO", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
-        "parent_woeid": 23424949, 
+        "placetype": "state", 
         "latitude": 8.377, 
+        "iso": "SO", 
+        "sw_latitude": 7.253, 
+        "adjacent": [
+          "woe:state=2347008", 
+          "woe:state=2347015", 
+          "woe:state=2347017", 
+          "woe:state=56013540", 
+          "woe:state=2347020"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.501, 
         "sw_longitude": 46.897, 
         "fullname": "Nugaal, Somalia", 
-        "sw_latitude": 7.253
+        "date_indexed": "2010-12-02T08:51:00Z"
       }, 
       "id": 2347016
     }
+  ], 
+  "bbox": [
+    46.897, 
+    7.253, 
+    50.187, 
+    9.501
   ]
 }

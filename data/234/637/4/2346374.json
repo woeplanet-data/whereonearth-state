@@ -831,27 +831,38 @@
       "properties": {
         "ne:ProvNumber": 2, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2346374", 
+          "woe:country=23424909", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 53.51425324199357, 
         "ne:Shape_Area": 0.527027799162, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "Fr\u00edsia"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
-        "ne:VALIDTO_1": "Present", 
-        "alias_ITA_Q": [
-          "Frisia"
-        ], 
-        "ne:OBJECTID": 895, 
-        "ne:sameAsCity": -99, 
-        "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Frisia"
         ], 
+        "alias_ITA_Q": [
+          "Frisia"
+        ], 
+        "ne:DataRank": 8, 
+        "ne:sameAsCity": -99, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
         "sw_longitude": 4.879113396765888, 
+        "adjacent": [
+          "woe:state=2346373", 
+          "woe:state=2346384", 
+          "woe:state=2346376", 
+          "woe:state=2346380"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 53.09, 
         "ne:FIPS_1": "NL02", 
@@ -862,8 +873,8 @@
         "alias_DUT_A": [
           "FR"
         ], 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 895, 
         "ne:Postal": "FR", 
         "alias_DUT_V": [
           "Friesland Provincie"
@@ -871,18 +882,18 @@
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Frise|Frisia|Fr\u00edsia", 
         "ne:ISO": "NLD", 
-        "ne:TYPE_1": "Provincie", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 5.91025080259, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "Netherlands", 
         "ne:NAME_1": "Friesland", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Provincie", 
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 3929.6, 
         "woe:id": "2346374", 
-        "ne:HASC_1": "NL.FR", 
+        "name": "Friesland", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2346373, 
@@ -890,12 +901,11 @@
           2346380, 
           2346384
         ], 
-        "name": "Friesland", 
+        "ne:HASC_1": "NL.FR", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Fryslan"
         ], 
-        "parent_woeid": 23424909, 
         "alias_UNK_Q": [
           "Frysl\u00e2n"
         ], 

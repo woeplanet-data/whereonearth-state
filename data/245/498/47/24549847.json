@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549847, 
         "name": "Lae", 
-        "ne_latitude": 8.959, 
+        "hierarchy": [
+          "woe:state=24549847", 
+          "woe:country=23424932", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549847, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 166.272, 
         "longitude": 166.269, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MH", 
         "date_indexed": "2010-12-02T09:35:31Z", 
-        "parent_woeid": 23424932, 
+        "ne_latitude": 8.959, 
         "latitude": 8.921, 
         "sw_longitude": 166.218, 
         "fullname": "Lae, Marshall Islands", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549847
     }
+  ], 
+  "bbox": [
+    166.218, 
+    8.915, 
+    166.272, 
+    8.959
   ]
 }

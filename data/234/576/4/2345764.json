@@ -813,11 +813,16 @@
       "properties": {
         "ne:ProvNumber": 2005, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=2345764", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 15.78301626269041, 
         "ne:Shape_Area": 0.288004661242, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_KOR_Q": [
           "\uace0\uc544"
         ], 
@@ -826,13 +831,17 @@
         "alias_CHI_Q": [
           "\u679c\u963f"
         ], 
-        "ne:OBJECTID": 3265, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30b4\u30a2"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 73.6859729353028, 
+        "adjacent": [
+          "woe:state=2345753", 
+          "woe:state=2345750"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 15.35, 
         "ne:FIPS_1": "IN08", 
@@ -840,9 +849,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 14.887308661165832, 
-        "ne:VertexCou": 199.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3265, 
         "ne:Postal": "GA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "G\u00f4a", 
@@ -858,15 +867,14 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 3421.7, 
         "woe:id": "2345764", 
-        "ne:HASC_1": "IN.GA", 
-        "lang": "ENG", 
+        "name": "Goa", 
+        "ne:VertexCou": 199.0, 
         "adjacent_woeid": [
           2345750, 
           2345753
         ], 
-        "name": "Goa", 
+        "ne:HASC_1": "IN.GA", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 74.30422977058748, 
         "longitude": 74.014, 
         "iso": "IN", 

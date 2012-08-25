@@ -1272,9 +1272,14 @@
         "alias_ENG_P": [
           "Kara Region"
         ], 
+        "hierarchy": [
+          "woe:state=56048435", 
+          "woe:country=23424965", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 10.21650849007483, 
         "ne:Shape_Area": 0.954654282955, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
@@ -1283,6 +1288,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 0.222705112351093, 
+        "adjacent": [
+          "woe:state=2344824", 
+          "woe:state=56048436", 
+          "woe:state=55967671", 
+          "woe:state=2345467", 
+          "woe:state=56048434"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 9.572, 
         "ne:FIPS_1": "TO23", 
@@ -1319,7 +1331,6 @@
         ], 
         "name": "Kara", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424965, 
         "ne_longitude": 1.419996371735238, 
         "longitude": 0.822, 
         "ne:NEV_Countr": "Togo", 

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              120.250, 
+              120.25, 
               22.506
             ], 
             [
-              120.250, 
+              120.25, 
               22.756
             ], 
             [
@@ -23,7 +23,7 @@
               22.506
             ], 
             [
-              120.250, 
+              120.25, 
               22.506
             ]
           ]
@@ -40,8 +40,13 @@
         "alias_ENG_P": [
           "Kaohsiung City"
         ], 
+        "hierarchy": [
+          "woe:state=20070334", 
+          "woe:country=23424971", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 22.756, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uac00\uc624\uc29d"
         ], 
@@ -52,10 +57,13 @@
         "alias_FIN_Q": [
           "Kaohsiung"
         ], 
-        "sw_longitude": 120.250, 
+        "sw_longitude": 120.25, 
+        "adjacent": [
+          "woe:colloquial=20070335"
+        ], 
         "provider": "geoplanet 7.5.1", 
         "latitude": 22.673, 
-        "date_indexed": "2010-06-06T08:23:20Z", 
+        "sw_latitude": 22.506, 
         "alias_GER_Q": [
           "Kaohsiung"
         ], 
@@ -64,14 +72,19 @@
           20070335
         ], 
         "name": "\u9ad8\u96c4\u5e02", 
-        "parent_woeid": 23424971, 
         "ne_longitude": 120.399, 
         "longitude": 120.293, 
         "iso": "TW", 
-        "sw_latitude": 22.506, 
+        "date_indexed": "2010-06-06T08:23:20Z", 
         "fullname": "Kaohsiung City, Taiwan"
       }, 
       "id": 20070334
     }
+  ], 
+  "bbox": [
+    120.25, 
+    22.506, 
+    120.399, 
+    22.756
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070098, 
-        "name": "Batdambang", 
         "adjacent_woeid": [
           2344937, 
           2344941, 
@@ -43,20 +41,41 @@
           20070093, 
           20070097
         ], 
-        "ne_latitude": 13.433, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Batdambang", 
+        "hierarchy": [
+          "woe:state=20070098", 
+          "woe:country=23424776", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070098, 
         "ne_longitude": 103.864, 
         "longitude": 103.107, 
-        "placetype": "State", 
-        "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
-        "parent_woeid": 23424776, 
+        "placetype": "state", 
         "latitude": 12.928, 
+        "iso": "KH", 
+        "sw_latitude": 12.422, 
+        "adjacent": [
+          "woe:state=20070093", 
+          "woe:state=2347172", 
+          "woe:state=20070097", 
+          "woe:state=2344937", 
+          "woe:state=20069925", 
+          "woe:state=2344941", 
+          "woe:state=2347173"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.433, 
         "sw_longitude": 102.346, 
         "fullname": "Batdambang, Cambodia", 
-        "sw_latitude": 12.422
+        "date_indexed": "2010-12-02T16:11:17Z"
       }, 
       "id": 20070098
     }
+  ], 
+  "bbox": [
+    102.346, 
+    12.422, 
+    103.864, 
+    13.433
   ]
 }

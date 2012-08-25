@@ -7766,11 +7766,16 @@
         "alias_SWE_Q": [
           "Oriental"
         ], 
+        "hierarchy": [
+          "woe:state=2344985", 
+          "woe:country=23424780", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 5.375537828008419, 
         "ne:Shape_Area": 40.7029537229, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19660701", 
         "alias_KOR_Q": [
           "\uc624\ub9ac\uc5d4\ud0c8"
         ], 
@@ -7780,13 +7785,23 @@
         "alias_CHI_Q": [
           "\u4e1c\u65b9"
         ], 
-        "ne:OBJECTID": 1559, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30aa\u30ea\u30a8\u30f3\u30bf\u30eb"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "20060201", 
         "sw_longitude": 22.28993696451937, 
+        "adjacent": [
+          "woe:state=20069902", 
+          "woe:state=2344978", 
+          "woe:state=20069900", 
+          "woe:state=2345093", 
+          "woe:state=2344980", 
+          "woe:state=20069831", 
+          "woe:state=2345096", 
+          "woe:state=20069830"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 1.707, 
         "ne:FIPS_1": "CG09", 
@@ -7794,9 +7809,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -2.110878594471501, 
-        "ne:VertexCou": 1827.0, 
-        "ne:VALIDFR_1": "19660701", 
-        "ne:DataRank": 3, 
+        "lang": "FRE", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 1559, 
         "ne:Postal": "HC", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Haut-Zaire|Haut-Za\u00efreUpper Zaire", 
@@ -7812,8 +7827,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 500481.0, 
         "woe:id": "2344985", 
-        "ne:HASC_1": "CD.HC", 
-        "lang": "FRE", 
+        "name": "Orientale", 
+        "ne:VertexCou": 1827.0, 
         "adjacent_woeid": [
           2344978, 
           2344980, 
@@ -7824,9 +7839,8 @@
           20069900, 
           20069902
         ], 
-        "name": "Orientale", 
+        "ne:HASC_1": "CD.HC", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424780, 
         "ne_longitude": 31.2801375665955, 
         "longitude": 26.82, 
         "iso": "CD", 

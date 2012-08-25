@@ -2700,17 +2700,22 @@
         "alias_ENG_P": [
           "Hainan"
         ], 
+        "hierarchy": [
+          "woe:state=12578020", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 20.163679104107416, 
         "ne:Shape_Area": 2.90702551344, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud558\uc774\ub09c"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1775, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u6d77\u5357"
         ], 
@@ -2723,6 +2728,9 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 108.61552046100053, 
+        "adjacent": [
+          "woe:state=12578019"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 19.159, 
         "ne:FIPS_1": "CH31", 
@@ -2730,9 +2738,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 18.169408067428435, 
-        "ne:VertexCou": 670.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1775, 
         "ne:Postal": "HA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Hain\u00e1n", 
@@ -2748,14 +2756,13 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 33840.8, 
         "woe:id": "12578020", 
-        "ne:HASC_1": "CN.HA", 
-        "lang": "CHI", 
+        "name": "\u6d77\u5357\u7701", 
+        "ne:VertexCou": 670.0, 
         "adjacent_woeid": [
           12578019
         ], 
-        "name": "\u6d77\u5357\u7701", 
+        "ne:HASC_1": "CN.HA", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 111.0349076676548, 
         "longitude": 109.828, 
         "iso": "CN", 

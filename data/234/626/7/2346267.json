@@ -32,13 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 20.848, 
-        "name": "Campeche", 
         "adjacent_woeid": [
           2345563, 
           2346286, 
           2346290, 
           2346294
+        ], 
+        "alias_ENG_A": [
+          "CM"
+        ], 
+        "name": "Campeche", 
+        "hierarchy": [
+          "woe:state=2346267", 
+          "woe:country=23424900", 
+          "woe:planet=1"
         ], 
         "woeid": 2346267, 
         "alias_SPA_V": [
@@ -46,20 +53,29 @@
         ], 
         "ne_longitude": -89.113, 
         "longitude": -89.958, 
-        "parent_woeid": 23424900, 
-        "placetype": "State", 
-        "iso": "MX", 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "CM"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 19.329, 
         "sw_longitude": -92.468, 
+        "sw_latitude": 17.809, 
+        "adjacent": [
+          "woe:state=2345563", 
+          "woe:state=2346286", 
+          "woe:state=2346290", 
+          "woe:state=2346294"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 20.848, 
+        "iso": "MX", 
         "fullname": "Campeche, Mexico", 
-        "sw_latitude": 17.809
+        "date_indexed": "2010-12-02T16:55:36Z"
       }, 
       "id": 2346267
     }
+  ], 
+  "bbox": [
+    -92.468, 
+    17.809, 
+    -89.113, 
+    20.848
   ]
 }

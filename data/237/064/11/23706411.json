@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 23706411, 
-        "name": "Sylhet", 
         "adjacent_woeid": [
           2344790, 
           2344791, 
@@ -41,14 +39,27 @@
           2345752, 
           2345759
         ], 
-        "ne_latitude": 25.204, 
+        "name": "Sylhet", 
+        "hierarchy": [
+          "woe:state=23706411", 
+          "woe:country=23424759", 
+          "woe:planet=1"
+        ], 
+        "woeid": 23706411, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 92.492, 
         "longitude": 91.745, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "BD", 
         "date_indexed": "2010-12-02T12:16:27Z", 
-        "parent_woeid": 23424759, 
+        "adjacent": [
+          "woe:state=2345741", 
+          "woe:state=2344790", 
+          "woe:state=2344791", 
+          "woe:state=2345752", 
+          "woe:state=2345759"
+        ], 
+        "ne_latitude": 25.204, 
         "latitude": 24.624, 
         "sw_longitude": 90.998, 
         "fullname": "Sylhet, Bangladesh", 
@@ -56,5 +67,11 @@
       }, 
       "id": 23706411
     }
+  ], 
+  "bbox": [
+    90.998, 
+    24.044, 
+    92.492, 
+    25.204
   ]
 }

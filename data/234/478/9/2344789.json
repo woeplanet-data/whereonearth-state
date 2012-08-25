@@ -15,11 +15,11 @@
               24.167
             ], 
             [
-              -73.250, 
+              -73.25, 
               24.167
             ], 
             [
-              -73.250, 
+              -73.25, 
               23.814
             ], 
             [
@@ -32,25 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344789, 
-        "name": "San Salvador", 
         "alias_ENG_V": [
           "S. Salvador"
         ], 
-        "ne_latitude": 24.167, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -73.250, 
+        "name": "San Salvador", 
+        "hierarchy": [
+          "woe:state=2344789", 
+          "woe:country=23424758", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344789, 
+        "ne_longitude": -73.25, 
         "longitude": -74.493, 
-        "placetype": "State", 
-        "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "parent_woeid": 23424758, 
+        "placetype": "state", 
         "latitude": 24.041, 
+        "iso": "BS", 
+        "sw_latitude": 23.814, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 24.167, 
         "sw_longitude": -75.134, 
         "fullname": "San Salvador, The Bahamas", 
-        "sw_latitude": 23.814
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 2344789
     }
+  ], 
+  "bbox": [
+    -75.134, 
+    23.814, 
+    -73.25, 
+    24.167
   ]
 }

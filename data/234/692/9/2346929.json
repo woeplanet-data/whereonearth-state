@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346929, 
-        "name": "Tulrskaya Oblast", 
         "adjacent_woeid": [
           2346899, 
           2346908, 
@@ -41,20 +39,39 @@
           2346917, 
           2346922
         ], 
-        "ne_latitude": 54.849, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tulrskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346929", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346929, 
         "ne_longitude": 38.928, 
         "longitude": 37.423, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 53.927, 
+        "iso": "RU", 
+        "sw_latitude": 53.005, 
+        "adjacent": [
+          "woe:state=2346899", 
+          "woe:state=2346908", 
+          "woe:state=2346911", 
+          "woe:state=2346917", 
+          "woe:state=2346922"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 54.849, 
         "sw_longitude": 35.918, 
         "fullname": "Tulrskaya Oblast, Russia", 
-        "sw_latitude": 53.005
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346929
     }
+  ], 
+  "bbox": [
+    35.918, 
+    53.005, 
+    38.928, 
+    54.849
   ]
 }

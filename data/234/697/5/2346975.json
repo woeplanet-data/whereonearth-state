@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346975, 
-        "name": "Saint Thomas Lowland", 
         "adjacent_woeid": [
           2346967, 
           2346968, 
           2346970, 
           2346973
         ], 
-        "ne_latitude": 17.201, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint Thomas Lowland", 
         "alias_ENG_V": [
           "St. Thomas Lowland"
         ], 
+        "hierarchy": [
+          "woe:state=2346975", 
+          "woe:country=23424940", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346975, 
         "ne_longitude": -62.592, 
         "longitude": -62.612, 
-        "placetype": "State", 
-        "iso": "KN", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "parent_woeid": 23424940, 
+        "placetype": "state", 
         "latitude": 17.175, 
+        "iso": "KN", 
+        "sw_latitude": 17.149, 
+        "adjacent": [
+          "woe:state=2346967", 
+          "woe:state=2346968", 
+          "woe:state=2346970", 
+          "woe:state=2346973"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.201, 
         "sw_longitude": -62.633, 
         "fullname": "Saint Thomas Lowland, Saint Kitts and Nevis", 
-        "sw_latitude": 17.149
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2346975
     }
+  ], 
+  "bbox": [
+    -62.633, 
+    17.149, 
+    -62.592, 
+    17.201
   ]
 }

@@ -8,7 +8,7 @@
           [
             [
               -104.058, 
-              42.480
+              42.48
             ], 
             [
               -104.058, 
@@ -20,11 +20,11 @@
             ], 
             [
               -96.436, 
-              42.480
+              42.48
             ], 
             [
               -104.058, 
-              42.480
+              42.48
             ]
           ]
         ]
@@ -34,16 +34,21 @@
         "alias_ENG_V": [
           "Mount Rushmore State"
         ], 
-        "alias_KOR_Q": [
-          "\uc0ac\uc6b0\uc2a4\ub2e4\ucf54\ud0c0"
+        "alias_ENG_A": [
+          "SD"
+        ], 
+        "hierarchy": [
+          "woe:state=2347600", 
+          "woe:country=23424977", 
+          "woe:planet=1"
         ], 
         "ne_latitude": 45.945, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Dakota do Sul"
         ], 
-        "alias_ENG_A": [
-          "SD"
+        "alias_KOR_Q": [
+          "\uc0ac\uc6b0\uc2a4\ub2e4\ucf54\ud0c0"
         ], 
         "alias_CHI_Q": [
           "\u5357\u8fbe\u79d1\u4ed6"
@@ -65,6 +70,14 @@
           "Etela-Dakotan"
         ], 
         "sw_longitude": -104.058, 
+        "adjacent": [
+          "woe:state=2347574", 
+          "woe:state=2347582", 
+          "woe:state=2347585", 
+          "woe:state=2347586", 
+          "woe:state=2347593", 
+          "woe:state=2347609"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 44.213, 
         "alias_NOR_S": [
@@ -90,11 +103,10 @@
           2347609
         ], 
         "name": "South Dakota", 
-        "parent_woeid": 23424977, 
         "ne_longitude": -96.436, 
         "longitude": -100.247, 
         "iso": "US", 
-        "sw_latitude": 42.480, 
+        "sw_latitude": 42.48, 
         "alias_FRE_V": [
           "Dakota-du-Sud"
         ], 
@@ -105,5 +117,11 @@
       }, 
       "id": 2347600
     }
+  ], 
+  "bbox": [
+    -104.058, 
+    42.48, 
+    -96.436, 
+    45.945
   ]
 }

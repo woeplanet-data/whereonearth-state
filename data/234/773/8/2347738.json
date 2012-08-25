@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347738, 
-        "name": "Khanh Hoa", 
         "adjacent_woeid": [
           2347709, 
           2347720, 
           2347744, 
           2347745
         ], 
-        "ne_latitude": 12.899, 
+        "name": "Khanh Hoa", 
+        "hierarchy": [
+          "woe:state=2347738", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347738, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 109.467, 
         "longitude": 109.077, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347720", 
+          "woe:state=2347709", 
+          "woe:state=2347744", 
+          "woe:state=2347745"
+        ], 
+        "ne_latitude": 12.899, 
         "latitude": 12.349, 
         "sw_longitude": 108.689, 
         "fullname": "Khanh Hoa, Vietnam", 
@@ -55,5 +65,11 @@
       }, 
       "id": 2347738
     }
+  ], 
+  "bbox": [
+    108.689, 
+    11.798, 
+    109.467, 
+    12.899
   ]
 }

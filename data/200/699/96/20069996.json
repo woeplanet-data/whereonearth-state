@@ -8,7 +8,7 @@
           [
             [
               27.482, 
-              53.850
+              53.85
             ], 
             [
               27.482, 
@@ -20,11 +20,11 @@
             ], 
             [
               27.687, 
-              53.850
+              53.85
             ], 
             [
               27.482, 
-              53.850
+              53.85
             ]
           ]
         ]
@@ -32,34 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20069996, 
-        "name": "Minsk", 
         "adjacent_woeid": [
           2344834
         ], 
         "ne_latitude": 53.956, 
+        "name": "Minsk", 
+        "adjacent": [
+          "woe:state=2344834"
+        ], 
+        "hierarchy": [
+          "woe:state=20069996", 
+          "woe:country=23424765", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069996, 
         "alias_JPN_Q": [
           "\u30df\u30f3\u30b9\u30af"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 27.687, 
         "longitude": 27.585, 
         "alias_CHI_Q": [
           "\u660e\u601d\u514b"
         ], 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "BY", 
-        "date_indexed": "2010-12-02T16:32:52Z", 
+        "sw_latitude": 53.85, 
         "alias_KOR_Q": [
           "\ubbfc\uc2a4\ud06c"
         ], 
-        "parent_woeid": 23424765, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 53.903, 
         "sw_longitude": 27.482, 
         "fullname": "Minsk, Belarus", 
-        "sw_latitude": 53.850
+        "date_indexed": "2010-12-02T16:32:52Z"
       }, 
       "id": 20069996
     }
+  ], 
+  "bbox": [
+    27.482, 
+    53.85, 
+    27.687, 
+    53.956
   ]
 }

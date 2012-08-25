@@ -1185,11 +1185,16 @@
         "alias_ENG_P": [
           "Mie Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345872", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.231906642977265, 
         "ne:Shape_Area": 0.575567688079, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ubbf8\uc5d0\ucf04"
         ], 
@@ -1199,7 +1204,7 @@
         "alias_CHI_Q": [
           "\u4e09\u91cd\u53bf"
         ], 
-        "ne:OBJECTID": 1843, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u4e09\u91cd"
         ], 
@@ -1209,6 +1214,14 @@
           "Mien Prefektuuri"
         ], 
         "sw_longitude": 135.8465198100413, 
+        "adjacent": [
+          "woe:state=2345871", 
+          "woe:state=2345892", 
+          "woe:state=2345877", 
+          "woe:state=2345859", 
+          "woe:state=2345851", 
+          "woe:state=2345884"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 34.49, 
         "ne:FIPS_1": "JA23", 
@@ -1218,9 +1231,9 @@
         "ne:FIRST_HASC": "JP.MZ", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 290.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1843, 
         "ne:Postal": "ME", 
         "ne:Region_Cod": "JPN-CHB", 
         "ne:VARNAME_1": "Miye", 
@@ -1239,8 +1252,8 @@
           "Pr\u00e4fektur Mie"
         ], 
         "woe:id": "2345872", 
-        "ne:HASC_1": "JP.ME", 
-        "lang": "JPN", 
+        "name": "\u4e09\u91cd\u770c", 
+        "ne:VertexCou": 290.0, 
         "adjacent_woeid": [
           2345851, 
           2345859, 
@@ -1250,9 +1263,8 @@
           2345892
         ], 
         "ne:FIRST_FIPS": "JA25", 
-        "name": "\u4e09\u91cd\u770c", 
+        "ne:HASC_1": "JP.ME", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 136.92609215722734, 
         "longitude": 136.391, 
         "iso": "JP", 

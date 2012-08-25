@@ -8,7 +8,7 @@
           [
             [
               20.899, 
-              41.480
+              41.48
             ], 
             [
               20.899, 
@@ -20,11 +20,11 @@
             ], 
             [
               21.004, 
-              41.480
+              41.48
             ], 
             [
               20.899, 
-              41.480
+              41.48
             ]
           ]
         ]
@@ -32,9 +32,11 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550775, 
-        "alias_UNK_V": [
-          "Opstina Ki\u010devo"
+        "adjacent_woeid": [
+          24550764, 
+          24550795, 
+          24550818, 
+          24550864
         ], 
         "name": "Ki\u010devo", 
         "alias_ENG_P": [
@@ -43,26 +45,40 @@
         "alias_UNK_S": [
           "Opstina Kicevo"
         ], 
-        "ne_latitude": 41.562, 
-        "ne_longitude": 21.004, 
+        "woeid": 24550775, 
+        "alias_UNK_V": [
+          "Opstina Ki\u010devo"
+        ], 
         "longitude": 20.952, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          24550764, 
-          24550795, 
-          24550818, 
-          24550864
+        "ne_longitude": 21.004, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=24550775", 
+          "woe:country=23424890", 
+          "woe:planet=1"
         ], 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.48, 
+        "adjacent": [
+          "woe:state=24550764", 
+          "woe:state=24550795", 
+          "woe:state=24550818", 
+          "woe:state=24550864"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.521, 
+        "ne_latitude": 41.562, 
         "sw_longitude": 20.899, 
+        "latitude": 41.521, 
         "fullname": "Ki\u010devo, Kicevo Municipality, Macedonia", 
-        "sw_latitude": 41.480
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550775
     }
+  ], 
+  "bbox": [
+    20.899, 
+    41.48, 
+    21.004, 
+    41.562
   ]
 }

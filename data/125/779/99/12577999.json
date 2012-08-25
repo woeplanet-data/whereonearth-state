@@ -6052,17 +6052,22 @@
         "alias_ENG_P": [
           "Henan"
         ], 
+        "hierarchy": [
+          "woe:state=12577999", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.365299994499196, 
         "ne:Shape_Area": 16.1943410447, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud5c8\ub09c\uc131"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1812, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u6cb3\u5357"
         ], 
@@ -6075,6 +6080,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 110.32766401578175, 
+        "adjacent": [
+          "woe:state=12578022", 
+          "woe:state=12578014", 
+          "woe:state=12578013", 
+          "woe:state=12578000", 
+          "woe:state=12578002", 
+          "woe:state=12578015"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 33.848, 
         "ne:FIPS_1": "CH09", 
@@ -6082,9 +6095,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 31.395138250929563, 
-        "ne:VertexCou": 1508.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1812, 
         "ne:Postal": "HE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "H\u00e9n\u00e1n", 
@@ -6100,8 +6113,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 166146.9, 
         "woe:id": "12577999", 
-        "ne:HASC_1": "CN.HE", 
-        "lang": "CHI", 
+        "name": "\u6cb3\u5357\u7701", 
+        "ne:VertexCou": 1508.0, 
         "adjacent_woeid": [
           12578000, 
           12578002, 
@@ -6110,9 +6123,8 @@
           12578015, 
           12578022
         ], 
-        "name": "\u6cb3\u5357\u7701", 
+        "ne:HASC_1": "CN.HE", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 116.64118045471423, 
         "longitude": 113.448, 
         "iso": "CN", 

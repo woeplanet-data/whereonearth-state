@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070204, 
-        "name": "Geghark'unik'", 
         "adjacent_woeid": [
           20070202, 
           20070205, 
@@ -44,20 +42,42 @@
           20070248, 
           20070273
         ], 
-        "ne_latitude": 40.766, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Geghark'unik'", 
+        "hierarchy": [
+          "woe:state=20070204", 
+          "woe:country=23424743", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070204, 
         "ne_longitude": 45.977, 
         "longitude": 45.403, 
-        "placetype": "State", 
-        "iso": "AM", 
-        "date_indexed": "2010-12-02T12:16:10Z", 
-        "parent_woeid": 23424743, 
+        "placetype": "state", 
         "latitude": 40.356, 
+        "iso": "AM", 
+        "sw_latitude": 39.947, 
+        "adjacent": [
+          "woe:state=20070211", 
+          "woe:state=20070222", 
+          "woe:state=20070230", 
+          "woe:state=20070273", 
+          "woe:state=20070208", 
+          "woe:state=20070202", 
+          "woe:state=20070248", 
+          "woe:state=20070205"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.766, 
         "sw_longitude": 44.828, 
         "fullname": "Geghark'unik', Armenia", 
-        "sw_latitude": 39.947
+        "date_indexed": "2010-12-02T12:16:10Z"
       }, 
       "id": 20070204
     }
+  ], 
+  "bbox": [
+    44.828, 
+    39.947, 
+    45.977, 
+    40.766
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20069871, 
-        "name": "Edinet", 
         "adjacent_woeid": [
           2346621, 
           55948180, 
@@ -41,20 +39,39 @@
           55948195, 
           55948197
         ], 
-        "ne_latitude": 48.349, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Edinet", 
+        "hierarchy": [
+          "woe:state=20069871", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069871, 
         "ne_longitude": 27.536, 
-        "longitude": 27.280, 
-        "placetype": "State", 
-        "iso": "MD", 
-        "date_indexed": "2010-12-02T17:57:50Z", 
-        "parent_woeid": 23424885, 
+        "longitude": 27.28, 
+        "placetype": "state", 
         "latitude": 48.146, 
+        "iso": "MD", 
+        "sw_latitude": 47.942, 
+        "adjacent": [
+          "woe:state=2346621", 
+          "woe:state=55948180", 
+          "woe:state=55948186", 
+          "woe:state=55948195", 
+          "woe:state=55948197"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 48.349, 
         "sw_longitude": 27.023, 
         "fullname": "Edinet, Moldova", 
-        "sw_latitude": 47.942
+        "date_indexed": "2010-12-02T17:57:50Z"
       }, 
       "id": 20069871
     }
+  ], 
+  "bbox": [
+    27.023, 
+    47.942, 
+    27.536, 
+    48.349
   ]
 }

@@ -31,44 +31,60 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "CHI", 
-        "woeid": 12577996, 
-        "name": "\u9752\u6d77\u7701", 
         "alias_ENG_P": [
           "Qinghai"
         ], 
+        "hierarchy": [
+          "woe:state=12577996", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 39.133, 
-        "alias_JPN_Q": [
-          "\u3061\u3093\u306f\u3044"
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\uce6d\ud558\uc774"
         ], 
         "alias_CHI_V": [
           "\u9752\u6d77"
         ], 
+        "woeid": 12577996, 
+        "alias_JPN_Q": [
+          "\u3061\u3093\u306f\u3044"
+        ], 
         "alias_JPN_V": [
           "\u9752\u6d77"
         ], 
-        "ne_longitude": 103.016, 
-        "longitude": 96.220, 
-        "parent_woeid": 23424781, 
-        "placetype": "State", 
+        "sw_longitude": 89.424, 
+        "adjacent": [
+          "woe:state=12578016", 
+          "woe:state=12578003", 
+          "woe:state=12578005", 
+          "woe:state=12578004"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 35.382, 
+        "sw_latitude": 31.631, 
+        "lang": "CHI", 
         "adjacent_woeid": [
           12578003, 
           12578004, 
           12578005, 
           12578016
         ], 
+        "name": "\u9752\u6d77\u7701", 
+        "ne_longitude": 103.016, 
+        "longitude": 96.22, 
         "iso": "CN", 
         "date_indexed": "2010-12-02T08:51:01Z", 
-        "alias_KOR_Q": [
-          "\uce6d\ud558\uc774"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 35.382, 
-        "sw_longitude": 89.424, 
-        "fullname": "\u9752\u6d77\u7701, Qinghai, China", 
-        "sw_latitude": 31.631
+        "fullname": "\u9752\u6d77\u7701, Qinghai, China"
       }, 
       "id": 12577996
     }
+  ], 
+  "bbox": [
+    89.424, 
+    31.631, 
+    103.016, 
+    39.133
   ]
 }

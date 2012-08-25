@@ -2127,9 +2127,14 @@
       "properties": {
         "ne:ProvNumber": 1, 
         "ne:ScaleRank": 6, 
+        "hierarchy": [
+          "woe:state=24549683", 
+          "woe:country=23424806", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 18.00492198336292, 
         "ne:Shape_Area": 2.78500627422, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -2141,6 +2146,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 37.985929803217914, 
+        "adjacent": [
+          "woe:state=24549681", 
+          "woe:state=24549682", 
+          "woe:state=24549686", 
+          "woe:state=2345312"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 14.841, 
         "ne:FIPS_1": "ER06", 
@@ -2176,7 +2187,6 @@
         ], 
         "name": "Debub", 
         "ne:REMARKS_1": "Old Provinces: Akele Guzai, Seraye", 
-        "parent_woeid": 23424806, 
         "ne_longitude": 40.59543460502306, 
         "longitude": 38.981, 
         "iso": "ER", 

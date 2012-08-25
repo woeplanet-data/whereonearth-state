@@ -15,11 +15,11 @@
               26.749
             ], 
             [
-              25.000, 
+              25.0, 
               26.749
             ], 
             [
-              25.000, 
+              25.0, 
               19.508
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2346123, 
-        "name": "Al Kufrah", 
         "adjacent_woeid": [
           2346122, 
           2346125, 
@@ -41,20 +39,39 @@
           20069895, 
           20069999
         ], 
-        "ne_latitude": 26.749, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 25.000, 
+        "name": "Al Kufrah", 
+        "hierarchy": [
+          "woe:state=2346123", 
+          "woe:country=23424882", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346123, 
+        "ne_longitude": 25.0, 
         "longitude": 22.087, 
-        "placetype": "State", 
-        "iso": "LY", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424882, 
+        "placetype": "state", 
         "latitude": 23.129, 
+        "iso": "LY", 
+        "sw_latitude": 19.508, 
+        "adjacent": [
+          "woe:state=2346130", 
+          "woe:state=2346122", 
+          "woe:state=20069999", 
+          "woe:state=2346125", 
+          "woe:state=20069895"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 26.749, 
         "sw_longitude": 19.175, 
         "fullname": "Al Kufrah, Libya", 
-        "sw_latitude": 19.508
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 2346123
     }
+  ], 
+  "bbox": [
+    19.175, 
+    19.508, 
+    25.0, 
+    26.749
   ]
 }

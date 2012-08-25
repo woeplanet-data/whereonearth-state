@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24550720, 
-        "name": "Sarur", 
         "adjacent_woeid": [
           2345767, 
           20070205, 
           20070211, 
           20070275
         ], 
-        "ne_latitude": 39.786, 
+        "name": "Sarur", 
+        "hierarchy": [
+          "woe:state=24550720", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550720, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.311, 
         "longitude": 45.042, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AZ", 
         "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "adjacent": [
+          "woe:state=20070211", 
+          "woe:state=2345767", 
+          "woe:state=20070275", 
+          "woe:state=20070205"
+        ], 
+        "ne_latitude": 39.786, 
         "latitude": 39.537, 
         "sw_longitude": 44.772, 
         "fullname": "Sarur, Azerbaijan", 
@@ -55,5 +65,11 @@
       }, 
       "id": 24550720
     }
+  ], 
+  "bbox": [
+    44.772, 
+    39.288, 
+    45.311, 
+    39.786
   ]
 }

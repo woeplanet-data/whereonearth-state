@@ -3284,9 +3284,14 @@
           "Mashonaland West Province"
         ], 
         "ne:ScaleRank": 5, 
+        "hierarchy": [
+          "woe:state=2347814", 
+          "woe:country=23425004", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -15.614653822515834, 
         "ne:Shape_Area": 4.87005876742, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
@@ -3295,6 +3300,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 28.022868686640606, 
+        "adjacent": [
+          "woe:state=24550731", 
+          "woe:state=2347809", 
+          "woe:state=2347812", 
+          "woe:state=2347813", 
+          "woe:state=2347815", 
+          "woe:state=2347811", 
+          "woe:state=2347804"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -17.252, 
         "ne:FIPS_1": "ZI05", 
@@ -3333,7 +3347,6 @@
         ], 
         "name": "Mashonaland West", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23425004, 
         "ne_longitude": 30.982067905309634, 
         "longitude": 29.505, 
         "iso": "ZW", 

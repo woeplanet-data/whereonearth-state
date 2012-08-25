@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "GER", 
-        "woeid": 20070538, 
-        "name": "Mauren", 
         "adjacent_woeid": [
           2344715, 
           20070537, 
           20070541
         ], 
-        "ne_latitude": 47.232, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mauren", 
+        "hierarchy": [
+          "woe:state=20070538", 
+          "woe:country=23424879", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070538, 
         "ne_longitude": 9.585, 
         "longitude": 9.557, 
-        "placetype": "State", 
-        "iso": "LI", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
-        "parent_woeid": 23424879, 
+        "placetype": "state", 
         "latitude": 47.213, 
+        "iso": "LI", 
+        "sw_latitude": 47.195, 
+        "adjacent": [
+          "woe:state=20070537", 
+          "woe:state=20070541", 
+          "woe:state=2344715"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 47.232, 
         "sw_longitude": 9.529, 
         "fullname": "Mauren, Liechtenstein", 
-        "sw_latitude": 47.195
+        "date_indexed": "2010-12-02T08:51:00Z"
       }, 
       "id": 20070538
     }
+  ], 
+  "bbox": [
+    9.529, 
+    47.195, 
+    9.585, 
+    47.232
   ]
 }

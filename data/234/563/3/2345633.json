@@ -12,11 +12,11 @@
             ], 
             [
               -87.019, 
-              16.510
+              16.51
             ], 
             [
               -85.843, 
-              16.510
+              16.51
             ], 
             [
               -85.843, 
@@ -32,25 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345633, 
+        "ne_latitude": 16.51, 
         "name": "Islas de la Bah\u00eda", 
-        "ne_latitude": 16.510, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=2345633", 
+          "woe:country=23424841", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345633, 
         "ne_longitude": -85.843, 
         "longitude": -86.516, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_SPA_S": [
           "Islas de la Bahia"
         ], 
         "iso": "HN", 
-        "date_indexed": "2010-12-02T19:20:59Z", 
-        "parent_woeid": 23424841, 
+        "sw_latitude": 15.933, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 16.356, 
         "sw_longitude": -87.019, 
         "fullname": "Islas de la Bah\u00eda, Honduras", 
-        "sw_latitude": 15.933
+        "date_indexed": "2010-12-02T19:20:59Z"
       }, 
       "id": 2345633
     }
+  ], 
+  "bbox": [
+    -87.019, 
+    15.933, 
+    -85.843, 
+    16.51
   ]
 }

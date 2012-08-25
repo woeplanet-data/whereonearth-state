@@ -5229,21 +5229,23 @@
         "alias_ENG_V": [
           "Notio Aigaio"
         ], 
-        "alias_POL_S": [
-          "Wyspy Egejskie Poludniowe"
-        ], 
+        "ne:ScaleRank": 6, 
         "alias_POL_Q": [
           "Wyspy Egejskie Po\u0142udniowe"
         ], 
+        "hierarchy": [
+          "woe:state=12577886", 
+          "woe:country=23424833", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 38.00021312103877, 
-        "ne:ScaleRank": 6, 
         "alias_RUM_Q": [
           "Egeea de Sud"
         ], 
         "ne:Shape_Area": 0.508304087967, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1913", 
         "alias_POR_Q": [
           "Egeu Meridional"
         ], 
@@ -5251,22 +5253,22 @@
           "\ub0a8\ubd80 \uc5d0\uac8c \uc8fc"
         ], 
         "ne:gadm_level": 1.0, 
-        "alias_ARA_Q": [
-          "\u062c\u0646\u0648\u0628 \u0625\u064a\u062c\u0629"
-        ], 
+        "ne:ADM0_A3": "GRC", 
         "alias_SWE_Q": [
           "S\u00f6dra Egeiska \u00d6arna"
         ], 
         "alias_CHI_Q": [
           "\u5357\u611b\u7434"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Egeo Meridional"
+        ], 
         "alias_ITA_Q": [
           "Egeo Meridionale"
         ], 
-        "ne:OBJECTID": 3013, 
-        "alias_CZE_Q": [
-          "Ji\u017en\u00ed Egeis"
+        "ne:DataRank": 6, 
+        "alias_ARA_Q": [
+          "\u062c\u0646\u0648\u0628 \u0625\u064a\u062c\u0629"
         ], 
         "alias_JPN_Q": [
           "\u5357\u30a8\u30fc\u30b2"
@@ -5276,9 +5278,7 @@
         ], 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Egeo Meridional"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Etel\u00e4-Egean Saaret"
         ], 
@@ -5298,14 +5298,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "ne:VertexCou": 1232.0, 
-        "ne:VALIDFR_1": "1913", 
-        "ne:DataRank": 6, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 3013, 
         "ne:Postal": "AS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Aegean South", 
         "ne:ISO": "GRC", 
-        "ne:TYPE_1": "Diamerismata", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 19.7361334434, 
         "alias_DUT_Q": [
@@ -5316,9 +5316,14 @@
           "Zuid-Egeische Eilanden"
         ], 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Diamerismata", 
         "ne:LabelRank": 6, 
-        "ne:ADM0_A3": "GRC", 
+        "alias_FRE_S": [
+          "Egee-Meridionale"
+        ], 
+        "alias_POL_S": [
+          "Wyspy Egejskie Poludniowe"
+        ], 
         "ne:Area_sqkm": 5038.2, 
         "alias_GER_Q": [
           "S\u00fcdliche \u00c4g\u00e4is"
@@ -5327,19 +5332,21 @@
         "alias_GER_S": [
           "Suedliche Aegaeis"
         ], 
-        "ne:HASC_1": "GR.AS", 
-        "lang": "ENG", 
+        "name": "South Aegean", 
+        "ne:VertexCou": 1232.0, 
         "ne:NL_NAME_1": "??t??? ???a???", 
         "ne:FIRST_FIPS": null, 
-        "name": "South Aegean", 
+        "ne:HASC_1": "GR.AS", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "alias_UNK_S": [
           "Gueney Ege"
         ], 
-        "parent_woeid": 23424833, 
-        "alias_UNK_Q": [
-          "Salatan Nga Aegeo"
+        "alias_HUN_S": [
+          "Del-Egei-Szigetek"
+        ], 
+        "alias_CZE_Q": [
+          "Ji\u017en\u00ed Egeis"
         ], 
         "alias_HUN_Q": [
           "D\u00e9l-\u00c9gei-Szigetek"
@@ -5350,16 +5357,13 @@
         "ne:NAME_1": "Notio Aigaio", 
         "iso": "GR", 
         "sw_latitude": 35.3493154977121, 
-        "alias_HUN_S": [
-          "Del-Egei-Szigetek"
-        ], 
         "alias_CZE_S": [
           "Jizni Egeis"
         ], 
         "fullname": "South Aegean, Notio Aigaio, Greece", 
         "ne:Region": null, 
-        "alias_FRE_S": [
-          "Egee-Meridionale"
+        "alias_UNK_Q": [
+          "Salatan Nga Aegeo"
         ], 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [

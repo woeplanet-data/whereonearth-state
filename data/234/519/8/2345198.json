@@ -8,23 +8,23 @@
           [
             [
               -70.907, 
-              18.660
+              18.66
             ], 
             [
               -70.907, 
               19.376
             ], 
             [
-              -70.350, 
+              -70.35, 
               19.376
             ], 
             [
-              -70.350, 
-              18.660
+              -70.35, 
+              18.66
             ], 
             [
               -70.907, 
-              18.660
+              18.66
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 19.376, 
-        "name": "La Vega", 
         "adjacent_woeid": [
           2345172, 
           2345177, 
@@ -44,26 +42,48 @@
           2345199, 
           28358195
         ], 
+        "name": "La Vega", 
+        "hierarchy": [
+          "woe:state=2345198", 
+          "woe:country=23424800", 
+          "woe:planet=1"
+        ], 
         "woeid": 2345198, 
         "alias_SPA_V": [
           "Concepcion"
         ], 
-        "ne_longitude": -70.350, 
+        "ne_longitude": -70.35, 
         "longitude": -70.628, 
-        "parent_woeid": 23424800, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 19.018, 
         "alias_SPA_S": [
           "Concepcion de la Vega"
         ], 
-        "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 19.018, 
         "sw_longitude": -70.907, 
+        "sw_latitude": 18.66, 
+        "adjacent": [
+          "woe:state=2345172", 
+          "woe:state=2345177", 
+          "woe:state=2345178", 
+          "woe:state=2345199", 
+          "woe:state=2345188", 
+          "woe:state=28358195", 
+          "woe:state=2345191", 
+          "woe:state=2345193"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.376, 
+        "iso": "DO", 
         "fullname": "La Vega, Dominican Republic", 
-        "sw_latitude": 18.660
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345198
     }
+  ], 
+  "bbox": [
+    -70.907, 
+    18.66, 
+    -70.35, 
+    19.376
   ]
 }

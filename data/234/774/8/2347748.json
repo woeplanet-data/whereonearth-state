@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347748, 
-        "name": "Soc Trang", 
         "adjacent_woeid": [
           2347750, 
           2347752, 
           20070081, 
           28301720
         ], 
-        "ne_latitude": 9.939, 
+        "name": "Soc Trang", 
+        "hierarchy": [
+          "woe:state=2347748", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347748, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.293, 
         "longitude": 105.903, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=20070081", 
+          "woe:state=28301720", 
+          "woe:state=2347750", 
+          "woe:state=2347752"
+        ], 
+        "ne_latitude": 9.939, 
         "latitude": 9.606, 
         "sw_longitude": 105.514, 
         "fullname": "Soc Trang, Vietnam", 
@@ -55,5 +65,11 @@
       }, 
       "id": 2347748
     }
+  ], 
+  "bbox": [
+    105.514, 
+    9.274, 
+    106.293, 
+    9.939
   ]
 }

@@ -8,7 +8,7 @@
           [
             [
               -2.735, 
-              12.600
+              12.6
             ], 
             [
               -2.735, 
@@ -20,11 +20,11 @@
             ], 
             [
               -1.547, 
-              12.600
+              12.6
             ], 
             [
               -2.735, 
-              12.600
+              12.6
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2347629, 
-        "name": "Passore", 
         "adjacent_woeid": [
           2347610, 
           2347614, 
@@ -46,20 +44,44 @@
           55967363, 
           55967365
         ], 
-        "ne_latitude": 13.149, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Passore", 
+        "hierarchy": [
+          "woe:state=2347629", 
+          "woe:country=23424978", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347629, 
         "ne_longitude": -1.547, 
         "longitude": -2.141, 
-        "placetype": "State", 
-        "iso": "BF", 
-        "date_indexed": "2010-12-02T09:36:17Z", 
-        "parent_woeid": 23424978, 
+        "placetype": "state", 
         "latitude": 12.875, 
+        "iso": "BF", 
+        "sw_latitude": 12.6, 
+        "adjacent": [
+          "woe:state=2347610", 
+          "woe:state=2347614", 
+          "woe:state=55967365", 
+          "woe:state=55967361", 
+          "woe:state=2347627", 
+          "woe:state=2347631", 
+          "woe:state=2347632", 
+          "woe:state=2347636", 
+          "woe:state=2347638", 
+          "woe:state=55967363"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.149, 
         "sw_longitude": -2.735, 
         "fullname": "Passore, Burkina Faso", 
-        "sw_latitude": 12.600
+        "date_indexed": "2010-12-02T09:36:17Z"
       }, 
       "id": 2347629
     }
+  ], 
+  "bbox": [
+    -2.735, 
+    12.6, 
+    -1.547, 
+    13.149
   ]
 }

@@ -887,11 +887,16 @@
         "alias_ENG_P": [
           "Greater Poland"
         ], 
+        "hierarchy": [
+          "woe:state=12577949", 
+          "woe:country=23424923", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 53.59520437238393, 
         "ne:Shape_Area": 3.89912024133, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19980727", 
         "alias_POR_Q": [
           "Grande Pol\u00f3nia"
         ], 
@@ -904,21 +909,30 @@
         "alias_ITA_S": [
           "Grande Polonia"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Gran Polonia"
+        ], 
         "alias_ITA_Q": [
           "Grande Pol\u00f3nia"
         ], 
         "ne:sameAsCity": -99, 
-        "ne:OBJECTID": 3144, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30f4\u30a3\u30a8\u30eb\u30b3\u30dd\u30eb\u30b9\u30ab\u770c"
         ], 
         "fullname": "Wielkopolskie, Greater Poland, Poland", 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Gran Polonia"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "sw_longitude": 15.825732048994894, 
+        "adjacent": [
+          "woe:state=12577935", 
+          "woe:state=12577936", 
+          "woe:state=12577939", 
+          "woe:state=12577942", 
+          "woe:state=12577945", 
+          "woe:state=12577950", 
+          "woe:state=12577937"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.38, 
         "ne:FIPS_1": "PL34", 
@@ -928,14 +942,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "ne:VertexCou": 215.0, 
-        "ne:VALIDFR_1": "19980727", 
-        "ne:DataRank": 5, 
+        "lang": "POL", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3144, 
         "ne:Postal": "WP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Wielkopolskie", 
         "ne:ISO": "POL", 
-        "ne:TYPE_1": "Wojew\u00f3dztwo", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 11.3349961961, 
         "alias_DUT_Q": [
@@ -944,7 +958,7 @@
         "ne:NAME_0": "Poland", 
         "ne:NAME_1": "Greater Poland", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne:LabelRank": 5, 
         "ne:Area_sqkm": 29607.2, 
         "alias_GER_Q": [
@@ -954,8 +968,8 @@
         "alias_GER_S": [
           "Grosspolen"
         ], 
-        "ne:HASC_1": "PL.WP", 
-        "lang": "POL", 
+        "name": "Wielkopolskie", 
+        "ne:VertexCou": 215.0, 
         "adjacent_woeid": [
           12577935, 
           12577936, 
@@ -966,10 +980,9 @@
           12577950
         ], 
         "ne:FIRST_FIPS": "PL42|PL86", 
-        "name": "Wielkopolskie", 
+        "ne:HASC_1": "PL.WP", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
-        "parent_woeid": 23424923, 
         "ne_longitude": 19.07855675638922, 
         "longitude": 17.441, 
         "iso": "PL", 

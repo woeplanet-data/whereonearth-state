@@ -3193,11 +3193,16 @@
       "properties": {
         "ne:ProvNumber": 2006, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=2345756", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 32.51674937568322, 
         "ne:Shape_Area": 4.75175972674, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "PU"
         ], 
@@ -3209,13 +3214,21 @@
         "alias_CHI_Q": [
           "\u65c1\u906e\u666e"
         ], 
-        "ne:OBJECTID": 3249, 
+        "ne:DataRank": 2, 
         "alias_JPN_Q": [
           "\u30d1\u30f3\u30b8\u30e3\u30d6"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 73.84193240765455, 
+        "adjacent": [
+          "woe:state=20070456", 
+          "woe:state=2345744", 
+          "woe:state=2345745", 
+          "woe:state=2345746", 
+          "woe:state=2346498", 
+          "woe:state=2345757"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 31.024, 
         "ne:FIPS_1": "IN23", 
@@ -3223,12 +3236,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 29.55982392013783, 
-        "ne:VertexCou": 748.0, 
+        "lang": "ENG", 
         "alias_KOR_Q": [
           "\ud380\uc790\ube0c"
         ], 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 2, 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3249, 
         "ne:Postal": "PB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -3244,8 +3257,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 50389.1, 
         "woe:id": "2345756", 
-        "ne:HASC_1": "IN.PB", 
-        "lang": "ENG", 
+        "name": "Punjab", 
+        "ne:VertexCou": 748.0, 
         "adjacent_woeid": [
           2345744, 
           2345745, 
@@ -3254,9 +3267,8 @@
           2346498, 
           20070456
         ], 
-        "name": "Punjab", 
+        "ne:HASC_1": "IN.PB", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 76.91037560455055, 
         "longitude": 75.405, 
         "iso": "IN", 

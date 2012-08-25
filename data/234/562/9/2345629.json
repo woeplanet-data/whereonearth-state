@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345629, 
-        "name": "El Para\u00edso", 
         "adjacent_woeid": [
           2345624, 
           2345630, 
@@ -41,23 +39,42 @@
           2346423, 
           2346429
         ], 
-        "ne_latitude": 14.422, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "El Para\u00edso", 
+        "hierarchy": [
+          "woe:state=2345629", 
+          "woe:country=23424841", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345629, 
         "ne_longitude": -85.571, 
         "longitude": -86.397, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 13.959, 
         "alias_SPA_S": [
           "El Paraiso"
         ], 
         "iso": "HN", 
-        "date_indexed": "2010-12-02T19:20:59Z", 
-        "parent_woeid": 23424841, 
-        "latitude": 13.959, 
+        "sw_latitude": 13.497, 
+        "adjacent": [
+          "woe:state=2345624", 
+          "woe:state=2345630", 
+          "woe:state=2346423", 
+          "woe:state=2346429", 
+          "woe:state=2345637"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.422, 
         "sw_longitude": -87.223, 
         "fullname": "El Para\u00edso, Honduras", 
-        "sw_latitude": 13.497
+        "date_indexed": "2010-12-02T19:20:59Z"
       }, 
       "id": 2345629
     }
+  ], 
+  "bbox": [
+    -87.223, 
+    13.497, 
+    -85.571, 
+    14.422
   ]
 }

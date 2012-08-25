@@ -135,11 +135,16 @@
         "alias_KOR_Q": [
           "\uba54\ud2b8\ub85c\ub9c8\ub2d0\ub77c"
         ], 
+        "hierarchy": [
+          "woe:state=23424718", 
+          "woe:country=23424934", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 14.771760158404618, 
         "ne:Shape_Area": 0.0529812852025, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 8, 
+        "ne:VALIDFR_1": "19751108", 
         "alias_ENG_A": [
           "NCR"
         ], 
@@ -149,13 +154,17 @@
         "alias_CHI_Q": [
           "\u56fd\u5bb6\u9996\u90fd\u533a"
         ], 
-        "ne:OBJECTID": 2568, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u9996\u90fd\u570f"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 120.92639692627722, 
+        "adjacent": [
+          "woe:state=23424717", 
+          "woe:state=23424722"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 14.563, 
         "ne:FIPS_1": "RPD9", 
@@ -163,9 +172,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 14.375711981722645, 
-        "ne:VertexCou": 28.0, 
-        "ne:VALIDFR_1": "19751108", 
-        "ne:DataRank": 5, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 8, 
+        "ne:OBJECTID": 2568, 
         "ne:Postal": "MM", 
         "ne:Region_Cod": "PHL-NCR", 
         "ne:VARNAME_1": null, 
@@ -184,15 +193,14 @@
           "Metro Manila"
         ], 
         "woe:id": "23424718", 
-        "ne:HASC_1": "PH.MM", 
-        "lang": "ENG", 
+        "name": "National Capital Region", 
+        "ne:VertexCou": 28.0, 
         "adjacent_woeid": [
           23424717, 
           23424722
         ], 
-        "name": "National Capital Region", 
+        "ne:HASC_1": "PH.MM", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424934, 
         "ne_longitude": 121.14343794190756, 
         "longitude": 121.022, 
         "iso": "PH", 

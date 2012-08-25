@@ -31,9 +31,20 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "woeid": 2347734, 
-        "name": "Ha Giang", 
+        "alias_CHI_Q": [
+          "\u6cb3\u6c5f"
+        ], 
+        "alias_ENG_V": [
+          "Hagiang"
+        ], 
+        "adjacent": [
+          "woe:state=2347704", 
+          "woe:state=2347740", 
+          "woe:state=2347751", 
+          "woe:state=2347753", 
+          "woe:state=12578018", 
+          "woe:state=12578006"
+        ], 
         "adjacent_woeid": [
           2347704, 
           2347740, 
@@ -42,32 +53,39 @@
           12578006, 
           12578018
         ], 
+        "hierarchy": [
+          "woe:state=2347734", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 23.389, 
         "alias_JPN_Q": [
           "\u30cf\u30b8\u30e3\u30f3"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "Hagiang"
-        ], 
         "ne_longitude": 105.576, 
         "longitude": 104.957, 
-        "alias_CHI_Q": [
-          "\u6cb3\u6c5f"
-        ], 
-        "placetype": "State", 
-        "iso": "VN", 
+        "name": "Ha Giang", 
+        "placetype": "state", 
+        "sw_longitude": 104.338, 
         "date_indexed": "2010-12-02T08:52:39Z", 
         "alias_KOR_Q": [
           "\ud558\uc9c0\uc559"
         ], 
-        "parent_woeid": 23424984, 
+        "woeid": 2347734, 
         "latitude": 22.776, 
-        "sw_longitude": 104.338, 
+        "iso": "VN", 
         "fullname": "Ha Giang, Vietnam", 
-        "sw_latitude": 22.164
+        "sw_latitude": 22.164, 
+        "lang": "ENG"
       }, 
       "id": 2347734
     }
+  ], 
+  "bbox": [
+    104.338, 
+    22.164, 
+    105.576, 
+    23.389
   ]
 }

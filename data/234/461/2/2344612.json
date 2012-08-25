@@ -8,7 +8,7 @@
           [
             [
               -0.567, 
-              30.620
+              30.62
             ], 
             [
               -0.567, 
@@ -20,11 +20,11 @@
             ], 
             [
               2.052, 
-              30.620
+              30.62
             ], 
             [
               -0.567, 
-              30.620
+              30.62
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344612, 
-        "name": "El Bayadh", 
         "adjacent_woeid": [
           2344585, 
           2344587, 
@@ -43,20 +41,41 @@
           2344615, 
           2344619
         ], 
-        "ne_latitude": 34.426, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "El Bayadh", 
+        "hierarchy": [
+          "woe:state=2344612", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344612, 
         "ne_longitude": 2.052, 
         "longitude": 0.743, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 32.523, 
+        "iso": "DZ", 
+        "sw_latitude": 30.62, 
+        "adjacent": [
+          "woe:state=2344604", 
+          "woe:state=2344608", 
+          "woe:state=2344615", 
+          "woe:state=2344597", 
+          "woe:state=2344619", 
+          "woe:state=2344585", 
+          "woe:state=2344587"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.426, 
         "sw_longitude": -0.567, 
         "fullname": "El Bayadh, Algeria", 
-        "sw_latitude": 30.620
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344612
     }
+  ], 
+  "bbox": [
+    -0.567, 
+    30.62, 
+    2.052, 
+    34.426
   ]
 }

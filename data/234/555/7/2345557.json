@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345557, 
-        "name": "Escuintla", 
         "adjacent_woeid": [
           2345554, 
           2345558, 
@@ -41,20 +39,39 @@
           2345569, 
           2345571
         ], 
-        "ne_latitude": 14.471, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Escuintla", 
+        "hierarchy": [
+          "woe:state=2345557", 
+          "woe:country=23424834", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345557, 
         "ne_longitude": -90.579, 
         "longitude": -91.059, 
-        "placetype": "State", 
-        "iso": "GT", 
-        "date_indexed": "2010-12-02T16:55:18Z", 
-        "parent_woeid": 23424834, 
+        "placetype": "state", 
         "latitude": 14.191, 
+        "iso": "GT", 
+        "sw_latitude": 13.911, 
+        "adjacent": [
+          "woe:state=2345554", 
+          "woe:state=2345558", 
+          "woe:state=2345567", 
+          "woe:state=2345569", 
+          "woe:state=2345571"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.471, 
         "sw_longitude": -91.538, 
         "fullname": "Escuintla, Guatemala", 
-        "sw_latitude": 13.911
+        "date_indexed": "2010-12-02T16:55:18Z"
       }, 
       "id": 2345557
     }
+  ], 
+  "bbox": [
+    -91.538, 
+    13.911, 
+    -90.579, 
+    14.471
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               174.866, 
-              -16.650
+              -16.65
             ], 
             [
               178.467, 
-              -16.650
+              -16.65
             ], 
             [
               178.467, 
@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345338, 
-        "name": "Western", 
         "adjacent_woeid": [
           2345335
         ], 
-        "ne_latitude": -16.650, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Western", 
+        "hierarchy": [
+          "woe:state=2345338", 
+          "woe:country=23424813", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345338, 
         "ne_longitude": 178.467, 
         "longitude": 177.832, 
-        "placetype": "State", 
-        "iso": "FJ", 
-        "date_indexed": "2010-12-02T16:12:16Z", 
-        "parent_woeid": 23424813, 
+        "placetype": "state", 
         "latitude": -17.772, 
+        "iso": "FJ", 
+        "sw_latitude": -19.184, 
+        "adjacent": [
+          "woe:state=2345335"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -16.65, 
         "sw_longitude": 174.866, 
         "fullname": "Western, Fiji", 
-        "sw_latitude": -19.184
+        "date_indexed": "2010-12-02T16:12:16Z"
       }, 
       "id": 2345338
     }
+  ], 
+  "bbox": [
+    174.866, 
+    -19.184, 
+    178.467, 
+    -16.65
   ]
 }

@@ -15,11 +15,11 @@
               34.517
             ], 
             [
-              8.770, 
+              8.77, 
               34.517
             ], 
             [
-              8.770, 
+              8.77, 
               33.428
             ], 
             [
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347255, 
-        "name": "Tawzar", 
         "adjacent_woeid": [
           2344603, 
           2344613, 
           2347238, 
           2347251
         ], 
-        "ne_latitude": 34.517, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 8.770, 
+        "name": "Tawzar", 
+        "hierarchy": [
+          "woe:state=2347255", 
+          "woe:country=23424967", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347255, 
+        "ne_longitude": 8.77, 
         "longitude": 8.147, 
-        "placetype": "State", 
-        "iso": "TN", 
-        "date_indexed": "2010-12-02T18:18:54Z", 
-        "parent_woeid": 23424967, 
+        "placetype": "state", 
         "latitude": 33.972, 
+        "iso": "TN", 
+        "sw_latitude": 33.428, 
+        "adjacent": [
+          "woe:state=2344613", 
+          "woe:state=2347238", 
+          "woe:state=2347251", 
+          "woe:state=2344603"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.517, 
         "sw_longitude": 7.525, 
         "fullname": "Tawzar, Tunisia", 
-        "sw_latitude": 33.428
+        "date_indexed": "2010-12-02T18:18:54Z"
       }, 
       "id": 2347255
     }
+  ], 
+  "bbox": [
+    7.525, 
+    33.428, 
+    8.77, 
+    34.517
   ]
 }

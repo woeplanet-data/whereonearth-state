@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347245, 
-        "name": "Silyanah", 
         "adjacent_woeid": [
           2347235, 
           2347236, 
@@ -43,20 +41,41 @@
           2347253, 
           2347257
         ], 
-        "ne_latitude": 36.431, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Silyanah", 
+        "hierarchy": [
+          "woe:state=2347245", 
+          "woe:country=23424967", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347245, 
         "ne_longitude": 9.855, 
         "longitude": 9.403, 
-        "placetype": "State", 
-        "iso": "TN", 
-        "date_indexed": "2010-12-02T18:18:54Z", 
-        "parent_woeid": 23424967, 
+        "placetype": "state", 
         "latitude": 35.958, 
+        "iso": "TN", 
+        "sw_latitude": 35.485, 
+        "adjacent": [
+          "woe:state=2347239", 
+          "woe:state=2347235", 
+          "woe:state=2347236", 
+          "woe:state=2347242", 
+          "woe:state=2347237", 
+          "woe:state=2347253", 
+          "woe:state=2347257"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.431, 
         "sw_longitude": 8.952, 
         "fullname": "Silyanah, Tunisia", 
-        "sw_latitude": 35.485
+        "date_indexed": "2010-12-02T18:18:54Z"
       }, 
       "id": 2347245
     }
+  ], 
+  "bbox": [
+    8.952, 
+    35.485, 
+    9.855, 
+    36.431
   ]
 }

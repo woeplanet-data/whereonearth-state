@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              24.850, 
+              24.85, 
               60.672
             ], 
             [
-              24.850, 
+              24.85, 
               61.801
             ], 
             [
@@ -23,7 +23,7 @@
               60.672
             ], 
             [
-              24.850, 
+              24.85, 
               60.672
             ]
           ]
@@ -40,8 +40,13 @@
         "alias_SWE_S": [
           "Paijanne Tavastlands landskap"
         ], 
+        "hierarchy": [
+          "woe:state=29389255", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 61.801, 
-        "placetype": "State", 
+        "placetype": "state", 
         "woeid": 29389255, 
         "alias_ENG_P": [
           "Paijanne Tavastia"
@@ -49,13 +54,22 @@
         "alias_FIN_S": [
           "Paijat-Hameen maakuntaa"
         ], 
-        "sw_longitude": 24.850, 
+        "sw_longitude": 24.85, 
         "alias_FIN_V": [
           "P\u00e4ijat-H\u00e4meen maakuntana"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 61.237, 
         "date_indexed": "2010-12-02T16:39:41Z", 
+        "adjacent": [
+          "woe:state=29389260", 
+          "woe:state=29389251", 
+          "woe:state=29389249", 
+          "woe:state=29389258", 
+          "woe:state=29389254", 
+          "woe:state=29389248", 
+          "woe:state=29389247"
+        ], 
         "lang": "FIN", 
         "adjacent_woeid": [
           29389247, 
@@ -67,7 +81,6 @@
           29389260
         ], 
         "name": "P\u00e4ijat-H\u00e4meen maakunta", 
-        "parent_woeid": 23424812, 
         "ne_longitude": 26.514, 
         "longitude": 25.682, 
         "iso": "FI", 
@@ -76,5 +89,11 @@
       }, 
       "id": 29389255
     }
+  ], 
+  "bbox": [
+    24.85, 
+    60.672, 
+    26.514, 
+    61.801
   ]
 }

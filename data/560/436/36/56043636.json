@@ -32,19 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "ne_latitude": 48.039, 
-        "name": "Ny\u00edregyh\u00e1za", 
         "adjacent_woeid": [
           12577919, 
           12577925
         ], 
-        "woeid": 56043636, 
+        "name": "Ny\u00edregyh\u00e1za", 
+        "hierarchy": [
+          "woe:state=56043636", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 48.039, 
         "ne_longitude": 21.844, 
         "longitude": 21.701, 
-        "parent_woeid": 23424844, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
+        "adjacent": [
+          "woe:state=12577919", 
+          "woe:state=12577925"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.942, 
         "sw_longitude": 21.558, 
@@ -52,9 +59,16 @@
         "alias_HUN_S": [
           "Nyiregyhaza"
         ], 
+        "woeid": 56043636, 
         "sw_latitude": 47.846
       }, 
       "id": 56043636
     }
+  ], 
+  "bbox": [
+    21.558, 
+    47.846, 
+    21.844, 
+    48.039
   ]
 }

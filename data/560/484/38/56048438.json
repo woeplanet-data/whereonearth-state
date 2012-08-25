@@ -864,9 +864,14 @@
         "alias_ENG_P": [
           "Plateaux Region"
         ], 
+        "hierarchy": [
+          "woe:state=56048438", 
+          "woe:country=23424965", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 8.37199575400092, 
         "ne:Shape_Area": 1.40998978724, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
@@ -875,6 +880,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 0.494161411519997, 
+        "adjacent": [
+          "woe:state=56048436", 
+          "woe:state=55967670", 
+          "woe:state=55967668", 
+          "woe:state=56048437", 
+          "woe:state=2345468", 
+          "woe:state=2344829"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 7.447, 
         "ne:FIPS_1": "TO25", 
@@ -912,7 +925,6 @@
         ], 
         "name": "Plateaux", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424965, 
         "ne_longitude": 1.625306837440633, 
         "longitude": 1.09, 
         "ne:NEV_Countr": "Togo", 

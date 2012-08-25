@@ -559,11 +559,16 @@
         "alias_KOR_Q": [
           "\uc2dc\ud0b4"
         ], 
+        "hierarchy": [
+          "woe:state=2345762", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 28.106811835397934, 
         "ne:Shape_Area": 0.634529788265, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "SKM"
         ], 
@@ -573,13 +578,19 @@
         "alias_CHI_Q": [
           "\u9521\u91d1\u90a6"
         ], 
-        "ne:OBJECTID": 3259, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30b7\u30c3\u30ad\u30e0"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 88.00437544147348, 
+        "adjacent": [
+          "woe:state=20070023", 
+          "woe:state=2344883", 
+          "woe:state=2345761", 
+          "woe:state=12578004"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 27.593, 
         "ne:FIPS_1": "IN29", 
@@ -587,9 +598,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 27.08454865159905, 
-        "ne:VertexCou": 123.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3259, 
         "ne:Postal": "SK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -605,17 +616,16 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 6943.2, 
         "woe:id": "2345762", 
-        "ne:HASC_1": "IN.SK", 
-        "lang": "ENG", 
+        "name": "Sikkim", 
+        "ne:VertexCou": 123.0, 
         "adjacent_woeid": [
           2344883, 
           2345761, 
           12578004, 
           20070023
         ], 
-        "name": "Sikkim", 
+        "ne:HASC_1": "IN.SK", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 88.89196984243432, 
         "longitude": 88.489, 
         "iso": "IN", 

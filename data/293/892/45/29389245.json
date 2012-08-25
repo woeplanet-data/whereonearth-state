@@ -12,11 +12,11 @@
             ], 
             [
               18.646, 
-              42.480
+              42.48
             ], 
             [
               18.766, 
-              42.480
+              42.48
             ], 
             [
               18.766, 
@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 29389245, 
-        "name": "Tivat", 
         "adjacent_woeid": [
           29389240, 
           29389246
         ], 
-        "ne_latitude": 42.480, 
+        "name": "Tivat", 
+        "hierarchy": [
+          "woe:state=29389245", 
+          "woe:country=20069817", 
+          "woe:planet=1"
+        ], 
+        "woeid": 29389245, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 18.766, 
         "longitude": 18.735, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "ME", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "parent_woeid": 20069817, 
+        "adjacent": [
+          "woe:state=29389246", 
+          "woe:state=29389240"
+        ], 
+        "ne_latitude": 42.48, 
         "latitude": 42.421, 
         "sw_longitude": 18.646, 
         "fullname": "Tivat, Montenegro", 
@@ -53,5 +61,11 @@
       }, 
       "id": 29389245
     }
+  ], 
+  "bbox": [
+    18.646, 
+    42.362, 
+    18.766, 
+    42.48
   ]
 }

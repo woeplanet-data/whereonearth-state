@@ -9171,14 +9171,19 @@
       "properties": {
         "ne:ProvNumber": 10, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=2344848", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -8.52862639739027, 
         "ne:Shape_Area": 46.5857232458, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "alias_POR_V": [
           "Estado Bahia"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1810", 
         "alias_ENG_A": [
           "BA"
         ], 
@@ -9187,10 +9192,20 @@
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BRA", 
-        "ne:OBJECTID": 624, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -46.571854620594195, 
+        "adjacent": [
+          "woe:state=2344845", 
+          "woe:state=2344851", 
+          "woe:state=2344852", 
+          "woe:state=2344856", 
+          "woe:state=2344860", 
+          "woe:state=2344861", 
+          "woe:state=2344869", 
+          "woe:state=2344870"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -13.442, 
         "ne:FIPS_1": "BR05", 
@@ -9198,9 +9213,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -18.323325697223083, 
-        "ne:VertexCou": 2286.0, 
-        "ne:VALIDFR_1": "1810", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 624, 
         "ne:Postal": "BA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Ba\u00a1a", 
@@ -9216,8 +9231,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 559906.3, 
         "woe:id": "2344848", 
-        "ne:HASC_1": "BR.BA", 
-        "lang": "POR", 
+        "name": "Bahia", 
+        "ne:VertexCou": 2286.0, 
         "adjacent_woeid": [
           2344845, 
           2344851, 
@@ -9228,9 +9243,8 @@
           2344869, 
           2344870
         ], 
-        "name": "Bahia", 
+        "ne:HASC_1": "BR.BA", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424768, 
         "ne_longitude": -37.36068559426474, 
         "longitude": -41.995, 
         "iso": "BR", 

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549879, 
-        "name": "Roche Caiman", 
         "adjacent_woeid": [
           24549871, 
           24549875, 
@@ -41,14 +39,27 @@
           24549881, 
           24549882
         ], 
-        "ne_latitude": -4.628, 
+        "name": "Roche Caiman", 
+        "hierarchy": [
+          "woe:state=24549879", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549879, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.506, 
         "longitude": 55.474, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549871", 
+          "woe:state=24549875", 
+          "woe:state=24549882", 
+          "woe:state=24549881", 
+          "woe:state=24549876"
+        ], 
+        "ne_latitude": -4.628, 
         "latitude": -4.653, 
         "sw_longitude": 55.459, 
         "fullname": "Roche Caiman, Seychelles", 
@@ -56,5 +67,11 @@
       }, 
       "id": 24549879
     }
+  ], 
+  "bbox": [
+    55.459, 
+    -4.666, 
+    55.506, 
+    -4.628
   ]
 }

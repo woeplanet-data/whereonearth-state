@@ -12,11 +12,11 @@
             ], 
             [
               23.879, 
-              56.450
+              56.45
             ], 
             [
               26.046, 
-              56.450
+              56.45
             ], 
             [
               26.046, 
@@ -32,9 +32,11 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848086, 
-        "alias_UNK_V": [
-          "Panevezio Apskritis"
+        "adjacent_woeid": [
+          55848079, 
+          55848081, 
+          55848083, 
+          55848084
         ], 
         "name": "Paneve\u017eio Apskritis", 
         "alias_ENG_P": [
@@ -43,26 +45,40 @@
         "alias_UNK_S": [
           "Panevezys Apskritis"
         ], 
-        "ne_latitude": 56.450, 
-        "ne_longitude": 26.046, 
+        "woeid": 55848086, 
+        "alias_UNK_V": [
+          "Panevezio Apskritis"
+        ], 
         "longitude": 24.963, 
-        "parent_woeid": 23424875, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          55848079, 
-          55848081, 
-          55848083, 
-          55848084
+        "ne_longitude": 26.046, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=55848086", 
+          "woe:country=23424875", 
+          "woe:planet=1"
         ], 
         "iso": "LT", 
-        "date_indexed": "2010-12-02T09:35:48Z", 
+        "sw_latitude": 55.387, 
+        "adjacent": [
+          "woe:state=55848084", 
+          "woe:state=55848079", 
+          "woe:state=55848081", 
+          "woe:state=55848083"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 55.919, 
+        "ne_latitude": 56.45, 
         "sw_longitude": 23.879, 
+        "latitude": 55.919, 
         "fullname": "Paneve\u017eio Apskritis, Panevezys County, Lithuania", 
-        "sw_latitude": 55.387
+        "date_indexed": "2010-12-02T09:35:48Z"
       }, 
       "id": 55848086
     }
+  ], 
+  "bbox": [
+    23.879, 
+    55.387, 
+    26.046, 
+    56.45
   ]
 }

@@ -248,9 +248,14 @@
         "alias_ENG_P": [
           "Star Dojran Municipality"
         ], 
+        "hierarchy": [
+          "woe:state=24550860", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.29414643001377, 
         "ne:Shape_Area": 0.0147193415738, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -259,6 +264,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 22.566405877029638, 
+        "adjacent": [
+          "woe:state=24550827", 
+          "woe:state=12577884", 
+          "woe:state=24550808", 
+          "woe:state=24550813"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.226, 
         "ne:FIPS_1": "MK00", 
@@ -294,7 +305,6 @@
         ], 
         "name": "Star Dojran", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424890, 
         "alias_UNK_V": [
           "Opstina Star Dojran"
         ], 

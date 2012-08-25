@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345052, 
-        "name": "Boyaca", 
         "adjacent_woeid": [
           2345048, 
           2345049, 
@@ -44,20 +42,42 @@
           2345078, 
           2347679
         ], 
-        "ne_latitude": 7.044, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Boyaca", 
+        "hierarchy": [
+          "woe:state=2345052", 
+          "woe:country=23424787", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345052, 
         "ne_longitude": -71.974, 
         "longitude": -73.313, 
-        "placetype": "State", 
-        "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
-        "parent_woeid": 23424787, 
+        "placetype": "state", 
         "latitude": 5.849, 
+        "iso": "CO", 
+        "sw_latitude": 4.655, 
+        "adjacent": [
+          "woe:state=2345048", 
+          "woe:state=2347679", 
+          "woe:state=2345049", 
+          "woe:state=2345053", 
+          "woe:state=2345077", 
+          "woe:state=2345078", 
+          "woe:state=2345066", 
+          "woe:state=2345071"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 7.044, 
         "sw_longitude": -74.653, 
         "fullname": "Boyaca, Colombia", 
-        "sw_latitude": 4.655
+        "date_indexed": "2010-12-02T17:57:12Z"
       }, 
       "id": 2345052
     }
+  ], 
+  "bbox": [
+    -74.653, 
+    4.655, 
+    -71.974, 
+    7.044
   ]
 }

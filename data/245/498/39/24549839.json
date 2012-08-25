@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549839, 
         "name": "Bokak", 
-        "ne_latitude": 14.655, 
+        "hierarchy": [
+          "woe:state=24549839", 
+          "woe:country=23424932", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549839, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 169.022, 
         "longitude": 169.009, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MH", 
         "date_indexed": "2010-12-02T09:35:31Z", 
-        "parent_woeid": 23424932, 
+        "ne_latitude": 14.655, 
         "latitude": 14.603, 
         "sw_longitude": 168.942, 
         "fullname": "Bokak, Marshall Islands", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549839
     }
+  ], 
+  "bbox": [
+    168.942, 
+    14.556, 
+    169.022, 
+    14.655
   ]
 }

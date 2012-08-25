@@ -34,8 +34,13 @@
         "alias_ENG_P": [
           "Thuringia"
         ], 
+        "hierarchy": [
+          "woe:state=2345495", 
+          "woe:country=23424829", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 51.649, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Tur\u00edngia"
         ], 
@@ -62,6 +67,13 @@
           "Thuringenin Vapaavaltio"
         ], 
         "sw_longitude": 9.878, 
+        "adjacent": [
+          "woe:state=2345482", 
+          "woe:state=2345485", 
+          "woe:state=2345486", 
+          "woe:state=2345493", 
+          "woe:state=2345494"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.927, 
         "date_indexed": "2010-12-02T09:36:24Z", 
@@ -80,7 +92,6 @@
           2345494
         ], 
         "name": "Th\u00fcringen", 
-        "parent_woeid": 23424829, 
         "ne_longitude": 12.654, 
         "longitude": 11.266, 
         "iso": "DE", 
@@ -92,5 +103,11 @@
       }, 
       "id": 2345495
     }
+  ], 
+  "bbox": [
+    9.878, 
+    50.204, 
+    12.654, 
+    51.649
   ]
 }

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              22.360, 
-              42.020
+              22.36, 
+              42.02
             ], 
             [
-              22.360, 
+              22.36, 
               42.645
             ], 
             [
@@ -20,11 +20,11 @@
             ], 
             [
               23.529, 
-              42.020
+              42.02
             ], 
             [
-              22.360, 
-              42.020
+              22.36, 
+              42.02
             ]
           ]
         ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070059, 
-        "name": "Kyustendil", 
         "adjacent_woeid": [
           20070058, 
           20070060, 
           20070061
         ], 
-        "ne_latitude": 42.645, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kyustendil", 
+        "hierarchy": [
+          "woe:state=20070059", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070059, 
         "ne_longitude": 23.529, 
         "longitude": 22.945, 
-        "placetype": "State", 
-        "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
+        "placetype": "state", 
         "latitude": 42.332, 
-        "sw_longitude": 22.360, 
+        "iso": "BG", 
+        "sw_latitude": 42.02, 
+        "adjacent": [
+          "woe:state=20070060", 
+          "woe:state=20070058", 
+          "woe:state=20070061"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.645, 
+        "sw_longitude": 22.36, 
         "fullname": "Kyustendil, Bulgaria", 
-        "sw_latitude": 42.020
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070059
     }
+  ], 
+  "bbox": [
+    22.36, 
+    42.02, 
+    23.529, 
+    42.645
   ]
 }

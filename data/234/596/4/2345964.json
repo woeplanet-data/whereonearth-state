@@ -963,20 +963,25 @@
         "alias_ENG_P": [
           "Jeollabuk-Do"
         ], 
+        "hierarchy": [
+          "woe:state=2345964", 
+          "woe:country=23424868", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.13262685784326, 
         "ne:Shape_Area": 0.805450079168, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_V": [
           "\uc804\ubd81"
         ], 
-        "ne:MAP_COLOR": 5, 
+        "ne:VALIDFR_1": "18960804", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u5168\u7f57\u5317\u9053"
         ], 
-        "ne:OBJECTID": 2499, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30c1\u30e7\u30eb\u30e9\u30d6\u30af\u30c9"
         ], 
@@ -986,6 +991,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 126.25030968654289, 
+        "adjacent": [
+          "woe:state=2345967", 
+          "woe:state=2345970", 
+          "woe:state=2345972", 
+          "woe:state=2345973", 
+          "woe:state=2345965"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.722, 
         "ne:FIPS_1": "KS03", 
@@ -993,9 +1005,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 35.276632595717786, 
-        "ne:VertexCou": 232.0, 
-        "ne:VALIDFR_1": "18960804", 
-        "ne:DataRank": 3, 
+        "lang": "KOR", 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 2499, 
         "ne:Postal": "CB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Chollabuk-Do|Cholla-bukto|Jeonrabugdo|North Cholla|Zenra Hoku-do", 
@@ -1011,8 +1023,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 8088.7, 
         "woe:id": "2345964", 
-        "ne:HASC_1": "KR.CB", 
-        "lang": "KOR", 
+        "name": "\uc804\ub77c\ubd81\ub3c4", 
+        "ne:VertexCou": 232.0, 
         "adjacent_woeid": [
           2345965, 
           2345967, 
@@ -1020,10 +1032,9 @@
           2345972, 
           2345973
         ], 
-        "name": "\uc804\ub77c\ubd81\ub3c4", 
+        "ne:HASC_1": "KR.CB", 
         "ne:REMARKS_1": "35 (NSO Code)", 
         "ne:Country_Pr": null, 
-        "parent_woeid": 23424868, 
         "ne_longitude": 127.91852827336118, 
         "longitude": 127.171, 
         "iso": "KR", 

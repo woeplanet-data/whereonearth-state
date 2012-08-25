@@ -15,11 +15,11 @@
               2.397
             ], 
             [
-              34.200, 
+              34.2, 
               2.397
             ], 
             [
-              34.200, 
+              34.2, 
               1.632
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070446, 
-        "name": "Katakwi", 
         "adjacent_woeid": [
           20070430, 
           20070435, 
@@ -41,20 +39,39 @@
           24550738, 
           56190194
         ], 
-        "ne_latitude": 2.397, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 34.200, 
+        "name": "Katakwi", 
+        "hierarchy": [
+          "woe:state=20070446", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070446, 
+        "ne_longitude": 34.2, 
         "longitude": 33.779, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 2.014, 
+        "iso": "UG", 
+        "sw_latitude": 1.632, 
+        "adjacent": [
+          "woe:state=56190194", 
+          "woe:state=20070430", 
+          "woe:state=20070435", 
+          "woe:state=24550738", 
+          "woe:state=20070447"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 2.397, 
         "sw_longitude": 33.357, 
         "fullname": "Katakwi, Uganda", 
-        "sw_latitude": 1.632
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070446
     }
+  ], 
+  "bbox": [
+    33.357, 
+    1.632, 
+    34.2, 
+    2.397
   ]
 }

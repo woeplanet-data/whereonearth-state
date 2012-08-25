@@ -31,9 +31,13 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_CHI_Q": [
+          "\u5723\u4f55\u585e"
+        ], 
         "lang": "SPA", 
-        "ne_latitude": 10.186, 
-        "name": "San Jose", 
+        "alias_KOR_Q": [
+          "\uc0b0\ud638\uc138"
+        ], 
         "adjacent_woeid": [
           2345082, 
           2345083, 
@@ -41,32 +45,45 @@
           2345086, 
           2345087
         ], 
-        "woeid": 2345088, 
+        "hierarchy": [
+          "woe:state=2345088", 
+          "woe:country=23424791", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 10.186, 
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30db\u30bb"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -83.432, 
+        "longitude": -84.017, 
+        "placetype": "state", 
+        "sw_longitude": -84.602, 
+        "sw_latitude": 9.084, 
+        "adjacent": [
+          "woe:state=2345082", 
+          "woe:state=2345083", 
+          "woe:state=2345085", 
+          "woe:state=2345086", 
+          "woe:state=2345087"
         ], 
         "alias_SPA_V": [
           "Sanjose"
         ], 
-        "ne_longitude": -83.432, 
-        "longitude": -84.017, 
-        "parent_woeid": 23424791, 
-        "placetype": "State", 
-        "alias_CHI_Q": [
-          "\u5723\u4f55\u585e"
-        ], 
-        "iso": "CR", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
-        "alias_KOR_Q": [
-          "\uc0b0\ud638\uc138"
-        ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 9.635, 
-        "sw_longitude": -84.602, 
+        "iso": "CR", 
         "fullname": "San Jose, Costa Rica", 
-        "sw_latitude": 9.084
+        "woeid": 2345088, 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "name": "San Jose"
       }, 
       "id": 2345088
     }
+  ], 
+  "bbox": [
+    -84.602, 
+    9.084, 
+    -83.432, 
+    10.186
   ]
 }

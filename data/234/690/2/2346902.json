@@ -8,7 +8,7 @@
           [
             [
               46.306, 
-              56.070
+              56.07
             ], 
             [
               46.306, 
@@ -20,11 +20,11 @@
             ], 
             [
               53.924, 
-              56.070
+              56.07
             ], 
             [
               46.306, 
-              56.070
+              56.07
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346902, 
-        "name": "Kirovskaya Oblast", 
         "adjacent_woeid": [
           2346874, 
           2346875, 
@@ -46,20 +44,44 @@
           20070510, 
           20070511
         ], 
-        "ne_latitude": 61.072, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kirovskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346902", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346902, 
         "ne_longitude": 53.924, 
         "longitude": 50.115, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 58.571, 
+        "iso": "RU", 
+        "sw_latitude": 56.07, 
+        "adjacent": [
+          "woe:state=20070508", 
+          "woe:state=2346874", 
+          "woe:state=20070510", 
+          "woe:state=2346903", 
+          "woe:state=2346875", 
+          "woe:state=2346895", 
+          "woe:state=20070511", 
+          "woe:state=2346878", 
+          "woe:state=2346880", 
+          "woe:state=2346934"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 61.072, 
         "sw_longitude": 46.306, 
         "fullname": "Kirovskaya Oblast, Russia", 
-        "sw_latitude": 56.070
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346902
     }
+  ], 
+  "bbox": [
+    46.306, 
+    56.07, 
+    53.924, 
+    61.072
   ]
 }

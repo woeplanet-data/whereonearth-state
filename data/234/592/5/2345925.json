@@ -8,23 +8,23 @@
           [
             [
               -76.841, 
-              17.900
+              17.9
             ], 
             [
               -76.841, 
               17.979
             ], 
             [
-              -76.710, 
+              -76.71, 
               17.979
             ], 
             [
-              -76.710, 
-              17.900
+              -76.71, 
+              17.9
             ], 
             [
               -76.841, 
-              17.900
+              17.9
             ]
           ]
         ]
@@ -32,28 +32,41 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345925, 
-        "name": "Kingston St. John", 
         "adjacent_woeid": [
           2345916
         ], 
-        "ne_latitude": 17.979, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kingston St. John", 
         "alias_ENG_V": [
           "Kingston St John"
         ], 
-        "ne_longitude": -76.710, 
+        "hierarchy": [
+          "woe:state=2345925", 
+          "woe:country=23424858", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345925, 
+        "ne_longitude": -76.71, 
         "longitude": -76.721, 
-        "placetype": "State", 
-        "iso": "JM", 
-        "date_indexed": "2010-12-02T08:58:58Z", 
-        "parent_woeid": 23424858, 
+        "placetype": "state", 
         "latitude": 17.952, 
+        "iso": "JM", 
+        "sw_latitude": 17.9, 
+        "adjacent": [
+          "woe:state=2345916"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.979, 
         "sw_longitude": -76.841, 
         "fullname": "Kingston St. John, Jamaica", 
-        "sw_latitude": 17.900
+        "date_indexed": "2010-12-02T08:58:58Z"
       }, 
       "id": 2345925
     }
+  ], 
+  "bbox": [
+    -76.841, 
+    17.9, 
+    -76.71, 
+    17.979
   ]
 }

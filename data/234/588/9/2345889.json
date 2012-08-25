@@ -1351,11 +1351,16 @@
         "alias_ENG_P": [
           "Tokyo Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345889", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.878869737248635, 
         "ne:Shape_Area": 0.213166986048, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "T\u00f3quio"
         ], 
@@ -1372,7 +1377,7 @@
           "\u4e1c\u4eac"
         ], 
         "ne:VALIDTO_1": "Unknown", 
-        "ne:OBJECTID": 1860, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u6771\u4eac"
         ], 
@@ -1384,6 +1389,12 @@
           "Tokion Prefektuuri"
         ], 
         "sw_longitude": 138.9228178241833, 
+        "adjacent": [
+          "woe:state=2345854", 
+          "woe:state=2345883", 
+          "woe:state=2345895", 
+          "woe:state=2345868"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.7, 
         "ne:FIPS_1": "JA40", 
@@ -1393,9 +1404,9 @@
         "ne:FIRST_HASC": "JP.KC", 
         "ne:ENGTYPE_1": "Metropolis", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 246.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1860, 
         "ne:Postal": "TK", 
         "ne:Region_Cod": "JPN-KNT", 
         "ne:VARNAME_1": "Edo|Yedo|Tokio|T\u00a2quio", 
@@ -1416,8 +1427,8 @@
           "Tokio"
         ], 
         "woe:id": "2345889", 
-        "ne:HASC_1": "JP.TK", 
-        "lang": "JPN", 
+        "name": "\u6771\u4eac\u90fd", 
+        "ne:VertexCou": 246.0, 
         "adjacent_woeid": [
           2345854, 
           2345868, 
@@ -1425,10 +1436,9 @@
           2345895
         ], 
         "ne:FIRST_FIPS": "JA20", 
-        "name": "\u6771\u4eac\u90fd", 
+        "ne:HASC_1": "JP.TK", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 153.96634402885388, 
         "longitude": 139.431, 
         "iso": "JP", 

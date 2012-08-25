@@ -722,11 +722,16 @@
         "alias_SWE_S": [
           "Soedra Holland"
         ], 
+        "hierarchy": [
+          "woe:state=2346383", 
+          "woe:country=23424909", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 52.32605703420484, 
         "ne:Shape_Area": 0.417441414885, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "Holanda Meridional"
         ], 
@@ -739,12 +744,16 @@
         "alias_CHI_Q": [
           "\u5357\u8377\u5170"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Holanda Meridional"
+        ], 
         "alias_ITA_Q": [
           "Olanda Meridionale"
         ], 
-        "ne:Area_sqkm": 3194.1, 
-        "ne:OBJECTID": 3485, 
+        "alias_DAN_Q": [
+          "Sydholland"
+        ], 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u5357\u30aa\u30e9\u30f3\u30c0"
         ], 
@@ -753,9 +762,7 @@
         ], 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Holanda Meridional"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Etel\u00e4-Hollanti"
         ], 
@@ -763,6 +770,13 @@
           "Etela-Hollanti"
         ], 
         "sw_longitude": 3.862482943932775, 
+        "adjacent": [
+          "woe:state=2346375", 
+          "woe:state=2346378", 
+          "woe:state=2346379", 
+          "woe:state=2346381", 
+          "woe:state=2346382"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 51.986, 
         "ne:FIPS_1": "NL11", 
@@ -775,29 +789,27 @@
         "alias_DUT_A": [
           "ZH"
         ], 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 3485, 
         "ne:Postal": null, 
-        "alias_DUT_V": [
-          "Zuidholland"
-        ], 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Hollande-m\u00e9ridionale|South Holland", 
         "ne:ISO": "NLD", 
-        "ne:TYPE_1": "Provincie", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 4.1568681448, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "Netherlands", 
         "ne:NAME_1": "Zuid-Holland", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
-        "ne:LabelRank": 8, 
-        "alias_DAN_Q": [
-          "Sydholland"
+        "ne:TYPE_1": "Provincie", 
+        "alias_DUT_V": [
+          "Zuidholland"
         ], 
+        "ne:LabelRank": 8, 
+        "ne:Area_sqkm": 3194.1, 
         "woe:id": "2346383", 
-        "ne:HASC_1": "NL.ZH", 
+        "name": "Zuid-Holland", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2346375, 
@@ -807,12 +819,13 @@
           2346382
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Zuid-Holland", 
+        "ne:HASC_1": "NL.ZH", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424909, 
         "ne_longitude": 5.182557407498393, 
         "longitude": 4.494, 
-        "ne:NEV_Countr": null, 
+        "alias_FRE_S": [
+          "Hollande Meridionale"
+        ], 
         "ne:VertexCou": 189.0, 
         "iso": "NL", 
         "sw_latitude": 51.637571926303394, 
@@ -822,9 +835,7 @@
         ], 
         "fullname": "Zuid-Holland, South Holland, Netherlands", 
         "ne:Region": null, 
-        "alias_FRE_S": [
-          "Hollande Meridionale"
-        ], 
+        "ne:NEV_Countr": null, 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Hollande du Sud"

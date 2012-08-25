@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2345126, 
-        "name": "Ribeira Grande", 
         "adjacent_woeid": [
           20069964, 
           56051556
         ], 
-        "ne_latitude": 17.197, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ribeira Grande", 
+        "hierarchy": [
+          "woe:state=2345126", 
+          "woe:country=23424794", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345126, 
         "ne_longitude": -25.023, 
         "longitude": -25.102, 
-        "placetype": "State", 
-        "iso": "CV", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424794, 
+        "placetype": "state", 
         "latitude": 17.099, 
+        "iso": "CV", 
+        "sw_latitude": 17.068, 
+        "adjacent": [
+          "woe:state=20069964", 
+          "woe:state=56051556"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.197, 
         "sw_longitude": -25.234, 
         "fullname": "Ribeira Grande, Cape Verde", 
-        "sw_latitude": 17.068
+        "date_indexed": "2010-12-02T12:16:16Z"
       }, 
       "id": 2345126
     }
+  ], 
+  "bbox": [
+    -25.234, 
+    17.068, 
+    -25.023, 
+    17.197
   ]
 }

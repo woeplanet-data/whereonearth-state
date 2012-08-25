@@ -12,11 +12,11 @@
             ], 
             [
               100.181, 
-              15.120
+              15.12
             ], 
             [
               100.488, 
-              15.120
+              15.12
             ], 
             [
               100.488, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347158, 
-        "name": "Sing Buri", 
         "adjacent_woeid": [
           2347143, 
           2347157, 
@@ -41,23 +39,42 @@
           2347160, 
           2347175
         ], 
-        "ne_latitude": 15.120, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sing Buri", 
         "alias_ENG_V": [
           "Changwat Sing Buri"
         ], 
+        "hierarchy": [
+          "woe:state=2347158", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347158, 
         "ne_longitude": 100.488, 
         "longitude": 100.335, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 14.917, 
+        "iso": "TH", 
+        "sw_latitude": 14.715, 
+        "adjacent": [
+          "woe:state=2347160", 
+          "woe:state=2347157", 
+          "woe:state=2347159", 
+          "woe:state=2347143", 
+          "woe:state=2347175"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.12, 
         "sw_longitude": 100.181, 
         "fullname": "Sing Buri, Thailand", 
-        "sw_latitude": 14.715
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347158
     }
+  ], 
+  "bbox": [
+    100.181, 
+    14.715, 
+    100.488, 
+    15.12
   ]
 }

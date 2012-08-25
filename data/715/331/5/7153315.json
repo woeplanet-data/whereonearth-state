@@ -31,8 +31,13 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "hierarchy": [
+          "woe:state=7153315", 
+          "woe:country=23424819", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 50.169, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uc0c1\ud30c\ub274\uc544\ub974\ub374"
         ], 
@@ -50,9 +55,19 @@
           "Champanya-Ardenas"
         ], 
         "sw_longitude": 3.384, 
+        "adjacent": [
+          "woe:state=7153312", 
+          "woe:state=7153317", 
+          "woe:state=7153299", 
+          "woe:state=7153322", 
+          "woe:state=7153302", 
+          "woe:state=7153303", 
+          "woe:state=7153326", 
+          "woe:state=7153319"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.873, 
-        "date_indexed": "2010-12-02T11:51:35Z", 
+        "sw_latitude": 47.577, 
         "alias_DAN_Q": [
           "Champagne-Ardennerne"
         ], 
@@ -68,11 +83,10 @@
           7153326
         ], 
         "name": "Champagne-Ardenne", 
-        "parent_woeid": 23424819, 
         "ne_longitude": 5.891, 
         "longitude": 4.637, 
         "iso": "FR", 
-        "sw_latitude": 47.577, 
+        "date_indexed": "2010-12-02T11:51:35Z", 
         "alias_FRE_V": [
           "Champagne-Ardenne Region"
         ], 
@@ -80,5 +94,11 @@
       }, 
       "id": 7153315
     }
+  ], 
+  "bbox": [
+    3.384, 
+    47.577, 
+    5.891, 
+    50.169
   ]
 }

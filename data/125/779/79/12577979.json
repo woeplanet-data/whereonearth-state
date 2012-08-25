@@ -456,17 +456,30 @@
           "Medimurje"
         ], 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=12577979", 
+          "woe:country=23424843", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.54733999304631, 
         "ne:Shape_Area": 0.0949981642249, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "19921230", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "HRV", 
-        "ne:OBJECTID": 1609, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 16.23330407092618, 
+        "adjacent": [
+          "woe:state=12577976", 
+          "woe:state=55848362", 
+          "woe:state=55848365", 
+          "woe:state=55848373", 
+          "woe:state=12577986", 
+          "woe:state=12577930"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.421, 
         "ne:FIPS_1": "HR09", 
@@ -474,9 +487,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 46.280947984062266, 
-        "ne:VertexCou": 95.0, 
-        "ne:VALIDFR_1": "19921230", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 1609, 
         "ne:Postal": "ME", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Medimurje", 
@@ -492,8 +505,8 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 811.9, 
         "woe:id": "12577979", 
-        "ne:HASC_1": "HR.ME", 
-        "lang": "UNK", 
+        "name": "Medjimurska", 
+        "ne:VertexCou": 95.0, 
         "adjacent_woeid": [
           12577930, 
           12577976, 
@@ -502,12 +515,11 @@
           55848365, 
           55848373
         ], 
-        "name": "Medjimurska", 
+        "ne:HASC_1": "HR.ME", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Medimurska"
         ], 
-        "parent_woeid": 23424843, 
         "alias_UNK_Q": [
           "Me\u0111imurska"
         ], 

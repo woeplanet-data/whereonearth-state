@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344942, 
-        "name": "Stoeng Treng", 
         "adjacent_woeid": [
           2344931, 
           2344935, 
@@ -43,23 +41,44 @@
           20070159, 
           20070160
         ], 
-        "ne_latitude": 14.588, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Stoeng Treng", 
         "alias_ENG_V": [
           "St\u0153ng Tr\u00eang"
         ], 
+        "hierarchy": [
+          "woe:state=2344942", 
+          "woe:country=23424776", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344942, 
         "ne_longitude": 106.693, 
         "longitude": 106.188, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 13.87, 
         "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
-        "parent_woeid": 23424776, 
-        "latitude": 13.870, 
+        "sw_latitude": 13.152, 
+        "adjacent": [
+          "woe:state=20070159", 
+          "woe:state=20070160", 
+          "woe:state=2344931", 
+          "woe:state=2344935", 
+          "woe:state=2344936", 
+          "woe:state=2344938", 
+          "woe:state=2344940"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.588, 
         "sw_longitude": 105.491, 
         "fullname": "Stoeng Treng, Cambodia", 
-        "sw_latitude": 13.152
+        "date_indexed": "2010-12-02T16:11:17Z"
       }, 
       "id": 2344942
     }
+  ], 
+  "bbox": [
+    105.491, 
+    13.152, 
+    106.693, 
+    14.588
   ]
 }

@@ -859,20 +859,31 @@
         "alias_ENG_P": [
           "Okayama Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345880", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.32727549936487, 
         "ne:Shape_Area": 0.683910704861, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1822, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5ca1\u5c71"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 133.26430016482084, 
+        "adjacent": [
+          "woe:state=2345862", 
+          "woe:state=2345861", 
+          "woe:state=2345866", 
+          "woe:state=2345890"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 34.891, 
         "ne:FIPS_1": "JA31", 
@@ -880,9 +891,9 @@
         "ne:FIRST_HASC": "JP.EH", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 34.42399730053506, 
-        "ne:VertexCou": 209.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1822, 
         "ne:Postal": "OY", 
         "ne:Region_Cod": "JPN-CGK", 
         "ne:VARNAME_1": null, 
@@ -898,17 +909,16 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 6934.8, 
         "woe:id": "2345880", 
-        "ne:HASC_1": "JP.OY", 
-        "lang": "JPN", 
+        "name": "\u5ca1\u5c71\u770c", 
+        "ne:VertexCou": 209.0, 
         "adjacent_woeid": [
           2345861, 
           2345862, 
           2345866, 
           2345890
         ], 
-        "name": "\u5ca1\u5c71\u770c", 
+        "ne:HASC_1": "JP.OY", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 134.3970992371402, 
         "longitude": 133.84, 
         "iso": "JP", 

@@ -281,9 +281,14 @@
       "properties": {
         "ne:ProvNumber": 2002, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=55967362", 
+          "woe:country=23424978", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 14.281092434168556, 
         "ne:Shape_Area": 0.303547516829, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
@@ -292,6 +297,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -2.676626959866269, 
+        "adjacent": [
+          "woe:state=2347610", 
+          "woe:state=2346183", 
+          "woe:state=2347635", 
+          "woe:state=2347638"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 13.862, 
         "ne:FIPS_1": "UV15", 
@@ -327,7 +338,6 @@
         ], 
         "name": "Loroum", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424978, 
         "ne_longitude": -1.730793219531392, 
         "longitude": -2.169, 
         "iso": "BF", 

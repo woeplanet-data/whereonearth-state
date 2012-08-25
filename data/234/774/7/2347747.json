@@ -32,24 +32,33 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347747, 
-        "name": "Quang Tri", 
         "adjacent_woeid": [
           2346008, 
           2347746, 
           2347749
         ], 
-        "ne_latitude": 17.169, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Quang Tri", 
         "alias_ENG_V": [
           "Quangtri"
         ], 
+        "hierarchy": [
+          "woe:state=2347747", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347747, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 107.458, 
         "longitude": 107.006, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347746", 
+          "woe:state=2346008", 
+          "woe:state=2347749"
+        ], 
+        "ne_latitude": 17.169, 
         "latitude": 16.735, 
         "sw_longitude": 106.554, 
         "fullname": "Quang Tri, Vietnam", 
@@ -57,5 +66,11 @@
       }, 
       "id": 2347747
     }
+  ], 
+  "bbox": [
+    106.554, 
+    16.302, 
+    107.458, 
+    17.169
   ]
 }

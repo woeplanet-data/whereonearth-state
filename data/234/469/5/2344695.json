@@ -31,12 +31,42 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "ne_latitude": -27.995, 
         "alias_KOR_Q": [
           "\uc0b0\ud0c0\ud398"
         ], 
-        "name": "Santa Fe", 
+        "hierarchy": [
+          "woe:state=2344695", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": -27.995, 
+        "placetype": "state", 
+        "alias_ENG_A": [
+          "SF"
+        ], 
+        "alias_CHI_Q": [
+          "\u5723\u8fbe\u83f2"
+        ], 
+        "woeid": 2344695, 
+        "alias_JPN_Q": [
+          "\u30b5\u30f3\u30bf\u30d5\u30a7"
+        ], 
+        "sw_longitude": -62.889, 
+        "adjacent": [
+          "woe:state=2344675", 
+          "woe:state=2344677", 
+          "woe:state=2344680", 
+          "woe:state=2344679", 
+          "woe:state=2344682", 
+          "woe:state=2344696"
+        ], 
+        "alias_SPA_V": [
+          "Santafe"
+        ], 
+        "latitude": -31.189, 
+        "sw_latitude": -34.384, 
+        "provider": "geoplanet 7.6.0", 
+        "lang": "SPA", 
         "adjacent_woeid": [
           2344675, 
           2344677, 
@@ -45,32 +75,20 @@
           2344682, 
           2344696
         ], 
-        "woeid": 2344695, 
-        "alias_JPN_Q": [
-          "\u30b5\u30f3\u30bf\u30d5\u30a7"
-        ], 
-        "alias_SPA_V": [
-          "Santafe"
-        ], 
+        "name": "Santa Fe", 
         "ne_longitude": -58.871, 
-        "longitude": -60.880, 
-        "parent_woeid": 23424747, 
-        "placetype": "State", 
-        "alias_CHI_Q": [
-          "\u5723\u8fbe\u83f2"
-        ], 
+        "longitude": -60.88, 
         "iso": "AR", 
         "date_indexed": "2010-12-02T17:40:36Z", 
-        "alias_ENG_A": [
-          "SF"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": -31.189, 
-        "sw_longitude": -62.889, 
-        "fullname": "Santa Fe, Argentina", 
-        "sw_latitude": -34.384
+        "fullname": "Santa Fe, Argentina"
       }, 
       "id": 2344695
     }
+  ], 
+  "bbox": [
+    -62.889, 
+    -34.384, 
+    -58.871, 
+    -27.995
   ]
 }

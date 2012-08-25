@@ -588,17 +588,27 @@
         "alias_ENG_P": [
           "Ida-Viru County"
         ], 
+        "hierarchy": [
+          "woe:state=2345278", 
+          "woe:country=23424805", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 59.50267324457462, 
         "ne:Shape_Area": 0.613231508374, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 10, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "EST", 
-        "ne:OBJECTID": 1655, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 26.70300092954932, 
+        "adjacent": [
+          "woe:state=2345280", 
+          "woe:state=2345282", 
+          "woe:state=2345287"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 59.143, 
         "ne:FIPS_1": "EN03", 
@@ -606,9 +616,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 58.81891653097318, 
-        "ne:VertexCou": 130.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 10, 
+        "ne:OBJECTID": 1655, 
         "ne:Postal": "IV", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Ida-Virumaa|Ida-Viru maakond", 
@@ -624,16 +634,15 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 3906.0, 
         "woe:id": "2345278", 
-        "ne:HASC_1": "EE.IV", 
-        "lang": "UNK", 
+        "name": "Ida-Virumaa", 
+        "ne:VertexCou": 130.0, 
         "adjacent_woeid": [
           2345280, 
           2345282, 
           2345287
         ], 
-        "name": "Ida-Virumaa", 
+        "ne:HASC_1": "EE.IV", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424805, 
         "alias_UNK_V": [
           "Ida-Viru Maakond"
         ], 

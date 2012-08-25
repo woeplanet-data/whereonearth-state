@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -60.940, 
+              -60.94, 
               13.962
             ], 
             [
-              -60.940, 
+              -60.94, 
               14.068
             ], 
             [
@@ -23,7 +23,7 @@
               13.962
             ], 
             [
-              -60.940, 
+              -60.94, 
               13.962
             ]
           ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347024, 
-        "name": "Dauphin", 
         "adjacent_woeid": [
           2347025, 
           2347027, 
           2347028
         ], 
-        "ne_latitude": 14.068, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Dauphin", 
+        "hierarchy": [
+          "woe:state=2347024", 
+          "woe:country=23424951", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347024, 
         "ne_longitude": -60.874, 
         "longitude": -60.907, 
-        "placetype": "State", 
-        "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424951, 
+        "placetype": "state", 
         "latitude": 14.012, 
-        "sw_longitude": -60.940, 
+        "iso": "LC", 
+        "sw_latitude": 13.962, 
+        "adjacent": [
+          "woe:state=2347025", 
+          "woe:state=2347027", 
+          "woe:state=2347028"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.068, 
+        "sw_longitude": -60.94, 
         "fullname": "Dauphin, St. Lucia", 
-        "sw_latitude": 13.962
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347024
     }
+  ], 
+  "bbox": [
+    -60.94, 
+    13.962, 
+    -60.874, 
+    14.068
   ]
 }

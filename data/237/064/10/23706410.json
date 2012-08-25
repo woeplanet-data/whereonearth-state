@@ -15,11 +15,11 @@
               23.053
             ], 
             [
-              91.000, 
+              91.0, 
               23.053
             ], 
             [
-              91.000, 
+              91.0, 
               21.736
             ], 
             [
@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 23706410, 
-        "name": "Barisal", 
         "adjacent_woeid": [
           2344791, 
           2344792
         ], 
-        "ne_latitude": 23.053, 
+        "name": "Barisal", 
+        "hierarchy": [
+          "woe:state=23706410", 
+          "woe:country=23424759", 
+          "woe:planet=1"
+        ], 
+        "woeid": 23706410, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 91.000, 
+        "ne_longitude": 91.0, 
         "longitude": 90.246, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "BD", 
         "date_indexed": "2010-12-02T12:16:27Z", 
-        "parent_woeid": 23424759, 
+        "adjacent": [
+          "woe:state=2344791", 
+          "woe:state=2344792"
+        ], 
+        "ne_latitude": 23.053, 
         "latitude": 22.421, 
         "sw_longitude": 89.859, 
         "fullname": "Barisal, Bangladesh", 
@@ -53,5 +61,11 @@
       }, 
       "id": 23706410
     }
+  ], 
+  "bbox": [
+    89.859, 
+    21.736, 
+    91.0, 
+    23.053
   ]
 }

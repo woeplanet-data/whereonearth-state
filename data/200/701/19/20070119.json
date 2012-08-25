@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070119, 
-        "name": "J\u017ermala", 
         "adjacent_woeid": [
           20070121, 
           56190541, 
           56190550, 
           56190518
         ], 
+        "name": "J\u017ermala", 
+        "ne_latitude": 57.009, 
         "alias_UNK_S": [
           "Jzrmala"
         ], 
-        "ne_latitude": 57.009, 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 20070119, 
         "ne_longitude": 23.971, 
         "longitude": 23.722, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=20070119", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
         "iso": "LV", 
-        "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
+        "sw_latitude": 56.924, 
+        "adjacent": [
+          "woe:state=56190541", 
+          "woe:state=56190550", 
+          "woe:state=20070121", 
+          "woe:state=56190518"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 56.966, 
         "sw_longitude": 23.473, 
         "fullname": "J\u017ermala, Jurmala, Latvia", 
-        "sw_latitude": 56.924
+        "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 20070119
     }
+  ], 
+  "bbox": [
+    23.473, 
+    56.924, 
+    23.971, 
+    57.009
   ]
 }

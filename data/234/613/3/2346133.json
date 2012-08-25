@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2346133, 
-        "name": "Al Khums", 
         "adjacent_woeid": [
           2346127, 
           2346129, 
           2346144
         ], 
-        "ne_latitude": 32.776, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Al Khums", 
+        "hierarchy": [
+          "woe:state=2346133", 
+          "woe:country=23424882", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346133, 
         "ne_longitude": 14.455, 
         "longitude": 14.125, 
-        "placetype": "State", 
-        "iso": "LY", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424882, 
+        "placetype": "state", 
         "latitude": 32.582, 
+        "iso": "LY", 
+        "sw_latitude": 32.388, 
+        "adjacent": [
+          "woe:state=2346127", 
+          "woe:state=2346144", 
+          "woe:state=2346129"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 32.776, 
         "sw_longitude": 13.795, 
         "fullname": "Al Khums, Libya", 
-        "sw_latitude": 32.388
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 2346133
     }
+  ], 
+  "bbox": [
+    13.795, 
+    32.388, 
+    14.455, 
+    32.776
   ]
 }

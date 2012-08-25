@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2344949, 
-        "name": "Gu\u00e9ra", 
         "adjacent_woeid": [
           56190453, 
           2344957, 
@@ -42,26 +40,46 @@
           2344945, 
           2344955
         ], 
-        "ne_latitude": 13.046, 
+        "name": "Gu\u00e9ra", 
+        "hierarchy": [
+          "woe:state=2344949", 
+          "woe:country=23424777", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344949, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.232, 
         "longitude": 18.239, 
-        "parent_woeid": 23424777, 
-        "placetype": "State", 
-        "alias_FRE_V": [
-          "Guera"
-        ], 
-        "iso": "TD", 
-        "date_indexed": "2010-12-02T08:53:18Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 11.478, 
-        "sw_longitude": 17.527, 
-        "fullname": "Gu\u00e9ra, Guera, Chad", 
         "alias_FRE_A": [
           "GR"
         ], 
-        "sw_latitude": 9.911
+        "placetype": "state", 
+        "latitude": 11.478, 
+        "iso": "TD", 
+        "sw_latitude": 9.911, 
+        "adjacent": [
+          "woe:state=2344945", 
+          "woe:state=2344948", 
+          "woe:state=56013481", 
+          "woe:state=2344955", 
+          "woe:state=2344957", 
+          "woe:state=56190453"
+        ], 
+        "ne_latitude": 13.046, 
+        "alias_FRE_V": [
+          "Guera"
+        ], 
+        "sw_longitude": 17.527, 
+        "fullname": "Gu\u00e9ra, Guera, Chad", 
+        "date_indexed": "2010-12-02T08:53:18Z"
       }, 
       "id": 2344949
     }
+  ], 
+  "bbox": [
+    17.527, 
+    9.911, 
+    20.232, 
+    13.046
   ]
 }

@@ -8,23 +8,23 @@
           [
             [
               106.113, 
-              20.280
+              20.28
             ], 
             [
               106.113, 
-              20.730
+              20.73
             ], 
             [
               106.631, 
-              20.730
+              20.73
             ], 
             [
               106.631, 
-              20.280
+              20.28
             ], 
             [
               106.113, 
-              20.280
+              20.28
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347716, 
-        "name": "Thai Binh", 
         "adjacent_woeid": [
           2347707, 
           2347741, 
@@ -41,20 +39,39 @@
           20070080, 
           20070089
         ], 
-        "ne_latitude": 20.730, 
+        "name": "Thai Binh", 
+        "hierarchy": [
+          "woe:state=2347716", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347716, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.631, 
         "longitude": 106.372, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347741", 
+          "woe:state=20070080", 
+          "woe:state=2347707", 
+          "woe:state=20070079", 
+          "woe:state=20070089"
+        ], 
+        "ne_latitude": 20.73, 
         "latitude": 20.505, 
         "sw_longitude": 106.113, 
         "fullname": "Thai Binh, Vietnam", 
-        "sw_latitude": 20.280
+        "sw_latitude": 20.28
       }, 
       "id": 2347716
     }
+  ], 
+  "bbox": [
+    106.113, 
+    20.28, 
+    106.631, 
+    20.73
   ]
 }

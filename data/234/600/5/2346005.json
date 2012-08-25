@@ -8,23 +8,23 @@
           [
             [
               100.542, 
-              19.810
+              19.81
             ], 
             [
               100.542, 
               21.213
             ], 
             [
-              102.300, 
+              102.3, 
               21.213
             ], 
             [
-              102.300, 
-              19.810
+              102.3, 
+              19.81
             ], 
             [
               100.542, 
-              19.810
+              19.81
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346005, 
-        "name": "Oudomxai", 
         "adjacent_woeid": [
           2346003, 
           2346004, 
@@ -43,20 +41,41 @@
           12578018, 
           20070156
         ], 
-        "ne_latitude": 21.213, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 102.300, 
+        "name": "Oudomxai", 
+        "hierarchy": [
+          "woe:state=2346005", 
+          "woe:country=23424872", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346005, 
+        "ne_longitude": 102.3, 
         "longitude": 101.421, 
-        "placetype": "State", 
-        "iso": "LA", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
-        "parent_woeid": 23424872, 
+        "placetype": "state", 
         "latitude": 20.512, 
+        "iso": "LA", 
+        "sw_latitude": 19.81, 
+        "adjacent": [
+          "woe:state=20070156", 
+          "woe:state=2347130", 
+          "woe:state=2346003", 
+          "woe:state=2346004", 
+          "woe:state=2346006", 
+          "woe:state=2346010", 
+          "woe:state=12578018"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 21.213, 
         "sw_longitude": 100.542, 
         "fullname": "Oudomxai, Laos", 
-        "sw_latitude": 19.810
+        "date_indexed": "2010-12-02T16:42:51Z"
       }, 
       "id": 2346005
     }
+  ], 
+  "bbox": [
+    100.542, 
+    19.81, 
+    102.3, 
+    21.213
   ]
 }

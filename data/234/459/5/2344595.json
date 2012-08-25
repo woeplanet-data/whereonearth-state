@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              6.870, 
+              6.87, 
               36.018
             ], 
             [
-              6.870, 
+              6.87, 
               36.759
             ], 
             [
@@ -23,7 +23,7 @@
               36.018
             ], 
             [
-              6.870, 
+              6.87, 
               36.018
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344595, 
-        "name": "Guelma", 
         "adjacent_woeid": [
           2344581, 
           2344600, 
@@ -42,20 +40,40 @@
           2344614, 
           2344622
         ], 
-        "ne_latitude": 36.759, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Guelma", 
+        "hierarchy": [
+          "woe:state=2344595", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344595, 
         "ne_longitude": 8.035, 
         "longitude": 7.452, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 36.389, 
-        "sw_longitude": 6.870, 
+        "iso": "DZ", 
+        "sw_latitude": 36.018, 
+        "adjacent": [
+          "woe:state=2344607", 
+          "woe:state=2344581", 
+          "woe:state=2344614", 
+          "woe:state=2344600", 
+          "woe:state=2344602", 
+          "woe:state=2344622"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.759, 
+        "sw_longitude": 6.87, 
         "fullname": "Guelma, Algeria", 
-        "sw_latitude": 36.018
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344595
     }
+  ], 
+  "bbox": [
+    6.87, 
+    36.018, 
+    8.035, 
+    36.759
   ]
 }

@@ -8,7 +8,7 @@
           [
             [
               26.081, 
-              56.280
+              56.28
             ], 
             [
               26.081, 
@@ -20,11 +20,11 @@
             ], 
             [
               26.512, 
-              56.280
+              56.28
             ], 
             [
               26.081, 
-              56.280
+              56.28
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55844714, 
-        "name": "L\u013cv\u0105nu Novads", 
         "adjacent_woeid": [
           55844399, 
           55844470, 
@@ -42,23 +40,43 @@
           56190593, 
           56190598
         ], 
+        "name": "L\u013cv\u0105nu Novads", 
+        "latitude": 56.401, 
         "alias_UNK_S": [
           "Llvanu Novads"
         ], 
-        "ne_latitude": 56.522, 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 55844714, 
         "ne_longitude": 26.512, 
         "longitude": 26.297, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=55844714", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
         "iso": "LV", 
         "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
-        "latitude": 56.401, 
+        "adjacent": [
+          "woe:state=56190593", 
+          "woe:state=56190598", 
+          "woe:state=56190534", 
+          "woe:state=55844399", 
+          "woe:state=55844470", 
+          "woe:state=55844549"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 56.522, 
         "sw_longitude": 26.081, 
         "fullname": "L\u013cv\u0105nu Novads, Preiju Rajons, L\u013cv\u0105nu Novads, Latvia", 
-        "sw_latitude": 56.280
+        "sw_latitude": 56.28
       }, 
       "id": 55844714
     }
+  ], 
+  "bbox": [
+    26.081, 
+    56.28, 
+    26.512, 
+    56.522
   ]
 }

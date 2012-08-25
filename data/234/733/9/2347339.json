@@ -32,22 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "CHI", 
-        "woeid": 2347339, 
+        "alias_ENG_V": [
+          "Nantour"
+        ], 
         "name": "\u5357\u6295\u7e23", 
         "alias_CHI_V": [
           "\u5357\u6295"
         ], 
+        "hierarchy": [
+          "woe:state=2347339", 
+          "woe:country=23424971", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347339, 
         "alias_ENG_P": [
           "Nantou County"
         ], 
-        "ne_latitude": 24.246, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "Nantour"
-        ], 
         "ne_longitude": 121.349, 
         "longitude": 120.948, 
-        "placetype": "State", 
+        "ne_latitude": 24.246, 
+        "placetype": "state", 
         "adjacent_woeid": [
           2347335, 
           28751584, 
@@ -57,14 +61,28 @@
           20070572
         ], 
         "iso": "TW", 
-        "date_indexed": "2010-12-02T16:15:11Z", 
-        "parent_woeid": 23424971, 
+        "sw_latitude": 23.435, 
+        "adjacent": [
+          "woe:state=28751584", 
+          "woe:state=7153409", 
+          "woe:state=20070572", 
+          "woe:state=2347335", 
+          "woe:state=2347346", 
+          "woe:state=20070570"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 23.796, 
         "sw_longitude": 120.616, 
         "fullname": "\u5357\u6295\u7e23, Taiwan, Nantou County, Taiwan", 
-        "sw_latitude": 23.435
+        "date_indexed": "2010-12-02T16:15:11Z"
       }, 
       "id": 2347339
     }
+  ], 
+  "bbox": [
+    120.616, 
+    23.435, 
+    121.349, 
+    24.246
   ]
 }

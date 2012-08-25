@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              45.760, 
+              45.76, 
               52.554
             ], 
             [
-              45.760, 
+              45.76, 
               54.857
             ], 
             [
-              50.210, 
+              50.21, 
               54.857
             ], 
             [
-              50.210, 
+              50.21, 
               52.554
             ], 
             [
-              45.760, 
+              45.76, 
               52.554
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346931, 
-        "name": "Ulryanovskaya Oblast", 
         "adjacent_woeid": [
           2346869, 
           2346876, 
@@ -42,20 +40,40 @@
           2346918, 
           2346924
         ], 
-        "ne_latitude": 54.857, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 50.210, 
+        "name": "Ulryanovskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346931", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346931, 
+        "ne_longitude": 50.21, 
         "longitude": 47.985, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 53.705, 
-        "sw_longitude": 45.760, 
+        "iso": "RU", 
+        "sw_latitude": 52.554, 
+        "adjacent": [
+          "woe:state=2346869", 
+          "woe:state=2346876", 
+          "woe:state=2346918", 
+          "woe:state=2346906", 
+          "woe:state=2346924", 
+          "woe:state=2346878"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 54.857, 
+        "sw_longitude": 45.76, 
         "fullname": "Ulryanovskaya Oblast, Russia", 
-        "sw_latitude": 52.554
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346931
     }
+  ], 
+  "bbox": [
+    45.76, 
+    52.554, 
+    50.21, 
+    54.857
   ]
 }

@@ -500,11 +500,16 @@
           "Changwat Bangkok"
         ], 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=2347165", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 13.949794826969764, 
         "ne:Shape_Area": 0.130696974211, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "~1980", 
         "alias_KOR_Q": [
           "\ubc29\ucf55"
         ], 
@@ -513,13 +518,21 @@
         "alias_CHI_Q": [
           "\u66fc\u8c37"
         ], 
-        "ne:OBJECTID": 416, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30af\u30eb\u30f3\u30c6\u30d7"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 100.32698245667507, 
+        "adjacent": [
+          "woe:state=2347169", 
+          "woe:state=2347177", 
+          "woe:state=2347163", 
+          "woe:state=2347164", 
+          "woe:state=2347167", 
+          "woe:state=2347179"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 13.724, 
         "ne:FIPS_1": "TH40", 
@@ -527,9 +540,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 13.489409491055198, 
-        "ne:VertexCou": 120.0, 
-        "ne:VALIDFR_1": "~1980", 
-        "ne:DataRank": 5, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 416, 
         "ne:Postal": "BM", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Bangkok|Krung Thep|Krung Thep Maha Nakhon|Phra Nakhon-Thonburi", 
@@ -545,8 +558,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 1563.6, 
         "woe:id": "2347165", 
-        "ne:HASC_1": "TH.BM", 
-        "lang": "ENG", 
+        "name": "Bangkok", 
+        "ne:VertexCou": 120.0, 
         "adjacent_woeid": [
           2347163, 
           2347164, 
@@ -555,9 +568,8 @@
           2347177, 
           2347179
         ], 
-        "name": "Bangkok", 
+        "ne:HASC_1": "TH.BM", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424960, 
         "ne_longitude": 100.92425866080862, 
         "longitude": 100.634, 
         "iso": "TH", 

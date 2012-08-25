@@ -1991,23 +1991,32 @@
       "properties": {
         "ne:ProvNumber": 3, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=2344863", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 0.891367092117662, 
         "ne:Shape_Area": 4.31271996476, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "alias_POR_V": [
           "Estado Rio Grande do Norte"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "18070225", 
         "alias_ENG_A": [
           "RN"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BRA", 
-        "ne:OBJECTID": 628, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -38.60911068371104, 
+        "adjacent": [
+          "woe:state=2344849", 
+          "woe:state=2344858"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -5.906, 
         "ne:FIPS_1": "BR22", 
@@ -2015,9 +2024,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -6.977816664407499, 
-        "ne:VertexCou": 490.0, 
-        "ne:VALIDFR_1": "18070225", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 628, 
         "ne:Postal": "RN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2033,15 +2042,14 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 52816.0, 
         "woe:id": "2344863", 
-        "ne:HASC_1": "BR.RN", 
-        "lang": "POR", 
+        "name": "Rio Grande do Norte", 
+        "ne:VertexCou": 490.0, 
         "adjacent_woeid": [
           2344849, 
           2344858
         ], 
-        "name": "Rio Grande do Norte", 
+        "ne:HASC_1": "BR.RN", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424768, 
         "ne_longitude": -29.34533504897331, 
         "longitude": -36.775, 
         "iso": "BR", 

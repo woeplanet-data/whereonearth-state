@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347806, 
-        "name": "Eastern", 
         "adjacent_woeid": [
           2346318, 
           2347805, 
           2347807
         ], 
-        "ne_latitude": -10.336, 
+        "name": "Eastern", 
+        "hierarchy": [
+          "woe:state=2347806", 
+          "woe:country=23425003", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347806, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 33.548, 
-        "longitude": 32.550, 
-        "placetype": "State", 
+        "longitude": 32.55, 
+        "placetype": "state", 
         "iso": "ZM", 
         "date_indexed": "2010-12-02T07:50:33Z", 
-        "parent_woeid": 23425003, 
+        "adjacent": [
+          "woe:state=2347805", 
+          "woe:state=2347807", 
+          "woe:state=2346318"
+        ], 
+        "ne_latitude": -10.336, 
         "latitude": -12.667, 
         "sw_longitude": 30.002, 
         "fullname": "Eastern, Zambia", 
@@ -54,5 +63,11 @@
       }, 
       "id": 2347806
     }
+  ], 
+  "bbox": [
+    30.002, 
+    -14.998, 
+    33.548, 
+    -10.336
   ]
 }

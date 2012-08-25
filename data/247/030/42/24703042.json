@@ -12,11 +12,11 @@
             ], 
             [
               103.855, 
-              1.430
+              1.43
             ], 
             [
               103.992, 
-              1.430
+              1.43
             ], 
             [
               103.992, 
@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24703042, 
-        "name": "North East", 
         "adjacent_woeid": [
           24703041, 
           24703044
         ], 
-        "ne_latitude": 1.430, 
+        "name": "North East", 
+        "hierarchy": [
+          "woe:state=24703042", 
+          "woe:country=23424948", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24703042, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 103.992, 
-        "longitude": 103.910, 
-        "placetype": "State", 
+        "longitude": 103.91, 
+        "placetype": "state", 
         "iso": "SG", 
         "date_indexed": "2010-12-02T08:53:23Z", 
-        "parent_woeid": 23424948, 
+        "adjacent": [
+          "woe:state=24703044", 
+          "woe:state=24703041"
+        ], 
+        "ne_latitude": 1.43, 
         "latitude": 1.368, 
         "sw_longitude": 103.855, 
         "fullname": "North East, Singapore", 
@@ -53,5 +61,11 @@
       }, 
       "id": 24703042
     }
+  ], 
+  "bbox": [
+    103.855, 
+    1.315, 
+    103.992, 
+    1.43
   ]
 }

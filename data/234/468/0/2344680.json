@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": -27.248, 
-        "name": "Corrientes", 
         "adjacent_woeid": [
           2344677, 
           2344682, 
@@ -46,26 +44,50 @@
           2347640, 
           2347654
         ], 
+        "alias_ENG_A": [
+          "CTS"
+        ], 
+        "name": "Corrientes", 
+        "hierarchy": [
+          "woe:state=2344680", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
         "woeid": 2344680, 
         "alias_SPA_V": [
           "Provincia de Corrientes"
         ], 
         "ne_longitude": -55.618, 
         "longitude": -57.655, 
-        "parent_woeid": 23424747, 
-        "placetype": "State", 
-        "iso": "AR", 
-        "date_indexed": "2010-12-02T17:40:36Z", 
-        "alias_ENG_A": [
-          "CTS"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": -29.006, 
         "sw_longitude": -59.689, 
+        "sw_latitude": -30.768, 
+        "adjacent": [
+          "woe:state=2347640", 
+          "woe:state=2344677", 
+          "woe:state=2344682", 
+          "woe:state=2346457", 
+          "woe:state=2344688", 
+          "woe:state=2346458", 
+          "woe:state=2344864", 
+          "woe:state=2347654", 
+          "woe:state=2344695", 
+          "woe:state=2346459"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -27.248, 
+        "iso": "AR", 
         "fullname": "Corrientes, Argentina", 
-        "sw_latitude": -30.768
+        "date_indexed": "2010-12-02T17:40:36Z"
       }, 
       "id": 2344680
     }
+  ], 
+  "bbox": [
+    -59.689, 
+    -30.768, 
+    -55.618, 
+    -27.248
   ]
 }

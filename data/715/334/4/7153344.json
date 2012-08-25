@@ -2164,11 +2164,17 @@
         "alias_ENG_P": [
           "Sicily"
         ], 
+        "hierarchy": [
+          "woe:state=7153344", 
+          "woe:country=23424853", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 38.81194651931645, 
         "ne:Shape_Area": 2.63897352539, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:Region_C_3": null, 
         "alias_POR_Q": [
           "Sic\u00edlia"
         ], 
@@ -2181,14 +2187,16 @@
         "alias_ITA_S": [
           "Sicily Regione"
         ], 
-        "ne:Area_sqkm": 25867.6, 
+        "alias_DAN_Q": [
+          "Sicilien"
+        ], 
         "alias_ITA_V": [
           "Sicilia Regione"
         ], 
         "alias_JPN_Q": [
           "\u30b7\u30c1\u30ea\u30a2"
         ], 
-        "ne:sameAsCity": -99, 
+        "sw_latitude": 35.48925527631002, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_FIN_Q": [
@@ -2203,7 +2211,6 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 37.474, 
-        "iso": "IT", 
         "ne:FIPS_1": "IT15", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
@@ -2212,7 +2219,7 @@
         "alias_CHI_Q": [
           "\u897f\u897f\u91cc"
         ], 
-        "ne:VALIDFR_1": "1895", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -2229,28 +2236,25 @@
           "Sicilie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Sicilien"
-        ], 
+        "ne:Area_sqkm": 25867.6, 
         "alias_GER_Q": [
           "Sizilien"
         ], 
         "woe:id": "7153344", 
-        "ne:HASC_1": null, 
+        "name": "Sicilia", 
         "lang": "ITA", 
         "ne:NL_NAME_1": null, 
-        "name": "Sicilia", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITG", 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424853, 
         "ne_longitude": 15.651789178128126, 
         "longitude": 14.038, 
         "ne:VertexCou": 516.0, 
         "ne:NAME_1": "Sicily", 
+        "iso": "IT", 
         "ne:OBJECTID": 823, 
-        "sw_latitude": 35.48925527631002, 
         "fullname": "Sicilia, Sicily, Italy", 
         "ne:Region": null, 
         "ne:NEV_Countr": "Italy", 

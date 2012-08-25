@@ -32,28 +32,41 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070172, 
-        "name": "Toshkent", 
         "adjacent_woeid": [
           2347670
         ], 
-        "ne_latitude": 41.335, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Toshkent", 
         "alias_ENG_V": [
           "Toshkent City"
         ], 
+        "hierarchy": [
+          "woe:state=20070172", 
+          "woe:country=23424980", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070172, 
         "ne_longitude": 69.312, 
         "longitude": 69.269, 
-        "placetype": "State", 
-        "iso": "UZ", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424980, 
+        "placetype": "state", 
         "latitude": 41.305, 
+        "iso": "UZ", 
+        "sw_latitude": 41.276, 
+        "adjacent": [
+          "woe:state=2347670"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.335, 
         "sw_longitude": 69.227, 
         "fullname": "Toshkent, Uzbekistan", 
-        "sw_latitude": 41.276
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 20070172
     }
+  ], 
+  "bbox": [
+    69.227, 
+    41.276, 
+    69.312, 
+    41.335
   ]
 }

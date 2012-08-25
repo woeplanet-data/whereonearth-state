@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070224, 
-        "name": "Cabrayil", 
         "adjacent_woeid": [
           2345768, 
           20070198, 
@@ -42,20 +40,40 @@
           20070255, 
           20070259
         ], 
-        "ne_latitude": 39.524, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Cabrayil", 
+        "hierarchy": [
+          "woe:state=20070224", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070224, 
         "ne_longitude": 47.298, 
         "longitude": 47.012, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.328, 
+        "iso": "AZ", 
+        "sw_latitude": 39.133, 
+        "adjacent": [
+          "woe:state=20070198", 
+          "woe:state=2345768", 
+          "woe:state=20070225", 
+          "woe:state=20070233", 
+          "woe:state=20070259", 
+          "woe:state=20070255"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.524, 
         "sw_longitude": 46.725, 
         "fullname": "Cabrayil, Azerbaijan", 
-        "sw_latitude": 39.133
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070224
     }
+  ], 
+  "bbox": [
+    46.725, 
+    39.133, 
+    47.298, 
+    39.524
   ]
 }

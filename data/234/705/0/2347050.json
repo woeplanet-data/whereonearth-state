@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Jamtlands Lan"
         ], 
+        "hierarchy": [
+          "woe:state=2347050", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 65.119, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "J\u00e4mtland"
         ], 
@@ -65,6 +70,16 @@
           "Jaemtland"
         ], 
         "sw_longitude": 11.975, 
+        "adjacent": [
+          "woe:state=2347053", 
+          "woe:state=2347046", 
+          "woe:state=2346389", 
+          "woe:state=2346393", 
+          "woe:state=2346392", 
+          "woe:state=2346399", 
+          "woe:state=2347064", 
+          "woe:state=2347065"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 63.341, 
         "alias_NOR_S": [
@@ -104,7 +119,6 @@
           2347065
         ], 
         "name": "J\u00e4mtlands L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 16.999, 
         "longitude": 14.487, 
         "iso": "SE", 
@@ -119,5 +133,11 @@
       }, 
       "id": 2347050
     }
+  ], 
+  "bbox": [
+    11.975, 
+    61.564, 
+    16.999, 
+    65.119
   ]
 }

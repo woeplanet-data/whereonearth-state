@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              26.220, 
+              26.22, 
               61.151
             ], 
             [
-              26.220, 
+              26.22, 
               62.657
             ], 
             [
@@ -23,7 +23,7 @@
               61.151
             ], 
             [
-              26.220, 
+              26.22, 
               61.151
             ]
           ]
@@ -43,8 +43,13 @@
         "alias_ENG_P": [
           "Southern Savonia"
         ], 
+        "hierarchy": [
+          "woe:state=29389260", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 62.657, 
-        "placetype": "State", 
+        "placetype": "state", 
         "woeid": 29389260, 
         "alias_SWE_S": [
           "Sodra Savolax"
@@ -52,13 +57,21 @@
         "alias_FIN_S": [
           "Etela-Savon maakuntaa"
         ], 
-        "sw_longitude": 26.220, 
+        "sw_longitude": 26.22, 
         "alias_FIN_V": [
           "Etel\u00e4-Savon maakunnaksi"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 61.904, 
-        "date_indexed": "2010-12-02T16:39:41Z", 
+        "sw_latitude": 61.151, 
+        "adjacent": [
+          "woe:state=29389253", 
+          "woe:state=29389258", 
+          "woe:state=29389254", 
+          "woe:state=29389261", 
+          "woe:state=29389262", 
+          "woe:state=29389255"
+        ], 
         "lang": "FIN", 
         "adjacent_woeid": [
           29389258, 
@@ -69,14 +82,19 @@
           29389254
         ], 
         "name": "Etel\u00e4-Savon maakunta", 
-        "parent_woeid": 23424812, 
         "ne_longitude": 29.697, 
         "longitude": 27.958, 
         "iso": "FI", 
-        "sw_latitude": 61.151, 
+        "date_indexed": "2010-12-02T16:39:41Z", 
         "fullname": "Etel\u00e4-Savon maakunta, Eastern Finland, Southern Savo, Finland"
       }, 
       "id": 29389260
     }
+  ], 
+  "bbox": [
+    26.22, 
+    61.151, 
+    29.697, 
+    62.657
   ]
 }

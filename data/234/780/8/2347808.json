@@ -2673,9 +2673,14 @@
       "properties": {
         "ne:ProvNumber": 8, 
         "ne:ScaleRank": 4, 
+        "hierarchy": [
+          "woe:state=2347808", 
+          "woe:country=23425003", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -8.37235686577668, 
         "ne:Shape_Area": 4.08952038606, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 13, 
         "ne:gadm_level": 1.0, 
@@ -2684,6 +2689,11 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 28.35209923719009, 
+        "adjacent": [
+          "woe:state=2347805", 
+          "woe:state=2344981", 
+          "woe:state=2347807"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -10.43, 
         "ne:FIPS_1": "ZA04", 
@@ -2718,7 +2728,6 @@
         ], 
         "name": "Luapula", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23425003, 
         "ne_longitude": 30.456932000811264, 
         "longitude": 29.416, 
         "iso": "ZM", 

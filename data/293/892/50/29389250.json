@@ -31,44 +31,60 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FIN", 
-        "woeid": 29389250, 
-        "alias_SWE_V": [
-          "Egentliga Finland"
-        ], 
-        "name": "Varsinais-Suomen maakunta", 
-        "alias_ENG_P": [
-          "Finland Proper"
-        ], 
-        "ne_latitude": 61.101, 
-        "provider": "geoplanet 7.6.0", 
         "alias_ENG_V": [
           "Southwest Finland"
         ], 
-        "ne_longitude": 23.923, 
-        "longitude": 22.564, 
-        "placetype": "State", 
+        "alias_SWE_V": [
+          "Egentliga Finland"
+        ], 
+        "alias_SWE_Q": [
+          "Egentliga Finlands landskap"
+        ], 
+        "alias_ENG_P": [
+          "Finland Proper"
+        ], 
+        "hierarchy": [
+          "woe:state=29389250", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 61.101, 
+        "placetype": "state", 
+        "woeid": 29389250, 
+        "sw_longitude": 21.001, 
+        "alias_FIN_V": [
+          "Varsinais-Suomen maakuntana"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 60.595, 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "adjacent": [
+          "woe:state=29389249", 
+          "woe:state=29389248", 
+          "woe:state=29389252", 
+          "woe:state=29389247"
+        ], 
+        "lang": "FIN", 
         "adjacent_woeid": [
           29389252, 
           29389247, 
           29389248, 
           29389249
         ], 
+        "name": "Varsinais-Suomen maakunta", 
+        "ne_longitude": 23.923, 
+        "longitude": 22.564, 
         "iso": "FI", 
-        "date_indexed": "2010-12-02T16:39:41Z", 
-        "alias_FIN_V": [
-          "Varsinais-Suomen maakuntana"
-        ], 
-        "parent_woeid": 23424812, 
-        "latitude": 60.595, 
-        "sw_longitude": 21.001, 
-        "fullname": "Varsinais-Suomen maakunta, Western Finland, Proper Finland, Finland", 
         "sw_latitude": 59.774, 
-        "alias_SWE_Q": [
-          "Egentliga Finlands landskap"
-        ]
+        "fullname": "Varsinais-Suomen maakunta, Western Finland, Proper Finland, Finland"
       }, 
       "id": 29389250
     }
+  ], 
+  "bbox": [
+    21.001, 
+    59.774, 
+    23.923, 
+    61.101
   ]
 }

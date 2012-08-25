@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345241, 
-        "name": "Bur Sa'id", 
         "adjacent_woeid": [
           2345223, 
           2345229, 
@@ -41,23 +39,42 @@
           2345242, 
           2345248
         ], 
-        "ne_latitude": 31.275, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bur Sa'id", 
         "alias_ENG_V": [
           "Port Said Governorate"
         ], 
+        "hierarchy": [
+          "woe:state=2345241", 
+          "woe:country=23424802", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345241, 
         "ne_longitude": 32.345, 
         "longitude": 32.295, 
-        "placetype": "State", 
-        "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
-        "parent_woeid": 23424802, 
+        "placetype": "state", 
         "latitude": 31.236, 
+        "iso": "EG", 
+        "sw_latitude": 31.198, 
+        "adjacent": [
+          "woe:state=2345223", 
+          "woe:state=2345229", 
+          "woe:state=2345236", 
+          "woe:state=2345242", 
+          "woe:state=2345248"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.275, 
         "sw_longitude": 32.267, 
         "fullname": "Bur Sa'id, Egypt", 
-        "sw_latitude": 31.198
+        "date_indexed": "2010-12-02T12:16:45Z"
       }, 
       "id": 2345241
     }
+  ], 
+  "bbox": [
+    32.267, 
+    31.198, 
+    32.345, 
+    31.275
   ]
 }

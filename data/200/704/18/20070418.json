@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070418, 
-        "name": "Kabale", 
         "adjacent_woeid": [
           20070440, 
           20070443, 
           24550733, 
           56190379
         ], 
-        "ne_latitude": -1.018, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kabale", 
+        "hierarchy": [
+          "woe:state=20070418", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070418, 
         "ne_longitude": 30.305, 
         "longitude": 30.014, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": -1.251, 
+        "iso": "UG", 
+        "sw_latitude": -1.484, 
+        "adjacent": [
+          "woe:state=24550733", 
+          "woe:state=56190379", 
+          "woe:state=20070440", 
+          "woe:state=20070443"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -1.018, 
         "sw_longitude": 29.724, 
         "fullname": "Kabale, Uganda", 
-        "sw_latitude": -1.484
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070418
     }
+  ], 
+  "bbox": [
+    29.724, 
+    -1.484, 
+    30.305, 
+    -1.018
   ]
 }

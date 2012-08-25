@@ -15,11 +15,11 @@
               48.093
             ], 
             [
-              27.920, 
+              27.92, 
               48.093
             ], 
             [
-              27.920, 
+              27.92, 
               47.755
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55948197, 
-        "name": "Riscani", 
         "adjacent_woeid": [
           2346621, 
           20069871, 
@@ -43,14 +41,29 @@
           55948190, 
           55948198
         ], 
-        "ne_latitude": 48.093, 
+        "name": "Riscani", 
+        "hierarchy": [
+          "woe:state=55948197", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55948197, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 27.920, 
+        "ne_longitude": 27.92, 
         "longitude": 27.536, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MD", 
         "date_indexed": "2010-12-02T17:57:50Z", 
-        "parent_woeid": 23424885, 
+        "adjacent": [
+          "woe:state=20069873", 
+          "woe:state=2346621", 
+          "woe:state=55948186", 
+          "woe:state=55948187", 
+          "woe:state=20069871", 
+          "woe:state=55948190", 
+          "woe:state=55948198"
+        ], 
+        "ne_latitude": 48.093, 
         "latitude": 47.924, 
         "sw_longitude": 27.152, 
         "fullname": "Riscani, Moldova", 
@@ -58,5 +71,11 @@
       }, 
       "id": 55948197
     }
+  ], 
+  "bbox": [
+    27.152, 
+    47.755, 
+    27.92, 
+    48.093
   ]
 }

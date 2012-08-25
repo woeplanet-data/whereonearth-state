@@ -2769,11 +2769,16 @@
       "properties": {
         "ne:ProvNumber": 4, 
         "ne:ScaleRank": 4, 
+        "hierarchy": [
+          "woe:state=2346319", 
+          "woe:country=23424902", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -15.004096774846232, 
         "ne:Shape_Area": 8.70741285338, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "19430101", 
         "alias_KOR_Q": [
           "\uc7a0\ubca0\uc9c0\uc544"
         ], 
@@ -2782,13 +2787,19 @@
         "alias_CHI_Q": [
           "\u8d5e\u6bd4\u897f\u4e9a"
         ], 
-        "ne:OBJECTID": 1906, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30b6\u30f3\u30d9\u30b8\u30a2"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 35.13168541804765, 
+        "adjacent": [
+          "woe:state=2346316", 
+          "woe:state=2346317", 
+          "woe:state=2346315", 
+          "woe:state=2346318"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -16.95, 
         "ne:FIPS_1": "MZ09", 
@@ -2796,9 +2807,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -18.900448093404748, 
-        "ne:VertexCou": 685.0, 
-        "ne:VALIDFR_1": "19430101", 
-        "ne:DataRank": 6, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1906, 
         "ne:Postal": "ZA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2814,17 +2825,16 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 102785.6, 
         "woe:id": "2346319", 
-        "ne:HASC_1": "MZ.ZA", 
-        "lang": "POR", 
+        "name": "Zambezia", 
+        "ne:VertexCou": 685.0, 
         "adjacent_woeid": [
           2346315, 
           2346316, 
           2346317, 
           2346318
         ], 
-        "name": "Zambezia", 
+        "ne:HASC_1": "MZ.ZA", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424902, 
         "ne_longitude": 39.12927086795622, 
         "longitude": 37.143, 
         "iso": "MZ", 

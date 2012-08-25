@@ -8,23 +8,23 @@
           [
             [
               -66.831, 
-              18.150
+              18.15
             ], 
             [
               -66.831, 
-              18.350
+              18.35
             ], 
             [
               -66.567, 
-              18.350
+              18.35
             ], 
             [
               -66.567, 
-              18.150
+              18.15
             ], 
             [
               -66.831, 
-              18.150
+              18.15
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.350, 
-        "name": "Utuado", 
         "adjacent_woeid": [
           2346789, 
           2346793, 
@@ -43,23 +41,44 @@
           2346833, 
           2346847
         ], 
+        "name": "Utuado", 
+        "hierarchy": [
+          "woe:state=2346808", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346808, 
         "alias_SPA_V": [
           "Utuado Municipios"
         ], 
         "ne_longitude": -66.567, 
         "longitude": -66.699, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.250, 
+        "placetype": "state", 
+        "latitude": 18.25, 
         "sw_longitude": -66.831, 
+        "sw_latitude": 18.15, 
+        "adjacent": [
+          "woe:state=2346789", 
+          "woe:state=2346811", 
+          "woe:state=2346793", 
+          "woe:state=2346847", 
+          "woe:state=2346796", 
+          "woe:state=2346798", 
+          "woe:state=2346833"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.35, 
+        "iso": "PR", 
         "fullname": "Utuado, Puerto Rico", 
-        "sw_latitude": 18.150
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346808
     }
+  ], 
+  "bbox": [
+    -66.831, 
+    18.15, 
+    -66.567, 
+    18.35
   ]
 }

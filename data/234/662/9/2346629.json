@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "RUM", 
-        "woeid": 2346629, 
-        "name": "Covasna", 
         "adjacent_woeid": [
           2346618, 
           2346623, 
@@ -41,20 +39,39 @@
           2346634, 
           2346653
         ], 
-        "ne_latitude": 46.285, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Covasna", 
+        "hierarchy": [
+          "woe:state=2346629", 
+          "woe:country=23424933", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346629, 
         "ne_longitude": 26.443, 
         "longitude": 25.945, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 45.9, 
         "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
-        "parent_woeid": 23424933, 
-        "latitude": 45.900, 
+        "sw_latitude": 45.516, 
+        "adjacent": [
+          "woe:state=2346618", 
+          "woe:state=2346623", 
+          "woe:state=2346625", 
+          "woe:state=2346634", 
+          "woe:state=2346653"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 46.285, 
         "sw_longitude": 25.447, 
         "fullname": "Covasna, Romania", 
-        "sw_latitude": 45.516
+        "date_indexed": "2010-12-02T16:36:29Z"
       }, 
       "id": 2346629
     }
+  ], 
+  "bbox": [
+    25.447, 
+    45.516, 
+    26.443, 
+    46.285
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347349, 
-        "name": "Krasnovodsk", 
         "adjacent_woeid": [
           2345991, 
           2347347, 
@@ -42,20 +40,40 @@
           20070201, 
           56189824
         ], 
-        "ne_latitude": 42.343, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Krasnovodsk", 
+        "hierarchy": [
+          "woe:state=2347349", 
+          "woe:country=23424972", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347349, 
         "ne_longitude": 57.375, 
         "longitude": 54.908, 
-        "placetype": "State", 
-        "iso": "TM", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
-        "parent_woeid": 23424972, 
+        "placetype": "state", 
         "latitude": 39.826, 
+        "iso": "TM", 
+        "sw_latitude": 37.309, 
+        "adjacent": [
+          "woe:state=2347347", 
+          "woe:state=20070201", 
+          "woe:state=2345991", 
+          "woe:state=2347663", 
+          "woe:state=56189824", 
+          "woe:state=2347351"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.343, 
         "sw_longitude": 52.441, 
         "fullname": "Krasnovodsk, Turkmenistan", 
-        "sw_latitude": 37.309
+        "date_indexed": "2010-12-02T18:19:07Z"
       }, 
       "id": 2347349
     }
+  ], 
+  "bbox": [
+    52.441, 
+    37.309, 
+    57.375, 
+    42.343
   ]
 }

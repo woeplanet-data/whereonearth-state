@@ -7,24 +7,24 @@
         "coordinates": [
           [
             [
-              179.500, 
-              -10.750
+              179.5, 
+              -10.75
             ], 
             [
-              179.500, 
-              -10.750
+              179.5, 
+              -10.75
             ], 
             [
-              179.500, 
-              -10.750
+              179.5, 
+              -10.75
             ], 
             [
-              179.500, 
-              -10.750
+              179.5, 
+              -10.75
             ], 
             [
-              179.500, 
-              -10.750
+              179.5, 
+              -10.75
             ]
           ]
         ]
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549917, 
         "name": "Niulakita", 
-        "ne_latitude": -10.750, 
+        "hierarchy": [
+          "woe:state=24549917", 
+          "woe:country=23424970", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549917, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 179.500, 
-        "longitude": 179.500, 
-        "placetype": "State", 
+        "ne_longitude": 179.5, 
+        "longitude": 179.5, 
+        "placetype": "state", 
         "iso": "TV", 
         "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424970, 
-        "latitude": -10.750, 
-        "sw_longitude": 179.500, 
+        "ne_latitude": -10.75, 
+        "latitude": -10.75, 
+        "sw_longitude": 179.5, 
         "fullname": "Niulakita, Tuvalu", 
-        "sw_latitude": -10.750
+        "sw_latitude": -10.75
       }, 
       "id": 24549917
     }
+  ], 
+  "bbox": [
+    179.5, 
+    -10.75, 
+    179.5, 
+    -10.75
   ]
 }

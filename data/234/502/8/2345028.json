@@ -948,21 +948,31 @@
         "alias_ENG_P": [
           "Maule Region"
         ], 
+        "hierarchy": [
+          "woe:state=2345028", 
+          "woe:country=23424782", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -34.7607203105938, 
         "ne:Shape_Area": 2.81175276536, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VARNAME_1": "VII", 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1979", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHL", 
-        "ne:OBJECTID": 2705, 
+        "ne:DataRank": 3, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_SPA_S": [
           "Region del Maule"
         ], 
         "sw_longitude": -72.80415523937273, 
+        "adjacent": [
+          "woe:state=2345023", 
+          "woe:state=2345025", 
+          "woe:state=2344687", 
+          "woe:state=2344689"
+        ], 
         "alias_SPA_V": [
           "Regi\u00f3n del Maule"
         ], 
@@ -972,12 +982,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": -36.4853178848125, 
-        "ne:VertexCou": 229.0, 
-        "ne:VALIDFR_1": "1979", 
-        "ne:DataRank": 3, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 2705, 
         "ne:Postal": "ML", 
         "ne:Region_Cod": null, 
-        "provider": "geoplanet 7.6.0", 
+        "ne:VARNAME_1": "VII", 
         "ne:ISO": "CHL", 
         "ne:TYPE_1": "Regi\u00f3n", 
         "ne:Region_C_2": null, 
@@ -990,19 +1000,19 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 28264.3, 
         "woe:id": "2345028", 
-        "ne:HASC_1": "CL.ML", 
-        "lang": "SPA", 
+        "name": "Maule", 
+        "ne:VertexCou": 229.0, 
         "adjacent_woeid": [
           2344687, 
           2344689, 
           2345023, 
           2345025
         ], 
-        "name": "Maule", 
+        "ne:HASC_1": "CL.ML", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424782, 
-        "ne_longitude": -70.35797380254888, 
+        "provider": "geoplanet 7.6.0", 
         "longitude": -71.557, 
+        "ne_longitude": -70.35797380254888, 
         "iso": "CL", 
         "date_indexed": "2010-12-02T12:15:28Z", 
         "ne:NL_NAME_1": null, 

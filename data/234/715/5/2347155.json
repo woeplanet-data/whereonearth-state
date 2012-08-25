@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347155, 
-        "name": "Sisaket", 
         "adjacent_woeid": [
           2344938, 
           2347150, 
@@ -42,23 +40,43 @@
           2347199, 
           20070092
         ], 
-        "ne_latitude": 15.568, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sisaket", 
         "alias_ENG_V": [
           "Changwat Si Sa Ket"
         ], 
+        "hierarchy": [
+          "woe:state=2347155", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347155, 
         "ne_longitude": 104.908, 
         "longitude": 104.405, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 14.955, 
+        "iso": "TH", 
+        "sw_latitude": 14.342, 
+        "adjacent": [
+          "woe:state=20070092", 
+          "woe:state=2344938", 
+          "woe:state=2347150", 
+          "woe:state=2347154", 
+          "woe:state=2347199", 
+          "woe:state=2347195"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.568, 
         "sw_longitude": 103.901, 
         "fullname": "Sisaket, Thailand", 
-        "sw_latitude": 14.342
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347155
     }
+  ], 
+  "bbox": [
+    103.901, 
+    14.342, 
+    104.908, 
+    15.568
   ]
 }

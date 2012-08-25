@@ -31,41 +31,54 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "woeid": 2346910, 
-        "name": "Moskva", 
-        "adjacent_woeid": [
-          2346911
+        "hierarchy": [
+          "woe:state=2346910", 
+          "woe:country=23424936", 
+          "woe:planet=1"
         ], 
         "ne_latitude": 55.943, 
-        "alias_JPN_Q": [
-          "\u30e2\u30b9\u30af\u30ef"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 37.909, 
-        "longitude": 37.622, 
-        "alias_CHI_Q": [
-          "\u83ab\u65af\u79d1"
-        ], 
-        "placetype": "State", 
-        "alias_FIN_Q": [
-          "Moskova"
-        ], 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\ubaa8\uc2a4\ud06c\ubc14"
         ], 
-        "parent_woeid": 23424936, 
-        "latitude": 55.760, 
+        "alias_CHI_Q": [
+          "\u83ab\u65af\u79d1"
+        ], 
+        "woeid": 2346910, 
+        "alias_JPN_Q": [
+          "\u30e2\u30b9\u30af\u30ef"
+        ], 
+        "alias_FIN_Q": [
+          "Moskova"
+        ], 
         "sw_longitude": 37.334, 
-        "fullname": "Moskva, Russia", 
+        "adjacent": [
+          "woe:state=2346911"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 55.76, 
+        "sw_latitude": 55.576, 
         "alias_GER_Q": [
           "Moskau"
         ], 
-        "sw_latitude": 55.576
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          2346911
+        ], 
+        "name": "Moskva", 
+        "ne_longitude": 37.909, 
+        "longitude": 37.622, 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:07:50Z", 
+        "fullname": "Moskva, Russia"
       }, 
       "id": 2346910
     }
+  ], 
+  "bbox": [
+    37.334, 
+    55.576, 
+    37.909, 
+    55.943
   ]
 }

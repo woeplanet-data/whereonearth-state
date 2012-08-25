@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070253, 
-        "name": "Yevlax", 
         "adjacent_woeid": [
           20070219, 
           20070252
         ], 
-        "ne_latitude": 40.646, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Yevlax", 
         "alias_ENG_V": [
           "Yevlax City"
         ], 
+        "hierarchy": [
+          "woe:state=20070253", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070253, 
         "ne_longitude": 47.201, 
         "longitude": 47.141, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.599, 
+        "iso": "AZ", 
+        "sw_latitude": 40.552, 
+        "adjacent": [
+          "woe:state=20070219", 
+          "woe:state=20070252"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.646, 
         "sw_longitude": 47.082, 
         "fullname": "Yevlax, Azerbaijan", 
-        "sw_latitude": 40.552
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070253
     }
+  ], 
+  "bbox": [
+    47.082, 
+    40.552, 
+    47.201, 
+    40.646
   ]
 }

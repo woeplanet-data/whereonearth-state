@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347735, 
-        "name": "Ha Tay", 
         "adjacent_woeid": [
           2347727, 
           2347737, 
@@ -42,17 +40,31 @@
           20070090, 
           20070091
         ], 
-        "ne_latitude": 21.294, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ha Tay", 
         "alias_ENG_V": [
           "Hatay"
         ], 
+        "hierarchy": [
+          "woe:state=2347735", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347735, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.983, 
         "longitude": 105.638, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347741", 
+          "woe:state=2347727", 
+          "woe:state=2347737", 
+          "woe:state=20070079", 
+          "woe:state=20070091", 
+          "woe:state=20070090"
+        ], 
+        "ne_latitude": 21.294, 
         "latitude": 20.901, 
         "sw_longitude": 105.294, 
         "fullname": "Ha Tay, Vietnam", 
@@ -60,5 +72,11 @@
       }, 
       "id": 2347735
     }
+  ], 
+  "bbox": [
+    105.294, 
+    20.509, 
+    105.983, 
+    21.294
   ]
 }

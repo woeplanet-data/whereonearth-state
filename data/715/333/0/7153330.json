@@ -1590,11 +1590,16 @@
         "alias_SWE_Q": [
           "Alsass"
         ], 
+        "hierarchy": [
+          "woe:state=7153330", 
+          "woe:country=23424819", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 49.065687567927, 
         "ne:Shape_Area": 0.975254746973, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "Alsacia"
         ], 
@@ -1611,7 +1616,7 @@
         "alias_ITA_Q": [
           "Alsazia"
         ], 
-        "ne:OBJECTID": 2686, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30b6\u30b9"
         ], 
@@ -1623,6 +1628,16 @@
           "Elsass"
         ], 
         "sw_longitude": 6.868914422462694, 
+        "adjacent": [
+          "woe:state=2345481", 
+          "woe:state=2347108", 
+          "woe:state=7153317", 
+          "woe:state=2347085", 
+          "woe:state=2347086", 
+          "woe:state=2347100", 
+          "woe:state=7153322", 
+          "woe:state=2345488"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.249, 
         "ne:FIPS_1": "FR96", 
@@ -1630,9 +1645,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "ne:VertexCou": 369.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "lang": "FRE", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 2686, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Alsacia", 
@@ -1653,8 +1668,8 @@
           "Elsass"
         ], 
         "woe:id": "7153330", 
-        "ne:HASC_1": null, 
-        "lang": "FRE", 
+        "name": "Alsace", 
+        "ne:VertexCou": 369.0, 
         "adjacent_woeid": [
           2345481, 
           2345488, 
@@ -1665,10 +1680,9 @@
           7153317, 
           7153322
         ], 
-        "name": "Alsace", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
-        "parent_woeid": 23424819, 
         "ne_longitude": 8.1998926127539, 
         "longitude": 7.537, 
         "iso": "FR", 

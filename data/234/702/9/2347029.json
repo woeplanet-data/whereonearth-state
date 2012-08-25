@@ -15,11 +15,11 @@
               13.835
             ], 
             [
-              -60.980, 
+              -60.98, 
               13.835
             ], 
             [
-              -60.980, 
+              -60.98, 
               13.736
             ], 
             [
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347029, 
-        "name": "Laborie", 
         "adjacent_woeid": [
           2347026, 
           2347032
         ], 
-        "ne_latitude": 13.835, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -60.980, 
+        "name": "Laborie", 
+        "hierarchy": [
+          "woe:state=2347029", 
+          "woe:country=23424951", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347029, 
+        "ne_longitude": -60.98, 
         "longitude": -61.009, 
-        "placetype": "State", 
-        "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424951, 
+        "placetype": "state", 
         "latitude": 13.786, 
+        "iso": "LC", 
+        "sw_latitude": 13.736, 
+        "adjacent": [
+          "woe:state=2347026", 
+          "woe:state=2347032"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.835, 
         "sw_longitude": -61.038, 
         "fullname": "Laborie, St. Lucia", 
-        "sw_latitude": 13.736
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347029
     }
+  ], 
+  "bbox": [
+    -61.038, 
+    13.736, 
+    -60.98, 
+    13.835
   ]
 }

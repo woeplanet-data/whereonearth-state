@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070138, 
-        "name": "Machinga", 
         "adjacent_woeid": [
           20070136, 
           20070140, 
           56189817
         ], 
-        "ne_latitude": -14.553, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Machinga", 
+        "hierarchy": [
+          "woe:state=20070138", 
+          "woe:country=23424889", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070138, 
         "ne_longitude": 35.917, 
-        "longitude": 35.370, 
-        "placetype": "State", 
+        "longitude": 35.37, 
+        "placetype": "state", 
+        "latitude": -14.94, 
         "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
-        "parent_woeid": 23424889, 
-        "latitude": -14.940, 
+        "sw_latitude": -15.328, 
+        "adjacent": [
+          "woe:state=56189817", 
+          "woe:state=20070136", 
+          "woe:state=20070140"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -14.553, 
         "sw_longitude": 34.824, 
         "fullname": "Machinga, Malawi", 
-        "sw_latitude": -15.328
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 20070138
     }
+  ], 
+  "bbox": [
+    34.824, 
+    -15.328, 
+    35.917, 
+    -14.553
   ]
 }

@@ -13,10 +13,21 @@
           56190543
         ], 
         "name": "Priekules Novads", 
-        "parent_woeid": 23424874, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56190540", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "LV", 
+        "adjacent": [
+          "woe:state=56190543", 
+          "woe:state=55844641", 
+          "woe:state=56190577", 
+          "woe:state=56190520", 
+          "woe:state=56190580"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56190540, 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 

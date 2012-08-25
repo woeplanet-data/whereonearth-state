@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2345732, 
-        "name": "Gorontalo", 
         "adjacent_woeid": [
           2345730, 
           28350156
         ], 
-        "ne_latitude": 1.054, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Gorontalo", 
+        "hierarchy": [
+          "woe:state=2345732", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345732, 
         "ne_longitude": 123.535, 
         "longitude": 122.342, 
-        "placetype": "State", 
-        "iso": "ID", 
-        "date_indexed": "2010-12-02T16:52:36Z", 
-        "parent_woeid": 23424846, 
+        "placetype": "state", 
         "latitude": 0.676, 
+        "iso": "ID", 
+        "sw_latitude": 0.297, 
+        "adjacent": [
+          "woe:state=2345730", 
+          "woe:state=28350156"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.054, 
         "sw_longitude": 121.149, 
         "fullname": "Gorontalo, Indonesia", 
-        "sw_latitude": 0.297
+        "date_indexed": "2010-12-02T16:52:36Z"
       }, 
       "id": 2345732
     }
+  ], 
+  "bbox": [
+    121.149, 
+    0.297, 
+    123.535, 
+    1.054
   ]
 }

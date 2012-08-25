@@ -497,9 +497,14 @@
       "properties": {
         "ne:ProvNumber": 22, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55948200", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.723815009455166, 
         "ne:Shape_Area": 0.130582022443, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -508,6 +513,11 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 29.41673709444143, 
+        "adjacent": [
+          "woe:state=55948183", 
+          "woe:state=2347549", 
+          "woe:state=55948201"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.515, 
         "ne:FIPS_1": "MD88", 
@@ -542,7 +552,6 @@
         ], 
         "name": "Stefan-voda", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424885, 
         "ne_longitude": 30.131060418103857, 
         "longitude": 29.78, 
         "iso": "MD", 

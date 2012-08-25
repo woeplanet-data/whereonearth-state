@@ -2037,11 +2037,17 @@
         "alias_SWE_Q": [
           "Kampanien"
         ], 
+        "hierarchy": [
+          "woe:state=7153333", 
+          "woe:country=23424853", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.495658677406084, 
         "ne:Shape_Area": 1.4431972635, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:Region_C_3": null, 
         "alias_KOR_Q": [
           "\uce84\ud30c\ub2c8\uc544"
         ], 
@@ -2051,30 +2057,37 @@
         "alias_CHI_Q": [
           "\u574e\u5e15\u5c3c\u4e9a"
         ], 
-        "ne:Area_sqkm": 13511.7, 
+        "alias_DAN_Q": [
+          "Campanien"
+        ], 
         "alias_ITA_V": [
           "Campania Regione"
         ], 
         "alias_JPN_Q": [
           "\u30ab\u30f3\u30d1\u30fc\u30cb\u30a2"
         ], 
-        "ne:sameAsCity": -99, 
+        "sw_latitude": 39.99957428632433, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
           "CM"
         ], 
         "sw_longitude": 13.74234500451837, 
+        "adjacent": [
+          "woe:state=7153331", 
+          "woe:state=7153336", 
+          "woe:state=7153340", 
+          "woe:state=7153342"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.749, 
-        "iso": "IT", 
         "ne:FIPS_1": "IT04", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "ne:VertexCou": 502.0, 
-        "ne:VALIDFR_1": "1895", 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -2087,30 +2100,27 @@
         "ne:NAME_0": "Italy", 
         "ne:NAME_1": "Campania", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Campanien"
-        ], 
+        "ne:Area_sqkm": 13511.7, 
         "alias_GER_Q": [
           "Kampanien"
         ], 
         "woe:id": "7153333", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Campania", 
+        "ne:VertexCou": 502.0, 
         "adjacent_woeid": [
           7153331, 
           7153336, 
           7153340, 
           7153342
         ], 
-        "name": "Campania", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITF", 
-        "parent_woeid": 23424853, 
         "ne_longitude": 15.790540399220106, 
         "longitude": 14.784, 
+        "iso": "IT", 
         "ne:OBJECTID": 820, 
-        "sw_latitude": 39.99957428632433, 
         "ne:NL_NAME_1": null, 
         "fullname": "Campania, Italy", 
         "ne:Region": null, 

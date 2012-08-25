@@ -12,11 +12,11 @@
             ], 
             [
               15.546, 
-              -17.390
+              -17.39
             ], 
             [
               17.998, 
-              -17.390
+              -17.39
             ], 
             [
               17.998, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20069840, 
-        "name": "Ohangwena", 
         "adjacent_woeid": [
           2344662, 
           20069820, 
@@ -41,20 +39,39 @@
           20069842, 
           20069843
         ], 
-        "ne_latitude": -17.390, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ohangwena", 
+        "hierarchy": [
+          "woe:state=20069840", 
+          "woe:country=23424987", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069840, 
         "ne_longitude": 17.998, 
         "longitude": 16.772, 
-        "placetype": "State", 
-        "iso": "NA", 
-        "date_indexed": "2010-12-02T07:50:17Z", 
-        "parent_woeid": 23424987, 
+        "placetype": "state", 
         "latitude": -17.661, 
+        "iso": "NA", 
+        "sw_latitude": -17.932, 
+        "adjacent": [
+          "woe:state=2344662", 
+          "woe:state=20069820", 
+          "woe:state=20069842", 
+          "woe:state=20069843", 
+          "woe:state=20069841"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -17.39, 
         "sw_longitude": 15.546, 
         "fullname": "Ohangwena, Namibia", 
-        "sw_latitude": -17.932
+        "date_indexed": "2010-12-02T07:50:17Z"
       }, 
       "id": 20069840
     }
+  ], 
+  "bbox": [
+    15.546, 
+    -17.932, 
+    17.998, 
+    -17.39
   ]
 }

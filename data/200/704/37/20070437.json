@@ -12,11 +12,11 @@
             ], 
             [
               31.031, 
-              0.870
+              0.87
             ], 
             [
               32.266, 
-              0.870
+              0.87
             ], 
             [
               32.266, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070437, 
-        "name": "Mubende", 
         "adjacent_woeid": [
           20070425, 
           20070426, 
@@ -42,20 +40,40 @@
           24550734, 
           56190215
         ], 
-        "ne_latitude": 0.870, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mubende", 
+        "hierarchy": [
+          "woe:state=20070437", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070437, 
         "ne_longitude": 32.266, 
         "longitude": 32.234, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 0.342, 
+        "iso": "UG", 
+        "sw_latitude": 0.164, 
+        "adjacent": [
+          "woe:state=20070425", 
+          "woe:state=20070426", 
+          "woe:state=24550734", 
+          "woe:state=56190215", 
+          "woe:state=20070436", 
+          "woe:state=20070450"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.87, 
         "sw_longitude": 31.031, 
         "fullname": "Mubende, Uganda", 
-        "sw_latitude": 0.164
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070437
     }
+  ], 
+  "bbox": [
+    31.031, 
+    0.164, 
+    32.266, 
+    0.87
   ]
 }

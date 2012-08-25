@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.126, 
-        "name": "Yabucoa", 
         "adjacent_woeid": [
           2346799, 
           2346806, 
@@ -41,23 +39,42 @@
           2346826, 
           2346827
         ], 
+        "name": "Yabucoa", 
+        "hierarchy": [
+          "woe:state=2346825", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346825, 
         "alias_SPA_V": [
           "Yabucoa Municipios"
         ], 
         "ne_longitude": -65.795, 
         "longitude": -65.903, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.069, 
         "sw_longitude": -66.011, 
+        "sw_latitude": 18.011, 
+        "adjacent": [
+          "woe:state=2346824", 
+          "woe:state=2346799", 
+          "woe:state=2346826", 
+          "woe:state=2346827", 
+          "woe:state=2346806"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.126, 
+        "iso": "PR", 
         "fullname": "Yabucoa, Puerto Rico", 
-        "sw_latitude": 18.011
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346825
     }
+  ], 
+  "bbox": [
+    -66.011, 
+    18.011, 
+    -65.795, 
+    18.126
   ]
 }

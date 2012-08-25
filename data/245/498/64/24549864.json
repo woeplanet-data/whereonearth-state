@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549864, 
         "name": "Miquelon-Langlade", 
-        "ne_latitude": 47.146, 
+        "hierarchy": [
+          "woe:state=24549864", 
+          "woe:country=23424939", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549864, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -56.253, 
         "longitude": -56.337, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "PM", 
         "date_indexed": "2010-12-02T12:15:58Z", 
-        "parent_woeid": 23424939, 
+        "ne_latitude": 47.146, 
         "latitude": 46.966, 
         "sw_longitude": -56.421, 
         "fullname": "Miquelon-Langlade, Saint Pierre and Miquelon", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549864
     }
+  ], 
+  "bbox": [
+    -56.421, 
+    46.786, 
+    -56.253, 
+    47.146
   ]
 }

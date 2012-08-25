@@ -5198,11 +5198,16 @@
         "alias_KOR_Q": [
           "\ucc28\ud2f0\uc2a4\uac00\ub974"
         ], 
+        "hierarchy": [
+          "woe:state=20070464", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 24.140232245122093, 
         "ne:Shape_Area": 11.7092313214, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "CT"
         ], 
@@ -5212,13 +5217,21 @@
         "alias_CHI_Q": [
           "\u6070\u8482\u65af\u52a0\u5c14\u90a6"
         ], 
-        "ne:OBJECTID": 3260, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30c1\u30e3\u30c3\u30c6\u30a3\u30fc\u30b9\u30ac\u30eb\u5dde"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 80.26055870971675, 
+        "adjacent": [
+          "woe:state=2345740", 
+          "woe:state=20070463", 
+          "woe:state=2345749", 
+          "woe:state=2345750", 
+          "woe:state=2345755", 
+          "woe:state=2345760"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 20.945, 
         "ne:FIPS_1": "IN37", 
@@ -5226,9 +5239,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 17.776072902542467, 
-        "ne:VertexCou": 1294.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3260, 
         "ne:Postal": "CT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -5244,8 +5257,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 134510.3, 
         "woe:id": "20070464", 
-        "ne:HASC_1": "IN.CT", 
-        "lang": "ENG", 
+        "name": "Chhattisgarh", 
+        "ne:VertexCou": 1294.0, 
         "adjacent_woeid": [
           2345740, 
           2345749, 
@@ -5254,9 +5267,8 @@
           2345760, 
           20070463
         ], 
-        "name": "Chhattisgarh", 
+        "ne:HASC_1": "IN.CT", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 84.353332147061, 
         "longitude": 82.32, 
         "iso": "IN", 

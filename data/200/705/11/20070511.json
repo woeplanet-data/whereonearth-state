@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070511, 
-        "name": "Permskiy Kray", 
         "adjacent_woeid": [
           2346866, 
           2346874, 
@@ -42,23 +40,43 @@
           2346926, 
           20070510
         ], 
-        "ne_latitude": 61.648, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Permskiy Kray", 
         "alias_ENG_V": [
           "Permskaya Oblast"
         ], 
+        "hierarchy": [
+          "woe:state=20070511", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070511, 
         "ne_longitude": 59.713, 
-        "longitude": 56.750, 
-        "placetype": "State", 
+        "longitude": 56.75, 
+        "placetype": "state", 
+        "latitude": 58.87, 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
-        "latitude": 58.870, 
+        "sw_latitude": 56.092, 
+        "adjacent": [
+          "woe:state=2346866", 
+          "woe:state=2346902", 
+          "woe:state=2346874", 
+          "woe:state=20070510", 
+          "woe:state=2346926", 
+          "woe:state=2346880"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 61.648, 
         "sw_longitude": 53.787, 
         "fullname": "Permskiy Kray, Russia", 
-        "sw_latitude": 56.092
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 20070511
     }
+  ], 
+  "bbox": [
+    53.787, 
+    56.092, 
+    59.713, 
+    61.648
   ]
 }

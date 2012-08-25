@@ -15,11 +15,11 @@
               13.489
             ], 
             [
-              -15.810, 
+              -15.81, 
               13.489
             ], 
             [
-              -15.810, 
+              -15.81, 
               13.064
             ], 
             [
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345447, 
-        "name": "Western", 
         "adjacent_woeid": [
           2345443, 
           2345444, 
           2346997, 
           56055614
         ], 
-        "ne_latitude": 13.489, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -15.810, 
+        "name": "Western", 
+        "hierarchy": [
+          "woe:state=2345447", 
+          "woe:country=23424821", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345447, 
+        "ne_longitude": -15.81, 
         "longitude": -16.318, 
-        "placetype": "State", 
-        "iso": "GM", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
-        "parent_woeid": 23424821, 
+        "placetype": "state", 
         "latitude": 13.276, 
+        "iso": "GM", 
+        "sw_latitude": 13.064, 
+        "adjacent": [
+          "woe:state=2345443", 
+          "woe:state=2345444", 
+          "woe:state=56055614", 
+          "woe:state=2346997"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.489, 
         "sw_longitude": -16.825, 
         "fullname": "Western, The Gambia", 
-        "sw_latitude": 13.064
+        "date_indexed": "2010-12-02T08:51:00Z"
       }, 
       "id": 2345447
     }
+  ], 
+  "bbox": [
+    -16.825, 
+    13.064, 
+    -15.81, 
+    13.489
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               15.105, 
-              50.780
+              50.78
             ], 
             [
               16.585, 
-              50.780
+              50.78
             ], 
             [
               16.585, 
@@ -31,43 +31,58 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "CZE", 
+        "hierarchy": [
+          "woe:state=20070466", 
+          "woe:country=23424810", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 50.78, 
+        "placetype": "state", 
         "woeid": 20070466, 
-        "name": "Kr\u00e1lov\u00e9hradeck\u00fd", 
+        "sw_longitude": 15.105, 
+        "adjacent": [
+          "woe:state=20070498", 
+          "woe:state=20070465", 
+          "woe:state=20070468"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.409, 
+        "date_indexed": "2010-12-02T08:54:50Z", 
+        "alias_CZE_S": [
+          "Kralovehradecky"
+        ], 
+        "alias_GER_Q": [
+          "K\u00f6nigsgr\u00e4tz"
+        ], 
+        "alias_GER_S": [
+          "Konigsgratz"
+        ], 
+        "lang": "CZE", 
         "adjacent_woeid": [
           20070465, 
           20070468, 
           20070498
         ], 
-        "alias_GER_S": [
-          "Konigsgratz"
-        ], 
-        "ne_latitude": 50.780, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kr\u00e1lov\u00e9hradeck\u00fd", 
         "ne_longitude": 16.585, 
         "longitude": 15.845, 
+        "iso": "CZ", 
+        "sw_latitude": 50.038, 
+        "fullname": "Kr\u00e1lov\u00e9hradeck\u00fd, Czech Republic", 
         "alias_FRE_S": [
           "Hradec Kralove"
         ], 
-        "placetype": "State", 
-        "iso": "CZ", 
-        "date_indexed": "2010-12-02T08:54:50Z", 
-        "parent_woeid": 23424810, 
-        "latitude": 50.409, 
-        "sw_longitude": 15.105, 
-        "fullname": "Kr\u00e1lov\u00e9hradeck\u00fd, Czech Republic", 
-        "alias_GER_Q": [
-          "K\u00f6nigsgr\u00e4tz"
-        ], 
-        "alias_CZE_S": [
-          "Kralovehradecky"
-        ], 
-        "sw_latitude": 50.038, 
         "alias_FRE_Q": [
           "Hradec Kr\u00e1lov\u00e9"
         ]
       }, 
       "id": 20070466
     }
+  ], 
+  "bbox": [
+    15.105, 
+    50.038, 
+    16.585, 
+    50.78
   ]
 }

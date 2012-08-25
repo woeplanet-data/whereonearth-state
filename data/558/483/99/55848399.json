@@ -152,9 +152,15 @@
         "alias_ENG_P": [
           "Butel Municipality"
         ], 
+        "hierarchy": [
+          "woe:state=55848399", 
+          "woe:town=482940", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.143267726824206, 
         "ne:Shape_Area": 0.00582240611382, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -163,6 +169,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 21.421979607572894, 
+        "adjacent": [
+          "woe:state=24550766", 
+          "woe:state=24550842", 
+          "woe:state=24550752", 
+          "woe:state=24550830", 
+          "woe:state=24550810"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.093, 
         "ne:FIPS_1": "MK13", 
@@ -199,7 +212,6 @@
         ], 
         "name": "Butel", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 482940, 
         "alias_UNK_V": [
           "Opstina Butel"
         ], 

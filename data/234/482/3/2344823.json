@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344823, 
-        "name": "Yangon", 
         "adjacent_woeid": [
           2344812, 
           2344818
         ], 
-        "ne_latitude": 17.681, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Yangon", 
+        "hierarchy": [
+          "woe:state=2344823", 
+          "woe:country=23424763", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344823, 
         "ne_longitude": 96.856, 
         "longitude": 96.277, 
-        "placetype": "State", 
-        "iso": "MM", 
-        "date_indexed": "2010-12-02T17:58:12Z", 
-        "parent_woeid": 23424763, 
+        "placetype": "state", 
         "latitude": 16.998, 
+        "iso": "MM", 
+        "sw_latitude": 16.314, 
+        "adjacent": [
+          "woe:state=2344812", 
+          "woe:state=2344818"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.681, 
         "sw_longitude": 95.698, 
         "fullname": "Yangon, Myanmar", 
-        "sw_latitude": 16.314
+        "date_indexed": "2010-12-02T17:58:12Z"
       }, 
       "id": 2344823
     }
+  ], 
+  "bbox": [
+    95.698, 
+    16.314, 
+    96.856, 
+    17.681
   ]
 }

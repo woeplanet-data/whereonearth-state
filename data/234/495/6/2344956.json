@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              19.830, 
+              19.83, 
               10.931
             ], 
             [
-              19.830, 
+              19.83, 
               14.453
             ], 
             [
@@ -23,7 +23,7 @@
               10.931
             ], 
             [
-              19.830, 
+              19.83, 
               10.931
             ]
           ]
@@ -32,33 +32,48 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2344956, 
-        "name": "Ouadda\u00ef", 
         "adjacent_woeid": [
           56190453, 
           2344946, 
           2344945
         ], 
-        "ne_latitude": 14.453, 
+        "name": "Ouadda\u00ef", 
+        "hierarchy": [
+          "woe:state=2344956", 
+          "woe:country=23424777", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344956, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 22.986, 
         "longitude": 21.408, 
-        "parent_woeid": 23424777, 
-        "placetype": "State", 
-        "alias_FRE_V": [
-          "Ouaddai"
-        ], 
-        "iso": "TD", 
-        "date_indexed": "2010-12-02T08:53:18Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 12.692, 
-        "sw_longitude": 19.830, 
-        "fullname": "Ouadda\u00ef, Ouaddai, Chad", 
         "alias_FRE_A": [
           "OD"
         ], 
-        "sw_latitude": 10.931
+        "placetype": "state", 
+        "latitude": 12.692, 
+        "iso": "TD", 
+        "sw_latitude": 10.931, 
+        "adjacent": [
+          "woe:state=2344945", 
+          "woe:state=56190453", 
+          "woe:state=2344946"
+        ], 
+        "ne_latitude": 14.453, 
+        "alias_FRE_V": [
+          "Ouaddai"
+        ], 
+        "sw_longitude": 19.83, 
+        "fullname": "Ouadda\u00ef, Ouaddai, Chad", 
+        "date_indexed": "2010-12-02T08:53:18Z"
       }, 
       "id": 2344956
     }
+  ], 
+  "bbox": [
+    19.83, 
+    10.931, 
+    22.986, 
+    14.453
   ]
 }

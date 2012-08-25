@@ -8,7 +8,7 @@
           [
             [
               50.576, 
-              26.180
+              26.18
             ], 
             [
               50.576, 
@@ -20,11 +20,11 @@
             ], 
             [
               50.721, 
-              26.180
+              26.18
             ], 
             [
               50.576, 
-              26.180
+              26.18
             ]
           ]
         ]
@@ -32,25 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344724, 
-        "name": "Muharraq", 
         "alias_ENG_V": [
           "Muharraq Governorate"
         ], 
-        "ne_latitude": 26.304, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Muharraq", 
+        "hierarchy": [
+          "woe:state=2344724", 
+          "woe:country=23424753", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344724, 
         "ne_longitude": 50.721, 
         "longitude": 50.648, 
-        "placetype": "State", 
-        "iso": "BH", 
-        "date_indexed": "2010-12-02T16:11:57Z", 
-        "parent_woeid": 23424753, 
+        "placetype": "state", 
         "latitude": 26.242, 
+        "iso": "BH", 
+        "sw_latitude": 26.18, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 26.304, 
         "sw_longitude": 50.576, 
         "fullname": "Muharraq, Bahrain", 
-        "sw_latitude": 26.180
+        "date_indexed": "2010-12-02T16:11:57Z"
       }, 
       "id": 2344724
     }
+  ], 
+  "bbox": [
+    50.576, 
+    26.18, 
+    50.721, 
+    26.304
   ]
 }

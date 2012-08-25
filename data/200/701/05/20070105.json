@@ -12,11 +12,11 @@
             ], 
             [
               -22.619, 
-              64.040
+              64.04
             ], 
             [
               -22.537, 
-              64.040
+              64.04
             ], 
             [
               -22.537, 
@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070105, 
-        "name": "Keflavik", 
         "adjacent_woeid": [
           2345694
         ], 
-        "ne_latitude": 64.040, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Keflavik", 
+        "hierarchy": [
+          "woe:state=20070105", 
+          "woe:country=23424845", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070105, 
         "ne_longitude": -22.537, 
         "longitude": -22.578, 
-        "placetype": "State", 
-        "iso": "IS", 
-        "date_indexed": "2010-12-02T09:55:32Z", 
-        "parent_woeid": 23424845, 
+        "placetype": "state", 
         "latitude": 64.017, 
+        "iso": "IS", 
+        "sw_latitude": 63.994, 
+        "adjacent": [
+          "woe:state=2345694"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 64.04, 
         "sw_longitude": -22.619, 
         "fullname": "Keflavik, Iceland", 
-        "sw_latitude": 63.994
+        "date_indexed": "2010-12-02T09:55:32Z"
       }, 
       "id": 20070105
     }
+  ], 
+  "bbox": [
+    -22.619, 
+    63.994, 
+    -22.537, 
+    64.04
   ]
 }

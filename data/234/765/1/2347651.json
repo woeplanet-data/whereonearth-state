@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -58.420, 
+              -58.42, 
               -33.418
             ], 
             [
-              -58.420, 
+              -58.42, 
               -32.324
             ], 
             [
@@ -23,7 +23,7 @@
               -33.418
             ], 
             [
-              -58.420, 
+              -58.42, 
               -33.418
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2347651, 
-        "name": "R\u00edo Negro", 
         "adjacent_woeid": [
           2344682, 
           2347644, 
@@ -42,23 +40,43 @@
           2347656, 
           2347657
         ], 
-        "ne_latitude": -32.324, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "R\u00edo Negro", 
+        "hierarchy": [
+          "woe:state=2347651", 
+          "woe:country=23424979", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347651, 
         "ne_longitude": -56.535, 
         "longitude": -57.478, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -32.871, 
         "alias_SPA_S": [
           "Rio Negro"
         ], 
         "iso": "UY", 
-        "date_indexed": "2010-12-02T17:58:18Z", 
-        "parent_woeid": 23424979, 
-        "latitude": -32.871, 
-        "sw_longitude": -58.420, 
+        "sw_latitude": -33.418, 
+        "adjacent": [
+          "woe:state=2347644", 
+          "woe:state=2344682", 
+          "woe:state=2347645", 
+          "woe:state=2347650", 
+          "woe:state=2347656", 
+          "woe:state=2347657"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -32.324, 
+        "sw_longitude": -58.42, 
         "fullname": "R\u00edo Negro, Uruguay", 
-        "sw_latitude": -33.418
+        "date_indexed": "2010-12-02T17:58:18Z"
       }, 
       "id": 2347651
     }
+  ], 
+  "bbox": [
+    -58.42, 
+    -33.418, 
+    -56.535, 
+    -32.324
   ]
 }

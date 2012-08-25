@@ -952,9 +952,14 @@
           "Nabatiyeh"
         ], 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=56049597", 
+          "woe:country=23424873", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 33.501262925743504, 
         "ne:Shape_Area": 0.102907036517, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -963,6 +968,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 35.28883344880467, 
+        "adjacent": [
+          "woe:state=2346013", 
+          "woe:state=2346014", 
+          "woe:state=2347071", 
+          "woe:state=2345793"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 33.327, 
         "ne:FIPS_1": "LE07", 
@@ -998,7 +1009,6 @@
         ], 
         "name": "An Nabatiyah", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424873, 
         "ne_longitude": 35.844458448998296, 
         "longitude": 35.52, 
         "iso": "LB", 

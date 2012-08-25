@@ -8,23 +8,23 @@
           [
             [
               56.968, 
-              39.780
+              39.78
             ], 
             [
               56.968, 
               42.796
             ], 
             [
-              61.110, 
+              61.11, 
               42.796
             ], 
             [
-              61.110, 
-              39.780
+              61.11, 
+              39.78
             ], 
             [
               56.968, 
-              39.780
+              39.78
             ]
           ]
         ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347351, 
-        "name": "Tashauz", 
         "adjacent_woeid": [
           2347347, 
           2347348, 
           2347349, 
           2347663
         ], 
-        "ne_latitude": 42.796, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 61.110, 
+        "name": "Tashauz", 
+        "hierarchy": [
+          "woe:state=2347351", 
+          "woe:country=23424972", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347351, 
+        "ne_longitude": 61.11, 
         "longitude": 59.039, 
-        "placetype": "State", 
-        "iso": "TM", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
-        "parent_woeid": 23424972, 
+        "placetype": "state", 
         "latitude": 41.288, 
+        "iso": "TM", 
+        "sw_latitude": 39.78, 
+        "adjacent": [
+          "woe:state=2347347", 
+          "woe:state=2347348", 
+          "woe:state=2347349", 
+          "woe:state=2347663"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.796, 
         "sw_longitude": 56.968, 
         "fullname": "Tashauz, Turkmenistan", 
-        "sw_latitude": 39.780
+        "date_indexed": "2010-12-02T18:19:07Z"
       }, 
       "id": 2347351
     }
+  ], 
+  "bbox": [
+    56.968, 
+    39.78, 
+    61.11, 
+    42.796
   ]
 }

@@ -8,7 +8,7 @@
           [
             [
               21.512, 
-              61.980
+              61.98
             ], 
             [
               21.512, 
@@ -20,11 +20,11 @@
             ], 
             [
               24.583, 
-              61.980
+              61.98
             ], 
             [
               21.512, 
-              61.980
+              61.98
             ]
           ]
         ]
@@ -43,8 +43,13 @@
         "alias_ENG_P": [
           "Southern Ostrobothnia"
         ], 
+        "hierarchy": [
+          "woe:state=29389256", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 63.498, 
-        "placetype": "State", 
+        "placetype": "state", 
         "woeid": 29389256, 
         "alias_SWE_S": [
           "Sodra Osterbottens landskap"
@@ -58,7 +63,14 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 62.739, 
-        "date_indexed": "2010-12-02T16:39:41Z", 
+        "sw_latitude": 61.98, 
+        "adjacent": [
+          "woe:state=29389257", 
+          "woe:state=29389258", 
+          "woe:state=29389248", 
+          "woe:state=29389259", 
+          "woe:state=29389252"
+        ], 
         "lang": "FIN", 
         "adjacent_woeid": [
           29389259, 
@@ -68,14 +80,19 @@
           29389258
         ], 
         "name": "Etel\u00e4-Pohjanmaan maakunta", 
-        "parent_woeid": 23424812, 
         "ne_longitude": 24.583, 
         "longitude": 23.047, 
         "iso": "FI", 
-        "sw_latitude": 61.980, 
+        "date_indexed": "2010-12-02T16:39:41Z", 
         "fullname": "Etel\u00e4-Pohjanmaan maakunta, Western Finland, Southern Ostrobothnia, Finland"
       }, 
       "id": 29389256
     }
+  ], 
+  "bbox": [
+    21.512, 
+    61.98, 
+    24.583, 
+    63.498
   ]
 }

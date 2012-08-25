@@ -457,9 +457,14 @@
       "properties": {
         "ne:ProvNumber": 2, 
         "ne:ScaleRank": 6, 
+        "hierarchy": [
+          "woe:state=24549686", 
+          "woe:country=23424806", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 15.176024888437894, 
         "ne:Shape_Area": 0.801985330594, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:VALIDFR_1": "19960415", 
         "ne:gadm_level": 1.0, 
@@ -468,6 +473,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 38.21289269364297, 
+        "adjacent": [
+          "woe:state=56013537", 
+          "woe:state=20069904", 
+          "woe:state=24549684", 
+          "woe:state=24549683", 
+          "woe:state=24549685", 
+          "woe:state=24549682", 
+          "woe:state=2345312"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 16.16, 
         "ne:FIPS_1": "ER02", 
@@ -506,7 +520,6 @@
         ], 
         "ne:HASC_1": "ER.MA", 
         "ne:REMARKS_1": "Old Provinces: Asmara, Hamasien", 
-        "parent_woeid": 23424806, 
         "ne_longitude": 39.72282636904174, 
         "longitude": 38.85, 
         "iso": "ER", 

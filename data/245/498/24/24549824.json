@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549824, 
         "name": "Angaur", 
-        "ne_latitude": 6.924, 
+        "hierarchy": [
+          "woe:state=24549824", 
+          "woe:country=23424927", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549824, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 134.158, 
         "longitude": 134.141, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "PW", 
         "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424927, 
+        "ne_latitude": 6.924, 
         "latitude": 6.905, 
         "sw_longitude": 134.123, 
         "fullname": "Angaur, Palau", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549824
     }
+  ], 
+  "bbox": [
+    134.123, 
+    6.886, 
+    134.158, 
+    6.924
   ]
 }

@@ -1490,17 +1490,27 @@
         "alias_ENG_P": [
           "Central Java"
         ], 
+        "hierarchy": [
+          "woe:state=2345716", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -5.831581719820463, 
         "ne:Shape_Area": 2.78885022258, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "1950", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IDN", 
-        "ne:OBJECTID": 1224, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 108.54689415883843, 
+        "adjacent": [
+          "woe:state=2345719", 
+          "woe:state=2345715", 
+          "woe:state=2345717"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -7.307, 
         "ne:FIPS_1": "ID07", 
@@ -1508,9 +1518,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -8.22611256264463, 
-        "ne:VertexCou": 363.0, 
-        "ne:VALIDFR_1": "1950", 
-        "ne:DataRank": 1, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 1224, 
         "ne:Postal": "JT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Jateng", 
@@ -1526,16 +1536,15 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 34058.9, 
         "woe:id": "2345716", 
-        "ne:HASC_1": "ID.JT", 
-        "lang": "UNK", 
+        "name": "Provinsi Jawa Tengah", 
+        "ne:VertexCou": 363.0, 
         "adjacent_woeid": [
           2345715, 
           2345717, 
           2345719
         ], 
-        "name": "Provinsi Jawa Tengah", 
+        "ne:HASC_1": "ID.JT", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424846, 
         "alias_UNK_V": [
           "Jawa Tengah"
         ], 

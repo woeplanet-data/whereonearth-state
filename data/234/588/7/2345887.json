@@ -571,20 +571,31 @@
         "alias_ENG_P": [
           "Tochigi Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345887", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 37.14357290286722, 
         "ne:Shape_Area": 0.653523633487, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1859, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u6803\u6728"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 139.30594689343445, 
+        "adjacent": [
+          "woe:state=2345883", 
+          "woe:state=2345858", 
+          "woe:state=2345860", 
+          "woe:state=2345863"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 36.677, 
         "ne:FIPS_1": "JA38", 
@@ -592,9 +603,9 @@
         "ne:FIRST_HASC": "JP.KN", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 36.200891424799465, 
-        "ne:VertexCou": 137.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1859, 
         "ne:Postal": "TC", 
         "ne:Region_Cod": "JPN-KNT", 
         "ne:VARNAME_1": "Totigi", 
@@ -610,17 +621,16 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 6481.8, 
         "woe:id": "2345887", 
-        "ne:HASC_1": "JP.TC", 
-        "lang": "JPN", 
+        "name": "\u6803\u6728\u770c", 
+        "ne:VertexCou": 137.0, 
         "adjacent_woeid": [
           2345858, 
           2345860, 
           2345863, 
           2345883
         ], 
-        "name": "\u6803\u6728\u770c", 
+        "ne:HASC_1": "JP.TC", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 140.2667667987488, 
         "longitude": 139.809, 
         "iso": "JP", 

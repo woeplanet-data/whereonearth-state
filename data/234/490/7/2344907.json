@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              29.890, 
-              -3.390
+              29.89, 
+              -3.39
             ], 
             [
-              29.890, 
+              29.89, 
               -2.904
             ], 
             [
@@ -20,11 +20,11 @@
             ], 
             [
               30.351, 
-              -3.390
+              -3.39
             ], 
             [
-              29.890, 
-              -3.390
+              29.89, 
+              -3.39
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2344907, 
-        "name": "Karuzi", 
         "adjacent_woeid": [
           2344904, 
           2344906, 
@@ -41,20 +39,39 @@
           2344912, 
           2344914
         ], 
-        "ne_latitude": -2.904, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Karuzi", 
+        "hierarchy": [
+          "woe:state=2344907", 
+          "woe:country=23424774", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344907, 
         "ne_longitude": 30.351, 
         "longitude": 30.121, 
-        "placetype": "State", 
-        "iso": "BI", 
-        "date_indexed": "2010-12-02T08:58:47Z", 
-        "parent_woeid": 23424774, 
+        "placetype": "state", 
         "latitude": -3.147, 
-        "sw_longitude": 29.890, 
+        "iso": "BI", 
+        "sw_latitude": -3.39, 
+        "adjacent": [
+          "woe:state=2344904", 
+          "woe:state=2344906", 
+          "woe:state=2344911", 
+          "woe:state=2344912", 
+          "woe:state=2344914"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -2.904, 
+        "sw_longitude": 29.89, 
         "fullname": "Karuzi, Burundi", 
-        "sw_latitude": -3.390
+        "date_indexed": "2010-12-02T08:58:47Z"
       }, 
       "id": 2344907
     }
+  ], 
+  "bbox": [
+    29.89, 
+    -3.39, 
+    30.351, 
+    -2.904
   ]
 }

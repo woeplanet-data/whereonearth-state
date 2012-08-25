@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347558, 
-        "alias_UNK_V": [
-          "Zhytomyrshchyna"
-        ], 
-        "name": "Zhytomyrs\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Zhytomyr Oblast"
-        ], 
-        "ne_latitude": 51.682, 
-        "ne_longitude": 29.735, 
-        "longitude": 28.464, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2344831, 
           2347542, 
@@ -52,15 +39,45 @@
           2347551, 
           2347554
         ], 
+        "ne_latitude": 51.682, 
+        "name": "Zhytomyrs\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Zhytomyr Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347558", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347558, 
+        "alias_UNK_V": [
+          "Zhytomyrshchyna"
+        ], 
+        "longitude": 28.464, 
+        "ne_longitude": 29.735, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 49.583, 
+        "adjacent": [
+          "woe:state=2344831", 
+          "woe:state=2347542", 
+          "woe:state=2347545", 
+          "woe:state=2347551", 
+          "woe:state=2347554"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.632, 
         "sw_longitude": 27.194, 
         "fullname": "Zhytomyrs\u00b4ka Oblast\u00b4, Zhytomyr Oblast, Ukraine", 
-        "sw_latitude": 49.583
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347558
     }
+  ], 
+  "bbox": [
+    27.194, 
+    49.583, 
+    29.735, 
+    51.682
   ]
 }

@@ -8,7 +8,7 @@
           [
             [
               33.889, 
-              0.200
+              0.2
             ], 
             [
               33.889, 
@@ -20,11 +20,11 @@
             ], 
             [
               34.145, 
-              0.200
+              0.2
             ], 
             [
               33.889, 
-              0.200
+              0.2
             ]
           ]
         ]
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070454, 
-        "name": "Busia", 
         "adjacent_woeid": [
           20070448, 
           20070455
         ], 
-        "ne_latitude": 0.593, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Busia", 
+        "hierarchy": [
+          "woe:state=20070454", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070454, 
         "ne_longitude": 34.145, 
         "longitude": 34.017, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 0.397, 
+        "iso": "UG", 
+        "sw_latitude": 0.2, 
+        "adjacent": [
+          "woe:state=20070448", 
+          "woe:state=20070455"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.593, 
         "sw_longitude": 33.889, 
         "fullname": "Busia, Uganda", 
-        "sw_latitude": 0.200
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070454
     }
+  ], 
+  "bbox": [
+    33.889, 
+    0.2, 
+    34.145, 
+    0.593
   ]
 }

@@ -15,11 +15,11 @@
               42.794
             ], 
             [
-              25.350, 
+              25.35, 
               42.794
             ], 
             [
-              25.350, 
+              25.35, 
               41.682
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070068, 
-        "name": "Plovdiv", 
         "adjacent_woeid": [
           20070053, 
           20070054, 
@@ -43,20 +41,41 @@
           20070067, 
           20070073
         ], 
-        "ne_latitude": 42.794, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 25.350, 
+        "name": "Plovdiv", 
+        "hierarchy": [
+          "woe:state=20070068", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070068, 
+        "ne_longitude": 25.35, 
         "longitude": 24.854, 
-        "placetype": "State", 
-        "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
+        "placetype": "state", 
         "latitude": 42.238, 
+        "iso": "BG", 
+        "sw_latitude": 41.682, 
+        "adjacent": [
+          "woe:state=20070073", 
+          "woe:state=20070053", 
+          "woe:state=20070064", 
+          "woe:state=20070066", 
+          "woe:state=20070067", 
+          "woe:state=20070061", 
+          "woe:state=20070054"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.794, 
         "sw_longitude": 24.358, 
         "fullname": "Plovdiv, Bulgaria", 
-        "sw_latitude": 41.682
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070068
     }
+  ], 
+  "bbox": [
+    24.358, 
+    41.682, 
+    25.35, 
+    42.794
   ]
 }

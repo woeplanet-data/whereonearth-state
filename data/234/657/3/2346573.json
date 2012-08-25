@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -9.500, 
+              -9.5, 
               38.663
             ], 
             [
-              -9.500, 
+              -9.5, 
               39.317
             ], 
             [
@@ -23,7 +23,7 @@
               38.663
             ], 
             [
-              -9.500, 
+              -9.5, 
               38.663
             ]
           ]
@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Lisbon"
         ], 
+        "hierarchy": [
+          "woe:state=2346573", 
+          "woe:country=23424925", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 39.317, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\ub9ac\uc2a4\ubcf8"
         ], 
@@ -55,9 +60,14 @@
         "alias_FIN_Q": [
           "Lissabon"
         ], 
-        "sw_longitude": -9.500, 
+        "sw_longitude": -9.5, 
+        "adjacent": [
+          "woe:state=2346572", 
+          "woe:state=2346576", 
+          "woe:state=2346577"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 38.990, 
+        "latitude": 38.99, 
         "date_indexed": "2010-12-02T09:58:14Z", 
         "alias_DUT_Q": [
           "Lissabon"
@@ -75,7 +85,6 @@
           2346577
         ], 
         "name": "Lisboa", 
-        "parent_woeid": 23424925, 
         "ne_longitude": -8.782, 
         "longitude": -9.141, 
         "iso": "PT", 
@@ -87,5 +96,11 @@
       }, 
       "id": 2346573
     }
+  ], 
+  "bbox": [
+    -9.5, 
+    38.663, 
+    -8.782, 
+    39.317
   ]
 }

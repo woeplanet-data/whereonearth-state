@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347023, 
-        "name": "Ansela-Raye", 
         "adjacent_woeid": [
           2347025, 
           2347031
         ], 
-        "ne_latitude": 13.958, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ansela-Raye", 
+        "hierarchy": [
+          "woe:state=2347023", 
+          "woe:country=23424951", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347023, 
         "ne_longitude": -60.984, 
         "longitude": -61.025, 
-        "placetype": "State", 
-        "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424951, 
+        "placetype": "state", 
         "latitude": 13.908, 
+        "iso": "LC", 
+        "sw_latitude": 13.857, 
+        "adjacent": [
+          "woe:state=2347025", 
+          "woe:state=2347031"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.958, 
         "sw_longitude": -61.066, 
         "fullname": "Ansela-Raye, St. Lucia", 
-        "sw_latitude": 13.857
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347023
     }
+  ], 
+  "bbox": [
+    -61.066, 
+    13.857, 
+    -60.984, 
+    13.958
   ]
 }

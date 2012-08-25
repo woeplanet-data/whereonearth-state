@@ -8,7 +8,7 @@
           [
             [
               -79.392, 
-              -2.200
+              -2.2
             ], 
             [
               -79.392, 
@@ -20,11 +20,11 @@
             ], 
             [
               -78.841, 
-              -2.200
+              -2.2
             ], 
             [
               -79.392, 
-              -2.200
+              -2.2
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345204, 
-        "name": "Bolivar", 
         "adjacent_woeid": [
           2345207, 
           2345208, 
@@ -41,20 +39,39 @@
           2345214, 
           2345220
         ], 
-        "ne_latitude": -1.148, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bolivar", 
+        "hierarchy": [
+          "woe:state=2345204", 
+          "woe:country=23424801", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345204, 
         "ne_longitude": -78.841, 
         "longitude": -79.116, 
-        "placetype": "State", 
-        "iso": "EC", 
-        "date_indexed": "2010-12-02T17:51:25Z", 
-        "parent_woeid": 23424801, 
+        "placetype": "state", 
         "latitude": -1.674, 
+        "iso": "EC", 
+        "sw_latitude": -2.2, 
+        "adjacent": [
+          "woe:state=2345207", 
+          "woe:state=2345208", 
+          "woe:state=2345211", 
+          "woe:state=2345214", 
+          "woe:state=2345220"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -1.148, 
         "sw_longitude": -79.392, 
         "fullname": "Bolivar, Ecuador", 
-        "sw_latitude": -2.200
+        "date_indexed": "2010-12-02T17:51:25Z"
       }, 
       "id": 2345204
     }
+  ], 
+  "bbox": [
+    -79.392, 
+    -2.2, 
+    -78.841, 
+    -1.148
   ]
 }

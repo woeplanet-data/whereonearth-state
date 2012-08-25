@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347171, 
-        "name": "Rayong", 
         "adjacent_woeid": [
           2347170, 
           2347172
         ], 
-        "ne_latitude": 13.164, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Rayong", 
         "alias_ENG_V": [
           "Changwat Rayong"
         ], 
+        "hierarchy": [
+          "woe:state=2347171", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347171, 
         "ne_longitude": 101.831, 
         "longitude": 101.408, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 12.873, 
+        "iso": "TH", 
+        "sw_latitude": 12.513, 
+        "adjacent": [
+          "woe:state=2347172", 
+          "woe:state=2347170"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.164, 
         "sw_longitude": 100.985, 
         "fullname": "Rayong, Thailand", 
-        "sw_latitude": 12.513
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347171
     }
+  ], 
+  "bbox": [
+    100.985, 
+    12.513, 
+    101.831, 
+    13.164
   ]
 }

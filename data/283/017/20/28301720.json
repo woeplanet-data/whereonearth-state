@@ -12,11 +12,11 @@
             ], 
             [
               105.329, 
-              10.190
+              10.19
             ], 
             [
               105.902, 
-              10.190
+              10.19
             ], 
             [
               105.902, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 28301720, 
-        "name": "Hau Giang", 
         "adjacent_woeid": [
           2347723, 
           2347732, 
@@ -41,14 +39,27 @@
           2347752, 
           20070081
         ], 
-        "ne_latitude": 10.190, 
+        "name": "Hau Giang", 
+        "hierarchy": [
+          "woe:state=28301720", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 28301720, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.902, 
         "longitude": 105.615, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=20070081", 
+          "woe:state=2347732", 
+          "woe:state=2347723", 
+          "woe:state=2347748", 
+          "woe:state=2347752"
+        ], 
+        "ne_latitude": 10.19, 
         "latitude": 9.886, 
         "sw_longitude": 105.329, 
         "fullname": "Hau Giang, Vietnam", 
@@ -56,5 +67,11 @@
       }, 
       "id": 28301720
     }
+  ], 
+  "bbox": [
+    105.329, 
+    9.582, 
+    105.902, 
+    10.19
   ]
 }

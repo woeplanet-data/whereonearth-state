@@ -3531,11 +3531,16 @@
         "alias_KOR_Q": [
           "\uc544\ub8e8\ub098\ucc30\ud504\ub77c\ub370\uc2dc"
         ], 
+        "hierarchy": [
+          "woe:state=2345763", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 29.461276963960756, 
         "ne:Shape_Area": 7.49666589748, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "AR"
         ], 
@@ -3545,13 +3550,23 @@
         "alias_CHI_Q": [
           "\u963f\u9c81\u7eb3\u6070\u5c14\u90a6"
         ], 
-        "ne:OBJECTID": 3299, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30ca\u30c1\u30e3\u30eb\u30fb\u30d1\u30e9\u30c7\u30b7\u30e5"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 91.5728397966194, 
+        "adjacent": [
+          "woe:state=2345741", 
+          "woe:state=2344813", 
+          "woe:state=2345754", 
+          "woe:state=2344819", 
+          "woe:state=2344884", 
+          "woe:state=55967863", 
+          "woe:state=2344886", 
+          "woe:state=12578004"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 28.044, 
         "ne:FIPS_1": "IN30", 
@@ -3559,9 +3574,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 26.647727769221206, 
-        "ne:VertexCou": 747.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3299, 
         "ne:Postal": "AR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Agence de la Frontisre du Nord-Est(French-obsolete)|North East Frontier Agency", 
@@ -3577,8 +3592,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 81676.5, 
         "woe:id": "2345763", 
-        "ne:HASC_1": "IN.AR", 
-        "lang": "ENG", 
+        "name": "Arunachal Pradesh", 
+        "ne:VertexCou": 747.0, 
         "adjacent_woeid": [
           2344813, 
           2344819, 
@@ -3589,9 +3604,8 @@
           12578004, 
           55967863
         ], 
-        "name": "Arunachal Pradesh", 
+        "ne:HASC_1": "IN.AR", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 97.36184044777849, 
         "longitude": 94.485, 
         "iso": "IN", 

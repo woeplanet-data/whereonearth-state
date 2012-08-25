@@ -963,20 +963,33 @@
         "alias_ENG_P": [
           "Fukushima Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345858", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 37.964246324008684, 
         "ne:Shape_Area": 1.42068044448, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1864, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u798f\u5cf6"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 139.1555684752051, 
+        "adjacent": [
+          "woe:state=2345873", 
+          "woe:state=2345893", 
+          "woe:state=2345878", 
+          "woe:state=2345887", 
+          "woe:state=2345860", 
+          "woe:state=2345863"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 37.384, 
         "ne:FIPS_1": "JA08", 
@@ -984,9 +997,9 @@
         "ne:FIRST_HASC": "JP.TK", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 36.79222483960473, 
-        "ne:VertexCou": 235.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1864, 
         "ne:Postal": "FS", 
         "ne:Region_Cod": "JPN-THO", 
         "ne:VARNAME_1": "Hukusima", 
@@ -1002,8 +1015,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 13965.9, 
         "woe:id": "2345858", 
-        "ne:HASC_1": "JP.FS", 
-        "lang": "JPN", 
+        "name": "\u798f\u5cf6\u770c", 
+        "ne:VertexCou": 235.0, 
         "adjacent_woeid": [
           2345860, 
           2345863, 
@@ -1012,9 +1025,8 @@
           2345887, 
           2345893
         ], 
-        "name": "\u798f\u5cf6\u770c", 
+        "ne:HASC_1": "JP.FS", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 141.04217166568992, 
         "longitude": 140.104, 
         "iso": "JP", 

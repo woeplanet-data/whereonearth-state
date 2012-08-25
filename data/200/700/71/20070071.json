@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070071, 
-        "name": "Razgrad", 
         "adjacent_woeid": [
           20070052, 
           20070069, 
           20070070, 
           20070072
         ], 
-        "ne_latitude": 43.951, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Razgrad", 
+        "hierarchy": [
+          "woe:state=20070071", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070071, 
         "ne_longitude": 27.034, 
         "longitude": 26.595, 
-        "placetype": "State", 
-        "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
+        "placetype": "state", 
         "latitude": 43.639, 
+        "iso": "BG", 
+        "sw_latitude": 43.327, 
+        "adjacent": [
+          "woe:state=20070069", 
+          "woe:state=20070052", 
+          "woe:state=20070070", 
+          "woe:state=20070072"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.951, 
         "sw_longitude": 26.155, 
         "fullname": "Razgrad, Bulgaria", 
-        "sw_latitude": 43.327
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070071
     }
+  ], 
+  "bbox": [
+    26.155, 
+    43.327, 
+    27.034, 
+    43.951
   ]
 }

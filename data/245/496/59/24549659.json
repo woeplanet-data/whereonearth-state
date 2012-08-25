@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549659, 
-        "name": "The Valley", 
         "adjacent_woeid": [
           24549649, 
           24549650, 
@@ -43,14 +41,29 @@
           24549658, 
           24549660
         ], 
-        "ne_latitude": 18.232, 
+        "name": "The Valley", 
+        "hierarchy": [
+          "woe:state=24549659", 
+          "woe:country=23424751", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549659, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -63.036, 
         "longitude": -63.054, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AI", 
         "date_indexed": "2010-12-02T17:42:25Z", 
-        "parent_woeid": 23424751, 
+        "adjacent": [
+          "woe:state=24549657", 
+          "woe:state=24549652", 
+          "woe:state=24549650", 
+          "woe:state=24549649", 
+          "woe:state=24549656", 
+          "woe:state=24549658", 
+          "woe:state=24549660"
+        ], 
+        "ne_latitude": 18.232, 
         "latitude": 18.213, 
         "sw_longitude": -63.074, 
         "fullname": "The Valley, Anguilla", 
@@ -58,5 +71,11 @@
       }, 
       "id": 24549659
     }
+  ], 
+  "bbox": [
+    -63.074, 
+    18.201, 
+    -63.036, 
+    18.232
   ]
 }

@@ -989,9 +989,14 @@
       "properties": {
         "ne:ProvNumber": 4, 
         "ne:ScaleRank": 4, 
+        "hierarchy": [
+          "woe:state=56013483", 
+          "woe:country=23424777", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 11.18603587515554, 
         "ne:Shape_Area": 2.58421692415, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 6, 
         "ne:gadm_level": 1.0, 
@@ -1000,6 +1005,11 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 13.945588413574455, 
+        "adjacent": [
+          "woe:state=2344948", 
+          "woe:state=56013484", 
+          "woe:state=2344958"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 9.83, 
         "ne:FIPS_1": "CD10", 
@@ -1034,7 +1044,6 @@
         ], 
         "name": "Mayo-Kebbi Est", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424777, 
         "ne_longitude": 16.246274855200454, 
         "longitude": 15.144, 
         "iso": "TD", 

@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070378, 
-        "alias_ENG_S": [
-          "Lanchrkhutris Raioni"
-        ], 
-        "name": "Lanch\u00b4khut\u00b4is Raioni", 
         "adjacent_woeid": [
           20070376, 
           20070377, 
@@ -44,20 +39,42 @@
           20070399, 
           20070406
         ], 
+        "alias_ENG_S": [
+          "Lanchrkhutris Raioni"
+        ], 
+        "name": "Lanch\u00b4khut\u00b4is Raioni", 
         "ne_latitude": 42.172, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=20070378", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070378, 
         "ne_longitude": 42.235, 
         "longitude": 41.967, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "sw_latitude": 41.963, 
+        "adjacent": [
+          "woe:state=20070395", 
+          "woe:state=20070377", 
+          "woe:state=20070406", 
+          "woe:state=20070376", 
+          "woe:state=20070399"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 42.067, 
         "sw_longitude": 41.699, 
         "fullname": "Lanch\u00b4khut\u00b4is Raioni, Georgia", 
-        "sw_latitude": 41.963
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070378
     }
+  ], 
+  "bbox": [
+    41.699, 
+    41.963, 
+    42.235, 
+    42.172
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070241, 
-        "name": "Neftcala", 
         "adjacent_woeid": [
           20070223, 
           20070239, 
@@ -41,20 +39,39 @@
           20070263, 
           20070280
         ], 
-        "ne_latitude": 39.616, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Neftcala", 
+        "hierarchy": [
+          "woe:state=20070241", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070241, 
         "ne_longitude": 49.439, 
         "longitude": 49.043, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.382, 
+        "iso": "AZ", 
+        "sw_latitude": 39.147, 
+        "adjacent": [
+          "woe:state=20070242", 
+          "woe:state=20070223", 
+          "woe:state=20070263", 
+          "woe:state=20070239", 
+          "woe:state=20070280"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.616, 
         "sw_longitude": 48.647, 
         "fullname": "Neftcala, Azerbaijan", 
-        "sw_latitude": 39.147
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070241
     }
+  ], 
+  "bbox": [
+    48.647, 
+    39.147, 
+    49.439, 
+    39.616
   ]
 }

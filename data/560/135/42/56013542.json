@@ -189,9 +189,14 @@
       "properties": {
         "ne:ProvNumber": 2001, 
         "ne:ScaleRank": 3, 
+        "hierarchy": [
+          "woe:state=56013542", 
+          "woe:country=23424808", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 9.78059194616145, 
         "ne:Shape_Area": 0.0872522129801, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 13, 
         "ne:gadm_level": 1.0, 
@@ -200,6 +205,10 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 41.73174767391606, 
+        "adjacent": [
+          "woe:state=56013545", 
+          "woe:state=56013540"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 9.612, 
         "ne:FIPS_1": "ET48", 
@@ -233,7 +242,6 @@
         ], 
         "name": "Dire Dawa", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424808, 
         "ne_longitude": 42.34101281129227, 
         "longitude": 42.042, 
         "iso": "ET", 

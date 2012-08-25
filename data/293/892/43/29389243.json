@@ -145,9 +145,14 @@
       "properties": {
         "ne:ProvNumber": 1, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=29389243", 
+          "woe:country=20069817", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.360024522513754, 
         "ne:Shape_Area": 0.0133728535308, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
@@ -156,6 +161,11 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 18.78493126766392, 
+        "adjacent": [
+          "woe:state=29389244", 
+          "woe:state=29389242", 
+          "woe:state=29389240"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.255, 
         "ne:FIPS_1": "MJ00", 
@@ -190,7 +200,6 @@
         ], 
         "name": "Budva", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 20069817, 
         "ne_longitude": 19.000887078575886, 
         "longitude": 18.908, 
         "iso": "ME", 

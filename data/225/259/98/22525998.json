@@ -12,11 +12,11 @@
             ], 
             [
               3.889, 
-              51.050
+              51.05
             ], 
             [
               5.188, 
-              51.050
+              51.05
             ], 
             [
               5.188, 
@@ -40,8 +40,13 @@
         "alias_SWE_S": [
           "Flamlanska Brabant"
         ], 
-        "ne_latitude": 51.050, 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=22525998", 
+          "woe:country=23424757", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 51.05, 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Brabante Flamengo"
         ], 
@@ -65,6 +70,15 @@
           "Flemish Brabant"
         ], 
         "sw_longitude": 3.889, 
+        "adjacent": [
+          "woe:state=7153308", 
+          "woe:state=22525997", 
+          "woe:state=7153299", 
+          "woe:state=7153301", 
+          "woe:state=7153300", 
+          "woe:state=7153304", 
+          "woe:state=55965974"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.869, 
         "alias_NOR_Q": [
@@ -91,7 +105,6 @@
           55965974
         ], 
         "name": "Vlaams Brabant", 
-        "parent_woeid": 23424757, 
         "ne_longitude": 5.188, 
         "longitude": 4.539, 
         "iso": "BE", 
@@ -103,5 +116,11 @@
       }, 
       "id": 22525998
     }
+  ], 
+  "bbox": [
+    3.889, 
+    50.687, 
+    5.188, 
+    51.05
   ]
 }

@@ -8,7 +8,7 @@
           [
             [
               -178.315, 
-              28.200
+              28.2
             ], 
             [
               -178.315, 
@@ -20,11 +20,11 @@
             ], 
             [
               -177.319, 
-              28.200
+              28.2
             ], 
             [
               -178.315, 
-              28.200
+              28.2
             ]
           ]
         ]
@@ -32,20 +32,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 23424895, 
-        "name": "Midway Islands", 
         "alias_SPA_Q": [
           "Islas Midway"
         ], 
-        "ne_latitude": 28.398, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Midway Islands", 
+        "hierarchy": [
+          "woe:state=23424895", 
+          "woe:country=28289407", 
+          "woe:planet=1"
+        ], 
+        "woeid": 23424895, 
         "ne_longitude": -177.319, 
         "longitude": -177.375, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 28.21, 
         "iso": "UM", 
-        "date_indexed": "2010-12-02T16:52:36Z", 
-        "parent_woeid": 28289407, 
-        "latitude": 28.210, 
+        "sw_latitude": 28.2, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 28.398, 
         "sw_longitude": -178.315, 
         "fullname": "Midway Islands, United States Minor Outlying Islands", 
         "alias_GER_Q": [
@@ -54,12 +58,18 @@
         "alias_FRE_S": [
           "Iles Midway"
         ], 
-        "sw_latitude": 28.200, 
+        "date_indexed": "2010-12-02T16:52:36Z", 
         "alias_FRE_Q": [
           "\u00celes Midway"
         ]
       }, 
       "id": 23424895
     }
+  ], 
+  "bbox": [
+    -178.315, 
+    28.2, 
+    -177.319, 
+    28.398
   ]
 }

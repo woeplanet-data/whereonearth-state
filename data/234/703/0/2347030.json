@@ -8,7 +8,7 @@
           [
             [
               -60.996, 
-              13.760
+              13.76
             ], 
             [
               -60.996, 
@@ -20,11 +20,11 @@
             ], 
             [
               -60.886, 
-              13.760
+              13.76
             ], 
             [
               -60.996, 
-              13.760
+              13.76
             ]
           ]
         ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347030, 
-        "name": "Micoud", 
         "adjacent_woeid": [
           2347025, 
           2347031, 
           2347032, 
           2347033
         ], 
-        "ne_latitude": 13.867, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Micoud", 
+        "hierarchy": [
+          "woe:state=2347030", 
+          "woe:country=23424951", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347030, 
         "ne_longitude": -60.886, 
         "longitude": -60.941, 
-        "placetype": "State", 
-        "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424951, 
+        "placetype": "state", 
         "latitude": 13.813, 
+        "iso": "LC", 
+        "sw_latitude": 13.76, 
+        "adjacent": [
+          "woe:state=2347025", 
+          "woe:state=2347033", 
+          "woe:state=2347031", 
+          "woe:state=2347032"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.867, 
         "sw_longitude": -60.996, 
         "fullname": "Micoud, St. Lucia", 
-        "sw_latitude": 13.760
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347030
     }
+  ], 
+  "bbox": [
+    -60.996, 
+    13.76, 
+    -60.886, 
+    13.867
   ]
 }

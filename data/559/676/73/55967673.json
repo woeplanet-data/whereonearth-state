@@ -69,9 +69,14 @@
       "properties": {
         "ne:ProvNumber": 3, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=55967673", 
+          "woe:country=23424764", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 6.395837307046122, 
         "ne:Shape_Area": 0.00471370925256, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -80,6 +85,10 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 2.359887322741827, 
+        "adjacent": [
+          "woe:state=2344825", 
+          "woe:state=2344828"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 6.365, 
         "ne:FIPS_1": "BN14", 
@@ -113,7 +122,6 @@
         ], 
         "name": "Littoral", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424764, 
         "ne_longitude": 2.483962436317427, 
         "longitude": 2.406, 
         "iso": "BJ", 

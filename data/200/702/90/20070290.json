@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              34.960, 
+              34.96, 
               29.258
             ], 
             [
-              34.960, 
+              34.96, 
               30.775
             ], 
             [
@@ -23,7 +23,7 @@
               29.258
             ], 
             [
-              34.960, 
+              34.96, 
               29.258
             ]
           ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 20070290, 
-        "name": "Al `Aqabah", 
         "adjacent_woeid": [
           2345791, 
           2345928, 
           2345932, 
           2346962
         ], 
-        "ne_latitude": 30.775, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Al `Aqabah", 
+        "hierarchy": [
+          "woe:state=20070290", 
+          "woe:country=23424860", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070290, 
         "ne_longitude": 35.672, 
         "longitude": 35.316, 
-        "placetype": "State", 
-        "iso": "JO", 
-        "date_indexed": "2010-12-02T12:08:12Z", 
-        "parent_woeid": 23424860, 
+        "placetype": "state", 
         "latitude": 30.018, 
-        "sw_longitude": 34.960, 
+        "iso": "JO", 
+        "sw_latitude": 29.258, 
+        "adjacent": [
+          "woe:state=2345932", 
+          "woe:state=2345928", 
+          "woe:state=2345791", 
+          "woe:state=2346962"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 30.775, 
+        "sw_longitude": 34.96, 
         "fullname": "Al `Aqabah, Jordan", 
-        "sw_latitude": 29.258
+        "date_indexed": "2010-12-02T12:08:12Z"
       }, 
       "id": 20070290
     }
+  ], 
+  "bbox": [
+    34.96, 
+    29.258, 
+    35.672, 
+    30.775
   ]
 }

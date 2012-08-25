@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070430, 
-        "name": "Kumi", 
         "adjacent_woeid": [
           20070441, 
           20070446, 
@@ -42,20 +40,40 @@
           56190197, 
           56190198
         ], 
-        "ne_latitude": 1.679, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kumi", 
+        "hierarchy": [
+          "woe:state=20070430", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070430, 
         "ne_longitude": 34.275, 
         "longitude": 33.915, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 1.417, 
+        "iso": "UG", 
+        "sw_latitude": 1.156, 
+        "adjacent": [
+          "woe:state=56190197", 
+          "woe:state=56190198", 
+          "woe:state=20070446", 
+          "woe:state=24550738", 
+          "woe:state=20070441", 
+          "woe:state=20070447"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.679, 
         "sw_longitude": 33.556, 
         "fullname": "Kumi, Uganda", 
-        "sw_latitude": 1.156
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070430
     }
+  ], 
+  "bbox": [
+    33.556, 
+    1.156, 
+    34.275, 
+    1.679
   ]
 }

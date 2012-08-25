@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344570, 
-        "name": "Konduz", 
         "adjacent_woeid": [
           2344551, 
           2344571, 
@@ -41,23 +39,42 @@
           2344577, 
           20070295
         ], 
-        "ne_latitude": 37.331, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Konduz", 
         "alias_ENG_V": [
           "Kondoz"
         ], 
+        "hierarchy": [
+          "woe:state=2344570", 
+          "woe:country=23424739", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344570, 
         "ne_longitude": 69.336, 
         "longitude": 68.682, 
-        "placetype": "State", 
-        "iso": "AF", 
-        "date_indexed": "2010-12-02T18:03:37Z", 
-        "parent_woeid": 23424739, 
+        "placetype": "state", 
         "latitude": 36.826, 
+        "iso": "AF", 
+        "sw_latitude": 36.322, 
+        "adjacent": [
+          "woe:state=2344551", 
+          "woe:state=2344575", 
+          "woe:state=20070295", 
+          "woe:state=2344577", 
+          "woe:state=2344571"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 37.331, 
         "sw_longitude": 68.029, 
         "fullname": "Konduz, Afghanistan", 
-        "sw_latitude": 36.322
+        "date_indexed": "2010-12-02T18:03:37Z"
       }, 
       "id": 2344570
     }
+  ], 
+  "bbox": [
+    68.029, 
+    36.322, 
+    69.336, 
+    37.331
   ]
 }

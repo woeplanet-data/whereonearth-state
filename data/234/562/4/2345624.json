@@ -12,11 +12,11 @@
             ], 
             [
               -87.517, 
-              13.760
+              13.76
             ], 
             [
               -86.703, 
-              13.760
+              13.76
             ], 
             [
               -86.703, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345624, 
-        "name": "Choluteca", 
         "adjacent_woeid": [
           2345629, 
           2345630, 
@@ -42,20 +40,40 @@
           2346425, 
           2346429
         ], 
-        "ne_latitude": 13.760, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Choluteca", 
+        "hierarchy": [
+          "woe:state=2345624", 
+          "woe:country=23424841", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345624, 
         "ne_longitude": -86.703, 
-        "longitude": -87.110, 
-        "placetype": "State", 
-        "iso": "HN", 
-        "date_indexed": "2010-12-02T19:20:59Z", 
-        "parent_woeid": 23424841, 
+        "longitude": -87.11, 
+        "placetype": "state", 
         "latitude": 13.371, 
+        "iso": "HN", 
+        "sw_latitude": 12.982, 
+        "adjacent": [
+          "woe:state=2346419", 
+          "woe:state=2345629", 
+          "woe:state=2345630", 
+          "woe:state=2346425", 
+          "woe:state=2346429", 
+          "woe:state=2345639"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.76, 
         "sw_longitude": -87.517, 
         "fullname": "Choluteca, Honduras", 
-        "sw_latitude": 12.982
+        "date_indexed": "2010-12-02T19:20:59Z"
       }, 
       "id": 2345624
     }
+  ], 
+  "bbox": [
+    -87.517, 
+    12.982, 
+    -86.703, 
+    13.76
   ]
 }

@@ -32,19 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549913, 
-        "name": "Alo", 
         "adjacent_woeid": [
           24549914
         ], 
-        "ne_latitude": -14.252, 
+        "name": "Alo", 
+        "hierarchy": [
+          "woe:state=24549913", 
+          "woe:country=23424989", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549913, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -177.987, 
         "longitude": -178.034, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "WF", 
         "date_indexed": "2010-12-02T09:35:31Z", 
-        "parent_woeid": 23424989, 
+        "adjacent": [
+          "woe:state=24549914"
+        ], 
+        "ne_latitude": -14.252, 
         "latitude": -14.361, 
         "sw_longitude": -178.172, 
         "fullname": "Alo, Wallis and Futuna", 
@@ -52,5 +59,11 @@
       }, 
       "id": 24549913
     }
+  ], 
+  "bbox": [
+    -178.172, 
+    -14.388, 
+    -177.987, 
+    -14.252
   ]
 }

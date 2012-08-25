@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346984, 
-        "name": "North-West", 
         "adjacent_woeid": [
           2346985, 
           2344745, 
@@ -44,23 +42,45 @@
           2344750, 
           2346986
         ], 
-        "ne_latitude": -24.636, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "North-West", 
         "alias_ENG_V": [
           "North West"
         ], 
+        "hierarchy": [
+          "woe:state=2346984", 
+          "woe:country=23424942", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346984, 
         "ne_longitude": 28.299, 
         "longitude": 25.464, 
-        "placetype": "State", 
-        "iso": "ZA", 
-        "date_indexed": "2010-12-02T08:57:23Z", 
-        "parent_woeid": 23424942, 
+        "placetype": "state", 
         "latitude": -26.374, 
+        "iso": "ZA", 
+        "sw_latitude": -28.112, 
+        "adjacent": [
+          "woe:state=2346980", 
+          "woe:state=2346981", 
+          "woe:state=2344744", 
+          "woe:state=2344745", 
+          "woe:state=2346986", 
+          "woe:state=2346985", 
+          "woe:state=2344749", 
+          "woe:state=2344750"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -24.636, 
         "sw_longitude": 22.629, 
         "fullname": "North-West, North-west, South Africa", 
-        "sw_latitude": -28.112
+        "date_indexed": "2010-12-02T08:57:23Z"
       }, 
       "id": 2346984
     }
+  ], 
+  "bbox": [
+    22.629, 
+    -28.112, 
+    28.299, 
+    -24.636
   ]
 }

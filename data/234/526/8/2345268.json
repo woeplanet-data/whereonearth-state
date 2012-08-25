@@ -1363,20 +1363,34 @@
           "Contae Ros Comain"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2345268", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 54.11468170839419, 
         "ne:Shape_Area": 0.340763764623, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "ROS"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:OBJECTID": 727, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -8.817104864597752, 
+        "adjacent": [
+          "woe:state=2345255", 
+          "woe:state=2345259", 
+          "woe:state=2345262", 
+          "woe:state=2345264", 
+          "woe:state=2345267", 
+          "woe:state=2345269", 
+          "woe:state=2345272"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 53.695, 
         "ne:FIPS_1": "EI24", 
@@ -1384,9 +1398,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 53.27623159431266, 
-        "ne:VertexCou": 337.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 727, 
         "ne:Postal": "RN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Ros Com\u00e1in", 
@@ -1402,8 +1416,8 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 2503.5, 
         "woe:id": "2345268", 
-        "ne:HASC_1": "IE.RN", 
-        "lang": "ENG", 
+        "name": "Roscommon", 
+        "ne:VertexCou": 337.0, 
         "adjacent_woeid": [
           2345255, 
           2345259, 
@@ -1413,12 +1427,11 @@
           2345269, 
           2345272
         ], 
-        "name": "Roscommon", 
+        "ne:HASC_1": "IE.RN", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae Ros Comain"
         ], 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Ros Com\u00e1in"
         ], 

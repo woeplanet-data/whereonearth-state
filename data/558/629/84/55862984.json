@@ -32,19 +32,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 55862984, 
+        "ne_latitude": 35.337, 
         "name": "Melilla", 
         "alias_ENG_P": [
           "Melilla Province"
         ], 
-        "ne_latitude": 35.337, 
+        "hierarchy": [
+          "woe:state=55862984", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55862984, 
         "alias_SPA_V": [
           "Ciudad Aut\u00f3noma de Melilla"
         ], 
         "ne_longitude": -2.416, 
         "longitude": -2.951, 
-        "parent_woeid": 23424950, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_SPA_S": [
           "Ciudad Autonoma de Melilla"
         ], 
@@ -58,5 +62,11 @@
       }, 
       "id": 55862984
     }
+  ], 
+  "bbox": [
+    -2.975, 
+    35.183, 
+    -2.416, 
+    35.337
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               2.546, 
-              51.370
+              51.37
             ], 
             [
               3.523, 
-              51.370
+              51.37
             ], 
             [
               3.523, 
@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Vastflandern"
         ], 
-        "ne_latitude": 51.370, 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=7153305", 
+          "woe:country=23424757", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 51.37, 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Flandres Ocidental"
         ], 
@@ -51,8 +56,8 @@
         "alias_ITA_Q": [
           "Fiandra Occidentale"
         ], 
-        "alias_GER_V": [
-          "Westflandern"
+        "alias_DAN_Q": [
+          "Vestflandern"
         ], 
         "woeid": 7153305, 
         "alias_JPN_Q": [
@@ -68,6 +73,12 @@
           "Lansi-Flanderi"
         ], 
         "sw_longitude": 2.546, 
+        "adjacent": [
+          "woe:state=7153299", 
+          "woe:state=7153324", 
+          "woe:state=7153304", 
+          "woe:state=2346382"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 51.038, 
         "alias_NOR_Q": [
@@ -83,8 +94,8 @@
         "alias_DUT_V": [
           "Westflanders"
         ], 
-        "alias_DAN_Q": [
-          "Vestflandern"
+        "alias_GER_V": [
+          "Westflandern"
         ], 
         "alias_GER_Q": [
           "West Flandern"
@@ -97,7 +108,6 @@
           7153324
         ], 
         "name": "West-Vlaanderen", 
-        "parent_woeid": 23424757, 
         "ne_longitude": 3.523, 
         "longitude": 3.034, 
         "iso": "BE", 
@@ -112,5 +122,11 @@
       }, 
       "id": 7153305
     }
+  ], 
+  "bbox": [
+    2.546, 
+    50.708, 
+    3.523, 
+    51.37
   ]
 }

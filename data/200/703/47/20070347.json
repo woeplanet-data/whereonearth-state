@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070347, 
-        "name": "Adigenis Raioni", 
         "adjacent_woeid": [
           20070348, 
           20070377, 
@@ -41,20 +39,39 @@
           20070391, 
           20070400
         ], 
-        "ne_latitude": 41.823, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Adigenis Raioni", 
+        "hierarchy": [
+          "woe:state=20070347", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070347, 
         "ne_longitude": 42.962, 
         "longitude": 42.745, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 41.7, 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
-        "latitude": 41.700, 
+        "sw_latitude": 41.578, 
+        "adjacent": [
+          "woe:state=20070400", 
+          "woe:state=20070348", 
+          "woe:state=20070388", 
+          "woe:state=20070377", 
+          "woe:state=20070391"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.823, 
         "sw_longitude": 42.528, 
         "fullname": "Adigenis Raioni, Georgia", 
-        "sw_latitude": 41.578
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070347
     }
+  ], 
+  "bbox": [
+    42.528, 
+    41.578, 
+    42.962, 
+    41.823
   ]
 }

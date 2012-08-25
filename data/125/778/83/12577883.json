@@ -1431,14 +1431,19 @@
         "alias_POL_Q": [
           "Epir"
         ], 
+        "hierarchy": [
+          "woe:state=12577883", 
+          "woe:country=23424833", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.32663442653762, 
         "alias_RUM_Q": [
           "Epir"
         ], 
         "ne:Shape_Area": 0.914720461878, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1923", 
         "alias_POR_Q": [
           "\u00c9piro"
         ], 
@@ -1446,30 +1451,35 @@
           "\uc774\ud53c\ub85c\uc2a4 \uc8fc"
         ], 
         "ne:gadm_level": 1.0, 
-        "alias_ARA_Q": [
-          "\u0625\u0628\u064a\u0631\u0648\u0633"
-        ], 
+        "ne:ADM0_A3": "GRC", 
         "alias_CHI_Q": [
           "\u4f0a\u5e87\u9c81\u65af"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Epiro"
+        ], 
         "alias_ITA_Q": [
           "Regione Dell'epiro"
         ], 
-        "ne:OBJECTID": 2949, 
-        "ne:ADM0_A3": "GRC", 
+        "ne:DataRank": 6, 
+        "alias_ARA_Q": [
+          "\u0625\u0628\u064a\u0631\u0648\u0633"
+        ], 
         "alias_JPN_Q": [
           "\u30a4\u30d4\u30ed\u30b9"
         ], 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Epiro"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Epeiros"
         ], 
         "sw_longitude": 19.999844191256443, 
+        "adjacent": [
+          "woe:state=12577889", 
+          "woe:state=12577880", 
+          "woe:state=12577881"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.66, 
         "ne:FIPS_1": "GR17", 
@@ -1477,34 +1487,33 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "ne:VertexCou": 336.0, 
-        "ne:VALIDFR_1": "1923", 
-        "ne:DataRank": 6, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 2949, 
         "ne:Postal": "EP", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Epirus", 
         "ne:ISO": "GRC", 
-        "ne:TYPE_1": "Diamerismata", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 6.34837097434, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "Greece", 
         "ne:NAME_1": "Ipeiros", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Diamerismata", 
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 8723.8, 
         "woe:id": "12577883", 
-        "ne:HASC_1": "GR.EP", 
-        "lang": "ENG", 
+        "name": "Epirus", 
+        "ne:VertexCou": 336.0, 
         "adjacent_woeid": [
           12577880, 
           12577881, 
           12577889
         ], 
-        "name": "Epirus", 
+        "ne:HASC_1": "GR.EP", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424833, 
         "alias_UNK_Q": [
           "Epiros"
         ], 
@@ -1513,15 +1522,15 @@
         ], 
         "ne_longitude": 21.38508263545532, 
         "longitude": 20.719, 
-        "ne:NEV_Countr": "Greece", 
+        "alias_FRE_S": [
+          "Epire"
+        ], 
         "iso": "GR", 
         "sw_latitude": 38.950025946840015, 
         "ne:NL_NAME_1": "?pe????", 
         "fullname": "Epirus, Ipiros, Greece", 
         "ne:Region": null, 
-        "alias_FRE_S": [
-          "Epire"
-        ], 
+        "ne:NEV_Countr": "Greece", 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "\u00c9pire"

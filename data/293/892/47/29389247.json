@@ -32,40 +32,56 @@
       "type": "Feature", 
       "properties": {
         "lang": "FIN", 
-        "woeid": 29389247, 
-        "alias_SWE_V": [
-          "Nyland"
-        ], 
-        "name": "Uudenmaan maakunta", 
-        "alias_ENG_P": [
-          "Uusimaa"
-        ], 
-        "ne_latitude": 60.841, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 25.526, 
-        "longitude": 24.168, 
-        "placetype": "State", 
         "adjacent_woeid": [
           29389249, 
           29389250, 
           29389251, 
           29389255
         ], 
-        "iso": "FI", 
+        "alias_SWE_V": [
+          "Nyland"
+        ], 
+        "alias_SWE_Q": [
+          "Nylands landskap"
+        ], 
+        "alias_ENG_P": [
+          "Uusimaa"
+        ], 
+        "hierarchy": [
+          "woe:state=29389247", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 60.841, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 25.526, 
+        "longitude": 24.168, 
+        "placetype": "state", 
+        "sw_longitude": 22.809, 
         "date_indexed": "2010-12-02T16:39:41Z", 
         "alias_FIN_V": [
           "Uudenmaan maakuntana"
         ], 
-        "parent_woeid": 23424812, 
+        "woeid": 29389247, 
         "latitude": 60.324, 
-        "sw_longitude": 22.809, 
+        "iso": "FI", 
         "fullname": "Uudenmaan maakunta, Southern Finland, Uudenmaan maakunta, Finland", 
+        "adjacent": [
+          "woe:state=29389251", 
+          "woe:state=29389249", 
+          "woe:state=29389255", 
+          "woe:state=29389250"
+        ], 
         "sw_latitude": 59.765, 
-        "alias_SWE_Q": [
-          "Nylands landskap"
-        ]
+        "name": "Uudenmaan maakunta"
       }, 
       "id": 29389247
     }
+  ], 
+  "bbox": [
+    22.809, 
+    59.765, 
+    25.526, 
+    60.841
   ]
 }

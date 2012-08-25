@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 7153303, 
-        "name": "Namur", 
         "adjacent_woeid": [
           7153299, 
           7153300, 
@@ -41,26 +39,45 @@
           7153315, 
           22525997
         ], 
-        "ne_latitude": 50.648, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Namur", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=7153303", 
+          "woe:country=23424757", 
+          "woe:planet=1"
+        ], 
+        "woeid": 7153303, 
         "ne_longitude": 5.403, 
         "longitude": 4.844, 
-        "placetype": "State", 
+        "ne_latitude": 50.648, 
         "alias_DUT_Q": [
           "Namen"
         ], 
         "iso": "BE", 
-        "date_indexed": "2010-12-02T16:31:49Z", 
-        "parent_woeid": 23424757, 
+        "sw_latitude": 49.786, 
+        "adjacent": [
+          "woe:state=22525997", 
+          "woe:state=7153315", 
+          "woe:state=7153299", 
+          "woe:state=7153300", 
+          "woe:state=7153302"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 50.217, 
         "sw_longitude": 4.286, 
         "fullname": "Namur, Belgium", 
         "alias_GER_Q": [
           "Namen"
         ], 
-        "sw_latitude": 49.786
+        "date_indexed": "2010-12-02T16:31:49Z"
       }, 
       "id": 7153303
     }
+  ], 
+  "bbox": [
+    4.286, 
+    49.786, 
+    5.403, 
+    50.648
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2346326, 
-        "name": "Dosso", 
         "adjacent_woeid": [
           2346329, 
           2346361, 
@@ -41,20 +39,39 @@
           20069995, 
           55967672
         ], 
-        "ne_latitude": 14.552, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Dosso", 
+        "hierarchy": [
+          "woe:state=2346326", 
+          "woe:country=23424906", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346326, 
         "ne_longitude": 4.595, 
         "longitude": 3.536, 
-        "placetype": "State", 
-        "iso": "NE", 
-        "date_indexed": "2010-12-02T17:43:23Z", 
-        "parent_woeid": 23424906, 
+        "placetype": "state", 
         "latitude": 13.124, 
+        "iso": "NE", 
+        "sw_latitude": 11.697, 
+        "adjacent": [
+          "woe:state=55967672", 
+          "woe:state=2346368", 
+          "woe:state=2346361", 
+          "woe:state=2346329", 
+          "woe:state=20069995"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.552, 
         "sw_longitude": 2.478, 
         "fullname": "Dosso, Niger", 
-        "sw_latitude": 11.697
+        "date_indexed": "2010-12-02T17:43:23Z"
       }, 
       "id": 2346326
     }
+  ], 
+  "bbox": [
+    2.478, 
+    11.697, 
+    4.595, 
+    14.552
   ]
 }

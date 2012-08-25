@@ -12,11 +12,11 @@
             ], 
             [
               105.346, 
-              16.340
+              16.34
             ], 
             [
               107.128, 
-              16.340
+              16.34
             ], 
             [
               107.128, 
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070157, 
-        "name": "Salavan", 
         "adjacent_woeid": [
           2346008, 
           2347199, 
           20070158, 
           20070160
         ], 
-        "ne_latitude": 16.340, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Salavan", 
+        "hierarchy": [
+          "woe:state=20070157", 
+          "woe:country=23424872", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070157, 
         "ne_longitude": 107.128, 
         "longitude": 106.237, 
-        "placetype": "State", 
-        "iso": "LA", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
-        "parent_woeid": 23424872, 
+        "placetype": "state", 
         "latitude": 15.766, 
+        "iso": "LA", 
+        "sw_latitude": 15.193, 
+        "adjacent": [
+          "woe:state=20070160", 
+          "woe:state=2346008", 
+          "woe:state=2347199", 
+          "woe:state=20070158"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.34, 
         "sw_longitude": 105.346, 
         "fullname": "Salavan, Laos", 
-        "sw_latitude": 15.193
+        "date_indexed": "2010-12-02T16:42:51Z"
       }, 
       "id": 20070157
     }
+  ], 
+  "bbox": [
+    105.346, 
+    15.193, 
+    107.128, 
+    16.34
   ]
 }

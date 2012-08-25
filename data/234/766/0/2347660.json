@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347660, 
-        "name": "Bukhoro", 
         "adjacent_woeid": [
           2347348, 
           2347663, 
@@ -41,20 +39,39 @@
           2347665, 
           2347667
         ], 
-        "ne_latitude": 41.382, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bukhoro", 
+        "hierarchy": [
+          "woe:state=2347660", 
+          "woe:country=23424980", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347660, 
         "ne_longitude": 65.279, 
         "longitude": 63.973, 
-        "placetype": "State", 
-        "iso": "UZ", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424980, 
+        "placetype": "state", 
         "latitude": 40.137, 
+        "iso": "UZ", 
+        "sw_latitude": 38.892, 
+        "adjacent": [
+          "woe:state=2347348", 
+          "woe:state=2347665", 
+          "woe:state=2347667", 
+          "woe:state=2347664", 
+          "woe:state=2347663"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.382, 
         "sw_longitude": 62.168, 
         "fullname": "Bukhoro, Uzbekistan", 
-        "sw_latitude": 38.892
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347660
     }
+  ], 
+  "bbox": [
+    62.168, 
+    38.892, 
+    65.279, 
+    41.382
   ]
 }

@@ -121,9 +121,14 @@
       "properties": {
         "ne:ProvNumber": 2002, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=24550732", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 0.464416408590409, 
         "ne:Shape_Area": 0.303874491199, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
@@ -132,6 +137,11 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 33.387037387765304, 
+        "adjacent": [
+          "woe:state=20070448", 
+          "woe:state=20070449", 
+          "woe:state=20070417"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 0.048, 
         "ne:FIPS_1": "UG86", 
@@ -166,7 +176,6 @@
         ], 
         "name": "Mayuge", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424974, 
         "ne_longitude": 33.69668257024449, 
         "longitude": 33.592, 
         "iso": "UG", 

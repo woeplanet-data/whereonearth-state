@@ -43,8 +43,13 @@
         "alias_ENG_P": [
           "Lodz"
         ], 
+        "hierarchy": [
+          "woe:state=12577937", 
+          "woe:country=23424923", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 52.394, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Lodz"
         ], 
@@ -62,6 +67,14 @@
           "\u0141\u00f3d\u017a"
         ], 
         "sw_longitude": 18.075, 
+        "adjacent": [
+          "woe:state=12577936", 
+          "woe:state=12577941", 
+          "woe:state=12577942", 
+          "woe:state=12577946", 
+          "woe:state=12577947", 
+          "woe:state=12577949"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 51.619, 
         "alias_NOR_Q": [
@@ -81,7 +94,6 @@
           12577949
         ], 
         "name": "\u0141\u00f3dzkie", 
-        "parent_woeid": 23424923, 
         "ne_longitude": 20.659, 
         "longitude": 19.367, 
         "iso": "PL", 
@@ -93,5 +105,11 @@
       }, 
       "id": 12577937
     }
+  ], 
+  "bbox": [
+    18.075, 
+    50.843, 
+    20.659, 
+    52.394
   ]
 }

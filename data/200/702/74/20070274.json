@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070274, 
-        "name": "Tartar", 
         "adjacent_woeid": [
           20070219, 
           20070252, 
@@ -41,20 +39,39 @@
           20070261, 
           20070273
         ], 
-        "ne_latitude": 40.502, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tartar", 
+        "hierarchy": [
+          "woe:state=20070274", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070274, 
         "ne_longitude": 47.114, 
         "longitude": 46.678, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.223, 
+        "iso": "AZ", 
+        "sw_latitude": 40.097, 
+        "adjacent": [
+          "woe:state=20070258", 
+          "woe:state=20070219", 
+          "woe:state=20070261", 
+          "woe:state=20070273", 
+          "woe:state=20070252"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.502, 
         "sw_longitude": 46.491, 
         "fullname": "Tartar, Azerbaijan", 
-        "sw_latitude": 40.097
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070274
     }
+  ], 
+  "bbox": [
+    46.491, 
+    40.097, 
+    47.114, 
+    40.502
   ]
 }

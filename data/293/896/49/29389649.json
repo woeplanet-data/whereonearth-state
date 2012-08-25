@@ -8,23 +8,23 @@
           [
             [
               18.502, 
-              44.710
+              44.71
             ], 
             [
               18.502, 
               44.947
             ], 
             [
-              19.020, 
+              19.02, 
               44.947
             ], 
             [
-              19.020, 
-              44.710
+              19.02, 
+              44.71
             ], 
             [
               18.502, 
-              44.710
+              44.71
             ]
           ]
         ]
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 29389649, 
-        "name": "Br\u010dko Distrikt", 
         "adjacent_woeid": [
           12577988, 
           24549661, 
           24549662
         ], 
+        "name": "Br\u010dko Distrikt", 
+        "latitude": 44.829, 
         "alias_UNK_S": [
           "Brcko Distrikt"
         ], 
-        "ne_latitude": 44.947, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 19.020, 
+        "woeid": 29389649, 
+        "ne_longitude": 19.02, 
         "longitude": 18.761, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=29389649", 
+          "woe:country=23424761", 
+          "woe:planet=1"
+        ], 
         "iso": "BA", 
         "date_indexed": "2010-12-02T12:15:51Z", 
-        "parent_woeid": 23424761, 
-        "latitude": 44.829, 
+        "adjacent": [
+          "woe:state=24549661", 
+          "woe:state=24549662", 
+          "woe:state=12577988"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 44.947, 
         "sw_longitude": 18.502, 
         "fullname": "Br\u010dko Distrikt, Bosnia and Herzegovina", 
-        "sw_latitude": 44.710
+        "sw_latitude": 44.71
       }, 
       "id": 29389649
     }
+  ], 
+  "bbox": [
+    18.502, 
+    44.71, 
+    19.02, 
+    44.947
   ]
 }

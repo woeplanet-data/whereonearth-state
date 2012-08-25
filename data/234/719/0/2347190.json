@@ -8,7 +8,7 @@
           [
             [
               99.732, 
-              7.090
+              7.09
             ], 
             [
               99.732, 
@@ -20,11 +20,11 @@
             ], 
             [
               100.428, 
-              7.090
+              7.09
             ], 
             [
               99.732, 
-              7.090
+              7.09
             ]
           ]
         ]
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347190, 
-        "name": "Phatthalung", 
         "adjacent_woeid": [
           2347188, 
           2347189, 
           2347191, 
           2347192
         ], 
-        "ne_latitude": 7.893, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Phatthalung", 
         "alias_ENG_V": [
           "Changwat Phatthalung"
         ], 
+        "hierarchy": [
+          "woe:state=2347190", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347190, 
         "ne_longitude": 100.428, 
-        "longitude": 100.080, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "longitude": 100.08, 
+        "placetype": "state", 
         "latitude": 7.492, 
+        "iso": "TH", 
+        "sw_latitude": 7.09, 
+        "adjacent": [
+          "woe:state=2347188", 
+          "woe:state=2347191", 
+          "woe:state=2347192", 
+          "woe:state=2347189"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 7.893, 
         "sw_longitude": 99.732, 
         "fullname": "Phatthalung, Thailand", 
-        "sw_latitude": 7.090
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347190
     }
+  ], 
+  "bbox": [
+    99.732, 
+    7.09, 
+    100.428, 
+    7.893
   ]
 }

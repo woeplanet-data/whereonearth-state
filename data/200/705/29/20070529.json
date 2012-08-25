@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070529, 
-        "name": "Altayskiy Kray", 
         "adjacent_woeid": [
           2345993, 
           2346901, 
@@ -41,20 +39,39 @@
           20070175, 
           20070530
         ], 
-        "ne_latitude": 54.479, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Altayskiy Kray", 
+        "hierarchy": [
+          "woe:state=20070529", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070529, 
         "ne_longitude": 87.159, 
         "longitude": 82.517, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 52.609, 
+        "iso": "RU", 
+        "sw_latitude": 50.738, 
+        "adjacent": [
+          "woe:state=20070530", 
+          "woe:state=2346901", 
+          "woe:state=2346914", 
+          "woe:state=2345993", 
+          "woe:state=20070175"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 54.479, 
         "sw_longitude": 77.875, 
         "fullname": "Altayskiy Kray, Russia", 
-        "sw_latitude": 50.738
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 20070529
     }
+  ], 
+  "bbox": [
+    77.875, 
+    50.738, 
+    87.159, 
+    54.479
   ]
 }

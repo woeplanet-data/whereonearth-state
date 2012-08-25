@@ -549,11 +549,16 @@
         "alias_ENG_P": [
           "Ibaraki Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345863", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.92673859281189, 
         "ne:Shape_Area": 0.635728749243, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc774\ubc14\ub77c\ud0a4\ucf04"
         ], 
@@ -563,7 +568,7 @@
         "alias_CHI_Q": [
           "\u8328\u57ce\u53bf"
         ], 
-        "ne:OBJECTID": 1856, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u8328\u57ce"
         ], 
@@ -573,6 +578,12 @@
           "Ibarakin Prefektuuri"
         ], 
         "sw_longitude": 139.6537292823806, 
+        "adjacent": [
+          "woe:state=2345854", 
+          "woe:state=2345883", 
+          "woe:state=2345887", 
+          "woe:state=2345858"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 36.342, 
         "ne:FIPS_1": "JA14", 
@@ -582,9 +593,9 @@
         "ne:FIRST_HASC": "JP.IW", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 131.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1856, 
         "ne:Postal": "IB", 
         "ne:Region_Cod": "JPN-KNT", 
         "ne:VARNAME_1": null, 
@@ -603,8 +614,8 @@
           "Pr\u00e4fektur Ibaraki"
         ], 
         "woe:id": "2345863", 
-        "ne:HASC_1": "JP.IB", 
-        "lang": "JPN", 
+        "name": "\u8328\u57ce\u770c", 
+        "ne:VertexCou": 131.0, 
         "adjacent_woeid": [
           2345854, 
           2345858, 
@@ -612,9 +623,8 @@
           2345887
         ], 
         "ne:FIRST_FIPS": "JA16", 
-        "name": "\u8328\u57ce\u770c", 
+        "ne:HASC_1": "JP.IB", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 140.85959883032183, 
         "longitude": 140.27, 
         "iso": "JP", 

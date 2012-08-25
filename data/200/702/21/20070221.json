@@ -15,11 +15,11 @@
               41.885
             ], 
             [
-              48.980, 
+              48.98, 
               41.885
             ], 
             [
-              48.980, 
+              48.98, 
               41.331
             ], 
             [
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070221, 
-        "name": "Xacmaz", 
         "adjacent_woeid": [
           2346870, 
           20070232, 
           20070234, 
           20070279
         ], 
-        "ne_latitude": 41.885, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 48.980, 
+        "name": "Xacmaz", 
+        "hierarchy": [
+          "woe:state=20070221", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070221, 
+        "ne_longitude": 48.98, 
         "longitude": 48.732, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 41.608, 
+        "iso": "AZ", 
+        "sw_latitude": 41.331, 
+        "adjacent": [
+          "woe:state=2346870", 
+          "woe:state=20070279", 
+          "woe:state=20070232", 
+          "woe:state=20070234"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.885, 
         "sw_longitude": 48.484, 
         "fullname": "Xacmaz, Azerbaijan", 
-        "sw_latitude": 41.331
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070221
     }
+  ], 
+  "bbox": [
+    48.484, 
+    41.331, 
+    48.98, 
+    41.885
   ]
 }

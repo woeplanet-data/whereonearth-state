@@ -8,7 +8,7 @@
           [
             [
               45.355, 
-              40.360
+              40.36
             ], 
             [
               45.355, 
@@ -20,11 +20,11 @@
             ], 
             [
               45.889, 
-              40.360
+              40.36
             ], 
             [
               45.355, 
-              40.360
+              40.36
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070230, 
-        "name": "Gadabay", 
         "adjacent_woeid": [
           20070202, 
           20070204, 
@@ -41,20 +39,39 @@
           20070244, 
           20070248
         ], 
-        "ne_latitude": 40.772, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Gadabay", 
+        "hierarchy": [
+          "woe:state=20070230", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070230, 
         "ne_longitude": 45.889, 
         "longitude": 45.622, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.566, 
+        "iso": "AZ", 
+        "sw_latitude": 40.36, 
+        "adjacent": [
+          "woe:state=20070222", 
+          "woe:state=20070204", 
+          "woe:state=20070244", 
+          "woe:state=20070202", 
+          "woe:state=20070248"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.772, 
         "sw_longitude": 45.355, 
         "fullname": "Gadabay, Azerbaijan", 
-        "sw_latitude": 40.360
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070230
     }
+  ], 
+  "bbox": [
+    45.355, 
+    40.36, 
+    45.889, 
+    40.772
   ]
 }

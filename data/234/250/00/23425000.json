@@ -12,11 +12,11 @@
             ], 
             [
               -63.144, 
-              18.070
+              18.07
             ], 
             [
               -63.013, 
-              18.070
+              18.07
             ], 
             [
               -63.013, 
@@ -32,25 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "DUT", 
-        "woeid": 23425000, 
+        "ne_latitude": 18.07, 
         "name": "St. Maarten", 
-        "ne_latitude": 18.070, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=23425000", 
+          "woe:country=23424914", 
+          "woe:planet=1"
+        ], 
+        "woeid": 23425000, 
         "ne_longitude": -63.013, 
         "longitude": -63.079, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AN", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
+        "sw_latitude": 18.012, 
         "alias_DUT_V": [
           "Stmaarten"
         ], 
-        "parent_woeid": 23424914, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 18.041, 
         "sw_longitude": -63.144, 
         "fullname": "St. Maarten, Netherlands Antilles", 
-        "sw_latitude": 18.012
+        "date_indexed": "2010-12-02T16:42:51Z"
       }, 
       "id": 23425000
     }
+  ], 
+  "bbox": [
+    -63.144, 
+    18.012, 
+    -63.013, 
+    18.07
   ]
 }

@@ -14,10 +14,22 @@
           56120061
         ], 
         "name": "Chaouia-Ouardigha", 
-        "parent_woeid": 23424893, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56120050", 
+          "woe:country=23424893", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "MA", 
+        "adjacent": [
+          "woe:state=56120051", 
+          "woe:state=56120054", 
+          "woe:state=56120056", 
+          "woe:state=56120057", 
+          "woe:state=56120059", 
+          "woe:state=56120061"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56120050, 
         "date_indexed": "2010-12-02T18:19:13Z"
       }, 

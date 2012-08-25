@@ -12,11 +12,11 @@
             ], 
             [
               -63.074, 
-              18.260
+              18.26
             ], 
             [
               -63.041, 
-              18.260
+              18.26
             ], 
             [
               -63.041, 
@@ -32,23 +32,31 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549651, 
-        "name": "North Hill", 
         "adjacent_woeid": [
           24549652, 
           24549657
         ], 
-        "ne_latitude": 18.260, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "North Hill", 
         "alias_ENG_V": [
           "N Hill"
         ], 
+        "hierarchy": [
+          "woe:state=24549651", 
+          "woe:country=23424751", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549651, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -63.041, 
         "longitude": -63.057, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AI", 
         "date_indexed": "2010-12-02T17:42:25Z", 
-        "parent_woeid": 23424751, 
+        "adjacent": [
+          "woe:state=24549657", 
+          "woe:state=24549652"
+        ], 
+        "ne_latitude": 18.26, 
         "latitude": 18.244, 
         "sw_longitude": -63.074, 
         "fullname": "North Hill, Anguilla", 
@@ -56,5 +64,11 @@
       }, 
       "id": 24549651
     }
+  ], 
+  "bbox": [
+    -63.074, 
+    18.227, 
+    -63.041, 
+    18.26
   ]
 }

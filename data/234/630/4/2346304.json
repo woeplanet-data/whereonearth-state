@@ -180,17 +180,26 @@
         "alias_ENG_P": [
           "Penang"
         ], 
+        "hierarchy": [
+          "woe:state=2346304", 
+          "woe:country=23424901", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 5.469098008366416, 
         "ne:Shape_Area": 0.0244450677419, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19460401", 
+        "ne:MAP_COLOR": 6, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "MYS", 
-        "ne:DataRank": 6, 
+        "ne:OBJECTID": 1139, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 100.17923953677524, 
+        "adjacent": [
+          "woe:state=2346297", 
+          "woe:state=2346302"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 5.354, 
         "ne:FIPS_1": "MY09", 
@@ -198,9 +207,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 5.26280569073009, 
-        "lang": "UNK", 
-        "ne:MAP_COLOR": 6, 
-        "ne:OBJECTID": 1139, 
+        "ne:VertexCou": 40.0, 
+        "ne:VALIDFR_1": "19460401", 
+        "ne:DataRank": 6, 
         "ne:Postal": "PG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Penang and Province Wellesley|Penang", 
@@ -216,15 +225,14 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 299.6, 
         "woe:id": "2346304", 
-        "name": "Pulau Pinang", 
-        "ne:VertexCou": 40.0, 
+        "ne:HASC_1": "MY.PG", 
+        "lang": "UNK", 
         "adjacent_woeid": [
           2346297, 
           2346302
         ], 
-        "ne:HASC_1": "MY.PG", 
+        "name": "Pulau Pinang", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424901, 
         "alias_UNK_V": [
           "Pinang"
         ], 

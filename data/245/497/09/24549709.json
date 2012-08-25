@@ -12,14 +12,14 @@
             ], 
             [
               144.656, 
-              13.280
+              13.28
             ], 
             [
-              144.720, 
-              13.280
+              144.72, 
+              13.28
             ], 
             [
-              144.720, 
+              144.72, 
               13.242
             ], 
             [
@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549709, 
-        "name": "Merizo", 
         "adjacent_woeid": [
           24549710, 
           24549711
         ], 
-        "ne_latitude": 13.280, 
+        "name": "Merizo", 
+        "hierarchy": [
+          "woe:state=24549709", 
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549709, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 144.720, 
+        "ne_longitude": 144.72, 
         "longitude": 144.688, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "parent_woeid": 23424832, 
+        "adjacent": [
+          "woe:state=24549711", 
+          "woe:state=24549710"
+        ], 
+        "ne_latitude": 13.28, 
         "latitude": 13.261, 
         "sw_longitude": 144.656, 
         "fullname": "Merizo, Guam", 
@@ -53,5 +61,11 @@
       }, 
       "id": 24549709
     }
+  ], 
+  "bbox": [
+    144.656, 
+    13.242, 
+    144.72, 
+    13.28
   ]
 }

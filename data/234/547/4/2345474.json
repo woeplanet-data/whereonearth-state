@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345474, 
-        "name": "Saint David", 
         "adjacent_woeid": [
           2345473, 
           2345475
         ], 
-        "ne_latitude": 12.076, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint David", 
         "alias_ENG_V": [
           "St. David"
         ], 
+        "hierarchy": [
+          "woe:state=2345474", 
+          "woe:country=23424826", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345474, 
         "ne_longitude": -61.637, 
         "longitude": -61.678, 
-        "placetype": "State", 
-        "iso": "GD", 
-        "date_indexed": "2010-12-02T17:52:39Z", 
-        "parent_woeid": 23424826, 
+        "placetype": "state", 
         "latitude": 12.035, 
+        "iso": "GD", 
+        "sw_latitude": 11.983, 
+        "adjacent": [
+          "woe:state=2345473", 
+          "woe:state=2345475"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.076, 
         "sw_longitude": -61.719, 
         "fullname": "Saint David, Grenada", 
-        "sw_latitude": 11.983
+        "date_indexed": "2010-12-02T17:52:39Z"
       }, 
       "id": 2345474
     }
+  ], 
+  "bbox": [
+    -61.719, 
+    11.983, 
+    -61.637, 
+    12.076
   ]
 }

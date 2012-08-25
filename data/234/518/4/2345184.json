@@ -12,11 +12,11 @@
             ], 
             [
               -71.867, 
-              19.910
+              19.91
             ], 
             [
               -71.163, 
-              19.910
+              19.91
             ], 
             [
               -71.163, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 19.910, 
-        "name": "Monte Cristri", 
         "adjacent_woeid": [
           2345175, 
           2345187, 
@@ -41,23 +39,42 @@
           2345195, 
           2345619
         ], 
+        "name": "Monte Cristri", 
+        "hierarchy": [
+          "woe:state=2345184", 
+          "woe:country=23424800", 
+          "woe:planet=1"
+        ], 
         "woeid": 2345184, 
         "alias_SPA_V": [
           "Mte-Christi"
         ], 
         "ne_longitude": -71.163, 
         "longitude": -71.471, 
-        "parent_woeid": 23424800, 
-        "placetype": "State", 
-        "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 19.720, 
+        "placetype": "state", 
+        "latitude": 19.72, 
         "sw_longitude": -71.867, 
+        "sw_latitude": 19.529, 
+        "adjacent": [
+          "woe:state=2345175", 
+          "woe:state=2345619", 
+          "woe:state=2345187", 
+          "woe:state=2345194", 
+          "woe:state=2345195"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.91, 
+        "iso": "DO", 
         "fullname": "Monte Cristri, Dominican Republic", 
-        "sw_latitude": 19.529
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345184
     }
+  ], 
+  "bbox": [
+    -71.867, 
+    19.529, 
+    -71.163, 
+    19.91
   ]
 }

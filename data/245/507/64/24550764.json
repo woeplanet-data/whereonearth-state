@@ -8,7 +8,7 @@
           [
             [
               20.638, 
-              41.330
+              41.33
             ], 
             [
               20.638, 
@@ -20,11 +20,11 @@
             ], 
             [
               21.109, 
-              41.330
+              41.33
             ], 
             [
               20.638, 
-              41.330
+              41.33
             ]
           ]
         ]
@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550764, 
-        "alias_UNK_V": [
-          "Opstina Drugovo"
-        ], 
-        "name": "Drugovo", 
-        "alias_ENG_P": [
-          "Drugovo Municipality"
-        ], 
-        "ne_latitude": 41.603, 
-        "ne_longitude": 21.109, 
-        "longitude": 20.873, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550746, 
           24550759, 
@@ -57,15 +44,50 @@
           24550858, 
           24550864
         ], 
+        "name": "Drugovo", 
+        "alias_ENG_P": [
+          "Drugovo Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550764", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550764, 
+        "alias_UNK_V": [
+          "Opstina Drugovo"
+        ], 
+        "longitude": 20.873, 
+        "ne_longitude": 21.109, 
+        "placetype": "state", 
+        "latitude": 41.466, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550829", 
+          "woe:state=24550746", 
+          "woe:state=24550759", 
+          "woe:state=24550775", 
+          "woe:state=24550782", 
+          "woe:state=24550858", 
+          "woe:state=24550797", 
+          "woe:state=24550846", 
+          "woe:state=24550818", 
+          "woe:state=24550864"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.466, 
+        "ne_latitude": 41.603, 
         "sw_longitude": 20.638, 
         "fullname": "Drugovo, Drugovo Municipality, Macedonia", 
-        "sw_latitude": 41.330
+        "sw_latitude": 41.33
       }, 
       "id": 24550764
     }
+  ], 
+  "bbox": [
+    20.638, 
+    41.33, 
+    21.109, 
+    41.603
   ]
 }

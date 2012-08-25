@@ -12,11 +12,11 @@
             ], 
             [
               121.283, 
-              25.300
+              25.3
             ], 
             [
               122.008, 
-              25.300
+              25.3
             ], 
             [
               122.008, 
@@ -32,19 +32,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "CHI", 
-        "woeid": 20070569, 
+        "alias_ENG_V": [
+          "Xinbei City"
+        ], 
         "name": "\u65b0\u5317\u5e02", 
         "alias_ENG_P": [
           "Hsing Bei Shi"
         ], 
-        "ne_latitude": 25.300, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "Xinbei City"
+        "hierarchy": [
+          "woe:state=20070569", 
+          "woe:country=23424971", 
+          "woe:planet=1"
         ], 
+        "woeid": 20070569, 
         "ne_longitude": 122.008, 
         "longitude": 121.558, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 24.839, 
         "adjacent_woeid": [
           2347336, 
           2347345, 
@@ -52,14 +56,26 @@
           20070568
         ], 
         "iso": "TW", 
-        "date_indexed": "2010-12-02T16:15:11Z", 
-        "parent_woeid": 23424971, 
-        "latitude": 24.839, 
+        "sw_latitude": 24.673, 
+        "adjacent": [
+          "woe:state=20070568", 
+          "woe:state=22695855", 
+          "woe:state=2347336", 
+          "woe:state=2347345"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 25.3, 
         "sw_longitude": 121.283, 
         "fullname": "\u65b0\u5317\u5e02, Taiwan, Taipei County, Taiwan", 
-        "sw_latitude": 24.673
+        "date_indexed": "2010-12-02T16:15:11Z"
       }, 
       "id": 20070569
     }
+  ], 
+  "bbox": [
+    121.283, 
+    24.673, 
+    122.008, 
+    25.3
   ]
 }

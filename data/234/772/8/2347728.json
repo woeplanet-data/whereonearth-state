@@ -37,8 +37,13 @@
         "alias_SWE_Q": [
           "Saigon"
         ], 
+        "hierarchy": [
+          "woe:state=2347728", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 11.155, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\ud638\uce58\ubbfc"
         ], 
@@ -53,12 +58,20 @@
           "H\u1ed3 Ch\u00ed Minh"
         ], 
         "sw_longitude": 106.412, 
+        "adjacent": [
+          "woe:state=2347729", 
+          "woe:state=20070078", 
+          "woe:state=2347721", 
+          "woe:state=2347710", 
+          "woe:state=2347714", 
+          "woe:state=2347717"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 10.762, 
         "alias_NOR_Q": [
           "Ho Chi Minh-byen"
         ], 
-        "date_indexed": "2010-12-02T08:52:39Z", 
+        "sw_latitude": 10.369, 
         "lang": "ENG", 
         "adjacent_woeid": [
           2347710, 
@@ -69,14 +82,19 @@
           20070078
         ], 
         "name": "Ho Chi Minh", 
-        "parent_woeid": 23424984, 
         "ne_longitude": 107.012, 
         "longitude": 106.712, 
         "iso": "VN", 
-        "sw_latitude": 10.369, 
+        "date_indexed": "2010-12-02T08:52:39Z", 
         "fullname": "Ho Chi Minh, Vietnam"
       }, 
       "id": 2347728
     }
+  ], 
+  "bbox": [
+    106.412, 
+    10.369, 
+    107.012, 
+    11.155
   ]
 }

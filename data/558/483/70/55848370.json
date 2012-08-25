@@ -181,9 +181,14 @@
       "properties": {
         "ne:ProvNumber": 6, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848370", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.780038967224584, 
         "ne:Shape_Area": 0.0156093583785, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 2.0, 
@@ -192,6 +197,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 16.175633172333107, 
+        "adjacent": [
+          "woe:state=2344708", 
+          "woe:state=55848348", 
+          "woe:state=55848362", 
+          "woe:state=55848365", 
+          "woe:state=2344713", 
+          "woe:state=12577928", 
+          "woe:state=12577930"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.715, 
         "ne:FIPS_1": "SI78", 
@@ -230,7 +244,6 @@
         ], 
         "name": "Murska Sobota", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 16.36544070822214, 
         "longitude": 16.182, 
         "iso": "SI", 

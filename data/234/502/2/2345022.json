@@ -1988,21 +1988,32 @@
         "alias_ENG_P": [
           "Atacama Region"
         ], 
+        "hierarchy": [
+          "woe:state=2345022", 
+          "woe:country=23424782", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -25.291324150888784, 
         "ne:Shape_Area": 7.23445762333, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VARNAME_1": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1979", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHL", 
-        "ne:OBJECTID": 2696, 
+        "ne:DataRank": 3, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_SPA_S": [
           "Region de Atacama"
         ], 
         "sw_longitude": -71.52185624886675, 
+        "adjacent": [
+          "woe:state=2345020", 
+          "woe:state=2344676", 
+          "woe:state=2345024", 
+          "woe:state=2344686", 
+          "woe:state=2344692"
+        ], 
         "alias_SPA_V": [
           "Regi\u00f3n de Atacama"
         ], 
@@ -2012,12 +2023,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": -29.74789967183233, 
-        "ne:VertexCou": 491.0, 
-        "ne:VALIDFR_1": "1979", 
-        "ne:DataRank": 3, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 2696, 
         "ne:Postal": "AT", 
         "ne:Region_Cod": null, 
-        "provider": "geoplanet 7.6.0", 
+        "ne:VARNAME_1": null, 
         "ne:ISO": "CHL", 
         "ne:TYPE_1": "Regi\u00f3n", 
         "ne:Region_C_2": null, 
@@ -2030,8 +2041,8 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 79283.4, 
         "woe:id": "2345022", 
-        "ne:HASC_1": "CL.AT", 
-        "lang": "SPA", 
+        "name": "Atacama", 
+        "ne:VertexCou": 491.0, 
         "adjacent_woeid": [
           2344676, 
           2344686, 
@@ -2039,11 +2050,11 @@
           2345020, 
           2345024
         ], 
-        "name": "Atacama", 
+        "ne:HASC_1": "CL.AT", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424782, 
-        "ne_longitude": -68.30272457537882, 
+        "provider": "geoplanet 7.6.0", 
         "longitude": -69.901, 
+        "ne_longitude": -68.30272457537882, 
         "iso": "CL", 
         "date_indexed": "2010-12-02T12:15:28Z", 
         "ne:NL_NAME_1": null, 

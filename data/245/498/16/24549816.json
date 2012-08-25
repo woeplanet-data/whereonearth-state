@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              134.540, 
+              134.54, 
               7.573
             ], 
             [
-              134.540, 
+              134.54, 
               7.623
             ], 
             [
@@ -23,7 +23,7 @@
               7.573
             ], 
             [
-              134.540, 
+              134.54, 
               7.573
             ]
           ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549816, 
-        "name": "Ngardmau", 
         "adjacent_woeid": [
           24549814, 
           24549815, 
           24549817
         ], 
-        "ne_latitude": 7.623, 
+        "name": "Ngardmau", 
+        "hierarchy": [
+          "woe:state=24549816", 
+          "woe:country=23424927", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549816, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 134.625, 
         "longitude": 134.583, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "PW", 
         "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424927, 
+        "adjacent": [
+          "woe:state=24549814", 
+          "woe:state=24549817", 
+          "woe:state=24549815"
+        ], 
+        "ne_latitude": 7.623, 
         "latitude": 7.598, 
-        "sw_longitude": 134.540, 
+        "sw_longitude": 134.54, 
         "fullname": "Ngardmau, Palau", 
         "sw_latitude": 7.573
       }, 
       "id": 24549816
     }
+  ], 
+  "bbox": [
+    134.54, 
+    7.573, 
+    134.625, 
+    7.623
   ]
 }

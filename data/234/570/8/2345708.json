@@ -8,7 +8,7 @@
           [
             [
               -23.879, 
-              65.680
+              65.68
             ], 
             [
               -23.879, 
@@ -20,11 +20,11 @@
             ], 
             [
               -23.005, 
-              65.680
+              65.68
             ], 
             [
               -23.879, 
-              65.680
+              65.68
             ]
           ]
         ]
@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2345708, 
-        "name": "Vestur-Isafjardarsysla", 
         "adjacent_woeid": [
           2345697, 
           2345706
         ], 
-        "ne_latitude": 66.182, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Vestur-Isafjardarsysla", 
+        "hierarchy": [
+          "woe:state=2345708", 
+          "woe:country=23424845", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345708, 
         "ne_longitude": -23.005, 
         "longitude": -23.442, 
-        "placetype": "State", 
-        "iso": "IS", 
-        "date_indexed": "2010-12-02T09:55:32Z", 
-        "parent_woeid": 23424845, 
+        "placetype": "state", 
         "latitude": 65.931, 
+        "iso": "IS", 
+        "sw_latitude": 65.68, 
+        "adjacent": [
+          "woe:state=2345697", 
+          "woe:state=2345706"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 66.182, 
         "sw_longitude": -23.879, 
         "fullname": "Vestur-Isafjardarsysla, Iceland", 
         "alias_UNK_A": [
           "V-ISF"
         ], 
-        "sw_latitude": 65.680
+        "date_indexed": "2010-12-02T09:55:32Z"
       }, 
       "id": 2345708
     }
+  ], 
+  "bbox": [
+    -23.879, 
+    65.68, 
+    -23.005, 
+    66.182
   ]
 }

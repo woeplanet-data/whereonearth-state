@@ -15,11 +15,11 @@
               1.042
             ], 
             [
-              34.320, 
+              34.32, 
               1.042
             ], 
             [
-              34.320, 
+              34.32, 
               0.585
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070455, 
-        "name": "Tororo", 
         "adjacent_woeid": [
           20070433, 
           20070448, 
@@ -41,20 +39,39 @@
           56190199, 
           56190209
         ], 
-        "ne_latitude": 1.042, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 34.320, 
+        "name": "Tororo", 
+        "hierarchy": [
+          "woe:state=20070455", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070455, 
+        "ne_longitude": 34.32, 
         "longitude": 34.046, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 0.621, 
+        "iso": "UG", 
+        "sw_latitude": 0.585, 
+        "adjacent": [
+          "woe:state=20070448", 
+          "woe:state=20070454", 
+          "woe:state=56190199", 
+          "woe:state=56190209", 
+          "woe:state=20070433"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.042, 
         "sw_longitude": 33.772, 
         "fullname": "Tororo, Uganda", 
-        "sw_latitude": 0.585
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070455
     }
+  ], 
+  "bbox": [
+    33.772, 
+    0.585, 
+    34.32, 
+    1.042
   ]
 }

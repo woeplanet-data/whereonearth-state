@@ -28407,11 +28407,16 @@
         "alias_SWE_S": [
           "Nordvastterritorierna"
         ], 
+        "hierarchy": [
+          "woe:state=2344920", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 78.76645864574994, 
         "ne:Shape_Area": 270.936224885, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19990401", 
         "alias_KOR_Q": [
           "\ub178\uc2a4\uc6e8\uc2a4\ud2b8 \uc900\uc8fc"
         ], 
@@ -28421,7 +28426,7 @@
         "alias_CHI_Q": [
           "\u897f\u5317\u5730\u533a"
         ], 
-        "ne:OBJECTID": 635, 
+        "ne:DataRank": 2, 
         "alias_JPN_Q": [
           "\u30ce\u30fc\u30b9\u30a6\u30a7\u30b9\u30c8\u30c6\u30ea\u30c8\u30ea\u30fc\u30ba"
         ], 
@@ -28432,6 +28437,14 @@
           "Luoteisterritoriot"
         ], 
         "sw_longitude": -136.4453869290635, 
+        "adjacent": [
+          "woe:state=2344915", 
+          "woe:state=2344916", 
+          "woe:state=2344917", 
+          "woe:state=20069920", 
+          "woe:state=2344925", 
+          "woe:state=2344926"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 65.287, 
         "ne:FIPS_1": "CA13", 
@@ -28441,29 +28454,29 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Territory", 
         "date_indexed": "2010-12-02T10:22:50Z", 
-        "ne:VertexCou": 7029.0, 
+        "lang": "ENG", 
         "alias_ENG_A": [
           "NWT"
         ], 
-        "ne:VALIDFR_1": "19990401", 
-        "ne:DataRank": 2, 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 635, 
         "ne:Postal": "NT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Territoires du Nord-Ouest", 
         "ne:ISO": "CAN", 
-        "ne:TYPE_1": "Territoire", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 341.108240107, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "Canada", 
         "ne:NAME_1": "Northwest Territories", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Territoire", 
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 1348299.7, 
         "woe:id": "2344920", 
-        "ne:HASC_1": "CA.NT", 
-        "lang": "ENG", 
+        "name": "Northwest Territories", 
+        "ne:VertexCou": 7029.0, 
         "adjacent_woeid": [
           2344915, 
           2344916, 
@@ -28473,9 +28486,8 @@
           20069920
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Northwest Territories", 
+        "ne:HASC_1": "CA.NT", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424775, 
         "ne_longitude": -101.98658586274735, 
         "longitude": -119.24, 
         "iso": "CA", 

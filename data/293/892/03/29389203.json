@@ -32,33 +32,48 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 29389203, 
-        "alias_UNK_V": [
-          "North Banat"
-        ], 
-        "name": "Severni Banat", 
         "adjacent_woeid": [
           29389196, 
           29389197, 
           29389212
         ], 
-        "ne_latitude": 46.179, 
+        "name": "Severni Banat", 
+        "hierarchy": [
+          "woe:state=29389203", 
+          "woe:country=20069818", 
+          "woe:planet=1"
+        ], 
+        "woeid": 29389203, 
         "alias_UNK_Q": [
           "Severno-Banatski Okrug"
         ], 
+        "alias_UNK_V": [
+          "North Banat"
+        ], 
+        "longitude": 20.23, 
         "ne_longitude": 20.673, 
-        "longitude": 20.230, 
-        "parent_woeid": 20069818, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 45.893, 
         "iso": "RS", 
         "date_indexed": "2010-12-02T10:22:30Z", 
+        "adjacent": [
+          "woe:state=29389212", 
+          "woe:state=29389196", 
+          "woe:state=29389197"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 45.893, 
+        "ne_latitude": 46.179, 
         "sw_longitude": 19.795, 
         "fullname": "Severni Banat, Serbia", 
         "sw_latitude": 45.608
       }, 
       "id": 29389203
     }
+  ], 
+  "bbox": [
+    19.795, 
+    45.608, 
+    20.673, 
+    46.179
   ]
 }

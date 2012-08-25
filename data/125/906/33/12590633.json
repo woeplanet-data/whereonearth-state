@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "SWE", 
-        "woeid": 12590633, 
-        "name": "Geta", 
         "adjacent_woeid": [
           12590631, 
           12590634
         ], 
-        "ne_latitude": 60.496, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Geta", 
+        "hierarchy": [
+          "woe:state=12590633", 
+          "woe:country=12577865", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12590633, 
         "ne_longitude": 19.974, 
         "longitude": 19.869, 
-        "placetype": "State", 
-        "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
-        "parent_woeid": 12577865, 
+        "placetype": "state", 
         "latitude": 60.374, 
+        "iso": "AX", 
+        "sw_latitude": 60.321, 
+        "adjacent": [
+          "woe:state=12590631", 
+          "woe:state=12590634"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 60.496, 
         "sw_longitude": 19.695, 
         "fullname": "Geta, Aland Islands", 
-        "sw_latitude": 60.321
+        "date_indexed": "2010-12-02T17:06:00Z"
       }, 
       "id": 12590633
     }
+  ], 
+  "bbox": [
+    19.695, 
+    60.321, 
+    19.974, 
+    60.496
   ]
 }

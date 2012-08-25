@@ -32,28 +32,41 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070404, 
+        "adjacent_woeid": [
+          20070390
+        ], 
         "alias_ENG_S": [
           "Krutraisi"
         ], 
         "name": "K\u00b4ut\u00b4aisi", 
-        "adjacent_woeid": [
-          20070390
-        ], 
         "ne_latitude": 42.279, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=20070404", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070404, 
         "ne_longitude": 42.731, 
         "longitude": 42.709, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "sw_latitude": 42.254, 
+        "adjacent": [
+          "woe:state=20070390"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 42.266, 
         "sw_longitude": 42.698, 
         "fullname": "K\u00b4ut\u00b4aisi, Georgia", 
-        "sw_latitude": 42.254
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070404
     }
+  ], 
+  "bbox": [
+    42.698, 
+    42.254, 
+    42.731, 
+    42.279
   ]
 }

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              12.940, 
+              12.94, 
               50.077
             ], 
             [
-              12.940, 
+              12.94, 
               51.056
             ], 
             [
@@ -23,7 +23,7 @@
               50.077
             ], 
             [
-              12.940, 
+              12.94, 
               50.077
             ]
           ]
@@ -32,27 +32,37 @@
       "type": "Feature", 
       "properties": {
         "lang": "CZE", 
-        "woeid": 20070499, 
-        "name": "\u00dasteck\u00fd", 
         "adjacent_woeid": [
           20070468, 
           20070498, 
           20070500, 
           20070501
         ], 
-        "ne_latitude": 51.056, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "\u00dasteck\u00fd", 
+        "latitude": 50.567, 
+        "hierarchy": [
+          "woe:state=20070499", 
+          "woe:country=23424810", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070499, 
         "ne_longitude": 14.653, 
         "longitude": 13.797, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_CZE_V": [
           "Aussig (an der Elbe)"
         ], 
         "iso": "CZ", 
-        "date_indexed": "2010-12-02T08:54:50Z", 
-        "parent_woeid": 23424810, 
-        "latitude": 50.567, 
-        "sw_longitude": 12.940, 
+        "sw_latitude": 50.077, 
+        "adjacent": [
+          "woe:state=20070500", 
+          "woe:state=20070498", 
+          "woe:state=20070501", 
+          "woe:state=20070468"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 51.056, 
+        "sw_longitude": 12.94, 
         "fullname": "\u00dasteck\u00fd, Czech Republic", 
         "alias_GER_Q": [
           "Aussig"
@@ -60,9 +70,15 @@
         "alias_CZE_S": [
           "Ustecky"
         ], 
-        "sw_latitude": 50.077
+        "date_indexed": "2010-12-02T08:54:50Z"
       }, 
       "id": 20070499
     }
+  ], 
+  "bbox": [
+    12.94, 
+    50.077, 
+    14.653, 
+    51.056
   ]
 }

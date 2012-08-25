@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -1.350, 
+              -1.35, 
               35.043
             ], 
             [
-              -1.350, 
+              -1.35, 
               35.649
             ], 
             [
@@ -23,7 +23,7 @@
               35.043
             ], 
             [
-              -1.350, 
+              -1.35, 
               35.043
             ]
           ]
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344606, 
-        "name": "'A\u00efn Temouchent", 
         "adjacent_woeid": [
           2344584, 
           2344589, 
           2344601
         ], 
-        "ne_latitude": 35.649, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "'A\u00efn Temouchent", 
+        "hierarchy": [
+          "woe:state=2344606", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344606, 
         "ne_longitude": -0.609, 
-        "longitude": -0.980, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "longitude": -0.98, 
+        "placetype": "state", 
         "latitude": 35.346, 
-        "sw_longitude": -1.350, 
-        "fullname": "'A\u00efn Temouchent, Algeria", 
+        "iso": "DZ", 
         "sw_latitude": 35.043, 
+        "adjacent": [
+          "woe:state=2344584", 
+          "woe:state=2344601", 
+          "woe:state=2344589"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.649, 
+        "sw_longitude": -1.35, 
+        "fullname": "'A\u00efn Temouchent, Algeria", 
+        "date_indexed": "2010-12-02T17:07:10Z", 
         "alias_ARA_S": [
           "Ain Temouchent"
         ]
       }, 
       "id": 2344606
     }
+  ], 
+  "bbox": [
+    -1.35, 
+    35.043, 
+    -0.609, 
+    35.649
   ]
 }

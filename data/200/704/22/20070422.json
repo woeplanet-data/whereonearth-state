@@ -15,11 +15,11 @@
               1.504
             ], 
             [
-              33.660, 
+              33.66, 
               1.504
             ], 
             [
-              33.660, 
+              33.66, 
               0.643
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070422, 
-        "name": "Kamuli", 
         "adjacent_woeid": [
           20070417, 
           20070441, 
@@ -44,20 +42,42 @@
           56190195, 
           56190214
         ], 
-        "ne_latitude": 1.504, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 33.660, 
+        "name": "Kamuli", 
+        "hierarchy": [
+          "woe:state=20070422", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070422, 
+        "ne_longitude": 33.66, 
         "longitude": 33.239, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 1.074, 
+        "iso": "UG", 
+        "sw_latitude": 0.643, 
+        "adjacent": [
+          "woe:state=56190195", 
+          "woe:state=20070449", 
+          "woe:state=20070417", 
+          "woe:state=24550743", 
+          "woe:state=56190214", 
+          "woe:state=24550742", 
+          "woe:state=20070441", 
+          "woe:state=20070447"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.504, 
         "sw_longitude": 32.817, 
         "fullname": "Kamuli, Uganda", 
-        "sw_latitude": 0.643
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070422
     }
+  ], 
+  "bbox": [
+    32.817, 
+    0.643, 
+    33.66, 
+    1.504
   ]
 }

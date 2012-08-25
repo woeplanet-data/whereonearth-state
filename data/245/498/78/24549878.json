@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549878, 
-        "name": "Glacis", 
         "adjacent_woeid": [
           24549877, 
           24549884
         ], 
-        "ne_latitude": -4.483, 
+        "name": "Glacis", 
+        "hierarchy": [
+          "woe:state=24549878", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549878, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.534, 
         "longitude": 55.445, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549884", 
+          "woe:state=24549877"
+        ], 
+        "ne_latitude": -4.483, 
         "latitude": -4.576, 
         "sw_longitude": 55.429, 
         "fullname": "Glacis, Seychelles", 
@@ -53,5 +61,11 @@
       }, 
       "id": 24549878
     }
+  ], 
+  "bbox": [
+    55.429, 
+    -4.588, 
+    55.534, 
+    -4.483
   ]
 }

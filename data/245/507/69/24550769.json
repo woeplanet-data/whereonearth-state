@@ -252,9 +252,14 @@
         "alias_ENG_P": [
           "Ilinden Municipality"
         ], 
+        "hierarchy": [
+          "woe:state=24550769", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.04001821566817, 
         "ne:Shape_Area": 0.0103308342423, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -263,6 +268,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 21.530293409813055, 
+        "adjacent": [
+          "woe:state=55848400", 
+          "woe:state=24550745", 
+          "woe:state=24550766", 
+          "woe:state=24550832", 
+          "woe:state=24550796"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.001, 
         "ne:FIPS_1": "MK36", 
@@ -299,7 +311,6 @@
         ], 
         "name": "Ilinden", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424890, 
         "alias_UNK_V": [
           "Opstina Ilinden"
         ], 

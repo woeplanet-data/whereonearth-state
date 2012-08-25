@@ -1263,35 +1263,45 @@
         "alias_SWE_Q": [
           "Kalabrien"
         ], 
+        "hierarchy": [
+          "woe:state=7153332", 
+          "woe:country=23424853", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.136852729070256, 
         "ne:Shape_Area": 1.57463251059, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:Region_C_3": null, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
         "ne:ScaleRank": 3, 
-        "ne:Area_sqkm": 15127.1, 
+        "alias_DAN_Q": [
+          "Calabrien"
+        ], 
         "alias_ITA_V": [
           "Calabria Regione"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
+        "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
           "CI"
         ], 
         "sw_longitude": 15.624193963180915, 
+        "adjacent": [
+          "woe:state=7153331"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.03, 
-        "iso": "IT", 
         "ne:FIPS_1": "IT03", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 37.919184475383304, 
-        "ne:VertexCou": 311.0, 
-        "ne:VALIDFR_1": "1895", 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -1308,29 +1318,26 @@
           "Calabrie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Calabrien"
-        ], 
+        "ne:Area_sqkm": 15127.1, 
         "alias_GER_Q": [
           "Kalabrien"
         ], 
         "woe:id": "7153332", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Calabria", 
+        "ne:VertexCou": 311.0, 
         "adjacent_woeid": [
           7153331
         ], 
-        "name": "Calabria", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITF", 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424853, 
         "ne_longitude": 17.206629672521444, 
         "longitude": 16.418, 
         "ne:NAME_1": "Calabria", 
+        "iso": "IT", 
         "ne:OBJECTID": 819, 
-        "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Calabria, Italy", 
         "ne:Region": null, 

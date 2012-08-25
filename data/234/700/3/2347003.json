@@ -32,35 +32,49 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347003, 
-        "name": "Western Area", 
         "adjacent_woeid": [
           2347001, 
           2347002
         ], 
         "ne_latitude": 8.497, 
+        "name": "Western Area", 
+        "adjacent": [
+          "woe:state=2347001", 
+          "woe:state=2347002"
+        ], 
+        "hierarchy": [
+          "woe:state=2347003", 
+          "woe:country=23424946", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347003, 
         "alias_JPN_Q": [
           "\u897f\u90e8\u5730\u57df"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -12.918, 
         "longitude": -13.107, 
         "alias_CHI_Q": [
           "\u897f\u90e8\u5730\u533a"
         ], 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SL", 
-        "date_indexed": "2010-12-02T12:08:44Z", 
+        "sw_latitude": 8.096, 
         "alias_KOR_Q": [
           "\uc6e8\uc2a4\ud134\uc5d0\uc5b4\ub9ac\uc5b4"
         ], 
-        "parent_woeid": 23424946, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 8.334, 
         "sw_longitude": -13.297, 
         "fullname": "Western Area, Sierra Leone", 
-        "sw_latitude": 8.096
+        "date_indexed": "2010-12-02T12:08:44Z"
       }, 
       "id": 2347003
     }
+  ], 
+  "bbox": [
+    -13.297, 
+    8.096, 
+    -12.918, 
+    8.497
   ]
 }

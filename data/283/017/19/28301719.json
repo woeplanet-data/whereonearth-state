@@ -8,7 +8,7 @@
           [
             [
               107.182, 
-              11.750
+              11.75
             ], 
             [
               107.182, 
@@ -20,11 +20,11 @@
             ], 
             [
               109.115, 
-              11.750
+              11.75
             ], 
             [
               107.182, 
-              11.750
+              11.75
             ]
           ]
         ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 28301719, 
-        "name": "Dac Nong", 
         "adjacent_woeid": [
           2344936, 
           2347709, 
           2347720, 
           20070086
         ], 
-        "ne_latitude": 13.409, 
+        "name": "Dac Nong", 
+        "hierarchy": [
+          "woe:state=28301719", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 28301719, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 109.115, 
         "longitude": 107.655, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=20070086", 
+          "woe:state=2347720", 
+          "woe:state=2347709", 
+          "woe:state=2344936"
+        ], 
+        "ne_latitude": 13.409, 
         "latitude": 12.141, 
         "sw_longitude": 107.182, 
         "fullname": "Dac Nong, Vietnam", 
-        "sw_latitude": 11.750
+        "sw_latitude": 11.75
       }, 
       "id": 28301719
     }
+  ], 
+  "bbox": [
+    107.182, 
+    11.75, 
+    109.115, 
+    13.409
   ]
 }

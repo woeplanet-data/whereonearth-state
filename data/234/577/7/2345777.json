@@ -8,7 +8,7 @@
           [
             [
               45.413, 
-              33.590
+              33.59
             ], 
             [
               45.413, 
@@ -20,11 +20,11 @@
             ], 
             [
               48.105, 
-              33.590
+              33.59
             ], 
             [
               45.413, 
-              33.590
+              33.59
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345777, 
-        "name": "Kermanshah", 
         "adjacent_woeid": [
           2345774, 
           2345775, 
@@ -42,20 +40,40 @@
           2345837, 
           2345842
         ], 
-        "ne_latitude": 35.307, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kermanshah", 
+        "hierarchy": [
+          "woe:state=2345777", 
+          "woe:country=23424851", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345777, 
         "ne_longitude": 48.105, 
         "longitude": 46.759, 
-        "placetype": "State", 
-        "iso": "IR", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424851, 
+        "placetype": "state", 
         "latitude": 34.448, 
+        "iso": "IR", 
+        "sw_latitude": 33.59, 
+        "adjacent": [
+          "woe:state=2345837", 
+          "woe:state=2345842", 
+          "woe:state=2345774", 
+          "woe:state=2345775", 
+          "woe:state=2345779", 
+          "woe:state=2345782"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.307, 
         "sw_longitude": 45.413, 
         "fullname": "Kermanshah, Iran", 
-        "sw_latitude": 33.590
+        "date_indexed": "2010-12-02T08:53:34Z"
       }, 
       "id": 2345777
     }
+  ], 
+  "bbox": [
+    45.413, 
+    33.59, 
+    48.105, 
+    35.307
   ]
 }

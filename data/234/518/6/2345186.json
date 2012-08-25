@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -70.680, 
+              -70.68, 
               18.194
             ], 
             [
-              -70.680, 
+              -70.68, 
               18.777
             ], 
             [
@@ -23,7 +23,7 @@
               18.194
             ], 
             [
-              -70.680, 
+              -70.68, 
               18.194
             ]
           ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345186, 
-        "name": "Peravia", 
         "adjacent_woeid": [
           2345172, 
           2345201, 
           28358195
         ], 
-        "ne_latitude": 18.777, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Peravia", 
+        "hierarchy": [
+          "woe:state=2345186", 
+          "woe:country=23424800", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345186, 
         "ne_longitude": -70.186, 
         "longitude": -70.433, 
-        "placetype": "State", 
-        "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "parent_woeid": 23424800, 
+        "placetype": "state", 
         "latitude": 18.485, 
-        "sw_longitude": -70.680, 
+        "iso": "DO", 
+        "sw_latitude": 18.194, 
+        "adjacent": [
+          "woe:state=2345172", 
+          "woe:state=2345201", 
+          "woe:state=28358195"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.777, 
+        "sw_longitude": -70.68, 
         "fullname": "Peravia, Dominican Republic", 
-        "sw_latitude": 18.194
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345186
     }
+  ], 
+  "bbox": [
+    -70.68, 
+    18.194, 
+    -70.186, 
+    18.777
   ]
 }

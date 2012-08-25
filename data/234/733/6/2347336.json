@@ -8,7 +8,7 @@
           [
             [
               121.317, 
-              24.310
+              24.31
             ], 
             [
               121.317, 
@@ -20,11 +20,11 @@
             ], 
             [
               121.966, 
-              24.310
+              24.31
             ], 
             [
               121.317, 
-              24.310
+              24.31
             ]
           ]
         ]
@@ -32,22 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "CHI", 
-        "woeid": 2347336, 
+        "alias_ENG_V": [
+          "Ilan"
+        ], 
         "name": "\u5b9c\u862d\u7e23", 
         "alias_CHI_V": [
           "\u5b9c\u862d"
         ], 
+        "hierarchy": [
+          "woe:state=2347336", 
+          "woe:country=23424971", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347336, 
         "alias_ENG_P": [
           "Yilan County"
         ], 
-        "ne_latitude": 24.988, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "Ilan"
-        ], 
         "ne_longitude": 121.966, 
         "longitude": 121.635, 
-        "placetype": "State", 
+        "ne_latitude": 24.988, 
+        "placetype": "state", 
         "adjacent_woeid": [
           2347345, 
           20070569, 
@@ -56,14 +60,27 @@
           28751584
         ], 
         "iso": "TW", 
-        "date_indexed": "2010-12-02T16:15:11Z", 
-        "parent_woeid": 23424971, 
+        "sw_latitude": 24.31, 
+        "adjacent": [
+          "woe:state=28751584", 
+          "woe:state=20070569", 
+          "woe:state=2347334", 
+          "woe:state=2347345", 
+          "woe:state=2347335"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 24.588, 
         "sw_longitude": 121.317, 
         "fullname": "\u5b9c\u862d\u7e23, Taiwan, Yilan County, Taiwan", 
-        "sw_latitude": 24.310
+        "date_indexed": "2010-12-02T16:15:11Z"
       }, 
       "id": 2347336
     }
+  ], 
+  "bbox": [
+    121.317, 
+    24.31, 
+    121.966, 
+    24.988
   ]
 }

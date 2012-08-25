@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347141, 
-        "name": "Phetchabun", 
         "adjacent_woeid": [
           2347139, 
           2347140, 
@@ -43,23 +41,44 @@
           2347151, 
           2347159
         ], 
-        "ne_latitude": 17.178, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Phetchabun", 
         "alias_ENG_V": [
           "Changwat Phetchabun"
         ], 
+        "hierarchy": [
+          "woe:state=2347141", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347141, 
         "ne_longitude": 101.796, 
         "longitude": 101.215, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 16.241, 
+        "iso": "TH", 
+        "sw_latitude": 15.304, 
+        "adjacent": [
+          "woe:state=2347151", 
+          "woe:state=2347147", 
+          "woe:state=2347145", 
+          "woe:state=2347159", 
+          "woe:state=2347143", 
+          "woe:state=2347140", 
+          "woe:state=2347139"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.178, 
         "sw_longitude": 100.635, 
         "fullname": "Phetchabun, Thailand", 
-        "sw_latitude": 15.304
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347141
     }
+  ], 
+  "bbox": [
+    100.635, 
+    15.304, 
+    101.796, 
+    17.178
   ]
 }

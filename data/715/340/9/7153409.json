@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Chiayi County"
         ], 
+        "hierarchy": [
+          "woe:state=7153409", 
+          "woe:country=23424971", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 23.636, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uc790\uc774\ud604"
         ], 
@@ -53,8 +58,15 @@
           "\u5609\u7fa9"
         ], 
         "sw_longitude": 120.118, 
+        "adjacent": [
+          "woe:state=2347339", 
+          "woe:state=28751581", 
+          "woe:state=28751583", 
+          "woe:state=2347346", 
+          "woe:state=20070570"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 23.480, 
+        "latitude": 23.48, 
         "date_indexed": "2010-12-02T16:15:11Z", 
         "lang": "CHI", 
         "adjacent_woeid": [
@@ -65,7 +77,6 @@
           28751581
         ], 
         "name": "\u5609\u7fa9\u7e23", 
-        "parent_woeid": 23424971, 
         "ne_longitude": 120.958, 
         "longitude": 120.515, 
         "iso": "TW", 
@@ -74,5 +85,11 @@
       }, 
       "id": 7153409
     }
+  ], 
+  "bbox": [
+    120.118, 
+    23.217, 
+    120.958, 
+    23.636
   ]
 }

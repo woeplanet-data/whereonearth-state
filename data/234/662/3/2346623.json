@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "RUM", 
-        "woeid": 2346623, 
-        "name": "Brasov", 
         "adjacent_woeid": [
           2346617, 
           2346625, 
@@ -44,20 +42,42 @@
           2346643, 
           2346646
         ], 
-        "ne_latitude": 46.183, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Brasov", 
+        "hierarchy": [
+          "woe:state=2346623", 
+          "woe:country=23424933", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346623, 
         "ne_longitude": 26.103, 
         "longitude": 25.368, 
-        "placetype": "State", 
-        "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
-        "parent_woeid": 23424933, 
+        "placetype": "state", 
         "latitude": 45.783, 
+        "iso": "RO", 
+        "sw_latitude": 45.383, 
+        "adjacent": [
+          "woe:state=2346617", 
+          "woe:state=2346625", 
+          "woe:state=2346629", 
+          "woe:state=2346630", 
+          "woe:state=2346634", 
+          "woe:state=2346640", 
+          "woe:state=2346643", 
+          "woe:state=2346646"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 46.183, 
         "sw_longitude": 24.632, 
         "fullname": "Brasov, Romania", 
-        "sw_latitude": 45.383
+        "date_indexed": "2010-12-02T16:36:29Z"
       }, 
       "id": 2346623
     }
+  ], 
+  "bbox": [
+    24.632, 
+    45.383, 
+    26.103, 
+    46.183
   ]
 }

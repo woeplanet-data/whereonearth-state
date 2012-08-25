@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347082, 
-        "name": "Tartus", 
         "adjacent_woeid": [
           2347070, 
           2347078, 
           2347079, 
           56049598
         ], 
-        "ne_latitude": 35.203, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tartus", 
+        "hierarchy": [
+          "woe:state=2347082", 
+          "woe:country=23424956", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347082, 
         "ne_longitude": 36.301, 
         "longitude": 36.091, 
-        "placetype": "State", 
-        "iso": "SY", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
-        "parent_woeid": 23424956, 
+        "placetype": "state", 
         "latitude": 34.919, 
+        "iso": "SY", 
+        "sw_latitude": 34.636, 
+        "adjacent": [
+          "woe:state=56049598", 
+          "woe:state=2347070", 
+          "woe:state=2347078", 
+          "woe:state=2347079"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.203, 
         "sw_longitude": 35.849, 
         "fullname": "Tartus, Syria", 
-        "sw_latitude": 34.636
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 2347082
     }
+  ], 
+  "bbox": [
+    35.849, 
+    34.636, 
+    36.301, 
+    35.203
   ]
 }

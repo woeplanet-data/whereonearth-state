@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345296, 
-        "name": "La Libertad", 
         "adjacent_woeid": [
           2345294, 
           2345297, 
@@ -41,20 +39,39 @@
           2345302, 
           2345304
         ], 
-        "ne_latitude": 14.061, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "La Libertad", 
+        "hierarchy": [
+          "woe:state=2345296", 
+          "woe:country=23424807", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345296, 
         "ne_longitude": -89.132, 
         "longitude": -89.378, 
-        "placetype": "State", 
-        "iso": "SV", 
-        "date_indexed": "2010-12-02T17:05:52Z", 
-        "parent_woeid": 23424807, 
+        "placetype": "state", 
         "latitude": 13.737, 
+        "iso": "SV", 
+        "sw_latitude": 13.413, 
+        "adjacent": [
+          "woe:state=2345294", 
+          "woe:state=2345297", 
+          "woe:state=2345301", 
+          "woe:state=2345302", 
+          "woe:state=2345304"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.061, 
         "sw_longitude": -89.624, 
         "fullname": "La Libertad, El Salvador", 
-        "sw_latitude": 13.413
+        "date_indexed": "2010-12-02T17:05:52Z"
       }, 
       "id": 2345296
     }
+  ], 
+  "bbox": [
+    -89.624, 
+    13.413, 
+    -89.132, 
+    14.061
   ]
 }

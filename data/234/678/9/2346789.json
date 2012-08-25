@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.251, 
-        "name": "Adjuntas", 
         "adjacent_woeid": [
           2346798, 
           2346808, 
@@ -42,23 +40,43 @@
           2346834, 
           2346835
         ], 
+        "name": "Adjuntas", 
+        "hierarchy": [
+          "woe:state=2346789", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346789, 
         "alias_SPA_V": [
           "Adjuntas Municipios"
         ], 
         "ne_longitude": -66.665, 
         "longitude": -66.751, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.181, 
         "sw_longitude": -66.837, 
+        "sw_latitude": 18.112, 
+        "adjacent": [
+          "woe:state=2346835", 
+          "woe:state=2346798", 
+          "woe:state=2346834", 
+          "woe:state=2346833", 
+          "woe:state=2346808", 
+          "woe:state=2346810"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.251, 
+        "iso": "PR", 
         "fullname": "Adjuntas, Puerto Rico", 
-        "sw_latitude": 18.112
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346789
     }
+  ], 
+  "bbox": [
+    -66.837, 
+    18.112, 
+    -66.665, 
+    18.251
   ]
 }

@@ -32,13 +32,17 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 19.361, 
-        "name": "Samana", 
         "adjacent_woeid": [
           2345177, 
           2345183, 
           2345197, 
           2345200
+        ], 
+        "name": "Samana", 
+        "hierarchy": [
+          "woe:state=2345189", 
+          "woe:country=23424800", 
+          "woe:planet=1"
         ], 
         "woeid": 2345189, 
         "alias_SPA_V": [
@@ -46,20 +50,32 @@
         ], 
         "ne_longitude": -69.149, 
         "longitude": -69.648, 
-        "parent_woeid": 23424800, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 19.154, 
         "alias_SPA_S": [
           "Sta. Barbara de Samana"
         ], 
-        "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 19.154, 
         "sw_longitude": -69.725, 
+        "sw_latitude": 18.947, 
+        "adjacent": [
+          "woe:state=2345177", 
+          "woe:state=2345197", 
+          "woe:state=2345183", 
+          "woe:state=2345200"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.361, 
+        "iso": "DO", 
         "fullname": "Samana, Dominican Republic", 
-        "sw_latitude": 18.947
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345189
     }
+  ], 
+  "bbox": [
+    -69.725, 
+    18.947, 
+    -69.149, 
+    19.361
   ]
 }

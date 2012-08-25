@@ -32,9 +32,11 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2345282, 
-        "alias_UNK_V": [
-          "L\u00e4\u00e4ne-Viru Maakond"
+        "adjacent_woeid": [
+          2345276, 
+          2345278, 
+          2345279, 
+          2345280
         ], 
         "name": "L\u00e4\u00e4ne-Virumaa", 
         "alias_ENG_P": [
@@ -43,26 +45,40 @@
         "alias_UNK_S": [
           "Laane-Virumaa"
         ], 
-        "ne_latitude": 59.636, 
-        "ne_longitude": 26.953, 
+        "woeid": 2345282, 
+        "alias_UNK_V": [
+          "L\u00e4\u00e4ne-Viru Maakond"
+        ], 
         "longitude": 26.245, 
-        "parent_woeid": 23424805, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          2345276, 
-          2345278, 
-          2345279, 
-          2345280
+        "ne_longitude": 26.953, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=2345282", 
+          "woe:country=23424805", 
+          "woe:planet=1"
         ], 
         "iso": "EE", 
         "date_indexed": "2010-12-02T16:42:58Z", 
+        "adjacent": [
+          "woe:state=2345276", 
+          "woe:state=2345278", 
+          "woe:state=2345279", 
+          "woe:state=2345280"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 59.257, 
+        "ne_latitude": 59.636, 
         "sw_longitude": 25.536, 
+        "latitude": 59.257, 
         "fullname": "L\u00e4\u00e4ne-Virumaa, Laane-Viru County, Estonia", 
         "sw_latitude": 58.877
       }, 
       "id": 2345282
     }
+  ], 
+  "bbox": [
+    25.536, 
+    58.877, 
+    26.953, 
+    59.636
   ]
 }

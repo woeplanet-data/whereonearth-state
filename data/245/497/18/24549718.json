@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              144.730, 
+              144.73, 
               13.463
             ], 
             [
-              144.730, 
-              13.480
+              144.73, 
+              13.48
             ], 
             [
-              144.760, 
-              13.480
+              144.76, 
+              13.48
             ], 
             [
-              144.760, 
+              144.76, 
               13.463
             ], 
             [
-              144.730, 
+              144.73, 
               13.463
             ]
           ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549718, 
-        "name": "Agana", 
         "adjacent_woeid": [
           24549717, 
           24549720, 
           24549726, 
           24549727
         ], 
-        "ne_latitude": 13.480, 
+        "name": "Agana", 
+        "hierarchy": [
+          "woe:state=24549718", 
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549718, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 144.760, 
+        "ne_longitude": 144.76, 
         "longitude": 144.745, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "parent_woeid": 23424832, 
+        "adjacent": [
+          "woe:state=24549726", 
+          "woe:state=24549717", 
+          "woe:state=24549720", 
+          "woe:state=24549727"
+        ], 
+        "ne_latitude": 13.48, 
         "latitude": 13.472, 
-        "sw_longitude": 144.730, 
+        "sw_longitude": 144.73, 
         "fullname": "Agana, Guam", 
         "sw_latitude": 13.463
       }, 
       "id": 24549718
     }
+  ], 
+  "bbox": [
+    144.73, 
+    13.463, 
+    144.76, 
+    13.48
   ]
 }

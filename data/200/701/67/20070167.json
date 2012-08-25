@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 20070167, 
-        "name": "Hawalli", 
         "adjacent_woeid": [
           20070168, 
           20070169, 
           55943079
         ], 
-        "ne_latitude": 29.361, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Hawalli", 
         "alias_ENG_V": [
           "Hawally"
         ], 
+        "hierarchy": [
+          "woe:state=20070167", 
+          "woe:country=23424870", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070167, 
         "ne_longitude": 48.102, 
-        "longitude": 48.040, 
-        "placetype": "State", 
-        "iso": "KW", 
-        "date_indexed": "2010-12-02T08:52:50Z", 
-        "parent_woeid": 23424870, 
+        "longitude": 48.04, 
+        "placetype": "state", 
         "latitude": 29.313, 
+        "iso": "KW", 
+        "sw_latitude": 29.264, 
+        "adjacent": [
+          "woe:state=20070169", 
+          "woe:state=20070168", 
+          "woe:state=55943079"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 29.361, 
         "sw_longitude": 47.979, 
         "fullname": "Hawalli, Kuwait", 
-        "sw_latitude": 29.264
+        "date_indexed": "2010-12-02T08:52:50Z"
       }, 
       "id": 20070167
     }
+  ], 
+  "bbox": [
+    47.979, 
+    29.264, 
+    48.102, 
+    29.361
   ]
 }

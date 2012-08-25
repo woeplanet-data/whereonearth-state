@@ -12,11 +12,11 @@
             ], 
             [
               -65.952, 
-              18.270
+              18.27
             ], 
             [
               -65.852, 
-              18.270
+              18.27
             ], 
             [
               -65.852, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.270, 
-        "name": "Juncos", 
         "adjacent_woeid": [
           2346799, 
           2346806, 
@@ -41,23 +39,42 @@
           2346856, 
           20070566
         ], 
+        "name": "Juncos", 
+        "hierarchy": [
+          "woe:state=2346797", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346797, 
         "alias_SPA_V": [
           "Juncos Municipios"
         ], 
         "ne_longitude": -65.852, 
         "longitude": -65.902, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.206, 
         "sw_longitude": -65.952, 
+        "sw_latitude": 18.143, 
+        "adjacent": [
+          "woe:state=20070566", 
+          "woe:state=2346854", 
+          "woe:state=2346856", 
+          "woe:state=2346799", 
+          "woe:state=2346806"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.27, 
+        "iso": "PR", 
         "fullname": "Juncos, Puerto Rico", 
-        "sw_latitude": 18.143
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346797
     }
+  ], 
+  "bbox": [
+    -65.952, 
+    18.143, 
+    -65.852, 
+    18.27
   ]
 }

@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344609, 
-        "name": "Bordj Bou Arreridj", 
         "adjacent_woeid": [
           2344586, 
           2344590, 
           2344593, 
           2344599
         ], 
-        "ne_latitude": 36.327, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bordj Bou Arreridj", 
+        "hierarchy": [
+          "woe:state=2344609", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344609, 
         "ne_longitude": 5.226, 
-        "longitude": 4.670, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "longitude": 4.67, 
+        "placetype": "state", 
         "latitude": 36.006, 
+        "iso": "DZ", 
+        "sw_latitude": 35.685, 
+        "adjacent": [
+          "woe:state=2344590", 
+          "woe:state=2344593", 
+          "woe:state=2344599", 
+          "woe:state=2344586"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.327, 
         "sw_longitude": 4.114, 
         "fullname": "Bordj Bou Arreridj, Algeria", 
-        "sw_latitude": 35.685
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344609
     }
+  ], 
+  "bbox": [
+    4.114, 
+    35.685, 
+    5.226, 
+    36.327
   ]
 }

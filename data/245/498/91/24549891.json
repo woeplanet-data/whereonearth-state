@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549891, 
         "name": "Atafu", 
-        "ne_latitude": -8.533, 
+        "hierarchy": [
+          "woe:state=24549891", 
+          "woe:country=23424963", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549891, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -172.516, 
         "longitude": -172.517, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "TK", 
         "date_indexed": "2010-12-02T08:53:23Z", 
-        "parent_woeid": 23424963, 
+        "ne_latitude": -8.533, 
         "latitude": -8.533, 
         "sw_longitude": -172.517, 
         "fullname": "Atafu, Tokelau", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549891
     }
+  ], 
+  "bbox": [
+    -172.517, 
+    -8.534, 
+    -172.516, 
+    -8.533
   ]
 }

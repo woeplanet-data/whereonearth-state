@@ -32,22 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550804, 
-        "alias_UNK_V": [
-          "Opstina Sopi\u0161te"
-        ], 
-        "name": "Sopi\u0161te", 
-        "alias_ENG_P": [
-          "Sopiste Municipality"
-        ], 
-        "alias_UNK_S": [
-          "Opstina Sopiste"
-        ], 
-        "ne_latitude": 41.982, 
-        "ne_longitude": 21.472, 
-        "longitude": 21.334, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550756, 
           24550773, 
@@ -56,15 +40,49 @@
           24550809, 
           24550821
         ], 
+        "name": "Sopi\u0161te", 
+        "alias_ENG_P": [
+          "Sopiste Municipality"
+        ], 
+        "alias_UNK_S": [
+          "Opstina Sopiste"
+        ], 
+        "woeid": 24550804, 
+        "alias_UNK_V": [
+          "Opstina Sopi\u0161te"
+        ], 
+        "longitude": 21.334, 
+        "ne_longitude": 21.472, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=24550804", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.746, 
+        "adjacent": [
+          "woe:state=24550756", 
+          "woe:state=24550773", 
+          "woe:state=24550786", 
+          "woe:state=24550803", 
+          "woe:state=24550809", 
+          "woe:state=24550821"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.864, 
+        "ne_latitude": 41.982, 
         "sw_longitude": 21.196, 
+        "latitude": 41.864, 
         "fullname": "Sopi\u0161te, Sopiste Municipality, Macedonia", 
-        "sw_latitude": 41.746
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550804
     }
+  ], 
+  "bbox": [
+    21.196, 
+    41.746, 
+    21.472, 
+    41.982
   ]
 }

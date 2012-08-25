@@ -3130,11 +3130,16 @@
         "alias_ENG_P": [
           "Burgundy"
         ], 
+        "hierarchy": [
+          "woe:state=7153312", 
+          "woe:country=23424819", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 48.41174815555297, 
         "ne:Shape_Area": 3.78800955837, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ubd80\ub974\uace0\ub274"
         ], 
@@ -3148,7 +3153,7 @@
         "alias_ITA_Q": [
           "Borgogna"
         ], 
-        "ne:OBJECTID": 2671, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30d6\u30eb\u30b4\u30fc\u30cb\u30e5"
         ], 
@@ -3163,6 +3168,14 @@
           "Borgonya"
         ], 
         "sw_longitude": 2.830866326120088, 
+        "adjacent": [
+          "woe:state=7153310", 
+          "woe:state=7153314", 
+          "woe:state=7153315", 
+          "woe:state=7153317", 
+          "woe:state=7153329", 
+          "woe:state=7153319"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.278, 
         "ne:FIPS_1": "FRA1", 
@@ -3170,9 +3183,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T11:51:35Z", 
-        "ne:VertexCou": 777.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "lang": "FRE", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 2671, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Borgo\u00f1a|Burgundy", 
@@ -3195,8 +3208,8 @@
           "Burgund"
         ], 
         "woe:id": "7153312", 
-        "ne:HASC_1": null, 
-        "lang": "FRE", 
+        "name": "Bourgogne", 
+        "ne:VertexCou": 777.0, 
         "adjacent_woeid": [
           7153310, 
           7153314, 
@@ -3205,13 +3218,14 @@
           7153319, 
           7153329
         ], 
-        "name": "Bourgogne", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424819, 
         "ne_longitude": 5.521709831943213, 
         "longitude": 4.182, 
-        "ne:NEV_Countr": "France", 
+        "alias_FRE_S": [
+          "Burgundy Region"
+        ], 
         "ne:NAME_1": "Bourgogne", 
         "iso": "FR", 
         "sw_latitude": 46.17175568267868, 
@@ -3221,9 +3235,7 @@
         ], 
         "fullname": "Bourgogne, Burgundy, France", 
         "ne:Region": "Bourgogne", 
-        "alias_FRE_S": [
-          "Burgundy Region"
-        ], 
+        "ne:NEV_Countr": "France", 
         "ne:RegionVar": null, 
         "ne:sameAsCity": -99
       }, 

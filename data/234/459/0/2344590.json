@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              4.350, 
+              4.35, 
               36.094
             ], 
             [
-              4.350, 
+              4.35, 
               36.907
             ], 
             [
@@ -23,7 +23,7 @@
               36.094
             ], 
             [
-              4.350, 
+              4.35, 
               36.094
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344590, 
-        "name": "Bejaia", 
         "adjacent_woeid": [
           2344586, 
           2344588, 
@@ -41,20 +39,39 @@
           2344596, 
           2344609
         ], 
-        "ne_latitude": 36.907, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bejaia", 
+        "hierarchy": [
+          "woe:state=2344590", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344590, 
         "ne_longitude": 5.449, 
         "longitude": 4.899, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 36.496, 
-        "sw_longitude": 4.350, 
+        "iso": "DZ", 
+        "sw_latitude": 36.094, 
+        "adjacent": [
+          "woe:state=2344609", 
+          "woe:state=2344593", 
+          "woe:state=2344596", 
+          "woe:state=2344586", 
+          "woe:state=2344588"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.907, 
+        "sw_longitude": 4.35, 
         "fullname": "Bejaia, Algeria", 
-        "sw_latitude": 36.094
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344590
     }
+  ], 
+  "bbox": [
+    4.35, 
+    36.094, 
+    5.449, 
+    36.907
   ]
 }

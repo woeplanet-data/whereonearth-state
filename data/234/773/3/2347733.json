@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347733, 
-        "name": "Gia Lai", 
         "adjacent_woeid": [
           2344936, 
           2344940, 
@@ -43,14 +41,29 @@
           20070076, 
           20070077
         ], 
-        "ne_latitude": 14.564, 
+        "name": "Gia Lai", 
+        "hierarchy": [
+          "woe:state=2347733", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347733, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 108.909, 
         "longitude": 108.182, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347730", 
+          "woe:state=2347720", 
+          "woe:state=20070076", 
+          "woe:state=2344936", 
+          "woe:state=2347745", 
+          "woe:state=20070077", 
+          "woe:state=2344940"
+        ], 
+        "ne_latitude": 14.564, 
         "latitude": 13.775, 
         "sw_longitude": 107.455, 
         "fullname": "Gia Lai, Vietnam", 
@@ -58,5 +71,11 @@
       }, 
       "id": 2347733
     }
+  ], 
+  "bbox": [
+    107.455, 
+    12.986, 
+    108.909, 
+    14.564
   ]
 }

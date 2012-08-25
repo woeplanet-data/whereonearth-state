@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              26.350, 
+              26.35, 
               43.663
             ], 
             [
-              26.350, 
+              26.35, 
               44.145
             ], 
             [
@@ -23,7 +23,7 @@
               43.663
             ], 
             [
-              26.350, 
+              26.35, 
               43.663
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070070, 
-        "name": "Silistra", 
         "adjacent_woeid": [
           2346628, 
           2346654, 
@@ -43,20 +41,41 @@
           20070069, 
           20070071
         ], 
-        "ne_latitude": 44.145, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Silistra", 
+        "hierarchy": [
+          "woe:state=20070070", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070070, 
         "ne_longitude": 27.696, 
         "longitude": 27.023, 
-        "placetype": "State", 
-        "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
+        "placetype": "state", 
         "latitude": 43.904, 
-        "sw_longitude": 26.350, 
+        "iso": "BG", 
+        "sw_latitude": 43.663, 
+        "adjacent": [
+          "woe:state=2346654", 
+          "woe:state=2346628", 
+          "woe:state=20070050", 
+          "woe:state=2346655", 
+          "woe:state=20070071", 
+          "woe:state=20070069", 
+          "woe:state=20070052"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 44.145, 
+        "sw_longitude": 26.35, 
         "fullname": "Silistra, Bulgaria", 
-        "sw_latitude": 43.663
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070070
     }
+  ], 
+  "bbox": [
+    26.35, 
+    43.663, 
+    27.696, 
+    44.145
   ]
 }

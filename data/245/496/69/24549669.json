@@ -12,14 +12,14 @@
             ], 
             [
               -165.417, 
-              -11.550
+              -11.55
             ], 
             [
-              -165.400, 
-              -11.550
+              -165.4, 
+              -11.55
             ], 
             [
-              -165.400, 
+              -165.4, 
               -11.574
             ], 
             [
@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549669, 
         "name": "Nassau", 
-        "ne_latitude": -11.550, 
+        "hierarchy": [
+          "woe:state=24549669", 
+          "woe:country=23424795", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549669, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -165.400, 
+        "ne_longitude": -165.4, 
         "longitude": -165.407, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "CK", 
         "date_indexed": "2010-12-02T17:57:50Z", 
-        "parent_woeid": 23424795, 
+        "ne_latitude": -11.55, 
         "latitude": -11.568, 
         "sw_longitude": -165.417, 
         "fullname": "Nassau, Cook Islands", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549669
     }
+  ], 
+  "bbox": [
+    -165.417, 
+    -11.574, 
+    -165.4, 
+    -11.55
   ]
 }

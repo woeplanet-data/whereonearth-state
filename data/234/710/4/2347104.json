@@ -1083,11 +1083,17 @@
         "alias_ENG_P": [
           "Canton of Valais"
         ], 
+        "hierarchy": [
+          "woe:state=2347104", 
+          "woe:country=23424957", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.65565379528647, 
+        "ne:OBJECTID": 165, 
         "ne:Shape_Area": 0.616760506301, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ubc1c\ub808\uc8fc"
         ], 
@@ -1100,7 +1106,9 @@
         "alias_ITA_Q": [
           "Canton Vallese"
         ], 
-        "ne:Area_sqkm": 5290.4, 
+        "alias_GER_V": [
+          "Wallis"
+        ], 
         "alias_ITA_V": [
           "Vallese"
         ], 
@@ -1112,16 +1120,24 @@
           "Valais"
         ], 
         "sw_longitude": 6.750006951859405, 
+        "adjacent": [
+          "woe:state=2347105", 
+          "woe:state=2347102", 
+          "woe:state=2347087", 
+          "woe:state=2347103", 
+          "woe:state=7153341", 
+          "woe:state=7153329", 
+          "woe:state=7153348"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.256, 
-        "iso": "CH", 
         "ne:FIPS_1": "SZ22", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Canton", 
-        "date_indexed": "2010-12-02T18:19:21Z", 
-        "ne:VertexCou": 255.0, 
-        "ne:VALIDFR_1": "Unknown", 
+        "sw_latitude": 45.87647654845398, 
+        "lang": "FRE", 
+        "ne:MAP_COLOR": 3, 
         "ne:DataRank": 7, 
         "ne:Postal": "VS", 
         "ne:Region_Cod": null, 
@@ -1136,15 +1152,13 @@
         "ne:Region_C_1": null, 
         "ne:Region_C_3": null, 
         "ne:LabelRank": 9, 
-        "alias_GER_V": [
-          "Wallis"
-        ], 
+        "ne:Area_sqkm": 5290.4, 
         "alias_GER_Q": [
           "Kanton Wallis"
         ], 
         "woe:id": "2347104", 
-        "ne:HASC_1": "CH.VS", 
-        "lang": "FRE", 
+        "name": "Canton de Valais", 
+        "ne:VertexCou": 255.0, 
         "adjacent_woeid": [
           2347087, 
           2347102, 
@@ -1154,9 +1168,8 @@
           7153341, 
           7153348
         ], 
-        "name": "Canton de Valais", 
+        "ne:HASC_1": "CH.VS", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424957, 
         "alias_UNK_Q": [
           "Vallais"
         ], 
@@ -1165,8 +1178,8 @@
         "alias_FRE_A": [
           "VS"
         ], 
-        "ne:OBJECTID": 165, 
-        "sw_latitude": 45.87647654845398, 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:19:21Z", 
         "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Canton Valais"

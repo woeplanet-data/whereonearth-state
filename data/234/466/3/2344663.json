@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2344663, 
-        "name": "Huambo", 
         "adjacent_woeid": [
           2344656, 
           2344657, 
           2344661, 
           2344664
         ], 
-        "ne_latitude": -11.416, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Huambo", 
+        "hierarchy": [
+          "woe:state=2344663", 
+          "woe:country=23424745", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344663, 
         "ne_longitude": 16.597, 
         "longitude": 15.698, 
-        "placetype": "State", 
-        "iso": "AO", 
-        "date_indexed": "2010-12-02T17:52:14Z", 
-        "parent_woeid": 23424745, 
+        "placetype": "state", 
         "latitude": -12.589, 
+        "iso": "AO", 
+        "sw_latitude": -13.762, 
+        "adjacent": [
+          "woe:state=2344656", 
+          "woe:state=2344657", 
+          "woe:state=2344661", 
+          "woe:state=2344664"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -11.416, 
         "sw_longitude": 14.799, 
         "fullname": "Huambo, Angola", 
-        "sw_latitude": -13.762
+        "date_indexed": "2010-12-02T17:52:14Z"
       }, 
       "id": 2344663
     }
+  ], 
+  "bbox": [
+    14.799, 
+    -13.762, 
+    16.597, 
+    -11.416
   ]
 }

@@ -15,11 +15,11 @@
               -1.502
             ], 
             [
-              34.130, 
+              34.13, 
               -1.502
             ], 
             [
-              34.130, 
+              34.13, 
               -3.449
             ], 
             [
@@ -32,36 +32,51 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347363, 
-        "name": "Mwanza", 
         "adjacent_woeid": [
           2347359, 
           2347366, 
           2347370
         ], 
         "ne_latitude": -1.502, 
+        "name": "Mwanza", 
+        "adjacent": [
+          "woe:state=2347370", 
+          "woe:state=2347359", 
+          "woe:state=2347366"
+        ], 
+        "hierarchy": [
+          "woe:state=2347363", 
+          "woe:country=23424973", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347363, 
         "alias_JPN_Q": [
           "\u30e0\u30ef\u30f3\u30b6\u5dde"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 34.130, 
+        "ne_longitude": 34.13, 
         "longitude": 32.932, 
         "alias_CHI_Q": [
           "\u59c6\u4e07\u624e\u533a"
         ], 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "TZ", 
-        "date_indexed": "2010-12-02T12:15:58Z", 
+        "sw_latitude": -3.449, 
         "alias_KOR_Q": [
           "\ubbc0\uc644\uc790"
         ], 
-        "parent_woeid": 23424973, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -2.475, 
         "sw_longitude": 31.733, 
         "fullname": "Mwanza, Tanzania", 
-        "sw_latitude": -3.449
+        "date_indexed": "2010-12-02T12:15:58Z"
       }, 
       "id": 2347363
     }
+  ], 
+  "bbox": [
+    31.733, 
+    -3.449, 
+    34.13, 
+    -1.502
   ]
 }

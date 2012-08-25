@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 56013485, 
-        "name": "Ville de N'Djamena", 
         "adjacent_woeid": [
           2344948, 
           56013481
         ], 
-        "ne_latitude": 12.302, 
+        "name": "Ville de N'Djamena", 
+        "hierarchy": [
+          "woe:state=56013485", 
+          "woe:country=23424777", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56013485, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.228, 
-        "longitude": 15.060, 
-        "placetype": "State", 
+        "longitude": 15.06, 
+        "placetype": "state", 
         "iso": "TD", 
         "date_indexed": "2010-12-02T08:53:18Z", 
-        "parent_woeid": 23424777, 
+        "adjacent": [
+          "woe:state=2344948", 
+          "woe:state=56013481"
+        ], 
+        "ne_latitude": 12.302, 
         "latitude": 12.072, 
         "sw_longitude": 14.891, 
         "fullname": "Ville de N'Djamena, Chad", 
@@ -53,5 +61,11 @@
       }, 
       "id": 56013485
     }
+  ], 
+  "bbox": [
+    14.891, 
+    11.841, 
+    15.228, 
+    12.302
   ]
 }

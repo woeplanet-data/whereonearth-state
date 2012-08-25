@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070158, 
-        "name": "Xekong", 
         "adjacent_woeid": [
           2346008, 
           2347711, 
@@ -43,20 +41,41 @@
           20070159, 
           20070160
         ], 
-        "ne_latitude": 16.226, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Xekong", 
+        "hierarchy": [
+          "woe:state=20070158", 
+          "woe:country=23424872", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070158, 
         "ne_longitude": 107.697, 
         "longitude": 107.027, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 15.61, 
         "iso": "LA", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
-        "parent_woeid": 23424872, 
-        "latitude": 15.610, 
+        "sw_latitude": 14.994, 
+        "adjacent": [
+          "woe:state=20070159", 
+          "woe:state=20070160", 
+          "woe:state=20070076", 
+          "woe:state=2347711", 
+          "woe:state=20070157", 
+          "woe:state=2346008", 
+          "woe:state=2347749"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.226, 
         "sw_longitude": 106.356, 
         "fullname": "Xekong, Laos", 
-        "sw_latitude": 14.994
+        "date_indexed": "2010-12-02T16:42:51Z"
       }, 
       "id": 20070158
     }
+  ], 
+  "bbox": [
+    106.356, 
+    14.994, 
+    107.697, 
+    16.226
   ]
 }

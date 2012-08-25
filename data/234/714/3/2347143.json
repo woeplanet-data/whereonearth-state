@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347143, 
-        "name": "Nakhon Sawan", 
         "adjacent_woeid": [
           2347135, 
           2347138, 
@@ -44,23 +42,45 @@
           2347158, 
           2347159
         ], 
-        "ne_latitude": 16.191, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nakhon Sawan", 
         "alias_ENG_V": [
           "Changwat Nakhon Sawan"
         ], 
+        "hierarchy": [
+          "woe:state=2347143", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347143, 
         "ne_longitude": 100.834, 
         "longitude": 99.961, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 15.622, 
+        "iso": "TH", 
+        "sw_latitude": 15.052, 
+        "adjacent": [
+          "woe:state=2347157", 
+          "woe:state=2347138", 
+          "woe:state=2347159", 
+          "woe:state=2347141", 
+          "woe:state=2347140", 
+          "woe:state=2347158", 
+          "woe:state=2347135", 
+          "woe:state=2347142"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.191, 
         "sw_longitude": 99.088, 
         "fullname": "Nakhon Sawan, Thailand", 
-        "sw_latitude": 15.052
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347143
     }
+  ], 
+  "bbox": [
+    99.088, 
+    15.052, 
+    100.834, 
+    16.191
   ]
 }

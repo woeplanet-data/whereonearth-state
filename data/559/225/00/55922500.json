@@ -15,11 +15,11 @@
               25.082
             ], 
             [
-              51.630, 
+              51.63, 
               25.082
             ], 
             [
-              51.630, 
+              51.63, 
               24.471
             ], 
             [
@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 55922500, 
-        "name": "Mesaieed", 
         "adjacent_woeid": [
           2346954, 
           20070011, 
           20070012
         ], 
-        "ne_latitude": 25.082, 
+        "name": "Mesaieed", 
+        "hierarchy": [
+          "woe:state=55922500", 
+          "woe:country=23424930", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55922500, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 51.630, 
+        "ne_longitude": 51.63, 
         "longitude": 51.368, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "QA", 
         "date_indexed": "2010-12-02T12:16:10Z", 
-        "parent_woeid": 23424930, 
+        "adjacent": [
+          "woe:state=20070012", 
+          "woe:state=2346954", 
+          "woe:state=20070011"
+        ], 
+        "ne_latitude": 25.082, 
         "latitude": 24.777, 
         "sw_longitude": 51.106, 
         "fullname": "Mesaieed, Qatar", 
@@ -54,5 +63,11 @@
       }, 
       "id": 55922500
     }
+  ], 
+  "bbox": [
+    51.106, 
+    24.471, 
+    51.63, 
+    25.082
   ]
 }

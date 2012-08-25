@@ -32,20 +32,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 23424809, 
-        "name": "Europa Island", 
         "alias_SPA_Q": [
           "Isla Europa"
         ], 
-        "ne_latitude": -22.316, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Europa Island", 
+        "hierarchy": [
+          "woe:state=23424809", 
+          "woe:country=28289406", 
+          "woe:planet=1"
+        ], 
+        "woeid": 23424809, 
         "ne_longitude": 40.391, 
         "longitude": 40.386, 
-        "placetype": "State", 
-        "iso": "TF", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 28289406, 
+        "placetype": "state", 
         "latitude": -22.341, 
+        "iso": "TF", 
+        "sw_latitude": -22.367, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -22.316, 
         "sw_longitude": 40.321, 
         "fullname": "Europa Island, French Southern Territories", 
         "alias_GER_Q": [
@@ -54,12 +58,18 @@
         "alias_FRE_S": [
           "Ile Europa"
         ], 
-        "sw_latitude": -22.367, 
+        "date_indexed": "2010-12-02T08:53:34Z", 
         "alias_FRE_Q": [
           "\u00cele Europa"
         ]
       }, 
       "id": 23424809
     }
+  ], 
+  "bbox": [
+    40.321, 
+    -22.367, 
+    40.391, 
+    -22.316
   ]
 }

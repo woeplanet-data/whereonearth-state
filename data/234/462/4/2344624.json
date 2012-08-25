@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344624, 
-        "name": "Tindouf", 
         "adjacent_woeid": [
           2344604, 
           2344608, 
@@ -42,20 +40,40 @@
           56120060, 
           56120087
         ], 
-        "ne_latitude": 29.825, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tindouf", 
+        "hierarchy": [
+          "woe:state=2344624", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344624, 
         "ne_longitude": -3.653, 
         "longitude": -6.164, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 27.702, 
+        "iso": "DZ", 
+        "sw_latitude": 25.579, 
+        "adjacent": [
+          "woe:state=2344604", 
+          "woe:state=2344608", 
+          "woe:state=56120055", 
+          "woe:state=56120087", 
+          "woe:state=56120060", 
+          "woe:state=2346251"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 29.825, 
         "sw_longitude": -8.674, 
         "fullname": "Tindouf, Algeria", 
-        "sw_latitude": 25.579
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344624
     }
+  ], 
+  "bbox": [
+    -8.674, 
+    25.579, 
+    -3.653, 
+    29.825
   ]
 }

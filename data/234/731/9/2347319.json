@@ -8,7 +8,7 @@
           [
             [
               38.779, 
-              39.800
+              39.8
             ], 
             [
               38.779, 
@@ -20,11 +20,11 @@
             ], 
             [
               40.142, 
-              39.800
+              39.8
             ], 
             [
               38.779, 
-              39.800
+              39.8
             ]
           ]
         ]
@@ -32,34 +32,50 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347319, 
-        "alias_UNK_V": [
-          "G\u00fcm\u00fcshane"
-        ], 
-        "name": "G\u00fcm\u00fc\u015fhane", 
         "adjacent_woeid": [
           2347281, 
           2347285, 
           2347312, 
           2347327
         ], 
+        "name": "G\u00fcm\u00fc\u015fhane", 
+        "ne_latitude": 40.832, 
         "alias_UNK_S": [
           "Gumushane"
         ], 
-        "ne_latitude": 40.832, 
-        "ne_longitude": 40.142, 
+        "woeid": 2347319, 
+        "alias_UNK_V": [
+          "G\u00fcm\u00fcshane"
+        ], 
         "longitude": 39.461, 
-        "parent_woeid": 23424969, 
-        "placetype": "State", 
+        "ne_longitude": 40.142, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=2347319", 
+          "woe:country=23424969", 
+          "woe:planet=1"
+        ], 
         "iso": "TR", 
         "date_indexed": "2010-12-02T16:22:51Z", 
+        "adjacent": [
+          "woe:state=2347327", 
+          "woe:state=2347281", 
+          "woe:state=2347285", 
+          "woe:state=2347312"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.316, 
         "sw_longitude": 38.779, 
         "fullname": "G\u00fcm\u00fc\u015fhane, Turkey", 
-        "sw_latitude": 39.800
+        "sw_latitude": 39.8
       }, 
       "id": 2347319
     }
+  ], 
+  "bbox": [
+    38.779, 
+    39.8, 
+    40.142, 
+    40.832
   ]
 }

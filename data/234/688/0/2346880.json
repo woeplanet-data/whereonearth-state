@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346880, 
-        "name": "Udmurtiya", 
         "adjacent_woeid": [
           2346866, 
           2346878, 
           2346902, 
           20070511
         ], 
-        "ne_latitude": 58.498, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Udmurtiya", 
+        "hierarchy": [
+          "woe:state=2346880", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346880, 
         "ne_longitude": 54.373, 
         "longitude": 52.769, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 57.179, 
+        "iso": "RU", 
+        "sw_latitude": 55.861, 
+        "adjacent": [
+          "woe:state=2346866", 
+          "woe:state=2346902", 
+          "woe:state=20070511", 
+          "woe:state=2346878"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 58.498, 
         "sw_longitude": 51.164, 
         "fullname": "Udmurtiya, Russia", 
-        "sw_latitude": 55.861
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346880
     }
+  ], 
+  "bbox": [
+    51.164, 
+    55.861, 
+    54.373, 
+    58.498
   ]
 }

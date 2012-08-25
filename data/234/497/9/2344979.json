@@ -7,24 +7,24 @@
         "coordinates": [
           [
             [
-              19.680, 
-              -7.980
+              19.68, 
+              -7.98
             ], 
             [
-              19.680, 
-              -2.310
-            ], 
-            [
-              23.755, 
-              -2.310
+              19.68, 
+              -2.31
             ], 
             [
               23.755, 
-              -7.980
+              -2.31
             ], 
             [
-              19.680, 
-              -7.980
+              23.755, 
+              -7.98
+            ], 
+            [
+              19.68, 
+              -7.98
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2344979, 
-        "name": "Kasai-Occidental", 
         "adjacent_woeid": [
           2344671, 
           2344977, 
@@ -41,20 +39,39 @@
           2344980, 
           2344981
         ], 
-        "ne_latitude": -2.310, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kasai-Occidental", 
+        "hierarchy": [
+          "woe:state=2344979", 
+          "woe:country=23424780", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344979, 
         "ne_longitude": 23.755, 
         "longitude": 21.717, 
-        "placetype": "State", 
-        "iso": "CD", 
-        "date_indexed": "2010-12-02T16:33:06Z", 
-        "parent_woeid": 23424780, 
+        "placetype": "state", 
         "latitude": -5.145, 
-        "sw_longitude": 19.680, 
+        "iso": "CD", 
+        "sw_latitude": -7.98, 
+        "adjacent": [
+          "woe:state=2344977", 
+          "woe:state=2344978", 
+          "woe:state=2344980", 
+          "woe:state=2344981", 
+          "woe:state=2344671"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -2.31, 
+        "sw_longitude": 19.68, 
         "fullname": "Kasai-Occidental, Democratic Republic of Congo", 
-        "sw_latitude": -7.980
+        "date_indexed": "2010-12-02T16:33:06Z"
       }, 
       "id": 2344979
     }
+  ], 
+  "bbox": [
+    19.68, 
+    -7.98, 
+    23.755, 
+    -2.31
   ]
 }

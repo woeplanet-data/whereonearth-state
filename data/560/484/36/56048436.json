@@ -12,14 +12,14 @@
             ], 
             [
               0.382, 
-              9.310
+              9.31
             ], 
             [
-              1.650, 
-              9.310
+              1.65, 
+              9.31
             ], 
             [
-              1.650, 
+              1.65, 
               7.902
             ], 
             [
@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 56048436, 
-        "name": "Centre", 
-        "alias_ENG_P": [
-          "Centrale Region"
-        ], 
-        "ne_latitude": 9.310, 
-        "ne_longitude": 1.650, 
-        "longitude": 1.016, 
-        "parent_woeid": 23424965, 
-        "placetype": "State", 
-        "alias_FRE_V": [
-          "R\u00e9gion Centrale"
-        ], 
         "adjacent_woeid": [
           2345467, 
           2345468, 
@@ -53,8 +40,33 @@
           56048435, 
           56048438
         ], 
+        "name": "Centre", 
+        "alias_ENG_P": [
+          "Centrale Region"
+        ], 
+        "hierarchy": [
+          "woe:state=56048436", 
+          "woe:country=23424965", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56048436, 
+        "ne_longitude": 1.65, 
+        "longitude": 1.016, 
+        "ne_latitude": 9.31, 
+        "placetype": "state", 
+        "alias_FRE_V": [
+          "R\u00e9gion Centrale"
+        ], 
         "iso": "TG", 
         "date_indexed": "2010-12-02T17:04:11Z", 
+        "adjacent": [
+          "woe:state=55967670", 
+          "woe:state=55967671", 
+          "woe:state=56048435", 
+          "woe:state=2345467", 
+          "woe:state=56048438", 
+          "woe:state=2345468"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 8.606, 
         "sw_longitude": 0.382, 
@@ -66,5 +78,11 @@
       }, 
       "id": 56048436
     }
+  ], 
+  "bbox": [
+    0.382, 
+    7.902, 
+    1.65, 
+    9.31
   ]
 }

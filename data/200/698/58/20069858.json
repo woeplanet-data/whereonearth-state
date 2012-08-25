@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "DAN", 
-        "woeid": 20069858, 
-        "name": "Vestgronland", 
         "adjacent_woeid": [
           20069857, 
           20069859
         ], 
-        "ne_latitude": 77.091, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Vestgronland", 
+        "hierarchy": [
+          "woe:state=20069858", 
+          "woe:country=23424828", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069858, 
         "ne_longitude": -42.744, 
         "longitude": -47.249, 
-        "placetype": "State", 
-        "iso": "GL", 
-        "date_indexed": "2010-12-02T17:40:29Z", 
-        "parent_woeid": 23424828, 
+        "placetype": "state", 
         "latitude": 69.966, 
+        "iso": "GL", 
+        "sw_latitude": 59.777, 
+        "adjacent": [
+          "woe:state=20069857", 
+          "woe:state=20069859"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 77.091, 
         "sw_longitude": -58.332, 
         "fullname": "Vestgronland, Greenland", 
-        "sw_latitude": 59.777
+        "date_indexed": "2010-12-02T17:40:29Z"
       }, 
       "id": 20069858
     }
+  ], 
+  "bbox": [
+    -58.332, 
+    59.777, 
+    -42.744, 
+    77.091
   ]
 }

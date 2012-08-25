@@ -15,11 +15,11 @@
               1.504
             ], 
             [
-              33.060, 
+              33.06, 
               1.504
             ], 
             [
-              33.060, 
+              33.06, 
               0.586
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24550742, 
-        "name": "Kayunga", 
         "adjacent_woeid": [
           20070417, 
           20070422, 
@@ -42,14 +40,28 @@
           20070453, 
           56190195
         ], 
-        "ne_latitude": 1.504, 
+        "name": "Kayunga", 
+        "hierarchy": [
+          "woe:state=24550742", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550742, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 33.060, 
+        "ne_longitude": 33.06, 
         "longitude": 32.879, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "UG", 
         "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "adjacent": [
+          "woe:state=56190195", 
+          "woe:state=20070417", 
+          "woe:state=20070422", 
+          "woe:state=20070453", 
+          "woe:state=20070438", 
+          "woe:state=20070452"
+        ], 
+        "ne_latitude": 1.504, 
         "latitude": 1.045, 
         "sw_longitude": 32.697, 
         "fullname": "Kayunga, Uganda", 
@@ -57,5 +69,11 @@
       }, 
       "id": 24550742
     }
+  ], 
+  "bbox": [
+    32.697, 
+    0.586, 
+    33.06, 
+    1.504
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               -70.383, 
-              19.140
+              19.14
             ], 
             [
               -69.884, 
-              19.140
+              19.14
             ], 
             [
               -69.884, 
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345190, 
-        "name": "S\u00e1nchez Ramirez", 
         "adjacent_woeid": [
           2345177, 
           2345199, 
           2345200
         ], 
-        "ne_latitude": 19.140, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "S\u00e1nchez Ramirez", 
+        "hierarchy": [
+          "woe:state=2345190", 
+          "woe:country=23424800", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345190, 
         "ne_longitude": -69.884, 
         "longitude": -70.134, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 18.984, 
         "alias_SPA_S": [
           "Sanchez Ramirez"
         ], 
         "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "parent_woeid": 23424800, 
-        "latitude": 18.984, 
+        "sw_latitude": 18.828, 
+        "adjacent": [
+          "woe:state=2345177", 
+          "woe:state=2345199", 
+          "woe:state=2345200"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.14, 
         "sw_longitude": -70.383, 
         "fullname": "S\u00e1nchez Ramirez, Dominican Republic", 
-        "sw_latitude": 18.828
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345190
     }
+  ], 
+  "bbox": [
+    -70.383, 
+    18.828, 
+    -69.884, 
+    19.14
   ]
 }

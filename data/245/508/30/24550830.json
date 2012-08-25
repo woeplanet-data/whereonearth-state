@@ -320,9 +320,14 @@
         "alias_ENG_P": [
           "Cucer-Sandevo Municipality"
         ], 
+        "hierarchy": [
+          "woe:state=24550830", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.247111518082136, 
         "ne:Shape_Area": 0.0285821312039, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -331,6 +336,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 21.29320193901833, 
+        "adjacent": [
+          "woe:state=55848399", 
+          "woe:state=24550839", 
+          "woe:state=24550773", 
+          "woe:state=24550842", 
+          "woe:state=24550810"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.205, 
         "ne:FIPS_1": "MK20", 
@@ -370,7 +382,6 @@
         "alias_UNK_S": [
           "Opstina Cucer-Sandevo"
         ], 
-        "parent_woeid": 23424890, 
         "alias_UNK_V": [
           "Opstina \u010cu\u010der-Sandevo"
         ], 

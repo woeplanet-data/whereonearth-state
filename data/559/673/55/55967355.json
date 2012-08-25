@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 55967355, 
-        "name": "Koulp\u00e9logo", 
         "adjacent_woeid": [
           2347613, 
           2347617, 
           55967354, 
           56048434
         ], 
-        "ne_latitude": 11.763, 
+        "name": "Koulp\u00e9logo", 
+        "hierarchy": [
+          "woe:state=55967355", 
+          "woe:country=23424978", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55967355, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 0.597, 
         "longitude": 0.274, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "BF", 
         "date_indexed": "2010-12-02T09:36:17Z", 
-        "parent_woeid": 23424978, 
+        "adjacent": [
+          "woe:state=2347613", 
+          "woe:state=2347617", 
+          "woe:state=55967354", 
+          "woe:state=56048434"
+        ], 
+        "ne_latitude": 11.763, 
         "latitude": 11.386, 
         "sw_longitude": -0.148, 
         "fullname": "Koulp\u00e9logo, Burkina Faso", 
@@ -58,5 +68,11 @@
       }, 
       "id": 55967355
     }
+  ], 
+  "bbox": [
+    -0.148, 
+    11.009, 
+    0.597, 
+    11.763
   ]
 }

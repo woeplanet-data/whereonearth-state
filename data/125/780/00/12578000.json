@@ -7996,17 +7996,22 @@
         "alias_ENG_P": [
           "Hebei"
         ], 
+        "hierarchy": [
+          "woe:state=12578000", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.62145559320112, 
         "ne:Shape_Area": 19.6214330789, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud5c8\ubca0\uc774"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1811, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u6cb3\u5317"
         ], 
@@ -8019,6 +8024,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 113.43837853424202, 
+        "adjacent": [
+          "woe:state=12578009", 
+          "woe:state=12578011", 
+          "woe:state=12578017", 
+          "woe:state=12578014", 
+          "woe:state=12578013", 
+          "woe:state=12577999", 
+          "woe:state=12578008"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.304, 
         "ne:FIPS_1": "CH10", 
@@ -8026,9 +8040,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 36.056559149585155, 
-        "ne:VertexCou": 1994.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1811, 
         "ne:Postal": "HB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "H\u00e9bei", 
@@ -8044,8 +8058,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 187165.7, 
         "woe:id": "12578000", 
-        "ne:HASC_1": "CN.HB", 
-        "lang": "CHI", 
+        "name": "\u6cb3\u5317\u7701", 
+        "ne:VertexCou": 1994.0, 
         "adjacent_woeid": [
           12577999, 
           12578008, 
@@ -8055,9 +8069,8 @@
           12578014, 
           12578017
         ], 
-        "name": "\u6cb3\u5317\u7701", 
+        "ne:HASC_1": "CN.HB", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 119.85023522377662, 
         "longitude": 116.691, 
         "iso": "CN", 

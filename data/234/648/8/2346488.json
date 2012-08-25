@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346488, 
-        "name": "Puno", 
         "adjacent_woeid": [
           2344804, 
           2346471, 
@@ -42,20 +40,40 @@
           2346485, 
           2346490
         ], 
-        "ne_latitude": -13.006, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Puno", 
+        "hierarchy": [
+          "woe:state=2346488", 
+          "woe:country=23424919", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346488, 
         "ne_longitude": -68.814, 
         "longitude": -69.973, 
-        "placetype": "State", 
-        "iso": "PE", 
-        "date_indexed": "2010-12-02T16:12:03Z", 
-        "parent_woeid": 23424919, 
+        "placetype": "state", 
         "latitude": -15.159, 
+        "iso": "PE", 
+        "sw_latitude": -17.312, 
+        "adjacent": [
+          "woe:state=2346471", 
+          "woe:state=2346475", 
+          "woe:state=2344804", 
+          "woe:state=2346484", 
+          "woe:state=2346485", 
+          "woe:state=2346490"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -13.006, 
         "sw_longitude": -71.131, 
         "fullname": "Puno, Peru", 
-        "sw_latitude": -17.312
+        "date_indexed": "2010-12-02T16:12:03Z"
       }, 
       "id": 2346488
     }
+  ], 
+  "bbox": [
+    -71.131, 
+    -17.312, 
+    -68.814, 
+    -13.006
   ]
 }

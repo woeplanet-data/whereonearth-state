@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              30.000, 
+              30.0, 
               50.219
             ], 
             [
-              30.000, 
+              30.0, 
               50.632
             ], 
             [
-              30.830, 
+              30.83, 
               50.632
             ], 
             [
-              30.830, 
+              30.83, 
               50.219
             ], 
             [
-              30.000, 
+              30.0, 
               50.219
             ]
           ]
@@ -32,31 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070188, 
-        "alias_UNK_V": [
-          "Kyyivs'ka mis'ka rada"
+        "adjacent_woeid": [
+          2347545
         ], 
+        "ne_latitude": 50.632, 
         "name": "Kyyiv Misto", 
         "alias_ENG_P": [
           "Kiev City Municipality"
         ], 
-        "ne_latitude": 50.632, 
-        "ne_longitude": 30.830, 
-        "longitude": 30.415, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          2347545
+        "hierarchy": [
+          "woe:state=20070188", 
+          "woe:country=23424976", 
+          "woe:planet=1"
         ], 
+        "woeid": 20070188, 
+        "alias_UNK_V": [
+          "Kyyivs'ka mis'ka rada"
+        ], 
+        "longitude": 30.415, 
+        "ne_longitude": 30.83, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 50.219, 
+        "adjacent": [
+          "woe:state=2347545"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.426, 
-        "sw_longitude": 30.000, 
+        "sw_longitude": 30.0, 
         "fullname": "Kyyiv Misto, Kiev City Municipality, Ukraine", 
-        "sw_latitude": 50.219
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 20070188
     }
+  ], 
+  "bbox": [
+    30.0, 
+    50.219, 
+    30.83, 
+    50.632
   ]
 }

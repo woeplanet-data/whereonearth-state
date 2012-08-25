@@ -697,9 +697,14 @@
       "properties": {
         "ne:ProvNumber": 12, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55967862", 
+          "woe:country=23424770", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 28.320933132757943, 
         "ne:Shape_Area": 0.354809077736, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 8, 
         "ne:gadm_level": 1.0, 
@@ -708,6 +713,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 89.41705407098863, 
+        "adjacent": [
+          "woe:state=2344882", 
+          "woe:state=2344887", 
+          "woe:state=2344889", 
+          "woe:state=12578004"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 28.075, 
         "ne:FIPS_1": "BT15", 
@@ -743,7 +754,6 @@
         ], 
         "name": "Gasa", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424770, 
         "ne_longitude": 90.40960330634755, 
         "longitude": 90.011, 
         "iso": "BT", 

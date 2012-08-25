@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              25.000, 
+              25.0, 
               41.236
             ], 
             [
-              25.000, 
+              25.0, 
               41.903
             ], 
             [
@@ -23,7 +23,7 @@
               41.236
             ], 
             [
-              25.000, 
+              25.0, 
               41.236
             ]
           ]
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070053, 
-        "name": "Kurdzhali", 
         "adjacent_woeid": [
           20070067, 
           20070068, 
           20070073
         ], 
-        "ne_latitude": 41.903, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kurdzhali", 
         "alias_ENG_V": [
           "Kardzhali"
         ], 
+        "hierarchy": [
+          "woe:state=20070053", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070053, 
         "ne_longitude": 25.955, 
         "longitude": 25.478, 
-        "placetype": "State", 
-        "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
+        "placetype": "state", 
         "latitude": 41.569, 
-        "sw_longitude": 25.000, 
+        "iso": "BG", 
+        "sw_latitude": 41.236, 
+        "adjacent": [
+          "woe:state=20070073", 
+          "woe:state=20070068", 
+          "woe:state=20070067"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.903, 
+        "sw_longitude": 25.0, 
         "fullname": "Kurdzhali, Bulgaria", 
-        "sw_latitude": 41.236
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070053
     }
+  ], 
+  "bbox": [
+    25.0, 
+    41.236, 
+    25.955, 
+    41.903
   ]
 }

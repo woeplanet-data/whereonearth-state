@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345628, 
-        "name": "Cort\u00e9s", 
         "adjacent_woeid": [
           2345560, 
           2345623, 
@@ -41,29 +39,48 @@
           2345638, 
           2345640
         ], 
-        "ne_latitude": 15.923, 
+        "name": "Cort\u00e9s", 
+        "adjacent": [
+          "woe:state=2345623", 
+          "woe:state=2345626", 
+          "woe:state=2345560", 
+          "woe:state=2345638", 
+          "woe:state=2345640"
+        ], 
+        "hierarchy": [
+          "woe:state=2345628", 
+          "woe:country=23424841", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345628, 
         "alias_JPN_Q": [
           "\u30b3\u30eb\u30c6\u30b9"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -87.725, 
         "longitude": -88.097, 
-        "placetype": "State", 
+        "ne_latitude": 15.923, 
+        "placetype": "state", 
         "alias_SPA_S": [
           "Cortes"
         ], 
         "iso": "HN", 
-        "date_indexed": "2010-12-02T19:20:59Z", 
+        "sw_latitude": 14.805, 
         "alias_KOR_Q": [
           "\ucf54\ub974\ud14c\uc2a4"
         ], 
-        "parent_woeid": 23424841, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 15.364, 
         "sw_longitude": -88.469, 
         "fullname": "Cort\u00e9s, Honduras", 
-        "sw_latitude": 14.805
+        "date_indexed": "2010-12-02T19:20:59Z"
       }, 
       "id": 2345628
     }
+  ], 
+  "bbox": [
+    -88.469, 
+    14.805, 
+    -87.725, 
+    15.923
   ]
 }

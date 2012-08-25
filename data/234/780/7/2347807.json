@@ -4173,9 +4173,14 @@
       "properties": {
         "ne:ProvNumber": 4, 
         "ne:ScaleRank": 4, 
+        "hierarchy": [
+          "woe:state=2347807", 
+          "woe:country=23425003", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -8.193969821450025, 
         "ne:Shape_Area": 12.140707273, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 13, 
         "ne:gadm_level": 1.0, 
@@ -4184,6 +4189,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 29.08430260568076, 
+        "adjacent": [
+          "woe:state=2347805", 
+          "woe:state=2347806", 
+          "woe:state=2344981", 
+          "woe:state=2347808", 
+          "woe:state=2347360", 
+          "woe:state=2347375"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -10.851, 
         "ne:FIPS_1": "ZA05", 
@@ -4221,7 +4234,6 @@
         ], 
         "name": "Northern", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23425003, 
         "ne_longitude": 33.67327314633866, 
         "longitude": 31.387, 
         "iso": "ZM", 

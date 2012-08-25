@@ -365,17 +365,31 @@
       "properties": {
         "ne:ProvNumber": 2004, 
         "ne:ScaleRank": 6, 
+        "hierarchy": [
+          "woe:state=2347300", 
+          "woe:country=23424969", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 38.62503286417541, 
         "ne:Shape_Area": 1.47962168253, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
-        "ne:OBJECTID": 2283, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 36.220249464940935, 
+        "adjacent": [
+          "woe:state=2347258", 
+          "woe:state=2347259", 
+          "woe:state=2347284", 
+          "woe:state=2347293", 
+          "woe:state=2347298", 
+          "woe:state=20070184", 
+          "woe:state=2347309"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 37.87, 
         "ne:FIPS_1": "TU46", 
@@ -383,9 +397,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "date_indexed": "2010-12-02T16:22:51Z", 
-        "ne:VertexCou": 87.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 2283, 
         "ne:Postal": "KM", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kahramanmaras", 
@@ -401,8 +415,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 14439.4, 
         "woe:id": "2347300", 
-        "ne:HASC_1": "TR.KM", 
-        "lang": "UNK", 
+        "name": "Kahramanmara\u015f", 
+        "ne:VertexCou": 87.0, 
         "adjacent_woeid": [
           2347258, 
           2347259, 
@@ -412,12 +426,11 @@
           2347309, 
           20070184
         ], 
-        "name": "Kahramanmara\u015f", 
+        "ne:HASC_1": "TR.KM", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "K maras"
         ], 
-        "parent_woeid": 23424969, 
         "alias_UNK_V": [
           "K mara\u015f"
         ], 

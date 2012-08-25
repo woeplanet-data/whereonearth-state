@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347247, 
-        "name": "Aryanah", 
         "adjacent_woeid": [
           2347242, 
           2347243, 
@@ -41,20 +39,39 @@
           2347256, 
           2347257
         ], 
-        "ne_latitude": 37.118, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Aryanah", 
+        "hierarchy": [
+          "woe:state=2347247", 
+          "woe:country=23424967", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347247, 
         "ne_longitude": 10.357, 
         "longitude": 9.956, 
-        "placetype": "State", 
-        "iso": "TN", 
-        "date_indexed": "2010-12-02T18:18:54Z", 
-        "parent_woeid": 23424967, 
+        "placetype": "state", 
         "latitude": 36.825, 
+        "iso": "TN", 
+        "sw_latitude": 36.533, 
+        "adjacent": [
+          "woe:state=2347242", 
+          "woe:state=2347243", 
+          "woe:state=2347248", 
+          "woe:state=2347256", 
+          "woe:state=2347257"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 37.118, 
         "sw_longitude": 9.555, 
         "fullname": "Aryanah, Tunisia", 
-        "sw_latitude": 36.533
+        "date_indexed": "2010-12-02T18:18:54Z"
       }, 
       "id": 2347247
     }
+  ], 
+  "bbox": [
+    9.555, 
+    36.533, 
+    10.357, 
+    37.118
   ]
 }

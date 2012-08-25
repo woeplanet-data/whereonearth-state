@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2344669, 
-        "name": "Uige", 
         "adjacent_woeid": [
           2344660, 
           2344666, 
@@ -42,20 +40,40 @@
           2344977, 
           2344984
         ], 
-        "ne_latitude": -5.865, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Uige", 
+        "hierarchy": [
+          "woe:state=2344669", 
+          "woe:country=23424745", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344669, 
         "ne_longitude": 17.117, 
-        "longitude": 15.470, 
-        "placetype": "State", 
-        "iso": "AO", 
-        "date_indexed": "2010-12-02T17:52:14Z", 
-        "parent_woeid": 23424745, 
+        "longitude": 15.47, 
+        "placetype": "state", 
         "latitude": -7.147, 
+        "iso": "AO", 
+        "sw_latitude": -8.429, 
+        "adjacent": [
+          "woe:state=2344977", 
+          "woe:state=2344984", 
+          "woe:state=2344673", 
+          "woe:state=2344660", 
+          "woe:state=2344666", 
+          "woe:state=2344670"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -5.865, 
         "sw_longitude": 13.824, 
         "fullname": "Uige, Angola", 
-        "sw_latitude": -8.429
+        "date_indexed": "2010-12-02T17:52:14Z"
       }, 
       "id": 2344669
     }
+  ], 
+  "bbox": [
+    13.824, 
+    -8.429, 
+    17.117, 
+    -5.865
   ]
 }

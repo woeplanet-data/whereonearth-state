@@ -2446,11 +2446,16 @@
         "alias_KOR_Q": [
           "\ubbf8\ub124\uc18c\ud0c0"
         ], 
+        "hierarchy": [
+          "woe:state=2347582", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 49.369852720726556, 
         "ne:Shape_Area": 26.2800367211, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18580511", 
         "alias_ENG_A": [
           "MN"
         ], 
@@ -2460,13 +2465,21 @@
         "alias_CHI_Q": [
           "\u660e\u5c3c\u82cf\u8fbe"
         ], 
-        "ne:OBJECTID": 3514, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30df\u30cd\u30bd\u30bf"
         ], 
         "ne:Abbrev": "Minn.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -97.22921757203329, 
+        "adjacent": [
+          "woe:state=2347574", 
+          "woe:state=2344917", 
+          "woe:state=2347593", 
+          "woe:state=2344922", 
+          "woe:state=2347600", 
+          "woe:state=2347608"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.442, 
         "ne:FIPS_1": "US32", 
@@ -2474,9 +2487,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 43.50012615819571, 
-        "ne:VertexCou": 605.0, 
-        "ne:VALIDFR_1": "18580511", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3514, 
         "ne:Postal": "MN", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "MN|Minn.", 
@@ -2492,8 +2505,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 224797.4, 
         "woe:id": "2347582", 
-        "ne:HASC_1": "US.MN", 
-        "lang": "ENG", 
+        "name": "Minnesota", 
+        "ne:VertexCou": 605.0, 
         "adjacent_woeid": [
           2344917, 
           2344922, 
@@ -2502,9 +2515,8 @@
           2347600, 
           2347608
         ], 
-        "name": "Minnesota", 
+        "ne:HASC_1": "US.MN", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -89.49872440790506, 
         "longitude": -93.366, 
         "iso": "US", 

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2345128, 
-        "name": "Santa Catarina", 
         "adjacent_woeid": [
           2345131, 
           56051557, 
@@ -41,20 +39,39 @@
           56051561, 
           56051563
         ], 
-        "ne_latitude": 15.206, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Santa Catarina", 
+        "hierarchy": [
+          "woe:state=2345128", 
+          "woe:country=23424794", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345128, 
         "ne_longitude": -23.621, 
         "longitude": -23.706, 
-        "placetype": "State", 
-        "iso": "CV", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424794, 
+        "placetype": "state", 
         "latitude": 15.088, 
+        "iso": "CV", 
+        "sw_latitude": 14.971, 
+        "adjacent": [
+          "woe:state=56051563", 
+          "woe:state=56051561", 
+          "woe:state=56051558", 
+          "woe:state=56051557", 
+          "woe:state=2345131"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.206, 
         "sw_longitude": -23.792, 
         "fullname": "Santa Catarina, Cape Verde", 
-        "sw_latitude": 14.971
+        "date_indexed": "2010-12-02T12:16:16Z"
       }, 
       "id": 2345128
     }
+  ], 
+  "bbox": [
+    -23.792, 
+    14.971, 
+    -23.621, 
+    15.206
   ]
 }

@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 56059375, 
-        "name": "Mamou", 
         "adjacent_woeid": [
           2347001, 
           56059374, 
           56059377, 
           56059379
         ], 
-        "ne_latitude": 11.345, 
+        "name": "Mamou", 
+        "hierarchy": [
+          "woe:state=56059375", 
+          "woe:country=23424835", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56059375, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -11.214, 
         "longitude": -12.116, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GN", 
         "date_indexed": "2010-12-02T16:11:50Z", 
-        "parent_woeid": 23424835, 
+        "adjacent": [
+          "woe:state=56059379", 
+          "woe:state=56059377", 
+          "woe:state=56059374", 
+          "woe:state=2347001"
+        ], 
+        "ne_latitude": 11.345, 
         "latitude": 10.608, 
         "sw_longitude": -12.977, 
         "fullname": "Mamou, Guinea", 
@@ -55,5 +65,11 @@
       }, 
       "id": 56059375
     }
+  ], 
+  "bbox": [
+    -12.977, 
+    9.871, 
+    -11.214, 
+    11.345
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346895, 
-        "name": "Nizhegorodskaya Oblast", 
         "adjacent_woeid": [
           2346869, 
           2346875, 
@@ -44,20 +42,42 @@
           2346922, 
           2346932
         ], 
-        "ne_latitude": 58.062, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nizhegorodskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346895", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346895, 
         "ne_longitude": 47.642, 
         "longitude": 44.683, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 56.279, 
+        "iso": "RU", 
+        "sw_latitude": 54.495, 
+        "adjacent": [
+          "woe:state=2346869", 
+          "woe:state=2346897", 
+          "woe:state=2346902", 
+          "woe:state=2346903", 
+          "woe:state=2346875", 
+          "woe:state=2346876", 
+          "woe:state=2346922", 
+          "woe:state=2346932"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 58.062, 
         "sw_longitude": 41.725, 
         "fullname": "Nizhegorodskaya Oblast, Russia", 
-        "sw_latitude": 54.495
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346895
     }
+  ], 
+  "bbox": [
+    41.725, 
+    54.495, 
+    47.642, 
+    58.062
   ]
 }

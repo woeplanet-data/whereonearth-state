@@ -1404,17 +1404,22 @@
         "alias_ENG_P": [
           "Tianjin"
         ], 
+        "hierarchy": [
+          "woe:state=12578017", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.25702627244459, 
         "ne:Shape_Area": 1.19334785361, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "Unknown", 
+        "ne:MAP_COLOR": 3, 
         "alias_KOR_Q": [
           "\ud188\uc9c4"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 1816, 
         "alias_CHI_V": [
           "\u5929\u6d25 \u76f4\u8f44\u5e02"
         ], 
@@ -1427,6 +1432,10 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 116.6806095723739, 
+        "adjacent": [
+          "woe:state=12578011", 
+          "woe:state=12578000"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.41, 
         "ne:FIPS_1": "CH28", 
@@ -1434,9 +1443,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Municipality", 
         "sw_latitude": 38.55924876591786, 
-        "lang": "CHI", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 1816, 
+        "ne:VertexCou": 346.0, 
+        "ne:VALIDFR_1": "Unknown", 
+        "ne:DataRank": 1, 
         "ne:Postal": "TJ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Tianjin", 
@@ -1452,15 +1461,14 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 11428.4, 
         "woe:id": "12578017", 
-        "name": "\u5929\u6d25\u76f4\u8f96\u5e02", 
-        "ne:VertexCou": 346.0, 
+        "ne:HASC_1": "CN.TJ", 
+        "lang": "CHI", 
         "adjacent_woeid": [
           12578000, 
           12578011
         ], 
-        "ne:HASC_1": "CN.TJ", 
+        "name": "\u5929\u6d25\u76f4\u8f96\u5e02", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 118.01308637943293, 
         "longitude": 117.38, 
         "iso": "CN", 

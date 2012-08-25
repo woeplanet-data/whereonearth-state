@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55844299, 
-        "name": "Kandavas Novads", 
         "adjacent_woeid": [
           55844477, 
           56190517, 
@@ -42,14 +40,28 @@
           56190556, 
           56190576
         ], 
-        "ne_latitude": 57.145, 
+        "name": "Kandavas Novads", 
+        "hierarchy": [
+          "woe:state=55844299", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55844299, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 22.944, 
         "longitude": 22.693, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "LV", 
         "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
+        "adjacent": [
+          "woe:state=55844477", 
+          "woe:state=56190556", 
+          "woe:state=56190576", 
+          "woe:state=56190517", 
+          "woe:state=56190535", 
+          "woe:state=56190518"
+        ], 
+        "ne_latitude": 57.145, 
         "latitude": 56.998, 
         "sw_longitude": 22.443, 
         "fullname": "Kandavas Novads, Tukuma Rajons, Kandavas Novads, Latvia", 
@@ -57,5 +69,11 @@
       }, 
       "id": 55844299
     }
+  ], 
+  "bbox": [
+    22.443, 
+    56.851, 
+    22.944, 
+    57.145
   ]
 }

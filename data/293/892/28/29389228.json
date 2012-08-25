@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 29389228, 
-        "name": "Berane", 
         "adjacent_woeid": [
           29389227, 
           29389229, 
@@ -42,14 +40,28 @@
           29389235, 
           29389239
         ], 
-        "ne_latitude": 42.988, 
+        "name": "Berane", 
+        "hierarchy": [
+          "woe:state=29389228", 
+          "woe:country=20069817", 
+          "woe:planet=1"
+        ], 
+        "woeid": 29389228, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.136, 
         "longitude": 19.938, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "ME", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "parent_woeid": 20069817, 
+        "adjacent": [
+          "woe:state=29389233", 
+          "woe:state=29389227", 
+          "woe:state=29389235", 
+          "woe:state=29389232", 
+          "woe:state=29389239", 
+          "woe:state=29389229"
+        ], 
+        "ne_latitude": 42.988, 
         "latitude": 42.882, 
         "sw_longitude": 19.676, 
         "fullname": "Berane, Montenegro", 
@@ -57,5 +69,11 @@
       }, 
       "id": 29389228
     }
+  ], 
+  "bbox": [
+    19.676, 
+    42.696, 
+    20.136, 
+    42.988
   ]
 }

@@ -2047,14 +2047,19 @@
         "alias_POL_Q": [
           "Grecja Zachodnia"
         ], 
+        "hierarchy": [
+          "woe:state=12577880", 
+          "woe:country=23424833", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 39.153941148565195, 
         "alias_RUM_Q": [
           "Grecia de Vest"
         ], 
         "ne:Shape_Area": 1.12597211112, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1923", 
         "alias_POR_Q": [
           "Gr\u00e9cia Ocidental"
         ], 
@@ -2065,21 +2070,20 @@
           "Grecia Ocidental"
         ], 
         "ne:gadm_level": 1.0, 
-        "alias_ARA_Q": [
-          "\u063a\u0631\u0628 \u0627\u0644\u064a\u0648\u0646\u0627\u0646"
-        ], 
+        "ne:ADM0_A3": "GRC", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u897f\u5e0c\u814a"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Grecia Occidental"
+        ], 
         "alias_ITA_Q": [
           "Grecia Occidentale"
         ], 
-        "ne:OBJECTID": 2886, 
-        "ne:NEV_Countr": "Greece", 
-        "alias_CZE_Q": [
-          "Z\u00e1padn\u00ed \u0158ecko"
+        "ne:DataRank": 6, 
+        "alias_ARA_Q": [
+          "\u063a\u0631\u0628 \u0627\u0644\u064a\u0648\u0646\u0627\u0646"
         ], 
         "alias_JPN_Q": [
           "\u897f\u30ae\u30ea\u30b7\u30e3"
@@ -2089,9 +2093,7 @@
         ], 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Grecia Occidental"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "L\u00e4nsi-Kreikka"
         ], 
@@ -2099,6 +2101,12 @@
           "Laensi-Kreikka"
         ], 
         "sw_longitude": 20.729412062316896, 
+        "adjacent": [
+          "woe:state=12577888", 
+          "woe:state=12577883", 
+          "woe:state=12577887", 
+          "woe:state=12577889"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 37.859, 
         "ne:FIPS_1": "GR38", 
@@ -2108,14 +2116,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "ne:VertexCou": 503.0, 
-        "ne:VALIDFR_1": "1923", 
-        "ne:DataRank": 6, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 2886, 
         "ne:Postal": "GW", 
         "ne:Region_Cod": "GRC-PLP", 
         "ne:VARNAME_1": "Greece West", 
         "ne:ISO": "GRC", 
-        "ne:TYPE_1": "Diamerismata", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 10.2277611682, 
         "alias_DUT_Q": [
@@ -2124,16 +2132,18 @@
         "ne:NAME_0": "Greece", 
         "ne:NAME_1": "Dytiki Ellada", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Diamerismata", 
+        "alias_CZE_Q": [
+          "Z\u00e1padn\u00ed \u0158ecko"
+        ], 
         "ne:LabelRank": 6, 
-        "ne:ADM0_A3": "GRC", 
         "ne:Area_sqkm": 10936.5, 
         "alias_GER_Q": [
           "Westgriechenland"
         ], 
         "woe:id": "12577880", 
-        "ne:HASC_1": "GR.GW", 
-        "lang": "ENG", 
+        "name": "West Greece", 
+        "ne:VertexCou": 503.0, 
         "adjacent_woeid": [
           12577883, 
           12577887, 
@@ -2141,13 +2151,15 @@
           12577889
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "West Greece", 
+        "ne:HASC_1": "GR.GW", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "alias_UNK_S": [
           "Bati Yunanistan"
         ], 
-        "parent_woeid": 23424833, 
+        "alias_HUN_S": [
+          "Nyugat-Goeroegorszag"
+        ], 
         "alias_UNK_Q": [
           "Katundan Nga Gresya"
         ], 
@@ -2156,8 +2168,8 @@
         ], 
         "ne_longitude": 22.37220584452416, 
         "longitude": 21.741, 
-        "alias_HUN_S": [
-          "Nyugat-Goeroegorszag"
+        "alias_FRE_S": [
+          "Grece-Occidentale"
         ], 
         "iso": "GR", 
         "sw_latitude": 37.37306793883437, 
@@ -2167,9 +2179,7 @@
         ], 
         "fullname": "West Greece, Dytiki Ellada, Greece", 
         "ne:Region": "Peloponnisos", 
-        "alias_FRE_S": [
-          "Grece-Occidentale"
-        ], 
+        "ne:NEV_Countr": "Greece", 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Gr\u00e8ce-Occidentale"

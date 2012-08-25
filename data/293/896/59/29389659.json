@@ -8,7 +8,7 @@
           [
             [
               145.541, 
-              14.840
+              14.84
             ], 
             [
               145.541, 
@@ -20,11 +20,11 @@
             ], 
             [
               145.679, 
-              14.840
+              14.84
             ], 
             [
               145.541, 
-              14.840
+              14.84
             ]
           ]
         ]
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 29389659, 
         "name": "Tinian", 
-        "ne_latitude": 15.105, 
+        "hierarchy": [
+          "woe:state=29389659", 
+          "woe:country=23424788", 
+          "woe:planet=1"
+        ], 
+        "woeid": 29389659, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 145.679, 
         "longitude": 145.633, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MP", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "parent_woeid": 23424788, 
+        "ne_latitude": 15.105, 
         "latitude": 15.014, 
         "sw_longitude": 145.541, 
         "fullname": "Tinian, Northern Mariana Islands", 
-        "sw_latitude": 14.840
+        "sw_latitude": 14.84
       }, 
       "id": 29389659
     }
+  ], 
+  "bbox": [
+    145.541, 
+    14.84, 
+    145.679, 
+    15.105
   ]
 }

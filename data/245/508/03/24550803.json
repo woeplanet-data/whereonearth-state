@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550803, 
-        "alias_UNK_V": [
-          "Opstina Saraj"
-        ], 
-        "name": "Saraj", 
-        "alias_ENG_P": [
-          "Saraj Municipality"
-        ], 
-        "ne_latitude": 42.121, 
-        "ne_longitude": 21.344, 
-        "longitude": 21.250, 
-        "parent_woeid": 482940, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550771, 
           24550773, 
@@ -52,15 +39,46 @@
           24550821, 
           24550839
         ], 
+        "name": "Saraj", 
+        "alias_ENG_P": [
+          "Saraj Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550803", 
+          "woe:town=482940", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550803, 
+        "alias_UNK_V": [
+          "Opstina Saraj"
+        ], 
+        "longitude": 21.25, 
+        "ne_longitude": 21.344, 
+        "placetype": "state", 
+        "latitude": 42.01, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550839", 
+          "woe:state=24550771", 
+          "woe:state=24550773", 
+          "woe:state=24550804", 
+          "woe:state=24550821"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 42.010, 
+        "ne_latitude": 42.121, 
         "sw_longitude": 21.156, 
         "fullname": "Saraj, Skopje, Saraj Municipality, Macedonia", 
         "sw_latitude": 41.899
       }, 
       "id": 24550803
     }
+  ], 
+  "bbox": [
+    21.156, 
+    41.899, 
+    21.344, 
+    42.121
   ]
 }

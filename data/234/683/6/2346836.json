@@ -15,11 +15,11 @@
               18.034
             ], 
             [
-              -66.860, 
+              -66.86, 
               18.034
             ], 
             [
-              -66.860, 
+              -66.86, 
               17.927
             ], 
             [
@@ -32,33 +32,48 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.034, 
-        "name": "Gu\u00e1nica", 
         "adjacent_woeid": [
           2346804, 
           2346810, 
           2346837
         ], 
+        "name": "Gu\u00e1nica", 
+        "hierarchy": [
+          "woe:state=2346836", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346836, 
         "alias_SPA_V": [
           "Gu\u00e1nica Municipios"
         ], 
-        "ne_longitude": -66.860, 
-        "longitude": -66.920, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
+        "ne_longitude": -66.86, 
+        "longitude": -66.92, 
+        "placetype": "state", 
+        "latitude": 17.98, 
         "alias_SPA_S": [
           "Guanica Municipios"
         ], 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 17.980, 
         "sw_longitude": -66.982, 
+        "sw_latitude": 17.927, 
+        "adjacent": [
+          "woe:state=2346837", 
+          "woe:state=2346804", 
+          "woe:state=2346810"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.034, 
+        "iso": "PR", 
         "fullname": "Gu\u00e1nica, Puerto Rico", 
-        "sw_latitude": 17.927
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346836
     }
+  ], 
+  "bbox": [
+    -66.982, 
+    17.927, 
+    -66.86, 
+    18.034
   ]
 }

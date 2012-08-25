@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              80.420, 
+              80.42, 
               6.741
             ], 
             [
-              80.420, 
+              80.42, 
               8.029
             ], 
             [
-              81.020, 
+              81.02, 
               8.029
             ], 
             [
-              81.020, 
+              81.02, 
               6.741
             ], 
             [
-              80.420, 
+              80.42, 
               6.741
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344959, 
-        "name": "Central", 
         "adjacent_woeid": [
           2344960, 
           2344961, 
@@ -41,20 +39,39 @@
           2344963, 
           2344965
         ], 
-        "ne_latitude": 8.029, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 81.020, 
-        "longitude": 80.720, 
-        "placetype": "State", 
-        "iso": "LK", 
-        "date_indexed": "2010-12-02T17:56:32Z", 
-        "parent_woeid": 23424778, 
+        "name": "Central", 
+        "hierarchy": [
+          "woe:state=2344959", 
+          "woe:country=23424778", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344959, 
+        "ne_longitude": 81.02, 
+        "longitude": 80.72, 
+        "placetype": "state", 
         "latitude": 7.385, 
-        "sw_longitude": 80.420, 
+        "iso": "LK", 
+        "sw_latitude": 6.741, 
+        "adjacent": [
+          "woe:state=2344960", 
+          "woe:state=2344961", 
+          "woe:state=2344962", 
+          "woe:state=2344963", 
+          "woe:state=2344965"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 8.029, 
+        "sw_longitude": 80.42, 
         "fullname": "Central, Sri Lanka", 
-        "sw_latitude": 6.741
+        "date_indexed": "2010-12-02T17:56:32Z"
       }, 
       "id": 2344959
     }
+  ], 
+  "bbox": [
+    80.42, 
+    6.741, 
+    81.02, 
+    8.029
   ]
 }

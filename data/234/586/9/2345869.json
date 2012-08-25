@@ -1029,20 +1029,29 @@
         "alias_ENG_P": [
           "Kochi Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345869", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 33.855659898485555, 
         "ne:Shape_Area": 0.698492269605, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1834, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u9ad8\u77e5"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 132.53995161357614, 
+        "adjacent": [
+          "woe:state=2345888", 
+          "woe:state=2345855"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 33.302, 
         "ne:FIPS_1": "JA20", 
@@ -1050,9 +1059,9 @@
         "ne:FIRST_HASC": "JP.SM", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 32.7040764428736, 
-        "ne:VertexCou": 249.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1834, 
         "ne:Postal": "KC", 
         "ne:Region_Cod": "JPN-SHK", 
         "ne:VARNAME_1": "Koti", 
@@ -1068,15 +1077,14 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 7206.4, 
         "woe:id": "2345869", 
-        "ne:HASC_1": "JP.KC", 
-        "lang": "JPN", 
+        "name": "\u9ad8\u77e5\u770c", 
+        "ne:VertexCou": 249.0, 
         "adjacent_woeid": [
           2345855, 
           2345888
         ], 
-        "name": "\u9ad8\u77e5\u770c", 
+        "ne:HASC_1": "JP.KC", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 134.310282830888, 
         "longitude": 134.149, 
         "iso": "JP", 

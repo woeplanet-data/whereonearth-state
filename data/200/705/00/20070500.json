@@ -12,11 +12,11 @@
             ], 
             [
               12.091, 
-              50.460
+              50.46
             ], 
             [
               13.301, 
-              50.460
+              50.46
             ], 
             [
               13.301, 
@@ -32,21 +32,29 @@
       "type": "Feature", 
       "properties": {
         "lang": "CZE", 
-        "woeid": 20070500, 
-        "name": "Karlovarsk\u00fd", 
         "adjacent_woeid": [
           20070499, 
           20070501
         ], 
-        "ne_latitude": 50.460, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Karlovarsk\u00fd", 
+        "hierarchy": [
+          "woe:state=20070500", 
+          "woe:country=23424810", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070500, 
         "ne_longitude": 13.301, 
         "longitude": 12.696, 
-        "placetype": "State", 
-        "iso": "CZ", 
-        "date_indexed": "2010-12-02T08:54:50Z", 
-        "parent_woeid": 23424810, 
+        "placetype": "state", 
         "latitude": 50.176, 
+        "iso": "CZ", 
+        "sw_latitude": 49.891, 
+        "adjacent": [
+          "woe:state=20070501", 
+          "woe:state=20070499"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 50.46, 
         "sw_longitude": 12.091, 
         "fullname": "Karlovarsk\u00fd, Czech Republic", 
         "alias_GER_Q": [
@@ -55,9 +63,15 @@
         "alias_CZE_S": [
           "Karlovarsky"
         ], 
-        "sw_latitude": 49.891
+        "date_indexed": "2010-12-02T08:54:50Z"
       }, 
       "id": 20070500
     }
+  ], 
+  "bbox": [
+    12.091, 
+    49.891, 
+    13.301, 
+    50.46
   ]
 }

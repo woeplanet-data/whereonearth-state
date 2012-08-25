@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070391, 
-        "name": "Vanis Raioni", 
         "adjacent_woeid": [
           20070347, 
           20070377, 
@@ -41,20 +39,39 @@
           20070390, 
           20070393
         ], 
-        "ne_latitude": 42.133, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Vanis Raioni", 
+        "hierarchy": [
+          "woe:state=20070391", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070391, 
         "ne_longitude": 42.779, 
         "longitude": 42.602, 
-        "placetype": "State", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "placetype": "state", 
         "latitude": 41.972, 
+        "iso": "GE", 
+        "sw_latitude": 41.811, 
+        "adjacent": [
+          "woe:state=20070347", 
+          "woe:state=20070388", 
+          "woe:state=20070377", 
+          "woe:state=20070393", 
+          "woe:state=20070390"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.133, 
         "sw_longitude": 42.424, 
         "fullname": "Vanis Raioni, Georgia", 
-        "sw_latitude": 41.811
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070391
     }
+  ], 
+  "bbox": [
+    42.424, 
+    41.811, 
+    42.779, 
+    42.133
   ]
 }

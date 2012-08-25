@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24551242, 
-        "name": "Central Abaco", 
         "adjacent_woeid": [
           24551249, 
           24551253
         ], 
-        "ne_latitude": 26.721, 
+        "name": "Central Abaco", 
+        "hierarchy": [
+          "woe:state=24551242", 
+          "woe:country=23424758", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24551242, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.966, 
-        "longitude": -77.200, 
-        "placetype": "State", 
+        "longitude": -77.2, 
+        "placetype": "state", 
         "iso": "BS", 
         "date_indexed": "2010-12-02T07:50:25Z", 
-        "parent_woeid": 23424758, 
+        "adjacent": [
+          "woe:state=24551249", 
+          "woe:state=24551253"
+        ], 
+        "ne_latitude": 26.721, 
         "latitude": 26.241, 
         "sw_longitude": -77.378, 
         "fullname": "Central Abaco, The Bahamas", 
@@ -53,5 +61,11 @@
       }, 
       "id": 24551242
     }
+  ], 
+  "bbox": [
+    -77.378, 
+    26.151, 
+    -76.966, 
+    26.721
   ]
 }

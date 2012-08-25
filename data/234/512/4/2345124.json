@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2345124, 
-        "name": "Maio", 
         "ne_latitude": 15.331, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Maio", 
+        "hierarchy": [
+          "woe:state=2345124", 
+          "woe:country=23424794", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345124, 
         "ne_longitude": -23.098, 
         "longitude": -23.176, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "CV", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424794, 
+        "sw_latitude": 15.111, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 15.221, 
         "sw_longitude": -23.254, 
         "fullname": "Maio, Cape Verde", 
-        "sw_latitude": 15.111
+        "date_indexed": "2010-12-02T12:16:16Z"
       }, 
       "id": 2345124
     }
+  ], 
+  "bbox": [
+    -23.254, 
+    15.111, 
+    -23.098, 
+    15.331
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848351, 
-        "name": "Idrija", 
         "adjacent_woeid": [
           55848341, 
           55848366, 
@@ -41,14 +39,27 @@
           55848386, 
           55848391
         ], 
-        "ne_latitude": 46.193, 
+        "name": "Idrija", 
+        "hierarchy": [
+          "woe:state=55848351", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848351, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.146, 
         "longitude": 14.001, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848341", 
+          "woe:state=55848366", 
+          "woe:state=55848371", 
+          "woe:state=55848386", 
+          "woe:state=55848391"
+        ], 
+        "ne_latitude": 46.193, 
         "latitude": 46.036, 
         "sw_longitude": 13.855, 
         "fullname": "Idrija, Slovenia", 
@@ -56,5 +67,11 @@
       }, 
       "id": 55848351
     }
+  ], 
+  "bbox": [
+    13.855, 
+    45.879, 
+    14.146, 
+    46.193
   ]
 }

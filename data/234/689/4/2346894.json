@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346894, 
-        "name": "Chitinskaya Oblast", 
         "adjacent_woeid": [
           2346160, 
           2346165, 
@@ -46,20 +44,44 @@
           12578009, 
           20070517
         ], 
-        "ne_latitude": 58.582, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chitinskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346894", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346894, 
         "ne_longitude": 122.157, 
-        "longitude": 114.960, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "longitude": 114.96, 
+        "placetype": "state", 
         "latitude": 53.864, 
+        "iso": "RU", 
+        "sw_latitude": 49.145, 
+        "adjacent": [
+          "woe:state=20070517", 
+          "woe:state=2346888", 
+          "woe:state=2346867", 
+          "woe:state=2346160", 
+          "woe:state=2346165", 
+          "woe:state=2346896", 
+          "woe:state=2346881", 
+          "woe:state=2346170", 
+          "woe:state=12578009", 
+          "woe:state=12577998"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 58.582, 
         "sw_longitude": 107.764, 
         "fullname": "Chitinskaya Oblast, Russia", 
-        "sw_latitude": 49.145
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346894
     }
+  ], 
+  "bbox": [
+    107.764, 
+    49.145, 
+    122.157, 
+    58.582
   ]
 }

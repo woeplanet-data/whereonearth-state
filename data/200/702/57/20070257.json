@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070257, 
-        "name": "Beylaqan", 
         "adjacent_woeid": [
           20070198, 
           20070214, 
@@ -41,20 +39,39 @@
           20070227, 
           20070256
         ], 
-        "ne_latitude": 40.107, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Beylaqan", 
+        "hierarchy": [
+          "woe:state=20070257", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070257, 
         "ne_longitude": 47.946, 
         "longitude": 47.701, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.823, 
+        "iso": "AZ", 
+        "sw_latitude": 39.539, 
+        "adjacent": [
+          "woe:state=20070214", 
+          "woe:state=20070198", 
+          "woe:state=20070225", 
+          "woe:state=20070227", 
+          "woe:state=20070256"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.107, 
         "sw_longitude": 47.456, 
         "fullname": "Beylaqan, Azerbaijan", 
-        "sw_latitude": 39.539
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070257
     }
+  ], 
+  "bbox": [
+    47.456, 
+    39.539, 
+    47.946, 
+    40.107
   ]
 }

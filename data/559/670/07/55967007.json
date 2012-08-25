@@ -2081,9 +2081,14 @@
       "properties": {
         "ne:ProvNumber": 0, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=55967007", 
+          "woe:country=23424854", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 9.949160467581578, 
         "ne:Shape_Area": 3.10832838198, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -2092,6 +2097,17 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": -4.322960577968274, 
+        "adjacent": [
+          "woe:state=2345464", 
+          "woe:state=2347621", 
+          "woe:state=55967000", 
+          "woe:state=55967001", 
+          "woe:state=2345467", 
+          "woe:state=56017364", 
+          "woe:state=2347630", 
+          "woe:state=55967002", 
+          "woe:state=55967005"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 8.509, 
         "ne:FIPS_1": "IV11", 
@@ -2132,7 +2148,6 @@
         ], 
         "name": "Zanzan", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424854, 
         "ne_longitude": -2.506740688831655, 
         "longitude": -3.407, 
         "iso": "CI", 

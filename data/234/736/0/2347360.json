@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              31.990, 
+              31.99, 
               -9.712
             ], 
             [
-              31.990, 
+              31.99, 
               -6.896
             ], 
             [
@@ -23,7 +23,7 @@
               -9.712
             ], 
             [
-              31.990, 
+              31.99, 
               -9.712
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347360, 
-        "name": "Mbeya", 
         "adjacent_woeid": [
           2347355, 
           2347367, 
@@ -41,20 +39,39 @@
           2347375, 
           2347807
         ], 
-        "ne_latitude": -6.896, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mbeya", 
+        "hierarchy": [
+          "woe:state=2347360", 
+          "woe:country=23424973", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347360, 
         "ne_longitude": 35.062, 
         "longitude": 33.526, 
-        "placetype": "State", 
-        "iso": "TZ", 
-        "date_indexed": "2010-12-02T12:15:58Z", 
-        "parent_woeid": 23424973, 
+        "placetype": "state", 
         "latitude": -8.304, 
-        "sw_longitude": 31.990, 
+        "iso": "TZ", 
+        "sw_latitude": -9.712, 
+        "adjacent": [
+          "woe:state=2347355", 
+          "woe:state=2347807", 
+          "woe:state=2347375", 
+          "woe:state=2347367", 
+          "woe:state=2347368"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -6.896, 
+        "sw_longitude": 31.99, 
         "fullname": "Mbeya, Tanzania", 
-        "sw_latitude": -9.712
+        "date_indexed": "2010-12-02T12:15:58Z"
       }, 
       "id": 2347360
     }
+  ], 
+  "bbox": [
+    31.99, 
+    -9.712, 
+    35.062, 
+    -6.896
   ]
 }

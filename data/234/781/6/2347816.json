@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347816, 
-        "name": "Matabeleland South", 
         "adjacent_woeid": [
           2344741, 
           2344748, 
@@ -43,17 +41,32 @@
           2347817, 
           24550730
         ], 
-        "ne_latitude": -19.678, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Matabeleland South", 
         "alias_ENG_V": [
           "Matabeleland South Province"
         ], 
+        "hierarchy": [
+          "woe:state=2347816", 
+          "woe:country=23425004", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347816, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 31.119, 
         "longitude": 28.907, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "ZW", 
         "date_indexed": "2010-12-02T16:52:36Z", 
-        "parent_woeid": 23425004, 
+        "adjacent": [
+          "woe:state=24550730", 
+          "woe:state=2344741", 
+          "woe:state=2346986", 
+          "woe:state=2347817", 
+          "woe:state=2347815", 
+          "woe:state=2347811", 
+          "woe:state=2344748"
+        ], 
+        "ne_latitude": -19.678, 
         "latitude": -21.014, 
         "sw_longitude": 26.703, 
         "fullname": "Matabeleland South, Zimbabwe", 
@@ -61,5 +74,11 @@
       }, 
       "id": 2347816
     }
+  ], 
+  "bbox": [
+    26.703, 
+    -22.356, 
+    31.119, 
+    -19.678
   ]
 }

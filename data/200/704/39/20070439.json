@@ -8,7 +8,7 @@
           [
             [
               30.746, 
-              2.130
+              2.13
             ], 
             [
               30.746, 
@@ -20,11 +20,11 @@
             ], 
             [
               31.528, 
-              2.130
+              2.13
             ], 
             [
               30.746, 
-              2.130
+              2.13
             ]
           ]
         ]
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070439, 
-        "name": "Nebbi", 
         "adjacent_woeid": [
           20070412, 
           56190206
         ], 
-        "ne_latitude": 2.879, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nebbi", 
+        "hierarchy": [
+          "woe:state=20070439", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070439, 
         "ne_longitude": 31.528, 
         "longitude": 31.137, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 2.504, 
+        "iso": "UG", 
+        "sw_latitude": 2.13, 
+        "adjacent": [
+          "woe:state=56190206", 
+          "woe:state=20070412"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 2.879, 
         "sw_longitude": 30.746, 
         "fullname": "Nebbi, Uganda", 
-        "sw_latitude": 2.130
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070439
     }
+  ], 
+  "bbox": [
+    30.746, 
+    2.13, 
+    31.528, 
+    2.879
   ]
 }

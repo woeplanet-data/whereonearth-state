@@ -12,11 +12,11 @@
             ], 
             [
               14.286, 
-              60.110
+              60.11
             ], 
             [
               15.798, 
-              60.110
+              60.11
             ], 
             [
               15.798, 
@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Orebro Lans"
         ], 
-        "ne_latitude": 60.110, 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=2347058", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 60.11, 
+        "placetype": "state", 
         "alias_POR_Q": [
           "\u00d6rebro"
         ], 
@@ -65,6 +70,14 @@
           "Oerebro"
         ], 
         "sw_longitude": 14.286, 
+        "adjacent": [
+          "woe:state=2347053", 
+          "woe:state=2347061", 
+          "woe:state=2347063", 
+          "woe:state=2347066", 
+          "woe:state=20070562", 
+          "woe:state=2347059"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 59.378, 
         "alias_NOR_S": [
@@ -102,7 +115,6 @@
           20070562
         ], 
         "name": "\u00d6rebro L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 15.798, 
         "longitude": 15.042, 
         "iso": "SE", 
@@ -117,5 +129,11 @@
       }, 
       "id": 2347058
     }
+  ], 
+  "bbox": [
+    14.286, 
+    58.646, 
+    15.798, 
+    60.11
   ]
 }

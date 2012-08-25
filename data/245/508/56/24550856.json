@@ -32,9 +32,10 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550856, 
-        "alias_UNK_V": [
-          "Opstina Staro Nagori\u010dane"
+        "adjacent_woeid": [
+          24550780, 
+          24550832, 
+          24550844
         ], 
         "name": "Staro Nagori\u010dane", 
         "alias_ENG_P": [
@@ -43,25 +44,39 @@
         "alias_UNK_S": [
           "Opstina Staro Nagoricane"
         ], 
-        "ne_latitude": 42.337, 
-        "ne_longitude": 22.074, 
+        "woeid": 24550856, 
+        "alias_UNK_V": [
+          "Opstina Staro Nagori\u010dane"
+        ], 
         "longitude": 21.923, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          24550780, 
-          24550832, 
-          24550844
+        "ne_longitude": 22.074, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=24550856", 
+          "woe:country=23424890", 
+          "woe:planet=1"
         ], 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 42.051, 
+        "adjacent": [
+          "woe:state=24550780", 
+          "woe:state=24550832", 
+          "woe:state=24550844"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 42.194, 
+        "ne_latitude": 42.337, 
         "sw_longitude": 21.771, 
+        "latitude": 42.194, 
         "fullname": "Staro Nagori\u010dane, Staro Nagoricane Municipality, Macedonia", 
-        "sw_latitude": 42.051
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550856
     }
+  ], 
+  "bbox": [
+    21.771, 
+    42.051, 
+    22.074, 
+    42.337
   ]
 }

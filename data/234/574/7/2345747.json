@@ -3307,11 +3307,16 @@
         "alias_KOR_Q": [
           "\ucf00\ub784\ub77c"
         ], 
+        "hierarchy": [
+          "woe:state=2345747", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 12.779943752901943, 
         "ne:Shape_Area": 3.11546312549, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "KER"
         ], 
@@ -3321,13 +3326,18 @@
         "alias_CHI_Q": [
           "\u5580\u62c9\u62c9\u90a6"
         ], 
-        "ne:OBJECTID": 2442, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30b1\u30e9\u30e9"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 74.8542737157594, 
+        "adjacent": [
+          "woe:state=2345753", 
+          "woe:state=20070459", 
+          "woe:state=2345758"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 10.547, 
         "ne:FIPS_1": "IN13", 
@@ -3335,9 +3345,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 8.285075994961232, 
-        "ne:VertexCou": 822.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 2442, 
         "ne:Postal": "KL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -3353,16 +3363,15 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 37725.6, 
         "woe:id": "2345747", 
-        "ne:HASC_1": "IN.KL", 
-        "lang": "ENG", 
+        "name": "Kerala", 
+        "ne:VertexCou": 822.0, 
         "adjacent_woeid": [
           2345753, 
           2345758, 
           20070459
         ], 
-        "name": "Kerala", 
+        "ne:HASC_1": "IN.KL", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 77.40450564941625, 
         "longitude": 76.138, 
         "iso": "IN", 

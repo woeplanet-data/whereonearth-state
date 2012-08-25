@@ -8,7 +8,7 @@
           [
             [
               -72.994, 
-              18.030
+              18.03
             ], 
             [
               -72.994, 
@@ -20,11 +20,11 @@
             ], 
             [
               -71.693, 
-              18.030
+              18.03
             ], 
             [
               -72.994, 
-              18.030
+              18.03
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2345622, 
-        "name": "Sud-Est", 
         "adjacent_woeid": [
           2345179, 
           2345185, 
@@ -41,23 +39,42 @@
           2345620, 
           2345621
         ], 
-        "ne_latitude": 18.404, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sud-Est", 
+        "hierarchy": [
+          "woe:state=2345622", 
+          "woe:country=23424839", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345622, 
         "ne_longitude": -71.693, 
-        "longitude": -71.900, 
+        "longitude": -71.9, 
         "alias_FRE_A": [
           "SE"
         ], 
-        "placetype": "State", 
-        "iso": "HT", 
-        "date_indexed": "2010-12-02T17:52:09Z", 
-        "parent_woeid": 23424839, 
+        "placetype": "state", 
         "latitude": 18.217, 
+        "iso": "HT", 
+        "sw_latitude": 18.03, 
+        "adjacent": [
+          "woe:state=2345617", 
+          "woe:state=2345179", 
+          "woe:state=2345620", 
+          "woe:state=2345185", 
+          "woe:state=2345621"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.404, 
         "sw_longitude": -72.994, 
         "fullname": "Sud-Est, Haiti", 
-        "sw_latitude": 18.030
+        "date_indexed": "2010-12-02T17:52:09Z"
       }, 
       "id": 2345622
     }
+  ], 
+  "bbox": [
+    -72.994, 
+    18.03, 
+    -71.693, 
+    18.404
   ]
 }

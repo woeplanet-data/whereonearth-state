@@ -12,11 +12,11 @@
             ], 
             [
               -80.732, 
-              8.000
+              8.0
             ], 
             [
               -79.994, 
-              8.000
+              8.0
             ], 
             [
               -79.994, 
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346557, 
-        "name": "Los Santos", 
         "adjacent_woeid": [
           2346556, 
           2346560
         ], 
-        "ne_latitude": 8.000, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Los Santos", 
+        "hierarchy": [
+          "woe:state=2346557", 
+          "woe:country=23424924", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346557, 
         "ne_longitude": -79.994, 
         "longitude": -80.363, 
-        "placetype": "State", 
-        "iso": "PA", 
-        "date_indexed": "2010-12-02T17:52:20Z", 
-        "parent_woeid": 23424924, 
+        "placetype": "state", 
         "latitude": 7.614, 
+        "iso": "PA", 
+        "sw_latitude": 7.228, 
+        "adjacent": [
+          "woe:state=2346556", 
+          "woe:state=2346560"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 8.0, 
         "sw_longitude": -80.732, 
         "fullname": "Los Santos, Panama", 
-        "sw_latitude": 7.228
+        "date_indexed": "2010-12-02T17:52:20Z"
       }, 
       "id": 2346557
     }
+  ], 
+  "bbox": [
+    -80.732, 
+    7.228, 
+    -79.994, 
+    8.0
   ]
 }

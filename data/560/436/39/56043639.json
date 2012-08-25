@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              16.920, 
+              16.92, 
               46.359
             ], 
             [
-              16.920, 
+              16.92, 
               46.545
             ], 
             [
@@ -23,7 +23,7 @@
               46.359
             ], 
             [
-              16.920, 
+              16.92, 
               46.359
             ]
           ]
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "woeid": 56043639, 
-        "name": "Nagykanizsa", 
         "adjacent_woeid": [
           12577924, 
           12577930
         ], 
-        "ne_latitude": 46.545, 
+        "name": "Nagykanizsa", 
+        "hierarchy": [
+          "woe:state=56043639", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56043639, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 17.091, 
         "longitude": 17.005, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "parent_woeid": 23424844, 
+        "adjacent": [
+          "woe:state=12577924", 
+          "woe:state=12577930"
+        ], 
+        "ne_latitude": 46.545, 
         "latitude": 46.452, 
-        "sw_longitude": 16.920, 
+        "sw_longitude": 16.92, 
         "fullname": "Nagykanizsa, Hungary", 
         "sw_latitude": 46.359
       }, 
       "id": 56043639
     }
+  ], 
+  "bbox": [
+    16.92, 
+    46.359, 
+    17.091, 
+    46.545
   ]
 }

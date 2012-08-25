@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344941, 
-        "alias_ENG_S": [
-          "Siemreab"
-        ], 
-        "name": "Siem Reap Province", 
         "adjacent_woeid": [
           2344931, 
           2344937, 
@@ -45,23 +40,46 @@
           20070093, 
           20070098
         ], 
-        "ne_latitude": 14.154, 
-        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_S": [
+          "Siemreab"
+        ], 
+        "name": "Siem Reap Province", 
         "alias_ENG_V": [
           "Siemr\u00e9ab"
         ], 
+        "hierarchy": [
+          "woe:state=2344941", 
+          "woe:country=23424776", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344941, 
         "ne_longitude": 104.787, 
-        "longitude": 104.090, 
-        "placetype": "State", 
+        "longitude": 104.09, 
+        "ne_latitude": 14.154, 
+        "placetype": "state", 
         "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
-        "parent_woeid": 23424776, 
+        "sw_latitude": 12.652, 
+        "adjacent": [
+          "woe:state=20070093", 
+          "woe:state=20070098", 
+          "woe:state=2344931", 
+          "woe:state=20070092", 
+          "woe:state=2344937", 
+          "woe:state=2344938"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 13.411, 
         "sw_longitude": 103.393, 
         "fullname": "Siem Reap Province, Cambodia", 
-        "sw_latitude": 12.652
+        "date_indexed": "2010-12-02T16:11:17Z"
       }, 
       "id": 2344941
     }
+  ], 
+  "bbox": [
+    103.393, 
+    12.652, 
+    104.787, 
+    14.154
   ]
 }

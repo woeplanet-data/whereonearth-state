@@ -5411,23 +5411,33 @@
       "properties": {
         "ne:ProvNumber": 5, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=2344867", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -25.97154102949486, 
         "ne:Shape_Area": 8.66730965109, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "alias_POR_V": [
           "Santacatarina"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "17390307", 
         "alias_ENG_A": [
           "SC"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BRA", 
-        "ne:OBJECTID": 614, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -53.84125586586549, 
+        "adjacent": [
+          "woe:state=2344688", 
+          "woe:state=2344859", 
+          "woe:state=2344864"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -27.653, 
         "ne:FIPS_1": "BR26", 
@@ -5435,9 +5445,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -29.35536549262332, 
-        "ne:VertexCou": 1329.0, 
-        "ne:VALIDFR_1": "17390307", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 614, 
         "ne:Postal": "SC", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Santa Catharina", 
@@ -5453,16 +5463,15 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 95106.7, 
         "woe:id": "2344867", 
-        "ne:HASC_1": "BR.SC", 
-        "lang": "POR", 
+        "name": "Santa Catarina", 
+        "ne:VertexCou": 1329.0, 
         "adjacent_woeid": [
           2344688, 
           2344859, 
           2344864
         ], 
-        "name": "Santa Catarina", 
+        "ne:HASC_1": "BR.SC", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424768, 
         "ne_longitude": -48.37717078300517, 
         "longitude": -51.15, 
         "iso": "BR", 

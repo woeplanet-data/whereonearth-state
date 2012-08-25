@@ -32,32 +32,46 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550837, 
-        "alias_UNK_V": [
-          "Opstina Debar"
+        "adjacent_woeid": [
+          24550829, 
+          24550858
         ], 
         "name": "Debar", 
         "alias_ENG_P": [
           "Debar Municipality"
         ], 
-        "ne_latitude": 41.599, 
-        "ne_longitude": 20.627, 
-        "longitude": 20.550, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          24550829, 
-          24550858
+        "hierarchy": [
+          "woe:state=24550837", 
+          "woe:country=23424890", 
+          "woe:planet=1"
         ], 
+        "woeid": 24550837, 
+        "alias_UNK_V": [
+          "Opstina Debar"
+        ], 
+        "longitude": 20.55, 
+        "ne_longitude": 20.627, 
+        "placetype": "state", 
+        "latitude": 41.527, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550829", 
+          "woe:state=24550858"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.527, 
+        "ne_latitude": 41.599, 
         "sw_longitude": 20.465, 
         "fullname": "Debar, Debar Municipality, Macedonia", 
         "sw_latitude": 41.474
       }, 
       "id": 24550837
     }
+  ], 
+  "bbox": [
+    20.465, 
+    41.474, 
+    20.627, 
+    41.599
   ]
 }

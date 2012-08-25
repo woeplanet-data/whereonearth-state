@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070447, 
-        "name": "Soroti", 
         "adjacent_woeid": [
           20070422, 
           20070430, 
@@ -42,20 +40,40 @@
           24550743, 
           56190194
         ], 
-        "ne_latitude": 2.004, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Soroti", 
+        "hierarchy": [
+          "woe:state=20070447", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070447, 
         "ne_longitude": 33.847, 
         "longitude": 33.573, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 1.849, 
+        "iso": "UG", 
+        "sw_latitude": 1.301, 
+        "adjacent": [
+          "woe:state=56190194", 
+          "woe:state=24550743", 
+          "woe:state=20070422", 
+          "woe:state=20070446", 
+          "woe:state=20070430", 
+          "woe:state=20070441"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 2.004, 
         "sw_longitude": 33.019, 
         "fullname": "Soroti, Uganda", 
-        "sw_latitude": 1.301
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070447
     }
+  ], 
+  "bbox": [
+    33.019, 
+    1.301, 
+    33.847, 
+    2.004
   ]
 }

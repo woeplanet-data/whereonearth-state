@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ITA", 
-        "woeid": 20070551, 
-        "name": "Serravalle", 
         "adjacent_woeid": [
           20070544, 
           20070547
         ], 
-        "ne_latitude": 43.992, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Serravalle", 
+        "hierarchy": [
+          "woe:state=20070551", 
+          "woe:country=23424947", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070551, 
         "ne_longitude": 12.516, 
         "longitude": 12.482, 
-        "placetype": "State", 
-        "iso": "SM", 
-        "date_indexed": "2010-12-02T09:58:07Z", 
-        "parent_woeid": 23424947, 
+        "placetype": "state", 
         "latitude": 43.974, 
+        "iso": "SM", 
+        "sw_latitude": 43.956, 
+        "adjacent": [
+          "woe:state=20070544", 
+          "woe:state=20070547"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.992, 
         "sw_longitude": 12.448, 
         "fullname": "Serravalle, San Marino", 
-        "sw_latitude": 43.956
+        "date_indexed": "2010-12-02T09:58:07Z"
       }, 
       "id": 20070551
     }
+  ], 
+  "bbox": [
+    12.448, 
+    43.956, 
+    12.516, 
+    43.992
   ]
 }

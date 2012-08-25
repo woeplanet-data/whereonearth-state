@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344965, 
-        "name": "Uva", 
         "adjacent_woeid": [
           2344959, 
           2344961, 
           2344963, 
           2344964
         ], 
-        "ne_latitude": 7.607, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Uva", 
+        "hierarchy": [
+          "woe:state=2344965", 
+          "woe:country=23424778", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344965, 
         "ne_longitude": 81.753, 
         "longitude": 81.279, 
-        "placetype": "State", 
-        "iso": "LK", 
-        "date_indexed": "2010-12-02T17:56:32Z", 
-        "parent_woeid": 23424778, 
+        "placetype": "state", 
         "latitude": 6.957, 
+        "iso": "LK", 
+        "sw_latitude": 6.308, 
+        "adjacent": [
+          "woe:state=2344959", 
+          "woe:state=2344961", 
+          "woe:state=2344963", 
+          "woe:state=2344964"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 7.607, 
         "sw_longitude": 80.806, 
         "fullname": "Uva, Sri Lanka", 
-        "sw_latitude": 6.308
+        "date_indexed": "2010-12-02T17:56:32Z"
       }, 
       "id": 2344965
     }
+  ], 
+  "bbox": [
+    80.806, 
+    6.308, 
+    81.753, 
+    7.607
   ]
 }

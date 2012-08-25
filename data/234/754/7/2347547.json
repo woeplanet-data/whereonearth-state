@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347547, 
-        "alias_UNK_V": [
-          "L'vivshchyna"
-        ], 
-        "name": "L\u00b4vivs\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Lviv Oblast"
-        ], 
-        "ne_latitude": 50.648, 
-        "ne_longitude": 25.426, 
-        "longitude": 24.033, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2347539, 
           2347551, 
@@ -54,15 +41,47 @@
           12577938, 
           12577943
         ], 
+        "ne_latitude": 50.648, 
+        "name": "L\u00b4vivs\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Lviv Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347547", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347547, 
+        "alias_UNK_V": [
+          "L'vivshchyna"
+        ], 
+        "longitude": 24.033, 
+        "ne_longitude": 25.426, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 48.719, 
+        "adjacent": [
+          "woe:state=2347539", 
+          "woe:state=12577938", 
+          "woe:state=12577943", 
+          "woe:state=2347551", 
+          "woe:state=2347553", 
+          "woe:state=2347555", 
+          "woe:state=2347556"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.684, 
         "sw_longitude": 22.641, 
         "fullname": "L\u00b4vivs\u00b4ka Oblast\u00b4, Lviv Oblast, Ukraine", 
-        "sw_latitude": 48.719
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347547
     }
+  ], 
+  "bbox": [
+    22.641, 
+    48.719, 
+    25.426, 
+    50.648
   ]
 }

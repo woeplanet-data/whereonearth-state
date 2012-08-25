@@ -12,11 +12,11 @@
             ], 
             [
               144.699, 
-              13.440
+              13.44
             ], 
             [
               144.788, 
-              13.440
+              13.44
             ], 
             [
               144.788, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549715, 
-        "name": "Yona", 
         "adjacent_woeid": [
           24549712, 
           24549714, 
@@ -41,14 +39,27 @@
           24549717, 
           24549719
         ], 
-        "ne_latitude": 13.440, 
+        "name": "Yona", 
+        "hierarchy": [
+          "woe:state=24549715", 
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549715, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.788, 
         "longitude": 144.744, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "parent_woeid": 23424832, 
+        "adjacent": [
+          "woe:state=24549717", 
+          "woe:state=24549719", 
+          "woe:state=24549716", 
+          "woe:state=24549714", 
+          "woe:state=24549712"
+        ], 
+        "ne_latitude": 13.44, 
         "latitude": 13.401, 
         "sw_longitude": 144.699, 
         "fullname": "Yona, Guam", 
@@ -56,5 +67,11 @@
       }, 
       "id": 24549715
     }
+  ], 
+  "bbox": [
+    144.699, 
+    13.362, 
+    144.788, 
+    13.44
   ]
 }

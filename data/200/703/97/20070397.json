@@ -12,11 +12,11 @@
             ], 
             [
               42.082, 
-              42.850
+              42.85
             ], 
             [
               42.454, 
-              42.850
+              42.85
             ], 
             [
               42.454, 
@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070397, 
-        "alias_ENG_S": [
-          "Chrkhorotsqus Raioni"
-        ], 
-        "name": "Ch\u00b4khorotsqus Raioni", 
         "adjacent_woeid": [
           20070382, 
           20070394, 
@@ -46,20 +41,44 @@
           20070406, 
           20070410
         ], 
-        "ne_latitude": 42.850, 
-        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_S": [
+          "Chrkhorotsqus Raioni"
+        ], 
+        "name": "Ch\u00b4khorotsqus Raioni", 
+        "ne_latitude": 42.85, 
+        "hierarchy": [
+          "woe:state=20070397", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070397, 
         "ne_longitude": 42.454, 
         "longitude": 42.268, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "sw_latitude": 42.492, 
+        "adjacent": [
+          "woe:state=20070406", 
+          "woe:state=20070382", 
+          "woe:state=20070396", 
+          "woe:state=20070394", 
+          "woe:state=20070399", 
+          "woe:state=20070398", 
+          "woe:state=20070410"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 42.671, 
         "sw_longitude": 42.082, 
         "fullname": "Ch\u00b4khorotsqus Raioni, Georgia", 
-        "sw_latitude": 42.492
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070397
     }
+  ], 
+  "bbox": [
+    42.082, 
+    42.492, 
+    42.454, 
+    42.85
   ]
 }

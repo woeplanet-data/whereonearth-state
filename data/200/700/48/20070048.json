@@ -12,11 +12,11 @@
             ], 
             [
               41.956, 
-              16.680
+              16.68
             ], 
             [
               43.817, 
-              16.680
+              16.68
             ], 
             [
               43.817, 
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 20070048, 
-        "name": "Hajjah", 
         "adjacent_woeid": [
           20070038, 
           20070046, 
           20070047, 
           56189859
         ], 
-        "ne_latitude": 16.680, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Hajjah", 
+        "hierarchy": [
+          "woe:state=20070048", 
+          "woe:country=23425002", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070048, 
         "ne_longitude": 43.817, 
         "longitude": 43.293, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 16.08, 
         "iso": "YE", 
-        "date_indexed": "2010-12-02T16:39:35Z", 
-        "parent_woeid": 23425002, 
-        "latitude": 16.080, 
+        "sw_latitude": 15.481, 
+        "adjacent": [
+          "woe:state=20070047", 
+          "woe:state=20070046", 
+          "woe:state=56189859", 
+          "woe:state=20070038"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.68, 
         "sw_longitude": 41.956, 
         "fullname": "Hajjah, Yemen", 
-        "sw_latitude": 15.481
+        "date_indexed": "2010-12-02T16:39:35Z"
       }, 
       "id": 20070048
     }
+  ], 
+  "bbox": [
+    41.956, 
+    15.481, 
+    43.817, 
+    16.68
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070238, 
-        "name": "Lerik", 
         "adjacent_woeid": [
           20070198, 
           20070217, 
@@ -41,20 +39,39 @@
           20070251, 
           20070263
         ], 
-        "ne_latitude": 38.979, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Lerik", 
+        "hierarchy": [
+          "woe:state=20070238", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070238, 
         "ne_longitude": 48.735, 
         "longitude": 48.493, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 38.743, 
+        "iso": "AZ", 
+        "sw_latitude": 38.506, 
+        "adjacent": [
+          "woe:state=20070198", 
+          "woe:state=20070217", 
+          "woe:state=20070263", 
+          "woe:state=20070239", 
+          "woe:state=20070251"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 38.979, 
         "sw_longitude": 48.251, 
         "fullname": "Lerik, Azerbaijan", 
-        "sw_latitude": 38.506
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070238
     }
+  ], 
+  "bbox": [
+    48.251, 
+    38.506, 
+    48.735, 
+    38.979
   ]
 }

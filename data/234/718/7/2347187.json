@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347187, 
-        "name": "Krabi", 
         "adjacent_woeid": [
           2347184, 
           2347185, 
           2347188, 
           2347189
         ], 
-        "ne_latitude": 8.675, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Krabi", 
         "alias_ENG_V": [
           "Changwat Krabi"
         ], 
+        "hierarchy": [
+          "woe:state=2347187", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347187, 
         "ne_longitude": 99.416, 
         "longitude": 99.019, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 8.165, 
+        "iso": "TH", 
+        "sw_latitude": 7.149, 
+        "adjacent": [
+          "woe:state=2347188", 
+          "woe:state=2347185", 
+          "woe:state=2347184", 
+          "woe:state=2347189"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 8.675, 
         "sw_longitude": 98.615, 
         "fullname": "Krabi, Thailand", 
-        "sw_latitude": 7.149
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347187
     }
+  ], 
+  "bbox": [
+    98.615, 
+    7.149, 
+    99.416, 
+    8.675
   ]
 }

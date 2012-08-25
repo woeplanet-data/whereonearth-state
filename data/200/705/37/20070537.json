@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "GER", 
-        "woeid": 20070537, 
-        "name": "Eschen", 
         "adjacent_woeid": [
           2344715, 
           20070531, 
@@ -43,20 +41,41 @@
           20070539, 
           20070541
         ], 
-        "ne_latitude": 47.229, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Eschen", 
+        "hierarchy": [
+          "woe:state=20070537", 
+          "woe:country=23424879", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070537, 
         "ne_longitude": 9.579, 
         "longitude": 9.557, 
-        "placetype": "State", 
-        "iso": "LI", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
-        "parent_woeid": 23424879, 
+        "placetype": "state", 
         "latitude": 47.208, 
+        "iso": "LI", 
+        "sw_latitude": 47.187, 
+        "adjacent": [
+          "woe:state=20070539", 
+          "woe:state=20070538", 
+          "woe:state=20070536", 
+          "woe:state=20070535", 
+          "woe:state=20070541", 
+          "woe:state=20070531", 
+          "woe:state=2344715"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 47.229, 
         "sw_longitude": 9.488, 
         "fullname": "Eschen, Liechtenstein", 
-        "sw_latitude": 47.187
+        "date_indexed": "2010-12-02T08:51:00Z"
       }, 
       "id": 20070537
     }
+  ], 
+  "bbox": [
+    9.488, 
+    47.187, 
+    9.579, 
+    47.229
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070303, 
-        "name": "Buada", 
         "adjacent_woeid": [
           20070298, 
           20070299, 
@@ -43,20 +41,41 @@
           20070304, 
           20070306
         ], 
-        "ne_latitude": -0.527, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Buada", 
+        "hierarchy": [
+          "woe:state=20070303", 
+          "woe:country=23424912", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070303, 
         "ne_longitude": 166.923, 
         "longitude": 166.914, 
-        "placetype": "State", 
-        "iso": "NR", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "parent_woeid": 23424912, 
+        "placetype": "state", 
         "latitude": -0.534, 
+        "iso": "NR", 
+        "sw_latitude": -0.541, 
+        "adjacent": [
+          "woe:state=20070298", 
+          "woe:state=20070304", 
+          "woe:state=20070299", 
+          "woe:state=20070302", 
+          "woe:state=20070301", 
+          "woe:state=20070306", 
+          "woe:state=20070300"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -0.527, 
         "sw_longitude": 166.905, 
         "fullname": "Buada, Nauru", 
-        "sw_latitude": -0.541
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 20070303
     }
+  ], 
+  "bbox": [
+    166.905, 
+    -0.541, 
+    166.923, 
+    -0.527
   ]
 }

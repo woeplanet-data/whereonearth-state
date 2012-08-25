@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 29389658, 
         "name": "Saipan", 
-        "ne_latitude": 15.291, 
+        "hierarchy": [
+          "woe:state=29389658", 
+          "woe:country=23424788", 
+          "woe:planet=1"
+        ], 
+        "woeid": 29389658, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 145.835, 
         "longitude": 145.765, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MP", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "parent_woeid": 23424788, 
+        "ne_latitude": 15.291, 
         "latitude": 15.193, 
         "sw_longitude": 145.695, 
         "fullname": "Saipan, Northern Mariana Islands", 
@@ -49,5 +53,11 @@
       }, 
       "id": 29389658
     }
+  ], 
+  "bbox": [
+    145.695, 
+    15.096, 
+    145.835, 
+    15.291
   ]
 }

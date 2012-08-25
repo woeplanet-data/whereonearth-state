@@ -3129,9 +3129,14 @@
       "properties": {
         "ne:ProvNumber": 3, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=29389214", 
+          "woe:country=20069818", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 44.145006008920234, 
         "ne:Shape_Area": 0.684010902389, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 10, 
         "ne:gadm_level": 1.0, 
@@ -3140,6 +3145,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 19.174674920711084, 
+        "adjacent": [
+          "woe:state=29389201", 
+          "woe:state=29389207", 
+          "woe:state=29389209", 
+          "woe:state=29389224"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.57, 
         "ne:FIPS_1": "BK00", 
@@ -3175,7 +3186,6 @@
         ], 
         "name": "Pech", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 20069818, 
         "alias_UNK_Q": [
           "Pecki"
         ], 

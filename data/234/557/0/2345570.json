@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345570, 
-        "name": "Solola", 
         "adjacent_woeid": [
           2345554, 
           2345564, 
@@ -41,20 +39,39 @@
           2345571, 
           2345572
         ], 
-        "ne_latitude": 14.896, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Solola", 
+        "hierarchy": [
+          "woe:state=2345570", 
+          "woe:country=23424834", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345570, 
         "ne_longitude": -91.072, 
         "longitude": -91.289, 
-        "placetype": "State", 
-        "iso": "GT", 
-        "date_indexed": "2010-12-02T16:55:18Z", 
-        "parent_woeid": 23424834, 
+        "placetype": "state", 
         "latitude": 14.709, 
+        "iso": "GT", 
+        "sw_latitude": 14.522, 
+        "adjacent": [
+          "woe:state=2345554", 
+          "woe:state=2345564", 
+          "woe:state=2345565", 
+          "woe:state=2345571", 
+          "woe:state=2345572"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.896, 
         "sw_longitude": -91.506, 
         "fullname": "Solola, Guatemala", 
-        "sw_latitude": 14.522
+        "date_indexed": "2010-12-02T16:55:18Z"
       }, 
       "id": 2345570
     }
+  ], 
+  "bbox": [
+    -91.506, 
+    14.522, 
+    -91.072, 
+    14.896
   ]
 }

@@ -8,7 +8,7 @@
           [
             [
               57.338, 
-              56.050
+              56.05
             ], 
             [
               57.338, 
@@ -20,11 +20,11 @@
             ], 
             [
               66.075, 
-              56.050
+              56.05
             ], 
             [
               57.338, 
-              56.050
+              56.05
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346926, 
-        "name": "Sverdlovskaya Oblast", 
         "adjacent_woeid": [
           2346866, 
           2346874, 
@@ -43,20 +41,41 @@
           20070526, 
           20070528
         ], 
-        "ne_latitude": 61.911, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sverdlovskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346926", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346926, 
         "ne_longitude": 66.075, 
         "longitude": 61.707, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 58.98, 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
-        "latitude": 58.980, 
+        "sw_latitude": 56.05, 
+        "adjacent": [
+          "woe:state=2346866", 
+          "woe:state=2346893", 
+          "woe:state=20070526", 
+          "woe:state=2346874", 
+          "woe:state=2346904", 
+          "woe:state=20070511", 
+          "woe:state=20070528"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 61.911, 
         "sw_longitude": 57.338, 
         "fullname": "Sverdlovskaya Oblast, Russia", 
-        "sw_latitude": 56.050
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346926
     }
+  ], 
+  "bbox": [
+    57.338, 
+    56.05, 
+    66.075, 
+    61.911
   ]
 }

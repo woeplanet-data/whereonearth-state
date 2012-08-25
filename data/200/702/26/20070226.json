@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070226, 
-        "name": "Goycay", 
         "adjacent_woeid": [
           20070213, 
           20070228, 
@@ -41,20 +39,39 @@
           20070236, 
           20070249
         ], 
-        "ne_latitude": 40.718, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Goycay", 
+        "hierarchy": [
+          "woe:state=20070226", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070226, 
         "ne_longitude": 48.045, 
         "longitude": 47.826, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.563, 
+        "iso": "AZ", 
+        "sw_latitude": 40.408, 
+        "adjacent": [
+          "woe:state=20070213", 
+          "woe:state=20070228", 
+          "woe:state=20070236", 
+          "woe:state=20070235", 
+          "woe:state=20070249"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.718, 
         "sw_longitude": 47.607, 
         "fullname": "Goycay, Azerbaijan", 
-        "sw_latitude": 40.408
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070226
     }
+  ], 
+  "bbox": [
+    47.607, 
+    40.408, 
+    48.045, 
+    40.718
   ]
 }

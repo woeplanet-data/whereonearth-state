@@ -1473,9 +1473,14 @@
       "properties": {
         "ne:ProvNumber": 2001, 
         "ne:ScaleRank": 3, 
+        "hierarchy": [
+          "woe:state=56013537", 
+          "woe:country=23424808", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 14.466094061391857, 
         "ne:Shape_Area": 7.81572253454, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 13, 
         "ne:gadm_level": 1.0, 
@@ -1484,6 +1489,16 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 39.66820437992823, 
+        "adjacent": [
+          "woe:state=56013541", 
+          "woe:state=24549685", 
+          "woe:state=2345157", 
+          "woe:state=56013545", 
+          "woe:state=24549686", 
+          "woe:state=56013540", 
+          "woe:state=2345160", 
+          "woe:state=2345312"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 12.979, 
         "ne:FIPS_1": "ET26", 
@@ -1523,7 +1538,6 @@
         ], 
         "name": "Afar", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424808, 
         "ne_longitude": 42.37894331218416, 
         "longitude": 41.457, 
         "iso": "ET", 

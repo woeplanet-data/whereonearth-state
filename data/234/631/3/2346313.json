@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2346313, 
-        "name": "Inhambane", 
         "adjacent_woeid": [
           2346312, 
           2346315, 
           2346320
         ], 
-        "ne_latitude": -20.958, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Inhambane", 
+        "hierarchy": [
+          "woe:state=2346313", 
+          "woe:country=23424902", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346313, 
         "ne_longitude": 35.605, 
         "longitude": 34.363, 
-        "placetype": "State", 
-        "iso": "MZ", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "parent_woeid": 23424902, 
+        "placetype": "state", 
         "latitude": -22.907, 
+        "iso": "MZ", 
+        "sw_latitude": -24.857, 
+        "adjacent": [
+          "woe:state=2346312", 
+          "woe:state=2346320", 
+          "woe:state=2346315"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -20.958, 
         "sw_longitude": 33.121, 
         "fullname": "Inhambane, Mozambique", 
-        "sw_latitude": -24.857
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 2346313
     }
+  ], 
+  "bbox": [
+    33.121, 
+    -24.857, 
+    35.605, 
+    -20.958
   ]
 }

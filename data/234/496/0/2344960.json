@@ -8,7 +8,7 @@
           [
             [
               80.052, 
-              7.630
+              7.63
             ], 
             [
               80.052, 
@@ -20,11 +20,11 @@
             ], 
             [
               81.386, 
-              7.630
+              7.63
             ], 
             [
               80.052, 
-              7.630
+              7.63
             ]
           ]
         ]
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344960, 
-        "name": "North Central", 
         "adjacent_woeid": [
           2344959, 
           2344961, 
           2344962
         ], 
-        "ne_latitude": 8.844, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "North Central", 
         "alias_ENG_V": [
           "N Central"
         ], 
+        "hierarchy": [
+          "woe:state=2344960", 
+          "woe:country=23424778", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344960, 
         "ne_longitude": 81.386, 
         "longitude": 80.719, 
-        "placetype": "State", 
-        "iso": "LK", 
-        "date_indexed": "2010-12-02T17:56:32Z", 
-        "parent_woeid": 23424778, 
+        "placetype": "state", 
         "latitude": 8.237, 
+        "iso": "LK", 
+        "sw_latitude": 7.63, 
+        "adjacent": [
+          "woe:state=2344959", 
+          "woe:state=2344961", 
+          "woe:state=2344962"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 8.844, 
         "sw_longitude": 80.052, 
         "fullname": "North Central, Sri Lanka", 
-        "sw_latitude": 7.630
+        "date_indexed": "2010-12-02T17:56:32Z"
       }, 
       "id": 2344960
     }
+  ], 
+  "bbox": [
+    80.052, 
+    7.63, 
+    81.386, 
+    8.844
   ]
 }

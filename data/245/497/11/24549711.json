@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549711, 
-        "name": "Inarajan", 
         "adjacent_woeid": [
           24549709, 
           24549710, 
           24549712
         ], 
-        "ne_latitude": 13.335, 
+        "name": "Inarajan", 
+        "hierarchy": [
+          "woe:state=24549711", 
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549711, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.771, 
         "longitude": 144.729, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "parent_woeid": 23424832, 
+        "adjacent": [
+          "woe:state=24549709", 
+          "woe:state=24549712", 
+          "woe:state=24549710"
+        ], 
+        "ne_latitude": 13.335, 
         "latitude": 13.288, 
         "sw_longitude": 144.686, 
         "fullname": "Inarajan, Guam", 
@@ -54,5 +63,11 @@
       }, 
       "id": 24549711
     }
+  ], 
+  "bbox": [
+    144.686, 
+    13.241, 
+    144.771, 
+    13.335
   ]
 }

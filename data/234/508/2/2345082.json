@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345082, 
-        "name": "Alajuela", 
         "adjacent_woeid": [
           2345084, 
           2345085, 
@@ -42,20 +40,40 @@
           2346430, 
           2346431
         ], 
-        "ne_latitude": 11.079, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Alajuela", 
+        "hierarchy": [
+          "woe:state=2345082", 
+          "woe:country=23424791", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345082, 
         "ne_longitude": -84.166, 
         "longitude": -84.463, 
-        "placetype": "State", 
-        "iso": "CR", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424791, 
+        "placetype": "state", 
         "latitude": 10.457, 
+        "iso": "CR", 
+        "sw_latitude": 9.836, 
+        "adjacent": [
+          "woe:state=2345084", 
+          "woe:state=2345085", 
+          "woe:state=2345087", 
+          "woe:state=2346431", 
+          "woe:state=2346430", 
+          "woe:state=2345088"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.079, 
         "sw_longitude": -85.451, 
         "fullname": "Alajuela, Costa Rica", 
-        "sw_latitude": 9.836
+        "date_indexed": "2010-12-02T12:16:16Z"
       }, 
       "id": 2345082
     }
+  ], 
+  "bbox": [
+    -85.451, 
+    9.836, 
+    -84.166, 
+    11.079
   ]
 }

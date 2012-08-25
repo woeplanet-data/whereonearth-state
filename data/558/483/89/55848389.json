@@ -129,9 +129,14 @@
       "properties": {
         "ne:ProvNumber": 188, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848389", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.37125255026501, 
         "ne:Shape_Area": 0.0121870492101, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 2.0, 
@@ -140,6 +145,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 15.364416537992895, 
+        "adjacent": [
+          "woe:state=55848343", 
+          "woe:state=55848382", 
+          "woe:state=55848383", 
+          "woe:state=55848387", 
+          "woe:state=55848388", 
+          "woe:state=55848390"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.379, 
         "ne:FIPS_1": "SIC4", 
@@ -177,7 +190,6 @@
         ], 
         "name": "Slovenske Konjice", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 15.557893100985893, 
         "longitude": 15.391, 
         "iso": "SI", 

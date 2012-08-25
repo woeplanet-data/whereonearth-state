@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345980, 
-        "name": "Aqtobe", 
         "adjacent_woeid": [
           2345986, 
           2345990, 
@@ -44,20 +42,42 @@
           20070176, 
           20070178
         ], 
-        "ne_latitude": 51.286, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Aqtobe", 
+        "hierarchy": [
+          "woe:state=2345980", 
+          "woe:country=23424871", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345980, 
         "ne_longitude": 64.135, 
         "longitude": 58.915, 
-        "placetype": "State", 
-        "iso": "KZ", 
-        "date_indexed": "2010-12-02T08:54:03Z", 
-        "parent_woeid": 23424871, 
+        "placetype": "state", 
         "latitude": 48.244, 
+        "iso": "KZ", 
+        "sw_latitude": 45.203, 
+        "adjacent": [
+          "woe:state=2345986", 
+          "woe:state=2345998", 
+          "woe:state=2345991", 
+          "woe:state=2346916", 
+          "woe:state=20070178", 
+          "woe:state=2347663", 
+          "woe:state=20070176", 
+          "woe:state=2345990"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 51.286, 
         "sw_longitude": 53.696, 
         "fullname": "Aqtobe, Kazakhstan", 
-        "sw_latitude": 45.203
+        "date_indexed": "2010-12-02T08:54:03Z"
       }, 
       "id": 2345980
     }
+  ], 
+  "bbox": [
+    53.696, 
+    45.203, 
+    64.135, 
+    51.286
   ]
 }

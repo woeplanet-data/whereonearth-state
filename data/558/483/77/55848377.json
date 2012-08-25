@@ -85,9 +85,14 @@
       "properties": {
         "ne:ProvNumber": 129, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848377", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.54640981705944, 
         "ne:Shape_Area": 0.0026956453981, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 2.0, 
@@ -96,6 +101,17 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 15.854464145503982, 
+        "adjacent": [
+          "woe:state=55848348", 
+          "woe:state=12577977", 
+          "woe:state=55848361", 
+          "woe:state=55848365", 
+          "woe:state=55848367", 
+          "woe:state=55848373", 
+          "woe:state=55848388", 
+          "woe:state=55848390", 
+          "woe:state=12577986"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.404, 
         "ne:FIPS_1": "SI00", 
@@ -136,7 +152,6 @@
         ], 
         "name": "Ptuj", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 15.934200880866001, 
         "longitude": 15.872, 
         "iso": "SI", 

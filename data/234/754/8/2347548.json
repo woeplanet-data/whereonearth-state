@@ -12,11 +12,11 @@
             ], 
             [
               30.208, 
-              48.230
+              48.23
             ], 
             [
               33.182, 
-              48.230
+              48.23
             ], 
             [
               33.182, 
@@ -32,34 +32,50 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347548, 
-        "alias_UNK_V": [
-          "Mykolaivshchyna"
-        ], 
-        "name": "Mykolayivs\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Mykolaiv Oblast"
-        ], 
-        "ne_latitude": 48.230, 
-        "ne_longitude": 33.182, 
-        "longitude": 31.695, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2347537, 
           2347541, 
           2347543, 
           2347549
         ], 
+        "ne_latitude": 48.23, 
+        "name": "Mykolayivs\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Mykolaiv Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347548", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347548, 
+        "alias_UNK_V": [
+          "Mykolaivshchyna"
+        ], 
+        "longitude": 31.695, 
+        "ne_longitude": 33.182, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 46.369, 
+        "adjacent": [
+          "woe:state=2347537", 
+          "woe:state=2347541", 
+          "woe:state=2347543", 
+          "woe:state=2347549"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.415, 
         "sw_longitude": 30.208, 
         "fullname": "Mykolayivs\u00b4ka Oblast\u00b4, Mykolaiv Oblast, Ukraine", 
-        "sw_latitude": 46.369
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347548
     }
+  ], 
+  "bbox": [
+    30.208, 
+    46.369, 
+    33.182, 
+    48.23
   ]
 }

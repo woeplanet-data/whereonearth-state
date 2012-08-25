@@ -2432,11 +2432,16 @@
         "alias_KOR_Q": [
           "\ucf04\ud130\ud0a4"
         ], 
+        "hierarchy": [
+          "woe:state=2347576", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 39.14621990852203, 
         "ne:Shape_Area": 10.6606412236, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "17920601", 
         "alias_ENG_A": [
           "KY"
         ], 
@@ -2446,13 +2451,22 @@
         "alias_CHI_Q": [
           "\u80af\u5854\u57fa"
         ], 
-        "ne:OBJECTID": 3548, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30b1\u30f3\u30bf\u30c3\u30ad\u30fc"
         ], 
         "ne:Abbrev": "Ky.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -89.57794804046966, 
+        "adjacent": [
+          "woe:state=2347572", 
+          "woe:state=2347573", 
+          "woe:state=2347584", 
+          "woe:state=2347594", 
+          "woe:state=2347601", 
+          "woe:state=2347605", 
+          "woe:state=2347607"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 37.822, 
         "ne:FIPS_1": "US21", 
@@ -2460,9 +2474,9 @@
         "ne:FIRST_HASC": "US.IN|USA-KEN", 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 36.4986369002728, 
-        "ne:VertexCou": 600.0, 
-        "ne:VALIDFR_1": "17920601", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3548, 
         "ne:Postal": "KY", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "Commonwealth of Kentucky|KY", 
@@ -2478,8 +2492,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 104410.6, 
         "woe:id": "2347576", 
-        "ne:HASC_1": "US.KY", 
-        "lang": "ENG", 
+        "name": "Kentucky", 
+        "ne:VertexCou": 600.0, 
         "adjacent_woeid": [
           2347572, 
           2347573, 
@@ -2489,9 +2503,8 @@
           2347605, 
           2347607
         ], 
-        "name": "Kentucky", 
+        "ne:HASC_1": "US.KY", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -81.96522831443514, 
         "longitude": -85.691, 
         "iso": "US", 

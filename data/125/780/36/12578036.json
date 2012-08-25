@@ -3183,12 +3183,16 @@
         "alias_SWE_Q": [
           "Galicien"
         ], 
+        "hierarchy": [
+          "woe:state=12578036", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 43.80554352431426, 
         "ne:Shape_Area": 3.27842591191, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VARNAME_1": "Galice|Gal\u00a1cia|Galicien|Galiza|Galizia", 
-        "ne:MAP_COLOR": 5, 
+        "ne:VALIDFR_1": "1981", 
         "alias_POR_Q": [
           "Galiza"
         ], 
@@ -3204,8 +3208,10 @@
         "alias_ITA_Q": [
           "Galizia"
         ], 
-        "ne:Area_sqkm": 29809.5, 
-        "ne:OBJECTID": 738, 
+        "alias_DAN_Q": [
+          "Galicien"
+        ], 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30ac\u30ea\u30c1\u30a2"
         ], 
@@ -3213,23 +3219,32 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -9.291882086289206, 
+        "adjacent": [
+          "woe:state=2346564", 
+          "woe:state=2346565", 
+          "woe:state=12578033", 
+          "woe:state=12578027", 
+          "woe:state=2346578", 
+          "woe:state=2346579"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.799, 
+        "alias_SPA_V": [
+          "Galicia Autonomia"
+        ], 
         "ne:FIPS_1": "SP91", 
         "ne:FIRST_FIPS": "SP58", 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Community", 
         "date_indexed": "2010-12-02T17:07:37Z", 
-        "ne:VertexCou": 788.0, 
-        "ne:VALIDFR_1": "1981", 
-        "ne:DataRank": 3, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 738, 
         "ne:Postal": "GA", 
         "ne:Region_Cod": null, 
-        "alias_SPA_V": [
-          "Galicia Autonomia"
-        ], 
+        "ne:VARNAME_1": "Galice|Gal\u00a1cia|Galicien|Galiza|Galizia", 
         "ne:ISO": "ESP", 
-        "ne:TYPE_1": "Comunidad Aut\u00f3noma", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 14.0999386147, 
         "alias_DUT_Q": [
@@ -3240,17 +3255,15 @@
           "Galicie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Comunidad Aut\u00f3noma", 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Galicien"
-        ], 
+        "ne:Area_sqkm": 29809.5, 
         "alias_GER_Q": [
           "Galizien"
         ], 
         "woe:id": "12578036", 
-        "ne:HASC_1": "ES.GA", 
-        "lang": "SPA", 
+        "name": "Galicia", 
+        "ne:VertexCou": 788.0, 
         "adjacent_woeid": [
           2346564, 
           2346565, 
@@ -3259,10 +3272,9 @@
           12578027, 
           12578033
         ], 
-        "name": "Galicia", 
+        "ne:HASC_1": "ES.GA", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
-        "parent_woeid": 23424950, 
         "ne_longitude": -6.73570736330413, 
         "longitude": -8.016, 
         "ne:NAME_1": "Galicia", 

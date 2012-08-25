@@ -8,23 +8,23 @@
           [
             [
               25.457, 
-              43.690
+              43.69
             ], 
             [
               25.457, 
               44.558
             ], 
             [
-              26.430, 
+              26.43, 
               44.558
             ], 
             [
-              26.430, 
-              43.690
+              26.43, 
+              43.69
             ], 
             [
               25.457, 
-              43.690
+              43.69
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "RUM", 
-        "woeid": 2346655, 
-        "name": "Giurgiu", 
         "adjacent_woeid": [
           2346630, 
           2346648, 
@@ -42,20 +40,40 @@
           20070070, 
           29281934
         ], 
-        "ne_latitude": 44.558, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 26.430, 
+        "name": "Giurgiu", 
+        "hierarchy": [
+          "woe:state=2346655", 
+          "woe:country=23424933", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346655, 
+        "ne_longitude": 26.43, 
         "longitude": 25.943, 
-        "placetype": "State", 
-        "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
-        "parent_woeid": 23424933, 
+        "placetype": "state", 
         "latitude": 44.124, 
+        "iso": "RO", 
+        "sw_latitude": 43.69, 
+        "adjacent": [
+          "woe:state=2346654", 
+          "woe:state=2346630", 
+          "woe:state=29281934", 
+          "woe:state=20070069", 
+          "woe:state=20070070", 
+          "woe:state=2346648"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 44.558, 
         "sw_longitude": 25.457, 
         "fullname": "Giurgiu, Romania", 
-        "sw_latitude": 43.690
+        "date_indexed": "2010-12-02T16:36:29Z"
       }, 
       "id": 2346655
     }
+  ], 
+  "bbox": [
+    25.457, 
+    43.69, 
+    26.43, 
+    44.558
   ]
 }

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              105.230, 
+              105.23, 
               9.005
             ], 
             [
-              105.230, 
+              105.23, 
               9.633
             ], 
             [
@@ -23,7 +23,7 @@
               9.005
             ], 
             [
-              105.230, 
+              105.23, 
               9.005
             ]
           ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070081, 
-        "name": "Bac Lieu", 
         "adjacent_woeid": [
           2347723, 
           2347748, 
           20070082, 
           28301720
         ], 
-        "ne_latitude": 9.633, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bac Lieu", 
+        "hierarchy": [
+          "woe:state=20070081", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070081, 
         "ne_longitude": 105.919, 
         "longitude": 105.574, 
-        "placetype": "State", 
-        "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "placetype": "state", 
         "latitude": 9.319, 
-        "sw_longitude": 105.230, 
+        "iso": "VN", 
+        "sw_latitude": 9.005, 
+        "adjacent": [
+          "woe:state=20070082", 
+          "woe:state=28301720", 
+          "woe:state=2347723", 
+          "woe:state=2347748"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.633, 
+        "sw_longitude": 105.23, 
         "fullname": "Bac Lieu, Vietnam", 
-        "sw_latitude": 9.005
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 20070081
     }
+  ], 
+  "bbox": [
+    105.23, 
+    9.005, 
+    105.919, 
+    9.633
   ]
 }

@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345228, 
-        "name": "Al Iskandariyah", 
         "adjacent_woeid": [
           2345225, 
           2345244
         ], 
-        "ne_latitude": 31.332, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Al Iskandariyah", 
         "alias_ENG_V": [
           "Alexandria Governorate"
         ], 
+        "hierarchy": [
+          "woe:state=2345228", 
+          "woe:country=23424802", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345228, 
         "ne_longitude": 30.105, 
         "longitude": 29.877, 
-        "placetype": "State", 
-        "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
-        "parent_woeid": 23424802, 
+        "placetype": "state", 
         "latitude": 30.891, 
+        "iso": "EG", 
+        "sw_latitude": 30.451, 
+        "adjacent": [
+          "woe:state=2345225", 
+          "woe:state=2345244"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.332, 
         "sw_longitude": 29.649, 
         "fullname": "Al Iskandariyah, Egypt", 
-        "sw_latitude": 30.451
+        "date_indexed": "2010-12-02T12:16:45Z"
       }, 
       "id": 2345228
     }
+  ], 
+  "bbox": [
+    29.649, 
+    30.451, 
+    30.105, 
+    31.332
   ]
 }

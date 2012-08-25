@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              31.170, 
+              31.17, 
               -0.814
             ], 
             [
-              31.170, 
+              31.17, 
               0.061
             ], 
             [
@@ -23,7 +23,7 @@
               -0.814
             ], 
             [
-              31.170, 
+              31.17, 
               -0.814
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070451, 
-        "name": "Masaka", 
         "adjacent_woeid": [
           20070436, 
           20070442, 
@@ -41,20 +39,39 @@
           20070450, 
           56190207
         ], 
-        "ne_latitude": 0.061, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Masaka", 
+        "hierarchy": [
+          "woe:state=20070451", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070451, 
         "ne_longitude": 32.028, 
-        "longitude": 31.950, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "longitude": 31.95, 
+        "placetype": "state", 
         "latitude": -0.378, 
-        "sw_longitude": 31.170, 
+        "iso": "UG", 
+        "sw_latitude": -0.814, 
+        "adjacent": [
+          "woe:state=20070448", 
+          "woe:state=56190207", 
+          "woe:state=20070436", 
+          "woe:state=20070442", 
+          "woe:state=20070450"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.061, 
+        "sw_longitude": 31.17, 
         "fullname": "Masaka, Uganda", 
-        "sw_latitude": -0.814
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070451
     }
+  ], 
+  "bbox": [
+    31.17, 
+    -0.814, 
+    32.028, 
+    0.061
   ]
 }

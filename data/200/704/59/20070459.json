@@ -788,11 +788,16 @@
         "alias_KOR_Q": [
           "\ud3f0\ub514\uccb4\ub9ac"
         ], 
+        "hierarchy": [
+          "woe:state=20070459", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 16.75029572216988, 
         "ne:Shape_Area": 0.043687569649, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "PDY"
         ], 
@@ -802,13 +807,18 @@
         "alias_CHI_Q": [
           "\u672c\u5730\u6cbb\u91cc"
         ], 
-        "ne:OBJECTID": 3262, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30dd\u30f3\u30c7\u30a3\u30c1\u30a7\u30ea"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 75.22179650240673, 
+        "adjacent": [
+          "woe:state=2345740", 
+          "woe:state=2345747", 
+          "woe:state=2345758"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 11.935, 
         "ne:FIPS_1": "IN22", 
@@ -816,9 +826,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Union Territory", 
         "sw_latitude": 10.809107977651081, 
-        "ne:VertexCou": 185.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3262, 
         "ne:Postal": "PY", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Pondicherry|Puduchcheri|Pondich\u00e9ry", 
@@ -834,16 +844,15 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 526.2, 
         "woe:id": "20070459", 
-        "ne:HASC_1": "IN.PY", 
-        "lang": "ENG", 
+        "name": "Puducherry", 
+        "ne:VertexCou": 185.0, 
         "adjacent_woeid": [
           2345740, 
           2345747, 
           2345758
         ], 
-        "name": "Puducherry", 
+        "ne:HASC_1": "IN.PY", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 82.30136437336722, 
         "longitude": 79.753, 
         "iso": "IN", 

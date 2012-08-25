@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -16.560, 
+              -16.56, 
               13.316
             ], 
             [
-              -16.560, 
+              -16.56, 
               13.632
             ], 
             [
@@ -23,7 +23,7 @@
               13.316
             ], 
             [
-              -16.560, 
+              -16.56, 
               13.316
             ]
           ]
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345448, 
-        "name": "North Bank", 
         "adjacent_woeid": [
           2345444, 
           2345445, 
           2346994, 
           2346995
         ], 
-        "ne_latitude": 13.632, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "North Bank", 
         "alias_ENG_V": [
           "N Bank"
         ], 
+        "hierarchy": [
+          "woe:state=2345448", 
+          "woe:country=23424821", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345448, 
         "ne_longitude": -15.309, 
         "longitude": -15.935, 
-        "placetype": "State", 
-        "iso": "GM", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
-        "parent_woeid": 23424821, 
+        "placetype": "state", 
         "latitude": 13.479, 
-        "sw_longitude": -16.560, 
+        "iso": "GM", 
+        "sw_latitude": 13.316, 
+        "adjacent": [
+          "woe:state=2346994", 
+          "woe:state=2346995", 
+          "woe:state=2345444", 
+          "woe:state=2345445"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.632, 
+        "sw_longitude": -16.56, 
         "fullname": "North Bank, The Gambia", 
-        "sw_latitude": 13.316
+        "date_indexed": "2010-12-02T08:51:00Z"
       }, 
       "id": 2345448
     }
+  ], 
+  "bbox": [
+    -16.56, 
+    13.316, 
+    -15.309, 
+    13.632
   ]
 }

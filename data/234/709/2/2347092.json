@@ -297,25 +297,31 @@
         "alias_ENG_V": [
           "Appenzell Inner-Rhodes"
         ], 
+        "ne:ISO": "CHE", 
         "ne:ScaleRank": 9, 
         "alias_ENG_P": [
           "Canton of Appenzell Inner-Rhodes"
         ], 
-        "ne_latitude": 47.44976553025509, 
-        "alias_GER_A": [
-          "AI"
+        "hierarchy": [
+          "woe:state=2347092", 
+          "woe:country=23424957", 
+          "woe:planet=1"
         ], 
+        "ne_latitude": 47.44976553025509, 
+        "ne:OBJECTID": 3473, 
         "ne:Shape_Area": 0.019794112205, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 0.0, 
         "ne:ADM0_A3": "CHE", 
         "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Canton Appenzello Interno"
         ], 
-        "ne:Area_sqkm": 166.3, 
+        "alias_GER_V": [
+          "Appenzell Innerhoden"
+        ], 
         "alias_ITA_V": [
           "Appenzello Interno"
         ], 
@@ -325,60 +331,62 @@
           "Appenzell Rodas Interiores"
         ], 
         "sw_longitude": 9.302771030158965, 
+        "adjacent": [
+          "woe:state=2347084", 
+          "woe:state=2347097"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.311, 
-        "iso": "CH", 
         "ne:FIPS_1": "SZ10", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": "CH.AR|CHE-ASR", 
         "ne:ENGTYPE_1": "Canton", 
-        "date_indexed": "2010-12-02T18:19:21Z", 
-        "ne:VertexCou": 0.0, 
-        "ne:VALIDFR_1": "Unknown", 
+        "sw_latitude": 47.239700832727294, 
+        "lang": "GER", 
+        "ne:MAP_COLOR": 3, 
         "ne:DataRank": 7, 
         "ne:Postal": "AI", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Appenzell Inner-Rhoden|Appenzell Inner Rhodes|Appenzell dador|Appenzell Rhodes Int\u00e9rieures|Appenzello Interno", 
-        "ne:ISO": "CHE", 
-        "ne:TYPE_1": "Canton|Kanton|Chantun", 
+        "alias_GER_A": [
+          "AI"
+        ], 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 0.843187493823, 
         "ne:CheckMe": 14, 
         "ne:NAME_0": "Switzerland", 
         "ne:NAME_1": "Appenzell Innerrhoden", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Canton|Kanton|Chantun", 
         "ne:LabelRank": 9, 
-        "alias_GER_V": [
-          "Appenzell Innerhoden"
-        ], 
+        "ne:Area_sqkm": 166.3, 
         "woe:id": "2347092", 
-        "ne:HASC_1": "CH.AI", 
-        "lang": "GER", 
+        "name": "Kanton Appenzell Innerrhoden", 
+        "ne:VertexCou": 0.0, 
         "adjacent_woeid": [
           2347084, 
           2347097
         ], 
-        "name": "Kanton Appenzell Innerrhoden", 
+        "ne:HASC_1": "CH.AI", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424957, 
         "alias_UNK_Q": [
           "Appenzell dadens"
         ], 
         "ne_longitude": 9.608437127171726, 
         "longitude": 9.407, 
-        "ne:NEV_Countr": "Switzerland", 
-        "ne:OBJECTID": 3473, 
-        "sw_latitude": 47.239700832727294, 
+        "alias_FRE_S": [
+          "Canton d'Appenzell Rhodes-Interieures"
+        ], 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:19:21Z", 
         "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Appenzell Rhodes-Int\u00e9rieures"
         ], 
         "fullname": "Kanton Appenzell Innerrhoden, Canton of Appenzell Inner-Rhodes, Switzerland", 
         "ne:Region": "Appenzell Innerrhoden", 
-        "alias_FRE_S": [
-          "Canton d'Appenzell Rhodes-Interieures"
-        ], 
+        "ne:NEV_Countr": "Switzerland", 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Canton d'Appenzell Rhodes-Int\u00e9rieures"

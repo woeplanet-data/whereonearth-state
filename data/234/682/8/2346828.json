@@ -15,11 +15,11 @@
               18.041
             ], 
             [
-              -66.020, 
+              -66.02, 
               18.041
             ], 
             [
-              -66.020, 
+              -66.02, 
               17.952
             ], 
             [
@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.041, 
-        "name": "Arroyo", 
         "adjacent_woeid": [
           2346827, 
           2346829
+        ], 
+        "name": "Arroyo", 
+        "hierarchy": [
+          "woe:state=2346828", 
+          "woe:country=23424935", 
+          "woe:planet=1"
         ], 
         "woeid": 2346828, 
         "alias_SPA_V": [
           "Arroyo Municipios"
         ], 
-        "ne_longitude": -66.020, 
+        "ne_longitude": -66.02, 
         "longitude": -66.057, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 17.997, 
         "sw_longitude": -66.095, 
+        "sw_latitude": 17.952, 
+        "adjacent": [
+          "woe:state=2346829", 
+          "woe:state=2346827"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.041, 
+        "iso": "PR", 
         "fullname": "Arroyo, Puerto Rico", 
-        "sw_latitude": 17.952
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346828
     }
+  ], 
+  "bbox": [
+    -66.095, 
+    17.952, 
+    -66.02, 
+    18.041
   ]
 }

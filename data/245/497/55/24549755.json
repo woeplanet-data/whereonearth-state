@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549755, 
-        "name": "Acoua", 
         "adjacent_woeid": [
           24549750, 
           24549758
         ], 
-        "ne_latitude": -12.725, 
+        "name": "Acoua", 
+        "hierarchy": [
+          "woe:state=24549755", 
+          "woe:country=23424886", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549755, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.083, 
         "longitude": 45.067, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "YT", 
         "date_indexed": "2010-12-02T16:11:57Z", 
-        "parent_woeid": 23424886, 
+        "adjacent": [
+          "woe:state=24549750", 
+          "woe:state=24549758"
+        ], 
+        "ne_latitude": -12.725, 
         "latitude": -12.748, 
         "sw_longitude": 45.039, 
         "fullname": "Acoua, Mayotte", 
@@ -53,5 +61,11 @@
       }, 
       "id": 24549755
     }
+  ], 
+  "bbox": [
+    45.039, 
+    -12.757, 
+    45.083, 
+    -12.725
   ]
 }

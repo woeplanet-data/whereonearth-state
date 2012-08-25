@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24550734, 
-        "name": "Kyenjojo", 
         "adjacent_woeid": [
           20070419, 
           20070425, 
@@ -42,14 +40,28 @@
           24550735, 
           56190205
         ], 
-        "ne_latitude": 0.935, 
+        "name": "Kyenjojo", 
+        "hierarchy": [
+          "woe:state=24550734", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550734, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 31.266, 
         "longitude": 30.483, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "UG", 
         "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "adjacent": [
+          "woe:state=20070419", 
+          "woe:state=24550735", 
+          "woe:state=20070425", 
+          "woe:state=56190205", 
+          "woe:state=20070437", 
+          "woe:state=20070450"
+        ], 
+        "ne_latitude": 0.935, 
         "latitude": 0.544, 
         "sw_longitude": 30.433, 
         "fullname": "Kyenjojo, Uganda", 
@@ -57,5 +69,11 @@
       }, 
       "id": 24550734
     }
+  ], 
+  "bbox": [
+    30.433, 
+    0.203, 
+    31.266, 
+    0.935
   ]
 }

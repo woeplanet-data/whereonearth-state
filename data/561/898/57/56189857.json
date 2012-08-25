@@ -12,10 +12,20 @@
           20070040
         ], 
         "name": "Al Dali'", 
-        "parent_woeid": 23425002, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56189857", 
+          "woe:country=23425002", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "YE", 
+        "adjacent": [
+          "woe:state=20070043", 
+          "woe:state=20070042", 
+          "woe:state=20070040", 
+          "woe:state=20070041"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56189857, 
         "date_indexed": "2010-12-02T16:39:35Z"
       }, 

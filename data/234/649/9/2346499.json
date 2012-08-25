@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346499, 
-        "name": "Sindh", 
         "adjacent_woeid": [
           2345743, 
           2345757, 
           2346496, 
           2346498
         ], 
-        "ne_latitude": 28.426, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sindh", 
+        "hierarchy": [
+          "woe:state=2346499", 
+          "woe:country=23424922", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346499, 
         "ne_longitude": 71.135, 
         "longitude": 68.888, 
-        "placetype": "State", 
-        "iso": "PK", 
-        "date_indexed": "2010-12-02T17:56:39Z", 
-        "parent_woeid": 23424922, 
+        "placetype": "state", 
         "latitude": 26.106, 
+        "iso": "PK", 
+        "sw_latitude": 23.787, 
+        "adjacent": [
+          "woe:state=2346496", 
+          "woe:state=2345743", 
+          "woe:state=2346498", 
+          "woe:state=2345757"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 28.426, 
         "sw_longitude": 66.651, 
         "fullname": "Sindh, Pakistan", 
-        "sw_latitude": 23.787
+        "date_indexed": "2010-12-02T17:56:39Z"
       }, 
       "id": 2346499
     }
+  ], 
+  "bbox": [
+    66.651, 
+    23.787, 
+    71.135, 
+    28.426
   ]
 }

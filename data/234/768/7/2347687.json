@@ -8,23 +8,23 @@
           [
             [
               -71.256, 
-              10.320
+              10.32
             ], 
             [
               -71.256, 
               12.202
             ], 
             [
-              -68.200, 
+              -68.2, 
               12.202
             ], 
             [
-              -68.200, 
-              10.320
+              -68.2, 
+              10.32
             ], 
             [
               -71.256, 
-              10.320
+              10.32
             ]
           ]
         ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2347687, 
-        "name": "Falcon", 
         "adjacent_woeid": [
           2347689, 
           2347698, 
           2347699
         ], 
-        "ne_latitude": 12.202, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -68.200, 
+        "name": "Falcon", 
+        "hierarchy": [
+          "woe:state=2347687", 
+          "woe:country=23424982", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347687, 
+        "ne_longitude": -68.2, 
         "longitude": -69.741, 
-        "placetype": "State", 
-        "iso": "VE", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "parent_woeid": 23424982, 
+        "placetype": "state", 
         "latitude": 11.261, 
+        "iso": "VE", 
+        "sw_latitude": 10.32, 
+        "adjacent": [
+          "woe:state=2347689", 
+          "woe:state=2347698", 
+          "woe:state=2347699"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.202, 
         "sw_longitude": -71.256, 
         "fullname": "Falcon, Venezuela", 
-        "sw_latitude": 10.320
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 2347687
     }
+  ], 
+  "bbox": [
+    -71.256, 
+    10.32, 
+    -68.2, 
+    12.202
   ]
 }

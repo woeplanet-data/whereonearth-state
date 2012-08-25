@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "DUT", 
-        "woeid": 2346412, 
-        "name": "Paramaribo", 
         "adjacent_woeid": [
           2346407, 
           2346413, 
           2346415
         ], 
-        "ne_latitude": 5.945, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Paramaribo", 
+        "hierarchy": [
+          "woe:state=2346412", 
+          "woe:country=23424913", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346412, 
         "ne_longitude": -55.095, 
         "longitude": -55.207, 
-        "placetype": "State", 
-        "iso": "SR", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424913, 
+        "placetype": "state", 
         "latitude": 5.866, 
+        "iso": "SR", 
+        "sw_latitude": 5.787, 
+        "adjacent": [
+          "woe:state=2346407", 
+          "woe:state=2346413", 
+          "woe:state=2346415"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 5.945, 
         "sw_longitude": -55.319, 
         "fullname": "Paramaribo, Suriname", 
-        "sw_latitude": 5.787
+        "date_indexed": "2010-12-02T12:16:16Z"
       }, 
       "id": 2346412
     }
+  ], 
+  "bbox": [
+    -55.319, 
+    5.787, 
+    -55.095, 
+    5.945
   ]
 }

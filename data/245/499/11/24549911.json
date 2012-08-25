@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549911, 
-        "name": "Hahake", 
         "adjacent_woeid": [
           24549910, 
           24549912
         ], 
-        "ne_latitude": -13.257, 
+        "name": "Hahake", 
+        "hierarchy": [
+          "woe:state=24549911", 
+          "woe:country=23424989", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549911, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -176.083, 
         "longitude": -176.173, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "WF", 
         "date_indexed": "2010-12-02T09:35:31Z", 
-        "parent_woeid": 23424989, 
+        "adjacent": [
+          "woe:state=24549910", 
+          "woe:state=24549912"
+        ], 
+        "ne_latitude": -13.257, 
         "latitude": -13.283, 
         "sw_longitude": -176.216, 
         "fullname": "Hahake, Wallis and Futuna", 
@@ -53,5 +61,11 @@
       }, 
       "id": 24549911
     }
+  ], 
+  "bbox": [
+    -176.216, 
+    -13.308, 
+    -176.083, 
+    -13.257
   ]
 }

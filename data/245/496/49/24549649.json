@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -63.100, 
+              -63.1, 
               18.184
             ], 
             [
-              -63.100, 
+              -63.1, 
               18.204
             ], 
             [
-              -63.060, 
+              -63.06, 
               18.204
             ], 
             [
-              -63.060, 
+              -63.06, 
               18.184
             ], 
             [
-              -63.100, 
+              -63.1, 
               18.184
             ]
           ]
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549649, 
-        "name": "South Hill", 
         "adjacent_woeid": [
           24549648, 
           24549650, 
           24549659, 
           24549660
         ], 
-        "ne_latitude": 18.204, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "South Hill", 
         "alias_ENG_V": [
           "S Hill"
         ], 
-        "ne_longitude": -63.060, 
-        "longitude": -63.080, 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=24549649", 
+          "woe:country=23424751", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549649, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -63.06, 
+        "longitude": -63.08, 
+        "placetype": "state", 
         "iso": "AI", 
         "date_indexed": "2010-12-02T17:42:25Z", 
-        "parent_woeid": 23424751, 
+        "adjacent": [
+          "woe:state=24549648", 
+          "woe:state=24549650", 
+          "woe:state=24549660", 
+          "woe:state=24549659"
+        ], 
+        "ne_latitude": 18.204, 
         "latitude": 18.194, 
-        "sw_longitude": -63.100, 
+        "sw_longitude": -63.1, 
         "fullname": "South Hill, Anguilla", 
         "sw_latitude": 18.184
       }, 
       "id": 24549649
     }
+  ], 
+  "bbox": [
+    -63.1, 
+    18.184, 
+    -63.06, 
+    18.204
   ]
 }

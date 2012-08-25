@@ -32,19 +32,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "DUT", 
-        "woeid": 24549809, 
         "name": "St. Eustatius", 
-        "ne_latitude": 17.535, 
+        "hierarchy": [
+          "woe:state=24549809", 
+          "woe:country=23424914", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549809, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -62.944, 
         "longitude": -62.974, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AN", 
         "date_indexed": "2010-12-02T16:42:51Z", 
         "alias_DUT_V": [
           "St Eustatius"
         ], 
-        "parent_woeid": 23424914, 
+        "ne_latitude": 17.535, 
         "latitude": 17.503, 
         "sw_longitude": -63.003, 
         "fullname": "St. Eustatius, Netherlands Antilles", 
@@ -52,5 +56,11 @@
       }, 
       "id": 24549809
     }
+  ], 
+  "bbox": [
+    -63.003, 
+    17.471, 
+    -62.944, 
+    17.535
   ]
 }

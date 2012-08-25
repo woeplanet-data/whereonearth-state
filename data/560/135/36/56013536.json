@@ -8,7 +8,7 @@
           [
             [
               34.529, 
-              4.440
+              4.44
             ], 
             [
               34.529, 
@@ -20,11 +20,11 @@
             ], 
             [
               39.154, 
-              4.440
+              4.44
             ], 
             [
               34.529, 
-              4.440
+              4.44
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 56013536, 
-        "name": "Southern Nations Nationalities and People's Region", 
         "adjacent_woeid": [
           2345939, 
           2345943, 
@@ -42,26 +40,46 @@
           56013539, 
           56013545
         ], 
-        "ne_latitude": 8.517, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Southern Nations Nationalities and People's Region", 
         "alias_ENG_V": [
           "Southern Nations, Nationalities and Peoples Region"
         ], 
+        "hierarchy": [
+          "woe:state=56013536", 
+          "woe:country=23424808", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56013536, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 39.154, 
         "longitude": 36.133, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "ET", 
         "date_indexed": "2010-12-02T08:52:12Z", 
         "alias_ENG_A": [
           "SNNPR"
         ], 
-        "parent_woeid": 23424808, 
+        "ne_latitude": 8.517, 
         "latitude": 5.903, 
         "sw_longitude": 34.529, 
         "fullname": "Southern Nations Nationalities and People's Region, Ethiopia", 
-        "sw_latitude": 4.440
+        "adjacent": [
+          "woe:state=2345939", 
+          "woe:state=56013539", 
+          "woe:state=20069909", 
+          "woe:state=56013545", 
+          "woe:state=2345943", 
+          "woe:state=20069901"
+        ], 
+        "sw_latitude": 4.44
       }, 
       "id": 56013536
     }
+  ], 
+  "bbox": [
+    34.529, 
+    4.44, 
+    39.154, 
+    8.517
   ]
 }

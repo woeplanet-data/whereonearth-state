@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              45.710, 
+              45.71, 
               40.293
             ], 
             [
-              45.710, 
+              45.71, 
               40.597
             ], 
             [
@@ -23,7 +23,7 @@
               40.293
             ], 
             [
-              45.710, 
+              45.71, 
               40.293
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070222, 
-        "name": "Daskasan", 
         "adjacent_woeid": [
           20070204, 
           20070230, 
@@ -41,20 +39,39 @@
           20070268, 
           20070273
         ], 
-        "ne_latitude": 40.597, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Daskasan", 
+        "hierarchy": [
+          "woe:state=20070222", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070222, 
         "ne_longitude": 46.188, 
         "longitude": 45.949, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.445, 
-        "sw_longitude": 45.710, 
+        "iso": "AZ", 
+        "sw_latitude": 40.293, 
+        "adjacent": [
+          "woe:state=20070230", 
+          "woe:state=20070204", 
+          "woe:state=20070273", 
+          "woe:state=20070244", 
+          "woe:state=20070268"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.597, 
+        "sw_longitude": 45.71, 
         "fullname": "Daskasan, Azerbaijan", 
-        "sw_latitude": 40.293
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070222
     }
+  ], 
+  "bbox": [
+    45.71, 
+    40.293, 
+    46.188, 
+    40.597
   ]
 }

@@ -8,23 +8,23 @@
           [
             [
               73.055, 
-              33.700
+              33.7
             ], 
             [
               73.055, 
               33.724
             ], 
             [
-              73.090, 
+              73.09, 
               33.724
             ], 
             [
-              73.090, 
-              33.700
+              73.09, 
+              33.7
             ], 
             [
               73.055, 
-              33.700
+              33.7
             ]
           ]
         ]
@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070149, 
-        "name": "Islamabad", 
         "adjacent_woeid": [
           2346498
         ], 
-        "ne_latitude": 33.724, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 73.090, 
+        "name": "Islamabad", 
+        "hierarchy": [
+          "woe:state=20070149", 
+          "woe:country=23424922", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070149, 
+        "ne_longitude": 73.09, 
         "longitude": 73.073, 
-        "placetype": "State", 
-        "iso": "PK", 
-        "date_indexed": "2010-12-02T17:56:39Z", 
-        "parent_woeid": 23424922, 
+        "placetype": "state", 
         "latitude": 33.712, 
+        "iso": "PK", 
+        "sw_latitude": 33.7, 
+        "adjacent": [
+          "woe:state=2346498"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 33.724, 
         "sw_longitude": 73.055, 
         "fullname": "Islamabad, Pakistan", 
-        "sw_latitude": 33.700
+        "date_indexed": "2010-12-02T17:56:39Z"
       }, 
       "id": 20070149
     }
+  ], 
+  "bbox": [
+    73.055, 
+    33.7, 
+    73.09, 
+    33.724
   ]
 }

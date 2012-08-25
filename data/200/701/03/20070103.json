@@ -15,11 +15,11 @@
               66.081
             ], 
             [
-              -17.280, 
+              -17.28, 
               66.081
             ], 
             [
-              -17.280, 
+              -17.28, 
               66.028
             ], 
             [
@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070103, 
-        "name": "Husavik", 
         "adjacent_woeid": [
           2345705
         ], 
-        "ne_latitude": 66.081, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -17.280, 
+        "name": "Husavik", 
+        "hierarchy": [
+          "woe:state=20070103", 
+          "woe:country=23424845", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070103, 
+        "ne_longitude": -17.28, 
         "longitude": -17.324, 
-        "placetype": "State", 
-        "iso": "IS", 
-        "date_indexed": "2010-12-02T09:55:32Z", 
-        "parent_woeid": 23424845, 
+        "placetype": "state", 
         "latitude": 66.055, 
+        "iso": "IS", 
+        "sw_latitude": 66.028, 
+        "adjacent": [
+          "woe:state=2345705"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 66.081, 
         "sw_longitude": -17.368, 
         "fullname": "Husavik, Iceland", 
-        "sw_latitude": 66.028
+        "date_indexed": "2010-12-02T09:55:32Z"
       }, 
       "id": 20070103
     }
+  ], 
+  "bbox": [
+    -17.368, 
+    66.028, 
+    -17.28, 
+    66.081
   ]
 }

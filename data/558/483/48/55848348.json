@@ -161,9 +161,14 @@
       "properties": {
         "ne:ProvNumber": 22, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848348", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.72474518454271, 
         "ne:Shape_Area": 0.0158302883614, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 2.0, 
@@ -172,6 +177,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 15.784339226574104, 
+        "adjacent": [
+          "woe:state=55848361", 
+          "woe:state=55848365", 
+          "woe:state=55848370", 
+          "woe:state=55848374", 
+          "woe:state=55848377", 
+          "woe:state=2344713"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.617, 
         "ne:FIPS_1": "SI29", 
@@ -209,7 +222,6 @@
         ], 
         "name": "Gornja Radgona", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 16.041739535850922, 
         "longitude": 15.948, 
         "iso": "SI", 

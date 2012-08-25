@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070556, 
-        "name": "Ordino", 
         "adjacent_woeid": [
           7153323, 
           20070555, 
           20070557, 
           20070558
         ], 
-        "ne_latitude": 42.656, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ordino", 
+        "hierarchy": [
+          "woe:state=20070556", 
+          "woe:country=23424744", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070556, 
         "ne_longitude": 1.607, 
         "longitude": 1.538, 
-        "placetype": "State", 
-        "iso": "AD", 
-        "date_indexed": "2010-12-02T07:50:33Z", 
-        "parent_woeid": 23424744, 
+        "placetype": "state", 
         "latitude": 42.601, 
+        "iso": "AD", 
+        "sw_latitude": 42.546, 
+        "adjacent": [
+          "woe:state=20070557", 
+          "woe:state=20070558", 
+          "woe:state=20070555", 
+          "woe:state=7153323"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.656, 
         "sw_longitude": 1.468, 
         "fullname": "Ordino, Andorra", 
-        "sw_latitude": 42.546
+        "date_indexed": "2010-12-02T07:50:33Z"
       }, 
       "id": 20070556
     }
+  ], 
+  "bbox": [
+    1.468, 
+    42.546, 
+    1.607, 
+    42.656
   ]
 }

@@ -32,25 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 28350157, 
+        "alias_ENG_V": [
+          "West Irian Jaya"
+        ], 
         "name": "Papua Barat", 
         "alias_ENG_P": [
           "West Papua"
         ], 
-        "ne_latitude": 1.073, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "West Irian Jaya"
+        "hierarchy": [
+          "woe:state=28350157", 
+          "woe:country=23424846", 
+          "woe:planet=1"
         ], 
+        "woeid": 28350157, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 135.263, 
         "longitude": 134.059, 
-        "placetype": "State", 
+        "placetype": "state", 
         "adjacent_woeid": [
           2345718
         ], 
         "iso": "ID", 
         "date_indexed": "2010-12-02T16:52:36Z", 
-        "parent_woeid": 23424846, 
+        "adjacent": [
+          "woe:state=2345718"
+        ], 
+        "ne_latitude": 1.073, 
         "latitude": -2.299, 
         "sw_longitude": 129.295, 
         "fullname": "Papua Barat, West Papua, Indonesia", 
@@ -58,5 +65,11 @@
       }, 
       "id": 28350157
     }
+  ], 
+  "bbox": [
+    129.295, 
+    -4.332, 
+    135.263, 
+    1.073
   ]
 }

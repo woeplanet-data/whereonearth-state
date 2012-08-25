@@ -1808,9 +1808,14 @@
         "alias_ENG_P": [
           "Kaunas County"
         ], 
+        "hierarchy": [
+          "woe:state=55848084", 
+          "woe:country=23424875", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 55.57862335918071, 
         "ne:Shape_Area": 1.15085644214, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
@@ -1819,6 +1824,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 22.645729201241693, 
+        "adjacent": [
+          "woe:state=55848082", 
+          "woe:state=55848078", 
+          "woe:state=55848086", 
+          "woe:state=55848079", 
+          "woe:state=55848087", 
+          "woe:state=55848083"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 55.016, 
         "ne:FIPS_1": "LH57", 
@@ -1856,7 +1869,6 @@
         ], 
         "name": "Kauno Apskritis", 
         "ne:REMARKS_1": "NUTS code LT002", 
-        "parent_woeid": 23424875, 
         "ne_longitude": 24.799964634160574, 
         "longitude": 23.742, 
         "iso": "LT", 

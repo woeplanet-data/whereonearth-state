@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Murcia"
         ], 
+        "hierarchy": [
+          "woe:state=12578025", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 38.755, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Murcia"
         ], 
@@ -50,6 +55,11 @@
           "Region de Murcia Autonomia"
         ], 
         "sw_longitude": -2.344, 
+        "adjacent": [
+          "woe:state=12578029", 
+          "woe:state=12578032", 
+          "woe:state=12578038"
+        ], 
         "alias_SPA_V": [
           "Regi\u00f3n de Murcia Autonomia"
         ], 
@@ -75,7 +85,6 @@
           12578038
         ], 
         "name": "Regi\u00f3n de Murcia", 
-        "parent_woeid": 23424950, 
         "ne_longitude": -0.688, 
         "longitude": -1.516, 
         "iso": "ES", 
@@ -87,5 +96,11 @@
       }, 
       "id": 12578025
     }
+  ], 
+  "bbox": [
+    -2.344, 
+    37.374, 
+    -0.688, 
+    38.755
   ]
 }

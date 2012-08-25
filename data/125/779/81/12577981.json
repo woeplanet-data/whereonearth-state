@@ -12,11 +12,11 @@
             ], 
             [
               16.928, 
-              45.580
+              45.58
             ], 
             [
               18.114, 
-              45.580
+              45.58
             ], 
             [
               18.114, 
@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 12577981, 
-        "alias_ENG_S": [
-          "Pozega-Slavonia"
-        ], 
-        "name": "Po\u017ee\u0161ko-slavonska", 
         "adjacent_woeid": [
           12577972, 
           12577980, 
@@ -44,26 +39,48 @@
           12577987, 
           12577991
         ], 
-        "alias_UNK_S": [
-          "Pozesko-slavonska"
+        "alias_ENG_S": [
+          "Pozega-Slavonia"
         ], 
-        "ne_latitude": 45.580, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Po\u017ee\u0161ko-slavonska", 
         "alias_ENG_V": [
           "Po\u017eega-Slavonia"
         ], 
+        "alias_UNK_S": [
+          "Pozesko-slavonska"
+        ], 
+        "woeid": 12577981, 
         "ne_longitude": 18.114, 
         "longitude": 17.521, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=12577981", 
+          "woe:country=23424843", 
+          "woe:planet=1"
+        ], 
         "iso": "HR", 
-        "date_indexed": "2010-12-02T17:06:25Z", 
-        "parent_woeid": 23424843, 
-        "latitude": 45.381, 
+        "sw_latitude": 45.182, 
+        "adjacent": [
+          "woe:state=12577991", 
+          "woe:state=12577972", 
+          "woe:state=12577980", 
+          "woe:state=12577984", 
+          "woe:state=12577987"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 45.58, 
         "sw_longitude": 16.928, 
+        "latitude": 45.381, 
         "fullname": "Po\u017ee\u0161ko-slavonska, Croatia", 
-        "sw_latitude": 45.182
+        "date_indexed": "2010-12-02T17:06:25Z"
       }, 
       "id": 12577981
     }
+  ], 
+  "bbox": [
+    16.928, 
+    45.182, 
+    18.114, 
+    45.58
   ]
 }

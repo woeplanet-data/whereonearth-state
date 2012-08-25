@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              34.230, 
+              34.23, 
               31.223
             ], 
             [
-              34.230, 
+              34.23, 
               31.594
             ], 
             [
@@ -23,7 +23,7 @@
               31.223
             ], 
             [
-              34.230, 
+              34.23, 
               31.223
             ]
           ]
@@ -32,28 +32,41 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 23424838, 
-        "name": "Gaza", 
         "adjacent_woeid": [
           2345791
         ], 
-        "ne_latitude": 31.594, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Gaza", 
         "alias_ENG_V": [
           "Gaza Strip"
         ], 
+        "hierarchy": [
+          "woe:state=23424838", 
+          "woe:country=28289408", 
+          "woe:planet=1"
+        ], 
+        "woeid": 23424838, 
         "ne_longitude": 34.546, 
         "longitude": 34.388, 
-        "placetype": "State", 
-        "iso": "PS", 
-        "date_indexed": "2010-12-02T12:08:30Z", 
-        "parent_woeid": 28289408, 
+        "placetype": "state", 
         "latitude": 31.409, 
-        "sw_longitude": 34.230, 
+        "iso": "PS", 
+        "sw_latitude": 31.223, 
+        "adjacent": [
+          "woe:state=2345791"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.594, 
+        "sw_longitude": 34.23, 
         "fullname": "Gaza, Palestinian Occupied Territories", 
-        "sw_latitude": 31.223
+        "date_indexed": "2010-12-02T12:08:30Z"
       }, 
       "id": 23424838
     }
+  ], 
+  "bbox": [
+    34.23, 
+    31.223, 
+    34.546, 
+    31.594
   ]
 }

@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24550722, 
-        "name": "Babek", 
         "adjacent_woeid": [
           2345767, 
           20070275, 
           24550721
         ], 
-        "ne_latitude": 39.163, 
+        "name": "Babek", 
+        "hierarchy": [
+          "woe:state=24550722", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550722, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.554, 
         "longitude": 45.458, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AZ", 
         "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
-        "latitude": 39.060, 
+        "adjacent": [
+          "woe:state=2345767", 
+          "woe:state=24550721", 
+          "woe:state=20070275"
+        ], 
+        "ne_latitude": 39.163, 
+        "latitude": 39.06, 
         "sw_longitude": 45.362, 
         "fullname": "Babek, Azerbaijan", 
         "sw_latitude": 38.957
       }, 
       "id": 24550722
     }
+  ], 
+  "bbox": [
+    45.362, 
+    38.957, 
+    45.554, 
+    39.163
   ]
 }

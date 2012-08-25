@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347253, 
-        "name": "Sidi Bu Zayd", 
         "adjacent_woeid": [
           2347235, 
           2347236, 
@@ -42,20 +40,40 @@
           2347250, 
           2347252
         ], 
-        "ne_latitude": 35.499, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sidi Bu Zayd", 
+        "hierarchy": [
+          "woe:state=2347253", 
+          "woe:country=23424967", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347253, 
         "ne_longitude": 10.237, 
         "longitude": 9.537, 
-        "placetype": "State", 
-        "iso": "TN", 
-        "date_indexed": "2010-12-02T18:18:54Z", 
-        "parent_woeid": 23424967, 
+        "placetype": "state", 
         "latitude": 34.876, 
+        "iso": "TN", 
+        "sw_latitude": 34.254, 
+        "adjacent": [
+          "woe:state=2347235", 
+          "woe:state=2347236", 
+          "woe:state=2347250", 
+          "woe:state=2347238", 
+          "woe:state=2347252", 
+          "woe:state=2347245"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.499, 
         "sw_longitude": 8.838, 
         "fullname": "Sidi Bu Zayd, Tunisia", 
-        "sw_latitude": 34.254
+        "date_indexed": "2010-12-02T18:18:54Z"
       }, 
       "id": 2347253
     }
+  ], 
+  "bbox": [
+    8.838, 
+    34.254, 
+    10.237, 
+    35.499
   ]
 }

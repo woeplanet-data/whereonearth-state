@@ -1959,11 +1959,17 @@
         "alias_SWE_Q": [
           "Apulien"
         ], 
+        "hierarchy": [
+          "woe:state=7153342", 
+          "woe:country=23424853", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.94426178655226, 
         "ne:Shape_Area": 2.08210641316, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:Region_C_3": null, 
         "alias_POR_Q": [
           "Ap\u00falia"
         ], 
@@ -1973,27 +1979,33 @@
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
         "ne:ScaleRank": 3, 
-        "ne:Area_sqkm": 19457.4, 
+        "alias_DAN_Q": [
+          "Apulien"
+        ], 
         "alias_ITA_V": [
           "Puglia Regione"
         ], 
-        "ne:sameAsCity": -99, 
+        "sw_latitude": 39.79674428931753, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
           "PU"
         ], 
         "sw_longitude": 14.931936476287376, 
+        "adjacent": [
+          "woe:state=7153331", 
+          "woe:state=7153333", 
+          "woe:state=7153340"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.87, 
-        "iso": "IT", 
         "ne:FIPS_1": "IT13", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "ne:VertexCou": 485.0, 
-        "ne:VALIDFR_1": "1895", 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -2010,31 +2022,28 @@
           "Apulie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Apulien"
-        ], 
+        "ne:Area_sqkm": 19457.4, 
         "alias_GER_Q": [
           "Apulien"
         ], 
         "woe:id": "7153342", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Puglia", 
+        "ne:VertexCou": 485.0, 
         "adjacent_woeid": [
           7153331, 
           7153333, 
           7153340
         ], 
-        "name": "Puglia", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITF", 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424853, 
         "ne_longitude": 18.51760908359239, 
         "longitude": 16.727, 
         "ne:NAME_1": "Apulia", 
+        "iso": "IT", 
         "ne:OBJECTID": 822, 
-        "sw_latitude": 39.79674428931753, 
         "ne:NL_NAME_1": null, 
         "fullname": "Puglia, Italy", 
         "ne:Region": null, 

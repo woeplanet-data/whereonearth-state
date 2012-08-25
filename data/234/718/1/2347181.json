@@ -15,11 +15,11 @@
               12.639
             ], 
             [
-              100.020, 
+              100.02, 
               12.639
             ], 
             [
-              100.020, 
+              100.02, 
               10.956
             ], 
             [
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347181, 
-        "name": "Prachuap Khiri Khan", 
         "adjacent_woeid": [
           2344821, 
           2347180, 
           2347182
         ], 
-        "ne_latitude": 12.639, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Prachuap Khiri Khan", 
         "alias_ENG_V": [
           "Changwat Prachuap Khiri Khan"
         ], 
-        "ne_longitude": 100.020, 
+        "hierarchy": [
+          "woe:state=2347181", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347181, 
+        "ne_longitude": 100.02, 
         "longitude": 99.725, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 11.797, 
+        "iso": "TH", 
+        "sw_latitude": 10.956, 
+        "adjacent": [
+          "woe:state=2347182", 
+          "woe:state=2347180", 
+          "woe:state=2344821"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.639, 
         "sw_longitude": 99.147, 
         "fullname": "Prachuap Khiri Khan, Thailand", 
-        "sw_latitude": 10.956
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347181
     }
+  ], 
+  "bbox": [
+    99.147, 
+    10.956, 
+    100.02, 
+    12.639
   ]
 }

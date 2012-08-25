@@ -8,7 +8,7 @@
           [
             [
               32.945, 
-              50.110
+              50.11
             ], 
             [
               32.945, 
@@ -20,11 +20,11 @@
             ], 
             [
               35.692, 
-              50.110
+              50.11
             ], 
             [
               32.945, 
-              50.110
+              50.11
             ]
           ]
         ]
@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347552, 
-        "alias_UNK_V": [
-          "Sumshchyna"
-        ], 
-        "name": "Sums\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Sumy Oblast"
-        ], 
-        "ne_latitude": 52.368, 
-        "ne_longitude": 35.692, 
-        "longitude": 34.319, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2346891, 
           2346892, 
@@ -53,15 +40,46 @@
           2347540, 
           2347550
         ], 
+        "ne_latitude": 52.368, 
+        "name": "Sums\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Sumy Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347552", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347552, 
+        "alias_UNK_V": [
+          "Sumshchyna"
+        ], 
+        "longitude": 34.319, 
+        "ne_longitude": 35.692, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 50.11, 
+        "adjacent": [
+          "woe:state=2346891", 
+          "woe:state=2346892", 
+          "woe:state=2347535", 
+          "woe:state=2347540", 
+          "woe:state=2346905", 
+          "woe:state=2347550"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 51.239, 
         "sw_longitude": 32.945, 
         "fullname": "Sums\u00b4ka Oblast\u00b4, Sumy Oblast, Ukraine", 
-        "sw_latitude": 50.110
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347552
     }
+  ], 
+  "bbox": [
+    32.945, 
+    50.11, 
+    35.692, 
+    52.368
   ]
 }

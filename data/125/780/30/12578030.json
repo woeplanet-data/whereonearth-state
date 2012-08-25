@@ -34,8 +34,13 @@
         "alias_ENG_P": [
           "Aragon"
         ], 
+        "hierarchy": [
+          "woe:state=12578030", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.923, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Arag\u00e3o"
         ], 
@@ -50,6 +55,16 @@
           "Aragon Autonomia"
         ], 
         "sw_longitude": -2.175, 
+        "adjacent": [
+          "woe:state=7153309", 
+          "woe:state=12578033", 
+          "woe:state=12578032", 
+          "woe:state=12578034", 
+          "woe:state=12578026", 
+          "woe:state=12578038", 
+          "woe:state=12578023", 
+          "woe:state=7153323"
+        ], 
         "alias_SPA_V": [
           "Arag\u00f3n Autonomia"
         ], 
@@ -71,7 +86,6 @@
           12578038
         ], 
         "name": "Arag\u00f3n", 
-        "parent_woeid": 23424950, 
         "ne_longitude": 0.771, 
         "longitude": -0.702, 
         "iso": "ES", 
@@ -83,5 +97,11 @@
       }, 
       "id": 12578030
     }
+  ], 
+  "bbox": [
+    -2.175, 
+    39.847, 
+    0.771, 
+    42.923
   ]
 }

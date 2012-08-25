@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344604, 
-        "name": "Adrar", 
         "adjacent_woeid": [
           2344608, 
           2344612, 
@@ -44,20 +42,42 @@
           2346251, 
           55999799
         ], 
-        "ne_latitude": 31.625, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Adrar", 
+        "hierarchy": [
+          "woe:state=2344604", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344604, 
         "ne_longitude": 2.623, 
         "longitude": -1.564, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 25.815, 
+        "iso": "DZ", 
+        "sw_latitude": 20.004, 
+        "adjacent": [
+          "woe:state=2344608", 
+          "woe:state=2344612", 
+          "woe:state=2344615", 
+          "woe:state=55999799", 
+          "woe:state=2344623", 
+          "woe:state=2344624", 
+          "woe:state=2346251", 
+          "woe:state=2346187"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.625, 
         "sw_longitude": -5.752, 
         "fullname": "Adrar, Algeria", 
-        "sw_latitude": 20.004
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344604
     }
+  ], 
+  "bbox": [
+    -5.752, 
+    20.004, 
+    2.623, 
+    31.625
   ]
 }

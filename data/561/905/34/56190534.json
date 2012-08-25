@@ -16,10 +16,24 @@
           56190528
         ], 
         "name": "Krustpils Novads", 
-        "parent_woeid": 23424874, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56190534", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "LV", 
+        "adjacent": [
+          "woe:state=56190528", 
+          "woe:state=56190598", 
+          "woe:state=55844714", 
+          "woe:state=56190538", 
+          "woe:state=56190539", 
+          "woe:state=55844470", 
+          "woe:state=56190521", 
+          "woe:state=56190519"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56190534, 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 

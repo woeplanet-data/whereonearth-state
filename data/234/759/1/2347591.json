@@ -34,16 +34,21 @@
         "alias_ENG_V": [
           "The Empire State"
         ], 
-        "alias_ENG_A": [
-          "NY"
+        "alias_KOR_Q": [
+          "\ub274\uc695"
+        ], 
+        "hierarchy": [
+          "woe:state=2347591", 
+          "woe:country=23424977", 
+          "woe:planet=1"
         ], 
         "ne_latitude": 45.013, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Nova Iorque"
         ], 
-        "alias_KOR_Q": [
-          "\ub274\uc695"
+        "alias_ENG_A": [
+          "NY"
         ], 
         "alias_CHI_Q": [
           "\u7ebd\u7ea6"
@@ -56,9 +61,18 @@
           "Nueva York"
         ], 
         "sw_longitude": -79.762, 
+        "adjacent": [
+          "woe:state=2347565", 
+          "woe:state=2347580", 
+          "woe:state=2347589", 
+          "woe:state=2344922", 
+          "woe:state=2347597", 
+          "woe:state=2344924", 
+          "woe:state=2347604"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.855, 
-        "date_indexed": "2010-12-02T18:21:30Z", 
+        "sw_latitude": 40.496, 
         "lang": "ENG", 
         "adjacent_woeid": [
           2344922, 
@@ -70,14 +84,19 @@
           2347604
         ], 
         "name": "New York", 
-        "parent_woeid": 23424977, 
         "ne_longitude": -71.856, 
         "longitude": -76.502, 
         "iso": "US", 
-        "sw_latitude": 40.496, 
+        "date_indexed": "2010-12-02T18:21:30Z", 
         "fullname": "New York, United States"
       }, 
       "id": 2347591
     }
+  ], 
+  "bbox": [
+    -79.762, 
+    40.496, 
+    -71.856, 
+    45.013
   ]
 }

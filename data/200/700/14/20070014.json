@@ -12,11 +12,11 @@
             ], 
             [
               105.887, 
-              49.510
+              49.51
             ], 
             [
               105.987, 
-              49.510
+              49.51
             ], 
             [
               105.987, 
@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070014, 
-        "name": "Darhan", 
         "adjacent_woeid": [
           2346170
         ], 
-        "ne_latitude": 49.510, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Darhan", 
+        "hierarchy": [
+          "woe:state=20070014", 
+          "woe:country=23424887", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070014, 
         "ne_longitude": 105.987, 
         "longitude": 105.937, 
-        "placetype": "State", 
-        "iso": "MN", 
-        "date_indexed": "2010-12-02T08:53:23Z", 
-        "parent_woeid": 23424887, 
+        "placetype": "state", 
         "latitude": 49.479, 
+        "iso": "MN", 
+        "sw_latitude": 49.448, 
+        "adjacent": [
+          "woe:state=2346170"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 49.51, 
         "sw_longitude": 105.887, 
         "fullname": "Darhan, Mongolia", 
-        "sw_latitude": 49.448
+        "date_indexed": "2010-12-02T08:53:23Z"
       }, 
       "id": 20070014
     }
+  ], 
+  "bbox": [
+    105.887, 
+    49.448, 
+    105.987, 
+    49.51
   ]
 }

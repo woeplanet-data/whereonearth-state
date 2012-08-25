@@ -12,11 +12,11 @@
             ], 
             [
               169.908, 
-              9.190
+              9.19
             ], 
             [
               170.049, 
-              9.190
+              9.19
             ], 
             [
               170.049, 
@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549841, 
         "name": "Erikub", 
-        "ne_latitude": 9.190, 
+        "hierarchy": [
+          "woe:state=24549841", 
+          "woe:country=23424932", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549841, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 170.049, 
         "longitude": 170.045, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MH", 
         "date_indexed": "2010-12-02T09:35:31Z", 
-        "parent_woeid": 23424932, 
+        "ne_latitude": 9.19, 
         "latitude": 9.023, 
         "sw_longitude": 169.908, 
         "fullname": "Erikub, Marshall Islands", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549841
     }
+  ], 
+  "bbox": [
+    169.908, 
+    9.021, 
+    170.049, 
+    9.19
   ]
 }

@@ -232,9 +232,14 @@
           "Addis Ababa Region"
         ], 
         "ne:ScaleRank": 3, 
+        "hierarchy": [
+          "woe:state=56013543", 
+          "woe:country=23424808", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 9.096912746925796, 
         "ne:Shape_Area": 0.0452979386826, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:VALIDFR_1": "199412", 
         "ne:gadm_level": 1.0, 
@@ -243,6 +248,9 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 38.655036248624015, 
+        "adjacent": [
+          "woe:state=56013545"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 9.009, 
         "ne:FIPS_1": "ET44", 
@@ -275,7 +283,6 @@
         ], 
         "ne:HASC_1": "ET.AA", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424808, 
         "ne_longitude": 38.90794070849694, 
         "longitude": 38.794, 
         "iso": "ET", 

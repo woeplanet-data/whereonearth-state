@@ -765,11 +765,16 @@
       "properties": {
         "ne:ProvNumber": 2007, 
         "ne:ScaleRank": 6, 
+        "hierarchy": [
+          "woe:state=2347263", 
+          "woe:country=23424969", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.70759308545257, 
         "ne:Shape_Area": 2.82866156792, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1989", 
         "alias_KOR_Q": [
           "\uc559\uce74\ub77c"
         ], 
@@ -778,13 +783,22 @@
         "alias_CHI_Q": [
           "\u5b89\u5361\u62c9"
         ], 
-        "ne:OBJECTID": 3008, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30a2\u30f3\u30ab\u30e9"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 30.863573845856365, 
+        "adjacent": [
+          "woe:state=2347325", 
+          "woe:state=2347271", 
+          "woe:state=2347283", 
+          "woe:state=2347321", 
+          "woe:state=2347329", 
+          "woe:state=2347295", 
+          "woe:state=2347275"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.68, 
         "ne:FIPS_1": "TU68", 
@@ -792,9 +806,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 38.64358470347133, 
-        "ne:VertexCou": 187.0, 
-        "ne:VALIDFR_1": "1989", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 3008, 
         "ne:Postal": "AN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Ancara|Angora", 
@@ -810,8 +824,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 26904.7, 
         "woe:id": "2347263", 
-        "ne:HASC_1": "TR.AN", 
-        "lang": "UNK", 
+        "name": "Ankara", 
+        "ne:VertexCou": 187.0, 
         "adjacent_woeid": [
           2347271, 
           2347275, 
@@ -821,9 +835,8 @@
           2347325, 
           2347329
         ], 
-        "name": "Ankara", 
+        "ne:HASC_1": "TR.AN", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424969, 
         "ne_longitude": 33.93739139129974, 
         "longitude": 32.365, 
         "iso": "TR", 

@@ -1272,20 +1272,31 @@
           "County Limerick"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2345261", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 52.7550747743814, 
         "ne:Shape_Area": 0.359549698369, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "1898", 
         "alias_ENG_A": [
           "LIM"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:OBJECTID": 726, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -9.362601284421714, 
+        "adjacent": [
+          "woe:state=2345251", 
+          "woe:state=2345252", 
+          "woe:state=2345256", 
+          "woe:state=2345270"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.519, 
         "ne:FIPS_1": "EI16", 
@@ -1293,9 +1304,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.27680939363864, 
-        "ne:VertexCou": 314.0, 
-        "ne:VALIDFR_1": "1898", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 726, 
         "ne:Postal": "LK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Luimneach", 
@@ -1311,17 +1322,16 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 2717.7, 
         "woe:id": "2345261", 
-        "ne:HASC_1": "IE.LK", 
-        "lang": "ENG", 
+        "name": "Limerick", 
+        "ne:VertexCou": 314.0, 
         "adjacent_woeid": [
           2345251, 
           2345252, 
           2345256, 
           2345270
         ], 
-        "name": "Limerick", 
+        "ne:HASC_1": "IE.LK", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Luimneach"
         ], 

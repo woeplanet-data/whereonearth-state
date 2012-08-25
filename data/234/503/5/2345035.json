@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2345035, 
-        "name": "Nord-Ouest", 
         "adjacent_woeid": [
           2345036, 
           2345037, 
           2345038, 
           2346371
         ], 
-        "ne_latitude": 7.162, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nord-Ouest", 
+        "hierarchy": [
+          "woe:state=2345035", 
+          "woe:country=23424785", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345035, 
         "ne_longitude": 11.208, 
         "longitude": 10.314, 
         "alias_FRE_A": [
           "NW"
         ], 
-        "placetype": "State", 
-        "iso": "CM", 
-        "date_indexed": "2010-12-02T10:22:30Z", 
-        "parent_woeid": 23424785, 
+        "placetype": "state", 
         "latitude": 6.418, 
+        "iso": "CM", 
+        "sw_latitude": 5.674, 
+        "adjacent": [
+          "woe:state=2345038", 
+          "woe:state=2345036", 
+          "woe:state=2345037", 
+          "woe:state=2346371"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 7.162, 
         "sw_longitude": 9.419, 
         "fullname": "Nord-Ouest, Cameroon", 
-        "sw_latitude": 5.674
+        "date_indexed": "2010-12-02T10:22:30Z"
       }, 
       "id": 2345035
     }
+  ], 
+  "bbox": [
+    9.419, 
+    5.674, 
+    11.208, 
+    7.162
   ]
 }

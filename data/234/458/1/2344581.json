@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344581, 
-        "name": "Constantine", 
         "adjacent_woeid": [
           2344595, 
           2344600, 
           2344602, 
           2344618
         ], 
-        "ne_latitude": 36.614, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Constantine", 
+        "hierarchy": [
+          "woe:state=2344581", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344581, 
         "ne_longitude": 7.039, 
         "longitude": 6.681, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 36.335, 
+        "iso": "DZ", 
+        "sw_latitude": 36.056, 
+        "adjacent": [
+          "woe:state=2344595", 
+          "woe:state=2344618", 
+          "woe:state=2344600", 
+          "woe:state=2344602"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.614, 
         "sw_longitude": 6.323, 
         "fullname": "Constantine, Algeria", 
-        "sw_latitude": 36.056
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344581
     }
+  ], 
+  "bbox": [
+    6.323, 
+    36.056, 
+    7.039, 
+    36.614
   ]
 }

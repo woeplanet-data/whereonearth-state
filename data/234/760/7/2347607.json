@@ -34,16 +34,21 @@
         "alias_ENG_V": [
           "The Mountain State"
         ], 
-        "alias_ENG_A": [
-          "WV"
+        "alias_KOR_Q": [
+          "\uc6e8\uc2a4\ud2b8\ubc84\uc9c0\ub2c8\uc544"
+        ], 
+        "hierarchy": [
+          "woe:state=2347607", 
+          "woe:country=23424977", 
+          "woe:planet=1"
         ], 
         "ne_latitude": 40.638, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Virg\u00ednia Ocidental"
         ], 
-        "alias_KOR_Q": [
-          "\uc6e8\uc2a4\ud2b8\ubc84\uc9c0\ub2c8\uc544"
+        "alias_ENG_A": [
+          "WV"
         ], 
         "alias_CHI_Q": [
           "\u897f\u5f17\u5409\u5c3c\u4e9a"
@@ -65,8 +70,15 @@
           "Lansi-Virginia"
         ], 
         "sw_longitude": -82.644, 
+        "adjacent": [
+          "woe:state=2347576", 
+          "woe:state=2347579", 
+          "woe:state=2347594", 
+          "woe:state=2347597", 
+          "woe:state=2347605"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 38.920, 
+        "latitude": 38.92, 
         "alias_NOR_Q": [
           "Vest-Virginia"
         ], 
@@ -83,7 +95,6 @@
           2347605
         ], 
         "name": "West Virginia", 
-        "parent_woeid": 23424977, 
         "ne_longitude": -77.719, 
         "longitude": -80.182, 
         "iso": "US", 
@@ -95,5 +106,11 @@
       }, 
       "id": 2347607
     }
+  ], 
+  "bbox": [
+    -82.644, 
+    37.202, 
+    -77.719, 
+    40.638
   ]
 }

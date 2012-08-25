@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 20070036, 
-        "name": "Abyan", 
         "adjacent_woeid": [
           20070034, 
           20070035, 
           20070040, 
           20070043
         ], 
-        "ne_latitude": 14.362, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Abyan", 
+        "hierarchy": [
+          "woe:state=20070036", 
+          "woe:country=23425002", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070036, 
         "ne_longitude": 47.258, 
         "longitude": 46.135, 
-        "placetype": "State", 
-        "iso": "YE", 
-        "date_indexed": "2010-12-02T16:39:35Z", 
-        "parent_woeid": 23425002, 
+        "placetype": "state", 
         "latitude": 13.669, 
+        "iso": "YE", 
+        "sw_latitude": 12.976, 
+        "adjacent": [
+          "woe:state=20070035", 
+          "woe:state=20070043", 
+          "woe:state=20070040", 
+          "woe:state=20070034"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.362, 
         "sw_longitude": 45.011, 
         "fullname": "Abyan, Yemen", 
-        "sw_latitude": 12.976
+        "date_indexed": "2010-12-02T16:39:35Z"
       }, 
       "id": 20070036
     }
+  ], 
+  "bbox": [
+    45.011, 
+    12.976, 
+    47.258, 
+    14.362
   ]
 }

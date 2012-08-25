@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549744, 
-        "name": "Marin", 
         "adjacent_woeid": [
           24549745, 
           24549747
         ], 
-        "ne_latitude": 14.655, 
+        "name": "Marin", 
+        "hierarchy": [
+          "woe:state=24549744", 
+          "woe:country=23424884", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549744, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -60.816, 
-        "longitude": -60.960, 
-        "placetype": "State", 
+        "longitude": -60.96, 
+        "placetype": "state", 
         "iso": "MQ", 
         "date_indexed": "2010-12-02T17:06:00Z", 
-        "parent_woeid": 23424884, 
+        "adjacent": [
+          "woe:state=24549745", 
+          "woe:state=24549747"
+        ], 
+        "ne_latitude": 14.655, 
         "latitude": 14.523, 
         "sw_longitude": -61.104, 
         "fullname": "Marin, Martinique", 
@@ -53,5 +61,11 @@
       }, 
       "id": 24549744
     }
+  ], 
+  "bbox": [
+    -61.104, 
+    14.382, 
+    -60.816, 
+    14.655
   ]
 }

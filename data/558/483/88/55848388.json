@@ -309,9 +309,14 @@
       "properties": {
         "ne:ProvNumber": 44, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848388", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.499280910885375, 
         "ne:Shape_Area": 0.0405919703802, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 2.0, 
@@ -320,6 +325,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 15.335064324758832, 
+        "adjacent": [
+          "woe:state=55848367", 
+          "woe:state=55848377", 
+          "woe:state=55848382", 
+          "woe:state=55848389", 
+          "woe:state=55848390"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.385, 
         "ne:FIPS_1": "SIL8", 
@@ -356,7 +368,6 @@
         ], 
         "name": "Slovenska Bistrica", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 15.721449009064543, 
         "longitude": 15.525, 
         "iso": "SI", 

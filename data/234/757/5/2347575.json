@@ -854,11 +854,16 @@
         "alias_KOR_Q": [
           "\uce94\uc0ac\uc2a4"
         ], 
+        "hierarchy": [
+          "woe:state=2347575", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.00010174410028, 
         "ne:Shape_Area": 21.9763199252, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18540530", 
         "alias_ENG_A": [
           "KS"
         ], 
@@ -868,7 +873,7 @@
         "alias_CHI_Q": [
           "\u582a\u8428\u5e02"
         ], 
-        "ne:OBJECTID": 3530, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30ab\u30f3\u30b6\u30b9"
         ], 
@@ -878,6 +883,12 @@
         "ne:Abbrev": "Kans.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -102.05126347023293, 
+        "adjacent": [
+          "woe:state=2347564", 
+          "woe:state=2347584", 
+          "woe:state=2347586", 
+          "woe:state=2347595"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 38.498, 
         "ne:FIPS_1": "US20", 
@@ -885,9 +896,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 36.99980877525485, 
-        "ne:VertexCou": 208.0, 
-        "ne:VALIDFR_1": "18540530", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3530, 
         "ne:Postal": "KS", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "KS|Kans.", 
@@ -903,17 +914,16 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 212045.4, 
         "woe:id": "2347575", 
-        "ne:HASC_1": "US.KS", 
-        "lang": "ENG", 
+        "name": "Kansas", 
+        "ne:VertexCou": 208.0, 
         "adjacent_woeid": [
           2347564, 
           2347584, 
           2347586, 
           2347595
         ], 
-        "name": "Kansas", 
+        "ne:HASC_1": "US.KS", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -94.61046757232054, 
         "longitude": -98.32, 
         "iso": "US", 

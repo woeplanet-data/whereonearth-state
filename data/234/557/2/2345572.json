@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345572, 
-        "name": "Totonicapan", 
         "adjacent_woeid": [
           2345559, 
           2345564, 
           2345565, 
           2345570
         ], 
-        "ne_latitude": 15.252, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Totonicapan", 
+        "hierarchy": [
+          "woe:state=2345572", 
+          "woe:country=23424834", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345572, 
         "ne_longitude": -91.176, 
         "longitude": -91.365, 
-        "placetype": "State", 
-        "iso": "GT", 
-        "date_indexed": "2010-12-02T16:55:18Z", 
-        "parent_woeid": 23424834, 
+        "placetype": "state", 
         "latitude": 15.037, 
+        "iso": "GT", 
+        "sw_latitude": 14.823, 
+        "adjacent": [
+          "woe:state=2345559", 
+          "woe:state=2345564", 
+          "woe:state=2345565", 
+          "woe:state=2345570"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.252, 
         "sw_longitude": -91.554, 
         "fullname": "Totonicapan, Guatemala", 
-        "sw_latitude": 14.823
+        "date_indexed": "2010-12-02T16:55:18Z"
       }, 
       "id": 2345572
     }
+  ], 
+  "bbox": [
+    -91.554, 
+    14.823, 
+    -91.176, 
+    15.252
   ]
 }

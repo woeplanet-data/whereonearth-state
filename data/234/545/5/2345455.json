@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2345455, 
-        "name": "Ogooue-Lolo", 
         "adjacent_woeid": [
           2344972, 
           2345450, 
@@ -41,23 +39,42 @@
           2345452, 
           2345454
         ], 
-        "ne_latitude": 0.308, 
+        "name": "Ogooue-Lolo", 
+        "hierarchy": [
+          "woe:state=2345455", 
+          "woe:country=23424822", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345455, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 13.447, 
         "longitude": 12.477, 
-        "parent_woeid": 23424822, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -0.797, 
+        "iso": "GA", 
+        "sw_latitude": -1.901, 
+        "adjacent": [
+          "woe:state=2345450", 
+          "woe:state=2345451", 
+          "woe:state=2345452", 
+          "woe:state=2344972", 
+          "woe:state=2345454"
+        ], 
+        "ne_latitude": 0.308, 
         "alias_FRE_V": [
           "Ogoou\u00e9-Lolo"
         ], 
-        "iso": "GA", 
-        "date_indexed": "2010-12-02T08:50:01Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": -0.797, 
         "sw_longitude": 11.508, 
         "fullname": "Ogooue-Lolo, Gabon", 
-        "sw_latitude": -1.901
+        "date_indexed": "2010-12-02T08:50:01Z"
       }, 
       "id": 2345455
     }
+  ], 
+  "bbox": [
+    11.508, 
+    -1.901, 
+    13.447, 
+    0.308
   ]
 }

@@ -225,9 +225,14 @@
       "properties": {
         "ne:ProvNumber": 171, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848379", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.38218211541238, 
         "ne:Shape_Area": 0.0395591590972, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 2.0, 
@@ -236,6 +241,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 13.727358839538851, 
+        "adjacent": [
+          "woe:state=55848354", 
+          "woe:state=55848358", 
+          "woe:state=55848386", 
+          "woe:state=55848391", 
+          "woe:state=55848394"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.334, 
         "ne:FIPS_1": "SI04", 
@@ -272,7 +284,6 @@
         ], 
         "name": "Radovljica", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 14.180147739726465, 
         "longitude": 13.999, 
         "iso": "SI", 

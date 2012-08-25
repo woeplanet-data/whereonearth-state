@@ -12,14 +12,14 @@
             ], 
             [
               -70.587, 
-              19.680
+              19.68
             ], 
             [
-              -70.050, 
-              19.680
+              -70.05, 
+              19.68
             ], 
             [
-              -70.050, 
+              -70.05, 
               19.308
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345178, 
-        "name": "Espaillat", 
         "adjacent_woeid": [
           2345177, 
           2345183, 
@@ -42,20 +40,40 @@
           2345193, 
           2345198
         ], 
-        "ne_latitude": 19.680, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -70.050, 
+        "name": "Espaillat", 
+        "hierarchy": [
+          "woe:state=2345178", 
+          "woe:country=23424800", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345178, 
+        "ne_longitude": -70.05, 
         "longitude": -70.345, 
-        "placetype": "State", 
-        "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "parent_woeid": 23424800, 
+        "placetype": "state", 
         "latitude": 19.494, 
+        "iso": "DO", 
+        "sw_latitude": 19.308, 
+        "adjacent": [
+          "woe:state=2345177", 
+          "woe:state=2345198", 
+          "woe:state=2345183", 
+          "woe:state=2345187", 
+          "woe:state=2345188", 
+          "woe:state=2345193"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.68, 
         "sw_longitude": -70.587, 
         "fullname": "Espaillat, Dominican Republic", 
-        "sw_latitude": 19.308
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345178
     }
+  ], 
+  "bbox": [
+    -70.587, 
+    19.308, 
+    -70.05, 
+    19.68
   ]
 }

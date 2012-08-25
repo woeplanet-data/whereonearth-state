@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344582, 
-        "name": "Medea", 
         "adjacent_woeid": [
           2344587, 
           2344592, 
@@ -43,20 +41,41 @@
           2344605, 
           2344626
         ], 
-        "ne_latitude": 36.445, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Medea", 
+        "hierarchy": [
+          "woe:state=2344582", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344582, 
         "ne_longitude": 3.591, 
         "longitude": 2.934, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 35.936, 
+        "iso": "DZ", 
+        "sw_latitude": 35.428, 
+        "adjacent": [
+          "woe:state=2344605", 
+          "woe:state=2344592", 
+          "woe:state=2344593", 
+          "woe:state=2344594", 
+          "woe:state=2344599", 
+          "woe:state=2344587", 
+          "woe:state=2344626"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.445, 
         "sw_longitude": 2.277, 
         "fullname": "Medea, Algeria", 
-        "sw_latitude": 35.428
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344582
     }
+  ], 
+  "bbox": [
+    2.277, 
+    35.428, 
+    3.591, 
+    36.445
   ]
 }

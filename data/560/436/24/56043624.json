@@ -12,11 +12,11 @@
             ], 
             [
               19.972, 
-              46.350
+              46.35
             ], 
             [
               20.309, 
-              46.350
+              46.35
             ], 
             [
               20.309, 
@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "woeid": 56043624, 
-        "name": "Szeged", 
         "adjacent_woeid": [
           2346649, 
           12577916
         ], 
-        "ne_latitude": 46.350, 
+        "name": "Szeged", 
+        "hierarchy": [
+          "woe:state=56043624", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56043624, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.309, 
-        "longitude": 20.140, 
-        "placetype": "State", 
+        "longitude": 20.14, 
+        "placetype": "state", 
         "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "parent_woeid": 23424844, 
+        "adjacent": [
+          "woe:state=12577916", 
+          "woe:state=2346649"
+        ], 
+        "ne_latitude": 46.35, 
         "latitude": 46.233, 
         "sw_longitude": 19.972, 
         "fullname": "Szeged, Hungary", 
@@ -53,5 +61,11 @@
       }, 
       "id": 56043624
     }
+  ], 
+  "bbox": [
+    19.972, 
+    46.116, 
+    20.309, 
+    46.35
   ]
 }

@@ -2055,20 +2055,25 @@
         "alias_ENG_P": [
           "Chungcheongnam-Do"
         ], 
+        "hierarchy": [
+          "woe:state=2345973", 
+          "woe:country=23424868", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 37.05536123263482, 
         "ne:Shape_Area": 0.778125495593, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_V": [
           "\ucda9\ub0a8\ub3c4"
         ], 
-        "ne:MAP_COLOR": 5, 
+        "ne:VALIDFR_1": "1989", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u5fe0\u6e05\u5357\u9053"
         ], 
-        "ne:OBJECTID": 2502, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30c1\u30e5\u30f3\u30c1\u30e7\u30f3\u30ca\u30e0\u30c9"
         ], 
@@ -2078,6 +2083,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 126.12845665924749, 
+        "adjacent": [
+          "woe:state=2345969", 
+          "woe:state=2345975", 
+          "woe:state=2345964", 
+          "woe:state=2345965"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 36.516, 
         "ne:FIPS_1": "KS17", 
@@ -2087,9 +2098,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "date_indexed": "2010-12-02T17:52:39Z", 
-        "ne:VertexCou": 505.0, 
-        "ne:VALIDFR_1": "1989", 
-        "ne:DataRank": 3, 
+        "lang": "KOR", 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 2502, 
         "ne:Postal": "GN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Chungchongnam-Do|Ch'ungch'ong-namdo|Chusei Nan-do|South Chungchong|Ch'ungch'ong-namdo", 
@@ -2105,8 +2116,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 7735.9, 
         "woe:id": "2345973", 
-        "ne:HASC_1": "KR.GN", 
-        "lang": "KOR", 
+        "name": "\ucda9\uccad\ub0a8\ub3c4", 
+        "ne:VertexCou": 505.0, 
         "adjacent_woeid": [
           2345964, 
           2345965, 
@@ -2114,10 +2125,9 @@
           2345975
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "\ucda9\uccad\ub0a8\ub3c4", 
+        "ne:HASC_1": "KR.GN", 
         "ne:REMARKS_1": "34 (NSO Code)", 
         "ne:Country_Pr": null, 
-        "parent_woeid": 23424868, 
         "ne_longitude": 127.61901167215103, 
         "longitude": 126.87, 
         "iso": "KR", 

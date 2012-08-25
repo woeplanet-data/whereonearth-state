@@ -894,26 +894,41 @@
         "alias_ENG_P": [
           "North Brabant"
         ], 
+        "hierarchy": [
+          "woe:state=2346378", 
+          "woe:country=23424909", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 51.8350275738635, 
         "ne:Shape_Area": 0.673640001737, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
         "ne:ScaleRank": 8, 
-        "ne:VALIDTO_1": "Present", 
-        "alias_ITA_Q": [
-          "Brabante Settentrionale"
-        ], 
-        "ne:Area_sqkm": 5197.6, 
-        "ne:OBJECTID": 3483, 
-        "ne:sameAsCity": -99, 
-        "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Brabante Septentrional"
         ], 
+        "alias_ITA_Q": [
+          "Brabante Settentrionale"
+        ], 
+        "alias_DAN_Q": [
+          "Nordbrabant"
+        ], 
+        "ne:DataRank": 8, 
+        "ne:sameAsCity": -99, 
+        "ne:Abbrev": null, 
+        "ne:VALIDTO_1": "Present", 
         "sw_longitude": 4.18613243946055, 
+        "adjacent": [
+          "woe:state=7153308", 
+          "woe:state=2346375", 
+          "woe:state=2346377", 
+          "woe:state=7153301", 
+          "woe:state=2346382", 
+          "woe:state=2346383"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 51.526, 
         "ne:FIPS_1": "NL06", 
@@ -926,8 +941,8 @@
         "alias_DUT_A": [
           "NB"
         ], 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 3483, 
         "ne:Postal": null, 
         "alias_DUT_V": [
           "Brabant"
@@ -935,20 +950,18 @@
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Brabante del Norte|Brabante do Norte|Brabante settentrionale|Brabant-septentrional|Nord-Brabant|Nort", 
         "ne:ISO": "NLD", 
-        "ne:TYPE_1": "Provincie", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 5.37532476696, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "Netherlands", 
         "ne:NAME_1": "Noord-Brabant", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Provincie", 
         "ne:LabelRank": 8, 
-        "alias_DAN_Q": [
-          "Nordbrabant"
-        ], 
+        "ne:Area_sqkm": 5197.6, 
         "woe:id": "2346378", 
-        "ne:HASC_1": "NL.NB", 
+        "name": "Noord-Brabant", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2346375, 
@@ -959,9 +972,8 @@
           7153308
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Noord-Brabant", 
+        "ne:HASC_1": "NL.NB", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424909, 
         "ne_longitude": 6.049481235670555, 
         "longitude": 5.119, 
         "ne:VertexCou": 222.0, 

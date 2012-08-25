@@ -12,11 +12,11 @@
             ], 
             [
               149.128, 
-              -16.020
+              -16.02
             ], 
             [
               152.115, 
-              -16.020
+              -16.02
             ], 
             [
               152.115, 
@@ -40,8 +40,13 @@
         "alias_SWE_S": [
           "Korallhavoarna"
         ], 
-        "ne_latitude": -16.020, 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=23424790", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": -16.02, 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uc0b0\ud638\ud574\uc81c\ub3c4"
         ], 
@@ -61,14 +66,13 @@
         "sw_longitude": 149.128, 
         "provider": "geoplanet 7.6.0", 
         "latitude": -17.386, 
-        "date_indexed": "2010-12-02T17:43:32Z", 
+        "sw_latitude": -17.728, 
         "lang": "ENG", 
         "name": "Coral Sea Islands", 
-        "parent_woeid": 23424748, 
         "ne_longitude": 152.115, 
         "longitude": 151.865, 
         "iso": "AU", 
-        "sw_latitude": -17.728, 
+        "date_indexed": "2010-12-02T17:43:32Z", 
         "alias_FRE_V": [
           "\u00celes Coral"
         ], 
@@ -82,5 +86,11 @@
       }, 
       "id": 23424790
     }
+  ], 
+  "bbox": [
+    149.128, 
+    -17.728, 
+    152.115, 
+    -16.02
   ]
 }

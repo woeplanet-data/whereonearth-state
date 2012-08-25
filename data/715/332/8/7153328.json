@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              4.230, 
+              4.23, 
               42.982
             ], 
             [
-              4.230, 
+              4.23, 
               45.141
             ], 
             [
@@ -23,7 +23,7 @@
               42.982
             ], 
             [
-              4.230, 
+              4.23, 
               42.982
             ]
           ]
@@ -34,8 +34,13 @@
         "alias_ENG_P": [
           "Provence-Alpes-Cote d'Azur"
         ], 
+        "hierarchy": [
+          "woe:state=7153328", 
+          "woe:country=23424819", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 45.141, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Proven\u00e7a-Alpes-Costa Azul"
         ], 
@@ -52,10 +57,16 @@
         "alias_SPA_Q": [
           "Provenza-Alpes-Costa Azul"
         ], 
-        "sw_longitude": 4.230, 
+        "sw_longitude": 4.23, 
+        "adjacent": [
+          "woe:state=7153320", 
+          "woe:state=7153337", 
+          "woe:state=7153341", 
+          "woe:state=7153329"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 44.083, 
-        "date_indexed": "2010-12-02T11:51:35Z", 
+        "sw_latitude": 42.982, 
         "lang": "FRE", 
         "adjacent_woeid": [
           7153320, 
@@ -64,14 +75,13 @@
           7153341
         ], 
         "name": "Provence-Alpes-C\u00f4te d'Azur", 
-        "parent_woeid": 23424819, 
         "ne_longitude": 7.717, 
         "longitude": 5.974, 
         "alias_FRE_A": [
           "PACA"
         ], 
         "iso": "FR", 
-        "sw_latitude": 42.982, 
+        "date_indexed": "2010-12-02T11:51:35Z", 
         "alias_FRE_V": [
           "Provence-Alpes-C\u00f4te d'Azur Region"
         ], 
@@ -82,5 +92,11 @@
       }, 
       "id": 7153328
     }
+  ], 
+  "bbox": [
+    4.23, 
+    42.982, 
+    7.717, 
+    45.141
   ]
 }

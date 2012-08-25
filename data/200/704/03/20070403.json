@@ -15,11 +15,11 @@
               42.512
             ], 
             [
-              44.430, 
+              44.43, 
               42.512
             ], 
             [
-              44.430, 
+              44.43, 
               41.759
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070403, 
-        "name": "Goris Raioni", 
         "adjacent_woeid": [
           20070349, 
           20070362, 
@@ -44,20 +42,42 @@
           20070383, 
           20070402
         ], 
-        "ne_latitude": 42.512, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 44.430, 
+        "name": "Goris Raioni", 
+        "hierarchy": [
+          "woe:state=20070403", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070403, 
+        "ne_longitude": 44.43, 
         "longitude": 44.026, 
-        "placetype": "State", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "placetype": "state", 
         "latitude": 42.115, 
+        "iso": "GE", 
+        "sw_latitude": 41.759, 
+        "adjacent": [
+          "woe:state=20070364", 
+          "woe:state=20070349", 
+          "woe:state=20070402", 
+          "woe:state=20070365", 
+          "woe:state=20070366", 
+          "woe:state=20070368", 
+          "woe:state=20070362", 
+          "woe:state=20070383"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.512, 
         "sw_longitude": 43.739, 
         "fullname": "Goris Raioni, Georgia", 
-        "sw_latitude": 41.759
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070403
     }
+  ], 
+  "bbox": [
+    43.739, 
+    41.759, 
+    44.43, 
+    42.512
   ]
 }

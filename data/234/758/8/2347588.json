@@ -34,16 +34,21 @@
         "alias_ENG_V": [
           "The Granite State"
         ], 
-        "alias_ENG_A": [
-          "NH"
+        "alias_KOR_Q": [
+          "\ub274\ud584\ud504\uc154"
+        ], 
+        "hierarchy": [
+          "woe:state=2347588", 
+          "woe:country=23424977", 
+          "woe:planet=1"
         ], 
         "ne_latitude": 45.305, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Nova Hampshire"
         ], 
-        "alias_KOR_Q": [
-          "\ub274\ud584\ud504\uc154"
+        "alias_ENG_A": [
+          "NH"
         ], 
         "alias_CHI_Q": [
           "\u65b0\u7f55\u5e03\u4ec0\u5c14"
@@ -56,6 +61,12 @@
           "Nuevo Hampshire"
         ], 
         "sw_longitude": -72.557, 
+        "adjacent": [
+          "woe:state=2347578", 
+          "woe:state=2347580", 
+          "woe:state=2344924", 
+          "woe:state=2347604"
+        ], 
         "alias_SPA_V": [
           "Nueva Hampshire"
         ], 
@@ -73,7 +84,6 @@
           2347604
         ], 
         "name": "New Hampshire", 
-        "parent_woeid": 23424977, 
         "ne_longitude": -70.709, 
         "longitude": -71.634, 
         "iso": "US", 
@@ -82,5 +92,11 @@
       }, 
       "id": 2347588
     }
+  ], 
+  "bbox": [
+    -72.557, 
+    42.697, 
+    -70.709, 
+    45.305
   ]
 }

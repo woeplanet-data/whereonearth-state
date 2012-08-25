@@ -15,11 +15,11 @@
               40.574
             ], 
             [
-              48.480, 
+              48.48, 
               40.574
             ], 
             [
-              48.480, 
+              48.48, 
               40.044
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070236, 
-        "name": "Kurdamir", 
         "adjacent_woeid": [
           20070215, 
           20070226, 
@@ -45,20 +43,43 @@
           20070281, 
           20070282
         ], 
-        "ne_latitude": 40.574, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 48.480, 
+        "name": "Kurdamir", 
+        "hierarchy": [
+          "woe:state=20070236", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070236, 
+        "ne_longitude": 48.48, 
         "longitude": 48.196, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.309, 
+        "iso": "AZ", 
+        "sw_latitude": 40.044, 
+        "adjacent": [
+          "woe:state=20070215", 
+          "woe:state=20070226", 
+          "woe:state=20070282", 
+          "woe:state=20070227", 
+          "woe:state=20070228", 
+          "woe:state=20070281", 
+          "woe:state=20070270", 
+          "woe:state=20070249", 
+          "woe:state=20070256"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.574, 
         "sw_longitude": 47.912, 
         "fullname": "Kurdamir, Azerbaijan", 
-        "sw_latitude": 40.044
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070236
     }
+  ], 
+  "bbox": [
+    47.912, 
+    40.044, 
+    48.48, 
+    40.574
   ]
 }

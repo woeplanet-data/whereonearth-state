@@ -8,7 +8,7 @@
           [
             [
               29.204, 
-              -3.720
+              -3.72
             ], 
             [
               29.204, 
@@ -20,11 +20,11 @@
             ], 
             [
               29.592, 
-              -3.720
+              -3.72
             ], 
             [
               29.204, 
-              -3.720
+              -3.72
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 56017453, 
-        "name": "Bujumbura Rural", 
         "adjacent_woeid": [
           2344900, 
           2344901, 
@@ -42,20 +40,40 @@
           20069829, 
           56017454
         ], 
-        "ne_latitude": -3.236, 
+        "name": "Bujumbura Rural", 
+        "hierarchy": [
+          "woe:state=56017453", 
+          "woe:country=23424774", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56017453, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 29.592, 
         "longitude": 29.398, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "BI", 
         "date_indexed": "2010-12-02T08:58:47Z", 
-        "parent_woeid": 23424774, 
+        "adjacent": [
+          "woe:state=2344902", 
+          "woe:state=2344900", 
+          "woe:state=2344903", 
+          "woe:state=2344901", 
+          "woe:state=56017454", 
+          "woe:state=20069829"
+        ], 
+        "ne_latitude": -3.236, 
         "latitude": -3.478, 
         "sw_longitude": 29.204, 
         "fullname": "Bujumbura Rural, Burundi", 
-        "sw_latitude": -3.720
+        "sw_latitude": -3.72
       }, 
       "id": 56017453
     }
+  ], 
+  "bbox": [
+    29.204, 
+    -3.72, 
+    29.592, 
+    -3.236
   ]
 }

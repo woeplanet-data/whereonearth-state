@@ -12,11 +12,11 @@
             ], 
             [
               45.059, 
-              42.550
+              42.55
             ], 
             [
               45.775, 
-              42.550
+              42.55
             ], 
             [
               45.775, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070374, 
-        "name": "Akhmetis Raioni", 
         "adjacent_woeid": [
           2346868, 
           2346870, 
@@ -42,20 +40,40 @@
           20070363, 
           20070375
         ], 
-        "ne_latitude": 42.550, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Akhmetis Raioni", 
+        "hierarchy": [
+          "woe:state=20070374", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070374, 
         "ne_longitude": 45.775, 
         "longitude": 45.243, 
-        "placetype": "State", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "placetype": "state", 
         "latitude": 42.221, 
+        "iso": "GE", 
+        "sw_latitude": 41.892, 
+        "adjacent": [
+          "woe:state=2346868", 
+          "woe:state=2346870", 
+          "woe:state=20070363", 
+          "woe:state=20070359", 
+          "woe:state=20070375", 
+          "woe:state=20070361"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.55, 
         "sw_longitude": 45.059, 
         "fullname": "Akhmetis Raioni, Georgia", 
-        "sw_latitude": 41.892
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070374
     }
+  ], 
+  "bbox": [
+    45.059, 
+    41.892, 
+    45.775, 
+    42.55
   ]
 }

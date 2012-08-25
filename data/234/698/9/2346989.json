@@ -8,7 +8,7 @@
           [
             [
               -16.702, 
-              14.510
+              14.51
             ], 
             [
               -16.702, 
@@ -20,11 +20,11 @@
             ], 
             [
               -15.677, 
-              14.510
+              14.51
             ], 
             [
               -16.702, 
-              14.510
+              14.51
             ]
           ]
         ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2346989, 
-        "name": "Diourbel", 
         "adjacent_woeid": [
           2346992, 
           2346993, 
           2346994
         ], 
-        "ne_latitude": 15.027, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Diourbel", 
+        "hierarchy": [
+          "woe:state=2346989", 
+          "woe:country=23424943", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346989, 
         "ne_longitude": -15.677, 
-        "longitude": -16.190, 
-        "placetype": "State", 
-        "iso": "SN", 
-        "date_indexed": "2010-12-02T08:57:18Z", 
-        "parent_woeid": 23424943, 
+        "longitude": -16.19, 
+        "placetype": "state", 
         "latitude": 14.769, 
+        "iso": "SN", 
+        "sw_latitude": 14.51, 
+        "adjacent": [
+          "woe:state=2346994", 
+          "woe:state=2346993", 
+          "woe:state=2346992"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.027, 
         "sw_longitude": -16.702, 
         "fullname": "Diourbel, Senegal", 
-        "sw_latitude": 14.510
+        "date_indexed": "2010-12-02T08:57:18Z"
       }, 
       "id": 2346989
     }
+  ], 
+  "bbox": [
+    -16.702, 
+    14.51, 
+    -15.677, 
+    15.027
   ]
 }

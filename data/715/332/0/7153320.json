@@ -31,12 +31,40 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FRE", 
-        "woeid": 7153320, 
+        "hierarchy": [
+          "woe:state=7153320", 
+          "woe:country=23424819", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 44.976, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ub791\uadf8\ub3c4\ud06c\ub8e8\uc2dc\uc6a9"
+        ], 
+        "alias_CHI_Q": [
+          "\u6717\u683c\u591a\u514b-\u9c81\u897f\u6c38"
+        ], 
         "alias_ITA_Q": [
           "Linguadoca-Rossiglione"
         ], 
-        "name": "Languedoc-Roussillon", 
+        "woeid": 7153320, 
+        "alias_JPN_Q": [
+          "\u30e9\u30f3\u30b0\u30c9\u30c3\u30af\u30eb\u30b7\u30e8\u30f3\u5730\u57df\u570f"
+        ], 
+        "sw_longitude": 1.688, 
+        "adjacent": [
+          "woe:state=7153310", 
+          "woe:state=20070557", 
+          "woe:state=12578034", 
+          "woe:state=20070558", 
+          "woe:state=7153323", 
+          "woe:state=7153328", 
+          "woe:state=7153329"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.654, 
+        "sw_latitude": 42.332, 
+        "lang": "FRE", 
         "adjacent_woeid": [
           7153310, 
           7153323, 
@@ -46,32 +74,23 @@
           20070557, 
           20070558
         ], 
-        "ne_latitude": 44.976, 
-        "alias_JPN_Q": [
-          "\u30e9\u30f3\u30b0\u30c9\u30c3\u30af\u30eb\u30b7\u30e8\u30f3\u5730\u57df\u570f"
-        ], 
+        "name": "Languedoc-Roussillon", 
         "ne_longitude": 4.845, 
         "longitude": 3.267, 
-        "parent_woeid": 23424819, 
-        "placetype": "State", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:51:35Z", 
         "alias_FRE_V": [
           "Languedocroussillon"
         ], 
-        "iso": "FR", 
-        "date_indexed": "2010-12-02T11:51:35Z", 
-        "alias_KOR_Q": [
-          "\ub791\uadf8\ub3c4\ud06c\ub8e8\uc2dc\uc6a9"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 43.654, 
-        "sw_longitude": 1.688, 
-        "fullname": "Languedoc-Roussillon, France", 
-        "alias_CHI_Q": [
-          "\u6717\u683c\u591a\u514b-\u9c81\u897f\u6c38"
-        ], 
-        "sw_latitude": 42.332
+        "fullname": "Languedoc-Roussillon, France"
       }, 
       "id": 7153320
     }
+  ], 
+  "bbox": [
+    1.688, 
+    42.332, 
+    4.845, 
+    44.976
   ]
 }

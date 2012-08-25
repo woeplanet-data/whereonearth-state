@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070085, 
-        "name": "Da Nang", 
         "adjacent_woeid": [
           2347711, 
           2347749
         ], 
-        "ne_latitude": 16.223, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Da Nang", 
         "alias_ENG_V": [
           "Danang"
         ], 
+        "hierarchy": [
+          "woe:state=20070085", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070085, 
         "ne_longitude": 108.336, 
         "longitude": 108.071, 
-        "placetype": "State", 
-        "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "placetype": "state", 
         "latitude": 16.027, 
+        "iso": "VN", 
+        "sw_latitude": 15.845, 
+        "adjacent": [
+          "woe:state=2347711", 
+          "woe:state=2347749"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.223, 
         "sw_longitude": 107.807, 
         "fullname": "Da Nang, Vietnam", 
-        "sw_latitude": 15.845
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 20070085
     }
+  ], 
+  "bbox": [
+    107.807, 
+    15.845, 
+    108.336, 
+    16.223
   ]
 }

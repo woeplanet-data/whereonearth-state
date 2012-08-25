@@ -12,10 +12,20 @@
           56013481
         ], 
         "name": "Barh el Ghazel", 
-        "parent_woeid": 23424777, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56190455", 
+          "woe:country=23424777", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "TD", 
+        "adjacent": [
+          "woe:state=2344945", 
+          "woe:state=56190451", 
+          "woe:state=56013481", 
+          "woe:state=2344950"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56190455, 
         "date_indexed": "2010-12-02T08:53:18Z"
       }, 

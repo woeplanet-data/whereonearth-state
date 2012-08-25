@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347032, 
-        "name": "Vieux Fort", 
         "adjacent_woeid": [
           2347026, 
           2347029, 
           2347030, 
           2347031
         ], 
-        "ne_latitude": 13.843, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Vieux Fort", 
+        "hierarchy": [
+          "woe:state=2347032", 
+          "woe:country=23424951", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347032, 
         "ne_longitude": -60.916, 
         "longitude": -60.961, 
-        "placetype": "State", 
-        "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424951, 
+        "placetype": "state", 
         "latitude": 13.774, 
+        "iso": "LC", 
+        "sw_latitude": 13.705, 
+        "adjacent": [
+          "woe:state=2347026", 
+          "woe:state=2347029", 
+          "woe:state=2347030", 
+          "woe:state=2347031"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.843, 
         "sw_longitude": -61.001, 
         "fullname": "Vieux Fort, St. Lucia", 
-        "sw_latitude": 13.705
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347032
     }
+  ], 
+  "bbox": [
+    -61.001, 
+    13.705, 
+    -60.916, 
+    13.843
   ]
 }

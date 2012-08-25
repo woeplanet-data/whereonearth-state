@@ -395,11 +395,16 @@
         "alias_SWE_Q": [
           "Havanna"
         ], 
+        "hierarchy": [
+          "woe:state=2345107", 
+          "woe:country=23424793", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 23.19432099042143, 
         "ne:Shape_Area": 0.0618482641238, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "19760605", 
         "alias_KOR_Q": [
           "\uc2dc\uc6b0\ub2e4\ub4dc\ub370\ub77c\uc544\ubc14\ub098"
         ], 
@@ -409,7 +414,7 @@
         "alias_SPA_A": [
           "CH"
         ], 
-        "ne:OBJECTID": 1428, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30cf\u30d0\u30ca"
         ], 
@@ -419,6 +424,9 @@
           "Havanna"
         ], 
         "sw_longitude": -82.53872901033554, 
+        "adjacent": [
+          "woe:state=2345115"
+        ], 
         "alias_SPA_V": [
           "Ciudaddelahabana"
         ], 
@@ -433,8 +441,8 @@
         "alias_CHI_Q": [
           "\u54c8\u74e6\u90a3\u57ce"
         ], 
-        "ne:VALIDFR_1": "19760605", 
-        "ne:DataRank": 6, 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1428, 
         "ne:Postal": "CH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -450,15 +458,14 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 701.8, 
         "woe:id": "2345107", 
-        "ne:HASC_1": "CU.CH", 
+        "name": "Ciudad de la Habana", 
         "lang": "SPA", 
         "adjacent_woeid": [
           2345115
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Ciudad de la Habana", 
+        "ne:HASC_1": "CU.CH", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424793, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -82.306, 
         "ne:VertexCou": 94.0, 

@@ -8,23 +8,23 @@
           [
             [
               44.874, 
-              8.000
+              8.0
             ], 
             [
               44.874, 
               10.132
             ], 
             [
-              47.300, 
+              47.3, 
               10.132
             ], 
             [
-              47.300, 
-              8.000
+              47.3, 
+              8.0
             ], 
             [
               44.874, 
-              8.000
+              8.0
             ]
           ]
         ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347020, 
-        "name": "Togdheer", 
         "adjacent_woeid": [
           2347016, 
           2347017, 
           2347021, 
           56013540
         ], 
-        "ne_latitude": 10.132, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 47.300, 
+        "name": "Togdheer", 
+        "hierarchy": [
+          "woe:state=2347020", 
+          "woe:country=23424949", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347020, 
+        "ne_longitude": 47.3, 
         "longitude": 46.087, 
-        "placetype": "State", 
-        "iso": "SO", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
-        "parent_woeid": 23424949, 
+        "placetype": "state", 
         "latitude": 9.066, 
+        "iso": "SO", 
+        "sw_latitude": 8.0, 
+        "adjacent": [
+          "woe:state=2347016", 
+          "woe:state=2347017", 
+          "woe:state=56013540", 
+          "woe:state=2347021"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 10.132, 
         "sw_longitude": 44.874, 
         "fullname": "Togdheer, Somalia", 
-        "sw_latitude": 8.000
+        "date_indexed": "2010-12-02T08:51:00Z"
       }, 
       "id": 2347020
     }
+  ], 
+  "bbox": [
+    44.874, 
+    8.0, 
+    47.3, 
+    10.132
   ]
 }

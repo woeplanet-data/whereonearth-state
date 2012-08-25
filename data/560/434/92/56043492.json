@@ -32,19 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 56043492, 
-        "name": "Malta Xlokk", 
         "adjacent_woeid": [
           56043491
         ], 
-        "ne_latitude": 35.904, 
+        "name": "Malta Xlokk", 
+        "hierarchy": [
+          "woe:state=56043492", 
+          "woe:country=23424897", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56043492, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.577, 
         "longitude": 14.503, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MT", 
         "date_indexed": "2010-12-02T07:50:17Z", 
-        "parent_woeid": 23424897, 
+        "adjacent": [
+          "woe:state=56043491"
+        ], 
+        "ne_latitude": 35.904, 
         "latitude": 35.855, 
         "sw_longitude": 14.406, 
         "fullname": "Malta Xlokk, Malta", 
@@ -52,5 +59,11 @@
       }, 
       "id": 56043492
     }
+  ], 
+  "bbox": [
+    14.406, 
+    35.786, 
+    14.577, 
+    35.904
   ]
 }

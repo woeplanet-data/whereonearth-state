@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              38.150, 
+              38.15, 
               49.557
             ], 
             [
-              38.150, 
+              38.15, 
               52.105
             ], 
             [
@@ -23,7 +23,7 @@
               49.557
             ], 
             [
-              38.150, 
+              38.15, 
               49.557
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346935, 
-        "name": "Voronezhskaya Oblast", 
         "adjacent_woeid": [
           2346891, 
           2346905, 
@@ -44,20 +42,42 @@
           2346933, 
           2347546
         ], 
-        "ne_latitude": 52.105, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Voronezhskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346935", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346935, 
         "ne_longitude": 43.053, 
         "longitude": 40.602, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 50.832, 
-        "sw_longitude": 38.150, 
+        "iso": "RU", 
+        "sw_latitude": 49.557, 
+        "adjacent": [
+          "woe:state=2346891", 
+          "woe:state=2346905", 
+          "woe:state=2346908", 
+          "woe:state=2347546", 
+          "woe:state=2346921", 
+          "woe:state=2346924", 
+          "woe:state=2346927", 
+          "woe:state=2346933"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 52.105, 
+        "sw_longitude": 38.15, 
         "fullname": "Voronezhskaya Oblast, Russia", 
-        "sw_latitude": 49.557
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346935
     }
+  ], 
+  "bbox": [
+    38.15, 
+    49.557, 
+    43.053, 
+    52.105
   ]
 }

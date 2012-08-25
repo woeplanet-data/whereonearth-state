@@ -12,11 +12,11 @@
             ], 
             [
               15.768, 
-              45.670
+              45.67
             ], 
             [
               17.195, 
-              45.670
+              45.67
             ], 
             [
               17.195, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 12577984, 
-        "name": "Sisa\u010dko-moslava\u010dka", 
         "adjacent_woeid": [
           12577972, 
           12577975, 
@@ -43,26 +41,47 @@
           24549661, 
           24549662
         ], 
-        "alias_UNK_S": [
-          "Sisacko-moslavacka"
-        ], 
-        "ne_latitude": 45.670, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sisa\u010dko-moslava\u010dka", 
         "alias_ENG_V": [
           "Sisak-Moslavina"
         ], 
+        "alias_UNK_S": [
+          "Sisacko-moslavacka"
+        ], 
+        "woeid": 12577984, 
         "ne_longitude": 17.195, 
         "longitude": 16.481, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=12577984", 
+          "woe:country=23424843", 
+          "woe:planet=1"
+        ], 
         "iso": "HR", 
-        "date_indexed": "2010-12-02T17:06:25Z", 
-        "parent_woeid": 23424843, 
-        "latitude": 45.333, 
+        "sw_latitude": 44.996, 
+        "adjacent": [
+          "woe:state=12577991", 
+          "woe:state=12577972", 
+          "woe:state=24549661", 
+          "woe:state=12577975", 
+          "woe:state=12577981", 
+          "woe:state=24549662", 
+          "woe:state=12577990"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 45.67, 
         "sw_longitude": 15.768, 
+        "latitude": 45.333, 
         "fullname": "Sisa\u010dko-moslava\u010dka, Croatia", 
-        "sw_latitude": 44.996
+        "date_indexed": "2010-12-02T17:06:25Z"
       }, 
       "id": 12577984
     }
+  ], 
+  "bbox": [
+    15.768, 
+    44.996, 
+    17.195, 
+    45.67
   ]
 }

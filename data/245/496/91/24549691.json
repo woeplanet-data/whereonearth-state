@@ -32,28 +32,41 @@
       "type": "Feature", 
       "properties": {
         "lang": "DAN", 
-        "woeid": 24549691, 
+        "adjacent_woeid": [
+          24549693
+        ], 
         "name": "Sy\u00f0ra Eysturoy", 
         "alias_DAN_S": [
           "Sydra Eysturoy"
         ], 
-        "adjacent_woeid": [
-          24549693
+        "hierarchy": [
+          "woe:state=24549691", 
+          "woe:country=23424816", 
+          "woe:planet=1"
         ], 
-        "ne_latitude": 62.275, 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 24549691, 
         "ne_longitude": -6.589, 
         "longitude": -6.723, 
-        "placetype": "State", 
-        "iso": "FO", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "parent_woeid": 23424816, 
+        "placetype": "state", 
         "latitude": 62.168, 
         "sw_longitude": -6.961, 
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "adjacent": [
+          "woe:state=24549693"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 62.275, 
+        "iso": "FO", 
         "fullname": "Sy\u00f0ra Eysturoy, Faroe Islands", 
         "sw_latitude": 62.061
       }, 
       "id": 24549691
     }
+  ], 
+  "bbox": [
+    -6.961, 
+    62.061, 
+    -6.589, 
+    62.275
   ]
 }

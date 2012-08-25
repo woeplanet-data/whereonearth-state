@@ -15,11 +15,11 @@
               56.692
             ], 
             [
-              23.800, 
+              23.8, 
               56.692
             ], 
             [
-              23.800, 
+              23.8, 
               56.597
             ], 
             [
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070120, 
-        "name": "Jelgava", 
         "adjacent_woeid": [
           55844264, 
           56190591
         ], 
-        "ne_latitude": 56.692, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 23.800, 
+        "name": "Jelgava", 
+        "hierarchy": [
+          "woe:state=20070120", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070120, 
+        "ne_longitude": 23.8, 
         "longitude": 23.712, 
-        "placetype": "State", 
-        "iso": "LV", 
-        "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
+        "placetype": "state", 
         "latitude": 56.644, 
+        "iso": "LV", 
+        "sw_latitude": 56.597, 
+        "adjacent": [
+          "woe:state=56190591", 
+          "woe:state=55844264"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 56.692, 
         "sw_longitude": 23.623, 
         "fullname": "Jelgava, Latvia", 
-        "sw_latitude": 56.597
+        "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 20070120
     }
+  ], 
+  "bbox": [
+    23.623, 
+    56.597, 
+    23.8, 
+    56.692
   ]
 }

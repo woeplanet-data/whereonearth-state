@@ -32,40 +32,56 @@
       "type": "Feature", 
       "properties": {
         "lang": "FIN", 
-        "woeid": 29389263, 
-        "alias_SWE_V": [
-          "Lappland"
-        ], 
-        "name": "Lapin maakunta", 
-        "alias_ENG_P": [
-          "Lapland"
-        ], 
-        "ne_latitude": 70.092, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 30.018, 
-        "longitude": 25.283, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2346388, 
           2346401, 
           2347057, 
           29389265
         ], 
-        "iso": "FI", 
+        "alias_SWE_V": [
+          "Lappland"
+        ], 
+        "alias_SWE_Q": [
+          "Lapplands landskap"
+        ], 
+        "alias_ENG_P": [
+          "Lapland"
+        ], 
+        "hierarchy": [
+          "woe:state=29389263", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 70.092, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 30.018, 
+        "longitude": 25.283, 
+        "placetype": "state", 
+        "sw_longitude": 20.549, 
         "date_indexed": "2010-12-02T16:39:41Z", 
         "alias_FIN_V": [
           "Lapin maakuntana"
         ], 
-        "parent_woeid": 23424812, 
-        "latitude": 67.840, 
-        "sw_longitude": 20.549, 
+        "woeid": 29389263, 
+        "latitude": 67.84, 
+        "iso": "FI", 
         "fullname": "Lapin maakunta, Lapland, Lapland, Finland", 
+        "adjacent": [
+          "woe:state=2346388", 
+          "woe:state=2347057", 
+          "woe:state=29389265", 
+          "woe:state=2346401"
+        ], 
         "sw_latitude": 65.578, 
-        "alias_SWE_Q": [
-          "Lapplands landskap"
-        ]
+        "name": "Lapin maakunta"
       }, 
       "id": 29389263
     }
+  ], 
+  "bbox": [
+    20.549, 
+    65.578, 
+    30.018, 
+    70.092
   ]
 }

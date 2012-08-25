@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              104.070, 
+              104.07, 
               16.186
             ], 
             [
-              104.070, 
+              104.07, 
               16.921
             ], 
             [
@@ -23,7 +23,7 @@
               16.186
             ], 
             [
-              104.070, 
+              104.07, 
               16.186
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347197, 
-        "name": "Mukdahan", 
         "adjacent_woeid": [
           2346008, 
           2347146, 
@@ -43,23 +41,44 @@
           2347196, 
           2347201
         ], 
-        "ne_latitude": 16.921, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mukdahan", 
         "alias_ENG_V": [
           "Changwat Mukdahan"
         ], 
+        "hierarchy": [
+          "woe:state=2347197", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347197, 
         "ne_longitude": 104.979, 
         "longitude": 104.524, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 16.553, 
-        "sw_longitude": 104.070, 
+        "iso": "TH", 
+        "sw_latitude": 16.186, 
+        "adjacent": [
+          "woe:state=2347201", 
+          "woe:state=2347148", 
+          "woe:state=2347196", 
+          "woe:state=2347150", 
+          "woe:state=2347146", 
+          "woe:state=2346008", 
+          "woe:state=2347195"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.921, 
+        "sw_longitude": 104.07, 
         "fullname": "Mukdahan, Thailand", 
-        "sw_latitude": 16.186
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347197
     }
+  ], 
+  "bbox": [
+    104.07, 
+    16.186, 
+    104.979, 
+    16.921
   ]
 }

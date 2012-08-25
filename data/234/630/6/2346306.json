@@ -2151,11 +2151,16 @@
       "properties": {
         "ne:ProvNumber": 4, 
         "ne:ScaleRank": 6, 
+        "hierarchy": [
+          "woe:state=2346306", 
+          "woe:country=23424901", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 3.861676743986607, 
         "ne:Shape_Area": 0.62862498652, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 6, 
+        "ne:VALIDFR_1": "19740201", 
         "alias_KOR_Q": [
           "\uc140\ub791\uace0\ub974"
         ], 
@@ -2164,13 +2169,20 @@
         "alias_CHI_Q": [
           "\u9a6c\u6765\u897f\u4e9a"
         ], 
-        "ne:OBJECTID": 1148, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30bb\u30e9\u30f3\u30b4\u30fc\u30eb\u5dde"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 100.81248253793882, 
+        "adjacent": [
+          "woe:state=56014685", 
+          "woe:state=2346300", 
+          "woe:state=2346301", 
+          "woe:state=2346302", 
+          "woe:state=28350159"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 3.232, 
         "ne:FIPS_1": "MY12", 
@@ -2178,9 +2190,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 2.595965888015371, 
-        "ne:VertexCou": 526.0, 
-        "ne:VALIDFR_1": "19740201", 
-        "ne:DataRank": 6, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 6, 
+        "ne:OBJECTID": 1148, 
         "ne:Postal": "SL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Selangor Darul Ehsan", 
@@ -2196,8 +2208,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 7725.3, 
         "woe:id": "2346306", 
-        "ne:HASC_1": "MY.SL", 
-        "lang": "UNK", 
+        "name": "Selangor", 
+        "ne:VertexCou": 526.0, 
         "adjacent_woeid": [
           2346300, 
           2346301, 
@@ -2205,9 +2217,8 @@
           28350159, 
           56014685
         ], 
-        "name": "Selangor", 
+        "ne:HASC_1": "MY.SL", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424901, 
         "ne_longitude": 101.96450524312252, 
         "longitude": 101.378, 
         "iso": "MY", 

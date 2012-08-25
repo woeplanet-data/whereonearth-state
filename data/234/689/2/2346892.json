@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346892, 
-        "name": "Bryanskaya Oblast", 
         "adjacent_woeid": [
           2344831, 
           2344833, 
@@ -44,20 +42,42 @@
           2347535, 
           2347552
         ], 
-        "ne_latitude": 54.035, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bryanskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346892", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346892, 
         "ne_longitude": 35.338, 
         "longitude": 33.296, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 52.944, 
+        "iso": "RU", 
+        "sw_latitude": 51.863, 
+        "adjacent": [
+          "woe:state=2347535", 
+          "woe:state=2344831", 
+          "woe:state=2346899", 
+          "woe:state=2346905", 
+          "woe:state=2344833", 
+          "woe:state=2346917", 
+          "woe:state=2346925", 
+          "woe:state=2347552"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 54.035, 
         "sw_longitude": 31.244, 
         "fullname": "Bryanskaya Oblast, Russia", 
-        "sw_latitude": 51.863
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346892
     }
+  ], 
+  "bbox": [
+    31.244, 
+    51.863, 
+    35.338, 
+    54.035
   ]
 }

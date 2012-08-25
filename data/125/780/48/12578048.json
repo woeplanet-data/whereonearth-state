@@ -2753,11 +2753,16 @@
         "alias_SWE_Q": [
           "Skottland"
         ], 
+        "hierarchy": [
+          "woe:state=12578048", 
+          "woe:country=23424975", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 58.51198436118938, 
         "ne:Shape_Area": 0.438330805396, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19960401", 
+        "ne:MAP_COLOR": 3, 
         "alias_POR_Q": [
           "Esc\u00f3cia"
         ], 
@@ -2773,14 +2778,14 @@
         "alias_CHI_Q": [
           "\u82cf\u683c\u5170"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Scotlanda"
+        ], 
         "alias_ITA_Q": [
           "Scozia"
         ], 
-        "alias_DAN_Q": [
-          "Skotland"
-        ], 
-        "ne:DataRank": 5, 
+        "ne:Area_sqkm": 2891.2, 
+        "ne:OBJECTID": 2772, 
         "alias_CHI_V": [
           "\u8607\u683c\u862d"
         ], 
@@ -2789,9 +2794,7 @@
         ], 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Scotlanda"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Skotlanti"
         ], 
@@ -2808,14 +2811,17 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Island Area", 
         "date_indexed": "2010-12-02T12:16:52Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 2772, 
+        "ne:VertexCou": 670.0, 
+        "ne:VALIDFR_1": "19960401", 
+        "adjacent": [
+          "woe:state=24554868"
+        ], 
+        "ne:DataRank": 5, 
         "ne:Postal": "WI", 
         "ne:Region_Cod": "GBR-SCT", 
         "ne:VARNAME_1": "Western Isles", 
         "ne:ISO": "GBR", 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Island Area", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 12.806772682, 
         "alias_DUT_Q": [
@@ -2824,34 +2830,35 @@
         "ne:NAME_0": "United Kingdom", 
         "ne:NAME_1": "Eilean Siar", 
         "ne:Region_C_1": "Scotland", 
-        "ne:TYPE_1": "Island Area", 
+        "ne:Region_C_3": null, 
         "ne:LabelRank": 9, 
-        "ne:Area_sqkm": 2891.2, 
+        "alias_DAN_Q": [
+          "Skotland"
+        ], 
         "alias_GER_Q": [
           "Schottland"
         ], 
         "woe:id": "12578048", 
-        "name": "Scotland", 
-        "ne:VertexCou": 670.0, 
+        "ne:HASC_1": "GB.WI", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           24554868
         ], 
         "ne:FIRST_FIPS": "UKW8", 
-        "ne:HASC_1": "GB.WI", 
+        "name": "Scotland", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
-        "parent_woeid": 23424975, 
         "ne_longitude": -6.150730149876495, 
         "longitude": -3.997, 
-        "alias_FRE_S": [
-          "Ecosse"
-        ], 
+        "ne:NEV_Countr": "United Kingdom", 
         "iso": "GB", 
         "sw_latitude": 56.941847642554706, 
         "ne:NL_NAME_1": null, 
         "fullname": "Scotland, United Kingdom", 
         "ne:Region": "Scotland", 
-        "ne:NEV_Countr": "United Kingdom", 
+        "alias_FRE_S": [
+          "Ecosse"
+        ], 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "\u00c9cosse"

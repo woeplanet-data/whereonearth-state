@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              25.130, 
+              25.13, 
               56.587
             ], 
             [
-              25.130, 
+              25.13, 
               56.712
             ], 
             [
@@ -23,7 +23,7 @@
               56.587
             ], 
             [
-              25.130, 
+              25.13, 
               56.587
             ]
           ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55844325, 
-        "name": "Aizkraukles Novads", 
         "adjacent_woeid": [
           56190592, 
           56190513, 
           55844512, 
           56190566
         ], 
-        "ne_latitude": 56.712, 
+        "name": "Aizkraukles Novads", 
+        "hierarchy": [
+          "woe:state=55844325", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55844325, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 25.313, 
         "longitude": 25.222, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "LV", 
         "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
-        "latitude": 56.650, 
-        "sw_longitude": 25.130, 
+        "adjacent": [
+          "woe:state=56190592", 
+          "woe:state=56190513", 
+          "woe:state=55844512", 
+          "woe:state=56190566"
+        ], 
+        "ne_latitude": 56.712, 
+        "latitude": 56.65, 
+        "sw_longitude": 25.13, 
         "fullname": "Aizkraukles Novads, Aizjrayjkes Rajons, Aizkraukle Novads, Latvia", 
         "sw_latitude": 56.587
       }, 
       "id": 55844325
     }
+  ], 
+  "bbox": [
+    25.13, 
+    56.587, 
+    25.313, 
+    56.712
   ]
 }

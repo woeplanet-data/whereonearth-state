@@ -833,11 +833,16 @@
       "properties": {
         "ne:ProvNumber": 2, 
         "ne:ScaleRank": 4, 
+        "hierarchy": [
+          "woe:state=2346330", 
+          "woe:country=23424906", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 17.500379136388062, 
         "ne:Shape_Area": 12.2805385131, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 13, 
+        "ne:VALIDFR_1": "19640717", 
         "alias_KOR_Q": [
           "\uc9c4\ub370\ub974"
         ], 
@@ -846,13 +851,21 @@
         "alias_CHI_Q": [
           "\u6d25\u5fb7\u5c14"
         ], 
-        "ne:OBJECTID": 92, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30b8\u30f3\u30c7\u30eb"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 7.324493849711416, 
+        "adjacent": [
+          "woe:state=2346324", 
+          "woe:state=2346325", 
+          "woe:state=2346367", 
+          "woe:state=2346352", 
+          "woe:state=2346327", 
+          "woe:state=2346372"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 15.14, 
         "ne:FIPS_1": "NG07", 
@@ -860,9 +873,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Department", 
         "sw_latitude": 12.801647854464989, 
-        "ne:VertexCou": 197.0, 
-        "ne:VALIDFR_1": "19640717", 
-        "ne:DataRank": 6, 
+        "lang": "FRE", 
+        "ne:MAP_COLOR": 13, 
+        "ne:OBJECTID": 92, 
         "ne:Postal": "ZI", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -878,8 +891,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 146116.9, 
         "woe:id": "2346330", 
-        "ne:HASC_1": "NE.ZI", 
-        "lang": "FRE", 
+        "name": "Zinder", 
+        "ne:VertexCou": 197.0, 
         "adjacent_woeid": [
           2346324, 
           2346325, 
@@ -888,9 +901,8 @@
           2346367, 
           2346372
         ], 
-        "name": "Zinder", 
+        "ne:HASC_1": "NE.ZI", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424906, 
         "ne_longitude": 12.000125766990607, 
         "longitude": 9.622, 
         "iso": "NE", 

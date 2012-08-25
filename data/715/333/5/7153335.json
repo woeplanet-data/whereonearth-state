@@ -1497,33 +1497,47 @@
       "properties": {
         "ne:ProvNumber": 20, 
         "ne:ScaleRank": 3, 
+        "hierarchy": [
+          "woe:state=7153335", 
+          "woe:country=23424853", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.641365261397766, 
         "ne:Shape_Area": 0.855018992803, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:Region_C_3": null, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ITA", 
         "alias_ITA_V": [
           "Friuli-Venezia Giulia Regione"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
+        "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
           "FV"
         ], 
         "sw_longitude": 12.33591922359335, 
+        "adjacent": [
+          "woe:state=55848354", 
+          "woe:state=55848357", 
+          "woe:state=2344709", 
+          "woe:state=55848371", 
+          "woe:state=55848385", 
+          "woe:state=55848391", 
+          "woe:state=7153349"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.114, 
-        "iso": "IT", 
         "ne:FIPS_1": "IT06", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Region", 
         "sw_latitude": 45.58166250222274, 
-        "ne:VertexCou": 344.0, 
-        "ne:VALIDFR_1": "1895", 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -1536,15 +1550,15 @@
         "ne:NAME_0": "Italy", 
         "ne:NAME_1": "Friuli-Venezia Giulia", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 7340.6, 
         "alias_GER_Q": [
           "Friaul-Julisch-Venetien"
         ], 
         "woe:id": "7153335", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Friuli-Venezia Giulia", 
+        "ne:VertexCou": 344.0, 
         "adjacent_woeid": [
           2344709, 
           7153349, 
@@ -1554,20 +1568,19 @@
           55848385, 
           55848391
         ], 
-        "name": "Friuli-Venezia Giulia", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITD", 
-        "parent_woeid": 23424853, 
         "ne_longitude": 13.894325392303074, 
         "longitude": 13.12, 
-        "ne:NEV_Countr": "Italy", 
-        "ne:OBJECTID": 1036, 
-        "date_indexed": "2010-12-02T16:24:07Z", 
-        "ne:NL_NAME_1": null, 
-        "fullname": "Friuli-Venezia Giulia, Italy", 
-        "ne:Region": null, 
         "alias_FRE_S": [
           "Frioul-Venetie Julienne"
         ], 
+        "iso": "IT", 
+        "ne:OBJECTID": 1036, 
+        "ne:NL_NAME_1": null, 
+        "fullname": "Friuli-Venezia Giulia, Italy", 
+        "ne:Region": null, 
+        "ne:NEV_Countr": "Italy", 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Frioul-V\u00e9n\u00e9tie Julienne"

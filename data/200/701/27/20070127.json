@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070127, 
-        "name": "Mzimba", 
         "adjacent_woeid": [
           20070126, 
           20070128, 
           20070129, 
           20070147
         ], 
-        "ne_latitude": -10.959, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mzimba", 
+        "hierarchy": [
+          "woe:state=20070127", 
+          "woe:country=23424889", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070127, 
         "ne_longitude": 34.097, 
         "longitude": 33.661, 
-        "placetype": "State", 
-        "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
-        "parent_woeid": 23424889, 
+        "placetype": "state", 
         "latitude": -11.848, 
+        "iso": "MW", 
+        "sw_latitude": -12.738, 
+        "adjacent": [
+          "woe:state=20070128", 
+          "woe:state=20070147", 
+          "woe:state=20070129", 
+          "woe:state=20070126"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -10.959, 
         "sw_longitude": 33.224, 
         "fullname": "Mzimba, Malawi", 
-        "sw_latitude": -12.738
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 20070127
     }
+  ], 
+  "bbox": [
+    33.224, 
+    -12.738, 
+    34.097, 
+    -10.959
   ]
 }

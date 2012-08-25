@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345781, 
-        "name": "Bushehr", 
         "adjacent_woeid": [
           2345771, 
           2345772, 
           2345776, 
           2345778
         ], 
-        "ne_latitude": 30.342, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bushehr", 
+        "hierarchy": [
+          "woe:state=2345781", 
+          "woe:country=23424851", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345781, 
         "ne_longitude": 52.952, 
         "longitude": 51.527, 
-        "placetype": "State", 
-        "iso": "IR", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424851, 
+        "placetype": "state", 
         "latitude": 28.838, 
+        "iso": "IR", 
+        "sw_latitude": 27.334, 
+        "adjacent": [
+          "woe:state=2345772", 
+          "woe:state=2345776", 
+          "woe:state=2345778", 
+          "woe:state=2345771"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 30.342, 
         "sw_longitude": 50.102, 
         "fullname": "Bushehr, Iran", 
-        "sw_latitude": 27.334
+        "date_indexed": "2010-12-02T08:53:34Z"
       }, 
       "id": 2345781
     }
+  ], 
+  "bbox": [
+    50.102, 
+    27.334, 
+    52.952, 
+    30.342
   ]
 }

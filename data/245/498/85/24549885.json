@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              55.440, 
+              55.44, 
               -4.628
             ], 
             [
-              55.440, 
+              55.44, 
               -4.604
             ], 
             [
-              55.460, 
+              55.46, 
               -4.604
             ], 
             [
-              55.460, 
+              55.46, 
               -4.628
             ], 
             [
-              55.440, 
+              55.44, 
               -4.628
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549885, 
-        "name": "English River", 
         "adjacent_woeid": [
           24549882, 
           24549883, 
@@ -41,20 +39,39 @@
           24549886, 
           24549887
         ], 
-        "ne_latitude": -4.604, 
+        "name": "English River", 
+        "hierarchy": [
+          "woe:state=24549885", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549885, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 55.460, 
-        "longitude": 55.450, 
-        "placetype": "State", 
+        "ne_longitude": 55.46, 
+        "longitude": 55.45, 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549884", 
+          "woe:state=24549883", 
+          "woe:state=24549887", 
+          "woe:state=24549882", 
+          "woe:state=24549886"
+        ], 
+        "ne_latitude": -4.604, 
         "latitude": -4.616, 
-        "sw_longitude": 55.440, 
+        "sw_longitude": 55.44, 
         "fullname": "English River, Seychelles", 
         "sw_latitude": -4.628
       }, 
       "id": 24549885
     }
+  ], 
+  "bbox": [
+    55.44, 
+    -4.628, 
+    55.46, 
+    -4.604
   ]
 }

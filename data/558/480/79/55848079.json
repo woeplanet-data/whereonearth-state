@@ -32,7 +32,12 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848079, 
+        "adjacent_woeid": [
+          55848080, 
+          55848084, 
+          55848086, 
+          55848087
+        ], 
         "name": "Siauli\u00f9 Apskritis", 
         "alias_ENG_P": [
           "Siauliai County"
@@ -40,26 +45,37 @@
         "alias_UNK_S": [
           "Siauliu Apskritis"
         ], 
-        "ne_latitude": 56.415, 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 55848079, 
         "ne_longitude": 24.182, 
         "longitude": 23.324, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          55848080, 
-          55848084, 
-          55848086, 
-          55848087
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=55848079", 
+          "woe:country=23424875", 
+          "woe:planet=1"
         ], 
         "iso": "LT", 
         "date_indexed": "2010-12-02T09:35:48Z", 
-        "parent_woeid": 23424875, 
-        "latitude": 55.939, 
+        "adjacent": [
+          "woe:state=55848084", 
+          "woe:state=55848086", 
+          "woe:state=55848087", 
+          "woe:state=55848080"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 56.415, 
         "sw_longitude": 22.466, 
+        "latitude": 55.939, 
         "fullname": "Siauli\u00f9 Apskritis, Siauliai County, Lithuania", 
         "sw_latitude": 55.463
       }, 
       "id": 55848079
     }
+  ], 
+  "bbox": [
+    22.466, 
+    55.463, 
+    24.182, 
+    56.415
   ]
 }

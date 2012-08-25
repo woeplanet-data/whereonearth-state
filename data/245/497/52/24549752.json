@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549752, 
-        "name": "Dembeni", 
         "adjacent_woeid": [
           24549756, 
           24549757, 
           24549759, 
           24549763
         ], 
-        "ne_latitude": -12.782, 
+        "name": "Dembeni", 
+        "hierarchy": [
+          "woe:state=24549752", 
+          "woe:country=23424886", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549752, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.251, 
         "longitude": 45.188, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "YT", 
         "date_indexed": "2010-12-02T16:11:57Z", 
-        "parent_woeid": 23424886, 
+        "adjacent": [
+          "woe:state=24549756", 
+          "woe:state=24549757", 
+          "woe:state=24549763", 
+          "woe:state=24549759"
+        ], 
+        "ne_latitude": -12.782, 
         "latitude": -12.829, 
         "sw_longitude": 45.155, 
         "fullname": "Dembeni, Mayotte", 
@@ -55,5 +65,11 @@
       }, 
       "id": 24549752
     }
+  ], 
+  "bbox": [
+    45.155, 
+    -12.876, 
+    45.251, 
+    -12.782
   ]
 }

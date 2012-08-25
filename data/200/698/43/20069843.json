@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20069843, 
-        "name": "Oshana", 
         "adjacent_woeid": [
           20069839, 
           20069840, 
           20069841, 
           20069842
         ], 
-        "ne_latitude": -17.673, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Oshana", 
+        "hierarchy": [
+          "woe:state=20069843", 
+          "woe:country=23424987", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069843, 
         "ne_longitude": 16.038, 
         "longitude": 15.658, 
-        "placetype": "State", 
-        "iso": "NA", 
-        "date_indexed": "2010-12-02T07:50:17Z", 
-        "parent_woeid": 23424987, 
+        "placetype": "state", 
         "latitude": -18.502, 
+        "iso": "NA", 
+        "sw_latitude": -19.331, 
+        "adjacent": [
+          "woe:state=20069839", 
+          "woe:state=20069840", 
+          "woe:state=20069842", 
+          "woe:state=20069841"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -17.673, 
         "sw_longitude": 15.278, 
         "fullname": "Oshana, Namibia", 
-        "sw_latitude": -19.331
+        "date_indexed": "2010-12-02T07:50:17Z"
       }, 
       "id": 20069843
     }
+  ], 
+  "bbox": [
+    15.278, 
+    -19.331, 
+    16.038, 
+    -17.673
   ]
 }

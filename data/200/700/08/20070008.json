@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070008, 
-        "name": "Doha", 
         "adjacent_woeid": [
           20070007, 
           20070010, 
           20070012
         ], 
-        "ne_latitude": 25.421, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Doha", 
         "alias_ENG_V": [
           "Ad Dawhah"
         ], 
+        "hierarchy": [
+          "woe:state=20070008", 
+          "woe:country=23424930", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070008, 
         "ne_longitude": 51.647, 
         "longitude": 51.537, 
-        "placetype": "State", 
-        "iso": "QA", 
-        "date_indexed": "2010-12-02T12:16:10Z", 
-        "parent_woeid": 23424930, 
+        "placetype": "state", 
         "latitude": 25.323, 
+        "iso": "QA", 
+        "sw_latitude": 25.225, 
+        "adjacent": [
+          "woe:state=20070010", 
+          "woe:state=20070012", 
+          "woe:state=20070007"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 25.421, 
         "sw_longitude": 51.448, 
         "fullname": "Doha, Qatar", 
-        "sw_latitude": 25.225
+        "date_indexed": "2010-12-02T12:16:10Z"
       }, 
       "id": 20070008
     }
+  ], 
+  "bbox": [
+    51.448, 
+    25.225, 
+    51.647, 
+    25.421
   ]
 }

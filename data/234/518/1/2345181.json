@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 19.317, 
-        "name": "Elias Pi\u00f1a", 
         "adjacent_woeid": [
           2345173, 
           2345175, 
@@ -44,26 +42,48 @@
           2345619, 
           2345620
         ], 
+        "name": "Elias Pi\u00f1a", 
+        "hierarchy": [
+          "woe:state=2345181", 
+          "woe:country=23424800", 
+          "woe:planet=1"
+        ], 
         "woeid": 2345181, 
         "alias_SPA_V": [
           "Elias Pe\u00f1a"
         ], 
         "ne_longitude": -71.302, 
         "longitude": -71.593, 
-        "parent_woeid": 23424800, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 18.975, 
         "alias_SPA_S": [
           "Elias Pinya"
         ], 
-        "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.975, 
         "sw_longitude": -71.883, 
+        "sw_latitude": 18.634, 
+        "adjacent": [
+          "woe:state=2345173", 
+          "woe:state=2345616", 
+          "woe:state=2345175", 
+          "woe:state=2345179", 
+          "woe:state=2345619", 
+          "woe:state=2345620", 
+          "woe:state=2345191", 
+          "woe:state=2345194"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.317, 
+        "iso": "DO", 
         "fullname": "Elias Pi\u00f1a, Dominican Republic", 
-        "sw_latitude": 18.634
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345181
     }
+  ], 
+  "bbox": [
+    -71.883, 
+    18.634, 
+    -71.302, 
+    19.317
   ]
 }

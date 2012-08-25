@@ -133,9 +133,14 @@
       "properties": {
         "ne:ProvNumber": 82, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848358", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.41897573474239, 
         "ne:Shape_Area": 0.00646711443926, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 2.0, 
@@ -144,6 +149,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 14.405456983752856, 
+        "adjacent": [
+          "woe:state=55848355", 
+          "woe:state=2344709", 
+          "woe:state=55848364", 
+          "woe:state=55848369", 
+          "woe:state=55848379", 
+          "woe:state=55848386", 
+          "woe:state=55848394"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.293, 
         "ne:FIPS_1": "SI00", 
@@ -182,7 +196,6 @@
         ], 
         "name": "Kranj", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 14.568702833469047, 
         "longitude": 14.369, 
         "iso": "SI", 

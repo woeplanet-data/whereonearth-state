@@ -1821,11 +1821,16 @@
       "properties": {
         "ne:ProvNumber": 11, 
         "ne:ScaleRank": 4, 
+        "hierarchy": [
+          "woe:state=2346482", 
+          "woe:country=23424919", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -10.286813653627178, 
         "ne:Shape_Area": 2.70668751385, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "18550625", 
         "alias_KOR_Q": [
           "\ub9ac\ub9c8"
         ], 
@@ -1834,13 +1839,22 @@
         "alias_CHI_Q": [
           "\u5229\u9a6c"
         ], 
-        "ne:OBJECTID": 591, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30ea\u30de"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -77.8921134104055, 
+        "adjacent": [
+          "woe:state=2346469", 
+          "woe:state=2346476", 
+          "woe:state=2346477", 
+          "woe:state=2346478", 
+          "woe:state=2346479", 
+          "woe:state=28358302", 
+          "woe:state=2346486"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -11.786, 
         "ne:FIPS_1": "PE15", 
@@ -1848,9 +1862,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Department", 
         "sw_latitude": -13.321822198135862, 
-        "ne:VertexCou": 451.0, 
-        "ne:VALIDFR_1": "18550625", 
-        "ne:DataRank": 5, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 591, 
         "ne:Postal": "LR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lima province", 
@@ -1866,8 +1880,8 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 32631.3, 
         "woe:id": "2346482", 
-        "ne:HASC_1": "PE.LR", 
-        "lang": "SPA", 
+        "name": "Lima", 
+        "ne:VertexCou": 451.0, 
         "adjacent_woeid": [
           2346469, 
           2346476, 
@@ -1877,9 +1891,8 @@
           2346486, 
           28358302
         ], 
-        "name": "Lima", 
+        "ne:HASC_1": "PE.LR", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424919, 
         "ne_longitude": -75.46719682467369, 
         "longitude": -76.687, 
         "iso": "PE", 

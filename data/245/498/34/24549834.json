@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              165.260, 
+              165.26, 
               11.494
             ], 
             [
-              165.260, 
+              165.26, 
               11.712
             ], 
             [
-              165.570, 
+              165.57, 
               11.712
             ], 
             [
-              165.570, 
+              165.57, 
               11.494
             ], 
             [
-              165.260, 
+              165.26, 
               11.494
             ]
           ]
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549834, 
         "name": "Bikini", 
-        "ne_latitude": 11.712, 
+        "hierarchy": [
+          "woe:state=24549834", 
+          "woe:country=23424932", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549834, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 165.570, 
+        "ne_longitude": 165.57, 
         "longitude": 165.554, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MH", 
         "date_indexed": "2010-12-02T09:35:31Z", 
-        "parent_woeid": 23424932, 
+        "ne_latitude": 11.712, 
         "latitude": 11.626, 
-        "sw_longitude": 165.260, 
+        "sw_longitude": 165.26, 
         "fullname": "Bikini, Marshall Islands", 
         "sw_latitude": 11.494
       }, 
       "id": 24549834
     }
+  ], 
+  "bbox": [
+    165.26, 
+    11.494, 
+    165.57, 
+    11.712
   ]
 }

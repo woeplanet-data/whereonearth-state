@@ -8,7 +8,7 @@
           [
             [
               12.408, 
-              43.900
+              43.9
             ], 
             [
               12.408, 
@@ -20,11 +20,11 @@
             ], 
             [
               12.438, 
-              43.900
+              43.9
             ], 
             [
               12.408, 
-              43.900
+              43.9
             ]
           ]
         ]
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ITA", 
-        "woeid": 20070546, 
-        "name": "Chiesanuova", 
         "adjacent_woeid": [
           20070545, 
           20070549
         ], 
-        "ne_latitude": 43.933, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chiesanuova", 
+        "hierarchy": [
+          "woe:state=20070546", 
+          "woe:country=23424947", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070546, 
         "ne_longitude": 12.438, 
         "longitude": 12.423, 
-        "placetype": "State", 
-        "iso": "SM", 
-        "date_indexed": "2010-12-02T09:58:07Z", 
-        "parent_woeid": 23424947, 
+        "placetype": "state", 
         "latitude": 43.917, 
+        "iso": "SM", 
+        "sw_latitude": 43.9, 
+        "adjacent": [
+          "woe:state=20070549", 
+          "woe:state=20070545"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.933, 
         "sw_longitude": 12.408, 
         "fullname": "Chiesanuova, San Marino", 
-        "sw_latitude": 43.900
+        "date_indexed": "2010-12-02T09:58:07Z"
       }, 
       "id": 20070546
     }
+  ], 
+  "bbox": [
+    12.408, 
+    43.9, 
+    12.438, 
+    43.933
   ]
 }

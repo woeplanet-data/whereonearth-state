@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24550733, 
-        "name": "Kanungu", 
         "adjacent_woeid": [
           20070418, 
           20070427, 
           20070443, 
           56190379
         ], 
-        "ne_latitude": -0.407, 
+        "name": "Kanungu", 
+        "hierarchy": [
+          "woe:state=24550733", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550733, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 29.896, 
         "longitude": 29.738, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "UG", 
         "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "adjacent": [
+          "woe:state=20070418", 
+          "woe:state=56190379", 
+          "woe:state=20070427", 
+          "woe:state=20070443"
+        ], 
+        "ne_latitude": -0.407, 
         "latitude": -0.747, 
         "sw_longitude": 29.581, 
         "fullname": "Kanungu, Uganda", 
@@ -55,5 +65,11 @@
       }, 
       "id": 24550733
     }
+  ], 
+  "bbox": [
+    29.581, 
+    -1.087, 
+    29.896, 
+    -0.407
   ]
 }

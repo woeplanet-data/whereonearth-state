@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070411, 
-        "name": "Apac", 
         "adjacent_woeid": [
           20070431, 
           20070432, 
@@ -42,20 +40,40 @@
           56190203, 
           56190213
         ], 
-        "ne_latitude": 2.597, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Apac", 
+        "hierarchy": [
+          "woe:state=20070411", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070411, 
         "ne_longitude": 32.961, 
         "longitude": 32.531, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 2.125, 
+        "iso": "UG", 
+        "sw_latitude": 1.652, 
+        "adjacent": [
+          "woe:state=56190195", 
+          "woe:state=56190203", 
+          "woe:state=20070431", 
+          "woe:state=20070432", 
+          "woe:state=20070452", 
+          "woe:state=56190213"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 2.597, 
         "sw_longitude": 32.101, 
         "fullname": "Apac, Uganda", 
-        "sw_latitude": 1.652
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070411
     }
+  ], 
+  "bbox": [
+    32.101, 
+    1.652, 
+    32.961, 
+    2.597
   ]
 }

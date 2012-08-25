@@ -4064,17 +4064,22 @@
         "alias_ENG_P": [
           "Shanxi"
         ], 
+        "hierarchy": [
+          "woe:state=12578013", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.74257802965241, 
         "ne:Shape_Area": 15.925610237, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc0b0\uc2dc"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1805, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u5c71\u897f"
         ], 
@@ -4087,6 +4092,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 110.23743696484411, 
+        "adjacent": [
+          "woe:state=12578009", 
+          "woe:state=12578000", 
+          "woe:state=12577999", 
+          "woe:state=12578015"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 37.695, 
         "ne:FIPS_1": "CH24", 
@@ -4094,9 +4105,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 34.58367747683417, 
-        "ne:VertexCou": 1011.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1805, 
         "ne:Postal": "SX", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Shanxi", 
@@ -4112,17 +4123,16 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 156093.5, 
         "woe:id": "12578013", 
-        "ne:HASC_1": "CN.SX", 
-        "lang": "CHI", 
+        "name": "\u5c71\u897f\u7701", 
+        "ne:VertexCou": 1011.0, 
         "adjacent_woeid": [
           12577999, 
           12578000, 
           12578009, 
           12578015
         ], 
-        "name": "\u5c71\u897f\u7701", 
+        "ne:HASC_1": "CN.SX", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 114.54094689328451, 
         "longitude": 112.392, 
         "iso": "CN", 

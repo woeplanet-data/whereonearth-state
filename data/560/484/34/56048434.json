@@ -908,9 +908,14 @@
         "alias_ENG_P": [
           "Savanes Region"
         ], 
+        "hierarchy": [
+          "woe:state=56048434", 
+          "woe:country=23424965", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 11.135212103455842, 
         "ne:Shape_Area": 0.715079257793, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
@@ -919,6 +924,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -0.166470099015783, 
+        "adjacent": [
+          "woe:state=2344824", 
+          "woe:state=2347613", 
+          "woe:state=56048435", 
+          "woe:state=55967354", 
+          "woe:state=55967355", 
+          "woe:state=2345467", 
+          "woe:state=2345470"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 10.509, 
         "ne:FIPS_1": "TO26", 
@@ -957,7 +971,6 @@
         ], 
         "name": "Savanes", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424965, 
         "ne_longitude": 0.997076450517852, 
         "longitude": 0.386, 
         "ne:NEV_Countr": "Togo", 

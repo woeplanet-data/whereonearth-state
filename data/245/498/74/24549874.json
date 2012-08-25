@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549874, 
-        "name": "Anse aux Pins", 
         "adjacent_woeid": [
           24549871, 
           24549872, 
           24549873
         ], 
-        "ne_latitude": -4.682, 
+        "name": "Anse aux Pins", 
+        "hierarchy": [
+          "woe:state=24549874", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549874, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.523, 
         "longitude": 55.515, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
-        "latitude": -4.690, 
+        "adjacent": [
+          "woe:state=24549872", 
+          "woe:state=24549871", 
+          "woe:state=24549873"
+        ], 
+        "ne_latitude": -4.682, 
+        "latitude": -4.69, 
         "sw_longitude": 55.507, 
         "fullname": "Anse aux Pins, Seychelles", 
         "sw_latitude": -4.699
       }, 
       "id": 24549874
     }
+  ], 
+  "bbox": [
+    55.507, 
+    -4.699, 
+    55.523, 
+    -4.682
   ]
 }

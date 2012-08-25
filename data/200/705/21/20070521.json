@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              44.530, 
+              44.53, 
               42.643
             ], 
             [
-              44.530, 
+              44.53, 
               43.559
             ], 
             [
@@ -23,7 +23,7 @@
               42.643
             ], 
             [
-              44.530, 
+              44.53, 
               42.643
             ]
           ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070521, 
-        "name": "Ingushetiya", 
         "adjacent_woeid": [
           2346868, 
           2346877, 
           20070363
         ], 
-        "ne_latitude": 43.559, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ingushetiya", 
+        "hierarchy": [
+          "woe:state=20070521", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070521, 
         "ne_longitude": 45.186, 
         "longitude": 44.858, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 43.101, 
-        "sw_longitude": 44.530, 
+        "iso": "RU", 
+        "sw_latitude": 42.643, 
+        "adjacent": [
+          "woe:state=2346868", 
+          "woe:state=20070363", 
+          "woe:state=2346877"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.559, 
+        "sw_longitude": 44.53, 
         "fullname": "Ingushetiya, Russia", 
-        "sw_latitude": 42.643
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 20070521
     }
+  ], 
+  "bbox": [
+    44.53, 
+    42.643, 
+    45.186, 
+    43.559
   ]
 }

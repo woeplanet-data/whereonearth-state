@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347026, 
-        "name": "Choiseul", 
         "adjacent_woeid": [
           2347029, 
           2347031, 
           2347032
         ], 
-        "ne_latitude": 13.843, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Choiseul", 
+        "hierarchy": [
+          "woe:state=2347026", 
+          "woe:country=23424951", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347026, 
         "ne_longitude": -60.999, 
         "longitude": -61.035, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 13.8, 
         "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424951, 
-        "latitude": 13.800, 
+        "sw_latitude": 13.757, 
+        "adjacent": [
+          "woe:state=2347029", 
+          "woe:state=2347031", 
+          "woe:state=2347032"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.843, 
         "sw_longitude": -61.072, 
         "fullname": "Choiseul, St. Lucia", 
-        "sw_latitude": 13.757
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347026
     }
+  ], 
+  "bbox": [
+    -61.072, 
+    13.757, 
+    -60.999, 
+    13.843
   ]
 }

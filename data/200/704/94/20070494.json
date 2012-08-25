@@ -15,11 +15,11 @@
               49.614
             ], 
             [
-              20.060, 
+              20.06, 
               49.614
             ], 
             [
-              20.060, 
+              20.06, 
               48.741
             ], 
             [
@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070494, 
-        "alias_UNK_V": [
-          "Zilina"
-        ], 
-        "name": "Zilinsky", 
         "adjacent_woeid": [
           12577940, 
           12577946, 
@@ -44,13 +39,29 @@
           20070495, 
           20070496
         ], 
+        "name": "Zilinsky", 
         "ne_latitude": 49.614, 
-        "ne_longitude": 20.060, 
+        "hierarchy": [
+          "woe:state=20070494", 
+          "woe:country=23424877", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070494, 
+        "alias_UNK_V": [
+          "Zilina"
+        ], 
         "longitude": 19.191, 
-        "parent_woeid": 23424877, 
-        "placetype": "State", 
+        "ne_longitude": 20.06, 
+        "placetype": "state", 
         "iso": "SK", 
-        "date_indexed": "2010-12-02T08:50:01Z", 
+        "sw_latitude": 48.741, 
+        "adjacent": [
+          "woe:state=20070495", 
+          "woe:state=12577940", 
+          "woe:state=20070496", 
+          "woe:state=12577946", 
+          "woe:state=20070493"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.178, 
         "sw_longitude": 18.323, 
@@ -58,9 +69,15 @@
         "alias_GER_Q": [
           "Sillein"
         ], 
-        "sw_latitude": 48.741
+        "date_indexed": "2010-12-02T08:50:01Z"
       }, 
       "id": 20070494
     }
+  ], 
+  "bbox": [
+    18.323, 
+    48.741, 
+    20.06, 
+    49.614
   ]
 }

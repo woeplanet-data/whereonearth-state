@@ -15,11 +15,11 @@
               60.307
             ], 
             [
-              -52.620, 
+              -52.62, 
               60.307
             ], 
             [
-              -52.620, 
+              -52.62, 
               46.607
             ], 
             [
@@ -37,13 +37,18 @@
         "alias_SWE_Q": [
           "Newfoundland Och Labrador"
         ], 
+        "hierarchy": [
+          "woe:state=2344919", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 60.307, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_V": [
           "\ub274\ud380\ub4e4\ub79c\ub4dc\uc8fc"
         ], 
-        "alias_ENG_A": [
-          "Nfld"
+        "alias_KOR_Q": [
+          "\ub274\ud380\ub4e4\ub79c\ub4dc \uc564 \ub798\ube0c\ub77c\ub3c4"
         ], 
         "alias_CHI_Q": [
           "\u7ebd\u82ac\u5170\u53ca\u62c9\u5e03\u62c9\u591a"
@@ -56,22 +61,24 @@
           "Newfoundland Ja Labrador"
         ], 
         "sw_longitude": -67.816, 
+        "adjacent": [
+          "woe:state=2344924"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 55.856, 
         "alias_NOR_Q": [
           "Newfoundland Og Labrador"
         ], 
         "date_indexed": "2010-12-02T10:22:50Z", 
-        "alias_KOR_Q": [
-          "\ub274\ud380\ub4e4\ub79c\ub4dc \uc564 \ub798\ube0c\ub77c\ub3c4"
+        "alias_ENG_A": [
+          "Nfld"
         ], 
         "lang": "ENG", 
         "adjacent_woeid": [
           2344924
         ], 
         "name": "Newfoundland and Labrador", 
-        "parent_woeid": 23424775, 
-        "ne_longitude": -52.620, 
+        "ne_longitude": -52.62, 
         "longitude": -61.716, 
         "iso": "CA", 
         "sw_latitude": 46.607, 
@@ -82,5 +89,11 @@
       }, 
       "id": 2344919
     }
+  ], 
+  "bbox": [
+    -67.816, 
+    46.607, 
+    -52.62, 
+    60.307
   ]
 }

@@ -963,20 +963,31 @@
         "alias_ENG_P": [
           "Akita Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345852", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.499517931107675, 
         "ne:Shape_Area": 1.2224632224, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1862, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u79cb\u7530"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 139.7036487165151, 
+        "adjacent": [
+          "woe:state=2345873", 
+          "woe:state=2345893", 
+          "woe:state=2345865", 
+          "woe:state=2345853"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.692, 
         "ne:FIPS_1": "JA02", 
@@ -984,9 +995,9 @@
         "ne:FIRST_HASC": "JP.TC", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 38.87152944582732, 
-        "ne:VertexCou": 235.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1862, 
         "ne:Postal": "AK", 
         "ne:Region_Cod": "JPN-THO", 
         "ne:VARNAME_1": null, 
@@ -1002,17 +1013,16 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 11632.7, 
         "woe:id": "2345852", 
-        "ne:HASC_1": "JP.AK", 
-        "lang": "JPN", 
+        "name": "\u79cb\u7530\u770c", 
+        "ne:VertexCou": 235.0, 
         "adjacent_woeid": [
           2345853, 
           2345865, 
           2345873, 
           2345893
         ], 
-        "name": "\u79cb\u7530\u770c", 
+        "ne:HASC_1": "JP.AK", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 140.96398522393895, 
         "longitude": 140.344, 
         "iso": "JP", 

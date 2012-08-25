@@ -12,11 +12,11 @@
             ], 
             [
               48.262, 
-              40.140
+              40.14
             ], 
             [
               49.042, 
-              40.140
+              40.14
             ], 
             [
               49.042, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070281, 
-        "name": "Sabirabad", 
         "adjacent_woeid": [
           20070216, 
           20070227, 
@@ -43,20 +41,41 @@
           20070280, 
           20070282
         ], 
-        "ne_latitude": 40.140, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sabirabad", 
+        "hierarchy": [
+          "woe:state=20070281", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070281, 
         "ne_longitude": 49.042, 
         "longitude": 48.782, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.927, 
+        "iso": "AZ", 
+        "sw_latitude": 39.561, 
+        "adjacent": [
+          "woe:state=20070216", 
+          "woe:state=20070242", 
+          "woe:state=20070282", 
+          "woe:state=20070227", 
+          "woe:state=20070236", 
+          "woe:state=20070243", 
+          "woe:state=20070280"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.14, 
         "sw_longitude": 48.262, 
         "fullname": "Sabirabad, Azerbaijan", 
-        "sw_latitude": 39.561
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070281
     }
+  ], 
+  "bbox": [
+    48.262, 
+    39.561, 
+    49.042, 
+    40.14
   ]
 }

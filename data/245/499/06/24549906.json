@@ -32,19 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549906, 
-        "name": "Oecussi-Ambeno", 
         "adjacent_woeid": [
           2345727
         ], 
-        "ne_latitude": -9.175, 
+        "name": "Oecussi-Ambeno", 
+        "hierarchy": [
+          "woe:state=24549906", 
+          "woe:country=23424968", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549906, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 124.501, 
         "longitude": 124.288, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "TL", 
         "date_indexed": "2010-12-02T07:50:18Z", 
-        "parent_woeid": 23424968, 
+        "adjacent": [
+          "woe:state=2345727"
+        ], 
+        "ne_latitude": -9.175, 
         "latitude": -9.344, 
         "sw_longitude": 124.075, 
         "fullname": "Oecussi-Ambeno, East Timor", 
@@ -52,5 +59,11 @@
       }, 
       "id": 24549906
     }
+  ], 
+  "bbox": [
+    124.075, 
+    -9.513, 
+    124.501, 
+    -9.175
   ]
 }

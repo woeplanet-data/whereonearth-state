@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346169, 
-        "name": "Ovorhangay", 
         "adjacent_woeid": [
           2346157, 
           2346158, 
@@ -42,20 +40,40 @@
           2346172, 
           2346174
         ], 
-        "ne_latitude": 47.436, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ovorhangay", 
+        "hierarchy": [
+          "woe:state=2346169", 
+          "woe:country=23424887", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346169, 
         "ne_longitude": 104.619, 
         "longitude": 102.792, 
-        "placetype": "State", 
-        "iso": "MN", 
-        "date_indexed": "2010-12-02T08:53:23Z", 
-        "parent_woeid": 23424887, 
+        "placetype": "state", 
         "latitude": 45.947, 
+        "iso": "MN", 
+        "sw_latitude": 44.459, 
+        "adjacent": [
+          "woe:state=2346157", 
+          "woe:state=2346158", 
+          "woe:state=2346174", 
+          "woe:state=2346162", 
+          "woe:state=2346168", 
+          "woe:state=2346172"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 47.436, 
         "sw_longitude": 100.964, 
         "fullname": "Ovorhangay, Mongolia", 
-        "sw_latitude": 44.459
+        "date_indexed": "2010-12-02T08:53:23Z"
       }, 
       "id": 2346169
     }
+  ], 
+  "bbox": [
+    100.964, 
+    44.459, 
+    104.619, 
+    47.436
   ]
 }

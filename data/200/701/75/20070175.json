@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070175, 
-        "name": "Shyghys Qazaqstan", 
         "adjacent_woeid": [
           2345993, 
           12578003, 
@@ -42,20 +40,40 @@
           20070529, 
           20070530
         ], 
-        "ne_latitude": 51.664, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Shyghys Qazaqstan", 
+        "hierarchy": [
+          "woe:state=20070175", 
+          "woe:country=23424871", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070175, 
         "ne_longitude": 87.313, 
         "longitude": 82.182, 
-        "placetype": "State", 
-        "iso": "KZ", 
-        "date_indexed": "2010-12-02T08:54:03Z", 
-        "parent_woeid": 23424871, 
+        "placetype": "state", 
         "latitude": 48.598, 
+        "iso": "KZ", 
+        "sw_latitude": 45.531, 
+        "adjacent": [
+          "woe:state=20070180", 
+          "woe:state=20070530", 
+          "woe:state=20070529", 
+          "woe:state=2345993", 
+          "woe:state=20070178", 
+          "woe:state=12578003"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 51.664, 
         "sw_longitude": 77.052, 
         "fullname": "Shyghys Qazaqstan, Kazakhstan", 
-        "sw_latitude": 45.531
+        "date_indexed": "2010-12-02T08:54:03Z"
       }, 
       "id": 20070175
     }
+  ], 
+  "bbox": [
+    77.052, 
+    45.531, 
+    87.313, 
+    51.664
   ]
 }

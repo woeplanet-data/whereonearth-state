@@ -8,7 +8,7 @@
           [
             [
               -7.523, 
-              36.000
+              36.0
             ], 
             [
               -7.523, 
@@ -20,11 +20,11 @@
             ], 
             [
               -1.627, 
-              36.000
+              36.0
             ], 
             [
               -7.523, 
-              36.000
+              36.0
             ]
           ]
         ]
@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Andalusia"
         ], 
+        "hierarchy": [
+          "woe:state=12578029", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 38.729, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Andaluzia"
         ], 
@@ -59,6 +64,13 @@
           "Andalucia Autonomia"
         ], 
         "sw_longitude": -7.523, 
+        "adjacent": [
+          "woe:state=2346563", 
+          "woe:state=12578032", 
+          "woe:state=12578035", 
+          "woe:state=2346569", 
+          "woe:state=12578025"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 37.364, 
         "alias_NOR_Q": [
@@ -89,11 +101,10 @@
           12578035
         ], 
         "name": "Andaluc\u00eda", 
-        "parent_woeid": 23424950, 
         "ne_longitude": -1.627, 
         "longitude": -4.575, 
         "iso": "ES", 
-        "sw_latitude": 36.000, 
+        "sw_latitude": 36.0, 
         "alias_FRE_V": [
           "L'Andalousie"
         ], 
@@ -104,5 +115,11 @@
       }, 
       "id": 12578029
     }
+  ], 
+  "bbox": [
+    -7.523, 
+    36.0, 
+    -1.627, 
+    38.729
   ]
 }

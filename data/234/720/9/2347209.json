@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347209, 
-        "name": "Ha'apai", 
         "ne_latitude": -19.174, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ha'apai", 
+        "hierarchy": [
+          "woe:state=2347209", 
+          "woe:country=23424964", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347209, 
         "ne_longitude": -174.268, 
         "longitude": -175.075, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "TO", 
-        "date_indexed": "2010-12-02T17:58:27Z", 
-        "parent_woeid": 23424964, 
+        "sw_latitude": -20.503, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -19.741, 
         "sw_longitude": -175.112, 
         "fullname": "Ha'apai, Tonga", 
-        "sw_latitude": -20.503
+        "date_indexed": "2010-12-02T17:58:27Z"
       }, 
       "id": 2347209
     }
+  ], 
+  "bbox": [
+    -175.112, 
+    -20.503, 
+    -174.268, 
+    -19.174
   ]
 }

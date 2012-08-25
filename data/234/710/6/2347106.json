@@ -31,44 +31,60 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "GER", 
-        "woeid": 2347106, 
-        "alias_ITA_Q": [
-          "Canton Zugo"
-        ], 
-        "name": "Kanton Zug", 
         "alias_ENG_V": [
           "Zug"
         ], 
         "alias_ENG_P": [
           "Canton of Zug"
         ], 
+        "hierarchy": [
+          "woe:state=2347106", 
+          "woe:country=23424957", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.248, 
+        "placetype": "state", 
+        "alias_ITA_Q": [
+          "Canton Zugo"
+        ], 
+        "woeid": 2347106, 
+        "sw_longitude": 8.395, 
+        "adjacent": [
+          "woe:state=2347083", 
+          "woe:state=2347093", 
+          "woe:state=2347099", 
+          "woe:state=2347107"
+        ], 
         "provider": "geoplanet 7.6.0", 
+        "latitude": 47.165, 
+        "sw_latitude": 47.081, 
         "alias_GER_A": [
           "ZG"
         ], 
-        "ne_longitude": 8.701, 
-        "longitude": 8.548, 
-        "placetype": "State", 
+        "lang": "GER", 
         "adjacent_woeid": [
           2347083, 
           2347093, 
           2347099, 
           2347107
         ], 
+        "name": "Kanton Zug", 
+        "ne_longitude": 8.701, 
+        "longitude": 8.548, 
         "iso": "CH", 
         "date_indexed": "2010-12-02T18:19:21Z", 
-        "parent_woeid": 23424957, 
-        "latitude": 47.165, 
-        "sw_longitude": 8.395, 
         "fullname": "Kanton Zug, Canton of Zug, Switzerland", 
-        "sw_latitude": 47.081, 
         "alias_FRE_Q": [
           "Canton de Zoug"
         ]
       }, 
       "id": 2347106
     }
+  ], 
+  "bbox": [
+    8.395, 
+    47.081, 
+    8.701, 
+    47.248
   ]
 }

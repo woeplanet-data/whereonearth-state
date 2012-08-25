@@ -15,11 +15,11 @@
               18.172
             ], 
             [
-              -66.510, 
+              -66.51, 
               18.172
             ], 
             [
-              -66.510, 
+              -66.51, 
               17.881
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.172, 
-        "name": "Ponce", 
         "adjacent_woeid": [
           2346789, 
           2346796, 
@@ -41,23 +39,42 @@
           2346832, 
           2346834
         ], 
+        "name": "Ponce", 
+        "hierarchy": [
+          "woe:state=2346833", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346833, 
         "alias_SPA_V": [
           "Ponce Municipios"
         ], 
-        "ne_longitude": -66.510, 
+        "ne_longitude": -66.51, 
         "longitude": -66.615, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.067, 
         "sw_longitude": -66.699, 
+        "sw_latitude": 17.881, 
+        "adjacent": [
+          "woe:state=2346789", 
+          "woe:state=2346796", 
+          "woe:state=2346832", 
+          "woe:state=2346834", 
+          "woe:state=2346808"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.172, 
+        "iso": "PR", 
         "fullname": "Ponce, Puerto Rico", 
-        "sw_latitude": 17.881
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346833
     }
+  ], 
+  "bbox": [
+    -66.699, 
+    17.881, 
+    -66.51, 
+    18.172
   ]
 }

@@ -1821,11 +1821,16 @@
         "alias_SWE_S": [
           "Prins Edvards O"
         ], 
+        "hierarchy": [
+          "woe:state=2344923", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.06746328420326, 
         "ne:Shape_Area": 0.670674006739, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "1799", 
         "alias_KOR_Q": [
           "\ud504\ub9b0\uc2a4\uc5d0\ub4dc\uc6cc\ub4dc \uc12c"
         ], 
@@ -1835,8 +1840,7 @@
         "alias_CHI_Q": [
           "\u7231\u5fb7\u534e\u738b\u5b50\u5c9b"
         ], 
-        "ne:OBJECTID": 687, 
-        "ne:NEV_Countr": "Canada", 
+        "ne:DataRank": 2, 
         "alias_JPN_Q": [
           "\u30d7\u30ea\u30f3\u30b9\u30a8\u30c9\u30ef\u30fc\u30c9\u30a2\u30a4\u30e9\u30f3\u30c9"
         ], 
@@ -1851,33 +1855,35 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 45.95083893526868, 
-        "ne:VertexCou": 449.0, 
+        "lang": "ENG", 
         "alias_ENG_A": [
           "PEI"
         ], 
-        "ne:VALIDFR_1": "1799", 
-        "ne:DataRank": 2, 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 687, 
         "ne:Postal": "PE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "\u00cele de Saint-Jean|\u00cele du Prince-\u00c9douard", 
         "ne:ISO": "CAN", 
-        "ne:TYPE_1": "Province", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 10.6590148202, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "Canada", 
         "ne:NAME_1": "Prince Edward Island", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Province", 
         "ne:LabelRank": 2, 
+        "alias_FRE_S": [
+          "Ile-du-Prince-Edouard"
+        ], 
         "ne:Area_sqkm": 5733.1, 
         "woe:id": "2344923", 
-        "ne:HASC_1": "CA.PE", 
-        "lang": "ENG", 
-        "ne:NL_NAME_1": null, 
         "name": "Prince Edward Island", 
+        "ne:VertexCou": 449.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "CA.PE", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424775, 
         "ne_longitude": -61.97685746889704, 
         "longitude": -64.017, 
         "alias_FRE_A": [
@@ -1890,9 +1896,7 @@
         ], 
         "fullname": "Prince Edward Island, Canada", 
         "ne:Region": null, 
-        "alias_FRE_S": [
-          "Ile-du-Prince-Edouard"
-        ], 
+        "ne:NEV_Countr": "Canada", 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "\u00cele-du-Prince-\u00c9douard"

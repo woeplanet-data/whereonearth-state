@@ -15,11 +15,11 @@
               46.072
             ], 
             [
-              15.570, 
+              15.57, 
               46.072
             ], 
             [
-              15.570, 
+              15.57, 
               45.791
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848359, 
-        "name": "Krsko", 
         "adjacent_woeid": [
           12577990, 
           55848342, 
@@ -42,14 +40,28 @@
           55848384, 
           55848390
         ], 
-        "ne_latitude": 46.072, 
+        "name": "Krsko", 
+        "hierarchy": [
+          "woe:state=55848359", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848359, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 15.570, 
+        "ne_longitude": 15.57, 
         "longitude": 15.452, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848342", 
+          "woe:state=55848372", 
+          "woe:state=55848383", 
+          "woe:state=55848384", 
+          "woe:state=55848390", 
+          "woe:state=12577990"
+        ], 
+        "ne_latitude": 46.072, 
         "latitude": 45.931, 
         "sw_longitude": 15.334, 
         "fullname": "Krsko, Slovenia", 
@@ -57,5 +69,11 @@
       }, 
       "id": 55848359
     }
+  ], 
+  "bbox": [
+    15.334, 
+    45.791, 
+    15.57, 
+    46.072
   ]
 }

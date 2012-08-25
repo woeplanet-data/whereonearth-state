@@ -15,11 +15,11 @@
               56.825
             ], 
             [
-              89.400, 
+              89.4, 
               56.825
             ], 
             [
-              89.400, 
+              89.4, 
               52.212
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346901, 
-        "name": "Kemerovskaya Oblast", 
         "adjacent_woeid": [
           2346914, 
           2346928, 
@@ -42,20 +40,40 @@
           20070529, 
           20070530
         ], 
-        "ne_latitude": 56.825, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 89.400, 
+        "name": "Kemerovskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346901", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346901, 
+        "ne_longitude": 89.4, 
         "longitude": 86.934, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 54.518, 
+        "iso": "RU", 
+        "sw_latitude": 52.212, 
+        "adjacent": [
+          "woe:state=20070530", 
+          "woe:state=20070529", 
+          "woe:state=20070519", 
+          "woe:state=20070524", 
+          "woe:state=2346914", 
+          "woe:state=2346928"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 56.825, 
         "sw_longitude": 84.468, 
         "fullname": "Kemerovskaya Oblast, Russia", 
-        "sw_latitude": 52.212
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346901
     }
+  ], 
+  "bbox": [
+    84.468, 
+    52.212, 
+    89.4, 
+    56.825
   ]
 }

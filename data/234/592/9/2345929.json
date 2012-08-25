@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2345929, 
-        "name": "Al Karak", 
         "adjacent_woeid": [
           2345791, 
           2345928, 
@@ -41,20 +39,39 @@
           20070288, 
           20070289
         ], 
-        "ne_latitude": 31.461, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Al Karak", 
+        "hierarchy": [
+          "woe:state=2345929", 
+          "woe:country=23424860", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345929, 
         "ne_longitude": 36.214, 
         "longitude": 35.786, 
-        "placetype": "State", 
-        "iso": "JO", 
-        "date_indexed": "2010-12-02T12:08:06Z", 
-        "parent_woeid": 23424860, 
+        "placetype": "state", 
         "latitude": 31.173, 
+        "iso": "JO", 
+        "sw_latitude": 30.813, 
+        "adjacent": [
+          "woe:state=20070289", 
+          "woe:state=2345932", 
+          "woe:state=2345928", 
+          "woe:state=20070288", 
+          "woe:state=2345791"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.461, 
         "sw_longitude": 35.358, 
         "fullname": "Al Karak, Jordan", 
-        "sw_latitude": 30.813
+        "date_indexed": "2010-12-02T12:08:06Z"
       }, 
       "id": 2345929
     }
+  ], 
+  "bbox": [
+    35.358, 
+    30.813, 
+    36.214, 
+    31.461
   ]
 }

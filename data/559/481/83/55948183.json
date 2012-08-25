@@ -353,9 +353,14 @@
       "properties": {
         "ne:ProvNumber": 17, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55948183", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.82417064076253, 
         "ne:Shape_Area": 0.105324565522, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -364,6 +369,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 29.167501661672418, 
+        "adjacent": [
+          "woe:state=55948205", 
+          "woe:state=55948184", 
+          "woe:state=55948192", 
+          "woe:state=55948200", 
+          "woe:state=55948201", 
+          "woe:state=20069877"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.605, 
         "ne:FIPS_1": "MD67", 
@@ -401,7 +414,6 @@
         ], 
         "name": "Causeni", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424885, 
         "ne_longitude": 29.57817426902733, 
         "longitude": 29.309, 
         "iso": "MD", 

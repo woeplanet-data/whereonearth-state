@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20069837, 
-        "name": "Erongo", 
         "adjacent_woeid": [
           20069835, 
           20069839, 
           20069844, 
           20069845
         ], 
-        "ne_latitude": -20.493, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Erongo", 
+        "hierarchy": [
+          "woe:state=20069837", 
+          "woe:country=23424987", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069837, 
         "ne_longitude": 16.557, 
         "longitude": 15.093, 
-        "placetype": "State", 
-        "iso": "NA", 
-        "date_indexed": "2010-12-02T07:50:17Z", 
-        "parent_woeid": 23424987, 
+        "placetype": "state", 
         "latitude": -22.152, 
+        "iso": "NA", 
+        "sw_latitude": -23.812, 
+        "adjacent": [
+          "woe:state=20069844", 
+          "woe:state=20069845", 
+          "woe:state=20069839", 
+          "woe:state=20069835"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -20.493, 
         "sw_longitude": 13.628, 
         "fullname": "Erongo, Namibia", 
-        "sw_latitude": -23.812
+        "date_indexed": "2010-12-02T07:50:17Z"
       }, 
       "id": 20069837
     }
+  ], 
+  "bbox": [
+    13.628, 
+    -23.812, 
+    16.557, 
+    -20.493
   ]
 }

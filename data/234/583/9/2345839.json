@@ -237,11 +237,16 @@
       "properties": {
         "ne:ProvNumber": 2000, 
         "ne:ScaleRank": 5, 
+        "hierarchy": [
+          "woe:state=2345839", 
+          "woe:country=23424855", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 33.43250743237218, 
         "ne:Shape_Area": 0.0637193781899, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "19760201", 
         "alias_KOR_Q": [
           "\ubc14\uadf8\ub2e4\ub4dc"
         ], 
@@ -250,13 +255,20 @@
         "alias_CHI_Q": [
           "\u5df4\u683c\u8fbe"
         ], 
-        "ne:OBJECTID": 3063, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30d0\u30b0\u30c0\u30fc\u30c9"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 44.22224165233047, 
+        "adjacent": [
+          "woe:state=2345833", 
+          "woe:state=2345838", 
+          "woe:state=2345842", 
+          "woe:state=2345850", 
+          "woe:state=2345848"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 33.306, 
         "ne:FIPS_1": "IZ07", 
@@ -264,9 +276,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 33.17601146066045, 
-        "ne:VertexCou": 54.0, 
-        "ne:VALIDFR_1": "19760201", 
-        "ne:DataRank": 5, 
+        "lang": "ARA", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3063, 
         "ne:Postal": "BG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Bagd\u00a0|Bagdad", 
@@ -285,8 +297,8 @@
           "Bagdad"
         ], 
         "woe:id": "2345839", 
-        "ne:HASC_1": "IQ.BG", 
-        "lang": "ARA", 
+        "name": "Baghdad", 
+        "ne:VertexCou": 54.0, 
         "adjacent_woeid": [
           2345833, 
           2345838, 
@@ -294,9 +306,8 @@
           2345848, 
           2345850
         ], 
-        "name": "Baghdad", 
+        "ne:HASC_1": "IQ.BG", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424855, 
         "ne_longitude": 44.543255649528646, 
         "longitude": 44.424, 
         "iso": "IQ", 

@@ -15,11 +15,11 @@
               48.656
             ], 
             [
-              17.530, 
+              17.53, 
               48.656
             ], 
             [
-              17.530, 
+              17.53, 
               48.007
             ], 
             [
@@ -32,24 +32,34 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070505, 
-        "alias_UNK_V": [
-          "Bratislava"
-        ], 
-        "name": "Bratislavsky", 
         "adjacent_woeid": [
           2344708, 
           2344710, 
           12577918, 
           20070504
         ], 
+        "name": "Bratislavsky", 
         "ne_latitude": 48.656, 
-        "ne_longitude": 17.530, 
+        "hierarchy": [
+          "woe:state=20070505", 
+          "woe:country=23424877", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070505, 
+        "alias_UNK_V": [
+          "Bratislava"
+        ], 
         "longitude": 17.181, 
-        "parent_woeid": 23424877, 
-        "placetype": "State", 
+        "ne_longitude": 17.53, 
+        "placetype": "state", 
         "iso": "SK", 
-        "date_indexed": "2010-12-02T08:50:01Z", 
+        "sw_latitude": 48.007, 
+        "adjacent": [
+          "woe:state=2344708", 
+          "woe:state=12577918", 
+          "woe:state=2344710", 
+          "woe:state=20070504"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.331, 
         "sw_longitude": 16.833, 
@@ -57,9 +67,15 @@
         "alias_GER_Q": [
           "Pressburg"
         ], 
-        "sw_latitude": 48.007
+        "date_indexed": "2010-12-02T08:50:01Z"
       }, 
       "id": 20070505
     }
+  ], 
+  "bbox": [
+    16.833, 
+    48.007, 
+    17.53, 
+    48.656
   ]
 }

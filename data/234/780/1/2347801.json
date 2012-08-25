@@ -3932,9 +3932,14 @@
           "N-Western"
         ], 
         "ne:ScaleRank": 4, 
+        "hierarchy": [
+          "woe:state=2347801", 
+          "woe:country=23425003", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -10.872100925417328, 
         "ne:Shape_Area": 10.4522085725, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 13, 
         "ne:gadm_level": 1.0, 
@@ -3943,6 +3948,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 21.979568312527647, 
+        "adjacent": [
+          "woe:state=2347805", 
+          "woe:state=2347802", 
+          "woe:state=2344981", 
+          "woe:state=2344668", 
+          "woe:state=2347803"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -12.646, 
         "ne:FIPS_1": "ZA06", 
@@ -3979,7 +3991,6 @@
         ], 
         "name": "North-Western", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23425003, 
         "ne_longitude": 27.589820184154235, 
         "longitude": 24.774, 
         "iso": "ZM", 

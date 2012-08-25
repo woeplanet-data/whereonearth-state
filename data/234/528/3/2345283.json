@@ -32,9 +32,11 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2345283, 
-        "alias_UNK_V": [
-          "P\u00e4rnu Maakond"
+        "adjacent_woeid": [
+          2345279, 
+          2345281, 
+          2345285, 
+          2345289
         ], 
         "name": "P\u00e4rnumaa", 
         "alias_ENG_P": [
@@ -43,26 +45,40 @@
         "alias_UNK_S": [
           "Parnumaa"
         ], 
-        "ne_latitude": 58.757, 
-        "ne_longitude": 25.307, 
+        "woeid": 2345283, 
+        "alias_UNK_V": [
+          "P\u00e4rnu Maakond"
+        ], 
         "longitude": 23.978, 
-        "parent_woeid": 23424805, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          2345279, 
-          2345281, 
-          2345285, 
-          2345289
+        "ne_longitude": 25.307, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=2345283", 
+          "woe:country=23424805", 
+          "woe:planet=1"
         ], 
         "iso": "EE", 
         "date_indexed": "2010-12-02T16:42:58Z", 
+        "adjacent": [
+          "woe:state=2345279", 
+          "woe:state=2345281", 
+          "woe:state=2345285", 
+          "woe:state=2345289"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 58.311, 
+        "ne_latitude": 58.757, 
         "sw_longitude": 23.609, 
+        "latitude": 58.311, 
         "fullname": "P\u00e4rnumaa, Parnu County, Estonia", 
         "sw_latitude": 57.865
       }, 
       "id": 2345283
     }
+  ], 
+  "bbox": [
+    23.609, 
+    57.865, 
+    25.307, 
+    58.757
   ]
 }

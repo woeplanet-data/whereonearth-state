@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346010, 
-        "name": "Xiagnabouli", 
         "adjacent_woeid": [
           2346004, 
           2346005, 
@@ -45,20 +43,43 @@
           2347166, 
           20070164
         ], 
-        "ne_latitude": 20.057, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Xiagnabouli", 
+        "hierarchy": [
+          "woe:state=2346010", 
+          "woe:country=23424872", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346010, 
         "ne_longitude": 102.001, 
         "longitude": 101.543, 
-        "placetype": "State", 
-        "iso": "LA", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
-        "parent_woeid": 23424872, 
+        "placetype": "state", 
         "latitude": 18.762, 
+        "iso": "LA", 
+        "sw_latitude": 17.467, 
+        "adjacent": [
+          "woe:state=2347130", 
+          "woe:state=2347145", 
+          "woe:state=2346004", 
+          "woe:state=2347131", 
+          "woe:state=2346005", 
+          "woe:state=2347166", 
+          "woe:state=2347139", 
+          "woe:state=2347137", 
+          "woe:state=20070164"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 20.057, 
         "sw_longitude": 100.412, 
         "fullname": "Xiagnabouli, Laos", 
-        "sw_latitude": 17.467
+        "date_indexed": "2010-12-02T16:42:51Z"
       }, 
       "id": 2346010
     }
+  ], 
+  "bbox": [
+    100.412, 
+    17.467, 
+    102.001, 
+    20.057
   ]
 }

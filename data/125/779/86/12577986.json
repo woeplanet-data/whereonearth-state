@@ -8,7 +8,7 @@
           [
             [
               15.877, 
-              46.010
+              46.01
             ], 
             [
               15.877, 
@@ -20,11 +20,11 @@
             ], 
             [
               16.774, 
-              46.010
+              46.01
             ], 
             [
               15.877, 
-              46.010
+              46.01
             ]
           ]
         ]
@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 12577986, 
-        "alias_ENG_S": [
-          "Varazdin"
-        ], 
-        "name": "Vara\u017edinska", 
         "adjacent_woeid": [
           12577976, 
           12577977, 
@@ -45,26 +40,49 @@
           55848373, 
           55848377
         ], 
-        "alias_UNK_S": [
-          "Varazdinska"
+        "alias_ENG_S": [
+          "Varazdin"
         ], 
-        "ne_latitude": 46.405, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Vara\u017edinska", 
         "alias_ENG_V": [
           "Vara\u017edin"
         ], 
+        "alias_UNK_S": [
+          "Varazdinska"
+        ], 
+        "woeid": 12577986, 
         "ne_longitude": 16.774, 
         "longitude": 16.325, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=12577986", 
+          "woe:country=23424843", 
+          "woe:planet=1"
+        ], 
         "iso": "HR", 
-        "date_indexed": "2010-12-02T17:06:25Z", 
-        "parent_woeid": 23424843, 
-        "latitude": 46.208, 
+        "sw_latitude": 46.01, 
+        "adjacent": [
+          "woe:state=12577976", 
+          "woe:state=12577977", 
+          "woe:state=12577979", 
+          "woe:state=55848373", 
+          "woe:state=55848377", 
+          "woe:state=12577990"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 46.405, 
         "sw_longitude": 15.877, 
+        "latitude": 46.208, 
         "fullname": "Vara\u017edinska, Croatia", 
-        "sw_latitude": 46.010
+        "date_indexed": "2010-12-02T17:06:25Z"
       }, 
       "id": 12577986
     }
+  ], 
+  "bbox": [
+    15.877, 
+    46.01, 
+    16.774, 
+    46.405
   ]
 }

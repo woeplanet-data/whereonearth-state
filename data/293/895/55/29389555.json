@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 29389555, 
-        "name": "Diber", 
         "adjacent_woeid": [
           29389556, 
           29389557, 
@@ -41,14 +39,27 @@
           29389562, 
           29389564
         ], 
-        "ne_latitude": 41.912, 
+        "name": "Diber", 
+        "hierarchy": [
+          "woe:state=29389555", 
+          "woe:country=23424742", 
+          "woe:planet=1"
+        ], 
+        "woeid": 29389555, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.575, 
-        "longitude": 20.180, 
-        "placetype": "State", 
+        "longitude": 20.18, 
+        "placetype": "state", 
         "iso": "AL", 
         "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424742, 
+        "adjacent": [
+          "woe:state=29389556", 
+          "woe:state=29389557", 
+          "woe:state=29389561", 
+          "woe:state=29389562", 
+          "woe:state=29389564"
+        ], 
+        "ne_latitude": 41.912, 
         "latitude": 41.594, 
         "sw_longitude": 19.785, 
         "fullname": "Diber, Albania", 
@@ -56,5 +67,11 @@
       }, 
       "id": 29389555
     }
+  ], 
+  "bbox": [
+    19.785, 
+    41.276, 
+    20.575, 
+    41.912
   ]
 }

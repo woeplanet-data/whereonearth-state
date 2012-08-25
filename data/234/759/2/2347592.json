@@ -6328,11 +6328,16 @@
         "alias_KOR_Q": [
           "\ub178\uc2a4\uce90\ub864\ub9ac\ub098"
         ], 
+        "hierarchy": [
+          "woe:state=2347592", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.60954998604308, 
         "ne:Shape_Area": 12.6901942005, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "17760704", 
+        "ne:MAP_COLOR": 1, 
         "alias_POR_Q": [
           "Carolina do Norte"
         ], 
@@ -6349,7 +6354,7 @@
         "alias_ITA_Q": [
           "Carolina del Nord"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3549, 
         "alias_JPN_Q": [
           "\u30ce\u30fc\u30b9\u30ab\u30ed\u30e9\u30a4\u30ca"
         ], 
@@ -6362,6 +6367,12 @@
           "Pohjois-Carolina"
         ], 
         "sw_longitude": -84.3246277287866, 
+        "adjacent": [
+          "woe:state=2347569", 
+          "woe:state=2347599", 
+          "woe:state=2347601", 
+          "woe:state=2347605"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.22, 
         "ne:FIPS_1": "US37", 
@@ -6371,14 +6382,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3549, 
+        "ne:VertexCou": 1520.0, 
+        "ne:VALIDFR_1": "17760704", 
+        "ne:DataRank": 1, 
         "ne:Postal": "NC", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "NC|N.C.", 
         "ne:ISO": "USA", 
-        "ne:Region_C_3": "South Atlantic", 
+        "ne:TYPE_1": "State", 
         "ne:Region_C_2": "South", 
         "ne:Shape_Leng": 41.9897526679, 
         "alias_DUT_Q": [
@@ -6387,15 +6398,15 @@
         "ne:NAME_0": "United States of America", 
         "ne:NAME_1": "North Carolina", 
         "ne:Region_C_1": "South Atlantic", 
-        "ne:TYPE_1": "State", 
+        "ne:Region_C_3": "South Atlantic", 
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 128874.2, 
         "alias_GER_Q": [
           "Nordkarolinein"
         ], 
         "woe:id": "2347592", 
-        "name": "North Carolina", 
-        "ne:VertexCou": 1520.0, 
+        "ne:HASC_1": "US.NC", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347569, 
           2347599, 
@@ -6403,10 +6414,9 @@
           2347605
         ], 
         "ne:FIRST_FIPS": null, 
-        "ne:HASC_1": "US.NC", 
+        "name": "North Carolina", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -75.45167850925577, 
         "longitude": -80.02, 
         "iso": "US", 

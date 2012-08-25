@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              55.440, 
+              55.44, 
               -4.605
             ], 
             [
-              55.440, 
+              55.44, 
               -4.577
             ], 
             [
@@ -23,7 +23,7 @@
               -4.605
             ], 
             [
-              55.440, 
+              55.44, 
               -4.605
             ]
           ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549884, 
-        "name": "Anse Etoile", 
         "adjacent_woeid": [
           24549877, 
           24549878, 
           24549885, 
           24549887
         ], 
-        "ne_latitude": -4.577, 
+        "name": "Anse Etoile", 
+        "hierarchy": [
+          "woe:state=24549884", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549884, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.462, 
         "longitude": 55.451, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549877", 
+          "woe:state=24549885", 
+          "woe:state=24549878", 
+          "woe:state=24549887"
+        ], 
+        "ne_latitude": -4.577, 
         "latitude": -4.591, 
-        "sw_longitude": 55.440, 
+        "sw_longitude": 55.44, 
         "fullname": "Anse Etoile, Seychelles", 
         "sw_latitude": -4.605
       }, 
       "id": 24549884
     }
+  ], 
+  "bbox": [
+    55.44, 
+    -4.605, 
+    55.462, 
+    -4.577
   ]
 }

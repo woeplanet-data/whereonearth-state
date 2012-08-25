@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550786, 
-        "alias_UNK_V": [
-          "Opstina Makedonski Brod"
-        ], 
-        "name": "Makedonski Brod", 
-        "alias_ENG_P": [
-          "Makedonski Brod Municipality"
-        ], 
-        "ne_latitude": 41.874, 
-        "ne_longitude": 21.413, 
-        "longitude": 21.204, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550751, 
           24550754, 
@@ -58,15 +45,51 @@
           24550818, 
           24550821
         ], 
+        "name": "Makedonski Brod", 
+        "alias_ENG_P": [
+          "Makedonski Brod Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550786", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550786, 
+        "alias_UNK_V": [
+          "Opstina Makedonski Brod"
+        ], 
+        "longitude": 21.204, 
+        "ne_longitude": 21.413, 
+        "placetype": "state", 
+        "latitude": 41.665, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550751", 
+          "woe:state=24550763", 
+          "woe:state=24550767", 
+          "woe:state=24550782", 
+          "woe:state=24550795", 
+          "woe:state=24550797", 
+          "woe:state=24550804", 
+          "woe:state=24550809", 
+          "woe:state=24550818", 
+          "woe:state=24550754", 
+          "woe:state=24550821"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.665, 
+        "ne_latitude": 41.874, 
         "sw_longitude": 20.995, 
         "fullname": "Makedonski Brod, Makedonski Brod Municipality, Macedonia", 
         "sw_latitude": 41.456
       }, 
       "id": 24550786
     }
+  ], 
+  "bbox": [
+    20.995, 
+    41.456, 
+    21.413, 
+    41.874
   ]
 }

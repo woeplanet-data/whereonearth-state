@@ -12,11 +12,11 @@
             ], 
             [
               27.823, 
-              -14.980
+              -14.98
             ], 
             [
               30.418, 
-              -14.980
+              -14.98
             ], 
             [
               30.418, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347809, 
-        "name": "Lusaka", 
         "adjacent_woeid": [
           2346318, 
           2347804, 
@@ -41,14 +39,27 @@
           2347812, 
           2347814
         ], 
-        "ne_latitude": -14.980, 
+        "name": "Lusaka", 
+        "hierarchy": [
+          "woe:state=2347809", 
+          "woe:country=23425003", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347809, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 30.418, 
         "longitude": 29.121, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "ZM", 
         "date_indexed": "2010-12-02T07:50:33Z", 
-        "parent_woeid": 23425003, 
+        "adjacent": [
+          "woe:state=2347805", 
+          "woe:state=2347812", 
+          "woe:state=2347814", 
+          "woe:state=2347804", 
+          "woe:state=2346318"
+        ], 
+        "ne_latitude": -14.98, 
         "latitude": -15.482, 
         "sw_longitude": 27.823, 
         "fullname": "Lusaka, Zambia", 
@@ -56,5 +67,11 @@
       }, 
       "id": 2347809
     }
+  ], 
+  "bbox": [
+    27.823, 
+    -15.984, 
+    30.418, 
+    -14.98
   ]
 }

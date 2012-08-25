@@ -8,7 +8,7 @@
           [
             [
               130.523, 
-              47.660
+              47.66
             ], 
             [
               130.523, 
@@ -20,11 +20,11 @@
             ], 
             [
               134.987, 
-              47.660
+              47.66
             ], 
             [
               130.523, 
-              47.660
+              47.66
             ]
           ]
         ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070516, 
-        "name": "Yevreyskaya Avtonomnaya Oblast", 
         "adjacent_woeid": [
           2346883, 
           2346888, 
           12577998
         ], 
-        "ne_latitude": 49.577, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Yevreyskaya Avtonomnaya Oblast", 
+        "hierarchy": [
+          "woe:state=20070516", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070516, 
         "ne_longitude": 134.987, 
         "longitude": 132.755, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 48.618, 
+        "iso": "RU", 
+        "sw_latitude": 47.66, 
+        "adjacent": [
+          "woe:state=2346888", 
+          "woe:state=2346883", 
+          "woe:state=12577998"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 49.577, 
         "sw_longitude": 130.523, 
         "fullname": "Yevreyskaya Avtonomnaya Oblast, Russia", 
-        "sw_latitude": 47.660
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 20070516
     }
+  ], 
+  "bbox": [
+    130.523, 
+    47.66, 
+    134.987, 
+    49.577
   ]
 }

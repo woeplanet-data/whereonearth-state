@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347021, 
-        "name": "Woqooyi Galbeed", 
         "adjacent_woeid": [
           2345156, 
           2345158, 
@@ -41,23 +39,42 @@
           2347020, 
           56013540
         ], 
-        "ne_latitude": 11.511, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Woqooyi Galbeed", 
+        "hierarchy": [
+          "woe:state=2347021", 
+          "woe:country=23424949", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347021, 
         "ne_longitude": 46.125, 
         "longitude": 44.404, 
         "alias_CHI_Q": [
           "\u54c8\u5c14\u683c\u8428"
         ], 
-        "placetype": "State", 
-        "iso": "SO", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
-        "parent_woeid": 23424949, 
+        "placetype": "state", 
         "latitude": 10.099, 
+        "iso": "SO", 
+        "sw_latitude": 8.708, 
+        "adjacent": [
+          "woe:state=2345156", 
+          "woe:state=2345158", 
+          "woe:state=2347017", 
+          "woe:state=56013540", 
+          "woe:state=2347020"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.511, 
         "sw_longitude": 42.683, 
         "fullname": "Woqooyi Galbeed, Somalia", 
-        "sw_latitude": 8.708
+        "date_indexed": "2010-12-02T08:51:00Z"
       }, 
       "id": 2347021
     }
+  ], 
+  "bbox": [
+    42.683, 
+    8.708, 
+    46.125, 
+    11.511
   ]
 }

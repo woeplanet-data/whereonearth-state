@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347128, 
-        "name": "Mae Hong Son", 
         "adjacent_woeid": [
           2344814, 
           2344815, 
@@ -41,23 +39,42 @@
           2347129, 
           2347135
         ], 
-        "ne_latitude": 19.814, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mae Hong Son", 
         "alias_ENG_V": [
           "Changwat Mae Hong Son"
         ], 
+        "hierarchy": [
+          "woe:state=2347128", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347128, 
         "ne_longitude": 98.652, 
         "longitude": 97.998, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 18.726, 
+        "iso": "TH", 
+        "sw_latitude": 17.637, 
+        "adjacent": [
+          "woe:state=2347129", 
+          "woe:state=2344814", 
+          "woe:state=2344815", 
+          "woe:state=2344820", 
+          "woe:state=2347135"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.814, 
         "sw_longitude": 97.344, 
         "fullname": "Mae Hong Son, Thailand", 
-        "sw_latitude": 17.637
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347128
     }
+  ], 
+  "bbox": [
+    97.344, 
+    17.637, 
+    98.652, 
+    19.814
   ]
 }

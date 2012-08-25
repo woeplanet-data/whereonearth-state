@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              14.130, 
+              14.13, 
               -19.418
             ], 
             [
-              14.130, 
+              14.13, 
               -17.391
             ], 
             [
@@ -23,7 +23,7 @@
               -19.418
             ], 
             [
-              14.130, 
+              14.13, 
               -19.418
             ]
           ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20069842, 
-        "name": "Omusati", 
         "adjacent_woeid": [
           20069839, 
           20069840, 
           20069843
         ], 
-        "ne_latitude": -17.391, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Omusati", 
+        "hierarchy": [
+          "woe:state=20069842", 
+          "woe:country=23424987", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069842, 
         "ne_longitude": 15.654, 
         "longitude": 14.892, 
-        "placetype": "State", 
-        "iso": "NA", 
-        "date_indexed": "2010-12-02T07:50:17Z", 
-        "parent_woeid": 23424987, 
+        "placetype": "state", 
         "latitude": -18.405, 
-        "sw_longitude": 14.130, 
+        "iso": "NA", 
+        "sw_latitude": -19.418, 
+        "adjacent": [
+          "woe:state=20069839", 
+          "woe:state=20069840", 
+          "woe:state=20069843"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -17.391, 
+        "sw_longitude": 14.13, 
         "fullname": "Omusati, Namibia", 
-        "sw_latitude": -19.418
+        "date_indexed": "2010-12-02T07:50:17Z"
       }, 
       "id": 20069842
     }
+  ], 
+  "bbox": [
+    14.13, 
+    -19.418, 
+    15.654, 
+    -17.391
   ]
 }

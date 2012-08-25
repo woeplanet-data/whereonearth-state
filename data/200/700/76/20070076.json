@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070076, 
-        "name": "Kon Tum", 
         "adjacent_woeid": [
           2344940, 
           2347711, 
@@ -42,20 +40,40 @@
           20070158, 
           20070159
         ], 
-        "ne_latitude": 15.198, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kon Tum", 
+        "hierarchy": [
+          "woe:state=20070076", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070076, 
         "ne_longitude": 108.521, 
         "longitude": 108.213, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 14.67, 
         "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
-        "latitude": 14.670, 
+        "sw_latitude": 13.922, 
+        "adjacent": [
+          "woe:state=20070159", 
+          "woe:state=2347733", 
+          "woe:state=2347711", 
+          "woe:state=20070077", 
+          "woe:state=2344940", 
+          "woe:state=20070158"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.198, 
         "sw_longitude": 107.339, 
         "fullname": "Kon Tum, Vietnam", 
-        "sw_latitude": 13.922
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 20070076
     }
+  ], 
+  "bbox": [
+    107.339, 
+    13.922, 
+    108.521, 
+    15.198
   ]
 }

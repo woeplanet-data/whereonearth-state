@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344832, 
-        "name": "Haradzyenskaya Voblasts'", 
         "adjacent_woeid": [
           2344830, 
           2344834, 
           2344835
         ], 
-        "ne_latitude": 54.997, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Haradzyenskaya Voblasts'", 
         "alias_ENG_V": [
           "Grodno Oblast"
         ], 
+        "hierarchy": [
+          "woe:state=2344832", 
+          "woe:country=23424765", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344832, 
         "ne_longitude": 26.689, 
-        "longitude": 25.100, 
-        "placetype": "State", 
+        "longitude": 25.1, 
+        "placetype": "state", 
+        "latitude": 53.87, 
         "iso": "BY", 
-        "date_indexed": "2010-12-02T16:32:52Z", 
-        "parent_woeid": 23424765, 
-        "latitude": 53.870, 
+        "sw_latitude": 52.745, 
+        "adjacent": [
+          "woe:state=2344830", 
+          "woe:state=2344834", 
+          "woe:state=2344835"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 54.997, 
         "sw_longitude": 23.511, 
         "fullname": "Haradzyenskaya Voblasts', Belarus", 
-        "sw_latitude": 52.745
+        "date_indexed": "2010-12-02T16:32:52Z"
       }, 
       "id": 2344832
     }
+  ], 
+  "bbox": [
+    23.511, 
+    52.745, 
+    26.689, 
+    54.997
   ]
 }

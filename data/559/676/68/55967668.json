@@ -333,9 +333,14 @@
       "properties": {
         "ne:ProvNumber": 12, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=55967668", 
+          "woe:country=23424764", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 7.536439520667386, 
         "ne:Shape_Area": 0.224546898689, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -344,6 +349,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 1.531565789029969, 
+        "adjacent": [
+          "woe:state=2344825", 
+          "woe:state=56048437", 
+          "woe:state=2344827", 
+          "woe:state=56048438", 
+          "woe:state=2344829"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 6.861, 
         "ne:FIPS_1": "BN12", 
@@ -380,7 +392,6 @@
         ], 
         "name": "Kouffo", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424764, 
         "ne_longitude": 2.093133579451205, 
         "longitude": 1.831, 
         "iso": "BJ", 

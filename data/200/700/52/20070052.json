@@ -12,11 +12,11 @@
             ], 
             [
               26.548, 
-              43.720
+              43.72
             ], 
             [
               27.423, 
-              43.720
+              43.72
             ], 
             [
               27.423, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070052, 
-        "name": "Shumen", 
         "adjacent_woeid": [
           20070049, 
           20070050, 
@@ -43,20 +41,41 @@
           20070072, 
           20070075
         ], 
-        "ne_latitude": 43.720, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Shumen", 
+        "hierarchy": [
+          "woe:state=20070052", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070052, 
         "ne_longitude": 27.423, 
         "longitude": 26.986, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 43.31, 
         "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
-        "latitude": 43.310, 
+        "sw_latitude": 42.899, 
+        "adjacent": [
+          "woe:state=20070075", 
+          "woe:state=20070050", 
+          "woe:state=20070071", 
+          "woe:state=20070070", 
+          "woe:state=20070049", 
+          "woe:state=20070072", 
+          "woe:state=20070051"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.72, 
         "sw_longitude": 26.548, 
         "fullname": "Shumen, Bulgaria", 
-        "sw_latitude": 42.899
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070052
     }
+  ], 
+  "bbox": [
+    26.548, 
+    42.899, 
+    27.423, 
+    43.72
   ]
 }

@@ -4167,11 +4167,16 @@
         "alias_KOR_Q": [
           "\ud560\ub9ac\uc2a4\ucf54"
         ], 
+        "hierarchy": [
+          "woe:state=2346277", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 22.771581936357336, 
         "ne:Shape_Area": 6.93238603301, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "18241004", 
         "alias_ENG_A": [
           "JA"
         ], 
@@ -4181,13 +4186,21 @@
         "alias_CHI_Q": [
           "\u54c8\u5229\u65af\u79d1"
         ], 
-        "ne:OBJECTID": 2719, 
+        "ne:DataRank": 2, 
         "alias_JPN_Q": [
           "\u30cf\u30ea\u30b9\u30b3"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -105.68313025625628, 
+        "adjacent": [
+          "woe:state=2346264", 
+          "woe:state=2346271", 
+          "woe:state=2346274", 
+          "woe:state=2346279", 
+          "woe:state=2346281", 
+          "woe:state=2346295"
+        ], 
         "alias_SPA_V": [
           "Estado de Jalisco"
         ], 
@@ -4197,9 +4210,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 18.95383047159902, 
-        "ne:VertexCou": 1037.0, 
-        "ne:VALIDFR_1": "18241004", 
-        "ne:DataRank": 2, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 2719, 
         "ne:Postal": "JA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -4215,8 +4228,8 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 79999.4, 
         "woe:id": "2346277", 
-        "ne:HASC_1": "MX.JA", 
-        "lang": "SPA", 
+        "name": "Jalisco", 
+        "ne:VertexCou": 1037.0, 
         "adjacent_woeid": [
           2346264, 
           2346271, 
@@ -4225,9 +4238,8 @@
           2346281, 
           2346295
         ], 
-        "name": "Jalisco", 
+        "ne:HASC_1": "MX.JA", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424900, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -103.606, 
         "ne_longitude": -101.52054195834467, 

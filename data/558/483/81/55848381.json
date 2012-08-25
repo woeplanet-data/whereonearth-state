@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848381, 
-        "name": "Ribnica", 
         "adjacent_woeid": [
           12577982, 
           55848344, 
@@ -41,14 +39,27 @@
           55848356, 
           55848364
         ], 
-        "ne_latitude": 45.821, 
+        "name": "Ribnica", 
+        "hierarchy": [
+          "woe:state=55848381", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848381, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.819, 
         "longitude": 14.678, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848344", 
+          "woe:state=55848349", 
+          "woe:state=55848356", 
+          "woe:state=55848364", 
+          "woe:state=12577982"
+        ], 
+        "ne_latitude": 45.821, 
         "latitude": 45.701, 
         "sw_longitude": 14.537, 
         "fullname": "Ribnica, Slovenia", 
@@ -56,5 +67,11 @@
       }, 
       "id": 55848381
     }
+  ], 
+  "bbox": [
+    14.537, 
+    45.581, 
+    14.819, 
+    45.821
   ]
 }

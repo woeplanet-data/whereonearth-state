@@ -8,7 +8,7 @@
           [
             [
               30.864, 
-              -18.060
+              -18.06
             ], 
             [
               30.864, 
@@ -20,11 +20,11 @@
             ], 
             [
               31.222, 
-              -18.060
+              -18.06
             ], 
             [
               30.864, 
-              -18.060
+              -18.06
             ]
           ]
         ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24550731, 
-        "name": "Harare", 
         "adjacent_woeid": [
           2347812, 
           2347813, 
           2347814
         ], 
-        "ne_latitude": -17.662, 
+        "name": "Harare", 
+        "hierarchy": [
+          "woe:state=24550731", 
+          "woe:country=23425004", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550731, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 31.222, 
         "longitude": 31.043, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "ZW", 
         "date_indexed": "2010-12-02T16:52:36Z", 
-        "parent_woeid": 23425004, 
+        "adjacent": [
+          "woe:state=2347812", 
+          "woe:state=2347813", 
+          "woe:state=2347814"
+        ], 
+        "ne_latitude": -17.662, 
         "latitude": -17.861, 
         "sw_longitude": 30.864, 
         "fullname": "Harare, Zimbabwe", 
-        "sw_latitude": -18.060
+        "sw_latitude": -18.06
       }, 
       "id": 24550731
     }
+  ], 
+  "bbox": [
+    30.864, 
+    -18.06, 
+    31.222, 
+    -17.662
   ]
 }

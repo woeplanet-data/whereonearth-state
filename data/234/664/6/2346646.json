@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              23.590, 
+              23.59, 
               45.471
             ], 
             [
-              23.590, 
+              23.59, 
               46.284
             ], 
             [
@@ -23,7 +23,7 @@
               45.471
             ], 
             [
-              23.590, 
+              23.59, 
               45.471
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "RUM", 
-        "woeid": 2346646, 
-        "name": "Sibiu", 
         "adjacent_woeid": [
           2346615, 
           2346617, 
@@ -41,20 +39,39 @@
           2346640, 
           2346652
         ], 
-        "ne_latitude": 46.284, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sibiu", 
+        "hierarchy": [
+          "woe:state=2346646", 
+          "woe:country=23424933", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346646, 
         "ne_longitude": 24.948, 
         "longitude": 24.269, 
-        "placetype": "State", 
-        "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
-        "parent_woeid": 23424933, 
+        "placetype": "state", 
         "latitude": 45.878, 
-        "sw_longitude": 23.590, 
+        "iso": "RO", 
+        "sw_latitude": 45.471, 
+        "adjacent": [
+          "woe:state=2346615", 
+          "woe:state=2346617", 
+          "woe:state=2346623", 
+          "woe:state=2346640", 
+          "woe:state=2346652"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 46.284, 
+        "sw_longitude": 23.59, 
         "fullname": "Sibiu, Romania", 
-        "sw_latitude": 45.471
+        "date_indexed": "2010-12-02T16:36:29Z"
       }, 
       "id": 2346646
     }
+  ], 
+  "bbox": [
+    23.59, 
+    45.471, 
+    24.948, 
+    46.284
   ]
 }

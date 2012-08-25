@@ -2676,17 +2676,27 @@
         "alias_ENG_P": [
           "Central Kalimantan"
         ], 
+        "hierarchy": [
+          "woe:state=2345722", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 0.740058498800749, 
         "ne:Shape_Area": 12.357357098, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "1958", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IDN", 
-        "ne:OBJECTID": 1931, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 110.75456302246556, 
+        "adjacent": [
+          "woe:state=2345720", 
+          "woe:state=2345721", 
+          "woe:state=2345723"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -1.433, 
         "ne:FIPS_1": "ID13", 
@@ -2694,9 +2704,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -3.571978041353475, 
-        "ne:VertexCou": 666.0, 
-        "ne:VALIDFR_1": "1958", 
-        "ne:DataRank": 1, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 1931, 
         "ne:Postal": "KT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kalteng", 
@@ -2712,16 +2722,15 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 152028.2, 
         "woe:id": "2345722", 
-        "ne:HASC_1": "ID.KT", 
-        "lang": "UNK", 
+        "name": "Kalimantan Tengah", 
+        "ne:VertexCou": 666.0, 
         "adjacent_woeid": [
           2345720, 
           2345721, 
           2345723
         ], 
-        "name": "Kalimantan Tengah", 
+        "ne:HASC_1": "ID.KT", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424846, 
         "alias_UNK_V": [
           "Kalteng"
         ], 

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              42.510, 
+              42.51, 
               42.109
             ], 
             [
-              42.510, 
+              42.51, 
               42.581
             ], 
             [
@@ -23,7 +23,7 @@
               42.109
             ], 
             [
-              42.510, 
+              42.51, 
               42.109
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070390, 
-        "name": "Tsqaltubo", 
         "adjacent_woeid": [
           20070380, 
           20070381, 
@@ -46,20 +44,44 @@
           20070393, 
           20070404
         ], 
-        "ne_latitude": 42.581, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tsqaltubo", 
+        "hierarchy": [
+          "woe:state=20070390", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070390, 
         "ne_longitude": 42.912, 
         "longitude": 42.711, 
-        "placetype": "State", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "placetype": "state", 
         "latitude": 42.345, 
-        "sw_longitude": 42.510, 
+        "iso": "GE", 
+        "sw_latitude": 42.109, 
+        "adjacent": [
+          "woe:state=20070380", 
+          "woe:state=20070388", 
+          "woe:state=20070392", 
+          "woe:state=20070404", 
+          "woe:state=20070393", 
+          "woe:state=20070389", 
+          "woe:state=20070381", 
+          "woe:state=20070387", 
+          "woe:state=20070391", 
+          "woe:state=20070386"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.581, 
+        "sw_longitude": 42.51, 
         "fullname": "Tsqaltubo, Georgia", 
-        "sw_latitude": 42.109
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070390
     }
+  ], 
+  "bbox": [
+    42.51, 
+    42.109, 
+    42.912, 
+    42.581
   ]
 }

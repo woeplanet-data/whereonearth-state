@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "RUM", 
-        "ne_latitude": 45.443, 
-        "name": "Dambovita", 
         "adjacent_woeid": [
           2346617, 
           2346623, 
@@ -42,23 +40,43 @@
           2346655, 
           29281934
         ], 
-        "parent_woeid": 23424933, 
+        "name": "Dambovita", 
+        "hierarchy": [
+          "woe:state=2346630", 
+          "woe:country=23424933", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 45.443, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 25.992, 
-        "longitude": 25.560, 
-        "placetype": "State", 
+        "longitude": 25.56, 
+        "placetype": "state", 
+        "iso": "RO", 
+        "sw_latitude": 44.413, 
+        "adjacent": [
+          "woe:state=2346617", 
+          "woe:state=2346623", 
+          "woe:state=2346655", 
+          "woe:state=29281934", 
+          "woe:state=2346643", 
+          "woe:state=2346648"
+        ], 
         "alias_RUM_V": [
           "Dimbovita"
         ], 
-        "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 44.928, 
         "sw_longitude": 25.128, 
         "fullname": "Dambovita, Romania", 
         "woeid": 2346630, 
-        "sw_latitude": 44.413
+        "date_indexed": "2010-12-02T16:36:29Z"
       }, 
       "id": 2346630
     }
+  ], 
+  "bbox": [
+    25.128, 
+    44.413, 
+    25.992, 
+    45.443
   ]
 }

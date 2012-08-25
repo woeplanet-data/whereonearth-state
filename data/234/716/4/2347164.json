@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347164, 
-        "name": "Pathum Thani", 
         "adjacent_woeid": [
           2347161, 
           2347162, 
@@ -42,23 +40,43 @@
           2347168, 
           2347169
         ], 
-        "ne_latitude": 14.276, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Pathum Thani", 
         "alias_ENG_V": [
           "Changwat Pathum Thani"
         ], 
+        "hierarchy": [
+          "woe:state=2347164", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347164, 
         "ne_longitude": 100.952, 
         "longitude": 100.642, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 14.096, 
+        "iso": "TH", 
+        "sw_latitude": 13.916, 
+        "adjacent": [
+          "woe:state=2347165", 
+          "woe:state=2347169", 
+          "woe:state=2347168", 
+          "woe:state=2347163", 
+          "woe:state=2347161", 
+          "woe:state=2347162"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.276, 
         "sw_longitude": 100.332, 
         "fullname": "Pathum Thani, Thailand", 
-        "sw_latitude": 13.916
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347164
     }
+  ], 
+  "bbox": [
+    100.332, 
+    13.916, 
+    100.952, 
+    14.276
   ]
 }

@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347156, 
-        "name": "Narathiwat", 
         "adjacent_woeid": [
           2346298, 
           2346302, 
           2347193, 
           2347194
         ], 
-        "ne_latitude": 6.635, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Narathiwat", 
         "alias_ENG_V": [
           "Changwat Narathiwat"
         ], 
+        "hierarchy": [
+          "woe:state=2347156", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347156, 
         "ne_longitude": 102.092, 
         "longitude": 101.732, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 6.184, 
+        "iso": "TH", 
+        "sw_latitude": 5.733, 
+        "adjacent": [
+          "woe:state=2346298", 
+          "woe:state=2347193", 
+          "woe:state=2346302", 
+          "woe:state=2347194"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 6.635, 
         "sw_longitude": 101.371, 
         "fullname": "Narathiwat, Thailand", 
-        "sw_latitude": 5.733
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347156
     }
+  ], 
+  "bbox": [
+    101.371, 
+    5.733, 
+    102.092, 
+    6.635
   ]
 }

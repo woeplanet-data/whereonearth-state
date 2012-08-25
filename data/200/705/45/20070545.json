@@ -31,44 +31,60 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ITA", 
-        "woeid": 20070545, 
+        "hierarchy": [
+          "woe:state=20070545", 
+          "woe:country=23424947", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 43.942, 
+        "placetype": "state", 
+        "alias_POR_Q": [
+          "S\u00e3o Marino"
+        ], 
+        "alias_POR_S": [
+          "Sao Marino"
+        ], 
         "alias_ITA_V": [
           "S Marino"
         ], 
-        "name": "San Marino", 
+        "woeid": 20070545, 
+        "sw_longitude": 12.412, 
+        "adjacent": [
+          "woe:state=20070543", 
+          "woe:state=20070544", 
+          "woe:state=20070546", 
+          "woe:state=20070549"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.928, 
+        "sw_latitude": 43.915, 
+        "lang": "ITA", 
         "adjacent_woeid": [
           20070543, 
           20070544, 
           20070546, 
           20070549
         ], 
-        "ne_latitude": 43.942, 
-        "alias_POR_S": [
-          "Sao Marino"
-        ], 
+        "name": "San Marino", 
         "ne_longitude": 12.456, 
         "longitude": 12.435, 
-        "parent_woeid": 23424947, 
-        "placetype": "State", 
+        "iso": "SM", 
+        "date_indexed": "2010-12-02T09:58:07Z", 
         "alias_FRE_V": [
           "St.-Marin"
         ], 
-        "iso": "SM", 
-        "date_indexed": "2010-12-02T09:58:07Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 43.928, 
-        "sw_longitude": 12.412, 
         "fullname": "San Marino", 
-        "alias_POR_Q": [
-          "S\u00e3o Marino"
-        ], 
-        "sw_latitude": 43.915, 
         "alias_FRE_Q": [
           "Saint-Marin"
         ]
       }, 
       "id": 20070545
     }
+  ], 
+  "bbox": [
+    12.412, 
+    43.915, 
+    12.456, 
+    43.942
   ]
 }

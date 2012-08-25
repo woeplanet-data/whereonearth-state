@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              35.280, 
+              35.28, 
               -16.213
             ], 
             [
-              35.280, 
+              35.28, 
               -15.443
             ], 
             [
@@ -23,7 +23,7 @@
               -16.213
             ], 
             [
-              35.280, 
+              35.28, 
               -16.213
             ]
           ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070141, 
-        "name": "Mulanje", 
         "adjacent_woeid": [
           20070140, 
           20070142, 
           20070144, 
           56189819
         ], 
-        "ne_latitude": -15.443, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mulanje", 
+        "hierarchy": [
+          "woe:state=20070141", 
+          "woe:country=23424889", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070141, 
         "ne_longitude": 35.853, 
         "longitude": 35.567, 
-        "placetype": "State", 
-        "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
-        "parent_woeid": 23424889, 
+        "placetype": "state", 
         "latitude": -15.828, 
-        "sw_longitude": 35.280, 
+        "iso": "MW", 
+        "sw_latitude": -16.213, 
+        "adjacent": [
+          "woe:state=20070142", 
+          "woe:state=56189819", 
+          "woe:state=20070144", 
+          "woe:state=20070140"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -15.443, 
+        "sw_longitude": 35.28, 
         "fullname": "Mulanje, Malawi", 
-        "sw_latitude": -16.213
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 20070141
     }
+  ], 
+  "bbox": [
+    35.28, 
+    -16.213, 
+    35.853, 
+    -15.443
   ]
 }

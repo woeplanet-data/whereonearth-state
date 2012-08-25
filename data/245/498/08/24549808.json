@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "DUT", 
-        "woeid": 24549808, 
         "name": "Saba", 
-        "ne_latitude": 17.656, 
+        "hierarchy": [
+          "woe:state=24549808", 
+          "woe:country=23424914", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549808, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -63.211, 
         "longitude": -63.232, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AN", 
         "date_indexed": "2010-12-02T16:42:51Z", 
-        "parent_woeid": 23424914, 
+        "ne_latitude": 17.656, 
         "latitude": 17.639, 
         "sw_longitude": -63.253, 
         "fullname": "Saba, Netherlands Antilles", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549808
     }
+  ], 
+  "bbox": [
+    -63.253, 
+    17.623, 
+    -63.211, 
+    17.656
   ]
 }

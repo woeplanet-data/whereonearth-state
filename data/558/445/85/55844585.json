@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55844585, 
-        "name": "\u00d3eguma Novads", 
         "adjacent_woeid": [
           55844184, 
           55844512, 
@@ -44,23 +42,45 @@
           56190579, 
           56190592
         ], 
+        "name": "\u00d3eguma Novads", 
+        "latitude": 56.761, 
         "alias_UNK_S": [
           "Oeguma Novads"
         ], 
-        "ne_latitude": 56.845, 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 55844585, 
         "ne_longitude": 24.937, 
         "longitude": 24.806, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=55844585", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
         "iso": "LV", 
         "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
-        "latitude": 56.761, 
+        "adjacent": [
+          "woe:state=56190579", 
+          "woe:state=56190557", 
+          "woe:state=56190592", 
+          "woe:state=55844184", 
+          "woe:state=55844512", 
+          "woe:state=56190566", 
+          "woe:state=56190542", 
+          "woe:state=56190574"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 56.845, 
         "sw_longitude": 24.518, 
         "fullname": "\u00d3eguma Novads, Ogres Rajons, \u00d3eguma Novads, Latvia", 
         "sw_latitude": 56.676
       }, 
       "id": 55844585
     }
+  ], 
+  "bbox": [
+    24.518, 
+    56.676, 
+    24.937, 
+    56.845
   ]
 }

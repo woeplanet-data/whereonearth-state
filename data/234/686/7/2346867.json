@@ -12,11 +12,11 @@
             ], 
             [
               98.894, 
-              57.240
+              57.24
             ], 
             [
               116.922, 
-              57.240
+              57.24
             ], 
             [
               116.922, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346867, 
-        "name": "Buryatiya", 
         "adjacent_woeid": [
           2346167, 
           2346170, 
@@ -42,20 +40,40 @@
           2346894, 
           2346896
         ], 
-        "ne_latitude": 57.240, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Buryatiya", 
+        "hierarchy": [
+          "woe:state=2346867", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346867, 
         "ne_longitude": 116.922, 
         "longitude": 111.185, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 53.596, 
+        "iso": "RU", 
+        "sw_latitude": 49.953, 
+        "adjacent": [
+          "woe:state=2346174", 
+          "woe:state=2346894", 
+          "woe:state=2346167", 
+          "woe:state=2346896", 
+          "woe:state=2346170", 
+          "woe:state=2346879"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 57.24, 
         "sw_longitude": 98.894, 
         "fullname": "Buryatiya, Russia", 
-        "sw_latitude": 49.953
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346867
     }
+  ], 
+  "bbox": [
+    98.894, 
+    49.953, 
+    116.922, 
+    57.24
   ]
 }

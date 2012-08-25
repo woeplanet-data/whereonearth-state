@@ -32,22 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": -36.103, 
-        "name": "Neuqu\u00e9n", 
-        "alias_ENG_P": [
-          "Neuquen"
-        ], 
-        "woeid": 2344689, 
-        "alias_SPA_V": [
-          "Provincia del Neuqu\u00e9n"
-        ], 
-        "ne_longitude": -68.013, 
-        "longitude": -69.990, 
-        "parent_woeid": 23424747, 
-        "placetype": "State", 
-        "alias_SPA_S": [
-          "Provincia del Neuquen"
-        ], 
         "adjacent_woeid": [
           2344685, 
           2344687, 
@@ -58,18 +42,54 @@
           2345028, 
           56043703
         ], 
-        "iso": "AR", 
-        "date_indexed": "2010-12-02T17:40:36Z", 
         "alias_ENG_A": [
           "N"
         ], 
+        "alias_ENG_P": [
+          "Neuquen"
+        ], 
+        "hierarchy": [
+          "woe:state=2344689", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": -36.103, 
+        "alias_SPA_V": [
+          "Provincia del Neuqu\u00e9n"
+        ], 
+        "ne_longitude": -68.013, 
+        "longitude": -69.99, 
+        "placetype": "state", 
+        "alias_SPA_S": [
+          "Provincia del Neuquen"
+        ], 
+        "sw_longitude": -71.947, 
+        "sw_latitude": -41.096, 
+        "adjacent": [
+          "woe:state=2345021", 
+          "woe:state=2345023", 
+          "woe:state=2344685", 
+          "woe:state=2345026", 
+          "woe:state=56043703", 
+          "woe:state=2345028", 
+          "woe:state=2344687", 
+          "woe:state=2344690"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -38.599, 
-        "sw_longitude": -71.947, 
+        "iso": "AR", 
         "fullname": "Neuqu\u00e9n, Neuquen, Argentina", 
-        "sw_latitude": -41.096
+        "woeid": 2344689, 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "name": "Neuqu\u00e9n"
       }, 
       "id": 2344689
     }
+  ], 
+  "bbox": [
+    -71.947, 
+    -41.096, 
+    -68.013, 
+    -36.103
   ]
 }

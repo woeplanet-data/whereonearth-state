@@ -12070,17 +12070,22 @@
         "alias_ENG_P": [
           "Guangdong"
         ], 
+        "hierarchy": [
+          "woe:state=12578019", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 25.517590033653164, 
         "ne:Shape_Area": 15.4572295343, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uad11\ub465"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1180, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u5ee3\u6771\u7701"
         ], 
@@ -12093,6 +12098,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 109.66186486227366, 
+        "adjacent": [
+          "woe:state=12578006", 
+          "woe:state=24703004", 
+          "woe:state=12577993", 
+          "woe:state=12578020", 
+          "woe:state=12578001", 
+          "woe:state=12577997"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 22.859, 
         "ne:FIPS_1": "CH30", 
@@ -12100,9 +12113,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 20.23835154838531, 
-        "ne:VertexCou": 2983.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1180, 
         "ne:Postal": "GD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Guangdong", 
@@ -12118,8 +12131,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 175008.2, 
         "woe:id": "12578019", 
-        "ne:HASC_1": "CN.GD", 
-        "lang": "CHI", 
+        "name": "\u5e7f\u4e1c\u7701", 
+        "ne:VertexCou": 2983.0, 
         "adjacent_woeid": [
           12577993, 
           12577997, 
@@ -12128,9 +12141,8 @@
           12578020, 
           24703004
         ], 
-        "name": "\u5e7f\u4e1c\u7701", 
+        "ne:HASC_1": "CN.GD", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 117.17468794129547, 
         "longitude": 113.419, 
         "iso": "CN", 

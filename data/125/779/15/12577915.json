@@ -113,11 +113,16 @@
       "properties": {
         "ne:ProvNumber": 2001, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=12577915", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.60681020732528, 
         "ne:Shape_Area": 0.0642517158265, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 5, 
+        "ne:VALIDFR_1": "1872", 
         "alias_KOR_Q": [
           "\ubd80\ub2e4\ud398\uc2a4\ud2b8"
         ], 
@@ -126,13 +131,17 @@
         "alias_CHI_Q": [
           "\u5e03\u8fbe\u4f69\u65af"
         ], 
-        "ne:OBJECTID": 3160, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30d6\u30c0\u30da\u30b9\u30c8"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 18.92962527808419, 
+        "adjacent": [
+          "woe:state=12577923", 
+          "woe:state=56043627"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.482, 
         "ne:FIPS_1": "HU05", 
@@ -140,9 +149,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Capital City", 
         "sw_latitude": 47.360158596042425, 
-        "ne:VertexCou": 24.0, 
-        "ne:VALIDFR_1": "1872", 
-        "ne:DataRank": 6, 
+        "lang": "HUN", 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 3160, 
         "ne:Postal": "BU", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Budapeste", 
@@ -158,15 +167,14 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 538.4, 
         "woe:id": "12577915", 
-        "ne:HASC_1": "HU.BU", 
-        "lang": "HUN", 
+        "name": "Budapest", 
+        "ne:VertexCou": 24.0, 
         "adjacent_woeid": [
           12577923, 
           56043627
         ], 
-        "name": "Budapest", 
+        "ne:HASC_1": "HU.BU", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424844, 
         "ne_longitude": 19.326706984439852, 
         "longitude": 19.13, 
         "iso": "HU", 

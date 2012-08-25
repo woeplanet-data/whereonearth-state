@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070060, 
-        "name": "Blagoevgrad", 
         "adjacent_woeid": [
           20070059, 
           20070061, 
           20070066, 
           20070067
         ], 
-        "ne_latitude": 42.184, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Blagoevgrad", 
+        "hierarchy": [
+          "woe:state=20070060", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070060, 
         "ne_longitude": 24.115, 
         "longitude": 23.489, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 41.75, 
         "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
-        "latitude": 41.750, 
+        "sw_latitude": 41.317, 
+        "adjacent": [
+          "woe:state=20070059", 
+          "woe:state=20070066", 
+          "woe:state=20070067", 
+          "woe:state=20070061"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.184, 
         "sw_longitude": 22.864, 
         "fullname": "Blagoevgrad, Bulgaria", 
-        "sw_latitude": 41.317
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070060
     }
+  ], 
+  "bbox": [
+    22.864, 
+    41.317, 
+    24.115, 
+    42.184
   ]
 }

@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070413, 
-        "name": "Bundibugyo", 
         "adjacent_woeid": [
           20070419, 
           20070424, 
           20070425
         ], 
-        "ne_latitude": 1.301, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bundibugyo", 
+        "hierarchy": [
+          "woe:state=20070413", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070413, 
         "ne_longitude": 30.559, 
         "longitude": 30.234, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 0.857, 
+        "iso": "UG", 
+        "sw_latitude": 0.412, 
+        "adjacent": [
+          "woe:state=20070419", 
+          "woe:state=20070424", 
+          "woe:state=20070425"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.301, 
         "sw_longitude": 29.909, 
         "fullname": "Bundibugyo, Uganda", 
-        "sw_latitude": 0.412
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070413
     }
+  ], 
+  "bbox": [
+    29.909, 
+    0.412, 
+    30.559, 
+    1.301
   ]
 }

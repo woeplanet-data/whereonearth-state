@@ -1244,21 +1244,35 @@
           "Guelders"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2346375", 
+          "woe:country=23424909", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 52.521793019732115, 
         "ne:Shape_Area": 0.672312395874, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
         "alias_ITA_Q": [
           "Gheldria"
         ], 
-        "ne:OBJECTID": 896, 
+        "ne:DataRank": 8, 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 5.004480421534254, 
+        "adjacent": [
+          "woe:state=2346384", 
+          "woe:state=2346377", 
+          "woe:state=2346378", 
+          "woe:state=2345487", 
+          "woe:state=2346380", 
+          "woe:state=2346381", 
+          "woe:state=2346383"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.128, 
         "ne:FIPS_1": "NL03", 
@@ -1269,8 +1283,8 @@
         "alias_DUT_A": [
           "GLD"
         ], 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 896, 
         "ne:Postal": "GE", 
         "alias_DUT_V": [
           "Gelderland Provincie"
@@ -1278,18 +1292,18 @@
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Geldern|Gheldria|Guelders|Gueldre", 
         "ne:ISO": "NLD", 
-        "ne:TYPE_1": "Provincie", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 5.81845606202, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "Netherlands", 
         "ne:NAME_1": "Gelderland", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Provincie", 
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 5130.2, 
         "woe:id": "2346375", 
-        "ne:HASC_1": "NL.GE", 
+        "name": "Gelderland", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2345487, 
@@ -1300,9 +1314,8 @@
           2346383, 
           2346384
         ], 
-        "name": "Gelderland", 
+        "ne:HASC_1": "NL.GE", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424909, 
         "ne_longitude": 6.811346876657069, 
         "longitude": 5.913, 
         "ne:VertexCou": 291.0, 

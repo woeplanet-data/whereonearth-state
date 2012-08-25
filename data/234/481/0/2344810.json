@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344810, 
-        "name": "Rakhine State", 
         "adjacent_woeid": [
           2344790, 
           2344811, 
@@ -41,20 +39,39 @@
           2344816, 
           2344818
         ], 
-        "ne_latitude": 21.473, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Rakhine State", 
+        "hierarchy": [
+          "woe:state=2344810", 
+          "woe:country=23424763", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344810, 
         "ne_longitude": 94.844, 
         "longitude": 94.186, 
-        "placetype": "State", 
-        "iso": "MM", 
-        "date_indexed": "2010-12-02T17:58:12Z", 
-        "parent_woeid": 23424763, 
+        "placetype": "state", 
         "latitude": 19.454, 
+        "iso": "MM", 
+        "sw_latitude": 17.435, 
+        "adjacent": [
+          "woe:state=2344812", 
+          "woe:state=2344818", 
+          "woe:state=2344811", 
+          "woe:state=2344790", 
+          "woe:state=2344816"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 21.473, 
         "sw_longitude": 92.189, 
         "fullname": "Rakhine State, Myanmar", 
-        "sw_latitude": 17.435
+        "date_indexed": "2010-12-02T17:58:12Z"
       }, 
       "id": 2344810
     }
+  ], 
+  "bbox": [
+    92.189, 
+    17.435, 
+    94.844, 
+    21.473
   ]
 }

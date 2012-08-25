@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347191, 
-        "name": "Satun", 
         "adjacent_woeid": [
           2346303, 
           2347189, 
           2347190, 
           2347192
         ], 
-        "ne_latitude": 7.132, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Satun", 
         "alias_ENG_V": [
           "Changwat Satun"
         ], 
+        "hierarchy": [
+          "woe:state=2347191", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347191, 
         "ne_longitude": 100.221, 
         "longitude": 99.945, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 6.777, 
+        "iso": "TH", 
+        "sw_latitude": 6.423, 
+        "adjacent": [
+          "woe:state=2346303", 
+          "woe:state=2347190", 
+          "woe:state=2347192", 
+          "woe:state=2347189"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 7.132, 
         "sw_longitude": 99.153, 
         "fullname": "Satun, Thailand", 
-        "sw_latitude": 6.423
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347191
     }
+  ], 
+  "bbox": [
+    99.153, 
+    6.423, 
+    100.221, 
+    7.132
   ]
 }

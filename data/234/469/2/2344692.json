@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": -28.377, 
-        "name": "San Juan", 
         "adjacent_woeid": [
           2344686, 
           2344687, 
@@ -42,26 +40,46 @@
           2345022, 
           2345024
         ], 
+        "alias_ENG_A": [
+          "SJ"
+        ], 
+        "name": "San Juan", 
+        "hierarchy": [
+          "woe:state=2344692", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
         "woeid": 2344692, 
         "alias_SPA_V": [
           "S Juan"
         ], 
         "ne_longitude": -66.715, 
         "longitude": -68.648, 
-        "parent_woeid": 23424747, 
-        "placetype": "State", 
-        "iso": "AR", 
-        "date_indexed": "2010-12-02T17:40:36Z", 
-        "alias_ENG_A": [
-          "SJ"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": -30.503, 
         "sw_longitude": -70.562, 
+        "sw_latitude": -32.632, 
+        "adjacent": [
+          "woe:state=2345022", 
+          "woe:state=2345024", 
+          "woe:state=2344686", 
+          "woe:state=2344687", 
+          "woe:state=2344693", 
+          "woe:state=2345018"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -28.377, 
+        "iso": "AR", 
         "fullname": "San Juan, Argentina", 
-        "sw_latitude": -32.632
+        "date_indexed": "2010-12-02T17:40:36Z"
       }, 
       "id": 2344692
     }
+  ], 
+  "bbox": [
+    -70.562, 
+    -32.632, 
+    -66.715, 
+    -28.377
   ]
 }

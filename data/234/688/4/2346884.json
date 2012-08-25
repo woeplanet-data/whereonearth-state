@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346884, 
-        "name": "Krasnodarskiy Kray", 
         "adjacent_woeid": [
           2346887, 
           2346921, 
@@ -41,20 +39,39 @@
           20070520, 
           20070522
         ], 
-        "ne_latitude": 46.876, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Krasnodarskiy Kray", 
+        "hierarchy": [
+          "woe:state=2346884", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346884, 
         "ne_longitude": 41.748, 
         "longitude": 39.174, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 45.13, 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
-        "latitude": 45.130, 
+        "sw_latitude": 43.383, 
+        "adjacent": [
+          "woe:state=20070401", 
+          "woe:state=20070520", 
+          "woe:state=20070522", 
+          "woe:state=2346921", 
+          "woe:state=2346887"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 46.876, 
         "sw_longitude": 36.517, 
         "fullname": "Krasnodarskiy Kray, Russia", 
-        "sw_latitude": 43.383
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346884
     }
+  ], 
+  "bbox": [
+    36.517, 
+    43.383, 
+    41.748, 
+    46.876
   ]
 }

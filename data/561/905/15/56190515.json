@@ -10,10 +10,18 @@
           56190568
         ], 
         "name": "Cesvaines Novads", 
-        "parent_woeid": 23424874, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56190515", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "LV", 
+        "adjacent": [
+          "woe:state=56190568", 
+          "woe:state=56190538"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56190515, 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 

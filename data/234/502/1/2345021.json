@@ -12,11 +12,11 @@
             ], 
             [
               -73.519, 
-              -37.580
+              -37.58
             ], 
             [
               -70.832, 
-              -37.580
+              -37.58
             ], 
             [
               -70.832, 
@@ -32,10 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": -37.580, 
+        "adjacent_woeid": [
+          2344689, 
+          2345023, 
+          56043703
+        ], 
         "name": "Araucania", 
         "alias_ENG_P": [
           "Araucania Region"
+        ], 
+        "hierarchy": [
+          "woe:state=2345021", 
+          "woe:country=23424782", 
+          "woe:planet=1"
         ], 
         "woeid": 2345021, 
         "alias_SPA_V": [
@@ -43,25 +52,31 @@
         ], 
         "ne_longitude": -70.832, 
         "longitude": -72.176, 
-        "parent_woeid": 23424782, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -38.603, 
         "alias_SPA_S": [
           "Region de la Araucania"
         ], 
-        "adjacent_woeid": [
-          2344689, 
-          2345023, 
-          56043703
-        ], 
-        "iso": "CL", 
-        "date_indexed": "2010-12-02T12:15:28Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": -38.603, 
         "sw_longitude": -73.519, 
+        "sw_latitude": -39.627, 
+        "adjacent": [
+          "woe:state=2345023", 
+          "woe:state=56043703", 
+          "woe:state=2344689"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -37.58, 
+        "iso": "CL", 
         "fullname": "Araucania, Araucania Region, Chile", 
-        "sw_latitude": -39.627
+        "date_indexed": "2010-12-02T12:15:28Z"
       }, 
       "id": 2345021
     }
+  ], 
+  "bbox": [
+    -73.519, 
+    -39.627, 
+    -70.832, 
+    -37.58
   ]
 }

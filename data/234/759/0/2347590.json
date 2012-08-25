@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -109.050, 
+              -109.05, 
               31.332
             ], 
             [
-              -109.050, 
-              37.000
+              -109.05, 
+              37.0
             ], 
             [
               -103.002, 
-              37.000
+              37.0
             ], 
             [
               -103.002, 
               31.332
             ], 
             [
-              -109.050, 
+              -109.05, 
               31.332
             ]
           ]
@@ -34,16 +34,21 @@
         "alias_ENG_V": [
           "The Land of Enchantment"
         ], 
-        "alias_ENG_A": [
-          "NM"
+        "alias_KOR_Q": [
+          "\ub274\uba55\uc2dc\ucf54"
         ], 
-        "ne_latitude": 37.000, 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=2347590", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 37.0, 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Novo M\u00e9xico"
         ], 
-        "alias_KOR_Q": [
-          "\ub274\uba55\uc2dc\ucf54"
+        "alias_ENG_A": [
+          "NM"
         ], 
         "alias_CHI_Q": [
           "\u65b0\u58a8\u897f\u54e5"
@@ -61,7 +66,14 @@
         "alias_SPA_Q": [
           "Nuevo M\u00e9xico"
         ], 
-        "sw_longitude": -109.050, 
+        "sw_longitude": -109.05, 
+        "adjacent": [
+          "woe:state=2347561", 
+          "woe:state=2347564", 
+          "woe:state=2347595", 
+          "woe:state=2347602", 
+          "woe:state=2347603"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 34.166, 
         "date_indexed": "2010-12-02T18:21:30Z", 
@@ -83,7 +95,6 @@
           2347603
         ], 
         "name": "New Mexico", 
-        "parent_woeid": 23424977, 
         "ne_longitude": -103.002, 
         "longitude": -106.026, 
         "iso": "US", 
@@ -95,5 +106,11 @@
       }, 
       "id": 2347590
     }
+  ], 
+  "bbox": [
+    -109.05, 
+    31.332, 
+    -103.002, 
+    37.0
   ]
 }

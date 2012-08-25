@@ -12,11 +12,11 @@
             ], 
             [
               28.096, 
-              54.470
+              54.47
             ], 
             [
               32.794, 
-              54.470
+              54.47
             ], 
             [
               32.794, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344833, 
-        "name": "Mahilyowskaya Voblasts'", 
         "adjacent_woeid": [
           2344831, 
           2344834, 
@@ -41,23 +39,42 @@
           2346892, 
           2346925
         ], 
-        "ne_latitude": 54.470, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mahilyowskaya Voblasts'", 
         "alias_ENG_V": [
           "Mogilev Oblast"
         ], 
+        "hierarchy": [
+          "woe:state=2344833", 
+          "woe:country=23424765", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344833, 
         "ne_longitude": 32.794, 
         "longitude": 30.445, 
-        "placetype": "State", 
-        "iso": "BY", 
-        "date_indexed": "2010-12-02T16:32:52Z", 
-        "parent_woeid": 23424765, 
+        "placetype": "state", 
         "latitude": 53.575, 
+        "iso": "BY", 
+        "sw_latitude": 52.681, 
+        "adjacent": [
+          "woe:state=2346892", 
+          "woe:state=2344831", 
+          "woe:state=2344834", 
+          "woe:state=2346925", 
+          "woe:state=2344835"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 54.47, 
         "sw_longitude": 28.096, 
         "fullname": "Mahilyowskaya Voblasts', Belarus", 
-        "sw_latitude": 52.681
+        "date_indexed": "2010-12-02T16:32:52Z"
       }, 
       "id": 2344833
     }
+  ], 
+  "bbox": [
+    28.096, 
+    52.681, 
+    32.794, 
+    54.47
   ]
 }

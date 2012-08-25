@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549749, 
-        "name": "Sada", 
         "adjacent_woeid": [
           24549754, 
           24549763
         ], 
-        "ne_latitude": -12.836, 
+        "name": "Sada", 
+        "hierarchy": [
+          "woe:state=24549749", 
+          "woe:country=23424886", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549749, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.127, 
         "longitude": 45.108, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "YT", 
         "date_indexed": "2010-12-02T16:11:57Z", 
-        "parent_woeid": 23424886, 
+        "adjacent": [
+          "woe:state=24549754", 
+          "woe:state=24549763"
+        ], 
+        "ne_latitude": -12.836, 
         "latitude": -12.861, 
         "sw_longitude": 45.089, 
         "fullname": "Sada, Mayotte", 
@@ -53,5 +61,11 @@
       }, 
       "id": 24549749
     }
+  ], 
+  "bbox": [
+    45.089, 
+    -12.885, 
+    45.127, 
+    -12.836
   ]
 }

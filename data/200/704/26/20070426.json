@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070426, 
-        "name": "Kiboga", 
         "adjacent_woeid": [
           20070416, 
           20070425, 
@@ -42,20 +40,40 @@
           56190211, 
           56190215
         ], 
-        "ne_latitude": 1.362, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kiboga", 
+        "hierarchy": [
+          "woe:state=20070426", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070426, 
         "ne_longitude": 32.204, 
         "longitude": 31.758, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 1.0, 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
-        "latitude": 1.000, 
+        "sw_latitude": 0.638, 
+        "adjacent": [
+          "woe:state=20070416", 
+          "woe:state=20070425", 
+          "woe:state=20070432", 
+          "woe:state=56190215", 
+          "woe:state=20070437", 
+          "woe:state=56190211"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.362, 
         "sw_longitude": 31.311, 
         "fullname": "Kiboga, Uganda", 
-        "sw_latitude": 0.638
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070426
     }
+  ], 
+  "bbox": [
+    31.311, 
+    0.638, 
+    32.204, 
+    1.362
   ]
 }

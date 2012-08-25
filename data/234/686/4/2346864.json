@@ -32,12 +32,16 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.494, 
-        "name": "Vega Baja", 
         "adjacent_woeid": [
           2346802, 
           2346851, 
           2346863
+        ], 
+        "name": "Vega Baja", 
+        "hierarchy": [
+          "woe:state=2346864", 
+          "woe:country=23424935", 
+          "woe:planet=1"
         ], 
         "woeid": 2346864, 
         "alias_SPA_V": [
@@ -45,17 +49,28 @@
         ], 
         "ne_longitude": -66.348, 
         "longitude": -66.398, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.418, 
         "sw_longitude": -66.449, 
+        "sw_latitude": 18.342, 
+        "adjacent": [
+          "woe:state=2346851", 
+          "woe:state=2346802", 
+          "woe:state=2346863"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.494, 
+        "iso": "PR", 
         "fullname": "Vega Baja, Puerto Rico", 
-        "sw_latitude": 18.342
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346864
     }
+  ], 
+  "bbox": [
+    -66.449, 
+    18.342, 
+    -66.348, 
+    18.494
   ]
 }

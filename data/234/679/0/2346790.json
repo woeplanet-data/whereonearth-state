@@ -12,11 +12,11 @@
             ], 
             [
               -66.321, 
-              18.180
+              18.18
             ], 
             [
               -66.217, 
-              18.180
+              18.18
             ], 
             [
               -66.217, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.180, 
-        "name": "Aibonito", 
         "adjacent_woeid": [
           2346791, 
           2346792, 
@@ -41,23 +39,42 @@
           2346795, 
           2346830
         ], 
+        "name": "Aibonito", 
+        "hierarchy": [
+          "woe:state=2346790", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346790, 
         "alias_SPA_V": [
           "Aibonito Municipios"
         ], 
         "ne_longitude": -66.217, 
         "longitude": -66.269, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.128, 
         "sw_longitude": -66.321, 
+        "sw_latitude": 18.076, 
+        "adjacent": [
+          "woe:state=2346791", 
+          "woe:state=2346792", 
+          "woe:state=2346794", 
+          "woe:state=2346795", 
+          "woe:state=2346830"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.18, 
+        "iso": "PR", 
         "fullname": "Aibonito, Puerto Rico", 
-        "sw_latitude": 18.076
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346790
     }
+  ], 
+  "bbox": [
+    -66.321, 
+    18.076, 
+    -66.217, 
+    18.18
   ]
 }

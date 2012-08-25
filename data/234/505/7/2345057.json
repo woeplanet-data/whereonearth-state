@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345057, 
-        "name": "Choco", 
         "adjacent_woeid": [
           2345048, 
           2345069, 
@@ -42,20 +40,40 @@
           2346559, 
           28358286
         ], 
-        "ne_latitude": 8.687, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Choco", 
+        "hierarchy": [
+          "woe:state=2345057", 
+          "woe:country=23424787", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345057, 
         "ne_longitude": -76.037, 
         "longitude": -76.962, 
-        "placetype": "State", 
-        "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
-        "parent_woeid": 23424787, 
+        "placetype": "state", 
         "latitude": 6.339, 
+        "iso": "CO", 
+        "sw_latitude": 3.991, 
+        "adjacent": [
+          "woe:state=2345048", 
+          "woe:state=2346555", 
+          "woe:state=28358286", 
+          "woe:state=2346559", 
+          "woe:state=2345069", 
+          "woe:state=2345074"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 8.687, 
         "sw_longitude": -77.887, 
         "fullname": "Choco, Colombia", 
-        "sw_latitude": 3.991
+        "date_indexed": "2010-12-02T17:57:12Z"
       }, 
       "id": 2345057
     }
+  ], 
+  "bbox": [
+    -77.887, 
+    3.991, 
+    -76.037, 
+    8.687
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345770, 
-        "name": "Sistan va Baluchestan", 
         "adjacent_woeid": [
           2344553, 
           2344565, 
@@ -41,20 +39,39 @@
           2345788, 
           56189825
         ], 
-        "ne_latitude": 31.471, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sistan va Baluchestan", 
+        "hierarchy": [
+          "woe:state=2345770", 
+          "woe:country=23424851", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345770, 
         "ne_longitude": 63.317, 
         "longitude": 60.991, 
-        "placetype": "State", 
-        "iso": "IR", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424851, 
+        "placetype": "state", 
         "latitude": 28.267, 
+        "iso": "IR", 
+        "sw_latitude": 25.064, 
+        "adjacent": [
+          "woe:state=2344553", 
+          "woe:state=2345776", 
+          "woe:state=2345788", 
+          "woe:state=2344565", 
+          "woe:state=56189825"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.471, 
         "sw_longitude": 58.664, 
         "fullname": "Sistan va Baluchestan, Iran", 
-        "sw_latitude": 25.064
+        "date_indexed": "2010-12-02T08:53:34Z"
       }, 
       "id": 2345770
     }
+  ], 
+  "bbox": [
+    58.664, 
+    25.064, 
+    63.317, 
+    31.471
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               47.211, 
-              40.790
+              40.79
             ], 
             [
               47.622, 
-              40.790
+              40.79
             ], 
             [
               47.622, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070213, 
-        "name": "Agdas", 
         "adjacent_woeid": [
           20070219, 
           20070226, 
@@ -44,20 +42,42 @@
           20070252, 
           20070256
         ], 
-        "ne_latitude": 40.790, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Agdas", 
+        "hierarchy": [
+          "woe:state=20070213", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070213, 
         "ne_longitude": 47.622, 
         "longitude": 47.416, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.549, 
+        "iso": "AZ", 
+        "sw_latitude": 40.309, 
+        "adjacent": [
+          "woe:state=20070219", 
+          "woe:state=20070226", 
+          "woe:state=20070250", 
+          "woe:state=20070235", 
+          "woe:state=20070245", 
+          "woe:state=20070249", 
+          "woe:state=20070252", 
+          "woe:state=20070256"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.79, 
         "sw_longitude": 47.211, 
         "fullname": "Agdas, Azerbaijan", 
-        "sw_latitude": 40.309
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070213
     }
+  ], 
+  "bbox": [
+    47.211, 
+    40.309, 
+    47.622, 
+    40.79
   ]
 }

@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347549, 
-        "alias_UNK_V": [
-          "Odeshchyna"
-        ], 
-        "name": "Odes\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Odessa Oblast"
-        ], 
-        "ne_latitude": 48.232, 
-        "ne_longitude": 31.306, 
-        "longitude": 30.568, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2346632, 
           2346650, 
@@ -55,15 +42,48 @@
           55948200, 
           55948201
         ], 
+        "ne_latitude": 48.232, 
+        "name": "Odes\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Odessa Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347549", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347549, 
+        "alias_UNK_V": [
+          "Odeshchyna"
+        ], 
+        "longitude": 30.568, 
+        "ne_longitude": 31.306, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 45.204, 
+        "adjacent": [
+          "woe:state=55948179", 
+          "woe:state=2346632", 
+          "woe:state=2347543", 
+          "woe:state=2347548", 
+          "woe:state=55948200", 
+          "woe:state=55948201", 
+          "woe:state=2346650", 
+          "woe:state=2347554"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.718, 
         "sw_longitude": 28.215, 
         "fullname": "Odes\u00b4ka Oblast\u00b4, Odessa Oblast, Ukraine", 
-        "sw_latitude": 45.204
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347549
     }
+  ], 
+  "bbox": [
+    28.215, 
+    45.204, 
+    31.306, 
+    48.232
   ]
 }

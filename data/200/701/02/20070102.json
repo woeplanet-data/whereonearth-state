@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070102, 
-        "name": "Hafnarfjordur", 
         "adjacent_woeid": [
           2345694
         ], 
-        "ne_latitude": 64.074, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Hafnarfjordur", 
+        "hierarchy": [
+          "woe:state=20070102", 
+          "woe:country=23424845", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070102, 
         "ne_longitude": -21.913, 
         "longitude": -21.941, 
-        "placetype": "State", 
-        "iso": "IS", 
-        "date_indexed": "2010-12-02T09:55:32Z", 
-        "parent_woeid": 23424845, 
+        "placetype": "state", 
         "latitude": 64.063, 
+        "iso": "IS", 
+        "sw_latitude": 64.052, 
+        "adjacent": [
+          "woe:state=2345694"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 64.074, 
         "sw_longitude": -21.969, 
         "fullname": "Hafnarfjordur, Iceland", 
-        "sw_latitude": 64.052
+        "date_indexed": "2010-12-02T09:55:32Z"
       }, 
       "id": 20070102
     }
+  ], 
+  "bbox": [
+    -21.969, 
+    64.052, 
+    -21.913, 
+    64.074
   ]
 }

@@ -329,9 +329,14 @@
       "properties": {
         "ne:ProvNumber": 21, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55967863", 
+          "woe:country=23424770", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 27.989609687137374, 
         "ne:Shape_Area": 0.16803150267, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 8, 
         "ne:gadm_level": 1.0, 
@@ -340,6 +345,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 91.29719770730838, 
+        "adjacent": [
+          "woe:state=2345763", 
+          "woe:state=2344878", 
+          "woe:state=2344879", 
+          "woe:state=2344886", 
+          "woe:state=12578004"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 27.685, 
         "ne:FIPS_1": "BT00", 
@@ -376,7 +388,6 @@
         ], 
         "name": "Tashi Yangtse", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424770, 
         "ne_longitude": 91.72709394752769, 
         "longitude": 91.516, 
         "iso": "BT", 

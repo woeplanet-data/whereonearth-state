@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344811, 
-        "name": "Chin State", 
         "adjacent_woeid": [
           2344790, 
           2344810, 
@@ -42,20 +40,40 @@
           2345751, 
           20070461
         ], 
-        "ne_latitude": 24.086, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chin State", 
+        "hierarchy": [
+          "woe:state=2344811", 
+          "woe:country=23424763", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344811, 
         "ne_longitude": 94.158, 
-        "longitude": 93.380, 
-        "placetype": "State", 
-        "iso": "MM", 
-        "date_indexed": "2010-12-02T17:58:12Z", 
-        "parent_woeid": 23424763, 
+        "longitude": 93.38, 
+        "placetype": "state", 
         "latitude": 22.348, 
+        "iso": "MM", 
+        "sw_latitude": 20.611, 
+        "adjacent": [
+          "woe:state=2344790", 
+          "woe:state=2344816", 
+          "woe:state=2345751", 
+          "woe:state=20070461", 
+          "woe:state=2344810", 
+          "woe:state=2344819"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 24.086, 
         "sw_longitude": 92.601, 
         "fullname": "Chin State, Myanmar", 
-        "sw_latitude": 20.611
+        "date_indexed": "2010-12-02T17:58:12Z"
       }, 
       "id": 2344811
     }
+  ], 
+  "bbox": [
+    92.601, 
+    20.611, 
+    94.158, 
+    24.086
   ]
 }

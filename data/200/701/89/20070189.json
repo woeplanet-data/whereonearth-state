@@ -15,11 +15,11 @@
               44.607
             ], 
             [
-              33.540, 
+              33.54, 
               44.607
             ], 
             [
-              33.540, 
+              33.54, 
               44.595
             ], 
             [
@@ -32,9 +32,8 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070189, 
-        "alias_UNK_V": [
-          "Sevastopol's'ka mis'ka rada"
+        "adjacent_woeid": [
+          2347544
         ], 
         "name": "Sevastopol\u00b4 Misto", 
         "alias_ENG_P": [
@@ -43,23 +42,37 @@
         "alias_UNK_S": [
           "Sevastopol Misto"
         ], 
-        "ne_latitude": 44.607, 
-        "ne_longitude": 33.540, 
+        "woeid": 20070189, 
+        "alias_UNK_V": [
+          "Sevastopol's'ka mis'ka rada"
+        ], 
         "longitude": 33.536, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          2347544
+        "ne_longitude": 33.54, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=20070189", 
+          "woe:country=23424976", 
+          "woe:planet=1"
         ], 
         "iso": "UA", 
         "date_indexed": "2010-12-02T08:52:18Z", 
+        "adjacent": [
+          "woe:state=2347544"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 44.601, 
+        "ne_latitude": 44.607, 
         "sw_longitude": 33.523, 
+        "latitude": 44.601, 
         "fullname": "Sevastopol\u00b4 Misto, Sevastopol City Municipality, Ukraine", 
         "sw_latitude": 44.595
       }, 
       "id": 20070189
     }
+  ], 
+  "bbox": [
+    33.523, 
+    44.595, 
+    33.54, 
+    44.607
   ]
 }

@@ -31,8 +31,13 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "hierarchy": [
+          "woe:state=2345785", 
+          "woe:country=23424851", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.284, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\ud14c\ud5e4\ub780"
         ], 
@@ -55,7 +60,14 @@
         "alias_NOR_Q": [
           "Teheran"
         ], 
-        "date_indexed": "2010-12-02T08:53:34Z", 
+        "sw_latitude": 34.978, 
+        "adjacent": [
+          "woe:state=2345783", 
+          "woe:state=2345780", 
+          "woe:state=20070200", 
+          "woe:state=20070199", 
+          "woe:state=2345784"
+        ], 
         "alias_GER_Q": [
           "Teheran"
         ], 
@@ -68,14 +80,19 @@
           20070200
         ], 
         "name": "Tehran", 
-        "parent_woeid": 23424851, 
         "ne_longitude": 53.203, 
         "longitude": 51.754, 
         "iso": "IR", 
-        "sw_latitude": 34.978, 
+        "date_indexed": "2010-12-02T08:53:34Z", 
         "fullname": "Tehran, Iran"
       }, 
       "id": 2345785
     }
+  ], 
+  "bbox": [
+    50.304, 
+    34.978, 
+    53.203, 
+    36.284
   ]
 }

@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345343, 
-        "name": "Yap", 
         "ne_latitude": 10.022, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Yap", 
+        "hierarchy": [
+          "woe:state=2345343", 
+          "woe:country=23424815", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345343, 
         "ne_longitude": 140.529, 
         "longitude": 138.125, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "FM", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "parent_woeid": 23424815, 
+        "sw_latitude": 9.438, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 9.537, 
         "sw_longitude": 138.053, 
         "fullname": "Yap, Federated States of Micronesia", 
-        "sw_latitude": 9.438
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 2345343
     }
+  ], 
+  "bbox": [
+    138.053, 
+    9.438, 
+    140.529, 
+    10.022
   ]
 }

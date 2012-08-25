@@ -1827,9 +1827,14 @@
       "properties": {
         "ne:ProvNumber": 3, 
         "ne:ScaleRank": 5, 
+        "hierarchy": [
+          "woe:state=24549806", 
+          "woe:country=23424903", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -19.10922087973978, 
         "ne:Shape_Area": 0.834721803088, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
@@ -1838,6 +1843,9 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 159.92618696545617, 
+        "adjacent": [
+          "woe:state=24549807"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -21.242, 
         "ne:FIPS_1": "NC00", 
@@ -1870,7 +1878,6 @@
         ], 
         "name": "Nord", 
         "ne:REMARKS_1": "includes all nearby islands", 
-        "parent_woeid": 23424903, 
         "ne_longitude": 166.0822969912133, 
         "longitude": 165.507, 
         "iso": "NC", 

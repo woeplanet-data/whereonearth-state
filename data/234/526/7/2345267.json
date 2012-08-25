@@ -1255,20 +1255,34 @@
           "Contae Uibh Fhaili"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2345267", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 53.427591864473015, 
         "ne:Shape_Area": 0.272506846288, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "OFF"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:OBJECTID": 716, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -8.076529914024263, 
+        "adjacent": [
+          "woe:state=2345255", 
+          "woe:state=2345257", 
+          "woe:state=2345260", 
+          "woe:state=2345265", 
+          "woe:state=2345268", 
+          "woe:state=2345270", 
+          "woe:state=2345272"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 53.139, 
         "ne:FIPS_1": "EI23", 
@@ -1276,9 +1290,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.85310496662095, 
-        "ne:VertexCou": 310.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 716, 
         "ne:Postal": "OY", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "U\u00edbh Fhail\u00ed|Kings", 
@@ -1294,8 +1308,8 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 2026.2, 
         "woe:id": "2345267", 
-        "ne:HASC_1": "IE.OY", 
-        "lang": "ENG", 
+        "name": "Offaly", 
+        "ne:VertexCou": 310.0, 
         "adjacent_woeid": [
           2345255, 
           2345257, 
@@ -1305,12 +1319,11 @@
           2345270, 
           2345272
         ], 
-        "name": "Offaly", 
+        "ne:HASC_1": "IE.OY", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Uibh Fhaili"
         ], 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "U\u00edbh Fhail\u00ed"
         ], 

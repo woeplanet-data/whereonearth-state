@@ -37,17 +37,26 @@
         "alias_ENG_S": [
           "Contae Lu"
         ], 
+        "hierarchy": [
+          "woe:state=2345263", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 54.114, 
         "ne_longitude": -6.095, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_ENG_A": [
           "LOU"
         ], 
         "woeid": 2345263, 
         "sw_longitude": -6.696, 
+        "adjacent": [
+          "woe:state=2345265", 
+          "woe:state=2345266"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 53.910, 
-        "date_indexed": "2010-12-02T12:07:35Z", 
+        "latitude": 53.91, 
+        "sw_latitude": 53.629, 
         "lang": "ENG", 
         "adjacent_woeid": [
           2345265, 
@@ -57,7 +66,6 @@
         "alias_UNK_S": [
           "Contae Lu"
         ], 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "An L\u00fa"
         ], 
@@ -66,10 +74,16 @@
         ], 
         "longitude": -6.404, 
         "iso": "IE", 
-        "sw_latitude": 53.629, 
+        "date_indexed": "2010-12-02T12:07:35Z", 
         "fullname": "Louth, Ireland"
       }, 
       "id": 2345263
     }
+  ], 
+  "bbox": [
+    -6.696, 
+    53.629, 
+    -6.095, 
+    54.114
   ]
 }

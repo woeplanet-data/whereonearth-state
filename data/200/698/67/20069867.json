@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20069867, 
-        "name": "Quthing", 
         "adjacent_woeid": [
           2346979, 
           20069866, 
           20069868
         ], 
-        "ne_latitude": -30.022, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Quthing", 
+        "hierarchy": [
+          "woe:state=20069867", 
+          "woe:country=23424880", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069867, 
         "ne_longitude": 28.374, 
         "longitude": 27.967, 
-        "placetype": "State", 
-        "iso": "LS", 
-        "date_indexed": "2010-12-02T08:57:23Z", 
-        "parent_woeid": 23424880, 
+        "placetype": "state", 
         "latitude": -30.348, 
+        "iso": "LS", 
+        "sw_latitude": -30.674, 
+        "adjacent": [
+          "woe:state=2346979", 
+          "woe:state=20069868", 
+          "woe:state=20069866"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -30.022, 
         "sw_longitude": 27.561, 
         "fullname": "Quthing, Lesotho", 
-        "sw_latitude": -30.674
+        "date_indexed": "2010-12-02T08:57:23Z"
       }, 
       "id": 20069867
     }
+  ], 
+  "bbox": [
+    27.561, 
+    -30.674, 
+    28.374, 
+    -30.022
   ]
 }

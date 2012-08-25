@@ -43,10 +43,15 @@
         "alias_SWE_S": [
           "Sodra Australien"
         ], 
+        "hierarchy": [
+          "woe:state=2344703", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -25.996, 
-        "placetype": "State", 
-        "alias_ENG_A": [
-          "SA"
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ub0a8\ubd80\ud638\uc8fc"
         ], 
         "alias_CHI_Q": [
           "\u5357\u6fb3\u5927\u5229\u4e9a\u5dde"
@@ -62,6 +67,13 @@
           "Etela-Australia"
         ], 
         "sw_longitude": 129.001, 
+        "adjacent": [
+          "woe:state=2344700", 
+          "woe:state=2344701", 
+          "woe:state=2344702", 
+          "woe:state=2344705", 
+          "woe:state=2344706"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -32.029, 
         "alias_NOR_S": [
@@ -71,8 +83,8 @@
           "S\u00f8r-Australia"
         ], 
         "date_indexed": "2010-12-02T17:43:32Z", 
-        "alias_KOR_Q": [
-          "\ub0a8\ubd80\ud638\uc8fc"
+        "alias_ENG_A": [
+          "SA"
         ], 
         "lang": "ENG", 
         "adjacent_woeid": [
@@ -83,7 +95,6 @@
           2344706
         ], 
         "name": "South Australia", 
-        "parent_woeid": 23424748, 
         "ne_longitude": 141.003, 
         "longitude": 135.002, 
         "iso": "AU", 
@@ -92,5 +103,11 @@
       }, 
       "id": 2344703
     }
+  ], 
+  "bbox": [
+    129.001, 
+    -38.061, 
+    141.003, 
+    -25.996
   ]
 }

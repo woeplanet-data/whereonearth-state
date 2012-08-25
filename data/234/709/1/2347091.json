@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Canton of Graubunden"
         ], 
+        "hierarchy": [
+          "woe:state=2347091", 
+          "woe:country=23424957", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.065, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_ITA_Q": [
           "Canton Grigioni"
         ], 
@@ -47,6 +52,14 @@
         ], 
         "woeid": 2347091, 
         "sw_longitude": 8.651, 
+        "adjacent": [
+          "woe:state=2347102", 
+          "woe:state=2347090", 
+          "woe:state=2347097", 
+          "woe:state=2347103", 
+          "woe:state=7153338", 
+          "woe:state=7153346"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.617, 
         "date_indexed": "2010-12-02T18:19:21Z", 
@@ -69,7 +82,6 @@
           7153346
         ], 
         "name": "Kanton Graub\u00fcnden", 
-        "parent_woeid": 23424957, 
         "alias_UNK_Q": [
           "Grischun"
         ], 
@@ -87,5 +99,11 @@
       }, 
       "id": 2347091
     }
+  ], 
+  "bbox": [
+    8.651, 
+    46.169, 
+    10.492, 
+    47.065
   ]
 }

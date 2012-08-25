@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -72.070, 
+              -72.07, 
               -1.204
             ], 
             [
-              -72.070, 
+              -72.07, 
               2.047
             ], 
             [
@@ -23,7 +23,7 @@
               -1.204
             ], 
             [
-              -72.070, 
+              -72.07, 
               -1.204
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345075, 
-        "name": "Vaupes", 
         "adjacent_woeid": [
           2344847, 
           2345047, 
@@ -41,20 +39,39 @@
           2345059, 
           2345060
         ], 
-        "ne_latitude": 2.047, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Vaupes", 
+        "hierarchy": [
+          "woe:state=2345075", 
+          "woe:country=23424787", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345075, 
         "ne_longitude": -69.112, 
         "longitude": -70.591, 
-        "placetype": "State", 
-        "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
-        "parent_woeid": 23424787, 
+        "placetype": "state", 
         "latitude": 0.422, 
-        "sw_longitude": -72.070, 
+        "iso": "CO", 
+        "sw_latitude": -1.204, 
+        "adjacent": [
+          "woe:state=2345047", 
+          "woe:state=2344847", 
+          "woe:state=2345054", 
+          "woe:state=2345060", 
+          "woe:state=2345059"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 2.047, 
+        "sw_longitude": -72.07, 
         "fullname": "Vaupes, Colombia", 
-        "sw_latitude": -1.204
+        "date_indexed": "2010-12-02T17:57:12Z"
       }, 
       "id": 2345075
     }
+  ], 
+  "bbox": [
+    -72.07, 
+    -1.204, 
+    -69.112, 
+    2.047
   ]
 }

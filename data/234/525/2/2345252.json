@@ -2551,11 +2551,16 @@
         "alias_KOR_Q": [
           "\ucf54\ub974\ud06c"
         ], 
+        "hierarchy": [
+          "woe:state=2345252", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 52.37923208249464, 
         "ne:Shape_Area": 0.947952090498, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "1898", 
         "alias_ENG_A": [
           "COR"
         ], 
@@ -2565,13 +2570,19 @@
         "alias_CHI_Q": [
           "\u79d1\u514b"
         ], 
-        "ne:OBJECTID": 78, 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u30b3\u30fc\u30af"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -10.162707485561953, 
+        "adjacent": [
+          "woe:state=2345256", 
+          "woe:state=2345261", 
+          "woe:state=2345270", 
+          "woe:state=2345271"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 51.915, 
         "ne:FIPS_1": "EI04", 
@@ -2579,9 +2590,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T12:07:35Z", 
-        "ne:VertexCou": 629.0, 
-        "ne:VALIDFR_1": "1898", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 78, 
         "ne:Postal": "CK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Corcaigh", 
@@ -2597,20 +2608,19 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 7256.8, 
         "woe:id": "2345252", 
-        "ne:HASC_1": "IE.CK", 
-        "lang": "ENG", 
+        "name": "Cork", 
+        "ne:VertexCou": 629.0, 
         "adjacent_woeid": [
           2345256, 
           2345261, 
           2345270, 
           2345271
         ], 
-        "name": "Cork", 
+        "ne:HASC_1": "IE.CK", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae Chorcai"
         ], 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Corcaigh"
         ], 

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070198, 
-        "name": "Ardabil", 
         "adjacent_woeid": [
           2345768, 
           2345773, 
@@ -48,20 +46,46 @@
           20070251, 
           20070257
         ], 
-        "ne_latitude": 39.696, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ardabil", 
+        "hierarchy": [
+          "woe:state=20070198", 
+          "woe:country=23424851", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070198, 
         "ne_longitude": 48.898, 
         "longitude": 47.966, 
-        "placetype": "State", 
-        "iso": "IR", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424851, 
+        "placetype": "state", 
         "latitude": 38.407, 
+        "iso": "IR", 
+        "sw_latitude": 37.119, 
+        "adjacent": [
+          "woe:state=20070217", 
+          "woe:state=2345768", 
+          "woe:state=20070257", 
+          "woe:state=20070242", 
+          "woe:state=20070224", 
+          "woe:state=20070223", 
+          "woe:state=20070225", 
+          "woe:state=2345773", 
+          "woe:state=20070227", 
+          "woe:state=20070238", 
+          "woe:state=20070251", 
+          "woe:state=2345786"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.696, 
         "sw_longitude": 47.033, 
         "fullname": "Ardabil, Iran", 
-        "sw_latitude": 37.119
+        "date_indexed": "2010-12-02T08:53:34Z"
       }, 
       "id": 20070198
     }
+  ], 
+  "bbox": [
+    47.033, 
+    37.119, 
+    48.898, 
+    39.696
   ]
 }

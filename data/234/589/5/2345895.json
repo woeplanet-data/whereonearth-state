@@ -527,20 +527,32 @@
         "alias_ENG_P": [
           "Yamanashi Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345895", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.95780548783307, 
         "ne:Shape_Area": 0.448583482437, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1861, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5c71\u68a8"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 138.16854861892364, 
+        "adjacent": [
+          "woe:state=2345883", 
+          "woe:state=2345889", 
+          "woe:state=2345868", 
+          "woe:state=2345875", 
+          "woe:state=2345886"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.57, 
         "ne:FIPS_1": "JA46", 
@@ -548,9 +560,9 @@
         "ne:FIRST_HASC": "JP.AO", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 35.156975816280976, 
-        "ne:VertexCou": 126.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1861, 
         "ne:Postal": "YN", 
         "ne:Region_Cod": "JPN-KNT", 
         "ne:VARNAME_1": "Yamanasi", 
@@ -566,8 +578,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 4510.0, 
         "woe:id": "2345895", 
-        "ne:HASC_1": "JP.YN", 
-        "lang": "JPN", 
+        "name": "\u5c71\u68a8\u770c", 
+        "ne:VertexCou": 126.0, 
         "adjacent_woeid": [
           2345868, 
           2345875, 
@@ -575,9 +587,8 @@
           2345886, 
           2345889
         ], 
-        "name": "\u5c71\u68a8\u770c", 
+        "ne:HASC_1": "JP.YN", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 139.1217720885112, 
         "longitude": 138.657, 
         "iso": "JP", 

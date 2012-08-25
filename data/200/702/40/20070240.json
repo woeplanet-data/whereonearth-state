@@ -12,11 +12,11 @@
             ], 
             [
               46.972, 
-              40.860
+              40.86
             ], 
             [
               47.134, 
-              40.860
+              40.86
             ], 
             [
               47.134, 
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070240, 
-        "name": "Mingacevir", 
         "adjacent_woeid": [
           20070245, 
           20070252
         ], 
-        "ne_latitude": 40.860, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mingacevir", 
+        "hierarchy": [
+          "woe:state=20070240", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070240, 
         "ne_longitude": 47.134, 
         "longitude": 47.053, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.774, 
+        "iso": "AZ", 
+        "sw_latitude": 40.688, 
+        "adjacent": [
+          "woe:state=20070245", 
+          "woe:state=20070252"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.86, 
         "sw_longitude": 46.972, 
         "fullname": "Mingacevir, Azerbaijan", 
-        "sw_latitude": 40.688
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070240
     }
+  ], 
+  "bbox": [
+    46.972, 
+    40.688, 
+    47.134, 
+    40.86
   ]
 }

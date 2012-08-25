@@ -8,23 +8,23 @@
           [
             [
               33.894, 
-              39.910
+              39.91
             ], 
             [
               33.894, 
               41.333
             ], 
             [
-              35.520, 
+              35.52, 
               41.333
             ], 
             [
-              35.520, 
-              39.910
+              35.52, 
+              39.91
             ], 
             [
               33.894, 
-              39.910
+              39.91
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347276, 
-        "name": "\u00c7orum", 
         "adjacent_woeid": [
           2347262, 
           2347275, 
@@ -43,23 +41,44 @@
           2347317, 
           2347329
         ], 
+        "name": "\u00c7orum", 
+        "ne_latitude": 41.333, 
         "alias_UNK_S": [
           "Corum"
         ], 
-        "ne_latitude": 41.333, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 35.520, 
+        "woeid": 2347276, 
+        "ne_longitude": 35.52, 
         "longitude": 34.707, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=2347276", 
+          "woe:country=23424969", 
+          "woe:planet=1"
+        ], 
         "iso": "TR", 
-        "date_indexed": "2010-12-02T16:22:51Z", 
-        "parent_woeid": 23424969, 
+        "sw_latitude": 39.91, 
+        "adjacent": [
+          "woe:state=2347262", 
+          "woe:state=2347292", 
+          "woe:state=2347329", 
+          "woe:state=2347307", 
+          "woe:state=2347308", 
+          "woe:state=2347317", 
+          "woe:state=2347275"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 40.621, 
         "sw_longitude": 33.894, 
         "fullname": "\u00c7orum, Turkey", 
-        "sw_latitude": 39.910
+        "date_indexed": "2010-12-02T16:22:51Z"
       }, 
       "id": 2347276
     }
+  ], 
+  "bbox": [
+    33.894, 
+    39.91, 
+    35.52, 
+    41.333
   ]
 }

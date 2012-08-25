@@ -1629,9 +1629,14 @@
       "properties": {
         "ne:ProvNumber": 0, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=55966994", 
+          "woe:country=23424854", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 8.167072861923089, 
         "ne:Shape_Area": 1.36176573559, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -1640,6 +1645,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": -8.485858934242401, 
+        "adjacent": [
+          "woe:state=55966992", 
+          "woe:state=55966996", 
+          "woe:state=55966999", 
+          "woe:state=2346103", 
+          "woe:state=56059376", 
+          "woe:state=55967006"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 7.366, 
         "ne:FIPS_1": "IV36", 
@@ -1677,7 +1690,6 @@
         ], 
         "name": "Dix-Huit Montagnes", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424854, 
         "ne_longitude": -6.982591518583661, 
         "longitude": -7.725, 
         "iso": "CI", 

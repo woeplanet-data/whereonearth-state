@@ -15,11 +15,11 @@
               38.639
             ], 
             [
-              48.880, 
+              48.88, 
               38.639
             ], 
             [
-              48.880, 
+              48.88, 
               38.397
             ], 
             [
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070217, 
-        "name": "Astara", 
         "adjacent_woeid": [
           2345773, 
           20070198, 
           20070238, 
           20070263
         ], 
-        "ne_latitude": 38.639, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 48.880, 
+        "name": "Astara", 
+        "hierarchy": [
+          "woe:state=20070217", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070217, 
+        "ne_longitude": 48.88, 
         "longitude": 48.708, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 38.518, 
+        "iso": "AZ", 
+        "sw_latitude": 38.397, 
+        "adjacent": [
+          "woe:state=20070198", 
+          "woe:state=2345773", 
+          "woe:state=20070263", 
+          "woe:state=20070238"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 38.639, 
         "sw_longitude": 48.536, 
         "fullname": "Astara, Azerbaijan", 
-        "sw_latitude": 38.397
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070217
     }
+  ], 
+  "bbox": [
+    48.536, 
+    38.397, 
+    48.88, 
+    38.639
   ]
 }

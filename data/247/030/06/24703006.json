@@ -32,23 +32,31 @@
       "type": "Feature", 
       "properties": {
         "lang": "CHI", 
-        "woeid": 24703006, 
-        "name": "\u4e5d\u9f8d", 
-        "alias_ENG_P": [
-          "Kowloon"
-        ], 
-        "ne_latitude": 22.359, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 114.246, 
-        "longitude": 114.159, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24703004, 
           24703007
         ], 
+        "name": "\u4e5d\u9f8d", 
+        "alias_ENG_P": [
+          "Kowloon"
+        ], 
+        "hierarchy": [
+          "woe:state=24703006", 
+          "woe:country=24865698", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24703006, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 114.246, 
+        "longitude": 114.159, 
+        "placetype": "state", 
         "iso": "HK", 
         "date_indexed": "2010-12-02T12:08:18Z", 
-        "parent_woeid": 24865698, 
+        "adjacent": [
+          "woe:state=24703004", 
+          "woe:state=24703007"
+        ], 
+        "ne_latitude": 22.359, 
         "latitude": 22.333, 
         "sw_longitude": 114.122, 
         "fullname": "\u4e5d\u9f8d, Kowloon, Hong Kong", 
@@ -56,5 +64,11 @@
       }, 
       "id": 24703006
     }
+  ], 
+  "bbox": [
+    114.122, 
+    22.286, 
+    114.246, 
+    22.359
   ]
 }

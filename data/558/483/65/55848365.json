@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848365, 
-        "name": "Ljutomer", 
         "adjacent_woeid": [
           12577979, 
           55848348, 
@@ -42,14 +40,28 @@
           55848373, 
           55848377
         ], 
-        "ne_latitude": 46.608, 
+        "name": "Ljutomer", 
+        "hierarchy": [
+          "woe:state=55848365", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848365, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 16.315, 
         "longitude": 16.163, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848348", 
+          "woe:state=55848362", 
+          "woe:state=12577979", 
+          "woe:state=55848370", 
+          "woe:state=55848373", 
+          "woe:state=55848377"
+        ], 
+        "ne_latitude": 46.608, 
         "latitude": 46.537, 
         "sw_longitude": 16.012, 
         "fullname": "Ljutomer, Slovenia", 
@@ -57,5 +69,11 @@
       }, 
       "id": 55848365
     }
+  ], 
+  "bbox": [
+    16.012, 
+    46.466, 
+    16.315, 
+    46.608
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": -11.244, 
-        "name": "Cusco", 
         "adjacent_woeid": [
           2346470, 
           2346471, 
@@ -43,23 +41,44 @@
           2346488, 
           2346492
         ], 
+        "name": "Cusco", 
+        "hierarchy": [
+          "woe:state=2346475", 
+          "woe:country=23424919", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346475, 
         "alias_SPA_V": [
           "Cuzco"
         ], 
         "ne_longitude": -70.349, 
         "longitude": -72.148, 
-        "parent_woeid": 23424919, 
-        "placetype": "State", 
-        "iso": "PE", 
-        "date_indexed": "2010-12-02T16:12:03Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": -13.284, 
         "sw_longitude": -73.947, 
+        "sw_latitude": -15.325, 
+        "adjacent": [
+          "woe:state=2346470", 
+          "woe:state=2346471", 
+          "woe:state=2346472", 
+          "woe:state=2346479", 
+          "woe:state=2346484", 
+          "woe:state=2346488", 
+          "woe:state=2346492"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -11.244, 
+        "iso": "PE", 
         "fullname": "Cusco, Peru", 
-        "sw_latitude": -15.325
+        "date_indexed": "2010-12-02T16:12:03Z"
       }, 
       "id": 2346475
     }
+  ], 
+  "bbox": [
+    -73.947, 
+    -15.325, 
+    -70.349, 
+    -11.244
   ]
 }

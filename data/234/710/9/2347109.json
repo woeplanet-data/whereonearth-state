@@ -2246,11 +2246,16 @@
           "Abu Zaby"
         ], 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=2347109", 
+          "woe:country=23424738", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 24.969897365970724, 
         "ne:Shape_Area": 5.25186190623, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "19711202", 
         "alias_KOR_Q": [
           "\uc544\ubd80\ub2e4\ube44"
         ], 
@@ -2259,10 +2264,17 @@
         "alias_CHI_Q": [
           "\u963f\u5e03\u8fbe\u6bd4"
         ], 
-        "ne:OBJECTID": 349, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 51.56928673699338, 
+        "adjacent": [
+          "woe:state=2346954", 
+          "woe:state=2346255", 
+          "woe:state=55927046", 
+          "woe:state=2347111", 
+          "woe:state=2347114"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 23.778, 
         "ne:FIPS_1": "AE01", 
@@ -2270,9 +2282,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Emirate", 
         "sw_latitude": 22.621229356549634, 
-        "ne:VertexCou": 528.0, 
-        "ne:VALIDFR_1": "19711202", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 349, 
         "ne:Postal": "AZ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Abo\u00fb Dab\u00ee|Abu Dabi|Abu ?abi|Abu ?aby", 
@@ -2288,8 +2300,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 59351.9, 
         "woe:id": "2347109", 
-        "ne:HASC_1": "AE.AZ", 
-        "lang": "ENG", 
+        "name": "Abu Dhabi", 
+        "ne:VertexCou": 528.0, 
         "adjacent_woeid": [
           2346255, 
           2346954, 
@@ -2297,9 +2309,8 @@
           2347114, 
           55927046
         ], 
-        "name": "Abu Dhabi", 
+        "ne:HASC_1": "AE.AZ", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424738, 
         "ne_longitude": 55.9976986022088, 
         "longitude": 53.799, 
         "iso": "AE", 

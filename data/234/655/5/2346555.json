@@ -12,11 +12,11 @@
             ], 
             [
               -78.483, 
-              9.110
+              9.11
             ], 
             [
               -77.174, 
-              9.110
+              9.11
             ], 
             [
               -77.174, 
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346555, 
-        "name": "Dari\u00e9n", 
         "adjacent_woeid": [
           2345057, 
           2346558, 
           2346559, 
           28358286
         ], 
-        "ne_latitude": 9.110, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Dari\u00e9n", 
+        "hierarchy": [
+          "woe:state=2346555", 
+          "woe:country=23424924", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346555, 
         "ne_longitude": -77.174, 
-        "longitude": -77.740, 
-        "placetype": "State", 
+        "longitude": -77.74, 
+        "placetype": "state", 
+        "latitude": 8.165, 
         "alias_SPA_S": [
           "Darien"
         ], 
         "iso": "PA", 
-        "date_indexed": "2010-12-02T17:52:20Z", 
-        "parent_woeid": 23424924, 
-        "latitude": 8.165, 
+        "sw_latitude": 7.221, 
+        "adjacent": [
+          "woe:state=2345057", 
+          "woe:state=28358286", 
+          "woe:state=2346559", 
+          "woe:state=2346558"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.11, 
         "sw_longitude": -78.483, 
         "fullname": "Dari\u00e9n, Panama", 
-        "sw_latitude": 7.221
+        "date_indexed": "2010-12-02T17:52:20Z"
       }, 
       "id": 2346555
     }
+  ], 
+  "bbox": [
+    -78.483, 
+    7.221, 
+    -77.174, 
+    9.11
   ]
 }

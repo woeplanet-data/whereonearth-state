@@ -15,11 +15,11 @@
               16.283
             ], 
             [
-              105.060, 
+              105.06, 
               16.283
             ], 
             [
-              105.060, 
+              105.06, 
               15.537
             ], 
             [
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347201, 
-        "name": "Amnat Charoen", 
         "adjacent_woeid": [
           2346008, 
           2347195, 
           2347197, 
           2347199
         ], 
-        "ne_latitude": 16.283, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Amnat Charoen", 
         "alias_ENG_V": [
           "Changwat Amnat Charoen"
         ], 
-        "ne_longitude": 105.060, 
+        "hierarchy": [
+          "woe:state=2347201", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347201, 
+        "ne_longitude": 105.06, 
         "longitude": 104.739, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 15.91, 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
-        "latitude": 15.910, 
+        "sw_latitude": 15.537, 
+        "adjacent": [
+          "woe:state=2347197", 
+          "woe:state=2346008", 
+          "woe:state=2347199", 
+          "woe:state=2347195"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.283, 
         "sw_longitude": 104.418, 
         "fullname": "Amnat Charoen, Thailand", 
-        "sw_latitude": 15.537
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347201
     }
+  ], 
+  "bbox": [
+    104.418, 
+    15.537, 
+    105.06, 
+    16.283
   ]
 }

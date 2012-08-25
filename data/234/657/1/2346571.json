@@ -8,7 +8,7 @@
           [
             [
               -7.849, 
-              40.230
+              40.23
             ], 
             [
               -7.849, 
@@ -20,11 +20,11 @@
             ], 
             [
               -6.781, 
-              40.230
+              40.23
             ], 
             [
               -7.849, 
-              40.230
+              40.23
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2346571, 
-        "name": "Guarda", 
         "adjacent_woeid": [
           2346565, 
           2346566, 
@@ -42,20 +40,40 @@
           12578033, 
           12578035
         ], 
-        "ne_latitude": 41.179, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Guarda", 
+        "hierarchy": [
+          "woe:state=2346571", 
+          "woe:country=23424925", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346571, 
         "ne_longitude": -6.781, 
         "longitude": -7.315, 
-        "placetype": "State", 
-        "iso": "PT", 
-        "date_indexed": "2010-12-02T09:58:14Z", 
-        "parent_woeid": 23424925, 
+        "placetype": "state", 
         "latitude": 40.705, 
+        "iso": "PT", 
+        "sw_latitude": 40.23, 
+        "adjacent": [
+          "woe:state=2346565", 
+          "woe:state=2346566", 
+          "woe:state=12578033", 
+          "woe:state=2346567", 
+          "woe:state=12578035", 
+          "woe:state=2346580"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.179, 
         "sw_longitude": -7.849, 
         "fullname": "Guarda, Portugal", 
-        "sw_latitude": 40.230
+        "date_indexed": "2010-12-02T09:58:14Z"
       }, 
       "id": 2346571
     }
+  ], 
+  "bbox": [
+    -7.849, 
+    40.23, 
+    -6.781, 
+    41.179
   ]
 }

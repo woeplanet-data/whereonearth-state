@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070438, 
-        "name": "Mukono", 
         "adjacent_woeid": [
           20070417, 
           20070453, 
           24550740, 
           24550742
         ], 
-        "ne_latitude": 0.656, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mukono", 
+        "hierarchy": [
+          "woe:state=20070438", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070438, 
         "ne_longitude": 33.438, 
         "longitude": 32.982, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 0.254, 
+        "iso": "UG", 
+        "sw_latitude": -0.996, 
+        "adjacent": [
+          "woe:state=20070417", 
+          "woe:state=24550742", 
+          "woe:state=20070453", 
+          "woe:state=24550740"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.656, 
         "sw_longitude": 32.527, 
         "fullname": "Mukono, Uganda", 
-        "sw_latitude": -0.996
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070438
     }
+  ], 
+  "bbox": [
+    32.527, 
+    -0.996, 
+    33.438, 
+    0.656
   ]
 }

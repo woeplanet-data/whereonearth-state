@@ -8,23 +8,23 @@
           [
             [
               14.417, 
-              57.700
+              57.7
             ], 
             [
               14.417, 
-              59.020
+              59.02
             ], 
             [
               17.043, 
-              59.020
+              59.02
             ], 
             [
               17.043, 
-              57.700
+              57.7
             ], 
             [
               14.417, 
-              57.700
+              57.7
             ]
           ]
         ]
@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Ostergotlands"
         ], 
-        "ne_latitude": 59.020, 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=2347059", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 59.02, 
+        "placetype": "state", 
         "alias_POR_Q": [
           "\u00d6sterg\u00f6tland"
         ], 
@@ -65,8 +70,15 @@
           "Oestergoetland"
         ], 
         "sw_longitude": 14.417, 
+        "adjacent": [
+          "woe:state=2347051", 
+          "woe:state=2347052", 
+          "woe:state=2347061", 
+          "woe:state=20070562", 
+          "woe:state=2347058"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 58.360, 
+        "latitude": 58.36, 
         "alias_NOR_S": [
           "Oestergoetland"
         ], 
@@ -101,11 +113,10 @@
           20070562
         ], 
         "name": "\u00d6sterg\u00f6tlands L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 17.043, 
         "longitude": 15.683, 
         "iso": "SE", 
-        "sw_latitude": 57.700, 
+        "sw_latitude": 57.7, 
         "fullname": "\u00d6sterg\u00f6tlands L\u00e4n, Ostergotland, Sweden", 
         "alias_FRE_S": [
           "Oestergoetland"
@@ -116,5 +127,11 @@
       }, 
       "id": 2347059
     }
+  ], 
+  "bbox": [
+    14.417, 
+    57.7, 
+    17.043, 
+    59.02
   ]
 }

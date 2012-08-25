@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -23.630, 
+              -23.63, 
               15.045
             ], 
             [
-              -23.630, 
+              -23.63, 
               15.176
             ], 
             [
@@ -23,7 +23,7 @@
               15.045
             ], 
             [
-              -23.630, 
+              -23.63, 
               15.045
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 56051561, 
-        "name": "Santa Cruz", 
         "adjacent_woeid": [
           2345128, 
           56051557, 
@@ -41,20 +39,39 @@
           56051560, 
           56051562
         ], 
-        "ne_latitude": 15.176, 
+        "name": "Santa Cruz", 
+        "hierarchy": [
+          "woe:state=56051561", 
+          "woe:country=23424794", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56051561, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -23.496, 
         "longitude": -23.563, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "CV", 
         "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424794, 
+        "adjacent": [
+          "woe:state=2345128", 
+          "woe:state=56051562", 
+          "woe:state=56051560", 
+          "woe:state=56051558", 
+          "woe:state=56051557"
+        ], 
+        "ne_latitude": 15.176, 
         "latitude": 15.111, 
-        "sw_longitude": -23.630, 
+        "sw_longitude": -23.63, 
         "fullname": "Santa Cruz, Cape Verde", 
         "sw_latitude": 15.045
       }, 
       "id": 56051561
     }
+  ], 
+  "bbox": [
+    -23.63, 
+    15.045, 
+    -23.496, 
+    15.176
   ]
 }

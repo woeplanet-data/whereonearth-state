@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              99.830, 
+              99.83, 
               13.648
             ], 
             [
-              99.830, 
+              99.83, 
               14.212
             ], 
             [
@@ -23,7 +23,7 @@
               13.648
             ], 
             [
-              99.830, 
+              99.83, 
               13.648
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347177, 
-        "name": "Nathon Pathon", 
         "adjacent_woeid": [
           2347161, 
           2347163, 
@@ -43,23 +41,44 @@
           2347176, 
           2347179
         ], 
-        "ne_latitude": 14.212, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nathon Pathon", 
         "alias_ENG_V": [
           "Changwat Nathon Pathon"
         ], 
+        "hierarchy": [
+          "woe:state=2347177", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347177, 
         "ne_longitude": 100.337, 
         "longitude": 100.083, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 13.93, 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
-        "latitude": 13.930, 
-        "sw_longitude": 99.830, 
+        "sw_latitude": 13.648, 
+        "adjacent": [
+          "woe:state=2347165", 
+          "woe:state=2347174", 
+          "woe:state=2347163", 
+          "woe:state=2347161", 
+          "woe:state=2347176", 
+          "woe:state=2347179", 
+          "woe:state=2347175"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.212, 
+        "sw_longitude": 99.83, 
         "fullname": "Nathon Pathon, Thailand", 
-        "sw_latitude": 13.648
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347177
     }
+  ], 
+  "bbox": [
+    99.83, 
+    13.648, 
+    100.337, 
+    14.212
   ]
 }

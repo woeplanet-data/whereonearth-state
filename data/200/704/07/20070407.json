@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070407, 
-        "alias_ENG_S": [
-          "Rustravi"
-        ], 
-        "name": "Rust\u00b4avi", 
         "adjacent_woeid": [
           20070357, 
           20070408
         ], 
+        "alias_ENG_S": [
+          "Rustravi"
+        ], 
+        "name": "Rust\u00b4avi", 
         "ne_latitude": 41.552, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=20070407", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070407, 
         "ne_longitude": 45.044, 
         "longitude": 45.021, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "sw_latitude": 41.525, 
+        "adjacent": [
+          "woe:state=20070408", 
+          "woe:state=20070357"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 41.539, 
         "sw_longitude": 44.998, 
         "fullname": "Rust\u00b4avi, Georgia", 
-        "sw_latitude": 41.525
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070407
     }
+  ], 
+  "bbox": [
+    44.998, 
+    41.525, 
+    45.044, 
+    41.552
   ]
 }

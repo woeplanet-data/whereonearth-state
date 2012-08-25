@@ -12,11 +12,11 @@
             ], 
             [
               -5.784, 
-              -15.890
+              -15.89
             ], 
             [
               -5.633, 
-              -15.890
+              -15.89
             ], 
             [
               -5.633, 
@@ -32,25 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20069824, 
-        "name": "Saint Helena", 
         "alias_ENG_V": [
           "Sthelena"
         ], 
-        "ne_latitude": -15.890, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint Helena", 
+        "hierarchy": [
+          "woe:state=20069824", 
+          "woe:country=23424944", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069824, 
         "ne_longitude": -5.633, 
         "longitude": -5.709, 
-        "placetype": "State", 
-        "iso": "SH", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "parent_woeid": 23424944, 
+        "placetype": "state", 
         "latitude": -15.943, 
+        "iso": "SH", 
+        "sw_latitude": -16.045, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -15.89, 
         "sw_longitude": -5.784, 
         "fullname": "Saint Helena", 
-        "sw_latitude": -16.045
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 20069824
     }
+  ], 
+  "bbox": [
+    -5.784, 
+    -16.045, 
+    -5.633, 
+    -15.89
   ]
 }

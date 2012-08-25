@@ -15,11 +15,11 @@
               22.821
             ], 
             [
-              103.740, 
+              103.74, 
               22.821
             ], 
             [
-              103.740, 
+              103.74, 
               20.854
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 28301718, 
-        "name": "Dien Bien", 
         "adjacent_woeid": [
           2346004, 
           2346006, 
@@ -41,14 +39,27 @@
           2347713, 
           12578018
         ], 
-        "ne_latitude": 22.821, 
+        "name": "Dien Bien", 
+        "hierarchy": [
+          "woe:state=28301718", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 28301718, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 103.740, 
+        "ne_longitude": 103.74, 
         "longitude": 102.944, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347708", 
+          "woe:state=2346004", 
+          "woe:state=2346006", 
+          "woe:state=2347713", 
+          "woe:state=12578018"
+        ], 
+        "ne_latitude": 22.821, 
         "latitude": 21.838, 
         "sw_longitude": 102.148, 
         "fullname": "Dien Bien, Vietnam", 
@@ -56,5 +67,11 @@
       }, 
       "id": 28301718
     }
+  ], 
+  "bbox": [
+    102.148, 
+    20.854, 
+    103.74, 
+    22.821
   ]
 }

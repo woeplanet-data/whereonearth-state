@@ -32,19 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "DAN", 
-        "woeid": 28362583, 
-        "name": "Hovedstaden", 
         "adjacent_woeid": [
           28362582
         ], 
-        "ne_latitude": 56.129, 
+        "name": "Hovedstaden", 
+        "hierarchy": [
+          "woe:state=28362583", 
+          "woe:country=23424796", 
+          "woe:planet=1"
+        ], 
+        "woeid": 28362583, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.193, 
         "longitude": 12.263, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "DK", 
         "date_indexed": "2010-12-02T16:12:23Z", 
-        "parent_woeid": 23424796, 
+        "adjacent": [
+          "woe:state=28362582"
+        ], 
+        "ne_latitude": 56.129, 
         "latitude": 55.842, 
         "sw_longitude": 11.843, 
         "fullname": "Hovedstaden, Denmark", 
@@ -55,5 +62,11 @@
       }, 
       "id": 28362583
     }
+  ], 
+  "bbox": [
+    11.843, 
+    54.987, 
+    15.193, 
+    56.129
   ]
 }

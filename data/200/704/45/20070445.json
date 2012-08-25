@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070445, 
-        "name": "Adjumani", 
         "adjacent_woeid": [
           20070412, 
           20070444, 
           56190206
         ], 
-        "ne_latitude": 3.592, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Adjumani", 
+        "hierarchy": [
+          "woe:state=20070445", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070445, 
         "ne_longitude": 32.094, 
-        "longitude": 31.420, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "longitude": 31.42, 
+        "placetype": "state", 
         "latitude": 2.979, 
+        "iso": "UG", 
+        "sw_latitude": 2.884, 
+        "adjacent": [
+          "woe:state=56190206", 
+          "woe:state=20070412", 
+          "woe:state=20070444"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 3.592, 
         "sw_longitude": 31.401, 
         "fullname": "Adjumani, Uganda", 
-        "sw_latitude": 2.884
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070445
     }
+  ], 
+  "bbox": [
+    31.401, 
+    2.884, 
+    32.094, 
+    3.592
   ]
 }

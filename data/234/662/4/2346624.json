@@ -34,8 +34,13 @@
         "alias_SWE_Q": [
           "Bukarest"
         ], 
+        "hierarchy": [
+          "woe:state=2346624", 
+          "woe:country=23424933", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 44.542, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\ubd80\ucfe0\ub808\uc288\ud2f0"
         ], 
@@ -50,12 +55,15 @@
           "Bukarest"
         ], 
         "sw_longitude": 25.956, 
+        "adjacent": [
+          "woe:state=29281934"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 44.438, 
         "alias_NOR_Q": [
           "Bukarest"
         ], 
-        "date_indexed": "2010-12-02T16:36:29Z", 
+        "sw_latitude": 44.334, 
         "alias_GER_Q": [
           "Bukarest"
         ], 
@@ -64,14 +72,19 @@
           29281934
         ], 
         "name": "Bucuresti", 
-        "parent_woeid": 23424933, 
         "ne_longitude": 26.226, 
         "longitude": 26.091, 
         "iso": "RO", 
-        "sw_latitude": 44.334, 
+        "date_indexed": "2010-12-02T16:36:29Z", 
         "fullname": "Bucuresti, Romania"
       }, 
       "id": 2346624
     }
+  ], 
+  "bbox": [
+    25.956, 
+    44.334, 
+    26.226, 
+    44.542
   ]
 }

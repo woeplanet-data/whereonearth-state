@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Vastra Gotalands"
         ], 
+        "hierarchy": [
+          "woe:state=20070562", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 59.263, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "V\u00e4stra G\u00f6taland"
         ], 
@@ -65,6 +70,14 @@
           "Vaestra Goetaland"
         ], 
         "sw_longitude": 10.982, 
+        "adjacent": [
+          "woe:state=2347049", 
+          "woe:state=2347051", 
+          "woe:state=2347063", 
+          "woe:state=2347058", 
+          "woe:state=2347059", 
+          "woe:state=2346396"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 58.204, 
         "alias_NOR_S": [
@@ -102,7 +115,6 @@
           2347063
         ], 
         "name": "V\u00e4stra G\u00f6talands L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 14.779, 
         "longitude": 12.946, 
         "iso": "SE", 
@@ -117,5 +129,11 @@
       }, 
       "id": 20070562
     }
+  ], 
+  "bbox": [
+    10.982, 
+    57.146, 
+    14.779, 
+    59.263
   ]
 }

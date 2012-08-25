@@ -940,9 +940,14 @@
         "alias_ENG_P": [
           "Alytus County"
         ], 
+        "hierarchy": [
+          "woe:state=55848082", 
+          "woe:country=23424875", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 54.56080434794234, 
         "ne:Shape_Area": 0.776895183369, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
@@ -951,6 +956,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 23.33602298337405, 
+        "adjacent": [
+          "woe:state=55848084", 
+          "woe:state=55848078", 
+          "woe:state=12577944", 
+          "woe:state=55848083"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 54.23, 
         "ne:FIPS_1": "LH56", 
@@ -986,7 +997,6 @@
         ], 
         "name": "Alytaus Apskritis", 
         "ne:REMARKS_1": "NUTS code LT001", 
-        "parent_woeid": 23424875, 
         "ne_longitude": 24.99798872250159, 
         "longitude": 24.169, 
         "iso": "LT", 

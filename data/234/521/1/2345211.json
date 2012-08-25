@@ -2143,11 +2143,16 @@
       "properties": {
         "ne:ProvNumber": 1, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=2345211", 
+          "woe:country=23424801", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -0.837312920354918, 
         "ne:Shape_Area": 1.54588706024, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 12, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uacfc\uc57c\uc2a4"
         ], 
@@ -2156,13 +2161,23 @@
         "alias_CHI_Q": [
           "\u74dc\u4e9a\u65af"
         ], 
-        "ne:OBJECTID": 1280, 
+        "ne:DataRank": 7, 
         "alias_JPN_Q": [
           "\u30b0\u30a2\u30e4\u30b9\u5dde"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -81.01287899486965, 
+        "adjacent": [
+          "woe:state=2345203", 
+          "woe:state=2345204", 
+          "woe:state=2345205", 
+          "woe:state=2345207", 
+          "woe:state=2345209", 
+          "woe:state=2345214", 
+          "woe:state=2345215", 
+          "woe:state=56189815"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -1.949, 
         "ne:FIPS_1": "EC10", 
@@ -2170,9 +2185,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -3.064670505739173, 
-        "ne:VertexCou": 529.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 12, 
+        "ne:OBJECTID": 1280, 
         "ne:Postal": "GU", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2188,8 +2203,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 19015.6, 
         "woe:id": "2345211", 
-        "ne:HASC_1": "EC.GU", 
-        "lang": "SPA", 
+        "name": "Guayas", 
+        "ne:VertexCou": 529.0, 
         "adjacent_woeid": [
           2345203, 
           2345204, 
@@ -2200,9 +2215,8 @@
           2345215, 
           56189815
         ], 
-        "name": "Guayas", 
+        "ne:HASC_1": "EC.GU", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424801, 
         "ne_longitude": -79.12728349473747, 
         "longitude": -80.055, 
         "iso": "EC", 

@@ -14,10 +14,22 @@
           56190564
         ], 
         "name": "Talsi Novads", 
-        "parent_woeid": 23424874, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56190535", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "LV", 
+        "adjacent": [
+          "woe:state=56190567", 
+          "woe:state=55844299", 
+          "woe:state=56190576", 
+          "woe:state=56190564", 
+          "woe:state=56190518", 
+          "woe:state=56190590"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56190535, 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 

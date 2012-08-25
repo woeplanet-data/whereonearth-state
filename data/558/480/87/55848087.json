@@ -940,9 +940,14 @@
         "alias_ENG_P": [
           "Taurage County"
         ], 
+        "hierarchy": [
+          "woe:state=55848087", 
+          "woe:country=23424875", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 55.68688548457749, 
         "ne:Shape_Area": 0.542078600783, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
@@ -951,6 +956,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 21.814152052475265, 
+        "adjacent": [
+          "woe:state=55848084", 
+          "woe:state=55848085", 
+          "woe:state=55848078", 
+          "woe:state=55848079", 
+          "woe:state=55848080"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 55.357, 
         "ne:FIPS_1": "LH62", 
@@ -990,7 +1002,6 @@
         "alias_UNK_S": [
           "Tauragis Apskritis"
         ], 
-        "parent_woeid": 23424875, 
         "alias_UNK_V": [
           "Taurages Apskritis"
         ], 

@@ -31,40 +31,55 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_CHI_Q": [
+          "\u963f\u5c14\u53ca\u5c14"
+        ], 
         "lang": "ARA", 
-        "woeid": 2344579, 
-        "name": "Alger", 
+        "alias_KOR_Q": [
+          "\uc54c\uc81c"
+        ], 
         "adjacent_woeid": [
           2344592, 
           2344610, 
           2344625
         ], 
+        "hierarchy": [
+          "woe:state=2344579", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.818, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30b8\u30a7"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 3.285, 
         "longitude": 3.126, 
-        "alias_CHI_Q": [
-          "\u963f\u5c14\u53ca\u5c14"
-        ], 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "alias_KOR_Q": [
-          "\uc54c\uc81c"
-        ], 
-        "parent_woeid": 23424740, 
-        "latitude": 36.703, 
+        "placetype": "state", 
         "sw_longitude": 2.967, 
+        "sw_latitude": 36.589, 
+        "adjacent": [
+          "woe:state=2344592", 
+          "woe:state=2344610", 
+          "woe:state=2344625"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 36.703, 
+        "iso": "DZ", 
         "fullname": "Alger, Algeria", 
         "alias_GER_Q": [
           "Algier"
         ], 
-        "sw_latitude": 36.589
+        "woeid": 2344579, 
+        "date_indexed": "2010-12-02T17:07:10Z", 
+        "name": "Alger"
       }, 
       "id": 2344579
     }
+  ], 
+  "bbox": [
+    2.967, 
+    36.589, 
+    3.285, 
+    36.818
   ]
 }

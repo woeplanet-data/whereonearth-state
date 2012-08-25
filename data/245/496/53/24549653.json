@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549653, 
-        "name": "Island Harbour", 
         "adjacent_woeid": [
           24549652, 
           24549654, 
           24549655
         ], 
-        "ne_latitude": 18.303, 
+        "name": "Island Harbour", 
+        "hierarchy": [
+          "woe:state=24549653", 
+          "woe:country=23424751", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549653, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -62.916, 
         "longitude": -62.994, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AI", 
         "date_indexed": "2010-12-02T17:42:25Z", 
-        "parent_woeid": 23424751, 
+        "adjacent": [
+          "woe:state=24549654", 
+          "woe:state=24549652", 
+          "woe:state=24549655"
+        ], 
+        "ne_latitude": 18.303, 
         "latitude": 18.266, 
         "sw_longitude": -63.016, 
         "fullname": "Island Harbour, Anguilla", 
@@ -54,5 +63,11 @@
       }, 
       "id": 24549653
     }
+  ], 
+  "bbox": [
+    -63.016, 
+    18.249, 
+    -62.916, 
+    18.303
   ]
 }

@@ -2610,11 +2610,16 @@
         "alias_KOR_Q": [
           "\uc624\ub9ac\uac74"
         ], 
+        "hierarchy": [
+          "woe:state=2347596", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.23279217352007, 
         "ne:Shape_Area": 28.2310114875, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18530302", 
         "alias_ENG_A": [
           "Ore"
         ], 
@@ -2625,7 +2630,7 @@
           "\u4fc4\u52d2\u5188"
         ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:OBJECTID": 3525, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30aa\u30ec\u30b4\u30f3"
         ], 
@@ -2635,6 +2640,12 @@
           "Oreg\u00f3n"
         ], 
         "sw_longitude": -124.56671757225814, 
+        "adjacent": [
+          "woe:state=2347563", 
+          "woe:state=2347571", 
+          "woe:state=2347587", 
+          "woe:state=2347606"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 44.116, 
         "ne:FIPS_1": "US41", 
@@ -2642,35 +2653,34 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 41.9995402205048, 
-        "ne:VertexCou": 646.0, 
-        "ne:VALIDFR_1": "18530302", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3525, 
         "ne:Postal": "OR", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "OR|Ore.", 
         "ne:ISO": "USA", 
-        "ne:TYPE_1": "State", 
+        "ne:Region_C_3": "Pacific", 
         "ne:Region_C_2": "West", 
         "ne:Shape_Leng": 26.7128673167, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "United States of America", 
         "ne:NAME_1": "Oregon", 
         "ne:Region_C_1": "Pacific", 
-        "ne:Region_C_3": "Pacific", 
+        "ne:TYPE_1": "State", 
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 251792.6, 
         "woe:id": "2347596", 
-        "ne:HASC_1": "US.OR", 
-        "lang": "ENG", 
+        "name": "Oregon", 
+        "ne:VertexCou": 646.0, 
         "adjacent_woeid": [
           2347563, 
           2347571, 
           2347587, 
           2347606
         ], 
-        "name": "Oregon", 
+        "ne:HASC_1": "US.OR", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -116.45499882233776, 
         "longitude": -120.515, 
         "iso": "US", 

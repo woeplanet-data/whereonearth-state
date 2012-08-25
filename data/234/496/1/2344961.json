@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344961, 
-        "name": "North Eastern", 
         "adjacent_woeid": [
           2344959, 
           2344960, 
@@ -41,23 +39,42 @@
           2344964, 
           2344965
         ], 
-        "ne_latitude": 9.831, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "North Eastern", 
         "alias_ENG_V": [
           "N Eastern"
         ], 
+        "hierarchy": [
+          "woe:state=2344961", 
+          "woe:country=23424778", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344961, 
         "ne_longitude": 81.881, 
         "longitude": 81.367, 
-        "placetype": "State", 
-        "iso": "LK", 
-        "date_indexed": "2010-12-02T17:56:32Z", 
-        "parent_woeid": 23424778, 
+        "placetype": "state", 
         "latitude": 8.168, 
+        "iso": "LK", 
+        "sw_latitude": 6.505, 
+        "adjacent": [
+          "woe:state=2344959", 
+          "woe:state=2344960", 
+          "woe:state=2344962", 
+          "woe:state=2344964", 
+          "woe:state=2344965"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 9.831, 
         "sw_longitude": 79.516, 
         "fullname": "North Eastern, Sri Lanka", 
-        "sw_latitude": 6.505
+        "date_indexed": "2010-12-02T17:56:32Z"
       }, 
       "id": 2344961
     }
+  ], 
+  "bbox": [
+    79.516, 
+    6.505, 
+    81.881, 
+    9.831
   ]
 }

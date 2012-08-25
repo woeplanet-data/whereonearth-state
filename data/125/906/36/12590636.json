@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "SWE", 
-        "woeid": 12590636, 
-        "alias_SWE_S": [
-          "Koekar"
-        ], 
-        "name": "K\u00f6kar", 
         "adjacent_woeid": [
           12590632, 
           12590642
         ], 
-        "ne_latitude": 60.058, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "K\u00f6kar", 
+        "alias_SWE_S": [
+          "Koekar"
+        ], 
+        "hierarchy": [
+          "woe:state=12590636", 
+          "woe:country=12577865", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12590636, 
         "ne_longitude": 21.324, 
         "longitude": 20.958, 
-        "placetype": "State", 
+        "ne_latitude": 60.058, 
+        "placetype": "state", 
         "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
-        "parent_woeid": 12577865, 
+        "sw_latitude": 59.736, 
+        "adjacent": [
+          "woe:state=12590632", 
+          "woe:state=12590642"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 59.941, 
         "sw_longitude": 20.645, 
         "fullname": "K\u00f6kar, Aland Islands", 
-        "sw_latitude": 59.736
+        "date_indexed": "2010-12-02T17:06:00Z"
       }, 
       "id": 12590636
     }
+  ], 
+  "bbox": [
+    20.645, 
+    59.736, 
+    21.324, 
+    60.058
   ]
 }

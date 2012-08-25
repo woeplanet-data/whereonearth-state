@@ -32,9 +32,11 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550757, 
-        "alias_UNK_V": [
-          "Opstina \u010ce\u0161inovo-Oble\u0161evo"
+        "adjacent_woeid": [
+          24550772, 
+          24550777, 
+          24550800, 
+          24550824
         ], 
         "name": "\u010ce\u0161inovo-Oble\u0161evo", 
         "alias_ENG_P": [
@@ -43,26 +45,40 @@
         "alias_UNK_S": [
           "Opstina Cesinovo-Oblesevo"
         ], 
-        "ne_latitude": 41.962, 
-        "ne_longitude": 22.381, 
+        "woeid": 24550757, 
+        "alias_UNK_V": [
+          "Opstina \u010ce\u0161inovo-Oble\u0161evo"
+        ], 
         "longitude": 22.298, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          24550772, 
-          24550777, 
-          24550800, 
-          24550824
+        "ne_longitude": 22.381, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=24550757", 
+          "woe:country=23424890", 
+          "woe:planet=1"
         ], 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.824, 
+        "adjacent": [
+          "woe:state=24550772", 
+          "woe:state=24550777", 
+          "woe:state=24550800", 
+          "woe:state=24550824"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.893, 
+        "ne_latitude": 41.962, 
         "sw_longitude": 22.215, 
+        "latitude": 41.893, 
         "fullname": "\u010ce\u0161inovo-Oble\u0161evo, Cesinovo-Oblesevo Municipality, Macedonia", 
-        "sw_latitude": 41.824
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550757
     }
+  ], 
+  "bbox": [
+    22.215, 
+    41.824, 
+    22.381, 
+    41.962
   ]
 }

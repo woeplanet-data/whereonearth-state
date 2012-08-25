@@ -626,11 +626,16 @@
         "alias_KOR_Q": [
           "\uc720\ud0c0"
         ], 
+        "hierarchy": [
+          "woe:state=2347603", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.00007732980498, 
         "ne:Shape_Area": 22.9629975394, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18660505", 
         "alias_ENG_A": [
           "UT"
         ], 
@@ -640,13 +645,21 @@
         "alias_CHI_Q": [
           "\u72b9\u4ed6"
         ], 
-        "ne:OBJECTID": 3526, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30e6\u30bf"
         ], 
         "ne:Abbrev": "Utah", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -114.04254765045368, 
+        "adjacent": [
+          "woe:state=2347561", 
+          "woe:state=2347564", 
+          "woe:state=2347571", 
+          "woe:state=2347587", 
+          "woe:state=2347590", 
+          "woe:state=2347609"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.5, 
         "ne:FIPS_1": "US49", 
@@ -654,9 +667,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 36.99980877525485, 
-        "ne:VertexCou": 151.0, 
-        "ne:VALIDFR_1": "18660505", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3526, 
         "ne:Postal": "UT", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "UT", 
@@ -672,8 +685,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 219762.4, 
         "woe:id": "2347603", 
-        "ne:HASC_1": "US.UT", 
-        "lang": "ENG", 
+        "name": "Utah", 
+        "ne:VertexCou": 151.0, 
         "adjacent_woeid": [
           2347561, 
           2347564, 
@@ -682,9 +695,8 @@
           2347590, 
           2347609
         ], 
-        "name": "Utah", 
+        "ne:HASC_1": "US.UT", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -109.04633182955024, 
         "longitude": -111.547, 
         "iso": "US", 

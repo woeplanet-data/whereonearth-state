@@ -901,9 +901,14 @@
       "properties": {
         "ne:ProvNumber": 2002, 
         "ne:ScaleRank": 5, 
+        "hierarchy": [
+          "woe:state=56025085", 
+          "woe:country=23424973", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -3.45069345483904, 
         "ne:Shape_Area": 3.67955963713, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 2, 
         "ne:gadm_level": 1.0, 
@@ -912,6 +917,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 34.86922081858597, 
+        "adjacent": [
+          "woe:state=2347352", 
+          "woe:state=2347354", 
+          "woe:state=2347357", 
+          "woe:state=2347361", 
+          "woe:state=2347367", 
+          "woe:state=2347369"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -3.85, 
         "ne:FIPS_1": "TZ06", 
@@ -949,7 +962,6 @@
         ], 
         "name": "Manyara", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424973, 
         "ne_longitude": 38.04907840314581, 
         "longitude": 36.389, 
         "iso": "TZ", 

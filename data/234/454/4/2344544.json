@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344544, 
-        "name": "Saint Mary", 
         "adjacent_woeid": [
           2344543, 
           2344545
         ], 
-        "ne_latitude": 17.131, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint Mary", 
         "alias_ENG_V": [
           "St. Mary"
         ], 
+        "hierarchy": [
+          "woe:state=2344544", 
+          "woe:country=23424737", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344544, 
         "ne_longitude": -61.814, 
-        "longitude": -61.860, 
-        "placetype": "State", 
-        "iso": "AG", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424737, 
+        "longitude": -61.86, 
+        "placetype": "state", 
         "latitude": 17.068, 
+        "iso": "AG", 
+        "sw_latitude": 16.927, 
+        "adjacent": [
+          "woe:state=2344543", 
+          "woe:state=2344545"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.131, 
         "sw_longitude": -62.352, 
         "fullname": "Saint Mary, Antigua and Barbuda", 
-        "sw_latitude": 16.927
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 2344544
     }
+  ], 
+  "bbox": [
+    -62.352, 
+    16.927, 
+    -61.814, 
+    17.131
   ]
 }

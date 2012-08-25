@@ -8,7 +8,7 @@
           [
             [
               66.503, 
-              39.530
+              39.53
             ], 
             [
               66.503, 
@@ -20,11 +20,11 @@
             ], 
             [
               68.668, 
-              39.530
+              39.53
             ], 
             [
               66.503, 
-              39.530
+              39.53
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347661, 
-        "name": "Jizzakh", 
         "adjacent_woeid": [
           2345982, 
           2347667, 
@@ -41,20 +39,39 @@
           20070173, 
           20070294
         ], 
-        "ne_latitude": 41.246, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Jizzakh", 
+        "hierarchy": [
+          "woe:state=2347661", 
+          "woe:country=23424980", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347661, 
         "ne_longitude": 68.668, 
         "longitude": 67.586, 
-        "placetype": "State", 
-        "iso": "UZ", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424980, 
+        "placetype": "state", 
         "latitude": 40.388, 
+        "iso": "UZ", 
+        "sw_latitude": 39.53, 
+        "adjacent": [
+          "woe:state=20070294", 
+          "woe:state=2347667", 
+          "woe:state=2345982", 
+          "woe:state=20070173", 
+          "woe:state=2347669"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.246, 
         "sw_longitude": 66.503, 
         "fullname": "Jizzakh, Uzbekistan", 
-        "sw_latitude": 39.530
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347661
     }
+  ], 
+  "bbox": [
+    66.503, 
+    39.53, 
+    68.668, 
+    41.246
   ]
 }

@@ -1485,20 +1485,31 @@
         "alias_ENG_P": [
           "Kumamoto Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345870", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 33.181153266110414, 
         "ne:Shape_Area": 0.696664242786, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1830, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u718a\u672c"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 129.95830040913665, 
+        "adjacent": [
+          "woe:state=2345879", 
+          "woe:state=2345874", 
+          "woe:state=58646425", 
+          "woe:state=2345867"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 32.645, 
         "ne:FIPS_1": "JA21", 
@@ -1506,9 +1517,9 @@
         "ne:FIRST_HASC": "JP.NI", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 32.09083222093028, 
-        "ne:VertexCou": 355.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1830, 
         "ne:Postal": "KM", 
         "ne:Region_Cod": "JPN-KYS", 
         "ne:VARNAME_1": null, 
@@ -1524,17 +1535,16 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 7251.8, 
         "woe:id": "2345870", 
-        "ne:HASC_1": "JP.KM", 
-        "lang": "JPN", 
+        "name": "\u718a\u672c\u770c", 
+        "ne:VertexCou": 355.0, 
         "adjacent_woeid": [
           2345867, 
           2345874, 
           2345879, 
           58646425
         ], 
-        "name": "\u718a\u672c\u770c", 
+        "ne:HASC_1": "JP.KM", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 131.32390180842174, 
         "longitude": 130.845, 
         "iso": "JP", 

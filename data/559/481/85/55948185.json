@@ -305,9 +305,14 @@
       "properties": {
         "ne:ProvNumber": 26, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55948185", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.33313182187612, 
         "ne:Shape_Area": 0.0955355610084, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -316,6 +321,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 28.778739861455506, 
+        "adjacent": [
+          "woe:state=55948205", 
+          "woe:state=20069878", 
+          "woe:state=20069876", 
+          "woe:state=20069875", 
+          "woe:state=55948201", 
+          "woe:state=55948202"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.208, 
         "ne:FIPS_1": "MD69", 
@@ -353,7 +366,6 @@
         ], 
         "name": "Criuleni", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424885, 
         "ne_longitude": 29.292248569715753, 
         "longitude": 28.964, 
         "iso": "MD", 

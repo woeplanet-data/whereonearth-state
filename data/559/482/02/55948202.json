@@ -241,9 +241,14 @@
       "properties": {
         "ne:ProvNumber": 40, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55948202", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.33238251394192, 
         "ne:Shape_Area": 0.0911398414498, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -252,6 +257,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 28.326932814098143, 
+        "adjacent": [
+          "woe:state=55948181", 
+          "woe:state=20069878", 
+          "woe:state=55948185", 
+          "woe:state=55948191", 
+          "woe:state=55948192", 
+          "woe:state=55948194", 
+          "woe:state=20069875"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.162, 
         "ne:FIPS_1": "MD87", 
@@ -290,7 +304,6 @@
         ], 
         "name": "Straseni", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424885, 
         "ne_longitude": 28.842508579007756, 
         "longitude": 28.509, 
         "iso": "MD", 

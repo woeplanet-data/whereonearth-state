@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347130, 
-        "name": "Chiang Rai", 
         "adjacent_woeid": [
           2344820, 
           2346005, 
@@ -43,23 +41,44 @@
           2347166, 
           20070156
         ], 
-        "ne_latitude": 20.465, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chiang Rai", 
         "alias_ENG_V": [
           "Changwat Chiang Rai"
         ], 
+        "hierarchy": [
+          "woe:state=2347130", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347130, 
         "ne_longitude": 100.578, 
         "longitude": 99.918, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 19.733, 
+        "iso": "TH", 
+        "sw_latitude": 19.002, 
+        "adjacent": [
+          "woe:state=20070156", 
+          "woe:state=2347129", 
+          "woe:state=2347133", 
+          "woe:state=2346005", 
+          "woe:state=2347166", 
+          "woe:state=2344820", 
+          "woe:state=2346010"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 20.465, 
         "sw_longitude": 99.258, 
         "fullname": "Chiang Rai, Thailand", 
-        "sw_latitude": 19.002
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347130
     }
+  ], 
+  "bbox": [
+    99.258, 
+    19.002, 
+    100.578, 
+    20.465
   ]
 }

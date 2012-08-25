@@ -8,7 +8,7 @@
           [
             [
               22.747, 
-              43.110
+              43.11
             ], 
             [
               22.747, 
@@ -20,11 +20,11 @@
             ], 
             [
               23.641, 
-              43.110
+              43.11
             ], 
             [
               22.747, 
-              43.110
+              43.11
             ]
           ]
         ]
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070056, 
-        "name": "Montana", 
         "adjacent_woeid": [
           2346631, 
           20070055, 
           20070057, 
           20070061
         ], 
-        "ne_latitude": 43.852, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Montana", 
+        "adjacent": [
+          "woe:state=2346631", 
+          "woe:state=20070061", 
+          "woe:state=20070055", 
+          "woe:state=20070057"
+        ], 
+        "hierarchy": [
+          "woe:state=20070056", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070056, 
         "ne_longitude": 23.641, 
         "longitude": 23.194, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 43.481, 
         "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
+        "sw_latitude": 43.11, 
         "alias_ENG_A": [
           "MT"
         ], 
-        "parent_woeid": 23424771, 
-        "latitude": 43.481, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.852, 
         "sw_longitude": 22.747, 
         "fullname": "Montana, Bulgaria", 
-        "sw_latitude": 43.110
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070056
     }
+  ], 
+  "bbox": [
+    22.747, 
+    43.11, 
+    23.641, 
+    43.852
   ]
 }

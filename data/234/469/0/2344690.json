@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": -37.578, 
-        "name": "Rio Negro", 
         "adjacent_woeid": [
           2344675, 
           2344678, 
@@ -42,29 +40,49 @@
           2344689, 
           2345026
         ], 
+        "alias_ENG_A": [
+          "RN"
+        ], 
+        "name": "Rio Negro", 
+        "hierarchy": [
+          "woe:state=2344690", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
         "woeid": 2344690, 
         "alias_SPA_V": [
           "Rionegro"
         ], 
         "ne_longitude": -62.788, 
         "longitude": -67.353, 
-        "parent_woeid": 23424747, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -39.793, 
         "alias_SPA_S": [
           "Provincia de Rio Negro"
         ], 
-        "iso": "AR", 
-        "date_indexed": "2010-12-02T17:40:36Z", 
-        "alias_ENG_A": [
-          "RN"
+        "sw_longitude": -71.893, 
+        "sw_latitude": -42.007, 
+        "adjacent": [
+          "woe:state=2344675", 
+          "woe:state=2344678", 
+          "woe:state=2344685", 
+          "woe:state=2345026", 
+          "woe:state=2344687", 
+          "woe:state=2344689"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": -39.793, 
-        "sw_longitude": -71.893, 
+        "ne_latitude": -37.578, 
+        "iso": "AR", 
         "fullname": "Rio Negro, Argentina", 
-        "sw_latitude": -42.007
+        "date_indexed": "2010-12-02T17:40:36Z"
       }, 
       "id": 2344690
     }
+  ], 
+  "bbox": [
+    -71.893, 
+    -42.007, 
+    -62.788, 
+    -37.578
   ]
 }

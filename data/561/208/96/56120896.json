@@ -12,10 +12,17 @@
         "adjacent_woeid": [
           2345245
         ], 
-        "parent_woeid": 23424802, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56120896", 
+          "woe:country=23424802", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "EG", 
+        "adjacent": [
+          "woe:state=2345245"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56120896, 
         "date_indexed": "2010-12-02T12:16:45Z"
       }, 

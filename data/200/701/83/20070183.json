@@ -32,25 +32,33 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070183, 
-        "alias_UNK_V": [
-          "I\u011fdir"
-        ], 
-        "name": "I\u011fd\u0131r", 
         "adjacent_woeid": [
           2347261, 
           2347291
         ], 
+        "name": "I\u011fd\u0131r", 
+        "ne_latitude": 40.178, 
         "alias_UNK_S": [
           "Igdir"
         ], 
-        "ne_latitude": 40.178, 
-        "ne_longitude": 44.826, 
+        "woeid": 20070183, 
+        "alias_UNK_V": [
+          "I\u011fdir"
+        ], 
         "longitude": 44.041, 
-        "parent_woeid": 23424969, 
-        "placetype": "State", 
+        "ne_longitude": 44.826, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=20070183", 
+          "woe:country=23424969", 
+          "woe:planet=1"
+        ], 
         "iso": "TR", 
         "date_indexed": "2010-12-02T16:22:51Z", 
+        "adjacent": [
+          "woe:state=2347261", 
+          "woe:state=2347291"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.896, 
         "sw_longitude": 43.255, 
@@ -59,5 +67,11 @@
       }, 
       "id": 20070183
     }
+  ], 
+  "bbox": [
+    43.255, 
+    39.614, 
+    44.826, 
+    40.178
   ]
 }

@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2345692, 
-        "name": "Dalasysla", 
         "adjacent_woeid": [
           2345688, 
           2345696, 
           2345702, 
           2345703
         ], 
-        "ne_latitude": 65.459, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Dalasysla", 
+        "hierarchy": [
+          "woe:state=2345692", 
+          "woe:country=23424845", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345692, 
         "ne_longitude": -21.295, 
         "longitude": -21.931, 
-        "placetype": "State", 
-        "iso": "IS", 
-        "date_indexed": "2010-12-02T09:55:32Z", 
-        "parent_woeid": 23424845, 
+        "placetype": "state", 
         "latitude": 65.178, 
+        "iso": "IS", 
+        "sw_latitude": 64.898, 
+        "adjacent": [
+          "woe:state=2345688", 
+          "woe:state=2345696", 
+          "woe:state=2345702", 
+          "woe:state=2345703"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 65.459, 
         "sw_longitude": -22.815, 
         "fullname": "Dalasysla, Iceland", 
         "alias_UNK_A": [
           "DAL"
         ], 
-        "sw_latitude": 64.898
+        "date_indexed": "2010-12-02T09:55:32Z"
       }, 
       "id": 2345692
     }
+  ], 
+  "bbox": [
+    -22.815, 
+    64.898, 
+    -21.295, 
+    65.459
   ]
 }

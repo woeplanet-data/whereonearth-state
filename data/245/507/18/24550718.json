@@ -15,11 +15,11 @@
               39.607
             ], 
             [
-              45.840, 
+              45.84, 
               39.607
             ], 
             [
-              45.840, 
+              45.84, 
               39.264
             ], 
             [
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24550718, 
-        "name": "Shakhbuz", 
         "adjacent_woeid": [
           20070205, 
           20070206, 
           20070275, 
           24550721
         ], 
-        "ne_latitude": 39.607, 
+        "name": "Shakhbuz", 
+        "hierarchy": [
+          "woe:state=24550718", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550718, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 45.840, 
+        "ne_longitude": 45.84, 
         "longitude": 45.616, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AZ", 
         "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "adjacent": [
+          "woe:state=24550721", 
+          "woe:state=20070275", 
+          "woe:state=20070206", 
+          "woe:state=20070205"
+        ], 
+        "ne_latitude": 39.607, 
         "latitude": 39.436, 
         "sw_longitude": 45.391, 
         "fullname": "Shakhbuz, Azerbaijan", 
@@ -55,5 +65,11 @@
       }, 
       "id": 24550718
     }
+  ], 
+  "bbox": [
+    45.391, 
+    39.264, 
+    45.84, 
+    39.607
   ]
 }

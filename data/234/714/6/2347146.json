@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              103.250, 
+              103.25, 
               16.772
             ], 
             [
-              103.250, 
+              103.25, 
               18.089
             ], 
             [
@@ -23,7 +23,7 @@
               16.772
             ], 
             [
-              103.250, 
+              103.25, 
               16.772
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347146, 
-        "name": "Sakon Nakhon", 
         "adjacent_woeid": [
           2347144, 
           2347148, 
@@ -41,23 +39,42 @@
           2347197, 
           2347200
         ], 
-        "ne_latitude": 18.089, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sakon Nakhon", 
         "alias_ENG_V": [
           "Changwat Sakon Nakhon"
         ], 
+        "hierarchy": [
+          "woe:state=2347146", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347146, 
         "ne_longitude": 104.435, 
         "longitude": 103.843, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 17.43, 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
-        "latitude": 17.430, 
-        "sw_longitude": 103.250, 
+        "sw_latitude": 16.772, 
+        "adjacent": [
+          "woe:state=2347148", 
+          "woe:state=2347197", 
+          "woe:state=2347196", 
+          "woe:state=2347144", 
+          "woe:state=2347200"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.089, 
+        "sw_longitude": 103.25, 
         "fullname": "Sakon Nakhon, Thailand", 
-        "sw_latitude": 16.772
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347146
     }
+  ], 
+  "bbox": [
+    103.25, 
+    16.772, 
+    104.435, 
+    18.089
   ]
 }

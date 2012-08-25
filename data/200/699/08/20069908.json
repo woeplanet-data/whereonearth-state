@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              30.860, 
+              30.86, 
               7.873
             ], 
             [
-              30.860, 
+              30.86, 
               12.216
             ], 
             [
@@ -23,7 +23,7 @@
               7.873
             ], 
             [
-              30.860, 
+              30.86, 
               7.873
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 20069908, 
-        "name": "A`ali an Nil", 
         "adjacent_woeid": [
           20069907, 
           20069909, 
@@ -45,23 +43,46 @@
           56013539, 
           56013545
         ], 
-        "ne_latitude": 12.216, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "A`ali an Nil", 
+        "hierarchy": [
+          "woe:state=20069908", 
+          "woe:country=23424952", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069908, 
         "ne_longitude": 34.144, 
         "longitude": 32.502, 
-        "placetype": "State", 
-        "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
-        "parent_woeid": 23424952, 
+        "placetype": "state", 
         "latitude": 10.044, 
-        "sw_longitude": 30.860, 
-        "fullname": "A`ali an Nil, Sudan", 
+        "iso": "SD", 
         "sw_latitude": 7.873, 
+        "adjacent": [
+          "woe:state=20069907", 
+          "woe:state=20069914", 
+          "woe:state=20069913", 
+          "woe:state=56013538", 
+          "woe:state=56013539", 
+          "woe:state=20069910", 
+          "woe:state=20069909", 
+          "woe:state=56013545", 
+          "woe:state=20069915"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.216, 
+        "sw_longitude": 30.86, 
+        "fullname": "A`ali an Nil, Sudan", 
+        "date_indexed": "2010-12-02T08:50:49Z", 
         "alias_ARA_S": [
           "A ali an Nil"
         ]
       }, 
       "id": 20069908
     }
+  ], 
+  "bbox": [
+    30.86, 
+    7.873, 
+    34.144, 
+    12.216
   ]
 }

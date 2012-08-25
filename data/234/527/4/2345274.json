@@ -959,20 +959,31 @@
           "Contae Chill Mhantain"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2345274", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 53.22398672111035, 
         "ne:Shape_Area": 0.265343037893, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "WIC"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:OBJECTID": 719, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -6.783637254255837, 
+        "adjacent": [
+          "woe:state=2345249", 
+          "woe:state=2345254", 
+          "woe:state=2345257", 
+          "woe:state=2345273"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.955, 
         "ne:FIPS_1": "EI31", 
@@ -980,9 +991,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.681797594083775, 
-        "ne:VertexCou": 234.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 719, 
         "ne:Postal": "WW", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Cill Mhant\u00e1in", 
@@ -998,20 +1009,19 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 1983.5, 
         "woe:id": "2345274", 
-        "ne:HASC_1": "IE.WW", 
-        "lang": "ENG", 
+        "name": "Wicklow", 
+        "ne:VertexCou": 234.0, 
         "adjacent_woeid": [
           2345249, 
           2345254, 
           2345257, 
           2345273
         ], 
-        "name": "Wicklow", 
+        "ne:HASC_1": "IE.WW", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae Chill Mhantain"
         ], 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Cill Mhant\u00e1in"
         ], 

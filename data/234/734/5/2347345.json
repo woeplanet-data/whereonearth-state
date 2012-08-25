@@ -15,11 +15,11 @@
               25.123
             ], 
             [
-              121.480, 
+              121.48, 
               25.123
             ], 
             [
-              121.480, 
+              121.48, 
               24.586
             ], 
             [
@@ -31,43 +31,58 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "CHI", 
-        "woeid": 2347345, 
-        "name": "\u6843\u5712\u7e23", 
-        "alias_CHI_V": [
-          "\u6843\u56ed\u53bf"
+        "alias_ENG_V": [
+          "Tauryuan"
         ], 
         "alias_ENG_P": [
           "Taoyuan County"
         ], 
-        "ne_latitude": 25.123, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "Tauryuan"
+        "hierarchy": [
+          "woe:state=2347345", 
+          "woe:country=23424971", 
+          "woe:planet=1"
         ], 
-        "ne_longitude": 121.480, 
-        "longitude": 121.166, 
-        "placetype": "State", 
+        "ne_latitude": 25.123, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ud0c0\uc624\uc704\uc5d4\ud604"
+        ], 
+        "alias_CHI_V": [
+          "\u6843\u56ed\u53bf"
+        ], 
+        "woeid": 2347345, 
+        "sw_longitude": 120.985, 
+        "adjacent": [
+          "woe:state=2347336", 
+          "woe:state=20070569", 
+          "woe:state=2347334"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.96, 
+        "sw_latitude": 24.586, 
+        "alias_GER_Q": [
+          "Taoyuan"
+        ], 
+        "lang": "CHI", 
         "adjacent_woeid": [
           20070569, 
           2347336, 
           2347334
         ], 
+        "name": "\u6843\u5712\u7e23", 
+        "ne_longitude": 121.48, 
+        "longitude": 121.166, 
         "iso": "TW", 
         "date_indexed": "2010-12-02T16:15:11Z", 
-        "alias_KOR_Q": [
-          "\ud0c0\uc624\uc704\uc5d4\ud604"
-        ], 
-        "parent_woeid": 23424971, 
-        "latitude": 24.960, 
-        "sw_longitude": 120.985, 
-        "fullname": "\u6843\u5712\u7e23, Taiwan, Taoyuan County, Taiwan", 
-        "alias_GER_Q": [
-          "Taoyuan"
-        ], 
-        "sw_latitude": 24.586
+        "fullname": "\u6843\u5712\u7e23, Taiwan, Taoyuan County, Taiwan"
       }, 
       "id": 2347345
     }
+  ], 
+  "bbox": [
+    120.985, 
+    24.586, 
+    121.48, 
+    25.123
   ]
 }

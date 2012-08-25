@@ -12,11 +12,11 @@
             ], 
             [
               -172.609, 
-              -13.610
+              -13.61
             ], 
             [
               -172.211, 
-              -13.610
+              -13.61
             ], 
             [
               -172.211, 
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070343, 
-        "name": "Palauli", 
         "adjacent_woeid": [
           20070337, 
           20070338, 
           20070342, 
           20070344
         ], 
-        "ne_latitude": -13.610, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Palauli", 
+        "hierarchy": [
+          "woe:state=20070343", 
+          "woe:country=23424992", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070343, 
         "ne_longitude": -172.211, 
         "longitude": -172.481, 
-        "placetype": "State", 
-        "iso": "WS", 
-        "date_indexed": "2010-12-02T16:50:25Z", 
-        "parent_woeid": 23424992, 
+        "placetype": "state", 
         "latitude": -13.706, 
+        "iso": "WS", 
+        "sw_latitude": -13.802, 
+        "adjacent": [
+          "woe:state=20070338", 
+          "woe:state=20070344", 
+          "woe:state=20070337", 
+          "woe:state=20070342"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -13.61, 
         "sw_longitude": -172.609, 
         "fullname": "Palauli, Samoa", 
-        "sw_latitude": -13.802
+        "date_indexed": "2010-12-02T16:50:25Z"
       }, 
       "id": 20070343
     }
+  ], 
+  "bbox": [
+    -172.609, 
+    -13.802, 
+    -172.211, 
+    -13.61
   ]
 }

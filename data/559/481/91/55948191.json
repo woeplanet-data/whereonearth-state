@@ -12,11 +12,11 @@
             ], 
             [
               28.084, 
-              47.090
+              47.09
             ], 
             [
               28.742, 
-              47.090
+              47.09
             ], 
             [
               28.742, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55948191, 
-        "name": "Hincesti", 
         "adjacent_woeid": [
           2346637, 
           2346651, 
@@ -43,14 +41,29 @@
           55948194, 
           55948202
         ], 
-        "ne_latitude": 47.090, 
+        "name": "Hincesti", 
+        "hierarchy": [
+          "woe:state=55948191", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55948191, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 28.742, 
         "longitude": 28.413, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MD", 
         "date_indexed": "2010-12-02T17:57:50Z", 
-        "parent_woeid": 23424885, 
+        "adjacent": [
+          "woe:state=55948184", 
+          "woe:state=55948192", 
+          "woe:state=2346637", 
+          "woe:state=55948193", 
+          "woe:state=55948194", 
+          "woe:state=55948202", 
+          "woe:state=2346651"
+        ], 
+        "ne_latitude": 47.09, 
         "latitude": 46.847, 
         "sw_longitude": 28.084, 
         "fullname": "Hincesti, Moldova", 
@@ -58,5 +71,11 @@
       }, 
       "id": 55948191
     }
+  ], 
+  "bbox": [
+    28.084, 
+    46.604, 
+    28.742, 
+    47.09
   ]
 }

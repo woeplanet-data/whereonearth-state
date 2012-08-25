@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070084, 
-        "name": "Bac Kan", 
         "adjacent_woeid": [
           2347704, 
           2347718, 
           2347751, 
           20070083
         ], 
-        "ne_latitude": 22.765, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bac Kan", 
         "alias_ENG_V": [
           "Backan"
         ], 
+        "hierarchy": [
+          "woe:state=20070084", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070084, 
         "ne_longitude": 106.245, 
         "longitude": 105.832, 
-        "placetype": "State", 
-        "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "placetype": "state", 
         "latitude": 22.044, 
+        "iso": "VN", 
+        "sw_latitude": 21.939, 
+        "adjacent": [
+          "woe:state=2347704", 
+          "woe:state=2347718", 
+          "woe:state=20070083", 
+          "woe:state=2347751"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 22.765, 
         "sw_longitude": 105.419, 
         "fullname": "Bac Kan, Vietnam", 
-        "sw_latitude": 21.939
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 20070084
     }
+  ], 
+  "bbox": [
+    105.419, 
+    21.939, 
+    106.245, 
+    22.765
   ]
 }

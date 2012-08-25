@@ -12,11 +12,11 @@
             ], 
             [
               20.181, 
-              49.020
+              49.02
             ], 
             [
               22.388, 
-              49.020
+              49.02
             ], 
             [
               22.388, 
@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070497, 
-        "alias_UNK_V": [
-          "Kosice"
-        ], 
-        "name": "Kosicky", 
         "adjacent_woeid": [
           2347556, 
           12577914, 
@@ -44,13 +39,29 @@
           20070495, 
           20070496
         ], 
-        "ne_latitude": 49.020, 
-        "ne_longitude": 22.388, 
+        "name": "Kosicky", 
+        "ne_latitude": 49.02, 
+        "hierarchy": [
+          "woe:state=20070497", 
+          "woe:country=23424877", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070497, 
+        "alias_UNK_V": [
+          "Kosice"
+        ], 
         "longitude": 21.284, 
-        "parent_woeid": 23424877, 
-        "placetype": "State", 
+        "ne_longitude": 22.388, 
+        "placetype": "state", 
         "iso": "SK", 
-        "date_indexed": "2010-12-02T08:50:01Z", 
+        "sw_latitude": 48.333, 
+        "adjacent": [
+          "woe:state=20070495", 
+          "woe:state=12577914", 
+          "woe:state=20070496", 
+          "woe:state=12577925", 
+          "woe:state=2347556"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.676, 
         "sw_longitude": 20.181, 
@@ -58,9 +69,15 @@
         "alias_GER_Q": [
           "Kaschau"
         ], 
-        "sw_latitude": 48.333
+        "date_indexed": "2010-12-02T08:50:01Z"
       }, 
       "id": 20070497
     }
+  ], 
+  "bbox": [
+    20.181, 
+    48.333, 
+    22.388, 
+    49.02
   ]
 }

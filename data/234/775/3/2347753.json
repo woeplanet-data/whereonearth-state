@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347753, 
-        "name": "Yen Bai", 
         "adjacent_woeid": [
           2347713, 
           2347734, 
@@ -42,17 +40,31 @@
           2347751, 
           20070091
         ], 
-        "ne_latitude": 22.303, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Yen Bai", 
         "alias_ENG_V": [
           "Yenbai"
         ], 
+        "hierarchy": [
+          "woe:state=2347753", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347753, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.094, 
         "longitude": 104.421, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347734", 
+          "woe:state=2347737", 
+          "woe:state=2347740", 
+          "woe:state=20070091", 
+          "woe:state=2347713", 
+          "woe:state=2347751"
+        ], 
+        "ne_latitude": 22.303, 
         "latitude": 21.665, 
         "sw_longitude": 103.748, 
         "fullname": "Yen Bai, Vietnam", 
@@ -60,5 +72,11 @@
       }, 
       "id": 2347753
     }
+  ], 
+  "bbox": [
+    103.748, 
+    21.028, 
+    105.094, 
+    22.303
   ]
 }

@@ -971,34 +971,49 @@
         "alias_SWE_S": [
           "Dalarnas"
         ], 
+        "hierarchy": [
+          "woe:state=2347053", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 62.274390367321644, 
         "ne:Shape_Area": 5.01317540009, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "Dalarne"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "SWE", 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Dalarna"
+        ], 
         "alias_ITA_Q": [
           "Dalarne"
         ], 
-        "ne:Area_sqkm": 30252.6, 
-        "ne:OBJECTID": 181, 
+        "alias_DAN_Q": [
+          "Dalarne"
+        ], 
+        "ne:DataRank": 7, 
         "alias_ENG_P": [
           "Dalarna"
         ], 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Dalarna"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Taalainmaa"
         ], 
         "sw_longitude": 12.161356235102232, 
+        "adjacent": [
+          "woe:state=2347046", 
+          "woe:state=2346389", 
+          "woe:state=2347050", 
+          "woe:state=2347063", 
+          "woe:state=2347066", 
+          "woe:state=2347058"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 61.061, 
         "ne:FIPS_1": "SW10", 
@@ -1008,14 +1023,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T16:43:54Z", 
-        "ne:VertexCou": 233.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 7, 
+        "lang": "SWE", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 181, 
         "ne:Postal": "KO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Dalecarlia|Kopparberg", 
         "ne:ISO": "SWE", 
-        "ne:TYPE_1": "Laen|l\u00e4n", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 12.4373435851, 
         "alias_DUT_Q": [
@@ -1024,17 +1039,15 @@
         "ne:NAME_0": "Sweden", 
         "ne:NAME_1": "Dalarna", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Laen|l\u00e4n", 
         "ne:LabelRank": 7, 
-        "alias_DAN_Q": [
-          "Dalarne"
-        ], 
+        "ne:Area_sqkm": 30252.6, 
         "alias_GER_Q": [
           "Dalarne"
         ], 
         "woe:id": "2347053", 
-        "ne:HASC_1": "SE.KO", 
-        "lang": "SWE", 
+        "name": "Dalarnas L\u00e4n", 
+        "ne:VertexCou": 233.0, 
         "adjacent_woeid": [
           2346389, 
           2347046, 
@@ -1044,10 +1057,9 @@
           2347066
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Dalarnas L\u00e4n", 
+        "ne:HASC_1": "SE.KO", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424954, 
         "ne_longitude": 16.719372592970842, 
         "longitude": 14.421, 
         "iso": "SE", 

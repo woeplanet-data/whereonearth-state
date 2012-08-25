@@ -9424,17 +9424,22 @@
         "alias_ENG_P": [
           "Sichuan"
         ], 
+        "hierarchy": [
+          "woe:state=12578016", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 34.299715481384396, 
         "ne:Shape_Area": 45.6287573166, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "19970314", 
         "alias_KOR_Q": [
           "\uc4f0\ucd28"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1809, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u56db\u5ddd"
         ], 
@@ -9447,6 +9452,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 97.36096194863507, 
+        "adjacent": [
+          "woe:state=12578018", 
+          "woe:state=12578005", 
+          "woe:state=12578004", 
+          "woe:state=12578007", 
+          "woe:state=20070171", 
+          "woe:state=12578015", 
+          "woe:state=12577996"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 30.157, 
         "ne:FIPS_1": "CH32", 
@@ -9454,9 +9468,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 26.034845282483843, 
-        "ne:VertexCou": 2351.0, 
-        "ne:VALIDFR_1": "19970314", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1809, 
         "ne:Postal": "SC", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "S\u00ecchuan", 
@@ -9472,8 +9486,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 484815.9, 
         "woe:id": "12578016", 
-        "ne:HASC_1": "CN.SC", 
-        "lang": "CHI", 
+        "name": "\u56db\u5ddd\u7701", 
+        "ne:VertexCou": 2351.0, 
         "adjacent_woeid": [
           12577996, 
           12578004, 
@@ -9483,9 +9497,8 @@
           12578018, 
           20070171
         ], 
-        "name": "\u56db\u5ddd\u7701", 
+        "ne:HASC_1": "CN.SC", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 108.52348473493265, 
         "longitude": 102.953, 
         "iso": "CN", 

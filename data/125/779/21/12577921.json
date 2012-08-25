@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              17.870, 
+              17.87, 
               47.333
             ], 
             [
-              17.870, 
+              17.87, 
               47.823
             ], 
             [
@@ -23,7 +23,7 @@
               47.333
             ], 
             [
-              17.870, 
+              17.87, 
               47.333
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "ne_latitude": 47.823, 
-        "name": "Kom\u00e1rom-Esztergom", 
         "adjacent_woeid": [
           12577917, 
           12577918, 
@@ -42,23 +40,43 @@
           20070492, 
           56043626
         ], 
-        "woeid": 12577921, 
+        "name": "Kom\u00e1rom-Esztergom", 
+        "hierarchy": [
+          "woe:state=12577921", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 47.823, 
         "ne_longitude": 18.941, 
         "longitude": 18.585, 
-        "parent_woeid": 23424844, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
-        "date_indexed": "2010-12-02T09:55:38Z", 
+        "sw_latitude": 47.333, 
+        "adjacent": [
+          "woe:state=12577917", 
+          "woe:state=12577918", 
+          "woe:state=20070492", 
+          "woe:state=12577923", 
+          "woe:state=56043626", 
+          "woe:state=12577929"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.578, 
-        "sw_longitude": 17.870, 
+        "sw_longitude": 17.87, 
         "fullname": "Kom\u00e1rom-Esztergom, Hungary", 
         "alias_HUN_S": [
           "Komarom-Esztergom"
         ], 
-        "sw_latitude": 47.333
+        "woeid": 12577921, 
+        "date_indexed": "2010-12-02T09:55:38Z"
       }, 
       "id": 12577921
     }
+  ], 
+  "bbox": [
+    17.87, 
+    47.333, 
+    18.941, 
+    47.823
   ]
 }

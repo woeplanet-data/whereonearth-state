@@ -7,24 +7,24 @@
         "coordinates": [
           [
             [
-              -89.720, 
-              14.400
+              -89.72, 
+              14.4
             ], 
             [
-              -89.720, 
-              14.950
-            ], 
-            [
-              -89.133, 
-              14.950
+              -89.72, 
+              14.95
             ], 
             [
               -89.133, 
-              14.400
+              14.95
             ], 
             [
-              -89.720, 
-              14.400
+              -89.133, 
+              14.4
+            ], 
+            [
+              -89.72, 
+              14.4
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345555, 
-        "name": "Chiquimula", 
         "adjacent_woeid": [
           2345302, 
           2345561, 
@@ -42,20 +40,40 @@
           2345627, 
           2345636
         ], 
-        "ne_latitude": 14.950, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chiquimula", 
+        "hierarchy": [
+          "woe:state=2345555", 
+          "woe:country=23424834", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345555, 
         "ne_longitude": -89.133, 
         "longitude": -89.427, 
-        "placetype": "State", 
-        "iso": "GT", 
-        "date_indexed": "2010-12-02T16:55:18Z", 
-        "parent_woeid": 23424834, 
+        "placetype": "state", 
         "latitude": 14.675, 
-        "sw_longitude": -89.720, 
+        "iso": "GT", 
+        "sw_latitude": 14.4, 
+        "adjacent": [
+          "woe:state=2345627", 
+          "woe:state=2345561", 
+          "woe:state=2345562", 
+          "woe:state=2345636", 
+          "woe:state=2345302", 
+          "woe:state=2345573"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.95, 
+        "sw_longitude": -89.72, 
         "fullname": "Chiquimula, Guatemala", 
-        "sw_latitude": 14.400
+        "date_indexed": "2010-12-02T16:55:18Z"
       }, 
       "id": 2345555
     }
+  ], 
+  "bbox": [
+    -89.72, 
+    14.4, 
+    -89.133, 
+    14.95
   ]
 }

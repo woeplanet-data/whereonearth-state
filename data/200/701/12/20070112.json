@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070112, 
-        "name": "Siglufjordur", 
         "adjacent_woeid": [
           2345693
         ], 
-        "ne_latitude": 66.169, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Siglufjordur", 
+        "hierarchy": [
+          "woe:state=20070112", 
+          "woe:country=23424845", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070112, 
         "ne_longitude": -18.911, 
         "longitude": -18.926, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 66.16, 
         "iso": "IS", 
-        "date_indexed": "2010-12-02T09:55:32Z", 
-        "parent_woeid": 23424845, 
-        "latitude": 66.160, 
+        "sw_latitude": 66.151, 
+        "adjacent": [
+          "woe:state=2345693"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 66.169, 
         "sw_longitude": -18.941, 
         "fullname": "Siglufjordur, Iceland", 
-        "sw_latitude": 66.151
+        "date_indexed": "2010-12-02T09:55:32Z"
       }, 
       "id": 20070112
     }
+  ], 
+  "bbox": [
+    -18.941, 
+    66.151, 
+    -18.911, 
+    66.169
   ]
 }

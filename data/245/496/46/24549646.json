@@ -8,7 +8,7 @@
           [
             [
               -170.736, 
-              -14.330
+              -14.33
             ], 
             [
               -170.736, 
@@ -20,11 +20,11 @@
             ], 
             [
               -170.548, 
-              -14.330
+              -14.33
             ], 
             [
               -170.736, 
-              -14.330
+              -14.33
             ]
           ]
         ]
@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549646, 
-        "name": "Eastern", 
         "adjacent_woeid": [
           24549645
         ], 
-        "ne_latitude": -14.237, 
+        "name": "Eastern", 
+        "hierarchy": [
+          "woe:state=24549646", 
+          "woe:country=23424746", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549646, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -170.548, 
-        "longitude": -170.650, 
-        "placetype": "State", 
+        "longitude": -170.65, 
+        "placetype": "state", 
         "iso": "AS", 
         "date_indexed": "2010-12-02T17:40:22Z", 
-        "parent_woeid": 23424746, 
+        "adjacent": [
+          "woe:state=24549645"
+        ], 
+        "ne_latitude": -14.237, 
         "latitude": -14.284, 
         "sw_longitude": -170.736, 
         "fullname": "Eastern, American Samoa", 
-        "sw_latitude": -14.330
+        "sw_latitude": -14.33
       }, 
       "id": 24549646
     }
+  ], 
+  "bbox": [
+    -170.736, 
+    -14.33, 
+    -170.548, 
+    -14.237
   ]
 }

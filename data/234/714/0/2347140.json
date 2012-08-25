@@ -15,11 +15,11 @@
               16.648
             ], 
             [
-              100.770, 
+              100.77, 
               16.648
             ], 
             [
-              100.770, 
+              100.77, 
               15.912
             ], 
             [
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347140, 
-        "name": "Phichit", 
         "adjacent_woeid": [
           2347138, 
           2347139, 
           2347141, 
           2347143
         ], 
-        "ne_latitude": 16.648, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Phichit", 
         "alias_ENG_V": [
           "Changwat Phichit"
         ], 
-        "ne_longitude": 100.770, 
+        "hierarchy": [
+          "woe:state=2347140", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347140, 
+        "ne_longitude": 100.77, 
         "longitude": 100.377, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 16.28, 
         "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
-        "latitude": 16.280, 
+        "sw_latitude": 15.912, 
+        "adjacent": [
+          "woe:state=2347138", 
+          "woe:state=2347143", 
+          "woe:state=2347141", 
+          "woe:state=2347139"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.648, 
         "sw_longitude": 99.983, 
         "fullname": "Phichit, Thailand", 
-        "sw_latitude": 15.912
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347140
     }
+  ], 
+  "bbox": [
+    99.983, 
+    15.912, 
+    100.77, 
+    16.648
   ]
 }

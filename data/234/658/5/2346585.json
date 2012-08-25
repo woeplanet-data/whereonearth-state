@@ -369,11 +369,16 @@
       "properties": {
         "ne:ProvNumber": 16, 
         "ne:ScaleRank": 6, 
+        "hierarchy": [
+          "woe:state=2346585", 
+          "woe:country=23424926", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -4.967810153915423, 
         "ne:Shape_Area": 2.07203185956, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "1973", 
         "alias_KOR_Q": [
           "\ub0a8\ubd80 \ud558\uc774\ub79c\ub4dc"
         ], 
@@ -382,13 +387,21 @@
         "alias_CHI_Q": [
           "\u5357\u9ad8\u5730"
         ], 
-        "ne:OBJECTID": 1246, 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u30b5\u30b6\u30fc\u30f3\u30cf\u30a4\u30e9\u30f3\u30c9"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 142.17817467711973, 
+        "adjacent": [
+          "woe:state=2346588", 
+          "woe:state=2346599", 
+          "woe:state=2346582", 
+          "woe:state=2346598", 
+          "woe:state=2346586", 
+          "woe:state=2346596"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -6.045, 
         "ne:FIPS_1": "PP05", 
@@ -396,9 +409,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -6.837050062610274, 
-        "ne:VertexCou": 88.0, 
-        "ne:VALIDFR_1": "1973", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1246, 
         "ne:Postal": "SH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -417,8 +430,8 @@
           "Southern Highlands Province"
         ], 
         "woe:id": "2346585", 
-        "ne:HASC_1": "PG.SH", 
-        "lang": "ENG", 
+        "name": "Southern Highlands", 
+        "ne:VertexCou": 88.0, 
         "adjacent_woeid": [
           2346582, 
           2346586, 
@@ -427,9 +440,8 @@
           2346598, 
           2346599
         ], 
-        "name": "Southern Highlands", 
+        "ne:HASC_1": "PG.SH", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424926, 
         "ne_longitude": 144.71460900330294, 
         "longitude": 143.433, 
         "iso": "PG", 

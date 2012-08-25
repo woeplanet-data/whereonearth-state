@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070242, 
-        "name": "Bilasuvar", 
         "adjacent_woeid": [
           20070198, 
           20070223, 
@@ -43,20 +41,41 @@
           20070280, 
           20070281
         ], 
-        "ne_latitude": 39.682, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bilasuvar", 
+        "hierarchy": [
+          "woe:state=20070242", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070242, 
         "ne_longitude": 48.733, 
         "longitude": 48.459, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.488, 
+        "iso": "AZ", 
+        "sw_latitude": 39.293, 
+        "adjacent": [
+          "woe:state=20070198", 
+          "woe:state=20070223", 
+          "woe:state=20070227", 
+          "woe:state=20070241", 
+          "woe:state=20070243", 
+          "woe:state=20070281", 
+          "woe:state=20070280"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.682, 
         "sw_longitude": 48.185, 
         "fullname": "Bilasuvar, Azerbaijan", 
-        "sw_latitude": 39.293
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070242
     }
+  ], 
+  "bbox": [
+    48.185, 
+    39.293, 
+    48.733, 
+    39.682
   ]
 }

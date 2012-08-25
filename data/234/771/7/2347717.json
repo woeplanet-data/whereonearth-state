@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347717, 
-        "name": "Tien Giang", 
         "adjacent_woeid": [
           2347703, 
           2347710, 
@@ -41,14 +39,27 @@
           2347728, 
           2347752
         ], 
-        "ne_latitude": 10.611, 
+        "name": "Tien Giang", 
+        "hierarchy": [
+          "woe:state=2347717", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347717, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.798, 
         "longitude": 106.291, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347703", 
+          "woe:state=2347722", 
+          "woe:state=2347728", 
+          "woe:state=2347710", 
+          "woe:state=2347752"
+        ], 
+        "ne_latitude": 10.611, 
         "latitude": 10.409, 
         "sw_longitude": 105.793, 
         "fullname": "Tien Giang, Vietnam", 
@@ -56,5 +67,11 @@
       }, 
       "id": 2347717
     }
+  ], 
+  "bbox": [
+    105.793, 
+    10.195, 
+    106.798, 
+    10.611
   ]
 }

@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347071, 
-        "name": "Al Qunaytirah", 
         "adjacent_woeid": [
           2347074, 
           2347076, 
           20070291, 
           56049597
         ], 
-        "ne_latitude": 33.445, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Al Qunaytirah", 
+        "hierarchy": [
+          "woe:state=2347071", 
+          "woe:country=23424956", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347071, 
         "ne_longitude": 36.045, 
         "longitude": 35.925, 
-        "placetype": "State", 
-        "iso": "SY", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
-        "parent_woeid": 23424956, 
+        "placetype": "state", 
         "latitude": 33.029, 
+        "iso": "SY", 
+        "sw_latitude": 32.729, 
+        "adjacent": [
+          "woe:state=56049597", 
+          "woe:state=2347074", 
+          "woe:state=20070291", 
+          "woe:state=2347076"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 33.445, 
         "sw_longitude": 35.804, 
         "fullname": "Al Qunaytirah, Syria", 
-        "sw_latitude": 32.729
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 2347071
     }
+  ], 
+  "bbox": [
+    35.804, 
+    32.729, 
+    36.045, 
+    33.445
   ]
 }

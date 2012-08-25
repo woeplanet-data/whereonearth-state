@@ -573,25 +573,31 @@
         "alias_ENG_V": [
           "Obwalden"
         ], 
+        "ne:ISO": "CHE", 
         "ne:ScaleRank": 9, 
         "alias_ENG_P": [
           "Canton of Obwalden"
         ], 
-        "ne_latitude": 46.97940664360175, 
-        "alias_GER_A": [
-          "OW"
+        "hierarchy": [
+          "woe:state=2347096", 
+          "woe:country=23424957", 
+          "woe:planet=1"
         ], 
+        "ne_latitude": 46.97940664360175, 
+        "ne:OBJECTID": 3427, 
         "ne:Shape_Area": 0.0569747455847, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHE", 
         "ne:VALIDTO_1": "Present", 
         "alias_ITA_Q": [
           "Canton Obvaldo"
         ], 
-        "ne:Area_sqkm": 483.0, 
+        "alias_GER_V": [
+          "Obwalden"
+        ], 
         "alias_ITA_V": [
           "Obvaldo"
         ], 
@@ -601,52 +607,56 @@
           "Unterwalden alto"
         ], 
         "sw_longitude": 8.043726433927816, 
+        "adjacent": [
+          "woe:state=2347087", 
+          "woe:state=2347093", 
+          "woe:state=2347095", 
+          "woe:state=2347103"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.867, 
-        "iso": "CH", 
         "ne:FIPS_1": "SZ14", 
         "ne:FIRST_FIPS": "SZ11", 
         "ne:FIRST_HASC": "CH.LU|CHE-OBW", 
         "ne:ENGTYPE_1": "Canton", 
-        "date_indexed": "2010-12-02T18:19:21Z", 
-        "ne:VertexCou": 67.0, 
-        "ne:VALIDFR_1": "Unknown", 
+        "sw_latitude": 46.75877411523328, 
+        "lang": "GER", 
+        "ne:MAP_COLOR": 3, 
         "ne:DataRank": 7, 
         "ne:Postal": "NW", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Obvaldo|Obwald|Unterwalden-le-Haut|Obwaldo|Sursilvania", 
-        "ne:ISO": "CHE", 
-        "ne:TYPE_1": "Canton|Kanton|Chantun", 
+        "alias_GER_A": [
+          "OW"
+        ], 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 1.4650436824, 
         "ne:CheckMe": 14, 
         "ne:NAME_0": "Switzerland", 
         "ne:NAME_1": "Obwalden", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Canton|Kanton|Chantun", 
         "ne:LabelRank": 9, 
-        "alias_GER_V": [
-          "Obwalden"
-        ], 
+        "ne:Area_sqkm": 483.0, 
         "woe:id": "2347096", 
-        "ne:HASC_1": "CH.NW", 
-        "lang": "GER", 
+        "name": "Kanton Obwalden", 
+        "ne:VertexCou": 67.0, 
         "adjacent_woeid": [
           2347087, 
           2347093, 
           2347095, 
           2347103
         ], 
-        "name": "Kanton Obwalden", 
+        "ne:HASC_1": "CH.NW", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424957, 
         "alias_UNK_Q": [
           "Sursilvania"
         ], 
         "ne_longitude": 8.500081007532515, 
         "longitude": 8.206, 
-        "ne:OBJECTID": 3427, 
-        "sw_latitude": 46.75877411523328, 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:19:21Z", 
         "ne:NL_NAME_1": null, 
         "alias_FRE_V": [
           "Obwald"

@@ -15,11 +15,11 @@
               46.136
             ], 
             [
-              15.100, 
+              15.1, 
               46.136
             ], 
             [
-              15.100, 
+              15.1, 
               45.963
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848363, 
-        "name": "Litija", 
         "adjacent_woeid": [
           55848346, 
           55848349, 
@@ -44,20 +42,42 @@
           55848393, 
           55848397
         ], 
-        "ne_latitude": 46.136, 
+        "name": "Litija", 
+        "hierarchy": [
+          "woe:state=55848363", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848363, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 15.100, 
+        "ne_longitude": 15.1, 
         "longitude": 14.906, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
-        "latitude": 46.050, 
+        "adjacent": [
+          "woe:state=55848346", 
+          "woe:state=55848349", 
+          "woe:state=55848360", 
+          "woe:state=55848364", 
+          "woe:state=55848384", 
+          "woe:state=55848392", 
+          "woe:state=55848393", 
+          "woe:state=55848397"
+        ], 
+        "ne_latitude": 46.136, 
+        "latitude": 46.05, 
         "sw_longitude": 14.712, 
         "fullname": "Litija, Slovenia", 
         "sw_latitude": 45.963
       }, 
       "id": 55848363
     }
+  ], 
+  "bbox": [
+    14.712, 
+    45.963, 
+    15.1, 
+    46.136
   ]
 }

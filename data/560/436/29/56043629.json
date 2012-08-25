@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              17.510, 
+              17.51, 
               47.591
             ], 
             [
-              17.510, 
+              17.51, 
               47.747
             ], 
             [
@@ -23,7 +23,7 @@
               47.591
             ], 
             [
-              17.510, 
+              17.51, 
               47.591
             ]
           ]
@@ -32,32 +32,46 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "ne_latitude": 47.747, 
-        "name": "Gy\u00f4r", 
         "adjacent_woeid": [
           12577918, 
           20070492
         ], 
-        "woeid": 56043629, 
+        "name": "Gy\u00f4r", 
+        "hierarchy": [
+          "woe:state=56043629", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 47.747, 
         "alias_HUN_V": [
           "Gy\u00f5r"
         ], 
         "ne_longitude": 17.808, 
         "longitude": 17.659, 
-        "parent_woeid": 23424844, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
+        "adjacent": [
+          "woe:state=12577918", 
+          "woe:state=20070492"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.669, 
-        "sw_longitude": 17.510, 
+        "sw_longitude": 17.51, 
         "fullname": "Gy\u00f4r, Hungary", 
         "alias_HUN_S": [
           "Gyor"
         ], 
+        "woeid": 56043629, 
         "sw_latitude": 47.591
       }, 
       "id": 56043629
     }
+  ], 
+  "bbox": [
+    17.51, 
+    47.591, 
+    17.808, 
+    47.747
   ]
 }

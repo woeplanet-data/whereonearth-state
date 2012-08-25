@@ -8,23 +8,23 @@
           [
             [
               73.116, 
-              5.650
+              5.65
             ], 
             [
               73.116, 
-              6.000
+              6.0
             ], 
             [
               73.451, 
-              6.000
+              6.0
             ], 
             [
               73.451, 
-              5.650
+              5.65
             ], 
             [
               73.116, 
-              5.650
+              5.65
             ]
           ]
         ]
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070315, 
+        "ne_latitude": 6.0, 
         "name": "Noonu", 
-        "ne_latitude": 6.000, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=20070315", 
+          "woe:country=23424899", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070315, 
         "ne_longitude": 73.451, 
         "longitude": 73.445, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MV", 
-        "date_indexed": "2010-12-02T09:35:37Z", 
-        "parent_woeid": 23424899, 
+        "sw_latitude": 5.65, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 5.838, 
         "sw_longitude": 73.116, 
         "fullname": "Noonu, Maldives", 
-        "sw_latitude": 5.650
+        "date_indexed": "2010-12-02T09:35:37Z"
       }, 
       "id": 20070315
     }
+  ], 
+  "bbox": [
+    73.116, 
+    5.65, 
+    73.451, 
+    6.0
   ]
 }

@@ -15,11 +15,11 @@
               -3.972
             ], 
             [
-              16.610, 
+              16.61, 
               -3.972
             ], 
             [
-              16.610, 
+              16.61, 
               -5.049
             ], 
             [
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2344982, 
-        "name": "Kinshasa", 
         "adjacent_woeid": [
           2344975, 
           2344976, 
           2344977, 
           2344984
         ], 
-        "ne_latitude": -3.972, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 16.610, 
+        "name": "Kinshasa", 
+        "hierarchy": [
+          "woe:state=2344982", 
+          "woe:country=23424780", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344982, 
+        "ne_longitude": 16.61, 
         "longitude": 15.851, 
-        "placetype": "State", 
-        "iso": "CD", 
-        "date_indexed": "2010-12-02T16:33:06Z", 
-        "parent_woeid": 23424780, 
+        "placetype": "state", 
         "latitude": -4.511, 
+        "iso": "CD", 
+        "sw_latitude": -5.049, 
+        "adjacent": [
+          "woe:state=2344977", 
+          "woe:state=2344984", 
+          "woe:state=2344976", 
+          "woe:state=2344975"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -3.972, 
         "sw_longitude": 15.092, 
         "fullname": "Kinshasa, Democratic Republic of Congo", 
-        "sw_latitude": -5.049
+        "date_indexed": "2010-12-02T16:33:06Z"
       }, 
       "id": 2344982
     }
+  ], 
+  "bbox": [
+    15.092, 
+    -5.049, 
+    16.61, 
+    -3.972
   ]
 }

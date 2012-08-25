@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "ne_latitude": 47.486, 
-        "name": "Veszpr\u00e9m", 
         "adjacent_woeid": [
           12577917, 
           12577918, 
@@ -43,13 +41,27 @@
           12577930, 
           56043633
         ], 
-        "woeid": 12577929, 
+        "name": "Veszpr\u00e9m", 
+        "hierarchy": [
+          "woe:state=12577929", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 47.486, 
         "ne_longitude": 18.262, 
         "longitude": 17.667, 
-        "parent_woeid": 23424844, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
-        "date_indexed": "2010-12-02T09:55:38Z", 
+        "sw_latitude": 46.748, 
+        "adjacent": [
+          "woe:state=12577917", 
+          "woe:state=12577918", 
+          "woe:state=12577921", 
+          "woe:state=12577924", 
+          "woe:state=12577928", 
+          "woe:state=56043633", 
+          "woe:state=12577930"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.117, 
         "sw_longitude": 17.073, 
@@ -57,9 +69,16 @@
         "alias_HUN_S": [
           "Veszprem"
         ], 
-        "sw_latitude": 46.748
+        "woeid": 12577929, 
+        "date_indexed": "2010-12-02T09:55:38Z"
       }, 
       "id": 12577929
     }
+  ], 
+  "bbox": [
+    17.073, 
+    46.748, 
+    18.262, 
+    47.486
   ]
 }

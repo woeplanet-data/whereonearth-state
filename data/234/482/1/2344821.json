@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              97.440, 
-              9.600
+              97.44, 
+              9.6
             ], 
             [
-              97.440, 
+              97.44, 
               15.087
             ], 
             [
@@ -20,11 +20,11 @@
             ], 
             [
               99.669, 
-              9.600
+              9.6
             ], 
             [
-              97.440, 
-              9.600
+              97.44, 
+              9.6
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344821, 
-        "name": "Tenasserim", 
         "adjacent_woeid": [
           2344822, 
           2347174, 
@@ -43,20 +41,41 @@
           2347182, 
           2347183
         ], 
-        "ne_latitude": 15.087, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tenasserim", 
+        "hierarchy": [
+          "woe:state=2344821", 
+          "woe:country=23424763", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344821, 
         "ne_longitude": 99.669, 
         "longitude": 98.734, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 12.53, 
         "iso": "MM", 
-        "date_indexed": "2010-12-02T17:58:12Z", 
-        "parent_woeid": 23424763, 
-        "latitude": 12.530, 
-        "sw_longitude": 97.440, 
+        "sw_latitude": 9.6, 
+        "adjacent": [
+          "woe:state=2347182", 
+          "woe:state=2347174", 
+          "woe:state=2344822", 
+          "woe:state=2347180", 
+          "woe:state=2347181", 
+          "woe:state=2347183", 
+          "woe:state=2347176"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.087, 
+        "sw_longitude": 97.44, 
         "fullname": "Tenasserim, Myanmar", 
-        "sw_latitude": 9.600
+        "date_indexed": "2010-12-02T17:58:12Z"
       }, 
       "id": 2344821
     }
+  ], 
+  "bbox": [
+    97.44, 
+    9.6, 
+    99.669, 
+    15.087
   ]
 }

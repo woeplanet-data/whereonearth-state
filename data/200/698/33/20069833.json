@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 15.026, 
-        "name": "Regi\u00f3n Aut\u00f3noma del Atl\u00e1ntico Norte", 
         "adjacent_woeid": [
           2345631, 
           2345637, 
@@ -41,26 +39,45 @@
           2346428, 
           20069832
         ], 
+        "name": "Regi\u00f3n Aut\u00f3noma del Atl\u00e1ntico Norte", 
+        "hierarchy": [
+          "woe:state=20069833", 
+          "woe:country=23424915", 
+          "woe:planet=1"
+        ], 
         "woeid": 20069833, 
         "alias_SPA_V": [
           "Atlantico Norte"
         ], 
         "ne_longitude": -82.592, 
         "longitude": -84.338, 
-        "parent_woeid": 23424915, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 13.843, 
         "alias_SPA_S": [
           "Region Autonoma del Atlantico Norte"
         ], 
-        "iso": "NI", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 13.843, 
         "sw_longitude": -85.518, 
+        "sw_latitude": 13.029, 
+        "adjacent": [
+          "woe:state=2345631", 
+          "woe:state=2346423", 
+          "woe:state=2346428", 
+          "woe:state=2345637", 
+          "woe:state=20069832"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.026, 
+        "iso": "NI", 
         "fullname": "Regi\u00f3n Aut\u00f3noma del Atl\u00e1ntico Norte, Nicaragua", 
-        "sw_latitude": 13.029
+        "date_indexed": "2010-12-02T18:19:07Z"
       }, 
       "id": 20069833
     }
+  ], 
+  "bbox": [
+    -85.518, 
+    13.029, 
+    -82.592, 
+    15.026
   ]
 }

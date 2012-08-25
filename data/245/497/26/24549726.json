@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549726, 
-        "name": "Agana Heights", 
         "adjacent_woeid": [
           24549717, 
           24549718, 
           24549719, 
           24549727
         ], 
-        "ne_latitude": 13.472, 
+        "name": "Agana Heights", 
+        "hierarchy": [
+          "woe:state=24549726", 
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549726, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.751, 
         "longitude": 144.741, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "parent_woeid": 23424832, 
+        "adjacent": [
+          "woe:state=24549718", 
+          "woe:state=24549717", 
+          "woe:state=24549719", 
+          "woe:state=24549727"
+        ], 
+        "ne_latitude": 13.472, 
         "latitude": 13.463, 
         "sw_longitude": 144.731, 
         "fullname": "Agana Heights, Guam", 
@@ -55,5 +65,11 @@
       }, 
       "id": 24549726
     }
+  ], 
+  "bbox": [
+    144.731, 
+    13.454, 
+    144.751, 
+    13.472
   ]
 }

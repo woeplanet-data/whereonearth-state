@@ -15,11 +15,11 @@
               44.597
             ], 
             [
-              27.880, 
+              27.88, 
               44.597
             ], 
             [
-              27.880, 
+              27.88, 
               44.038
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "RUM", 
-        "woeid": 2346654, 
-        "name": "Calarasi", 
         "adjacent_woeid": [
           2346628, 
           2346636, 
@@ -41,20 +39,39 @@
           20070070, 
           29281934
         ], 
-        "ne_latitude": 44.597, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 27.880, 
+        "name": "Calarasi", 
+        "hierarchy": [
+          "woe:state=2346654", 
+          "woe:country=23424933", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346654, 
+        "ne_longitude": 27.88, 
         "longitude": 27.068, 
-        "placetype": "State", 
-        "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
-        "parent_woeid": 23424933, 
+        "placetype": "state", 
         "latitude": 44.317, 
+        "iso": "RO", 
+        "sw_latitude": 44.038, 
+        "adjacent": [
+          "woe:state=2346628", 
+          "woe:state=2346655", 
+          "woe:state=2346636", 
+          "woe:state=29281934", 
+          "woe:state=20070070"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 44.597, 
         "sw_longitude": 26.255, 
         "fullname": "Calarasi, Romania", 
-        "sw_latitude": 44.038
+        "date_indexed": "2010-12-02T16:36:29Z"
       }, 
       "id": 2346654
     }
+  ], 
+  "bbox": [
+    26.255, 
+    44.038, 
+    27.88, 
+    44.597
   ]
 }

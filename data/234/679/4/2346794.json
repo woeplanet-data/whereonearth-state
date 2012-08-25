@@ -12,11 +12,11 @@
             ], 
             [
               -66.245, 
-              18.230
+              18.23
             ], 
             [
               -66.094, 
-              18.230
+              18.23
             ], 
             [
               -66.094, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.230, 
-        "name": "Cidra", 
         "adjacent_woeid": [
           2346790, 
           2346791, 
@@ -42,23 +40,43 @@
           2346857, 
           2346858
         ], 
+        "name": "Cidra", 
+        "hierarchy": [
+          "woe:state=2346794", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346794, 
         "alias_SPA_V": [
           "Cidra Municipios"
         ], 
         "ne_longitude": -66.094, 
-        "longitude": -66.170, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "longitude": -66.17, 
+        "placetype": "state", 
         "latitude": 18.181, 
         "sw_longitude": -66.245, 
+        "sw_latitude": 18.133, 
+        "adjacent": [
+          "woe:state=2346858", 
+          "woe:state=2346790", 
+          "woe:state=2346791", 
+          "woe:state=2346855", 
+          "woe:state=2346792", 
+          "woe:state=2346857"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.23, 
+        "iso": "PR", 
         "fullname": "Cidra, Puerto Rico", 
-        "sw_latitude": 18.133
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346794
     }
+  ], 
+  "bbox": [
+    -66.245, 
+    18.133, 
+    -66.094, 
+    18.23
   ]
 }

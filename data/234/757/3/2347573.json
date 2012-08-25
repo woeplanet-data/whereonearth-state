@@ -1730,11 +1730,16 @@
         "alias_KOR_Q": [
           "\uc778\ub514\uc544\ub098"
         ], 
+        "hierarchy": [
+          "woe:state=2347573", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.7597208847111, 
         "ne:Shape_Area": 9.94219856009, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18161211", 
         "alias_ENG_A": [
           "Ind"
         ], 
@@ -1744,13 +1749,19 @@
         "alias_CHI_Q": [
           "\u5370\u5730\u5b89\u90a3"
         ], 
-        "ne:OBJECTID": 3547, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca"
         ], 
         "ne:Abbrev": "Ind.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -88.11185917376184, 
+        "adjacent": [
+          "woe:state=2347572", 
+          "woe:state=2347576", 
+          "woe:state=2347581", 
+          "woe:state=2347594"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.766, 
         "ne:FIPS_1": "US18", 
@@ -1758,9 +1769,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 37.78193768157877, 
-        "ne:VertexCou": 427.0, 
-        "ne:VALIDFR_1": "18161211", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3547, 
         "ne:Postal": "IN", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "IN|Ind.", 
@@ -1776,17 +1787,16 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 94362.6, 
         "woe:id": "2347573", 
-        "ne:HASC_1": "US.IN", 
-        "lang": "ENG", 
+        "name": "Indiana", 
+        "ne:VertexCou": 427.0, 
         "adjacent_woeid": [
           2347572, 
           2347576, 
           2347581, 
           2347594
         ], 
-        "name": "Indiana", 
+        "ne:HASC_1": "US.IN", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -84.78395389985258, 
         "longitude": -86.441, 
         "iso": "US", 

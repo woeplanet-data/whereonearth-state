@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              14.320, 
+              14.32, 
               35.826
             ], 
             [
-              14.320, 
+              14.32, 
               35.998
             ], 
             [
@@ -23,7 +23,7 @@
               35.826
             ], 
             [
-              14.320, 
+              14.32, 
               35.826
             ]
           ]
@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 56043491, 
-        "name": "Malta Majjistral", 
         "adjacent_woeid": [
           56043492
         ], 
-        "ne_latitude": 35.998, 
+        "name": "Malta Majjistral", 
+        "hierarchy": [
+          "woe:state=56043491", 
+          "woe:country=23424897", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56043491, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.515, 
         "longitude": 14.417, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MT", 
         "date_indexed": "2010-12-02T07:50:17Z", 
-        "parent_woeid": 23424897, 
+        "adjacent": [
+          "woe:state=56043492"
+        ], 
+        "ne_latitude": 35.998, 
         "latitude": 35.912, 
-        "sw_longitude": 14.320, 
+        "sw_longitude": 14.32, 
         "fullname": "Malta Majjistral, Malta", 
         "sw_latitude": 35.826
       }, 
       "id": 56043491
     }
+  ], 
+  "bbox": [
+    14.32, 
+    35.826, 
+    14.515, 
+    35.998
   ]
 }

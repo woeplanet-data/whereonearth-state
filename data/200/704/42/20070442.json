@@ -15,11 +15,11 @@
               -0.034
             ], 
             [
-              32.000, 
+              32.0, 
               -0.034
             ], 
             [
-              32.000, 
+              32.0, 
               -0.995
             ], 
             [
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070442, 
-        "name": "Rakai", 
         "adjacent_woeid": [
           20070451, 
           56190205, 
           56190207, 
           56190210
         ], 
-        "ne_latitude": -0.034, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 32.000, 
+        "name": "Rakai", 
+        "hierarchy": [
+          "woe:state=20070442", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070442, 
+        "ne_longitude": 32.0, 
         "longitude": 31.596, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": -0.515, 
+        "iso": "UG", 
+        "sw_latitude": -0.995, 
+        "adjacent": [
+          "woe:state=56190210", 
+          "woe:state=56190205", 
+          "woe:state=56190207", 
+          "woe:state=20070451"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -0.034, 
         "sw_longitude": 31.074, 
         "fullname": "Rakai, Uganda", 
-        "sw_latitude": -0.995
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070442
     }
+  ], 
+  "bbox": [
+    31.074, 
+    -0.995, 
+    32.0, 
+    -0.034
   ]
 }

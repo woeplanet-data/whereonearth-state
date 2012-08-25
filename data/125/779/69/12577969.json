@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 12577969, 
-        "name": "Kyrenia District", 
         "adjacent_woeid": [
           12577963, 
           12577971
         ], 
-        "ne_latitude": 35.402, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kyrenia District", 
         "alias_ENG_V": [
           "Kyrenia"
         ], 
+        "hierarchy": [
+          "woe:state=12577969", 
+          "woe:country=26812346", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12577969, 
         "ne_longitude": 33.663, 
         "longitude": 33.294, 
-        "placetype": "State", 
-        "iso": "CY", 
-        "date_indexed": "2010-12-02T09:35:19Z", 
-        "parent_woeid": 26812346, 
+        "placetype": "state", 
         "latitude": 35.311, 
+        "iso": "CY", 
+        "sw_latitude": 35.219, 
+        "adjacent": [
+          "woe:state=12577963", 
+          "woe:state=12577971"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.402, 
         "sw_longitude": 32.925, 
         "fullname": "Kyrenia District, Cyprus", 
-        "sw_latitude": 35.219
+        "date_indexed": "2010-12-02T09:35:19Z"
       }, 
       "id": 12577969
     }
+  ], 
+  "bbox": [
+    32.925, 
+    35.219, 
+    33.663, 
+    35.402
   ]
 }

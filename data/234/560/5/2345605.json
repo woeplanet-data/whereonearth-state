@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345605, 
-        "name": "Demerara-Mahaica", 
         "adjacent_woeid": [
           2345607, 
           2345608, 
           2345611
         ], 
-        "ne_latitude": 6.836, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Demerara-Mahaica", 
+        "hierarchy": [
+          "woe:state=2345605", 
+          "woe:country=23424836", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345605, 
         "ne_longitude": -57.876, 
         "longitude": -58.091, 
-        "placetype": "State", 
-        "iso": "GY", 
-        "date_indexed": "2010-12-02T16:33:25Z", 
-        "parent_woeid": 23424836, 
+        "placetype": "state", 
         "latitude": 6.499, 
+        "iso": "GY", 
+        "sw_latitude": 6.161, 
+        "adjacent": [
+          "woe:state=2345607", 
+          "woe:state=2345608", 
+          "woe:state=2345611"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 6.836, 
         "sw_longitude": -58.306, 
         "fullname": "Demerara-Mahaica, Guyana", 
-        "sw_latitude": 6.161
+        "date_indexed": "2010-12-02T16:33:25Z"
       }, 
       "id": 2345605
     }
+  ], 
+  "bbox": [
+    -58.306, 
+    6.161, 
+    -57.876, 
+    6.836
   ]
 }

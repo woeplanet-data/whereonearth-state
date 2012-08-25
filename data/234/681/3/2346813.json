@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -66.170, 
+              -66.17, 
               18.421
             ], 
             [
-              -66.170, 
+              -66.17, 
               18.462
             ], 
             [
-              -66.110, 
+              -66.11, 
               18.462
             ], 
             [
-              -66.110, 
+              -66.11, 
               18.421
             ], 
             [
-              -66.170, 
+              -66.17, 
               18.421
             ]
           ]
@@ -32,33 +32,48 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.462, 
-        "name": "Cata\u00f1o", 
         "adjacent_woeid": [
           2346812, 
           2346814, 
           2346859
         ], 
+        "name": "Cata\u00f1o", 
+        "hierarchy": [
+          "woe:state=2346813", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346813, 
         "alias_SPA_V": [
           "Cata\u00f1o Municipios"
         ], 
-        "ne_longitude": -66.110, 
-        "longitude": -66.140, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
+        "ne_longitude": -66.11, 
+        "longitude": -66.14, 
+        "placetype": "state", 
+        "latitude": 18.442, 
         "alias_SPA_S": [
           "Catanyo Municipios"
         ], 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
+        "sw_longitude": -66.17, 
+        "sw_latitude": 18.421, 
+        "adjacent": [
+          "woe:state=2346859", 
+          "woe:state=2346814", 
+          "woe:state=2346812"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 18.442, 
-        "sw_longitude": -66.170, 
+        "ne_latitude": 18.462, 
+        "iso": "PR", 
         "fullname": "Cata\u00f1o, Puerto Rico", 
-        "sw_latitude": 18.421
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346813
     }
+  ], 
+  "bbox": [
+    -66.17, 
+    18.421, 
+    -66.11, 
+    18.462
   ]
 }

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -71.800, 
-              21.170
+              -71.8, 
+              21.17
             ], 
             [
-              -71.800, 
+              -71.8, 
               21.771
             ], 
             [
@@ -20,11 +20,11 @@
             ], 
             [
               -71.461, 
-              21.170
+              21.17
             ], 
             [
-              -71.800, 
-              21.170
+              -71.8, 
+              21.17
             ]
           ]
         ]
@@ -32,25 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549931, 
-        "name": "South and East Caicos", 
         "alias_ENG_V": [
           "S and East Caicos"
         ], 
-        "ne_latitude": 21.771, 
+        "name": "South and East Caicos", 
+        "hierarchy": [
+          "woe:state=24549931", 
+          "woe:country=23424962", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549931, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -71.461, 
-        "longitude": -71.530, 
-        "placetype": "State", 
+        "longitude": -71.53, 
+        "placetype": "state", 
         "iso": "TC", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "parent_woeid": 23424962, 
+        "ne_latitude": 21.771, 
         "latitude": 21.703, 
-        "sw_longitude": -71.800, 
+        "sw_longitude": -71.8, 
         "fullname": "South and East Caicos, Turks and Caicos Islands", 
-        "sw_latitude": 21.170
+        "sw_latitude": 21.17
       }, 
       "id": 24549931
     }
+  ], 
+  "bbox": [
+    -71.8, 
+    21.17, 
+    -71.461, 
+    21.771
   ]
 }

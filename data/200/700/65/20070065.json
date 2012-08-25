@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070065, 
-        "name": "Pleven", 
         "adjacent_woeid": [
           2346642, 
           2346648, 
@@ -41,20 +39,39 @@
           20070063, 
           20070064
         ], 
-        "ne_latitude": 43.763, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Pleven", 
+        "hierarchy": [
+          "woe:state=20070065", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070065, 
         "ne_longitude": 25.295, 
         "longitude": 24.624, 
-        "placetype": "State", 
-        "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
+        "placetype": "state", 
         "latitude": 43.483, 
+        "iso": "BG", 
+        "sw_latitude": 43.202, 
+        "adjacent": [
+          "woe:state=20070064", 
+          "woe:state=2346642", 
+          "woe:state=2346648", 
+          "woe:state=20070063", 
+          "woe:state=20070057"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.763, 
         "sw_longitude": 23.952, 
         "fullname": "Pleven, Bulgaria", 
-        "sw_latitude": 43.202
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070065
     }
+  ], 
+  "bbox": [
+    23.952, 
+    43.202, 
+    25.295, 
+    43.763
   ]
 }

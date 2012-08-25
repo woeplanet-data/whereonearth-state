@@ -567,11 +567,16 @@
         "alias_ENG_P": [
           "Warmian-Masurian"
         ], 
+        "hierarchy": [
+          "woe:state=12577948", 
+          "woe:country=23424923", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 54.43442963282138, 
         "ne:Shape_Area": 3.35200208071, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19980727", 
         "ne:sameAsCity": -99, 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "POL", 
@@ -580,7 +585,7 @@
         "alias_ITA_Q": [
           "Varmia-Masuria"
         ], 
-        "ne:OBJECTID": 3139, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30f4\u30a1\u30eb\u30df\u30a2\uff1d\u30de\u30ba\u30fc\u30eb\u30a3\u770c"
         ], 
@@ -590,6 +595,13 @@
           "Warmia y Mazuria"
         ], 
         "sw_longitude": 19.128269484049497, 
+        "adjacent": [
+          "woe:state=12577936", 
+          "woe:state=55848078", 
+          "woe:state=12577941", 
+          "woe:state=12577944", 
+          "woe:state=12577945"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 53.791, 
         "ne:FIPS_1": "PL61", 
@@ -597,14 +609,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "ne:VertexCou": 143.0, 
-        "ne:VALIDFR_1": "19980727", 
-        "ne:DataRank": 5, 
+        "lang": "POL", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3139, 
         "ne:Postal": "WN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Warminsko-Mazurskie", 
         "ne:ISO": "POL", 
-        "ne:TYPE_1": "Wojew\u00f3dztwo", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 10.0098951452, 
         "alias_DUT_Q": [
@@ -615,15 +627,15 @@
           "Ermland-Mazurie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne:LabelRank": 5, 
         "ne:Area_sqkm": 24552.6, 
         "alias_GER_Q": [
           "Ermland-Masuren"
         ], 
         "woe:id": "12577948", 
-        "ne:HASC_1": "PL.WN", 
-        "lang": "POL", 
+        "name": "Warminsko-Mazurskie", 
+        "ne:VertexCou": 143.0, 
         "adjacent_woeid": [
           12577936, 
           12577941, 
@@ -631,10 +643,9 @@
           12577945, 
           55848078
         ], 
-        "name": "Warminsko-Mazurskie", 
+        "ne:HASC_1": "PL.WN", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
-        "parent_woeid": 23424923, 
         "ne_longitude": 22.81393598835524, 
         "longitude": 20.967, 
         "ne:NAME_1": "Warmian-Masurian", 

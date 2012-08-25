@@ -9378,17 +9378,22 @@
         "alias_ENG_P": [
           "Guangxi"
         ], 
+        "hierarchy": [
+          "woe:state=12578006", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 26.389888210372646, 
         "ne:Shape_Area": 21.0333204318, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uad11\uc2dc"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1152, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u5ee3\u897f\u7701"
         ], 
@@ -9401,6 +9406,16 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 104.48305952357822, 
+        "adjacent": [
+          "woe:state=2347704", 
+          "woe:state=2347734", 
+          "woe:state=2347718", 
+          "woe:state=2347712", 
+          "woe:state=12578018", 
+          "woe:state=12578019", 
+          "woe:state=12578001", 
+          "woe:state=12578007"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 23.86, 
         "ne:FIPS_1": "CH16", 
@@ -9408,9 +9423,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Region", 
         "sw_latitude": 21.02119782142239, 
-        "ne:VertexCou": 2336.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1152, 
         "ne:Postal": "GX", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Guangxi Zhu\u00e0ngz\u00fa", 
@@ -9426,8 +9441,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 237299.8, 
         "woe:id": "12578006", 
-        "ne:HASC_1": "CN.GX", 
-        "lang": "CHI", 
+        "name": "\u5e7f\u897f\u7701", 
+        "ne:VertexCou": 2336.0, 
         "adjacent_woeid": [
           2347704, 
           2347712, 
@@ -9438,9 +9453,8 @@
           12578018, 
           12578019
         ], 
-        "name": "\u5e7f\u897f\u7701", 
+        "ne:HASC_1": "CN.GX", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 112.05257164926229, 
         "longitude": 108.267, 
         "iso": "CN", 

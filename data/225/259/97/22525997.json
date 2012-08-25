@@ -15,11 +15,11 @@
               50.807
             ], 
             [
-              5.020, 
+              5.02, 
               50.807
             ], 
             [
-              5.020, 
+              5.02, 
               50.525
             ], 
             [
@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Walloon Brabant"
         ], 
+        "hierarchy": [
+          "woe:state=22525997", 
+          "woe:country=23424757", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 50.807, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_ITA_Q": [
           "Brabante Vallone"
         ], 
@@ -50,6 +55,12 @@
           "Brabante Valon"
         ], 
         "sw_longitude": 4.091, 
+        "adjacent": [
+          "woe:state=7153299", 
+          "woe:state=7153300", 
+          "woe:state=7153303", 
+          "woe:state=22525998"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.666, 
         "alias_NOR_Q": [
@@ -73,8 +84,7 @@
           22525998
         ], 
         "name": "Brabant Wallon", 
-        "parent_woeid": 23424757, 
-        "ne_longitude": 5.020, 
+        "ne_longitude": 5.02, 
         "longitude": 4.556, 
         "iso": "BE", 
         "sw_latitude": 50.525, 
@@ -85,5 +95,11 @@
       }, 
       "id": 22525997
     }
+  ], 
+  "bbox": [
+    4.091, 
+    50.525, 
+    5.02, 
+    50.807
   ]
 }

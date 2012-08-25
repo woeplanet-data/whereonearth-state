@@ -40,8 +40,13 @@
         "alias_ENG_P": [
           "Busan"
         ], 
+        "hierarchy": [
+          "woe:state=2345968", 
+          "woe:country=23424868", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.387, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_V": [
           "\ubd80\uc0b0\uad11\uc5ed"
         ], 
@@ -56,23 +61,32 @@
           "\u91dc\u5c71"
         ], 
         "sw_longitude": 128.792, 
+        "adjacent": [
+          "woe:state=2345967", 
+          "woe:state=23701285"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.211, 
-        "date_indexed": "2010-12-02T17:52:39Z", 
+        "sw_latitude": 34.987, 
         "lang": "KOR", 
         "adjacent_woeid": [
           2345967, 
           23701285
         ], 
         "name": "\ubd80\uc0b0", 
-        "parent_woeid": 23424868, 
         "ne_longitude": 129.304, 
         "longitude": 129.048, 
         "iso": "KR", 
-        "sw_latitude": 34.987, 
+        "date_indexed": "2010-12-02T17:52:39Z", 
         "fullname": "\ubd80\uc0b0, Busan, South Korea"
       }, 
       "id": 2345968
     }
+  ], 
+  "bbox": [
+    128.792, 
+    34.987, 
+    129.304, 
+    35.387
   ]
 }

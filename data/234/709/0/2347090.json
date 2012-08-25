@@ -31,44 +31,60 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "GER", 
-        "woeid": 2347090, 
-        "alias_ITA_Q": [
-          "Canton Glarona"
-        ], 
-        "name": "Kanton Glarus", 
         "alias_ENG_V": [
           "Glarus"
         ], 
         "alias_ENG_P": [
           "Canton of Glarus"
         ], 
+        "hierarchy": [
+          "woe:state=2347090", 
+          "woe:country=23424957", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.174, 
+        "placetype": "state", 
+        "alias_ITA_Q": [
+          "Canton Glarona"
+        ], 
+        "woeid": 2347090, 
+        "sw_longitude": 8.871, 
+        "adjacent": [
+          "woe:state=2347091", 
+          "woe:state=2347099", 
+          "woe:state=2347097", 
+          "woe:state=2347103"
+        ], 
         "provider": "geoplanet 7.6.0", 
+        "latitude": 46.985, 
+        "sw_latitude": 46.796, 
         "alias_GER_A": [
           "GL"
         ], 
-        "ne_longitude": 9.253, 
-        "longitude": 9.062, 
-        "placetype": "State", 
+        "lang": "GER", 
         "adjacent_woeid": [
           2347091, 
           2347097, 
           2347099, 
           2347103
         ], 
+        "name": "Kanton Glarus", 
+        "ne_longitude": 9.253, 
+        "longitude": 9.062, 
         "iso": "CH", 
         "date_indexed": "2010-12-02T18:19:21Z", 
-        "parent_woeid": 23424957, 
-        "latitude": 46.985, 
-        "sw_longitude": 8.871, 
         "fullname": "Kanton Glarus, Canton of Glarus, Switzerland", 
-        "sw_latitude": 46.796, 
         "alias_FRE_Q": [
           "Canton de Glaris"
         ]
       }, 
       "id": 2347090
     }
+  ], 
+  "bbox": [
+    8.871, 
+    46.796, 
+    9.253, 
+    47.174
   ]
 }

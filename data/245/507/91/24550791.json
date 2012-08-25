@@ -408,9 +408,14 @@
         "alias_ENG_P": [
           "Novaci Municipality"
         ], 
+        "hierarchy": [
+          "woe:state=24550791", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.16105377830928, 
         "ne:Shape_Area": 0.07810303174, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -419,6 +424,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 21.421359490847863, 
+        "adjacent": [
+          "woe:state=24550747", 
+          "woe:state=12577884", 
+          "woe:state=24550789", 
+          "woe:state=24550799", 
+          "woe:state=12577881"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.009, 
         "ne:FIPS_1": "MK71", 
@@ -455,7 +467,6 @@
         ], 
         "name": "Novaci", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424890, 
         "alias_UNK_V": [
           "Opstina Novaci"
         ], 

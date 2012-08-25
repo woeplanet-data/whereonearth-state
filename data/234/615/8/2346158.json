@@ -8,7 +8,7 @@
           [
             [
               97.393, 
-              42.570
+              42.57
             ], 
             [
               97.393, 
@@ -20,11 +20,11 @@
             ], 
             [
               101.334, 
-              42.570
+              42.57
             ], 
             [
               97.393, 
-              42.570
+              42.57
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346158, 
-        "name": "Bayanhongor", 
         "adjacent_woeid": [
           2346157, 
           2346163, 
@@ -42,20 +40,40 @@
           2346169, 
           12578009
         ], 
-        "ne_latitude": 47.645, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bayanhongor", 
+        "hierarchy": [
+          "woe:state=2346158", 
+          "woe:country=23424887", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346158, 
         "ne_longitude": 101.334, 
         "longitude": 99.363, 
-        "placetype": "State", 
-        "iso": "MN", 
-        "date_indexed": "2010-12-02T08:53:23Z", 
-        "parent_woeid": 23424887, 
+        "placetype": "state", 
         "latitude": 45.107, 
+        "iso": "MN", 
+        "sw_latitude": 42.57, 
+        "adjacent": [
+          "woe:state=2346157", 
+          "woe:state=2346163", 
+          "woe:state=2346164", 
+          "woe:state=2346168", 
+          "woe:state=2346169", 
+          "woe:state=12578009"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 47.645, 
         "sw_longitude": 97.393, 
         "fullname": "Bayanhongor, Mongolia", 
-        "sw_latitude": 42.570
+        "date_indexed": "2010-12-02T08:53:23Z"
       }, 
       "id": 2346158
     }
+  ], 
+  "bbox": [
+    97.393, 
+    42.57, 
+    101.334, 
+    47.645
   ]
 }

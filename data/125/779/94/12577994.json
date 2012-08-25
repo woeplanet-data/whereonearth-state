@@ -5830,17 +5830,22 @@
         "alias_ENG_P": [
           "Jiangsu"
         ], 
+        "hierarchy": [
+          "woe:state=12577994", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.112585761223954, 
         "ne:Shape_Area": 9.62787232406, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc7a5\uc464"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1818, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u6c5f\u8607"
         ], 
@@ -5853,6 +5858,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 116.37721723848483, 
+        "adjacent": [
+          "woe:state=12578012", 
+          "woe:state=12578022", 
+          "woe:state=12578014", 
+          "woe:state=12577992"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 32.944, 
         "ne:FIPS_1": "CH04", 
@@ -5860,9 +5871,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 30.763703924896276, 
-        "ne:VertexCou": 1450.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1818, 
         "ne:Postal": "JS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Jiangsu", 
@@ -5878,17 +5889,16 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 99789.8, 
         "woe:id": "12577994", 
-        "ne:HASC_1": "CN.JS", 
-        "lang": "CHI", 
+        "name": "\u6c5f\u82cf\u7701", 
+        "ne:VertexCou": 1450.0, 
         "adjacent_woeid": [
           12577992, 
           12578012, 
           12578014, 
           12578022
         ], 
-        "name": "\u6c5f\u82cf\u7701", 
+        "ne:HASC_1": "CN.JS", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 121.89584679609288, 
         "longitude": 119.119, 
         "iso": "CN", 

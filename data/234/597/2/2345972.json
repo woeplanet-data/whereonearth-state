@@ -40,8 +40,13 @@
         "alias_ENG_P": [
           "Jeollanam-Do"
         ], 
+        "hierarchy": [
+          "woe:state=2345972", 
+          "woe:country=23424868", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.481, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_V": [
           "\uc804\ub0a8"
         ], 
@@ -56,8 +61,13 @@
           "\u5168\u7f85\u5357\u9053"
         ], 
         "sw_longitude": 125.086, 
+        "adjacent": [
+          "woe:state=2345967", 
+          "woe:state=2345974", 
+          "woe:state=2345964"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 34.880, 
+        "latitude": 34.88, 
         "alias_NOR_Q": [
           "Jeonnam"
         ], 
@@ -69,7 +79,6 @@
           2345974
         ], 
         "name": "\uc804\ub77c\ub0a8\ub3c4", 
-        "parent_woeid": 23424868, 
         "ne_longitude": 127.826, 
         "longitude": 126.972, 
         "iso": "KR", 
@@ -78,5 +87,11 @@
       }, 
       "id": 2345972
     }
+  ], 
+  "bbox": [
+    125.086, 
+    34.001, 
+    127.826, 
+    35.481
   ]
 }

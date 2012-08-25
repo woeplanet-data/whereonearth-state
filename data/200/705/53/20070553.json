@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070553, 
-        "name": "Andorra la Vella", 
         "adjacent_woeid": [
           12578034, 
           20070554, 
           20070555, 
           20070564
         ], 
-        "ne_latitude": 42.522, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Andorra la Vella", 
+        "hierarchy": [
+          "woe:state=20070553", 
+          "woe:country=23424744", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070553, 
         "ne_longitude": 1.564, 
         "longitude": 1.516, 
-        "placetype": "State", 
-        "iso": "AD", 
-        "date_indexed": "2010-12-02T07:50:33Z", 
-        "parent_woeid": 23424744, 
+        "placetype": "state", 
         "latitude": 42.497, 
+        "iso": "AD", 
+        "sw_latitude": 42.471, 
+        "adjacent": [
+          "woe:state=12578034", 
+          "woe:state=20070554", 
+          "woe:state=20070555", 
+          "woe:state=20070564"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.522, 
         "sw_longitude": 1.467, 
         "fullname": "Andorra la Vella, Andorra", 
-        "sw_latitude": 42.471, 
+        "date_indexed": "2010-12-02T07:50:33Z", 
         "alias_FRE_Q": [
           "Andorre la Vieille"
         ]
       }, 
       "id": 20070553
     }
+  ], 
+  "bbox": [
+    1.467, 
+    42.471, 
+    1.564, 
+    42.522
   ]
 }

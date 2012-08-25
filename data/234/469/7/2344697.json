@@ -1331,12 +1331,16 @@
         "alias_ENG_P": [
           "Tierra del Fuego"
         ], 
+        "hierarchy": [
+          "woe:state=2344697", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -52.639215589827586, 
         "ne:Shape_Area": 2.90410576419, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VARNAME_1": "Feuerland|Terra del Fuoco|Terre de Feu|Terra do Fogo|Tierra del Fuego|Ant\u00e1rtida e Islas del Atl\u00e1ntico Sur", 
-        "ne:MAP_COLOR": 13, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_POR_Q": [
           "Terra do Fogo"
         ], 
@@ -1352,10 +1356,12 @@
         "alias_ITA_Q": [
           "Terra del Fuoco"
         ], 
-        "ne:Area_sqkm": 21033.8, 
-        "ne:OBJECTID": 1272, 
-        "alias_GER_Q": [
-          "Feuerland"
+        "alias_DAN_Q": [
+          "Tierra del Fuego"
+        ], 
+        "ne:DataRank": 3, 
+        "alias_DAN_V": [
+          "Ildlandet"
         ], 
         "alias_JPN_Q": [
           "\u30d5\u30a8\u30b4\u5cf6"
@@ -1369,6 +1375,9 @@
         "sw_longitude": -68.64247127992559, 
         "provider": "geoplanet 7.6.0", 
         "latitude": -53.855, 
+        "alias_SPA_V": [
+          "Provincia de Tierra del Fuego"
+        ], 
         "ne:FIPS_1": "AR23", 
         "alias_NOR_Q": [
           "Ildlandet"
@@ -1376,19 +1385,17 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "National Territory", 
         "date_indexed": "2010-12-02T17:40:36Z", 
-        "ne:VertexCou": 324.0, 
+        "lang": "SPA", 
         "alias_ENG_A": [
           "TF"
         ], 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "ne:MAP_COLOR": 13, 
+        "ne:OBJECTID": 1272, 
         "ne:Postal": "TF", 
         "ne:Region_Cod": null, 
-        "alias_SPA_V": [
-          "Provincia de Tierra del Fuego"
-        ], 
+        "ne:VARNAME_1": "Feuerland|Terra del Fuoco|Terre de Feu|Terra do Fogo|Tierra del Fuego|Ant\u00e1rtida e Islas del Atl\u00e1ntico Sur", 
         "ne:ISO": "ARG", 
-        "ne:TYPE_1": "Territorio Nacional|Provincia", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 13.9823991043, 
         "alias_DUT_Q": [
@@ -1397,23 +1404,20 @@
         "ne:NAME_0": "Argentina", 
         "ne:NAME_1": "Tierra del Fuego", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Territorio Nacional|Provincia", 
         "ne:LabelRank": 3, 
-        "alias_DAN_Q": [
-          "Tierra del Fuego"
-        ], 
-        "alias_DAN_V": [
-          "Ildlandet"
+        "ne:Area_sqkm": 21033.8, 
+        "alias_GER_Q": [
+          "Feuerland"
         ], 
         "woe:id": "2344697", 
-        "ne:HASC_1": "AR.TF", 
-        "lang": "SPA", 
+        "name": "Tierra del Fuego Antartida e Islas Del Atlantico Sur", 
+        "ne:VertexCou": 324.0, 
         "ne:NL_NAME_1": null, 
         "ne:FIRST_FIPS": null, 
-        "name": "Tierra del Fuego Antartida e Islas Del Atlantico Sur", 
+        "ne:HASC_1": "AR.TF", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424747, 
         "ne_longitude": -63.81196509501308, 
         "longitude": -68.092, 
         "iso": "AR", 

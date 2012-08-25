@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -75.560, 
+              -75.56, 
               38.929
             ], 
             [
-              -75.560, 
+              -75.56, 
               41.358
             ], 
             [
@@ -23,7 +23,7 @@
               38.929
             ], 
             [
-              -75.560, 
+              -75.56, 
               38.929
             ]
           ]
@@ -34,16 +34,21 @@
         "alias_ENG_V": [
           "The Garden State"
         ], 
-        "alias_ENG_A": [
-          "NJ"
+        "alias_KOR_Q": [
+          "\ub274\uc800\uc9c0"
+        ], 
+        "hierarchy": [
+          "woe:state=2347589", 
+          "woe:country=23424977", 
+          "woe:planet=1"
         ], 
         "ne_latitude": 41.358, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Nova J\u00e9rsei"
         ], 
-        "alias_KOR_Q": [
-          "\ub274\uc800\uc9c0"
+        "alias_ENG_A": [
+          "NJ"
         ], 
         "alias_CHI_Q": [
           "\u65b0\u6cfd\u897f"
@@ -55,7 +60,12 @@
         "alias_SPA_Q": [
           "Nueva Jersey"
         ], 
-        "sw_longitude": -75.560, 
+        "sw_longitude": -75.56, 
+        "adjacent": [
+          "woe:state=2347566", 
+          "woe:state=2347591", 
+          "woe:state=2347597"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.143, 
         "date_indexed": "2010-12-02T18:21:30Z", 
@@ -69,7 +79,6 @@
           2347597
         ], 
         "name": "New Jersey", 
-        "parent_woeid": 23424977, 
         "ne_longitude": -73.894, 
         "longitude": -74.727, 
         "iso": "US", 
@@ -78,5 +87,11 @@
       }, 
       "id": 2347589
     }
+  ], 
+  "bbox": [
+    -75.56, 
+    38.929, 
+    -73.894, 
+    41.358
   ]
 }

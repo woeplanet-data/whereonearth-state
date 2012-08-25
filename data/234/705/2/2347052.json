@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Kalmar Lans"
         ], 
+        "hierarchy": [
+          "woe:state=2347052", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 58.141, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Kalmar"
         ], 
@@ -56,6 +61,12 @@
           "Kalmar"
         ], 
         "sw_longitude": 15.337, 
+        "adjacent": [
+          "woe:state=2347045", 
+          "woe:state=2347051", 
+          "woe:state=2347055", 
+          "woe:state=2347059"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 57.219, 
         "alias_NOR_Q": [
@@ -79,9 +90,8 @@
           2347059
         ], 
         "name": "Kalmar L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 17.151, 
-        "longitude": 16.070, 
+        "longitude": 16.07, 
         "iso": "SE", 
         "sw_latitude": 56.194, 
         "fullname": "Kalmar L\u00e4n, Kalmar, Sweden", 
@@ -91,5 +101,11 @@
       }, 
       "id": 2347052
     }
+  ], 
+  "bbox": [
+    15.337, 
+    56.194, 
+    17.151, 
+    58.141
   ]
 }

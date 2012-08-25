@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2346603, 
-        "name": "Bafata", 
         "adjacent_woeid": [
           2346604, 
           2346605, 
@@ -41,20 +39,39 @@
           2346609, 
           2346996
         ], 
-        "ne_latitude": 12.679, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bafata", 
+        "hierarchy": [
+          "woe:state=2346603", 
+          "woe:country=23424929", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346603, 
         "ne_longitude": -14.335, 
         "longitude": -14.711, 
-        "placetype": "State", 
-        "iso": "GW", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424929, 
+        "placetype": "state", 
         "latitude": 12.136, 
+        "iso": "GW", 
+        "sw_latitude": 11.594, 
+        "adjacent": [
+          "woe:state=2346609", 
+          "woe:state=2346996", 
+          "woe:state=2346605", 
+          "woe:state=2346604", 
+          "woe:state=2346608"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.679, 
         "sw_longitude": -15.088, 
         "fullname": "Bafata, Guinea-Bissau", 
-        "sw_latitude": 11.594
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 2346603
     }
+  ], 
+  "bbox": [
+    -15.088, 
+    11.594, 
+    -14.335, 
+    12.679
   ]
 }

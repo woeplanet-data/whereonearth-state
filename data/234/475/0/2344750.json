@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344750, 
-        "name": "Southern", 
         "adjacent_woeid": [
           2344744, 
           2344746, 
           2344749, 
           2346984
         ], 
-        "ne_latitude": -24.005, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Southern", 
+        "hierarchy": [
+          "woe:state=2344750", 
+          "woe:country=23424755", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344750, 
         "ne_longitude": 25.716, 
         "longitude": 24.387, 
-        "placetype": "State", 
-        "iso": "BW", 
-        "date_indexed": "2010-12-02T10:22:43Z", 
-        "parent_woeid": 23424755, 
+        "placetype": "state", 
         "latitude": -24.915, 
+        "iso": "BW", 
+        "sw_latitude": -25.825, 
+        "adjacent": [
+          "woe:state=2344744", 
+          "woe:state=2344746", 
+          "woe:state=2346984", 
+          "woe:state=2344749"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -24.005, 
         "sw_longitude": 23.059, 
         "fullname": "Southern, Botswana", 
-        "sw_latitude": -25.825
+        "date_indexed": "2010-12-02T10:22:43Z"
       }, 
       "id": 2344750
     }
+  ], 
+  "bbox": [
+    23.059, 
+    -25.825, 
+    25.716, 
+    -24.005
   ]
 }

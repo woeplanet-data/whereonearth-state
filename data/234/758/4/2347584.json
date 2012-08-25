@@ -2370,11 +2370,16 @@
         "alias_KOR_Q": [
           "\ubbf8\uc8fc\ub9ac"
         ], 
+        "hierarchy": [
+          "woe:state=2347584", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.61880291642149, 
         "ne:Shape_Area": 18.6090373606, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18210810", 
         "alias_ENG_A": [
           "MO"
         ], 
@@ -2385,7 +2390,7 @@
           "\u5bc6\u82cf\u91cc"
         ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:OBJECTID": 3531, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30df\u30ba\u30fc\u30ea"
         ], 
@@ -2394,6 +2399,16 @@
           "Misuri"
         ], 
         "sw_longitude": -95.77304081438206, 
+        "adjacent": [
+          "woe:state=2347562", 
+          "woe:state=2347572", 
+          "woe:state=2347574", 
+          "woe:state=2347575", 
+          "woe:state=2347576", 
+          "woe:state=2347586", 
+          "woe:state=2347595", 
+          "woe:state=2347601"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 38.259, 
         "ne:FIPS_1": "US29", 
@@ -2401,9 +2416,9 @@
         "ne:FIRST_HASC": "US.IL|USA-MOS", 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 35.98618572818884, 
-        "ne:VertexCou": 571.0, 
-        "ne:VALIDFR_1": "18210810", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3531, 
         "ne:Postal": "MO", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "MO", 
@@ -2419,8 +2434,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 181398.7, 
         "woe:id": "2347584", 
-        "ne:HASC_1": "US.MO", 
-        "lang": "ENG", 
+        "name": "Missouri", 
+        "ne:VertexCou": 571.0, 
         "adjacent_woeid": [
           2347562, 
           2347572, 
@@ -2431,9 +2446,8 @@
           2347595, 
           2347601
         ], 
-        "name": "Missouri", 
+        "ne:HASC_1": "US.MO", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -89.1188904240538, 
         "longitude": -92.437, 
         "iso": "US", 

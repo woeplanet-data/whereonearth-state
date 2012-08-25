@@ -1857,17 +1857,32 @@
       "properties": {
         "ne:ProvNumber": 3, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=20070492", 
+          "woe:country=23424877", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 48.71630320942563, 
         "ne:Shape_Area": 0.744796796362, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "19960724", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "SVK", 
-        "ne:OBJECTID": 1054, 
+        "ne:DataRank": 7, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 17.719466587213276, 
+        "adjacent": [
+          "woe:state=20070495", 
+          "woe:state=56043629", 
+          "woe:state=12577918", 
+          "woe:state=12577921", 
+          "woe:state=12577922", 
+          "woe:state=12577923", 
+          "woe:state=20070493", 
+          "woe:state=20070504"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.223, 
         "ne:FIPS_1": "SI04", 
@@ -1875,9 +1890,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 47.750419013027056, 
-        "ne:VertexCou": 456.0, 
-        "ne:VALIDFR_1": "19960724", 
-        "ne:DataRank": 7, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 1054, 
         "ne:Postal": "NI", 
         "ne:Region_Cod": "SVK-ZPD", 
         "ne:VARNAME_1": "Nitra", 
@@ -1896,8 +1911,8 @@
           "Neutra"
         ], 
         "woe:id": "20070492", 
-        "ne:HASC_1": "SK.NI", 
-        "lang": "UNK", 
+        "name": "Nitriansky", 
+        "ne:VertexCou": 456.0, 
         "adjacent_woeid": [
           12577918, 
           12577921, 
@@ -1908,9 +1923,8 @@
           20070504, 
           56043629
         ], 
-        "name": "Nitriansky", 
+        "ne:HASC_1": "SK.NI", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424877, 
         "alias_UNK_V": [
           "Nitra"
         ], 

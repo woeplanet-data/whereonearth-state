@@ -32,18 +32,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "ne_latitude": 46.161, 
-        "name": "P\u00e9cs", 
         "adjacent_woeid": [
           12577912
         ], 
-        "woeid": 56043625, 
+        "name": "P\u00e9cs", 
+        "hierarchy": [
+          "woe:state=56043625", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 46.161, 
         "ne_longitude": 18.365, 
         "longitude": 18.251, 
-        "parent_woeid": 23424844, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
+        "adjacent": [
+          "woe:state=12577912"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.078, 
         "sw_longitude": 18.136, 
@@ -51,9 +57,16 @@
         "alias_HUN_S": [
           "Pecs"
         ], 
+        "woeid": 56043625, 
         "sw_latitude": 45.994
       }, 
       "id": 56043625
     }
+  ], 
+  "bbox": [
+    18.136, 
+    45.994, 
+    18.365, 
+    46.161
   ]
 }

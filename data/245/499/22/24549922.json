@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              178.300, 
+              178.3, 
               -8.067
             ], 
             [
-              178.300, 
+              178.3, 
               -7.933
             ], 
             [
@@ -23,7 +23,7 @@
               -8.067
             ], 
             [
-              178.300, 
+              178.3, 
               -8.067
             ]
           ]
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549922, 
         "name": "Nukufetau", 
-        "ne_latitude": -7.933, 
+        "hierarchy": [
+          "woe:state=24549922", 
+          "woe:country=23424970", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549922, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 178.434, 
         "longitude": 178.426, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "TV", 
         "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424970, 
+        "ne_latitude": -7.933, 
         "latitude": -7.971, 
-        "sw_longitude": 178.300, 
+        "sw_longitude": 178.3, 
         "fullname": "Nukufetau, Tuvalu", 
         "sw_latitude": -8.067
       }, 
       "id": 24549922
     }
+  ], 
+  "bbox": [
+    178.3, 
+    -8.067, 
+    178.434, 
+    -7.933
   ]
 }

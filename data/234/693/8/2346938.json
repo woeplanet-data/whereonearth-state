@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346938, 
-        "name": "Kaliningradskaya Oblast", 
         "ne_latitude": 55.291, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kaliningradskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346938", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346938, 
         "ne_longitude": 22.893, 
         "longitude": 21.339, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "sw_latitude": 54.317, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 54.806, 
         "sw_longitude": 19.642, 
         "fullname": "Kaliningradskaya Oblast, Russia", 
-        "sw_latitude": 54.317
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346938
     }
+  ], 
+  "bbox": [
+    19.642, 
+    54.317, 
+    22.893, 
+    55.291
   ]
 }

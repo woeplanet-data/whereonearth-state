@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549866, 
         "name": "Outer Islands", 
-        "ne_latitude": -4.866, 
+        "hierarchy": [
+          "woe:state=24549866", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549866, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 56.279, 
         "longitude": 46.457, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "ne_latitude": -4.866, 
         "latitude": -9.407, 
         "sw_longitude": 46.199, 
         "fullname": "Outer Islands, Seychelles", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549866
     }
+  ], 
+  "bbox": [
+    46.199, 
+    -10.217, 
+    56.279, 
+    -4.866
   ]
 }

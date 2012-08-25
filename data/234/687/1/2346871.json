@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              42.420, 
+              42.42, 
               42.889
             ], 
             [
-              42.420, 
+              42.42, 
               44.012
             ], 
             [
@@ -23,7 +23,7 @@
               42.889
             ], 
             [
-              42.420, 
+              42.42, 
               42.889
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346871, 
-        "name": "Kabardino-Balkariya", 
         "adjacent_woeid": [
           2346877, 
           2346887, 
@@ -42,20 +40,40 @@
           20070394, 
           20070522
         ], 
-        "ne_latitude": 44.012, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kabardino-Balkariya", 
+        "hierarchy": [
+          "woe:state=2346871", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346871, 
         "ne_longitude": 44.441, 
-        "longitude": 43.430, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "longitude": 43.43, 
+        "placetype": "state", 
         "latitude": 43.451, 
-        "sw_longitude": 42.420, 
+        "iso": "RU", 
+        "sw_latitude": 42.889, 
+        "adjacent": [
+          "woe:state=20070522", 
+          "woe:state=20070382", 
+          "woe:state=20070394", 
+          "woe:state=20070379", 
+          "woe:state=2346877", 
+          "woe:state=2346887"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 44.012, 
+        "sw_longitude": 42.42, 
         "fullname": "Kabardino-Balkariya, Russia", 
-        "sw_latitude": 42.889
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346871
     }
+  ], 
+  "bbox": [
+    42.42, 
+    42.889, 
+    44.441, 
+    44.012
   ]
 }

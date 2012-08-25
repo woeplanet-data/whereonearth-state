@@ -1782,9 +1782,14 @@
           "Bangka-Belitung Islands"
         ], 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=28350154", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -1.489107760814477, 
         "ne:Shape_Area": 1.34154685107, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
@@ -1823,7 +1828,6 @@
         "ne:NL_NAME_1": null, 
         "name": "Bangka-Belitung", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424846, 
         "ne_longitude": 108.2939896989655, 
         "longitude": 105.978, 
         "iso": "ID", 

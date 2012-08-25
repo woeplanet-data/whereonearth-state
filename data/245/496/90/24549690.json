@@ -8,7 +8,7 @@
           [
             [
               -6.815, 
-              62.180
+              62.18
             ], 
             [
               -6.815, 
@@ -20,11 +20,11 @@
             ], 
             [
               -6.259, 
-              62.180
+              62.18
             ], 
             [
               -6.815, 
-              62.180
+              62.18
             ]
           ]
         ]
@@ -32,28 +32,41 @@
       "type": "Feature", 
       "properties": {
         "lang": "DAN", 
-        "woeid": 24549690, 
+        "adjacent_woeid": [
+          24549689
+        ], 
         "name": "Nor\u00f0oy", 
         "alias_DAN_S": [
           "Nordoy"
         ], 
-        "adjacent_woeid": [
-          24549689
+        "hierarchy": [
+          "woe:state=24549690", 
+          "woe:country=23424816", 
+          "woe:planet=1"
         ], 
-        "ne_latitude": 62.401, 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 24549690, 
         "ne_longitude": -6.259, 
         "longitude": -6.463, 
-        "placetype": "State", 
-        "iso": "FO", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "parent_woeid": 23424816, 
-        "latitude": 62.290, 
+        "placetype": "state", 
+        "latitude": 62.29, 
         "sw_longitude": -6.815, 
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "adjacent": [
+          "woe:state=24549689"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 62.401, 
+        "iso": "FO", 
         "fullname": "Nor\u00f0oy, Faroe Islands", 
-        "sw_latitude": 62.180
+        "sw_latitude": 62.18
       }, 
       "id": 24549690
     }
+  ], 
+  "bbox": [
+    -6.815, 
+    62.18, 
+    -6.259, 
+    62.401
   ]
 }

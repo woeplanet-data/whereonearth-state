@@ -32,16 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "NOR", 
-        "woeid": 2346399, 
-        "name": "S\u00f8r-Tr\u00f8ndelag Fylke", 
-        "alias_ENG_P": [
-          "Sor-Trondelag"
-        ], 
-        "ne_latitude": 64.445, 
-        "ne_longitude": 12.255, 
-        "longitude": 10.505, 
-        "parent_woeid": 23424910, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2346389, 
           2346391, 
@@ -49,8 +39,29 @@
           2346394, 
           2347050
         ], 
+        "name": "S\u00f8r-Tr\u00f8ndelag Fylke", 
+        "alias_ENG_P": [
+          "Sor-Trondelag"
+        ], 
+        "hierarchy": [
+          "woe:state=2346399", 
+          "woe:country=23424910", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346399, 
+        "ne_longitude": 12.255, 
+        "longitude": 10.505, 
+        "ne_latitude": 64.445, 
+        "placetype": "state", 
         "sw_longitude": 8.059, 
-        "date_indexed": "2010-12-02T10:19:56Z", 
+        "sw_latitude": 62.255, 
+        "adjacent": [
+          "woe:state=2346389", 
+          "woe:state=2347050", 
+          "woe:state=2346391", 
+          "woe:state=2346393", 
+          "woe:state=2346394"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 62.951, 
         "iso": "NO", 
@@ -58,12 +69,18 @@
         "alias_NOR_V": [
           "S\u00f8r-Tr\u00f8ndelag"
         ], 
-        "sw_latitude": 62.255, 
+        "date_indexed": "2010-12-02T10:19:56Z", 
         "alias_NOR_S": [
           "Soer-Troendelags"
         ]
       }, 
       "id": 2346399
     }
+  ], 
+  "bbox": [
+    8.059, 
+    62.255, 
+    12.255, 
+    64.445
   ]
 }

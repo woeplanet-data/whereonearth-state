@@ -8,7 +8,7 @@
           [
             [
               44.688, 
-              41.670
+              41.67
             ], 
             [
               44.688, 
@@ -20,11 +20,11 @@
             ], 
             [
               44.968, 
-              41.670
+              41.67
             ], 
             [
               44.688, 
-              41.670
+              41.67
             ]
           ]
         ]
@@ -37,8 +37,13 @@
         "alias_SWE_Q": [
           "Tiflis"
         ], 
+        "hierarchy": [
+          "woe:state=20070358", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.802, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\ud2b8\ube4c\ub9ac\uc2dc"
         ], 
@@ -53,6 +58,10 @@
           "Tbilisi"
         ], 
         "sw_longitude": 44.688, 
+        "adjacent": [
+          "woe:state=20070408", 
+          "woe:state=20070360"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.736, 
         "alias_NOR_Q": [
@@ -68,14 +77,19 @@
           20070408
         ], 
         "name": "T\u00b4bilisi", 
-        "parent_woeid": 23424823, 
         "ne_longitude": 44.968, 
         "longitude": 44.828, 
         "iso": "GE", 
-        "sw_latitude": 41.670, 
+        "sw_latitude": 41.67, 
         "fullname": "T\u00b4bilisi, Georgia"
       }, 
       "id": 20070358
     }
+  ], 
+  "bbox": [
+    44.688, 
+    41.67, 
+    44.968, 
+    41.802
   ]
 }

@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              13.670, 
+              13.67, 
               45.425
             ], 
             [
-              13.670, 
-              45.610
+              13.67, 
+              45.61
             ], 
             [
               14.002, 
-              45.610
+              45.61
             ], 
             [
               14.002, 
               45.425
             ], 
             [
-              13.670, 
+              13.67, 
               45.425
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848357, 
-        "name": "Koper", 
         "adjacent_woeid": [
           7153335, 
           12577974, 
@@ -41,20 +39,39 @@
           55848375, 
           55848385
         ], 
-        "ne_latitude": 45.610, 
+        "name": "Koper", 
+        "hierarchy": [
+          "woe:state=55848357", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848357, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.002, 
         "longitude": 13.836, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=7153335", 
+          "woe:state=12577974", 
+          "woe:state=55848353", 
+          "woe:state=55848375", 
+          "woe:state=55848385"
+        ], 
+        "ne_latitude": 45.61, 
         "latitude": 45.517, 
-        "sw_longitude": 13.670, 
+        "sw_longitude": 13.67, 
         "fullname": "Koper, Slovenia", 
         "sw_latitude": 45.425
       }, 
       "id": 55848357
     }
+  ], 
+  "bbox": [
+    13.67, 
+    45.425, 
+    14.002, 
+    45.61
   ]
 }

@@ -8,7 +8,7 @@
           [
             [
               55.641, 
-              -4.600
+              -4.6
             ], 
             [
               55.641, 
@@ -20,11 +20,11 @@
             ], 
             [
               55.951, 
-              -4.600
+              -4.6
             ], 
             [
               55.641, 
-              -4.600
+              -4.6
             ]
           ]
         ]
@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549889, 
-        "name": "Grand Anse Praslin", 
         "adjacent_woeid": [
           24549888
         ], 
-        "ne_latitude": -4.289, 
+        "name": "Grand Anse Praslin", 
+        "hierarchy": [
+          "woe:state=24549889", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549889, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.951, 
         "longitude": 55.725, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549888"
+        ], 
+        "ne_latitude": -4.289, 
         "latitude": -4.324, 
         "sw_longitude": 55.641, 
         "fullname": "Grand Anse Praslin, Seychelles", 
-        "sw_latitude": -4.600
+        "sw_latitude": -4.6
       }, 
       "id": 24549889
     }
+  ], 
+  "bbox": [
+    55.641, 
+    -4.6, 
+    55.951, 
+    -4.289
   ]
 }

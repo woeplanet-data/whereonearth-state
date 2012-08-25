@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Hong Kong Island"
         ], 
+        "hierarchy": [
+          "woe:state=24703007", 
+          "woe:country=24865698", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 22.295, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\ud64d\ucf69"
         ], 
@@ -50,9 +55,13 @@
           "\u9999\u6e2f\u5cf6"
         ], 
         "sw_longitude": 114.116, 
+        "adjacent": [
+          "woe:state=24703006", 
+          "woe:state=24703005"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 22.245, 
-        "date_indexed": "2010-12-02T12:08:18Z", 
+        "sw_latitude": 22.194, 
         "alias_GER_Q": [
           "Hong Kong Insel"
         ], 
@@ -62,14 +71,19 @@
           24703006
         ], 
         "name": "\u6e2f\u5cf6", 
-        "parent_woeid": 24865698, 
         "ne_longitude": 114.261, 
         "longitude": 114.189, 
         "iso": "HK", 
-        "sw_latitude": 22.194, 
+        "date_indexed": "2010-12-02T12:08:18Z", 
         "fullname": "\u6e2f\u5cf6, Hong Kong Island, Hong Kong"
       }, 
       "id": 24703007
     }
+  ], 
+  "bbox": [
+    114.116, 
+    22.194, 
+    114.261, 
+    22.295
   ]
 }

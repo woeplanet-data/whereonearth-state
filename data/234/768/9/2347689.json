@@ -15,11 +15,11 @@
               10.758
             ], 
             [
-              -68.870, 
+              -68.87, 
               10.758
             ], 
             [
-              -68.870, 
+              -68.87, 
               9.392
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2347689, 
-        "name": "Lara", 
         "adjacent_woeid": [
           2347684, 
           2347687, 
@@ -42,20 +40,40 @@
           2347698, 
           2347699
         ], 
-        "ne_latitude": 10.758, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -68.870, 
+        "name": "Lara", 
+        "hierarchy": [
+          "woe:state=2347689", 
+          "woe:country=23424982", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347689, 
+        "ne_longitude": -68.87, 
         "longitude": -69.873, 
-        "placetype": "State", 
-        "iso": "VE", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "parent_woeid": 23424982, 
+        "placetype": "state", 
         "latitude": 10.075, 
+        "iso": "VE", 
+        "sw_latitude": 9.392, 
+        "adjacent": [
+          "woe:state=2347684", 
+          "woe:state=2347687", 
+          "woe:state=2347694", 
+          "woe:state=2347697", 
+          "woe:state=2347698", 
+          "woe:state=2347699"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 10.758, 
         "sw_longitude": -70.876, 
         "fullname": "Lara, Venezuela", 
-        "sw_latitude": 9.392
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 2347689
     }
+  ], 
+  "bbox": [
+    -70.876, 
+    9.392, 
+    -68.87, 
+    10.758
   ]
 }

@@ -34,16 +34,21 @@
         "alias_ENG_V": [
           "The Flickertail State"
         ], 
-        "alias_ENG_A": [
-          "ND"
+        "alias_KOR_Q": [
+          "\ub178\uc2a4\ub2e4\ucf54\ud0c0"
+        ], 
+        "hierarchy": [
+          "woe:state=2347593", 
+          "woe:country=23424977", 
+          "woe:planet=1"
         ], 
         "ne_latitude": 49.001, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Dakota do Norte"
         ], 
-        "alias_KOR_Q": [
-          "\ub178\uc2a4\ub2e4\ucf54\ud0c0"
+        "alias_ENG_A": [
+          "ND"
         ], 
         "alias_CHI_Q": [
           "\u5317\u8fbe\u79d1\u4ed6"
@@ -62,6 +67,13 @@
           "Pohjois-Dakota"
         ], 
         "sw_longitude": -104.049, 
+        "adjacent": [
+          "woe:state=2344917", 
+          "woe:state=2347582", 
+          "woe:state=2347585", 
+          "woe:state=2344925", 
+          "woe:state=2347600"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.468, 
         "alias_NOR_Q": [
@@ -83,7 +95,6 @@
           2347600
         ], 
         "name": "North Dakota", 
-        "parent_woeid": 23424977, 
         "ne_longitude": -96.555, 
         "longitude": -100.302, 
         "iso": "US", 
@@ -98,5 +109,11 @@
       }, 
       "id": 2347593
     }
+  ], 
+  "bbox": [
+    -104.049, 
+    45.935, 
+    -96.555, 
+    49.001
   ]
 }

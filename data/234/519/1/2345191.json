@@ -15,11 +15,11 @@
               19.192
             ], 
             [
-              -70.890, 
+              -70.89, 
               19.192
             ], 
             [
-              -70.890, 
+              -70.89, 
               18.483
             ], 
             [
@@ -32,7 +32,9 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 19.192, 
+        "alias_SPA_A": [
+          "SJM"
+        ], 
         "name": "San Juan", 
         "adjacent_woeid": [
           2345172, 
@@ -43,26 +45,43 @@
           2345194, 
           2345198
         ], 
-        "woeid": 2345191, 
-        "alias_SPA_A": [
-          "SJM"
+        "hierarchy": [
+          "woe:state=2345191", 
+          "woe:country=23424800", 
+          "woe:planet=1"
         ], 
+        "ne_latitude": 19.192, 
         "alias_SPA_V": [
           "Sanjuan"
         ], 
-        "ne_longitude": -70.890, 
+        "ne_longitude": -70.89, 
         "longitude": -71.269, 
-        "parent_woeid": 23424800, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
+        "sw_latitude": 18.483, 
+        "adjacent": [
+          "woe:state=2345172", 
+          "woe:state=2345173", 
+          "woe:state=2345181", 
+          "woe:state=2345179", 
+          "woe:state=2345198", 
+          "woe:state=2345193", 
+          "woe:state=2345194"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 18.838, 
         "sw_longitude": -71.649, 
         "fullname": "San Juan, Dominican Republic", 
-        "sw_latitude": 18.483
+        "woeid": 2345191, 
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345191
     }
+  ], 
+  "bbox": [
+    -71.649, 
+    18.483, 
+    -70.89, 
+    19.192
   ]
 }

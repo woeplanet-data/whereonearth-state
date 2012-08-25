@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070353, 
-        "name": "Dmanisis Raioni", 
         "adjacent_woeid": [
           20070203, 
           20070207, 
@@ -42,20 +40,40 @@
           20070355, 
           20070356
         ], 
-        "ne_latitude": 41.554, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Dmanisis Raioni", 
+        "hierarchy": [
+          "woe:state=20070353", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070353, 
         "ne_longitude": 44.427, 
-        "longitude": 44.140, 
-        "placetype": "State", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "longitude": 44.14, 
+        "placetype": "state", 
         "latitude": 41.355, 
+        "iso": "GE", 
+        "sw_latitude": 41.156, 
+        "adjacent": [
+          "woe:state=20070356", 
+          "woe:state=20070207", 
+          "woe:state=20070351", 
+          "woe:state=20070203", 
+          "woe:state=20070354", 
+          "woe:state=20070355"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.554, 
         "sw_longitude": 43.854, 
         "fullname": "Dmanisis Raioni, Georgia", 
-        "sw_latitude": 41.156
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070353
     }
+  ], 
+  "bbox": [
+    43.854, 
+    41.156, 
+    44.427, 
+    41.554
   ]
 }

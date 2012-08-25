@@ -15,11 +15,11 @@
               19.104
             ], 
             [
-              -69.130, 
+              -69.13, 
               19.104
             ], 
             [
-              -69.130, 
+              -69.13, 
               18.514
             ], 
             [
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 19.104, 
-        "name": "Hato Mayor", 
         "adjacent_woeid": [
           2345189, 
           2345192, 
           2345196, 
           2345200
         ], 
+        "name": "Hato Mayor", 
+        "hierarchy": [
+          "woe:state=2345197", 
+          "woe:country=23424800", 
+          "woe:planet=1"
+        ], 
         "woeid": 2345197, 
         "alias_SPA_V": [
           "Hato Mayor del Rey"
         ], 
-        "ne_longitude": -69.130, 
-        "longitude": -69.320, 
-        "parent_woeid": 23424800, 
-        "placetype": "State", 
-        "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -69.13, 
+        "longitude": -69.32, 
+        "placetype": "state", 
         "latitude": 18.809, 
         "sw_longitude": -69.509, 
+        "sw_latitude": 18.514, 
+        "adjacent": [
+          "woe:state=2345196", 
+          "woe:state=2345200", 
+          "woe:state=2345189", 
+          "woe:state=2345192"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.104, 
+        "iso": "DO", 
         "fullname": "Hato Mayor, Dominican Republic", 
-        "sw_latitude": 18.514
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345197
     }
+  ], 
+  "bbox": [
+    -69.509, 
+    18.514, 
+    -69.13, 
+    19.104
   ]
 }

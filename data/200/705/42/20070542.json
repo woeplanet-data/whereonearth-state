@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 20070542, 
-        "name": "Diekirch", 
         "adjacent_woeid": [
           2345488, 
           7153300, 
@@ -41,20 +39,39 @@
           20070559, 
           20070560
         ], 
-        "ne_latitude": 50.183, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Diekirch", 
+        "hierarchy": [
+          "woe:state=20070542", 
+          "woe:country=23424881", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070542, 
         "ne_longitude": 6.314, 
         "longitude": 6.025, 
-        "placetype": "State", 
-        "iso": "LU", 
-        "date_indexed": "2010-12-02T08:54:13Z", 
-        "parent_woeid": 23424881, 
+        "placetype": "state", 
         "latitude": 49.942, 
+        "iso": "LU", 
+        "sw_latitude": 49.702, 
+        "adjacent": [
+          "woe:state=20070559", 
+          "woe:state=7153300", 
+          "woe:state=20070560", 
+          "woe:state=7153302", 
+          "woe:state=2345488"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 50.183, 
         "sw_longitude": 5.736, 
         "fullname": "Diekirch, Luxembourg", 
-        "sw_latitude": 49.702
+        "date_indexed": "2010-12-02T08:54:13Z"
       }, 
       "id": 20070542
     }
+  ], 
+  "bbox": [
+    5.736, 
+    49.702, 
+    6.314, 
+    50.183
   ]
 }

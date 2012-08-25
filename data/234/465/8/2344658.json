@@ -15,11 +15,11 @@
               -4.373
             ], 
             [
-              13.110, 
+              13.11, 
               -4.373
             ], 
             [
-              13.110, 
+              13.11, 
               -5.769
             ], 
             [
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2344658, 
-        "name": "Cabinda", 
         "adjacent_woeid": [
           2344969, 
           2344972, 
           2344984
         ], 
-        "ne_latitude": -4.373, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 13.110, 
+        "name": "Cabinda", 
+        "hierarchy": [
+          "woe:state=2344658", 
+          "woe:country=23424745", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344658, 
+        "ne_longitude": 13.11, 
         "longitude": 12.259, 
-        "placetype": "State", 
-        "iso": "AO", 
-        "date_indexed": "2010-12-02T17:52:14Z", 
-        "parent_woeid": 23424745, 
+        "placetype": "state", 
         "latitude": -5.071, 
+        "iso": "AO", 
+        "sw_latitude": -5.769, 
+        "adjacent": [
+          "woe:state=2344984", 
+          "woe:state=2344969", 
+          "woe:state=2344972"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -4.373, 
         "sw_longitude": 12.013, 
         "fullname": "Cabinda, Angola", 
-        "sw_latitude": -5.769
+        "date_indexed": "2010-12-02T17:52:14Z"
       }, 
       "id": 2344658
     }
+  ], 
+  "bbox": [
+    12.013, 
+    -5.769, 
+    13.11, 
+    -4.373
   ]
 }

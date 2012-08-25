@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 56049599, 
-        "name": "Baalbek-Hermel", 
         "adjacent_woeid": [
           2346013, 
           2346015, 
@@ -42,14 +40,28 @@
           2347079, 
           56049598
         ], 
-        "ne_latitude": 34.507, 
+        "name": "Baalbek-Hermel", 
+        "hierarchy": [
+          "woe:state=56049599", 
+          "woe:country=23424873", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56049599, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 36.639, 
         "longitude": 36.126, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "LB", 
         "date_indexed": "2010-12-02T16:50:02Z", 
-        "parent_woeid": 23424873, 
+        "adjacent": [
+          "woe:state=56049598", 
+          "woe:state=2346013", 
+          "woe:state=2346015", 
+          "woe:state=2347079", 
+          "woe:state=2346017", 
+          "woe:state=2347076"
+        ], 
+        "ne_latitude": 34.507, 
         "latitude": 33.993, 
         "sw_longitude": 35.899, 
         "fullname": "Baalbek-Hermel, Lebanon", 
@@ -57,5 +69,11 @@
       }, 
       "id": 56049599
     }
+  ], 
+  "bbox": [
+    35.899, 
+    33.818, 
+    36.639, 
+    34.507
   ]
 }

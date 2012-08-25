@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -76.610, 
+              -76.61, 
               24.953
             ], 
             [
-              -76.610, 
-              25.500
+              -76.61, 
+              25.5
             ], 
             [
-              -76.100, 
-              25.500
+              -76.1, 
+              25.5
             ], 
             [
-              -76.100, 
+              -76.1, 
               24.953
             ], 
             [
-              -76.610, 
+              -76.61, 
               24.953
             ]
           ]
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24551244, 
-        "name": "Central Eleuthera", 
         "adjacent_woeid": [
           24551251, 
           24551255
         ], 
-        "ne_latitude": 25.500, 
+        "name": "Central Eleuthera", 
+        "hierarchy": [
+          "woe:state=24551244", 
+          "woe:country=23424758", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24551244, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -76.100, 
+        "ne_longitude": -76.1, 
         "longitude": -76.237, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "BS", 
         "date_indexed": "2010-12-02T07:50:25Z", 
-        "parent_woeid": 23424758, 
+        "adjacent": [
+          "woe:state=24551251", 
+          "woe:state=24551255"
+        ], 
+        "ne_latitude": 25.5, 
         "latitude": 25.198, 
-        "sw_longitude": -76.610, 
+        "sw_longitude": -76.61, 
         "fullname": "Central Eleuthera, The Bahamas", 
         "sw_latitude": 24.953
       }, 
       "id": 24551244
     }
+  ], 
+  "bbox": [
+    -76.61, 
+    24.953, 
+    -76.1, 
+    25.5
   ]
 }

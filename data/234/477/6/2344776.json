@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344776, 
-        "name": "Harbour Island", 
         "ne_latitude": 25.523, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Harbour Island", 
+        "hierarchy": [
+          "woe:state=2344776", 
+          "woe:country=23424758", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344776, 
         "ne_longitude": -76.625, 
         "longitude": -76.632, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "parent_woeid": 23424758, 
-        "latitude": 25.500, 
+        "sw_latitude": 25.477, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.5, 
         "sw_longitude": -76.639, 
         "fullname": "Harbour Island, The Bahamas", 
-        "sw_latitude": 25.477
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 2344776
     }
+  ], 
+  "bbox": [
+    -76.639, 
+    25.477, 
+    -76.625, 
+    25.523
   ]
 }

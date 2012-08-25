@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2344912, 
-        "name": "Ngozi", 
         "adjacent_woeid": [
           2344906, 
           2344907, 
@@ -42,20 +40,40 @@
           2344911, 
           55864752
         ], 
-        "ne_latitude": -2.653, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ngozi", 
+        "hierarchy": [
+          "woe:state=2344912", 
+          "woe:country=23424774", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344912, 
         "ne_longitude": 30.184, 
         "longitude": 29.906, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -2.87, 
         "iso": "BI", 
-        "date_indexed": "2010-12-02T08:58:47Z", 
-        "parent_woeid": 23424774, 
-        "latitude": -2.870, 
+        "sw_latitude": -3.087, 
+        "adjacent": [
+          "woe:state=2344906", 
+          "woe:state=2344907", 
+          "woe:state=2344908", 
+          "woe:state=2344909", 
+          "woe:state=2344911", 
+          "woe:state=55864752"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -2.653, 
         "sw_longitude": 29.628, 
         "fullname": "Ngozi, Burundi", 
-        "sw_latitude": -3.087
+        "date_indexed": "2010-12-02T08:58:47Z"
       }, 
       "id": 2344912
     }
+  ], 
+  "bbox": [
+    29.628, 
+    -3.087, 
+    30.184, 
+    -2.653
   ]
 }

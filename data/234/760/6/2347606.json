@@ -5964,11 +5964,16 @@
         "alias_KOR_Q": [
           "\uc6cc\uc2f1\ud134"
         ], 
+        "hierarchy": [
+          "woe:state=2347606", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 48.99289959544001, 
         "ne:Shape_Area": 20.7411014775, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18630303", 
         "alias_ENG_A": [
           "Wash"
         ], 
@@ -5978,7 +5983,7 @@
         "alias_CHI_Q": [
           "\u534e\u76db\u987f"
         ], 
-        "ne:OBJECTID": 3519, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u83ef\u76db\u9813"
         ], 
@@ -5988,6 +5993,11 @@
         "ne:Abbrev": "Wash.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -124.72601933002801, 
+        "adjacent": [
+          "woe:state=2344916", 
+          "woe:state=2347571", 
+          "woe:state=2347596"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.274, 
         "ne:FIPS_1": "US53", 
@@ -5995,9 +6005,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 45.566312681984755, 
-        "ne:VertexCou": 1479.0, 
-        "ne:VALIDFR_1": "18630303", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3519, 
         "ne:Postal": "WA", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "WA|Wash.", 
@@ -6013,16 +6023,15 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 174113.2, 
         "woe:id": "2347606", 
-        "ne:HASC_1": "US.WA", 
-        "lang": "ENG", 
+        "name": "Washington", 
+        "ne:VertexCou": 1479.0, 
         "adjacent_woeid": [
           2344916, 
           2347571, 
           2347596
         ], 
-        "name": "Washington", 
+        "ne:HASC_1": "US.WA", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -116.87882694730575, 
         "longitude": -120.833, 
         "iso": "US", 

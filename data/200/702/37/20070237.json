@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070237, 
-        "name": "Lacin", 
         "adjacent_woeid": [
           20070206, 
           20070233, 
@@ -42,20 +40,40 @@
           20070273, 
           20070277
         ], 
-        "ne_latitude": 39.982, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Lacin", 
+        "hierarchy": [
+          "woe:state=20070237", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070237, 
         "ne_longitude": 46.789, 
         "longitude": 46.414, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.713, 
+        "iso": "AZ", 
+        "sw_latitude": 39.443, 
+        "adjacent": [
+          "woe:state=20070273", 
+          "woe:state=20070233", 
+          "woe:state=20070265", 
+          "woe:state=20070206", 
+          "woe:state=20070277", 
+          "woe:state=20070259"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.982, 
         "sw_longitude": 46.038, 
         "fullname": "Lacin, Azerbaijan", 
-        "sw_latitude": 39.443
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070237
     }
+  ], 
+  "bbox": [
+    46.038, 
+    39.443, 
+    46.789, 
+    39.982
   ]
 }

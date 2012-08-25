@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549727, 
-        "name": "Sinajana", 
         "adjacent_woeid": [
           24549718, 
           24549719, 
           24549720, 
           24549726
         ], 
-        "ne_latitude": 13.465, 
+        "name": "Sinajana", 
+        "hierarchy": [
+          "woe:state=24549727", 
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549727, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.771, 
         "longitude": 144.751, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "parent_woeid": 23424832, 
+        "adjacent": [
+          "woe:state=24549718", 
+          "woe:state=24549726", 
+          "woe:state=24549719", 
+          "woe:state=24549720"
+        ], 
+        "ne_latitude": 13.465, 
         "latitude": 13.461, 
         "sw_longitude": 144.751, 
         "fullname": "Sinajana, Guam", 
@@ -55,5 +65,11 @@
       }, 
       "id": 24549727
     }
+  ], 
+  "bbox": [
+    144.751, 
+    13.449, 
+    144.771, 
+    13.465
   ]
 }

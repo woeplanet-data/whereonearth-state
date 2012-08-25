@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Luxemburg"
         ], 
+        "hierarchy": [
+          "woe:state=7153302", 
+          "woe:country=23424757", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 50.431, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Luxemburgo"
         ], 
@@ -50,6 +55,14 @@
           "Luxemburgo"
         ], 
         "sw_longitude": 4.969, 
+        "adjacent": [
+          "woe:state=7153315", 
+          "woe:state=20070542", 
+          "woe:state=7153300", 
+          "woe:state=7153322", 
+          "woe:state=20070560", 
+          "woe:state=7153303"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.964, 
         "alias_NOR_Q": [
@@ -75,7 +88,6 @@
           20070560
         ], 
         "name": "Luxembourg", 
-        "parent_woeid": 23424757, 
         "ne_longitude": 6.034, 
         "longitude": 5.501, 
         "iso": "BE", 
@@ -84,5 +96,11 @@
       }, 
       "id": 7153302
     }
+  ], 
+  "bbox": [
+    4.969, 
+    49.497, 
+    6.034, 
+    50.431
   ]
 }

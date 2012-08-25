@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 29389219, 
-        "name": "Toplica", 
         "adjacent_woeid": [
           29389199, 
           29389201, 
@@ -41,23 +39,42 @@
           29389208, 
           29389223
         ], 
-        "ne_latitude": 43.443, 
+        "name": "Toplica", 
+        "hierarchy": [
+          "woe:state=29389219", 
+          "woe:country=20069818", 
+          "woe:planet=1"
+        ], 
+        "woeid": 29389219, 
         "alias_UNK_Q": [
           "Toplicki Okrug"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 21.796, 
         "longitude": 21.369, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 43.163, 
         "iso": "RS", 
         "date_indexed": "2010-12-02T10:22:30Z", 
-        "parent_woeid": 20069818, 
-        "latitude": 43.163, 
+        "adjacent": [
+          "woe:state=29389208", 
+          "woe:state=29389201", 
+          "woe:state=29389207", 
+          "woe:state=29389223", 
+          "woe:state=29389199"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.443, 
         "sw_longitude": 20.943, 
         "fullname": "Toplica, Serbia", 
         "sw_latitude": 42.883
       }, 
       "id": 29389219
     }
+  ], 
+  "bbox": [
+    20.943, 
+    42.883, 
+    21.796, 
+    43.443
   ]
 }

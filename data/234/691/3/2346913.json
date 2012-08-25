@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346913, 
-        "name": "Novgorodskaya Oblast", 
         "adjacent_woeid": [
           2346898, 
           2346907, 
           2346920, 
           2346934
         ], 
-        "ne_latitude": 59.432, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Novgorodskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346913", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346913, 
         "ne_longitude": 36.255, 
-        "longitude": 32.930, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "longitude": 32.93, 
+        "placetype": "state", 
         "latitude": 58.172, 
+        "iso": "RU", 
+        "sw_latitude": 56.911, 
+        "adjacent": [
+          "woe:state=2346907", 
+          "woe:state=2346920", 
+          "woe:state=2346898", 
+          "woe:state=2346934"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 59.432, 
         "sw_longitude": 29.605, 
         "fullname": "Novgorodskaya Oblast, Russia", 
-        "sw_latitude": 56.911
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346913
     }
+  ], 
+  "bbox": [
+    29.605, 
+    56.911, 
+    36.255, 
+    59.432
   ]
 }

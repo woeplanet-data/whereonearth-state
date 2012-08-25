@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 13.903, 
-        "name": "San Miguel", 
         "adjacent_woeid": [
           2345293, 
           2345298, 
@@ -42,23 +40,43 @@
           2345305, 
           2345632
         ], 
+        "name": "San Miguel", 
+        "hierarchy": [
+          "woe:state=2345300", 
+          "woe:country=23424807", 
+          "woe:planet=1"
+        ], 
         "woeid": 2345300, 
         "alias_SPA_V": [
           "S. Miguel"
         ], 
         "ne_longitude": -88.019, 
         "longitude": -88.273, 
-        "parent_woeid": 23424807, 
-        "placetype": "State", 
-        "iso": "SV", 
-        "date_indexed": "2010-12-02T17:05:52Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 13.534, 
         "sw_longitude": -88.527, 
+        "sw_latitude": 13.165, 
+        "adjacent": [
+          "woe:state=2345293", 
+          "woe:state=2345632", 
+          "woe:state=2345298", 
+          "woe:state=2345299", 
+          "woe:state=2345303", 
+          "woe:state=2345305"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.903, 
+        "iso": "SV", 
         "fullname": "San Miguel, El Salvador", 
-        "sw_latitude": 13.165
+        "date_indexed": "2010-12-02T17:05:52Z"
       }, 
       "id": 2345300
     }
+  ], 
+  "bbox": [
+    -88.527, 
+    13.165, 
+    -88.019, 
+    13.903
   ]
 }

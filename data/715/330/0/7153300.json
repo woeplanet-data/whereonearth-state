@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              4.980, 
-              50.130
+              4.98, 
+              50.13
             ], 
             [
-              4.980, 
+              4.98, 
               50.812
             ], 
             [
@@ -20,11 +20,11 @@
             ], 
             [
               6.408, 
-              50.130
+              50.13
             ], 
             [
-              4.980, 
-              50.130
+              4.98, 
+              50.13
             ]
           ]
         ]
@@ -34,8 +34,13 @@
         "alias_ENG_P": [
           "Liege"
         ], 
+        "hierarchy": [
+          "woe:state=7153300", 
+          "woe:country=23424757", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 50.812, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Li\u00e9ge"
         ], 
@@ -46,7 +51,18 @@
         "alias_SPA_Q": [
           "Lieja"
         ], 
-        "sw_longitude": 4.980, 
+        "sw_longitude": 4.98, 
+        "adjacent": [
+          "woe:state=22525997", 
+          "woe:state=20070542", 
+          "woe:state=7153301", 
+          "woe:state=2346377", 
+          "woe:state=7153302", 
+          "woe:state=7153303", 
+          "woe:state=2345487", 
+          "woe:state=2345488", 
+          "woe:state=22525998"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.471, 
         "date_indexed": "2010-12-02T16:31:49Z", 
@@ -72,11 +88,10 @@
           22525998
         ], 
         "name": "Li\u00e8ge", 
-        "parent_woeid": 23424757, 
         "ne_longitude": 6.408, 
         "longitude": 5.694, 
         "iso": "BE", 
-        "sw_latitude": 50.130, 
+        "sw_latitude": 50.13, 
         "alias_FRE_V": [
           "Luttich"
         ], 
@@ -84,5 +99,11 @@
       }, 
       "id": 7153300
     }
+  ], 
+  "bbox": [
+    4.98, 
+    50.13, 
+    6.408, 
+    50.812
   ]
 }

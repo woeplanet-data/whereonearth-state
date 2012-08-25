@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070177, 
-        "name": "Bayqongyr", 
         "adjacent_woeid": [
           20070178
         ], 
-        "ne_latitude": 47.864, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bayqongyr", 
+        "hierarchy": [
+          "woe:state=20070177", 
+          "woe:country=23424871", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070177, 
         "ne_longitude": 66.115, 
         "longitude": 66.053, 
-        "placetype": "State", 
-        "iso": "KZ", 
-        "date_indexed": "2010-12-02T08:54:03Z", 
-        "parent_woeid": 23424871, 
+        "placetype": "state", 
         "latitude": 47.828, 
+        "iso": "KZ", 
+        "sw_latitude": 47.792, 
+        "adjacent": [
+          "woe:state=20070178"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 47.864, 
         "sw_longitude": 65.988, 
         "fullname": "Bayqongyr, Kazakhstan", 
-        "sw_latitude": 47.792
+        "date_indexed": "2010-12-02T08:54:03Z"
       }, 
       "id": 20070177
     }
+  ], 
+  "bbox": [
+    65.988, 
+    47.792, 
+    66.115, 
+    47.864
   ]
 }

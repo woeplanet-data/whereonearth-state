@@ -32,22 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 8.467, 
-        "name": "Bol\u00edvar", 
-        "alias_ENG_P": [
-          "Bolivar"
-        ], 
-        "woeid": 2347682, 
-        "alias_SPA_V": [
-          "Ciudad Bol\u00edvar"
-        ], 
-        "ne_longitude": -60.263, 
-        "longitude": -63.864, 
-        "parent_woeid": 23424982, 
-        "placetype": "State", 
-        "alias_SPA_S": [
-          "Ciudad Bolivar"
-        ], 
         "adjacent_woeid": [
           2344866, 
           2345603, 
@@ -59,15 +43,52 @@
           2347688, 
           2347692
         ], 
-        "iso": "VE", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bol\u00edvar", 
+        "alias_ENG_P": [
+          "Bolivar"
+        ], 
+        "hierarchy": [
+          "woe:state=2347682", 
+          "woe:country=23424982", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347682, 
+        "alias_SPA_V": [
+          "Ciudad Bol\u00edvar"
+        ], 
+        "ne_longitude": -60.263, 
+        "longitude": -63.864, 
+        "placetype": "state", 
         "latitude": 6.071, 
+        "alias_SPA_S": [
+          "Ciudad Bolivar"
+        ], 
         "sw_longitude": -67.465, 
+        "sw_latitude": 3.674, 
+        "adjacent": [
+          "woe:state=2347677", 
+          "woe:state=2347678", 
+          "woe:state=2347679", 
+          "woe:state=2345603", 
+          "woe:state=2345604", 
+          "woe:state=2347685", 
+          "woe:state=2347688", 
+          "woe:state=2347692", 
+          "woe:state=2344866"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 8.467, 
+        "iso": "VE", 
         "fullname": "Bol\u00edvar, Bolivar, Venezuela", 
-        "sw_latitude": 3.674
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 2347682
     }
+  ], 
+  "bbox": [
+    -67.465, 
+    3.674, 
+    -60.263, 
+    8.467
   ]
 }

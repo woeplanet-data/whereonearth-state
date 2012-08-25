@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347729, 
-        "name": "Ba Ria-Vung Tau", 
         "adjacent_woeid": [
           2347721, 
           2347728, 
           2347731
         ], 
-        "ne_latitude": 10.823, 
+        "name": "Ba Ria-Vung Tau", 
+        "hierarchy": [
+          "woe:state=2347729", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347729, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 107.587, 
         "longitude": 107.293, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
-        "latitude": 10.570, 
+        "adjacent": [
+          "woe:state=2347731", 
+          "woe:state=2347721", 
+          "woe:state=2347728"
+        ], 
+        "ne_latitude": 10.823, 
+        "latitude": 10.57, 
         "sw_longitude": 106.998, 
         "fullname": "Ba Ria-Vung Tau, Vietnam", 
         "sw_latitude": 10.315
       }, 
       "id": 2347729
     }
+  ], 
+  "bbox": [
+    106.998, 
+    10.315, 
+    107.587, 
+    10.823
   ]
 }

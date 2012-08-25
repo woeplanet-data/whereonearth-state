@@ -8,7 +8,7 @@
           [
             [
               55.361, 
-              -4.680
+              -4.68
             ], 
             [
               55.361, 
@@ -20,11 +20,11 @@
             ], 
             [
               55.489, 
-              -4.680
+              -4.68
             ], 
             [
               55.361, 
-              -4.680
+              -4.68
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549876, 
-        "name": "Port Glaud", 
         "adjacent_woeid": [
           24549871, 
           24549875, 
@@ -42,23 +40,43 @@
           24549883, 
           24549890
         ], 
-        "ne_latitude": -4.634, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Port Glaud", 
         "alias_ENG_V": [
           "Pt Glaud"
         ], 
+        "hierarchy": [
+          "woe:state=24549876", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549876, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.489, 
         "longitude": 55.427, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549883", 
+          "woe:state=24549890", 
+          "woe:state=24549871", 
+          "woe:state=24549875", 
+          "woe:state=24549881", 
+          "woe:state=24549879"
+        ], 
+        "ne_latitude": -4.634, 
         "latitude": -4.656, 
         "sw_longitude": 55.361, 
         "fullname": "Port Glaud, Seychelles", 
-        "sw_latitude": -4.680
+        "sw_latitude": -4.68
       }, 
       "id": 24549876
     }
+  ], 
+  "bbox": [
+    55.361, 
+    -4.68, 
+    55.489, 
+    -4.634
   ]
 }

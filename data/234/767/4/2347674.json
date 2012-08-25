@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347674, 
-        "name": "Saint George", 
         "adjacent_woeid": [
           2347671, 
           2347672
         ], 
-        "ne_latitude": 13.211, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint George", 
         "alias_ENG_V": [
           "St. George"
         ], 
+        "hierarchy": [
+          "woe:state=2347674", 
+          "woe:country=23424981", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347674, 
         "ne_longitude": -61.143, 
         "longitude": -61.196, 
-        "placetype": "State", 
-        "iso": "VC", 
-        "date_indexed": "2010-12-02T09:57:17Z", 
-        "parent_woeid": 23424981, 
+        "placetype": "state", 
         "latitude": 13.165, 
+        "iso": "VC", 
+        "sw_latitude": 13.115, 
+        "adjacent": [
+          "woe:state=2347671", 
+          "woe:state=2347672"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.211, 
         "sw_longitude": -61.248, 
         "fullname": "Saint George, Saint Vincent and the Grenadines", 
-        "sw_latitude": 13.115
+        "date_indexed": "2010-12-02T09:57:17Z"
       }, 
       "id": 2347674
     }
+  ], 
+  "bbox": [
+    -61.248, 
+    13.115, 
+    -61.143, 
+    13.211
   ]
 }

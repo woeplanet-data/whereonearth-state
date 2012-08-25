@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 15.545, 
-        "name": "Santa B\u00e1rbara", 
         "adjacent_woeid": [
           2345560, 
           2345626, 
@@ -42,26 +40,46 @@
           2345632, 
           2345635
         ], 
+        "name": "Santa B\u00e1rbara", 
+        "hierarchy": [
+          "woe:state=2345638", 
+          "woe:country=23424841", 
+          "woe:planet=1"
+        ], 
         "woeid": 2345638, 
         "alias_SPA_V": [
           "Sta. B\u00e1rbara"
         ], 
         "ne_longitude": -87.945, 
-        "longitude": -88.350, 
-        "parent_woeid": 23424841, 
-        "placetype": "State", 
+        "longitude": -88.35, 
+        "placetype": "state", 
+        "latitude": 15.093, 
         "alias_SPA_S": [
           "Sta. Barbara"
         ], 
-        "iso": "HN", 
-        "date_indexed": "2010-12-02T19:20:59Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 15.093, 
         "sw_longitude": -88.756, 
+        "sw_latitude": 14.641, 
+        "adjacent": [
+          "woe:state=2345626", 
+          "woe:state=2345627", 
+          "woe:state=2345628", 
+          "woe:state=2345632", 
+          "woe:state=2345560", 
+          "woe:state=2345635"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.545, 
+        "iso": "HN", 
         "fullname": "Santa B\u00e1rbara, Honduras", 
-        "sw_latitude": 14.641
+        "date_indexed": "2010-12-02T19:20:59Z"
       }, 
       "id": 2345638
     }
+  ], 
+  "bbox": [
+    -88.756, 
+    14.641, 
+    -87.945, 
+    15.545
   ]
 }

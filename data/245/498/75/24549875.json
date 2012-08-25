@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549875, 
-        "name": "Grand Anse Mahe", 
         "adjacent_woeid": [
           24549869, 
           24549871, 
           24549876, 
           24549879
         ], 
-        "ne_latitude": -4.666, 
+        "name": "Grand Anse Mahe", 
+        "hierarchy": [
+          "woe:state=24549875", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549875, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.491, 
         "longitude": 55.487, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549869", 
+          "woe:state=24549871", 
+          "woe:state=24549876", 
+          "woe:state=24549879"
+        ], 
+        "ne_latitude": -4.666, 
         "latitude": -4.684, 
         "sw_longitude": 55.433, 
         "fullname": "Grand Anse Mahe, Seychelles", 
@@ -55,5 +65,11 @@
       }, 
       "id": 24549875
     }
+  ], 
+  "bbox": [
+    55.433, 
+    -4.711, 
+    55.491, 
+    -4.666
   ]
 }

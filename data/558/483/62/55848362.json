@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848362, 
-        "name": "Lendava", 
         "adjacent_woeid": [
           12577930, 
           12577979, 
           55848365, 
           55848370
         ], 
-        "ne_latitude": 46.704, 
+        "name": "Lendava", 
+        "hierarchy": [
+          "woe:state=55848362", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848362, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 16.597, 
         "longitude": 16.417, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848365", 
+          "woe:state=12577979", 
+          "woe:state=55848370", 
+          "woe:state=12577930"
+        ], 
+        "ne_latitude": 46.704, 
         "latitude": 46.588, 
         "sw_longitude": 16.238, 
         "fullname": "Lendava, Slovenia", 
@@ -55,5 +65,11 @@
       }, 
       "id": 55848362
     }
+  ], 
+  "bbox": [
+    16.238, 
+    46.471, 
+    16.597, 
+    46.704
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               -76.834, 
-              24.900
+              24.9
             ], 
             [
               -75.433, 
-              24.900
+              24.9
             ], 
             [
               -75.433, 
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344771, 
+        "ne_latitude": 24.9, 
         "name": "Exuma", 
-        "ne_latitude": 24.900, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=2344771", 
+          "woe:country=23424758", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344771, 
         "ne_longitude": -75.433, 
         "longitude": -75.873, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "BS", 
-        "date_indexed": "2010-12-02T07:50:25Z", 
-        "parent_woeid": 23424758, 
+        "sw_latitude": 23.389, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 23.566, 
         "sw_longitude": -76.834, 
         "fullname": "Exuma, The Bahamas", 
-        "sw_latitude": 23.389
+        "date_indexed": "2010-12-02T07:50:25Z"
       }, 
       "id": 2344771
     }
+  ], 
+  "bbox": [
+    -76.834, 
+    23.389, 
+    -75.433, 
+    24.9
   ]
 }

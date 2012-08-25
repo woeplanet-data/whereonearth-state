@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346962, 
-        "name": "Tabuk", 
         "adjacent_woeid": [
           2345928, 
           2346950, 
@@ -41,23 +39,42 @@
           2346958, 
           20070290
         ], 
-        "ne_latitude": 29.976, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tabuk", 
         "alias_ENG_V": [
           "Tabouk"
         ], 
+        "hierarchy": [
+          "woe:state=2346962", 
+          "woe:country=23424938", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346962, 
         "ne_longitude": 39.656, 
         "longitude": 39.534, 
-        "placetype": "State", 
-        "iso": "SA", 
-        "date_indexed": "2010-12-02T09:34:37Z", 
-        "parent_woeid": 23424938, 
+        "placetype": "state", 
         "latitude": 27.276, 
+        "iso": "SA", 
+        "sw_latitude": 24.577, 
+        "adjacent": [
+          "woe:state=20070290", 
+          "woe:state=2346950", 
+          "woe:state=2346958", 
+          "woe:state=2346957", 
+          "woe:state=2345928"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 29.976, 
         "sw_longitude": 34.496, 
         "fullname": "Tabuk, Saudi Arabia", 
-        "sw_latitude": 24.577
+        "date_indexed": "2010-12-02T09:34:37Z"
       }, 
       "id": 2346962
     }
+  ], 
+  "bbox": [
+    34.496, 
+    24.577, 
+    39.656, 
+    29.976
   ]
 }

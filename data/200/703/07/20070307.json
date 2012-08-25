@@ -8,7 +8,7 @@
           [
             [
               166.915, 
-              -0.530
+              -0.53
             ], 
             [
               166.915, 
@@ -20,11 +20,11 @@
             ], 
             [
               166.926, 
-              -0.530
+              -0.53
             ], 
             [
               166.915, 
-              -0.530
+              -0.53
             ]
           ]
         ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070307, 
-        "name": "Uaboe", 
         "adjacent_woeid": [
           20070304, 
           20070306, 
           20070309
         ], 
-        "ne_latitude": -0.512, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Uaboe", 
+        "hierarchy": [
+          "woe:state=20070307", 
+          "woe:country=23424912", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070307, 
         "ne_longitude": 166.926, 
-        "longitude": 166.920, 
-        "placetype": "State", 
-        "iso": "NR", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "parent_woeid": 23424912, 
+        "longitude": 166.92, 
+        "placetype": "state", 
         "latitude": -0.521, 
+        "iso": "NR", 
+        "sw_latitude": -0.53, 
+        "adjacent": [
+          "woe:state=20070304", 
+          "woe:state=20070309", 
+          "woe:state=20070306"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -0.512, 
         "sw_longitude": 166.915, 
         "fullname": "Uaboe, Nauru", 
-        "sw_latitude": -0.530
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 20070307
     }
+  ], 
+  "bbox": [
+    166.915, 
+    -0.53, 
+    166.926, 
+    -0.512
   ]
 }

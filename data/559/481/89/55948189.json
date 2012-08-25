@@ -237,9 +237,14 @@
       "properties": {
         "ne:ProvNumber": 27, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55948189", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 48.01505402282493, 
         "ne:Shape_Area": 0.0946028088552, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -248,6 +253,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 28.06477827299898, 
+        "adjacent": [
+          "woe:state=55948187", 
+          "woe:state=55948198", 
+          "woe:state=55948199", 
+          "woe:state=20069872", 
+          "woe:state=55948201", 
+          "woe:state=55948204"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.906, 
         "ne:FIPS_1": "MD75", 
@@ -285,7 +298,6 @@
         ], 
         "name": "Floresti", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424885, 
         "ne_longitude": 28.534103630877894, 
         "longitude": 28.391, 
         "iso": "MD", 

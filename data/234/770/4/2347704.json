@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347704, 
-        "name": "Cao Bang", 
         "adjacent_woeid": [
           2347718, 
           2347734, 
@@ -41,23 +39,42 @@
           12578006, 
           20070084
         ], 
-        "ne_latitude": 23.121, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Cao Bang", 
         "alias_ENG_V": [
           "Caobang"
         ], 
+        "hierarchy": [
+          "woe:state=2347704", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347704, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.826, 
-        "longitude": 106.070, 
-        "placetype": "State", 
+        "longitude": 106.07, 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
-        "latitude": 22.740, 
+        "adjacent": [
+          "woe:state=20070084", 
+          "woe:state=2347734", 
+          "woe:state=2347718", 
+          "woe:state=2347751", 
+          "woe:state=12578006"
+        ], 
+        "ne_latitude": 23.121, 
+        "latitude": 22.74, 
         "sw_longitude": 105.314, 
         "fullname": "Cao Bang, Vietnam", 
         "sw_latitude": 22.359
       }, 
       "id": 2347704
     }
+  ], 
+  "bbox": [
+    105.314, 
+    22.359, 
+    106.826, 
+    23.121
   ]
 }

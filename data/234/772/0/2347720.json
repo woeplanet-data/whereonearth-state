@@ -973,9 +973,14 @@
       "properties": {
         "ne:ProvNumber": 22, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=2347720", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 13.388537095810364, 
         "ne:Shape_Area": 1.62306216622, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 2.0, 
@@ -984,6 +989,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 107.227801548103, 
+        "adjacent": [
+          "woe:state=28301719", 
+          "woe:state=2347733", 
+          "woe:state=2347738", 
+          "woe:state=2347709", 
+          "woe:state=2344936", 
+          "woe:state=2347745", 
+          "woe:state=2344940"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 12.735, 
         "ne:FIPS_1": "VM07", 
@@ -1022,7 +1036,6 @@
         ], 
         "name": "Dak Lak", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424984, 
         "ne_longitude": 109.03730350155541, 
         "longitude": 108.148, 
         "iso": "VN", 

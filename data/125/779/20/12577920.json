@@ -8,7 +8,7 @@
           [
             [
               19.571, 
-              47.420
+              47.42
             ], 
             [
               19.571, 
@@ -20,11 +20,11 @@
             ], 
             [
               20.772, 
-              47.420
+              47.42
             ], 
             [
               19.571, 
-              47.420
+              47.42
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "woeid": 12577920, 
-        "name": "Heves", 
         "adjacent_woeid": [
           12577914, 
           12577922, 
@@ -42,20 +40,40 @@
           56043619, 
           56043641
         ], 
-        "ne_latitude": 48.154, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Heves", 
+        "hierarchy": [
+          "woe:state=12577920", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12577920, 
         "ne_longitude": 20.772, 
         "longitude": 20.171, 
-        "placetype": "State", 
-        "iso": "HU", 
-        "date_indexed": "2010-12-02T09:55:38Z", 
-        "parent_woeid": 23424844, 
+        "placetype": "state", 
         "latitude": 47.787, 
+        "iso": "HU", 
+        "sw_latitude": 47.42, 
+        "adjacent": [
+          "woe:state=12577914", 
+          "woe:state=56043641", 
+          "woe:state=12577926", 
+          "woe:state=56043619", 
+          "woe:state=12577922", 
+          "woe:state=12577923"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 48.154, 
         "sw_longitude": 19.571, 
         "fullname": "Heves, Hungary", 
-        "sw_latitude": 47.420
+        "date_indexed": "2010-12-02T09:55:38Z"
       }, 
       "id": 12577920
     }
+  ], 
+  "bbox": [
+    19.571, 
+    47.42, 
+    20.772, 
+    48.154
   ]
 }

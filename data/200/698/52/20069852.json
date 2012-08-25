@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 20069852, 
-        "name": "Wele-Nzas", 
         "adjacent_woeid": [
           2345457, 
           20069850, 
           20069851
         ], 
-        "ne_latitude": 1.999, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Wele-Nzas", 
+        "hierarchy": [
+          "woe:state=20069852", 
+          "woe:country=23424804", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069852, 
         "ne_longitude": 11.336, 
         "longitude": 10.867, 
-        "placetype": "State", 
-        "iso": "GQ", 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "parent_woeid": 23424804, 
+        "placetype": "state", 
         "latitude": 1.592, 
+        "iso": "GQ", 
+        "sw_latitude": 0.996, 
+        "adjacent": [
+          "woe:state=20069850", 
+          "woe:state=20069851", 
+          "woe:state=2345457"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.999, 
         "sw_longitude": 10.522, 
         "fullname": "Wele-Nzas, Equatorial Guinea", 
-        "sw_latitude": 0.996
+        "date_indexed": "2010-12-02T16:55:36Z"
       }, 
       "id": 20069852
     }
+  ], 
+  "bbox": [
+    10.522, 
+    0.996, 
+    11.336, 
+    1.999
   ]
 }

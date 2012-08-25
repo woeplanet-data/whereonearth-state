@@ -920,20 +920,32 @@
           "County Kilkenny"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2345258", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 52.888193264507606, 
         "ne:Shape_Area": 0.272358514686, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "KIK"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:OBJECTID": 722, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -7.668234422580497, 
+        "adjacent": [
+          "woe:state=2345249", 
+          "woe:state=2345260", 
+          "woe:state=2345270", 
+          "woe:state=2345271", 
+          "woe:state=2345273"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.569, 
         "ne:FIPS_1": "EI13", 
@@ -941,9 +953,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.24735382761713, 
-        "ne:VertexCou": 225.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 722, 
         "ne:Postal": "KK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Cill Chainnigh", 
@@ -959,8 +971,8 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 2054.8, 
         "woe:id": "2345258", 
-        "ne:HASC_1": "IE.KK", 
-        "lang": "ENG", 
+        "name": "Kilkenny", 
+        "ne:VertexCou": 225.0, 
         "adjacent_woeid": [
           2345249, 
           2345260, 
@@ -968,9 +980,8 @@
           2345271, 
           2345273
         ], 
-        "name": "Kilkenny", 
+        "ne:HASC_1": "IE.KK", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Cill Chainnigh"
         ], 

@@ -32,13 +32,17 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.108, 
-        "name": "Guayama", 
         "adjacent_woeid": [
           2346792, 
           2346827, 
           2346828, 
           2346830
+        ], 
+        "name": "Guayama", 
+        "hierarchy": [
+          "woe:state=2346829", 
+          "woe:country=23424935", 
+          "woe:planet=1"
         ], 
         "woeid": 2346829, 
         "alias_SPA_V": [
@@ -46,17 +50,29 @@
         ], 
         "ne_longitude": -66.053, 
         "longitude": -66.133, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.018, 
         "sw_longitude": -66.217, 
+        "sw_latitude": 17.921, 
+        "adjacent": [
+          "woe:state=2346828", 
+          "woe:state=2346792", 
+          "woe:state=2346827", 
+          "woe:state=2346830"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.108, 
+        "iso": "PR", 
         "fullname": "Guayama, Puerto Rico", 
-        "sw_latitude": 17.921
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346829
     }
+  ], 
+  "bbox": [
+    -66.217, 
+    17.921, 
+    -66.053, 
+    18.108
   ]
 }

@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848352, 
-        "name": "Ilirska Bistrica", 
         "adjacent_woeid": [
           12577982, 
           55848344, 
           55848376, 
           55848385
         ], 
-        "ne_latitude": 45.685, 
+        "name": "Ilirska Bistrica", 
+        "hierarchy": [
+          "woe:state=55848352", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848352, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.502, 
         "longitude": 14.296, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848344", 
+          "woe:state=55848376", 
+          "woe:state=12577982", 
+          "woe:state=55848385"
+        ], 
+        "ne_latitude": 45.685, 
         "latitude": 45.577, 
         "sw_longitude": 14.091, 
         "fullname": "Ilirska Bistrica, Slovenia", 
@@ -55,5 +65,11 @@
       }, 
       "id": 55848352
     }
+  ], 
+  "bbox": [
+    14.091, 
+    45.469, 
+    14.502, 
+    45.685
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2346990, 
-        "name": "St.-Louis", 
         "adjacent_woeid": [
           2346244, 
           2346245, 
@@ -41,23 +39,42 @@
           2346993, 
           56055615
         ], 
-        "ne_latitude": 16.692, 
+        "name": "St.-Louis", 
+        "hierarchy": [
+          "woe:state=2346990", 
+          "woe:country=23424943", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346990, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -13.698, 
         "longitude": -15.116, 
-        "parent_woeid": 23424943, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 16.139, 
+        "iso": "SN", 
+        "sw_latitude": 15.587, 
+        "adjacent": [
+          "woe:state=2346245", 
+          "woe:state=2346244", 
+          "woe:state=2346993", 
+          "woe:state=56055615", 
+          "woe:state=2346246"
+        ], 
+        "ne_latitude": 16.692, 
         "alias_FRE_V": [
           "St-Louis"
         ], 
-        "iso": "SN", 
-        "date_indexed": "2010-12-02T08:57:18Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 16.139, 
         "sw_longitude": -16.535, 
         "fullname": "St.-Louis, Senegal", 
-        "sw_latitude": 15.587
+        "date_indexed": "2010-12-02T08:57:18Z"
       }, 
       "id": 2346990
     }
+  ], 
+  "bbox": [
+    -16.535, 
+    15.587, 
+    -13.698, 
+    16.692
   ]
 }

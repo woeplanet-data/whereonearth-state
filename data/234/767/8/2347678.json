@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -65.710, 
+              -65.71, 
               7.656
             ], 
             [
-              -65.710, 
+              -65.71, 
               10.306
             ], 
             [
@@ -23,7 +23,7 @@
               7.656
             ], 
             [
-              -65.710, 
+              -65.71, 
               7.656
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2347678, 
-        "name": "Anzoategui", 
         "adjacent_woeid": [
           2347682, 
           2347688, 
@@ -41,20 +39,39 @@
           2347692, 
           2347695
         ], 
-        "ne_latitude": 10.306, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Anzoategui", 
+        "hierarchy": [
+          "woe:state=2347678", 
+          "woe:country=23424982", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347678, 
         "ne_longitude": -62.659, 
         "longitude": -64.184, 
-        "placetype": "State", 
-        "iso": "VE", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "parent_woeid": 23424982, 
+        "placetype": "state", 
         "latitude": 8.954, 
-        "sw_longitude": -65.710, 
+        "iso": "VE", 
+        "sw_latitude": 7.656, 
+        "adjacent": [
+          "woe:state=2347682", 
+          "woe:state=2347688", 
+          "woe:state=2347691", 
+          "woe:state=2347692", 
+          "woe:state=2347695"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 10.306, 
+        "sw_longitude": -65.71, 
         "fullname": "Anzoategui, Venezuela", 
-        "sw_latitude": 7.656
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 2347678
     }
+  ], 
+  "bbox": [
+    -65.71, 
+    7.656, 
+    -62.659, 
+    10.306
   ]
 }

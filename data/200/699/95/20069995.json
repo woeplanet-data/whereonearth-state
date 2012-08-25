@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 20069995, 
-        "name": "Tillaberi", 
         "adjacent_woeid": [
           2346181, 
           2346326, 
@@ -46,20 +44,44 @@
           55967364, 
           55967672
         ], 
-        "ne_latitude": 15.692, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tillaberi", 
+        "hierarchy": [
+          "woe:state=20069995", 
+          "woe:country=23424906", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069995, 
         "ne_longitude": 4.206, 
         "longitude": 2.186, 
-        "placetype": "State", 
-        "iso": "NE", 
-        "date_indexed": "2010-12-02T17:43:23Z", 
-        "parent_woeid": 23424906, 
+        "placetype": "state", 
         "latitude": 13.797, 
+        "iso": "NE", 
+        "sw_latitude": 11.902, 
+        "adjacent": [
+          "woe:state=55967672", 
+          "woe:state=2346326", 
+          "woe:state=2346181", 
+          "woe:state=55967353", 
+          "woe:state=20069994", 
+          "woe:state=2347628", 
+          "woe:state=2347633", 
+          "woe:state=2346329", 
+          "woe:state=2347637", 
+          "woe:state=55967364"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.692, 
         "sw_longitude": 0.166, 
         "fullname": "Tillaberi, Niger", 
-        "sw_latitude": 11.902
+        "date_indexed": "2010-12-02T17:43:23Z"
       }, 
       "id": 20069995
     }
+  ], 
+  "bbox": [
+    0.166, 
+    11.902, 
+    4.206, 
+    15.692
   ]
 }

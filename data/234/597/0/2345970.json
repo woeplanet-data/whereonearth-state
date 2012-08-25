@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              127.800, 
+              127.8, 
               35.562
             ], 
             [
-              127.800, 
+              127.8, 
               37.545
             ], 
             [
@@ -23,7 +23,7 @@
               35.562
             ], 
             [
-              127.800, 
+              127.8, 
               35.562
             ]
           ]
@@ -40,8 +40,13 @@
         "alias_ENG_P": [
           "Gyeongsangbuk-Do"
         ], 
+        "hierarchy": [
+          "woe:state=2345970", 
+          "woe:country=23424868", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 37.545, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_V": [
           "\uacbd\uc0c1"
         ], 
@@ -55,10 +60,18 @@
         "alias_JPN_V": [
           "\u6176\u5c1a\u5317\u9053"
         ], 
-        "sw_longitude": 127.800, 
+        "sw_longitude": 127.8, 
+        "adjacent": [
+          "woe:state=2345966", 
+          "woe:state=2345967", 
+          "woe:state=2345971", 
+          "woe:state=23701285", 
+          "woe:state=2345964", 
+          "woe:state=2345965"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 36.351, 
-        "date_indexed": "2010-12-02T17:52:39Z", 
+        "sw_latitude": 35.562, 
         "lang": "KOR", 
         "adjacent_woeid": [
           2345964, 
@@ -69,14 +82,19 @@
           23701285
         ], 
         "name": "\uacbd\uc0c1\ubd81\ub3c4", 
-        "parent_woeid": 23424868, 
         "ne_longitude": 130.944, 
         "longitude": 128.694, 
         "iso": "KR", 
-        "sw_latitude": 35.562, 
+        "date_indexed": "2010-12-02T17:52:39Z", 
         "fullname": "\uacbd\uc0c1\ubd81\ub3c4, Gyeongsangbuk-Do, South Korea"
       }, 
       "id": 2345970
     }
+  ], 
+  "bbox": [
+    127.8, 
+    35.562, 
+    130.944, 
+    37.545
   ]
 }

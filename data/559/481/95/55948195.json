@@ -169,9 +169,14 @@
       "properties": {
         "ne:ProvNumber": 11, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55948195", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 48.486239732677575, 
         "ne:Shape_Area": 0.0788762409531, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -180,6 +185,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 27.25164961074097, 
+        "adjacent": [
+          "woe:state=55948180", 
+          "woe:state=2347536", 
+          "woe:state=55948186", 
+          "woe:state=20069871", 
+          "woe:state=2347554"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.354, 
         "ne:FIPS_1": "MD81", 
@@ -216,7 +228,6 @@
         ], 
         "name": "Ocnita", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424885, 
         "ne_longitude": 27.885254347110504, 
         "longitude": 27.548, 
         "iso": "MD", 

@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              31.010, 
+              31.01, 
               -0.373
             ], 
             [
-              31.010, 
-              0.240
+              31.01, 
+              0.24
             ], 
             [
               31.591, 
-              0.240
+              0.24
             ], 
             [
               31.591, 
               -0.373
             ], 
             [
-              31.010, 
+              31.01, 
               -0.373
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070450, 
-        "name": "Sembabule", 
         "adjacent_woeid": [
           20070436, 
           20070437, 
@@ -42,20 +40,40 @@
           56190205, 
           56190207
         ], 
-        "ne_latitude": 0.240, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sembabule", 
+        "hierarchy": [
+          "woe:state=20070450", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070450, 
         "ne_longitude": 31.591, 
         "longitude": 31.301, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": -0.066, 
-        "sw_longitude": 31.010, 
+        "iso": "UG", 
+        "sw_latitude": -0.373, 
+        "adjacent": [
+          "woe:state=56190205", 
+          "woe:state=24550734", 
+          "woe:state=56190207", 
+          "woe:state=20070451", 
+          "woe:state=20070436", 
+          "woe:state=20070437"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.24, 
+        "sw_longitude": 31.01, 
         "fullname": "Sembabule, Uganda", 
-        "sw_latitude": -0.373
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070450
     }
+  ], 
+  "bbox": [
+    31.01, 
+    -0.373, 
+    31.591, 
+    0.24
   ]
 }

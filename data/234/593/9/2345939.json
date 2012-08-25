@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345939, 
-        "name": "Eastern", 
         "adjacent_woeid": [
           2345937, 
           2345938, 
@@ -43,20 +41,41 @@
           56013536, 
           56013545
         ], 
-        "ne_latitude": 4.461, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Eastern", 
+        "hierarchy": [
+          "woe:state=2345939", 
+          "woe:country=23424863", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345939, 
         "ne_longitude": 39.492, 
         "longitude": 38.549, 
-        "placetype": "State", 
-        "iso": "KE", 
-        "date_indexed": "2010-12-02T08:53:52Z", 
-        "parent_woeid": 23424863, 
+        "placetype": "state", 
         "latitude": 0.697, 
+        "iso": "KE", 
+        "sw_latitude": -3.068, 
+        "adjacent": [
+          "woe:state=2345937", 
+          "woe:state=2345938", 
+          "woe:state=2345940", 
+          "woe:state=2345941", 
+          "woe:state=56013545", 
+          "woe:state=2345943", 
+          "woe:state=56013536"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 4.461, 
         "sw_longitude": 36.066, 
         "fullname": "Eastern, Kenya", 
-        "sw_latitude": -3.068
+        "date_indexed": "2010-12-02T08:53:52Z"
       }, 
       "id": 2345939
     }
+  ], 
+  "bbox": [
+    36.066, 
+    -3.068, 
+    39.492, 
+    4.461
   ]
 }

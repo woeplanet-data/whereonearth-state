@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070182, 
-        "name": "Yalova", 
         "adjacent_woeid": [
           2347273, 
           2347296
         ], 
-        "ne_latitude": 40.742, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Yalova", 
+        "hierarchy": [
+          "woe:state=20070182", 
+          "woe:country=23424969", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070182, 
         "ne_longitude": 29.556, 
         "longitude": 29.167, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 40.6, 
         "iso": "TR", 
-        "date_indexed": "2010-12-02T16:22:51Z", 
-        "parent_woeid": 23424969, 
-        "latitude": 40.600, 
+        "sw_latitude": 40.459, 
+        "adjacent": [
+          "woe:state=2347273", 
+          "woe:state=2347296"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.742, 
         "sw_longitude": 28.524, 
         "fullname": "Yalova, Turkey", 
-        "sw_latitude": 40.459
+        "date_indexed": "2010-12-02T16:22:51Z"
       }, 
       "id": 20070182
     }
+  ], 
+  "bbox": [
+    28.524, 
+    40.459, 
+    29.556, 
+    40.742
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346161, 
-        "name": "Dornogovi", 
         "adjacent_woeid": [
           2346162, 
           2346165, 
@@ -42,23 +40,43 @@
           2346172, 
           12578009
         ], 
-        "ne_latitude": 46.814, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Dornogovi", 
+        "adjacent": [
+          "woe:state=2346162", 
+          "woe:state=2346165", 
+          "woe:state=2346168", 
+          "woe:state=2346171", 
+          "woe:state=2346172", 
+          "woe:state=12578009"
+        ], 
+        "hierarchy": [
+          "woe:state=2346161", 
+          "woe:country=23424887", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346161, 
         "ne_longitude": 112.376, 
         "longitude": 110.078, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 44.601, 
         "iso": "MN", 
-        "date_indexed": "2010-12-02T08:53:23Z", 
+        "sw_latitude": 42.387, 
         "alias_ENG_A": [
           "DG"
         ], 
-        "parent_woeid": 23424887, 
-        "latitude": 44.601, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 46.814, 
         "sw_longitude": 107.779, 
         "fullname": "Dornogovi, Mongolia", 
-        "sw_latitude": 42.387
+        "date_indexed": "2010-12-02T08:53:23Z"
       }, 
       "id": 2346161
     }
+  ], 
+  "bbox": [
+    107.779, 
+    42.387, 
+    112.376, 
+    46.814
   ]
 }

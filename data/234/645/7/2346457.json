@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -56.700, 
+              -56.7, 
               -27.609
             ], 
             [
-              -56.700, 
+              -56.7, 
               -26.061
             ], 
             [
-              -54.650, 
+              -54.65, 
               -26.061
             ], 
             [
-              -54.650, 
+              -54.65, 
               -27.609
             ], 
             [
-              -56.700, 
+              -56.7, 
               -27.609
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346457, 
-        "name": "Itap\u00faa", 
         "adjacent_woeid": [
           2344680, 
           2344688, 
@@ -41,23 +39,42 @@
           2346452, 
           2346458
         ], 
-        "ne_latitude": -26.061, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -54.650, 
+        "name": "Itap\u00faa", 
+        "hierarchy": [
+          "woe:state=2346457", 
+          "woe:country=23424917", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346457, 
+        "ne_longitude": -54.65, 
         "longitude": -55.675, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -26.835, 
         "alias_SPA_S": [
           "Itapua"
         ], 
         "iso": "PY", 
-        "date_indexed": "2010-12-02T12:08:38Z", 
-        "parent_woeid": 23424917, 
-        "latitude": -26.835, 
-        "sw_longitude": -56.700, 
+        "sw_latitude": -27.609, 
+        "adjacent": [
+          "woe:state=2346448", 
+          "woe:state=2346452", 
+          "woe:state=2344680", 
+          "woe:state=2346458", 
+          "woe:state=2344688"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -26.061, 
+        "sw_longitude": -56.7, 
         "fullname": "Itap\u00faa, Paraguay", 
-        "sw_latitude": -27.609
+        "date_indexed": "2010-12-02T12:08:38Z"
       }, 
       "id": 2346457
     }
+  ], 
+  "bbox": [
+    -56.7, 
+    -27.609, 
+    -54.65, 
+    -26.061
   ]
 }

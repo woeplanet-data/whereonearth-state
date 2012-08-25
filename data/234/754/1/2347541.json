@@ -32,34 +32,50 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347541, 
-        "alias_UNK_V": [
-          "Khersonshchyna"
-        ], 
-        "name": "Khersons\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Kherson Oblast"
-        ], 
-        "ne_latitude": 47.597, 
-        "ne_longitude": 35.109, 
-        "longitude": 33.437, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2347537, 
           2347544, 
           2347548, 
           2347557
         ], 
+        "ne_latitude": 47.597, 
+        "name": "Khersons\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Kherson Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347541", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347541, 
+        "alias_UNK_V": [
+          "Khersonshchyna"
+        ], 
+        "longitude": 33.437, 
+        "ne_longitude": 35.109, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 45.946, 
+        "adjacent": [
+          "woe:state=2347544", 
+          "woe:state=2347537", 
+          "woe:state=2347548", 
+          "woe:state=2347557"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.772, 
         "sw_longitude": 31.514, 
         "fullname": "Khersons\u00b4ka Oblast\u00b4, Kherson Oblast, Ukraine", 
-        "sw_latitude": 45.946
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347541
     }
+  ], 
+  "bbox": [
+    31.514, 
+    45.946, 
+    35.109, 
+    47.597
   ]
 }

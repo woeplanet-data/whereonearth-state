@@ -37,17 +37,27 @@
         "alias_ENG_S": [
           "Contae Mhuineachain"
         ], 
+        "hierarchy": [
+          "woe:state=2345266", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 54.421, 
         "ne_longitude": -6.549, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_ENG_A": [
           "MOG"
         ], 
         "woeid": 2345266, 
         "sw_longitude": -7.327, 
+        "adjacent": [
+          "woe:state=2345250", 
+          "woe:state=2345263", 
+          "woe:state=2345265"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 54.192, 
-        "date_indexed": "2010-12-02T12:07:35Z", 
+        "sw_latitude": 53.901, 
         "lang": "ENG", 
         "adjacent_woeid": [
           2345250, 
@@ -58,7 +68,6 @@
         "alias_UNK_S": [
           "Mhuineachain"
         ], 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Mhuineach\u00e1in"
         ], 
@@ -67,10 +76,16 @@
         ], 
         "longitude": -6.918, 
         "iso": "IE", 
-        "sw_latitude": 53.901, 
+        "date_indexed": "2010-12-02T12:07:35Z", 
         "fullname": "Monaghan, Ireland"
       }, 
       "id": 2345266
     }
+  ], 
+  "bbox": [
+    -7.327, 
+    53.901, 
+    -6.549, 
+    54.421
   ]
 }

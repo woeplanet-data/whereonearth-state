@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346496, 
-        "name": "Balochistan", 
         "adjacent_woeid": [
           2344569, 
           2346495, 
           2346498, 
           2346499
         ], 
-        "ne_latitude": 32.062, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Balochistan", 
+        "hierarchy": [
+          "woe:state=2346496", 
+          "woe:country=23424922", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346496, 
         "ne_longitude": 70.486, 
         "longitude": 65.682, 
-        "placetype": "State", 
-        "iso": "PK", 
-        "date_indexed": "2010-12-02T17:56:39Z", 
-        "parent_woeid": 23424922, 
+        "placetype": "state", 
         "latitude": 28.476, 
+        "iso": "PK", 
+        "sw_latitude": 24.891, 
+        "adjacent": [
+          "woe:state=2346495", 
+          "woe:state=2344569", 
+          "woe:state=2346498", 
+          "woe:state=2346499"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 32.062, 
         "sw_longitude": 60.879, 
         "fullname": "Balochistan, Pakistan", 
-        "sw_latitude": 24.891
+        "date_indexed": "2010-12-02T17:56:39Z"
       }, 
       "id": 2346496
     }
+  ], 
+  "bbox": [
+    60.879, 
+    24.891, 
+    70.486, 
+    32.062
   ]
 }

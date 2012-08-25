@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070350, 
-        "name": "Aspindzis Raioni", 
         "adjacent_woeid": [
           20070348, 
           20070349, 
           20070352
         ], 
-        "ne_latitude": 41.773, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Aspindzis Raioni", 
+        "hierarchy": [
+          "woe:state=20070350", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070350, 
         "ne_longitude": 43.428, 
         "longitude": 43.201, 
-        "placetype": "State", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "placetype": "state", 
         "latitude": 41.538, 
+        "iso": "GE", 
+        "sw_latitude": 41.304, 
+        "adjacent": [
+          "woe:state=20070352", 
+          "woe:state=20070348", 
+          "woe:state=20070349"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.773, 
         "sw_longitude": 42.974, 
         "fullname": "Aspindzis Raioni, Georgia", 
-        "sw_latitude": 41.304
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070350
     }
+  ], 
+  "bbox": [
+    42.974, 
+    41.304, 
+    43.428, 
+    41.773
   ]
 }

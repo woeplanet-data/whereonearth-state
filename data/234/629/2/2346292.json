@@ -32,12 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 19.728, 
-        "name": "Tlaxcala", 
         "adjacent_woeid": [
           2346276, 
           2346278, 
           2346284
+        ], 
+        "alias_ENG_A": [
+          "TL"
+        ], 
+        "name": "Tlaxcala", 
+        "hierarchy": [
+          "woe:state=2346292", 
+          "woe:country=23424900", 
+          "woe:planet=1"
         ], 
         "woeid": 2346292, 
         "alias_SPA_V": [
@@ -45,23 +52,31 @@
         ], 
         "ne_longitude": -97.627, 
         "longitude": -98.169, 
-        "parent_woeid": 23424900, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 19.416, 
         "alias_SPA_S": [
           "Tlaxcala de Xicohtencatl"
         ], 
-        "iso": "MX", 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "TL"
+        "sw_longitude": -98.712, 
+        "sw_latitude": 19.104, 
+        "adjacent": [
+          "woe:state=2346276", 
+          "woe:state=2346278", 
+          "woe:state=2346284"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 19.416, 
-        "sw_longitude": -98.712, 
+        "ne_latitude": 19.728, 
+        "iso": "MX", 
         "fullname": "Tlaxcala, Mexico", 
-        "sw_latitude": 19.104
+        "date_indexed": "2010-12-02T16:55:36Z"
       }, 
       "id": 2346292
     }
+  ], 
+  "bbox": [
+    -98.712, 
+    19.104, 
+    -97.627, 
+    19.728
   ]
 }

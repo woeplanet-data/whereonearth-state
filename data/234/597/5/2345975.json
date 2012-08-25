@@ -197,20 +197,25 @@
         "alias_ENG_P": [
           "Daejon"
         ], 
+        "hierarchy": [
+          "woe:state=2345975", 
+          "woe:country=23424868", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.54753693308305, 
         "ne:Shape_Area": 0.0418469474821, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_V": [
           "\ub300\uc804\uad11\uc5ed"
         ], 
-        "ne:MAP_COLOR": 5, 
+        "ne:VALIDFR_1": "1989", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u5927\u7530"
         ], 
-        "ne:OBJECTID": 2503, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30c6\u30b8\u30e7\u30f3"
         ], 
@@ -220,6 +225,10 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 127.05976932169688, 
+        "adjacent": [
+          "woe:state=2345973", 
+          "woe:state=2345965"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 36.337, 
         "ne:FIPS_1": "KS19", 
@@ -227,9 +236,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Metropolitan City", 
         "sw_latitude": 36.2698277862234, 
-        "ne:VertexCou": 43.0, 
-        "ne:VALIDFR_1": "1989", 
-        "ne:DataRank": 3, 
+        "lang": "KOR", 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 2503, 
         "ne:Postal": "TJ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Daejeon Gwang'yeogsi|Taejon-gwangyoksi|Taiden", 
@@ -245,16 +254,15 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 416.4, 
         "woe:id": "2345975", 
-        "ne:HASC_1": "KR.TJ", 
-        "lang": "KOR", 
+        "name": "\ub300\uc804", 
+        "ne:VertexCou": 43.0, 
         "adjacent_woeid": [
           2345965, 
           2345973
         ], 
-        "name": "\ub300\uc804", 
+        "ne:HASC_1": "KR.TJ", 
         "ne:REMARKS_1": "25 (NSO Code)", 
         "ne:Country_Pr": null, 
-        "parent_woeid": 23424868, 
         "ne_longitude": 127.48227583266362, 
         "longitude": 127.406, 
         "iso": "KR", 

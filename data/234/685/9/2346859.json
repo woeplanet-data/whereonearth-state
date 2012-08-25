@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.431, 
-        "name": "Bayam\u00f3n", 
         "adjacent_woeid": [
           2346807, 
           2346812, 
@@ -43,26 +41,47 @@
           2346858, 
           2346860
         ], 
+        "name": "Bayam\u00f3n", 
+        "hierarchy": [
+          "woe:state=2346859", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346859, 
         "alias_SPA_V": [
           "Bayam\u00f3n Municipios"
         ], 
         "ne_longitude": -66.118, 
         "longitude": -66.166, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 18.345, 
         "alias_SPA_S": [
           "Bayamon Municipios"
         ], 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.345, 
         "sw_longitude": -66.214, 
+        "sw_latitude": 18.259, 
+        "adjacent": [
+          "woe:state=2346858", 
+          "woe:state=2346813", 
+          "woe:state=2346857", 
+          "woe:state=2346814", 
+          "woe:state=2346860", 
+          "woe:state=2346807", 
+          "woe:state=2346812"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.431, 
+        "iso": "PR", 
         "fullname": "Bayam\u00f3n, Puerto Rico", 
-        "sw_latitude": 18.259
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346859
     }
+  ], 
+  "bbox": [
+    -66.214, 
+    18.259, 
+    -66.118, 
+    18.431
   ]
 }

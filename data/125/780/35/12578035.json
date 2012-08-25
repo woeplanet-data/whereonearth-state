@@ -2657,22 +2657,36 @@
       "properties": {
         "ne:ProvNumber": 6, 
         "ne:ScaleRank": 3, 
+        "hierarchy": [
+          "woe:state=12578035", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.48032013576568, 
         "ne:Shape_Area": 4.39111036958, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VARNAME_1": "Estremadura|Estr\u00e9madure", 
-        "ne:MAP_COLOR": 5, 
+        "ne:VALIDFR_1": "1983", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ESP", 
         "alias_ITA_Q": [
           "Estremadura"
         ], 
-        "ne:OBJECTID": 742, 
+        "ne:DataRank": 3, 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -7.557698533160703, 
+        "adjacent": [
+          "woe:state=12578029", 
+          "woe:state=2346563", 
+          "woe:state=2346566", 
+          "woe:state=12578033", 
+          "woe:state=12578032", 
+          "woe:state=2346568", 
+          "woe:state=2346571", 
+          "woe:state=2346574"
+        ], 
         "alias_SPA_V": [
           "Extremadura Autonomia"
         ], 
@@ -2682,29 +2696,29 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Community", 
         "sw_latitude": 37.93897654902855, 
-        "ne:VertexCou": 657.0, 
-        "ne:VALIDFR_1": "1983", 
-        "ne:DataRank": 3, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 742, 
         "ne:Postal": "EX", 
         "ne:Region_Cod": null, 
-        "provider": "geoplanet 7.6.0", 
+        "ne:VARNAME_1": "Estremadura|Estr\u00e9madure", 
         "ne:ISO": "ESP", 
-        "ne:TYPE_1": "Comunidad Aut\u00f3noma", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 11.4965916513, 
         "ne:CheckMe": 10, 
         "ne:NAME_0": "Spain", 
         "ne:NAME_1": "Extremadura", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Comunidad Aut\u00f3noma", 
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 42114.1, 
         "alias_GER_Q": [
           "Estremadura"
         ], 
         "woe:id": "12578035", 
-        "ne:HASC_1": "ES.EX", 
-        "lang": "SPA", 
+        "name": "Extremadura", 
+        "ne:VertexCou": 657.0, 
         "adjacent_woeid": [
           2346563, 
           2346566, 
@@ -2715,12 +2729,14 @@
           12578032, 
           12578033
         ], 
-        "name": "Extremadura", 
+        "ne:HASC_1": "ES.EX", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424950, 
-        "ne_longitude": -4.658392299365062, 
+        "provider": "geoplanet 7.6.0", 
         "longitude": -6.095, 
-        "ne:NEV_Countr": "Spain", 
+        "alias_FRE_S": [
+          "Extremadure"
+        ], 
+        "ne_longitude": -4.658392299365062, 
         "iso": "ES", 
         "date_indexed": "2010-12-02T17:07:37Z", 
         "ne:NL_NAME_1": null, 
@@ -2729,9 +2745,7 @@
         ], 
         "fullname": "Extremadura, Spain", 
         "ne:Region": null, 
-        "alias_FRE_S": [
-          "Extremadure"
-        ], 
+        "ne:NEV_Countr": "Spain", 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Estr\u00e9madure"

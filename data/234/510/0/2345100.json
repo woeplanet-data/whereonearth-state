@@ -12,11 +12,11 @@
             ], 
             [
               14.945, 
-              7.880
+              7.88
             ], 
             [
               17.132, 
-              7.880
+              7.88
             ], 
             [
               17.132, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2345100, 
-        "name": "Ouham-Pend\u00e9", 
         "adjacent_woeid": [
           2345038, 
           2345041, 
@@ -41,23 +39,42 @@
           2345099, 
           2345104
         ], 
-        "ne_latitude": 7.880, 
+        "name": "Ouham-Pend\u00e9", 
+        "hierarchy": [
+          "woe:state=2345100", 
+          "woe:country=23424792", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345100, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 17.132, 
         "longitude": 16.039, 
-        "parent_woeid": 23424792, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 6.707, 
+        "iso": "CF", 
+        "sw_latitude": 5.533, 
+        "adjacent": [
+          "woe:state=2345038", 
+          "woe:state=2345097", 
+          "woe:state=2345041", 
+          "woe:state=2345104", 
+          "woe:state=2345099"
+        ], 
+        "ne_latitude": 7.88, 
         "alias_FRE_V": [
           "Ouham-Pende"
         ], 
-        "iso": "CF", 
-        "date_indexed": "2010-12-02T17:43:23Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 6.707, 
         "sw_longitude": 14.945, 
         "fullname": "Ouham-Pend\u00e9, Central African Republic", 
-        "sw_latitude": 5.533
+        "date_indexed": "2010-12-02T17:43:23Z"
       }, 
       "id": 2345100
     }
+  ], 
+  "bbox": [
+    14.945, 
+    5.533, 
+    17.132, 
+    7.88
   ]
 }

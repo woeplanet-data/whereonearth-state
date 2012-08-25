@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.303, 
-        "name": "Aguas Buenas", 
         "adjacent_woeid": [
           2346794, 
           2346814, 
@@ -42,23 +40,43 @@
           2346857, 
           2346859
         ], 
+        "name": "Aguas Buenas", 
+        "hierarchy": [
+          "woe:state=2346858", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346858, 
         "alias_SPA_V": [
           "Aguas Buenas Municipios"
         ], 
         "ne_longitude": -66.066, 
         "longitude": -66.128, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.250, 
+        "placetype": "state", 
+        "latitude": 18.25, 
         "sw_longitude": -66.191, 
+        "sw_latitude": 18.198, 
+        "adjacent": [
+          "woe:state=2346859", 
+          "woe:state=2346855", 
+          "woe:state=2346794", 
+          "woe:state=2346857", 
+          "woe:state=2346814", 
+          "woe:state=2346815"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.303, 
+        "iso": "PR", 
         "fullname": "Aguas Buenas, Puerto Rico", 
-        "sw_latitude": 18.198
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346858
     }
+  ], 
+  "bbox": [
+    -66.191, 
+    18.198, 
+    -66.066, 
+    18.303
   ]
 }

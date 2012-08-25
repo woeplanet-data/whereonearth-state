@@ -2504,11 +2504,16 @@
         "alias_KOR_Q": [
           "\ub9e4\uc0ac\ucd94\uc138\uce20"
         ], 
+        "hierarchy": [
+          "woe:state=2347580", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.8868204945702, 
         "ne:Shape_Area": 2.30820776882, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18200316", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "Mass"
         ], 
@@ -2518,13 +2523,20 @@
         "alias_CHI_Q": [
           "\u9a6c\u8428\u8bf8\u585e"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3513, 
         "alias_JPN_Q": [
           "\u30de\u30b5\u30c1\u30e5\u30fc\u30bb\u30c3\u30c4"
         ], 
         "ne:Abbrev": "Mass.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -73.5072449155204, 
+        "adjacent": [
+          "woe:state=2347565", 
+          "woe:state=2347588", 
+          "woe:state=2347591", 
+          "woe:state=2347598", 
+          "woe:state=2347604"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.184, 
         "ne:FIPS_1": "US25", 
@@ -2532,9 +2544,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 41.24809979137234, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3513, 
+        "ne:VertexCou": 607.0, 
+        "ne:VALIDFR_1": "18200316", 
+        "ne:DataRank": 1, 
         "ne:Postal": "MA", 
         "ne:Region_Cod": "Northeast", 
         "ne:VARNAME_1": "Commonwealth of Massachusetts|MA|Mass.", 
@@ -2550,8 +2562,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 21279.5, 
         "woe:id": "2347580", 
-        "name": "Massachusetts", 
-        "ne:VertexCou": 607.0, 
+        "ne:HASC_1": "US.MA", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347565, 
           2347588, 
@@ -2559,9 +2571,8 @@
           2347598, 
           2347604
         ], 
-        "ne:HASC_1": "US.MA", 
+        "name": "Massachusetts", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -69.92453007230495, 
         "longitude": -71.718, 
         "iso": "US", 

@@ -453,9 +453,14 @@
       "properties": {
         "ne:ProvNumber": 2001, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=55967353", 
+          "woe:country=23424978", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 13.085506496227879, 
         "ne:Shape_Area": 0.408934219794, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
@@ -464,6 +469,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 0.24730309376281, 
+        "adjacent": [
+          "woe:state=2347616", 
+          "woe:state=2347617", 
+          "woe:state=2347637", 
+          "woe:state=20069995", 
+          "woe:state=55967364"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 12.765, 
         "ne:FIPS_1": "UV21", 
@@ -500,7 +512,6 @@
         ], 
         "name": "Komondjari", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424978, 
         "ne_longitude": 1.304654575448353, 
         "longitude": 0.77, 
         "iso": "BF", 

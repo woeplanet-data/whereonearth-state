@@ -309,17 +309,28 @@
       "properties": {
         "ne:ProvNumber": 5, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2346384", 
+          "woe:country=23424909", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 52.83873891836646, 
         "ne:Shape_Area": 0.317572300598, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "19860101", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
-        "ne:OBJECTID": 902, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 5.095160082371933, 
+        "adjacent": [
+          "woe:state=2346374", 
+          "woe:state=2346375", 
+          "woe:state=2346379", 
+          "woe:state=2346380"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.547, 
         "ne:FIPS_1": "NL16", 
@@ -330,8 +341,8 @@
         "alias_DUT_A": [
           "FL"
         ], 
-        "ne:VALIDFR_1": "19860101", 
-        "ne:DataRank": 8, 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 902, 
         "ne:Postal": "FL", 
         "alias_DUT_V": [
           "Flevoland Provincie"
@@ -350,7 +361,7 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 2396.7, 
         "woe:id": "2346384", 
-        "ne:HASC_1": "NL.FL", 
+        "name": "Flevoland", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2346374, 
@@ -358,9 +369,8 @@
           2346379, 
           2346380
         ], 
-        "name": "Flevoland", 
+        "ne:HASC_1": "NL.FL", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424909, 
         "ne_longitude": 6.019767287230593, 
         "longitude": 5.539, 
         "ne:VertexCou": 95.0, 

@@ -32,36 +32,51 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347256, 
-        "name": "Tunis", 
         "adjacent_woeid": [
           2347244, 
           2347247, 
           2347248
         ], 
         "ne_latitude": 36.878, 
+        "name": "Tunis", 
+        "adjacent": [
+          "woe:state=2347247", 
+          "woe:state=2347248", 
+          "woe:state=2347244"
+        ], 
+        "hierarchy": [
+          "woe:state=2347256", 
+          "woe:country=23424967", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347256, 
         "alias_JPN_Q": [
           "\u30c1\u30e5\u30cb\u30b9"
         ], 
-        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 10.436, 
         "longitude": 10.215, 
         "alias_CHI_Q": [
           "\u7a81\u5c3c\u65af"
         ], 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "TN", 
-        "date_indexed": "2010-12-02T18:18:54Z", 
+        "sw_latitude": 36.643, 
         "alias_KOR_Q": [
           "\ud280\ub2c8\uc2a4"
         ], 
-        "parent_woeid": 23424967, 
-        "latitude": 36.760, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 36.76, 
         "sw_longitude": 9.995, 
         "fullname": "Tunis, Tunisia", 
-        "sw_latitude": 36.643
+        "date_indexed": "2010-12-02T18:18:54Z"
       }, 
       "id": 2347256
     }
+  ], 
+  "bbox": [
+    9.995, 
+    36.643, 
+    10.436, 
+    36.878
   ]
 }

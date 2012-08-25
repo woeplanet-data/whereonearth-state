@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070371, 
-        "alias_ENG_S": [
-          "Dedoprlistsqaros Raioni"
-        ], 
-        "name": "Dedop\u00b4listsqaros Raioni", 
         "adjacent_woeid": [
           20070229, 
           20070248, 
@@ -44,20 +39,42 @@
           20070269, 
           20070373
         ], 
+        "alias_ENG_S": [
+          "Dedoprlistsqaros Raioni"
+        ], 
+        "name": "Dedop\u00b4listsqaros Raioni", 
         "ne_latitude": 41.603, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=20070371", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070371, 
         "ne_longitude": 46.721, 
         "longitude": 46.244, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "sw_latitude": 41.039, 
+        "adjacent": [
+          "woe:state=20070373", 
+          "woe:state=20070229", 
+          "woe:state=20070269", 
+          "woe:state=20070248", 
+          "woe:state=20070254"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 41.321, 
         "sw_longitude": 45.767, 
         "fullname": "Dedop\u00b4listsqaros Raioni, Georgia", 
-        "sw_latitude": 41.039
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070371
     }
+  ], 
+  "bbox": [
+    45.767, 
+    41.039, 
+    46.721, 
+    41.603
   ]
 }

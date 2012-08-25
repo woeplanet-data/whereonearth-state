@@ -15,11 +15,11 @@
               29.443
             ], 
             [
-              31.230, 
+              31.23, 
               29.443
             ], 
             [
-              31.230, 
+              31.23, 
               28.718
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345240, 
-        "name": "Bani Suwayf", 
         "adjacent_woeid": [
           2345224, 
           2345226, 
@@ -42,23 +40,43 @@
           56120897, 
           56120898
         ], 
-        "ne_latitude": 29.443, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bani Suwayf", 
         "alias_ENG_V": [
           "Beni Suef Governorate"
         ], 
-        "ne_longitude": 31.230, 
-        "longitude": 30.730, 
-        "placetype": "State", 
-        "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
-        "parent_woeid": 23424802, 
+        "hierarchy": [
+          "woe:state=2345240", 
+          "woe:country=23424802", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345240, 
+        "ne_longitude": 31.23, 
+        "longitude": 30.73, 
+        "placetype": "state", 
         "latitude": 29.081, 
+        "iso": "EG", 
+        "sw_latitude": 28.718, 
+        "adjacent": [
+          "woe:state=2345224", 
+          "woe:state=2345226", 
+          "woe:state=2345232", 
+          "woe:state=2345237", 
+          "woe:state=56120897", 
+          "woe:state=56120898"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 29.443, 
         "sw_longitude": 30.229, 
         "fullname": "Bani Suwayf, Egypt", 
-        "sw_latitude": 28.718
+        "date_indexed": "2010-12-02T12:16:45Z"
       }, 
       "id": 2345240
     }
+  ], 
+  "bbox": [
+    30.229, 
+    28.718, 
+    31.23, 
+    29.443
   ]
 }

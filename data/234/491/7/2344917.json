@@ -2235,11 +2235,16 @@
         "alias_KOR_Q": [
           "\ub9e4\ub2c8\ud1a0\ubc14"
         ], 
+        "hierarchy": [
+          "woe:state=2344917", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 60.00005890539421, 
         "ne:Shape_Area": 91.5536409658, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19120515", 
         "alias_ENG_A": [
           "MB"
         ], 
@@ -2249,13 +2254,21 @@
         "alias_CHI_Q": [
           "\u9a6c\u5c3c\u6258\u5df4\u7701"
         ], 
-        "ne:OBJECTID": 630, 
+        "ne:DataRank": 2, 
         "alias_JPN_Q": [
           "\u30de\u30cb\u30c8\u30d0"
         ], 
         "ne:Abbrev": "Man.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -102.0015978670479, 
+        "adjacent": [
+          "woe:state=2347582", 
+          "woe:state=2347593", 
+          "woe:state=2344920", 
+          "woe:state=20069920", 
+          "woe:state=2344922", 
+          "woe:state=2344925"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 54.5, 
         "ne:FIPS_1": "CA03", 
@@ -2263,9 +2276,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 48.99305634187675, 
-        "ne:VertexCou": 553.0, 
-        "ne:VALIDFR_1": "19120515", 
-        "ne:DataRank": 2, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 630, 
         "ne:Postal": "MB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2281,8 +2294,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 652596.7, 
         "woe:id": "2344917", 
-        "ne:HASC_1": "CA.MB", 
-        "lang": "ENG", 
+        "name": "Manitoba", 
+        "ne:VertexCou": 553.0, 
         "adjacent_woeid": [
           2344920, 
           2344922, 
@@ -2291,9 +2304,8 @@
           2347593, 
           20069920
         ], 
-        "name": "Manitoba", 
+        "ne:HASC_1": "CA.MB", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424775, 
         "ne_longitude": -88.94673580561289, 
         "longitude": -95.494, 
         "iso": "CA", 

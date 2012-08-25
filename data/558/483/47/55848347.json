@@ -165,9 +165,14 @@
       "properties": {
         "ne:ProvNumber": 13, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848347", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.64978852032402, 
         "ne:Shape_Area": 0.0112897434276, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 2.0, 
@@ -176,6 +181,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 14.91932742721906, 
+        "adjacent": [
+          "woe:state=2344709", 
+          "woe:state=55848378", 
+          "woe:state=55848380", 
+          "woe:state=55848387", 
+          "woe:state=2344713"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.591, 
         "ne:FIPS_1": "SI25", 
@@ -212,7 +224,6 @@
         ], 
         "name": "Dravograd", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 15.125774773586954, 
         "longitude": 15.024, 
         "iso": "SI", 

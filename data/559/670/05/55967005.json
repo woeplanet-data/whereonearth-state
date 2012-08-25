@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 55967005, 
-        "name": "Vall\u00e9e du Bandama", 
         "adjacent_woeid": [
           55966997, 
           55966998, 
@@ -42,14 +40,28 @@
           55967006, 
           55967007
         ], 
-        "ne_latitude": 9.398, 
+        "name": "Vall\u00e9e du Bandama", 
+        "hierarchy": [
+          "woe:state=55967005", 
+          "woe:country=23424854", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55967005, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -3.903, 
         "longitude": -4.847, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "CI", 
         "date_indexed": "2010-12-02T09:35:13Z", 
-        "parent_woeid": 23424854, 
+        "adjacent": [
+          "woe:state=55966997", 
+          "woe:state=55966998", 
+          "woe:state=55967001", 
+          "woe:state=55967002", 
+          "woe:state=55967006", 
+          "woe:state=55967007"
+        ], 
+        "ne_latitude": 9.398, 
         "latitude": 8.317, 
         "sw_longitude": -5.792, 
         "fullname": "Vall\u00e9e du Bandama, Ivory Coast", 
@@ -60,5 +72,11 @@
       }, 
       "id": 55967005
     }
+  ], 
+  "bbox": [
+    -5.792, 
+    7.236, 
+    -3.903, 
+    9.398
   ]
 }

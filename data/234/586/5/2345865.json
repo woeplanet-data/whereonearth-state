@@ -1383,20 +1383,30 @@
         "alias_ENG_P": [
           "Iwate Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345865", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.451122952162564, 
         "ne:Shape_Area": 1.62249485377, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1865, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5ca9\u624b"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 140.65811242045186, 
+        "adjacent": [
+          "woe:state=2345873", 
+          "woe:state=2345852", 
+          "woe:state=2345853"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.599, 
         "ne:FIPS_1": "JA16", 
@@ -1404,9 +1414,9 @@
         "ne:FIRST_HASC": "JP.TT", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 38.75378469520757, 
-        "ne:VertexCou": 340.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1865, 
         "ne:Postal": "IW", 
         "ne:Region_Cod": "JPN-THO", 
         "ne:VARNAME_1": null, 
@@ -1422,16 +1432,15 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 15473.3, 
         "woe:id": "2345865", 
-        "ne:HASC_1": "JP.IW", 
-        "lang": "JPN", 
+        "name": "\u5ca9\u624b\u770c", 
+        "ne:VertexCou": 340.0, 
         "adjacent_woeid": [
           2345852, 
           2345853, 
           2345873
         ], 
-        "name": "\u5ca9\u624b\u770c", 
+        "ne:HASC_1": "JP.IW", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 142.0706360212355, 
         "longitude": 141.363, 
         "iso": "JP", 

@@ -31,44 +31,60 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FIN", 
-        "woeid": 29389249, 
         "alias_SWE_V": [
           "Egentliga Tavastland"
         ], 
-        "name": "Kanta-H\u00e4meen maakunta", 
+        "alias_SWE_Q": [
+          "Egentliga Tavastlands landskap"
+        ], 
         "alias_ENG_P": [
           "Tavastia Proper"
         ], 
+        "hierarchy": [
+          "woe:state=29389249", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 61.324, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 25.269, 
-        "longitude": 24.203, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "woeid": 29389249, 
         "alias_FIN_S": [
           "Kanta-Hameen maakuntaa"
         ], 
-        "iso": "FI", 
-        "date_indexed": "2010-12-02T16:39:41Z", 
+        "sw_longitude": 23.136, 
         "alias_FIN_V": [
           "Kanta-H\u00e4meen maakuntana"
         ], 
-        "parent_woeid": 23424812, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 60.938, 
-        "sw_longitude": 23.136, 
-        "fullname": "Kanta-H\u00e4meen maakunta, Southern Finland, Tavastia Proper, Finland", 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "adjacent": [
+          "woe:state=29389248", 
+          "woe:state=29389255", 
+          "woe:state=29389247", 
+          "woe:state=29389250"
+        ], 
+        "lang": "FIN", 
         "adjacent_woeid": [
           29389255, 
           29389250, 
           29389248, 
           29389247
         ], 
+        "name": "Kanta-H\u00e4meen maakunta", 
+        "ne_longitude": 25.269, 
+        "longitude": 24.203, 
+        "iso": "FI", 
         "sw_latitude": 60.552, 
-        "alias_SWE_Q": [
-          "Egentliga Tavastlands landskap"
-        ]
+        "fullname": "Kanta-H\u00e4meen maakunta, Southern Finland, Tavastia Proper, Finland"
       }, 
       "id": 29389249
     }
+  ], 
+  "bbox": [
+    23.136, 
+    60.552, 
+    25.269, 
+    61.324
   ]
 }

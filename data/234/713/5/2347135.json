@@ -15,11 +15,11 @@
               17.869
             ], 
             [
-              99.490, 
+              99.49, 
               17.869
             ], 
             [
-              99.490, 
+              99.49, 
               15.181
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347135, 
-        "name": "Tak", 
         "adjacent_woeid": [
           2344814, 
           2347128, 
@@ -46,23 +44,47 @@
           2347143, 
           2347174
         ], 
-        "ne_latitude": 17.869, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tak", 
         "alias_ENG_V": [
           "Changwat Tak"
         ], 
-        "ne_longitude": 99.490, 
+        "hierarchy": [
+          "woe:state=2347135", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347135, 
+        "ne_longitude": 99.49, 
         "longitude": 98.616, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 16.525, 
+        "iso": "TH", 
+        "sw_latitude": 15.181, 
+        "adjacent": [
+          "woe:state=2347129", 
+          "woe:state=2347138", 
+          "woe:state=2347174", 
+          "woe:state=2344814", 
+          "woe:state=2347133", 
+          "woe:state=2347132", 
+          "woe:state=2347128", 
+          "woe:state=2347143", 
+          "woe:state=2347136", 
+          "woe:state=2347142"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.869, 
         "sw_longitude": 97.742, 
         "fullname": "Tak, Thailand", 
-        "sw_latitude": 15.181
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347135
     }
+  ], 
+  "bbox": [
+    97.742, 
+    15.181, 
+    99.49, 
+    17.869
   ]
 }

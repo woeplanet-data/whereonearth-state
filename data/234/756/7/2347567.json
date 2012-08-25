@@ -58,11 +58,16 @@
         "alias_ENG_A": [
           "DC"
         ], 
+        "hierarchy": [
+          "woe:state=2347567", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 38.996135579393524, 
         "ne:Shape_Area": 0.0155635988728, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18460709", 
         "alias_POR_Q": [
           "Distrito de Columbia"
         ], 
@@ -79,7 +84,7 @@
         "alias_ITA_Q": [
           "Distretto di Columbia"
         ], 
-        "ne:OBJECTID": 3556, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30b3\u30ed\u30f3\u30d3\u30a2\u7279\u5225\u533a"
         ], 
@@ -92,6 +97,10 @@
           "Columbian Piirikunta"
         ], 
         "sw_longitude": -77.11325077520308, 
+        "adjacent": [
+          "woe:state=2347579", 
+          "woe:state=2347605"
+        ], 
         "alias_SPA_V": [
           "Distro de Columbia"
         ], 
@@ -101,33 +110,32 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Federal District", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "ne:VertexCou": 11.0, 
-        "ne:VALIDFR_1": "18460709", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3556, 
         "ne:Postal": "DC", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "DC|D.C.", 
         "ne:ISO": "USA", 
-        "ne:TYPE_1": "Federal District", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 0.584375176787, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "United States of America", 
         "ne:NAME_1": "District of Columbia", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Federal District", 
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 145.4, 
         "woe:id": "2347567", 
-        "ne:HASC_1": "US.DC", 
-        "lang": "ENG", 
+        "name": "District of Columbia", 
+        "ne:VertexCou": 11.0, 
         "adjacent_woeid": [
           2347579, 
           2347605
         ], 
-        "name": "District of Columbia", 
+        "ne:HASC_1": "US.DC", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "provider": "geoplanet 7.6.0", 
         "longitude": -77.015, 
         "ne_longitude": -76.90931454193253, 

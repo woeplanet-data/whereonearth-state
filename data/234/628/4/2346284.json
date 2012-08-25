@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -99.070, 
+              -99.07, 
               17.862
             ], 
             [
-              -99.070, 
+              -99.07, 
               20.839
             ], 
             [
@@ -23,7 +23,7 @@
               17.862
             ], 
             [
-              -99.070, 
+              -99.07, 
               17.862
             ]
           ]
@@ -31,12 +31,43 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "SPA", 
-        "ne_latitude": 20.839, 
         "alias_KOR_Q": [
           "\ud478\uc5d0\ube14\ub77c"
         ], 
-        "name": "Puebla", 
+        "hierarchy": [
+          "woe:state=2346284", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 20.839, 
+        "placetype": "state", 
+        "alias_ENG_A": [
+          "PU"
+        ], 
+        "alias_CHI_Q": [
+          "\u666e\u57c3\u5e03\u62c9"
+        ], 
+        "woeid": 2346284, 
+        "alias_JPN_Q": [
+          "\u30d7\u30a8\u30d6\u30e9"
+        ], 
+        "sw_longitude": -99.07, 
+        "adjacent": [
+          "woe:state=2346275", 
+          "woe:state=2346276", 
+          "woe:state=2346278", 
+          "woe:state=2346280", 
+          "woe:state=2346283", 
+          "woe:state=2346292", 
+          "woe:state=2346293"
+        ], 
+        "alias_SPA_V": [
+          "Estado de Puebla"
+        ], 
+        "latitude": 19.351, 
+        "sw_latitude": 17.862, 
+        "provider": "geoplanet 7.6.0", 
+        "lang": "SPA", 
         "adjacent_woeid": [
           2346275, 
           2346276, 
@@ -46,32 +77,20 @@
           2346292, 
           2346293
         ], 
-        "woeid": 2346284, 
-        "alias_JPN_Q": [
-          "\u30d7\u30a8\u30d6\u30e9"
-        ], 
-        "alias_SPA_V": [
-          "Estado de Puebla"
-        ], 
+        "name": "Puebla", 
         "ne_longitude": -96.725, 
-        "longitude": -97.420, 
-        "parent_woeid": 23424900, 
-        "placetype": "State", 
-        "alias_CHI_Q": [
-          "\u666e\u57c3\u5e03\u62c9"
-        ], 
+        "longitude": -97.42, 
         "iso": "MX", 
         "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "PU"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 19.351, 
-        "sw_longitude": -99.070, 
-        "fullname": "Puebla, Mexico", 
-        "sw_latitude": 17.862
+        "fullname": "Puebla, Mexico"
       }, 
       "id": 2346284
     }
+  ], 
+  "bbox": [
+    -99.07, 
+    17.862, 
+    -96.725, 
+    20.839
   ]
 }

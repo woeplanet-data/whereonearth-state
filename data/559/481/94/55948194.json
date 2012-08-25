@@ -257,9 +257,14 @@
       "properties": {
         "ne:ProvNumber": 16, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55948194", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.25091461871472, 
         "ne:Shape_Area": 0.0988857845659, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -268,6 +273,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 27.96917687351396, 
+        "adjacent": [
+          "woe:state=55948181", 
+          "woe:state=55948191", 
+          "woe:state=2346637", 
+          "woe:state=55948202", 
+          "woe:state=20069874"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.083, 
         "ne:FIPS_1": "MD80", 
@@ -304,7 +316,6 @@
         ], 
         "name": "Nisporeni", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424885, 
         "ne_longitude": 28.50459638891226, 
         "longitude": 28.137, 
         "iso": "MD", 

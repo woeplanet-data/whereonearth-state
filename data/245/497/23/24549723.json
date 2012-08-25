@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549723, 
-        "name": "Mangilao", 
         "adjacent_woeid": [
           24549719, 
           24549720, 
@@ -41,14 +39,27 @@
           24549724, 
           24549725
         ], 
-        "ne_latitude": 13.499, 
+        "name": "Mangilao", 
+        "hierarchy": [
+          "woe:state=24549723", 
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549723, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.872, 
         "longitude": 144.787, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "parent_woeid": 23424832, 
+        "adjacent": [
+          "woe:state=24549722", 
+          "woe:state=24549719", 
+          "woe:state=24549724", 
+          "woe:state=24549720", 
+          "woe:state=24549725"
+        ], 
+        "ne_latitude": 13.499, 
         "latitude": 13.446, 
         "sw_longitude": 144.777, 
         "fullname": "Mangilao, Guam", 
@@ -56,5 +67,11 @@
       }, 
       "id": 24549723
     }
+  ], 
+  "bbox": [
+    144.777, 
+    13.422, 
+    144.872, 
+    13.499
   ]
 }

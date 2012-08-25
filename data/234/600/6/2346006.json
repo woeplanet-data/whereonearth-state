@@ -12,11 +12,11 @@
             ], 
             [
               101.547, 
-              22.500
+              22.5
             ], 
             [
               102.994, 
-              22.500
+              22.5
             ], 
             [
               102.994, 
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346006, 
-        "name": "Phongsali", 
         "adjacent_woeid": [
           2346004, 
           2346005, 
           12578018, 
           28301718
         ], 
-        "ne_latitude": 22.500, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Phongsali", 
+        "hierarchy": [
+          "woe:state=2346006", 
+          "woe:country=23424872", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346006, 
         "ne_longitude": 102.994, 
-        "longitude": 102.270, 
-        "placetype": "State", 
-        "iso": "LA", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
-        "parent_woeid": 23424872, 
+        "longitude": 102.27, 
+        "placetype": "state", 
         "latitude": 21.675, 
+        "iso": "LA", 
+        "sw_latitude": 20.849, 
+        "adjacent": [
+          "woe:state=28301718", 
+          "woe:state=2346004", 
+          "woe:state=2346005", 
+          "woe:state=12578018"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 22.5, 
         "sw_longitude": 101.547, 
         "fullname": "Phongsali, Laos", 
-        "sw_latitude": 20.849
+        "date_indexed": "2010-12-02T16:42:51Z"
       }, 
       "id": 2346006
     }
+  ], 
+  "bbox": [
+    101.547, 
+    20.849, 
+    102.994, 
+    22.5
   ]
 }

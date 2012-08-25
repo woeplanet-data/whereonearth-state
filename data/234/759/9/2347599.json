@@ -34,16 +34,21 @@
         "alias_ENG_V": [
           "The Palmetto State"
         ], 
-        "alias_KOR_Q": [
-          "\uc0ac\uc6b0\uc2a4\uce90\ub864\ub9ac\ub098"
+        "alias_ENG_A": [
+          "SC"
+        ], 
+        "hierarchy": [
+          "woe:state=2347599", 
+          "woe:country=23424977", 
+          "woe:planet=1"
         ], 
         "ne_latitude": 35.216, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Carolina do Sul"
         ], 
-        "alias_ENG_A": [
-          "SC"
+        "alias_KOR_Q": [
+          "\uc0ac\uc6b0\uc2a4\uce90\ub864\ub9ac\ub098"
         ], 
         "alias_CHI_Q": [
           "\u5357\u5361\u7f57\u6765\u7eb3"
@@ -59,6 +64,10 @@
           "Carolina del Sur"
         ], 
         "sw_longitude": -83.354, 
+        "adjacent": [
+          "woe:state=2347569", 
+          "woe:state=2347592"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 33.626, 
         "alias_NOR_S": [
@@ -83,7 +92,6 @@
           2347592
         ], 
         "name": "South Carolina", 
-        "parent_woeid": 23424977, 
         "ne_longitude": -78.541, 
         "longitude": -80.947, 
         "iso": "US", 
@@ -95,5 +103,11 @@
       }, 
       "id": 2347599
     }
+  ], 
+  "bbox": [
+    -83.354, 
+    32.037, 
+    -78.541, 
+    35.216
   ]
 }

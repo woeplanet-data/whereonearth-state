@@ -1069,20 +1069,32 @@
         "alias_ENG_P": [
           "Hyogo Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345862", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.65792715141697, 
         "ne:Shape_Area": 0.819734151676, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1849, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5175\u5eab"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 134.25679772333638, 
+        "adjacent": [
+          "woe:state=2345871", 
+          "woe:state=2345881", 
+          "woe:state=2345880", 
+          "woe:state=2345888", 
+          "woe:state=2345890"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.149, 
         "ne:FIPS_1": "JA13", 
@@ -1090,9 +1102,9 @@
         "ne:FIRST_HASC": "JP.KM", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 34.19496735256132, 
-        "ne:VertexCou": 259.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1849, 
         "ne:Postal": "HG", 
         "ne:Region_Cod": "JPN-KIN", 
         "ne:VARNAME_1": "Hiogo", 
@@ -1108,8 +1120,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 8298.3, 
         "woe:id": "2345862", 
-        "ne:HASC_1": "JP.HG", 
-        "lang": "JPN", 
+        "name": "\u5175\u5eab\u770c", 
+        "ne:VertexCou": 259.0, 
         "adjacent_woeid": [
           2345871, 
           2345880, 
@@ -1117,9 +1129,8 @@
           2345888, 
           2345890
         ], 
-        "name": "\u5175\u5eab\u770c", 
+        "ne:HASC_1": "JP.HG", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 135.44850792859813, 
         "longitude": 134.861, 
         "iso": "JP", 

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -66.770, 
+              -66.77, 
               17.965
             ], 
             [
-              -66.770, 
+              -66.77, 
               18.135
             ], 
             [
@@ -23,7 +23,7 @@
               17.965
             ], 
             [
-              -66.770, 
+              -66.77, 
               17.965
             ]
           ]
@@ -32,12 +32,16 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.135, 
-        "name": "Pe\u00f1uelas", 
         "adjacent_woeid": [
           2346789, 
           2346833, 
           2346835
+        ], 
+        "name": "Pe\u00f1uelas", 
+        "hierarchy": [
+          "woe:state=2346834", 
+          "woe:country=23424935", 
+          "woe:planet=1"
         ], 
         "woeid": 2346834, 
         "alias_SPA_V": [
@@ -45,20 +49,31 @@
         ], 
         "ne_longitude": -66.677, 
         "longitude": -66.723, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 18.056, 
         "alias_SPA_S": [
           "Penyuelas Municipios"
         ], 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
+        "sw_longitude": -66.77, 
+        "sw_latitude": 17.965, 
+        "adjacent": [
+          "woe:state=2346789", 
+          "woe:state=2346835", 
+          "woe:state=2346833"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 18.056, 
-        "sw_longitude": -66.770, 
+        "ne_latitude": 18.135, 
+        "iso": "PR", 
         "fullname": "Pe\u00f1uelas, Puerto Rico", 
-        "sw_latitude": 17.965
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346834
     }
+  ], 
+  "bbox": [
+    -66.77, 
+    17.965, 
+    -66.677, 
+    18.135
   ]
 }

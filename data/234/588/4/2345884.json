@@ -491,20 +491,31 @@
         "alias_ENG_P": [
           "Shiga Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345884", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.67500621146752, 
         "ne:Shape_Area": 0.396789821425, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1853, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u6ecb\u8cc0"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 135.74285688683597, 
+        "adjacent": [
+          "woe:state=2345872", 
+          "woe:state=2345871", 
+          "woe:state=2345859", 
+          "woe:state=2345856"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.247, 
         "ne:FIPS_1": "JA35", 
@@ -512,9 +523,9 @@
         "ne:FIRST_HASC": "JP.GM", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 34.77369171829821, 
-        "ne:VertexCou": 117.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1853, 
         "ne:Postal": "SH", 
         "ne:Region_Cod": "JPN-KIN", 
         "ne:VARNAME_1": "Siga", 
@@ -530,17 +541,16 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 4008.7, 
         "woe:id": "2345884", 
-        "ne:HASC_1": "JP.SH", 
-        "lang": "JPN", 
+        "name": "\u6ecb\u8cc0\u770c", 
+        "ne:VertexCou": 117.0, 
         "adjacent_woeid": [
           2345856, 
           2345859, 
           2345871, 
           2345872
         ], 
-        "name": "\u6ecb\u8cc0\u770c", 
+        "ne:HASC_1": "JP.SH", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 136.4431758974498, 
         "longitude": 136.109, 
         "iso": "JP", 

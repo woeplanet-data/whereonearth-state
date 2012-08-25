@@ -12,11 +12,11 @@
             ], 
             [
               7.738, 
-              34.160
+              34.16
             ], 
             [
               10.188, 
-              34.160
+              34.16
             ], 
             [
               10.188, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347251, 
-        "name": "Qibili", 
         "adjacent_woeid": [
           2344613, 
           2347238, 
@@ -42,20 +40,40 @@
           2347254, 
           2347255
         ], 
-        "ne_latitude": 34.160, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Qibili", 
+        "hierarchy": [
+          "woe:state=2347251", 
+          "woe:country=23424967", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347251, 
         "ne_longitude": 10.188, 
         "longitude": 8.963, 
-        "placetype": "State", 
-        "iso": "TN", 
-        "date_indexed": "2010-12-02T18:18:54Z", 
-        "parent_woeid": 23424967, 
+        "placetype": "state", 
         "latitude": 33.338, 
+        "iso": "TN", 
+        "sw_latitude": 32.516, 
+        "adjacent": [
+          "woe:state=2344613", 
+          "woe:state=2347249", 
+          "woe:state=2347250", 
+          "woe:state=2347238", 
+          "woe:state=2347254", 
+          "woe:state=2347255"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.16, 
         "sw_longitude": 7.738, 
         "fullname": "Qibili, Tunisia", 
-        "sw_latitude": 32.516
+        "date_indexed": "2010-12-02T18:18:54Z"
       }, 
       "id": 2347251
     }
+  ], 
+  "bbox": [
+    7.738, 
+    32.516, 
+    10.188, 
+    34.16
   ]
 }

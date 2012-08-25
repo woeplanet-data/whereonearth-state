@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070398, 
-        "name": "Tsalenjikhis Raioni", 
         "adjacent_woeid": [
           20070394, 
           20070397, 
           20070401, 
           20070410
         ], 
-        "ne_latitude": 42.875, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tsalenjikhis Raioni", 
+        "hierarchy": [
+          "woe:state=20070398", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070398, 
         "ne_longitude": 42.322, 
         "longitude": 42.169, 
-        "placetype": "State", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "placetype": "state", 
         "latitude": 42.725, 
+        "iso": "GE", 
+        "sw_latitude": 42.575, 
+        "adjacent": [
+          "woe:state=20070401", 
+          "woe:state=20070397", 
+          "woe:state=20070394", 
+          "woe:state=20070410"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.875, 
         "sw_longitude": 42.016, 
         "fullname": "Tsalenjikhis Raioni, Georgia", 
-        "sw_latitude": 42.575
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070398
     }
+  ], 
+  "bbox": [
+    42.016, 
+    42.575, 
+    42.322, 
+    42.875
   ]
 }

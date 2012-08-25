@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848391, 
-        "name": "Tolmin", 
         "adjacent_woeid": [
           7153335, 
           55848351, 
@@ -42,14 +40,28 @@
           55848379, 
           55848386
         ], 
-        "ne_latitude": 46.446, 
+        "name": "Tolmin", 
+        "hierarchy": [
+          "woe:state=55848391", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848391, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.009, 
         "longitude": 13.692, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=7153335", 
+          "woe:state=55848351", 
+          "woe:state=55848354", 
+          "woe:state=55848371", 
+          "woe:state=55848379", 
+          "woe:state=55848386"
+        ], 
+        "ne_latitude": 46.446, 
         "latitude": 46.226, 
         "sw_longitude": 13.375, 
         "fullname": "Tolmin, Slovenia", 
@@ -57,5 +69,11 @@
       }, 
       "id": 55848391
     }
+  ], 
+  "bbox": [
+    13.375, 
+    46.005, 
+    14.009, 
+    46.446
   ]
 }

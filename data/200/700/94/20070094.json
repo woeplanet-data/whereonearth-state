@@ -32,28 +32,41 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070094, 
-        "name": "Keb", 
         "adjacent_woeid": [
           2344932
         ], 
-        "ne_latitude": 10.602, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Keb", 
         "alias_ENG_V": [
           "Krong Keb"
         ], 
+        "hierarchy": [
+          "woe:state=20070094", 
+          "woe:country=23424776", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070094, 
         "ne_longitude": 104.426, 
         "longitude": 104.347, 
-        "placetype": "State", 
-        "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
-        "parent_woeid": 23424776, 
+        "placetype": "state", 
         "latitude": 10.525, 
+        "iso": "KH", 
+        "sw_latitude": 10.447, 
+        "adjacent": [
+          "woe:state=2344932"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 10.602, 
         "sw_longitude": 104.267, 
         "fullname": "Keb, Cambodia", 
-        "sw_latitude": 10.447
+        "date_indexed": "2010-12-02T16:11:17Z"
       }, 
       "id": 20070094
     }
+  ], 
+  "bbox": [
+    104.267, 
+    10.447, 
+    104.426, 
+    10.602
   ]
 }

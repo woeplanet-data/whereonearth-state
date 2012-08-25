@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344940, 
-        "alias_ENG_S": [
-          "Rotanokiri"
-        ], 
-        "name": "Ratanah Kiri", 
         "adjacent_woeid": [
           2344936, 
           2344942, 
@@ -45,23 +40,46 @@
           20070076, 
           20070159
         ], 
-        "ne_latitude": 14.686, 
-        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_S": [
+          "Rotanokiri"
+        ], 
+        "name": "Ratanah Kiri", 
         "alias_ENG_V": [
           "R\u00f4t\u00e2n\u00f4kiri"
         ], 
+        "hierarchy": [
+          "woe:state=2344940", 
+          "woe:country=23424776", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344940, 
         "ne_longitude": 107.628, 
         "longitude": 107.058, 
-        "placetype": "State", 
+        "ne_latitude": 14.686, 
+        "placetype": "state", 
         "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
-        "parent_woeid": 23424776, 
+        "sw_latitude": 13.146, 
+        "adjacent": [
+          "woe:state=20070159", 
+          "woe:state=2347720", 
+          "woe:state=2347733", 
+          "woe:state=20070076", 
+          "woe:state=2344936", 
+          "woe:state=2344942"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 13.916, 
         "sw_longitude": 106.489, 
         "fullname": "Ratanah Kiri, Cambodia", 
-        "sw_latitude": 13.146
+        "date_indexed": "2010-12-02T16:11:17Z"
       }, 
       "id": 2344940
     }
+  ], 
+  "bbox": [
+    106.489, 
+    13.146, 
+    107.628, 
+    14.686
   ]
 }

@@ -32,13 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 27.042, 
-        "name": "Sinaloa", 
         "adjacent_woeid": [
           2346269, 
           2346273, 
           2346281, 
           2346289
+        ], 
+        "alias_ENG_A": [
+          "SI"
+        ], 
+        "name": "Sinaloa", 
+        "hierarchy": [
+          "woe:state=2346288", 
+          "woe:country=23424900", 
+          "woe:planet=1"
         ], 
         "woeid": 2346288, 
         "alias_SPA_V": [
@@ -46,20 +53,29 @@
         ], 
         "ne_longitude": -105.393, 
         "longitude": -107.421, 
-        "parent_woeid": 23424900, 
-        "placetype": "State", 
-        "iso": "MX", 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "SI"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 24.754, 
         "sw_longitude": -109.449, 
+        "sw_latitude": 22.466, 
+        "adjacent": [
+          "woe:state=2346269", 
+          "woe:state=2346273", 
+          "woe:state=2346281", 
+          "woe:state=2346289"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 27.042, 
+        "iso": "MX", 
         "fullname": "Sinaloa, Mexico", 
-        "sw_latitude": 22.466
+        "date_indexed": "2010-12-02T16:55:36Z"
       }, 
       "id": 2346288
     }
+  ], 
+  "bbox": [
+    -109.449, 
+    22.466, 
+    -105.393, 
+    27.042
   ]
 }

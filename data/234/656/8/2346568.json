@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2346568, 
-        "name": "Evora", 
         "adjacent_woeid": [
           2346563, 
           2346574, 
@@ -41,20 +39,39 @@
           2346577, 
           12578035
         ], 
-        "ne_latitude": 39.026, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Evora", 
+        "hierarchy": [
+          "woe:state=2346568", 
+          "woe:country=23424925", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346568, 
         "ne_longitude": -7.107, 
         "longitude": -7.883, 
-        "placetype": "State", 
-        "iso": "PT", 
-        "date_indexed": "2010-12-02T09:58:14Z", 
-        "parent_woeid": 23424925, 
+        "placetype": "state", 
         "latitude": 38.597, 
+        "iso": "PT", 
+        "sw_latitude": 38.167, 
+        "adjacent": [
+          "woe:state=2346563", 
+          "woe:state=12578035", 
+          "woe:state=2346574", 
+          "woe:state=2346576", 
+          "woe:state=2346577"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.026, 
         "sw_longitude": -8.658, 
         "fullname": "Evora, Portugal", 
-        "sw_latitude": 38.167
+        "date_indexed": "2010-12-02T09:58:14Z"
       }, 
       "id": 2346568
     }
+  ], 
+  "bbox": [
+    -8.658, 
+    38.167, 
+    -7.107, 
+    39.026
   ]
 }

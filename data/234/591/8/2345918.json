@@ -8,7 +8,7 @@
           [
             [
               -77.209, 
-              17.800
+              17.8
             ], 
             [
               -77.209, 
@@ -20,11 +20,11 @@
             ], 
             [
               -76.833, 
-              17.800
+              17.8
             ], 
             [
               -77.209, 
-              17.800
+              17.8
             ]
           ]
         ]
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345918, 
-        "name": "Saint Catherine", 
         "adjacent_woeid": [
           2345912, 
           2345916, 
           2345917, 
           2345921
         ], 
-        "ne_latitude": 18.255, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint Catherine", 
         "alias_ENG_V": [
           "St. Catherine"
         ], 
+        "hierarchy": [
+          "woe:state=2345918", 
+          "woe:country=23424858", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345918, 
         "ne_longitude": -76.833, 
         "longitude": -77.027, 
-        "placetype": "State", 
-        "iso": "JM", 
-        "date_indexed": "2010-12-02T08:58:58Z", 
-        "parent_woeid": 23424858, 
+        "placetype": "state", 
         "latitude": 18.046, 
+        "iso": "JM", 
+        "sw_latitude": 17.8, 
+        "adjacent": [
+          "woe:state=2345912", 
+          "woe:state=2345916", 
+          "woe:state=2345917", 
+          "woe:state=2345921"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.255, 
         "sw_longitude": -77.209, 
         "fullname": "Saint Catherine, Jamaica", 
-        "sw_latitude": 17.800
+        "date_indexed": "2010-12-02T08:58:58Z"
       }, 
       "id": 2345918
     }
+  ], 
+  "bbox": [
+    -77.209, 
+    17.8, 
+    -76.833, 
+    18.255
   ]
 }

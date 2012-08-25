@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070136, 
-        "name": "Mangochi", 
         "adjacent_woeid": [
           20070135, 
           20070137, 
           20070138, 
           56189817
         ], 
-        "ne_latitude": -13.479, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mangochi", 
+        "hierarchy": [
+          "woe:state=20070136", 
+          "woe:country=23424889", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070136, 
         "ne_longitude": 35.771, 
         "longitude": 35.241, 
-        "placetype": "State", 
-        "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
-        "parent_woeid": 23424889, 
+        "placetype": "state", 
         "latitude": -14.136, 
+        "iso": "MW", 
+        "sw_latitude": -14.794, 
+        "adjacent": [
+          "woe:state=56189817", 
+          "woe:state=20070135", 
+          "woe:state=20070138", 
+          "woe:state=20070137"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -13.479, 
         "sw_longitude": 34.712, 
         "fullname": "Mangochi, Malawi", 
-        "sw_latitude": -14.794
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 20070136
     }
+  ], 
+  "bbox": [
+    34.712, 
+    -14.794, 
+    35.771, 
+    -13.479
   ]
 }

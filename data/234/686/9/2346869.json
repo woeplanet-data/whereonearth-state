@@ -12,11 +12,11 @@
             ], 
             [
               45.896, 
-              56.270
+              56.27
             ], 
             [
               48.397, 
-              56.270
+              56.27
             ], 
             [
               48.397, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346869, 
-        "name": "Chuvashiya", 
         "adjacent_woeid": [
           2346875, 
           2346876, 
@@ -41,20 +39,39 @@
           2346895, 
           2346931
         ], 
-        "ne_latitude": 56.270, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chuvashiya", 
+        "hierarchy": [
+          "woe:state=2346869", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346869, 
         "ne_longitude": 48.397, 
         "longitude": 47.146, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 55.423, 
+        "iso": "RU", 
+        "sw_latitude": 54.576, 
+        "adjacent": [
+          "woe:state=2346875", 
+          "woe:state=2346876", 
+          "woe:state=2346895", 
+          "woe:state=2346878", 
+          "woe:state=2346931"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 56.27, 
         "sw_longitude": 45.896, 
         "fullname": "Chuvashiya, Russia", 
-        "sw_latitude": 54.576
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346869
     }
+  ], 
+  "bbox": [
+    45.896, 
+    54.576, 
+    48.397, 
+    56.27
   ]
 }

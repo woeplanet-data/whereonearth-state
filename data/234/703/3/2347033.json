@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347033, 
-        "name": "Praslin", 
         "adjacent_woeid": [
           2347025, 
           2347027, 
           2347030
         ], 
-        "ne_latitude": 13.893, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Praslin", 
+        "hierarchy": [
+          "woe:state=2347033", 
+          "woe:country=23424951", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347033, 
         "ne_longitude": -60.877, 
         "longitude": -60.927, 
-        "placetype": "State", 
-        "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424951, 
+        "placetype": "state", 
         "latitude": 13.857, 
+        "iso": "LC", 
+        "sw_latitude": 13.821, 
+        "adjacent": [
+          "woe:state=2347025", 
+          "woe:state=2347027", 
+          "woe:state=2347030"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.893, 
         "sw_longitude": -60.977, 
         "fullname": "Praslin, St. Lucia", 
-        "sw_latitude": 13.821
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347033
     }
+  ], 
+  "bbox": [
+    -60.977, 
+    13.821, 
+    -60.877, 
+    13.893
   ]
 }

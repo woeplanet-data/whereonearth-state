@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 12577963, 
-        "alias_UNK_V": [
-          "Famagusta"
-        ], 
-        "name": "Famagusta District", 
         "adjacent_woeid": [
           12577964, 
           12577969, 
           12577971
         ], 
+        "name": "Famagusta District", 
         "ne_latitude": 35.702, 
-        "ne_longitude": 34.598, 
+        "hierarchy": [
+          "woe:state=12577963", 
+          "woe:country=26812346", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12577963, 
+        "alias_UNK_V": [
+          "Famagusta"
+        ], 
         "longitude": 34.055, 
-        "parent_woeid": 26812346, 
-        "placetype": "State", 
+        "ne_longitude": 34.598, 
+        "placetype": "state", 
         "iso": "CY", 
-        "date_indexed": "2010-12-02T09:35:19Z", 
+        "sw_latitude": 34.956, 
+        "adjacent": [
+          "woe:state=12577969", 
+          "woe:state=12577964", 
+          "woe:state=12577971"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.329, 
         "sw_longitude": 33.511, 
         "fullname": "Famagusta District, Cyprus", 
-        "sw_latitude": 34.956
+        "date_indexed": "2010-12-02T09:35:19Z"
       }, 
       "id": 12577963
     }
+  ], 
+  "bbox": [
+    33.511, 
+    34.956, 
+    34.598, 
+    35.702
   ]
 }

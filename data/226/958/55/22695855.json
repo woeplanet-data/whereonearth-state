@@ -32,34 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "CHI", 
-        "woeid": 22695855, 
+        "alias_ENG_V": [
+          "Keelung"
+        ], 
         "name": "\u57fa\u9686\u5e02", 
         "alias_CHI_V": [
           "\u57fa\u9686"
         ], 
+        "hierarchy": [
+          "woe:state=22695855", 
+          "woe:country=23424971", 
+          "woe:planet=1"
+        ], 
+        "woeid": 22695855, 
         "alias_ENG_P": [
           "Keelung City"
         ], 
-        "ne_latitude": 25.195, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "Keelung"
-        ], 
         "ne_longitude": 121.808, 
         "longitude": 121.708, 
-        "placetype": "State", 
+        "ne_latitude": 25.195, 
+        "placetype": "state", 
         "adjacent_woeid": [
           20070569
         ], 
         "iso": "TW", 
-        "date_indexed": "2010-12-02T16:15:11Z", 
-        "parent_woeid": 23424971, 
+        "sw_latitude": 25.052, 
+        "adjacent": [
+          "woe:state=20070569"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 25.116, 
         "sw_longitude": 121.627, 
         "fullname": "\u57fa\u9686\u5e02, Taiwan, Keelung City, Taiwan", 
-        "sw_latitude": 25.052
+        "date_indexed": "2010-12-02T16:15:11Z"
       }, 
       "id": 22695855
     }
+  ], 
+  "bbox": [
+    121.627, 
+    25.052, 
+    121.808, 
+    25.195
   ]
 }

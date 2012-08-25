@@ -15,11 +15,11 @@
               18.232
             ], 
             [
-              -63.020, 
+              -63.02, 
               18.232
             ], 
             [
-              -63.020, 
+              -63.02, 
               18.218
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549658, 
-        "name": "The Farrington", 
         "adjacent_woeid": [
           24549652, 
           24549656, 
@@ -41,20 +39,39 @@
           24549659, 
           24549660
         ], 
-        "ne_latitude": 18.232, 
+        "name": "The Farrington", 
+        "hierarchy": [
+          "woe:state=24549658", 
+          "woe:country=23424751", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549658, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -63.020, 
+        "ne_longitude": -63.02, 
         "longitude": -63.028, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AI", 
         "date_indexed": "2010-12-02T17:42:25Z", 
-        "parent_woeid": 23424751, 
-        "latitude": 18.220, 
+        "adjacent": [
+          "woe:state=24549657", 
+          "woe:state=24549652", 
+          "woe:state=24549656", 
+          "woe:state=24549660", 
+          "woe:state=24549659"
+        ], 
+        "ne_latitude": 18.232, 
+        "latitude": 18.22, 
         "sw_longitude": -63.036, 
         "fullname": "The Farrington, Anguilla", 
         "sw_latitude": 18.218
       }, 
       "id": 24549658
     }
+  ], 
+  "bbox": [
+    -63.036, 
+    18.218, 
+    -63.02, 
+    18.232
   ]
 }

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              16.080, 
+              16.08, 
               28.602
             ], 
             [
-              16.080, 
+              16.08, 
               31.265
             ], 
             [
@@ -23,7 +23,7 @@
               28.602
             ], 
             [
-              16.080, 
+              16.08, 
               28.602
             ]
           ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2346143, 
-        "name": "Surt", 
         "adjacent_woeid": [
           2346122, 
           2346130, 
           2346142
         ], 
-        "ne_latitude": 31.265, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Surt", 
+        "hierarchy": [
+          "woe:state=2346143", 
+          "woe:country=23424882", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346143, 
         "ne_longitude": 18.793, 
         "longitude": 17.436, 
-        "placetype": "State", 
-        "iso": "LY", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424882, 
+        "placetype": "state", 
         "latitude": 29.933, 
-        "sw_longitude": 16.080, 
+        "iso": "LY", 
+        "sw_latitude": 28.602, 
+        "adjacent": [
+          "woe:state=2346130", 
+          "woe:state=2346122", 
+          "woe:state=2346142"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.265, 
+        "sw_longitude": 16.08, 
         "fullname": "Surt, Libya", 
-        "sw_latitude": 28.602
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 2346143
     }
+  ], 
+  "bbox": [
+    16.08, 
+    28.602, 
+    18.793, 
+    31.265
   ]
 }

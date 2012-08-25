@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              21.250, 
+              21.25, 
               42.001
             ], 
             [
-              21.250, 
+              21.25, 
               42.127
             ], 
             [
@@ -23,7 +23,7 @@
               42.001
             ], 
             [
-              21.250, 
+              21.25, 
               42.001
             ]
           ]
@@ -32,9 +32,10 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550839, 
-        "alias_UNK_V": [
-          "Opstina Gjor\u010de Petrov"
+        "adjacent_woeid": [
+          24550773, 
+          24550803, 
+          24550830
         ], 
         "name": "Gjor\u010de Petrov", 
         "alias_ENG_P": [
@@ -43,25 +44,40 @@
         "alias_UNK_S": [
           "Opstina Gjorce Petrov"
         ], 
-        "ne_latitude": 42.127, 
-        "ne_longitude": 21.405, 
+        "woeid": 24550839, 
+        "alias_UNK_V": [
+          "Opstina Gjor\u010de Petrov"
+        ], 
         "longitude": 21.327, 
-        "parent_woeid": 482940, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          24550773, 
-          24550803, 
-          24550830
+        "ne_longitude": 21.405, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=24550839", 
+          "woe:town=482940", 
+          "woe:country=23424890", 
+          "woe:planet=1"
         ], 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 42.001, 
+        "adjacent": [
+          "woe:state=24550773", 
+          "woe:state=24550803", 
+          "woe:state=24550830"
+        ], 
         "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.127, 
+        "sw_longitude": 21.25, 
         "latitude": 42.073, 
-        "sw_longitude": 21.250, 
         "fullname": "Gjor\u010de Petrov, Skopje, Gjorce Petrov Municipality, Macedonia", 
-        "sw_latitude": 42.001
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550839
     }
+  ], 
+  "bbox": [
+    21.25, 
+    42.001, 
+    21.405, 
+    42.127
   ]
 }

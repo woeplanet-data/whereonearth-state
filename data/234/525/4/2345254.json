@@ -745,11 +745,16 @@
         "alias_KOR_Q": [
           "\ub354\ube14\ub9b0"
         ], 
+        "hierarchy": [
+          "woe:state=2345254", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 53.63455597567781, 
         "ne:Shape_Area": 0.123184699715, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "1898", 
         "alias_ENG_A": [
           "DUB"
         ], 
@@ -763,7 +768,7 @@
         "alias_ITA_Q": [
           "Dublino"
         ], 
-        "ne:OBJECTID": 720, 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u30c0\u30d6\u30ea\u30f3"
         ], 
@@ -772,6 +777,11 @@
           "Dubl\u00edn"
         ], 
         "sw_longitude": -6.529182501671073, 
+        "adjacent": [
+          "woe:state=2345257", 
+          "woe:state=2345265", 
+          "woe:state=2345274"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 53.405, 
         "ne:FIPS_1": "EI07", 
@@ -779,9 +789,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-12-02T12:07:35Z", 
-        "ne:VertexCou": 180.0, 
-        "ne:VALIDFR_1": "1898", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 720, 
         "ne:Postal": "DN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Baile \u00c1tha Cliath", 
@@ -797,19 +807,18 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 912.1, 
         "woe:id": "2345254", 
-        "ne:HASC_1": "IE.DN", 
-        "lang": "ENG", 
+        "name": "Dublin", 
+        "ne:VertexCou": 180.0, 
         "adjacent_woeid": [
           2345257, 
           2345265, 
           2345274
         ], 
-        "name": "Dublin", 
+        "ne:HASC_1": "IE.DN", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae Bhaile Atha Cliath"
         ], 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Baile \u00c1tha Claith"
         ], 

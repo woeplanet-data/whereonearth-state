@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55948192, 
-        "name": "Ialoveni", 
         "adjacent_woeid": [
           20069878, 
           55948183, 
@@ -42,14 +40,28 @@
           55948202, 
           55948205
         ], 
-        "ne_latitude": 47.076, 
+        "name": "Ialoveni", 
+        "hierarchy": [
+          "woe:state=55948192", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55948192, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 29.103, 
         "longitude": 28.784, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MD", 
         "date_indexed": "2010-12-02T17:57:50Z", 
-        "parent_woeid": 23424885, 
+        "adjacent": [
+          "woe:state=55948205", 
+          "woe:state=55948183", 
+          "woe:state=20069878", 
+          "woe:state=55948184", 
+          "woe:state=55948191", 
+          "woe:state=55948202"
+        ], 
+        "ne_latitude": 47.076, 
         "latitude": 46.876, 
         "sw_longitude": 28.464, 
         "fullname": "Ialoveni, Moldova", 
@@ -57,5 +69,11 @@
       }, 
       "id": 55948192
     }
+  ], 
+  "bbox": [
+    28.464, 
+    46.676, 
+    29.103, 
+    47.076
   ]
 }

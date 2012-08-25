@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              19.290, 
+              19.29, 
               39.644
             ], 
             [
-              19.290, 
+              19.29, 
               40.665
             ], 
             [
@@ -23,7 +23,7 @@
               39.644
             ], 
             [
-              19.290, 
+              19.29, 
               39.644
             ]
           ]
@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 29389565, 
-        "name": "Vlor\u00eb", 
         "adjacent_woeid": [
           29389558, 
           29389559
         ], 
+        "name": "Vlor\u00eb", 
+        "latitude": 40.155, 
         "alias_UNK_S": [
           "Vlore"
         ], 
-        "ne_latitude": 40.665, 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 29389565, 
         "ne_longitude": 20.327, 
         "longitude": 19.809, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=29389565", 
+          "woe:country=23424742", 
+          "woe:planet=1"
+        ], 
         "iso": "AL", 
         "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424742, 
-        "latitude": 40.155, 
-        "sw_longitude": 19.290, 
+        "adjacent": [
+          "woe:state=29389558", 
+          "woe:state=29389559"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.665, 
+        "sw_longitude": 19.29, 
         "fullname": "Vlor\u00eb, Albania", 
         "sw_latitude": 39.644
       }, 
       "id": 29389565
     }
+  ], 
+  "bbox": [
+    19.29, 
+    39.644, 
+    20.327, 
+    40.665
   ]
 }

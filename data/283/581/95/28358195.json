@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -70.680, 
+              -70.68, 
               18.465
             ], 
             [
-              -70.680, 
+              -70.68, 
               18.777
             ], 
             [
-              -70.360, 
+              -70.36, 
               18.777
             ], 
             [
-              -70.360, 
+              -70.36, 
               18.465
             ], 
             [
-              -70.680, 
+              -70.68, 
               18.465
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.777, 
-        "name": "San Jose de Ocoa", 
         "adjacent_woeid": [
           2345172, 
           2345186, 
@@ -41,23 +39,42 @@
           2345199, 
           2345201
         ], 
+        "sw_longitude": -70.68, 
+        "name": "San Jose de Ocoa", 
+        "hierarchy": [
+          "woe:state=28358195", 
+          "woe:country=23424800", 
+          "woe:planet=1"
+        ], 
         "woeid": 28358195, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -70.36, 
+        "longitude": -70.52, 
+        "placetype": "state", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "adjacent": [
+          "woe:state=2345172", 
+          "woe:state=2345198", 
+          "woe:state=2345199", 
+          "woe:state=2345186", 
+          "woe:state=2345201"
+        ], 
+        "ne_latitude": 18.777, 
+        "latitude": 18.621, 
         "alias_SPA_V": [
           "S. Jose de Ocoa"
         ], 
-        "ne_longitude": -70.360, 
-        "longitude": -70.520, 
-        "parent_woeid": 23424800, 
-        "placetype": "State", 
-        "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.621, 
-        "sw_longitude": -70.680, 
         "fullname": "San Jose de Ocoa, Dominican Republic", 
         "sw_latitude": 18.465
       }, 
       "id": 28358195
     }
+  ], 
+  "bbox": [
+    -70.68, 
+    18.465, 
+    -70.36, 
+    18.777
   ]
 }

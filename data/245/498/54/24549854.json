@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549854, 
         "name": "Namorik", 
-        "ne_latitude": 5.646, 
+        "hierarchy": [
+          "woe:state=24549854", 
+          "woe:country=23424932", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549854, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 168.132, 
         "longitude": 168.127, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MH", 
         "date_indexed": "2010-12-02T09:35:31Z", 
-        "parent_woeid": 23424932, 
+        "ne_latitude": 5.646, 
         "latitude": 5.616, 
         "sw_longitude": 168.085, 
         "fullname": "Namorik, Marshall Islands", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549854
     }
+  ], 
+  "bbox": [
+    168.085, 
+    5.588, 
+    168.132, 
+    5.646
   ]
 }

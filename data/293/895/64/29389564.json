@@ -8,7 +8,7 @@
           [
             [
               19.437, 
-              41.000
+              41.0
             ], 
             [
               19.437, 
@@ -20,11 +20,11 @@
             ], 
             [
               20.255, 
-              41.000
+              41.0
             ], 
             [
               19.437, 
-              41.000
+              41.0
             ]
           ]
         ]
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 29389564, 
-        "name": "Tiran\u00eb", 
         "adjacent_woeid": [
           29389555, 
           29389556, 
           29389557, 
           29389558
         ], 
+        "name": "Tiran\u00eb", 
+        "latitude": 41.255, 
         "alias_UNK_S": [
           "Tirane"
         ], 
-        "ne_latitude": 41.511, 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 29389564, 
         "ne_longitude": 20.255, 
         "longitude": 19.846, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=29389564", 
+          "woe:country=23424742", 
+          "woe:planet=1"
+        ], 
         "iso": "AL", 
         "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424742, 
-        "latitude": 41.255, 
+        "adjacent": [
+          "woe:state=29389555", 
+          "woe:state=29389556", 
+          "woe:state=29389557", 
+          "woe:state=29389558"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.511, 
         "sw_longitude": 19.437, 
         "fullname": "Tiran\u00eb, Albania", 
-        "sw_latitude": 41.000
+        "sw_latitude": 41.0
       }, 
       "id": 29389564
     }
+  ], 
+  "bbox": [
+    19.437, 
+    41.0, 
+    20.255, 
+    41.511
   ]
 }

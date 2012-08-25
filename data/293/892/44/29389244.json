@@ -233,9 +233,14 @@
       "properties": {
         "ne:ProvNumber": 6, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=29389244", 
+          "woe:country=20069817", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.32193899199092, 
         "ne:Shape_Area": 0.0625651606948, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
@@ -244,6 +249,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 18.92254560719408, 
+        "adjacent": [
+          "woe:state=29389243", 
+          "woe:state=29389242", 
+          "woe:state=29389237", 
+          "woe:state=29389241"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.151, 
         "ne:FIPS_1": "AL49", 
@@ -279,7 +290,6 @@
         ], 
         "name": "Bar", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 20069817, 
         "ne_longitude": 19.370063510722503, 
         "longitude": 19.145, 
         "iso": "ME", 

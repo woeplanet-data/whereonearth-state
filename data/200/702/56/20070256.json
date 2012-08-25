@@ -15,11 +15,11 @@
               40.422
             ], 
             [
-              47.950, 
+              47.95, 
               40.422
             ], 
             [
-              47.950, 
+              47.95, 
               39.995
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070256, 
-        "name": "Zardab", 
         "adjacent_woeid": [
           20070213, 
           20070214, 
@@ -43,20 +41,41 @@
           20070249, 
           20070257
         ], 
-        "ne_latitude": 40.422, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 47.950, 
+        "name": "Zardab", 
+        "hierarchy": [
+          "woe:state=20070256", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070256, 
+        "ne_longitude": 47.95, 
         "longitude": 47.695, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.208, 
+        "iso": "AZ", 
+        "sw_latitude": 39.995, 
+        "adjacent": [
+          "woe:state=20070214", 
+          "woe:state=20070213", 
+          "woe:state=20070219", 
+          "woe:state=20070257", 
+          "woe:state=20070227", 
+          "woe:state=20070236", 
+          "woe:state=20070249"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.422, 
         "sw_longitude": 47.439, 
         "fullname": "Zardab, Azerbaijan", 
-        "sw_latitude": 39.995
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070256
     }
+  ], 
+  "bbox": [
+    47.439, 
+    39.995, 
+    47.95, 
+    40.422
   ]
 }

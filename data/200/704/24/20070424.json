@@ -12,11 +12,11 @@
             ], 
             [
               29.701, 
-              0.440
+              0.44
             ], 
             [
               30.305, 
-              0.440
+              0.44
             ], 
             [
               30.305, 
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070424, 
-        "name": "Kasese", 
         "adjacent_woeid": [
           20070413, 
           20070414, 
           20070419, 
           24550735
         ], 
-        "ne_latitude": 0.440, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kasese", 
+        "hierarchy": [
+          "woe:state=20070424", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070424, 
         "ne_longitude": 30.305, 
         "longitude": 30.003, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 0.113, 
+        "iso": "UG", 
+        "sw_latitude": -0.214, 
+        "adjacent": [
+          "woe:state=20070413", 
+          "woe:state=20070414", 
+          "woe:state=20070419", 
+          "woe:state=24550735"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.44, 
         "sw_longitude": 29.701, 
         "fullname": "Kasese, Uganda", 
-        "sw_latitude": -0.214
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070424
     }
+  ], 
+  "bbox": [
+    29.701, 
+    -0.214, 
+    30.305, 
+    0.44
   ]
 }

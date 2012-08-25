@@ -12,11 +12,11 @@
             ], 
             [
               -87.801, 
-              15.920
+              15.92
             ], 
             [
               -86.362, 
-              15.920
+              15.92
             ], 
             [
               -86.362, 
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345623, 
-        "name": "Atl\u00e1ntida", 
         "adjacent_woeid": [
           2345625, 
           2345628, 
           2345640
         ], 
-        "ne_latitude": 15.920, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Atl\u00e1ntida", 
+        "hierarchy": [
+          "woe:state=2345623", 
+          "woe:country=23424841", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345623, 
         "ne_longitude": -86.362, 
         "longitude": -87.082, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 15.671, 
         "alias_SPA_S": [
           "Atlantida"
         ], 
         "iso": "HN", 
-        "date_indexed": "2010-12-02T19:20:59Z", 
-        "parent_woeid": 23424841, 
-        "latitude": 15.671, 
+        "sw_latitude": 15.421, 
+        "adjacent": [
+          "woe:state=2345625", 
+          "woe:state=2345628", 
+          "woe:state=2345640"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.92, 
         "sw_longitude": -87.801, 
         "fullname": "Atl\u00e1ntida, Honduras", 
-        "sw_latitude": 15.421
+        "date_indexed": "2010-12-02T19:20:59Z"
       }, 
       "id": 2345623
     }
+  ], 
+  "bbox": [
+    -87.801, 
+    15.421, 
+    -86.362, 
+    15.92
   ]
 }

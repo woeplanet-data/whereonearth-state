@@ -32,19 +32,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "CHI", 
-        "woeid": 24703004, 
+        "alias_ENG_V": [
+          "Newterritories"
+        ], 
         "name": "\u65b0\u754c", 
         "alias_ENG_P": [
           "New Territories"
         ], 
-        "ne_latitude": 22.562, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "Newterritories"
+        "hierarchy": [
+          "woe:state=24703004", 
+          "woe:country=24865698", 
+          "woe:planet=1"
         ], 
+        "woeid": 24703004, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 114.442, 
         "longitude": 114.154, 
-        "placetype": "State", 
+        "placetype": "state", 
         "adjacent_woeid": [
           12578019, 
           24703005, 
@@ -52,7 +56,12 @@
         ], 
         "iso": "HK", 
         "date_indexed": "2010-12-02T12:08:18Z", 
-        "parent_woeid": 24865698, 
+        "adjacent": [
+          "woe:state=24703006", 
+          "woe:state=12578019", 
+          "woe:state=24703005"
+        ], 
+        "ne_latitude": 22.562, 
         "latitude": 22.411, 
         "sw_longitude": 113.877, 
         "fullname": "\u65b0\u754c, New Territories, Hong Kong", 
@@ -60,5 +69,11 @@
       }, 
       "id": 24703004
     }
+  ], 
+  "bbox": [
+    113.877, 
+    22.237, 
+    114.442, 
+    22.562
   ]
 }

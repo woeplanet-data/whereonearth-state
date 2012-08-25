@@ -34,8 +34,13 @@
         "alias_ENG_V": [
           "Abuja Capital Territory"
         ], 
+        "hierarchy": [
+          "woe:state=2346345", 
+          "woe:country=23424908", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 9.376, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_V": [
           "Territ\u00f3rio da Capital Federal"
         ], 
@@ -47,11 +52,17 @@
         ], 
         "woeid": 2346345, 
         "sw_longitude": 6.771, 
+        "adjacent": [
+          "woe:state=2346351", 
+          "woe:state=2346369", 
+          "woe:state=20070154", 
+          "woe:state=2346359"
+        ], 
         "alias_SPA_V": [
           "Territorio de la Capital Federal"
         ], 
         "latitude": 8.885, 
-        "date_indexed": "2010-12-02T09:34:55Z", 
+        "sw_latitude": 8.394, 
         "provider": "geoplanet 7.6.0", 
         "alias_GER_V": [
           "Bundeshauptstadtterritorium"
@@ -64,11 +75,10 @@
           20070154
         ], 
         "name": "Federal Capital Territory", 
-        "parent_woeid": 23424908, 
         "ne_longitude": 7.635, 
         "longitude": 7.203, 
         "iso": "NG", 
-        "sw_latitude": 8.394, 
+        "date_indexed": "2010-12-02T09:34:55Z", 
         "alias_FRE_V": [
           "Territoire de la capitale F\u00e9d\u00e9rale"
         ], 
@@ -76,5 +86,11 @@
       }, 
       "id": 2346345
     }
+  ], 
+  "bbox": [
+    6.771, 
+    8.394, 
+    7.635, 
+    9.376
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               79.698, 
-              8.560
+              8.56
             ], 
             [
               80.583, 
-              8.560
+              8.56
             ], 
             [
               80.583, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344962, 
-        "name": "North Western", 
         "adjacent_woeid": [
           2344959, 
           2344960, 
@@ -41,23 +39,42 @@
           2344963, 
           2344966
         ], 
-        "ne_latitude": 8.560, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "North Western", 
         "alias_ENG_V": [
           "N Western"
         ], 
+        "hierarchy": [
+          "woe:state=2344962", 
+          "woe:country=23424778", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344962, 
         "ne_longitude": 80.583, 
         "longitude": 80.141, 
-        "placetype": "State", 
-        "iso": "LK", 
-        "date_indexed": "2010-12-02T17:56:32Z", 
-        "parent_woeid": 23424778, 
+        "placetype": "state", 
         "latitude": 7.908, 
+        "iso": "LK", 
+        "sw_latitude": 7.256, 
+        "adjacent": [
+          "woe:state=2344959", 
+          "woe:state=2344960", 
+          "woe:state=2344961", 
+          "woe:state=2344963", 
+          "woe:state=2344966"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 8.56, 
         "sw_longitude": 79.698, 
         "fullname": "North Western, Sri Lanka", 
-        "sw_latitude": 7.256
+        "date_indexed": "2010-12-02T17:56:32Z"
       }, 
       "id": 2344962
     }
+  ], 
+  "bbox": [
+    79.698, 
+    7.256, 
+    80.583, 
+    8.56
   ]
 }

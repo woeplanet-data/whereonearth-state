@@ -8,7 +8,7 @@
           [
             [
               -81.267, 
-              19.950
+              19.95
             ], 
             [
               -81.267, 
@@ -20,11 +20,11 @@
             ], 
             [
               -75.148, 
-              19.950
+              19.95
             ], 
             [
               -81.267, 
-              19.950
+              19.95
             ]
           ]
         ]
@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345110, 
+        "alias_SPA_A": [
+          "CM"
+        ], 
         "name": "Camaguey", 
         "adjacent_woeid": [
           2345111, 
           2345117
         ], 
-        "ne_latitude": 23.267, 
-        "alias_SPA_A": [
-          "CM"
+        "hierarchy": [
+          "woe:state=2345110", 
+          "woe:country=23424793", 
+          "woe:planet=1"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2345110, 
         "ne_longitude": -75.148, 
         "longitude": -77.792, 
-        "placetype": "State", 
+        "ne_latitude": 23.267, 
+        "placetype": "state", 
         "iso": "CU", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424793, 
+        "sw_latitude": 19.95, 
+        "adjacent": [
+          "woe:state=2345111", 
+          "woe:state=2345117"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 21.403, 
         "sw_longitude": -81.267, 
         "fullname": "Camaguey, Cuba", 
-        "sw_latitude": 19.950
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 2345110
     }
+  ], 
+  "bbox": [
+    -81.267, 
+    19.95, 
+    -75.148, 
+    23.267
   ]
 }

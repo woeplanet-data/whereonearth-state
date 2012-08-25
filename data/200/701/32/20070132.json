@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              33.410, 
+              33.41, 
               -13.838
             ], 
             [
-              33.410, 
+              33.41, 
               -13.229
             ], 
             [
@@ -23,7 +23,7 @@
               -13.838
             ], 
             [
-              33.410, 
+              33.41, 
               -13.838
             ]
           ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070132, 
-        "name": "Dowa", 
         "adjacent_woeid": [
           20070128, 
           20070130, 
           20070133, 
           20070134
         ], 
-        "ne_latitude": -13.229, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Dowa", 
+        "hierarchy": [
+          "woe:state=20070132", 
+          "woe:country=23424889", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070132, 
         "ne_longitude": 34.301, 
         "longitude": 33.855, 
-        "placetype": "State", 
-        "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
-        "parent_woeid": 23424889, 
+        "placetype": "state", 
         "latitude": -13.534, 
-        "sw_longitude": 33.410, 
+        "iso": "MW", 
+        "sw_latitude": -13.838, 
+        "adjacent": [
+          "woe:state=20070128", 
+          "woe:state=20070134", 
+          "woe:state=20070130", 
+          "woe:state=20070133"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -13.229, 
+        "sw_longitude": 33.41, 
         "fullname": "Dowa, Malawi", 
-        "sw_latitude": -13.838
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 20070132
     }
+  ], 
+  "bbox": [
+    33.41, 
+    -13.838, 
+    34.301, 
+    -13.229
   ]
 }

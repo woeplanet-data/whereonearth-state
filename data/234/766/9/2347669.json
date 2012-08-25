@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347669, 
-        "name": "Sirdaryo", 
         "adjacent_woeid": [
           2345982, 
           2347661, 
           2347670, 
           20070294
         ], 
-        "ne_latitude": 41.026, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sirdaryo", 
+        "hierarchy": [
+          "woe:state=2347669", 
+          "woe:country=23424980", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347669, 
         "ne_longitude": 69.164, 
         "longitude": 68.591, 
-        "placetype": "State", 
-        "iso": "UZ", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424980, 
+        "placetype": "state", 
         "latitude": 40.425, 
+        "iso": "UZ", 
+        "sw_latitude": 39.824, 
+        "adjacent": [
+          "woe:state=2347661", 
+          "woe:state=20070294", 
+          "woe:state=2345982", 
+          "woe:state=2347670"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.026, 
         "sw_longitude": 68.018, 
         "fullname": "Sirdaryo, Uzbekistan", 
-        "sw_latitude": 39.824
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347669
     }
+  ], 
+  "bbox": [
+    68.018, 
+    39.824, 
+    69.164, 
+    41.026
   ]
 }

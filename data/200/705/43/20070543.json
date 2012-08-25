@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ITA", 
-        "woeid": 20070543, 
-        "name": "Acquaviva", 
         "adjacent_woeid": [
           20070544, 
           20070545
         ], 
-        "ne_latitude": 43.959, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Acquaviva", 
+        "hierarchy": [
+          "woe:state=20070543", 
+          "woe:country=23424947", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070543, 
         "ne_longitude": 12.441, 
         "longitude": 12.422, 
-        "placetype": "State", 
-        "iso": "SM", 
-        "date_indexed": "2010-12-02T09:58:07Z", 
-        "parent_woeid": 23424947, 
+        "placetype": "state", 
         "latitude": 43.947, 
+        "iso": "SM", 
+        "sw_latitude": 43.936, 
+        "adjacent": [
+          "woe:state=20070544", 
+          "woe:state=20070545"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.959, 
         "sw_longitude": 12.403, 
         "fullname": "Acquaviva, San Marino", 
-        "sw_latitude": 43.936
+        "date_indexed": "2010-12-02T09:58:07Z"
       }, 
       "id": 20070543
     }
+  ], 
+  "bbox": [
+    12.403, 
+    43.936, 
+    12.441, 
+    43.959
   ]
 }

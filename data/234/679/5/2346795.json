@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.177, 
-        "name": "Coamo", 
         "adjacent_woeid": [
           2346790, 
           2346791, 
@@ -43,23 +41,44 @@
           2346831, 
           2346832
         ], 
+        "name": "Coamo", 
+        "hierarchy": [
+          "woe:state=2346795", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346795, 
         "alias_SPA_V": [
           "Coamo Municipios"
         ], 
         "ne_longitude": -66.258, 
         "longitude": -66.351, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.096, 
         "sw_longitude": -66.444, 
+        "sw_latitude": 18.015, 
+        "adjacent": [
+          "woe:state=2346790", 
+          "woe:state=2346791", 
+          "woe:state=2346832", 
+          "woe:state=2346803", 
+          "woe:state=2346830", 
+          "woe:state=2346831", 
+          "woe:state=2346809"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.177, 
+        "iso": "PR", 
         "fullname": "Coamo, Puerto Rico", 
-        "sw_latitude": 18.015
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346795
     }
+  ], 
+  "bbox": [
+    -66.444, 
+    18.015, 
+    -66.258, 
+    18.177
   ]
 }

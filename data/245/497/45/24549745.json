@@ -32,23 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549745, 
-        "name": "Fort-de-France", 
         "adjacent_woeid": [
           24549744, 
           24549746, 
           24549747
         ], 
+        "name": "Fort-de-France", 
         "ne_latitude": 14.725, 
+        "hierarchy": [
+          "woe:state=24549745", 
+          "woe:country=23424884", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549745, 
         "ne_longitude": -60.951, 
         "longitude": -61.023, 
-        "parent_woeid": 23424884, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_FRE_V": [
           "Ft-de-France"
         ], 
         "iso": "MQ", 
         "date_indexed": "2010-12-02T17:06:00Z", 
+        "adjacent": [
+          "woe:state=24549744", 
+          "woe:state=24549746", 
+          "woe:state=24549747"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 14.636, 
         "sw_longitude": -61.127, 
@@ -57,5 +66,11 @@
       }, 
       "id": 24549745
     }
+  ], 
+  "bbox": [
+    -61.127, 
+    14.559, 
+    -60.951, 
+    14.725
   ]
 }

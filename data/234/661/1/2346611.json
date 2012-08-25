@@ -15,11 +15,11 @@
               12.026
             ], 
             [
-              -15.620, 
+              -15.62, 
               12.026
             ], 
             [
-              -15.620, 
+              -15.62, 
               11.734
             ], 
             [
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2346611, 
-        "name": "Biombo", 
         "adjacent_woeid": [
           2346605, 
           2346607, 
           2346610
         ], 
-        "ne_latitude": 12.026, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -15.620, 
+        "name": "Biombo", 
+        "hierarchy": [
+          "woe:state=2346611", 
+          "woe:country=23424929", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346611, 
+        "ne_longitude": -15.62, 
         "longitude": -15.796, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 11.88, 
         "iso": "GW", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424929, 
-        "latitude": 11.880, 
+        "sw_latitude": 11.734, 
+        "adjacent": [
+          "woe:state=2346610", 
+          "woe:state=2346607", 
+          "woe:state=2346605"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.026, 
         "sw_longitude": -15.972, 
         "fullname": "Biombo, Guinea-Bissau", 
-        "sw_latitude": 11.734
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 2346611
     }
+  ], 
+  "bbox": [
+    -15.972, 
+    11.734, 
+    -15.62, 
+    12.026
   ]
 }

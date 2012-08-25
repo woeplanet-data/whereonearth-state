@@ -12,11 +12,11 @@
             ], 
             [
               -77.038, 
-              20.580
+              20.58
             ], 
             [
               -75.387, 
-              20.580
+              20.58
             ], 
             [
               -75.387, 
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345119, 
+        "alias_SPA_A": [
+          "SC"
+        ], 
         "name": "Santiago de Cuba", 
         "adjacent_woeid": [
           2345113, 
           2345114, 
           2345116
         ], 
-        "ne_latitude": 20.580, 
-        "alias_SPA_A": [
-          "SC"
+        "hierarchy": [
+          "woe:state=2345119", 
+          "woe:country=23424793", 
+          "woe:planet=1"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2345119, 
         "ne_longitude": -75.387, 
         "longitude": -76.212, 
-        "placetype": "State", 
+        "ne_latitude": 20.58, 
+        "placetype": "state", 
         "iso": "CU", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424793, 
+        "sw_latitude": 19.887, 
+        "adjacent": [
+          "woe:state=2345113", 
+          "woe:state=2345114", 
+          "woe:state=2345116"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 20.234, 
         "sw_longitude": -77.038, 
         "fullname": "Santiago de Cuba, Cuba", 
-        "sw_latitude": 19.887
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 2345119
     }
+  ], 
+  "bbox": [
+    -77.038, 
+    19.887, 
+    -75.387, 
+    20.58
   ]
 }

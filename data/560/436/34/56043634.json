@@ -32,19 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "ne_latitude": 47.001, 
-        "name": "Kecskem\u00e9t", 
         "adjacent_woeid": [
           12577911, 
           12577923
         ], 
-        "woeid": 56043634, 
+        "name": "Kecskem\u00e9t", 
+        "hierarchy": [
+          "woe:state=56043634", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 47.001, 
         "ne_longitude": 19.851, 
         "longitude": 19.679, 
-        "parent_woeid": 23424844, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
+        "adjacent": [
+          "woe:state=12577911", 
+          "woe:state=12577923"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.886, 
         "sw_longitude": 19.507, 
@@ -52,9 +59,16 @@
         "alias_HUN_S": [
           "Kecskemet"
         ], 
+        "woeid": 56043634, 
         "sw_latitude": 46.772
       }, 
       "id": 56043634
     }
+  ], 
+  "bbox": [
+    19.507, 
+    46.772, 
+    19.851, 
+    47.001
   ]
 }

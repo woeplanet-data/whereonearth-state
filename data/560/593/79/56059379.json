@@ -15,11 +15,11 @@
               12.225
             ], 
             [
-              -9.230, 
+              -9.23, 
               12.225
             ], 
             [
-              -9.230, 
+              -9.23, 
               8.799
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 56059379, 
-        "name": "Faranah", 
         "adjacent_woeid": [
           2346182, 
           2347000, 
@@ -43,14 +41,29 @@
           56059376, 
           56059378
         ], 
-        "ne_latitude": 12.225, 
+        "name": "Faranah", 
+        "hierarchy": [
+          "woe:state=56059379", 
+          "woe:country=23424835", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56059379, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -9.230, 
+        "ne_longitude": -9.23, 
         "longitude": -10.391, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GN", 
         "date_indexed": "2010-12-02T16:11:50Z", 
-        "parent_woeid": 23424835, 
+        "adjacent": [
+          "woe:state=2347000", 
+          "woe:state=56059378", 
+          "woe:state=2346182", 
+          "woe:state=56059374", 
+          "woe:state=56059375", 
+          "woe:state=2347001", 
+          "woe:state=56059376"
+        ], 
+        "ne_latitude": 12.225, 
         "latitude": 10.512, 
         "sw_longitude": -11.552, 
         "fullname": "Faranah, Guinea", 
@@ -58,5 +71,11 @@
       }, 
       "id": 56059379
     }
+  ], 
+  "bbox": [
+    -11.552, 
+    8.799, 
+    -9.23, 
+    12.225
   ]
 }

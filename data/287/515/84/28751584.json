@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Taichung City"
         ], 
+        "hierarchy": [
+          "woe:state=28751584", 
+          "woe:country=23424971", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 24.219, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\ud0c0\uc774\uc911"
         ], 
@@ -53,12 +58,20 @@
           "\u53f0\u4e2d"
         ], 
         "sw_longitude": 120.574, 
+        "adjacent": [
+          "woe:state=2347339", 
+          "woe:state=2347336", 
+          "woe:state=20070572", 
+          "woe:state=2347334", 
+          "woe:state=2347335", 
+          "woe:state=2347338"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 24.161, 
         "alias_NOR_Q": [
           "Taichung"
         ], 
-        "date_indexed": "2010-12-02T16:15:11Z", 
+        "sw_latitude": 24.104, 
         "lang": "CHI", 
         "adjacent_woeid": [
           2347338, 
@@ -69,14 +82,19 @@
           2347339
         ], 
         "name": "\u53f0\u4e2d\u5e02", 
-        "parent_woeid": 23424971, 
         "ne_longitude": 120.803, 
         "longitude": 120.641, 
         "iso": "TW", 
-        "sw_latitude": 24.104, 
+        "date_indexed": "2010-12-02T16:15:11Z", 
         "fullname": "\u53f0\u4e2d\u5e02, Taiwan, Taichung City, Taiwan"
       }, 
       "id": 28751584
     }
+  ], 
+  "bbox": [
+    120.574, 
+    24.104, 
+    120.803, 
+    24.219
   ]
 }

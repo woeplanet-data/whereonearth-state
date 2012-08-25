@@ -301,9 +301,14 @@
       "properties": {
         "ne:ProvNumber": 2005, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=24550740", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 0.574125474810842, 
         "ne:Shape_Area": 0.214501642135, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
@@ -312,6 +317,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 32.18297651585357, 
+        "adjacent": [
+          "woe:state=20070421", 
+          "woe:state=20070453", 
+          "woe:state=56190215", 
+          "woe:state=20070436", 
+          "woe:state=20070438", 
+          "woe:state=56190211"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 0.09, 
         "ne:FIPS_1": "UG37", 
@@ -349,7 +362,6 @@
         ], 
         "name": "Wakiso", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424974, 
         "ne_longitude": 32.670698683397575, 
         "longitude": 32.424, 
         "iso": "UG", 

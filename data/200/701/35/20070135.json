@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070135, 
-        "name": "Dedza", 
         "adjacent_woeid": [
           20070133, 
           20070134, 
           20070136, 
           20070137
         ], 
-        "ne_latitude": -13.863, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Dedza", 
+        "hierarchy": [
+          "woe:state=20070135", 
+          "woe:country=23424889", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070135, 
         "ne_longitude": 34.727, 
         "longitude": 34.186, 
-        "placetype": "State", 
-        "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
-        "parent_woeid": 23424889, 
+        "placetype": "state", 
         "latitude": -14.234, 
+        "iso": "MW", 
+        "sw_latitude": -14.605, 
+        "adjacent": [
+          "woe:state=20070134", 
+          "woe:state=20070136", 
+          "woe:state=20070137", 
+          "woe:state=20070133"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -13.863, 
         "sw_longitude": 33.645, 
         "fullname": "Dedza, Malawi", 
-        "sw_latitude": -14.605
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 20070135
     }
+  ], 
+  "bbox": [
+    33.645, 
+    -14.605, 
+    34.727, 
+    -13.863
   ]
 }

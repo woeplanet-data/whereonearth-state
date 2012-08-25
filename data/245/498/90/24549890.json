@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549890, 
-        "name": "Belombre", 
         "adjacent_woeid": [
           24549876, 
           24549877, 
@@ -41,14 +39,27 @@
           24549886, 
           24549887
         ], 
-        "ne_latitude": -4.379, 
+        "name": "Belombre", 
+        "hierarchy": [
+          "woe:state=24549890", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549890, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.434, 
         "longitude": 55.234, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549877", 
+          "woe:state=24549883", 
+          "woe:state=24549887", 
+          "woe:state=24549876", 
+          "woe:state=24549886"
+        ], 
+        "ne_latitude": -4.379, 
         "latitude": -4.487, 
         "sw_longitude": 55.205, 
         "fullname": "Belombre, Seychelles", 
@@ -56,5 +67,11 @@
       }, 
       "id": 24549890
     }
+  ], 
+  "bbox": [
+    55.205, 
+    -4.638, 
+    55.434, 
+    -4.379
   ]
 }

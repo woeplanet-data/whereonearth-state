@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347740, 
-        "name": "Lao Cai", 
         "adjacent_woeid": [
           2347708, 
           2347713, 
@@ -41,17 +39,30 @@
           2347753, 
           12578018
         ], 
-        "ne_latitude": 22.849, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Lao Cai", 
         "alias_ENG_V": [
           "Laocai"
         ], 
+        "hierarchy": [
+          "woe:state=2347740", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347740, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 104.615, 
         "longitude": 104.075, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347734", 
+          "woe:state=2347708", 
+          "woe:state=2347713", 
+          "woe:state=2347753", 
+          "woe:state=12578018"
+        ], 
+        "ne_latitude": 22.849, 
         "latitude": 22.312, 
         "sw_longitude": 103.534, 
         "fullname": "Lao Cai, Vietnam", 
@@ -59,5 +70,11 @@
       }, 
       "id": 2347740
     }
+  ], 
+  "bbox": [
+    103.534, 
+    21.774, 
+    104.615, 
+    22.849
   ]
 }

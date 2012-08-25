@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848360, 
-        "name": "Lasko", 
         "adjacent_woeid": [
           55848343, 
           55848350, 
@@ -44,14 +42,30 @@
           55848397, 
           55848398
         ], 
-        "ne_latitude": 46.201, 
+        "name": "Lasko", 
+        "hierarchy": [
+          "woe:state=55848360", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848360, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.376, 
         "longitude": 15.221, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848343", 
+          "woe:state=55848350", 
+          "woe:state=55848363", 
+          "woe:state=55848383", 
+          "woe:state=55848384", 
+          "woe:state=55848392", 
+          "woe:state=55848397", 
+          "woe:state=55848398"
+        ], 
+        "ne_latitude": 46.201, 
         "latitude": 46.113, 
         "sw_longitude": 15.066, 
         "fullname": "Lasko, Slovenia", 
@@ -59,5 +73,11 @@
       }, 
       "id": 55848360
     }
+  ], 
+  "bbox": [
+    15.066, 
+    46.025, 
+    15.376, 
+    46.201
   ]
 }

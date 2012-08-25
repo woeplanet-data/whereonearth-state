@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070308, 
-        "name": "Anabar", 
         "adjacent_woeid": [
           20070304, 
           20070305, 
@@ -41,20 +39,39 @@
           20070310, 
           20070311
         ], 
-        "ne_latitude": -0.506, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Anabar", 
+        "hierarchy": [
+          "woe:state=20070308", 
+          "woe:country=23424912", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070308, 
         "ne_longitude": 166.945, 
         "longitude": 166.937, 
-        "placetype": "State", 
-        "iso": "NR", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "parent_woeid": 23424912, 
+        "placetype": "state", 
         "latitude": -0.515, 
+        "iso": "NR", 
+        "sw_latitude": -0.524, 
+        "adjacent": [
+          "woe:state=20070311", 
+          "woe:state=20070304", 
+          "woe:state=20070309", 
+          "woe:state=20070310", 
+          "woe:state=20070305"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -0.506, 
         "sw_longitude": 166.928, 
         "fullname": "Anabar, Nauru", 
-        "sw_latitude": -0.524
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 20070308
     }
+  ], 
+  "bbox": [
+    166.928, 
+    -0.524, 
+    166.945, 
+    -0.506
   ]
 }

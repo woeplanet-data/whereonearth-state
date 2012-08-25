@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55844399, 
-        "name": "Preiau Novads", 
         "adjacent_woeid": [
           55844470, 
           55844549, 
           55844714, 
           56190593
         ], 
-        "ne_latitude": 56.351, 
+        "name": "Preiau Novads", 
+        "hierarchy": [
+          "woe:state=55844399", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55844399, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 26.845, 
         "longitude": 26.714, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "LV", 
         "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
-        "latitude": 56.250, 
+        "adjacent": [
+          "woe:state=56190593", 
+          "woe:state=55844714", 
+          "woe:state=55844470", 
+          "woe:state=55844549"
+        ], 
+        "ne_latitude": 56.351, 
+        "latitude": 56.25, 
         "sw_longitude": 26.582, 
         "fullname": "Preiau Novads, Preiju Rajons, Preiau Novads, Latvia", 
         "sw_latitude": 56.149
       }, 
       "id": 55844399
     }
+  ], 
+  "bbox": [
+    26.582, 
+    56.149, 
+    26.845, 
+    56.351
   ]
 }

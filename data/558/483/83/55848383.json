@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              15.330, 
+              15.33, 
               46.066
             ], 
             [
-              15.330, 
+              15.33, 
               46.312
             ], 
             [
@@ -23,7 +23,7 @@
               46.066
             ], 
             [
-              15.330, 
+              15.33, 
               46.066
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848383, 
-        "name": "Sentjur Pri Celju", 
         "adjacent_woeid": [
           55848343, 
           55848359, 
@@ -42,20 +40,40 @@
           55848389, 
           55848390
         ], 
-        "ne_latitude": 46.312, 
+        "name": "Sentjur Pri Celju", 
+        "hierarchy": [
+          "woe:state=55848383", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848383, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.536, 
         "longitude": 15.433, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848343", 
+          "woe:state=55848359", 
+          "woe:state=55848360", 
+          "woe:state=55848384", 
+          "woe:state=55848389", 
+          "woe:state=55848390"
+        ], 
+        "ne_latitude": 46.312, 
         "latitude": 46.189, 
-        "sw_longitude": 15.330, 
+        "sw_longitude": 15.33, 
         "fullname": "Sentjur Pri Celju, Slovenia", 
         "sw_latitude": 46.066
       }, 
       "id": 55848383
     }
+  ], 
+  "bbox": [
+    15.33, 
+    46.066, 
+    15.536, 
+    46.312
   ]
 }

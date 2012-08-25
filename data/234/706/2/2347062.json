@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Uppsala Lans"
         ], 
+        "hierarchy": [
+          "woe:state=2347062", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 60.661, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Uppsala"
         ], 
@@ -74,8 +79,11 @@
           "Uppsala"
         ], 
         "date_indexed": "2010-12-02T16:43:54Z", 
-        "alias_DAN_V": [
-          "Uppsala"
+        "adjacent": [
+          "woe:state=2347046", 
+          "woe:state=2347067", 
+          "woe:state=2347061", 
+          "woe:state=2347066"
         ], 
         "alias_DUT_Q": [
           "Uppsala"
@@ -86,7 +94,7 @@
         "alias_DAN_Q": [
           "Upsalan l\u00e4\u00e4ni"
         ], 
-        "alias_GER_Q": [
+        "alias_DAN_V": [
           "Uppsala"
         ], 
         "lang": "SWE", 
@@ -97,7 +105,9 @@
           2347067
         ], 
         "name": "Uppsala L\u00e4n", 
-        "parent_woeid": 23424954, 
+        "alias_GER_Q": [
+          "Uppsala"
+        ], 
         "ne_longitude": 18.734, 
         "longitude": 17.673, 
         "iso": "SE", 
@@ -112,5 +122,11 @@
       }, 
       "id": 2347062
     }
+  ], 
+  "bbox": [
+    16.727, 
+    59.384, 
+    18.734, 
+    60.661
   ]
 }

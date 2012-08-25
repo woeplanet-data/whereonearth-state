@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346168, 
-        "name": "Omnogov", 
         "adjacent_woeid": [
           2346158, 
           2346161, 
@@ -41,20 +39,39 @@
           2346169, 
           12578009
         ], 
-        "ne_latitude": 45.287, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Omnogov", 
+        "hierarchy": [
+          "woe:state=2346168", 
+          "woe:country=23424887", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346168, 
         "ne_longitude": 108.192, 
         "longitude": 103.801, 
-        "placetype": "State", 
-        "iso": "MN", 
-        "date_indexed": "2010-12-02T08:53:23Z", 
-        "parent_woeid": 23424887, 
+        "placetype": "state", 
         "latitude": 43.427, 
+        "iso": "MN", 
+        "sw_latitude": 41.568, 
+        "adjacent": [
+          "woe:state=2346158", 
+          "woe:state=2346161", 
+          "woe:state=2346162", 
+          "woe:state=2346169", 
+          "woe:state=12578009"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 45.287, 
         "sw_longitude": 99.409, 
         "fullname": "Omnogov, Mongolia", 
-        "sw_latitude": 41.568
+        "date_indexed": "2010-12-02T08:53:23Z"
       }, 
       "id": 2346168
     }
+  ], 
+  "bbox": [
+    99.409, 
+    41.568, 
+    108.192, 
+    45.287
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347139, 
-        "name": "Phitsanulok", 
         "adjacent_woeid": [
           2346010, 
           2347136, 
@@ -43,23 +41,44 @@
           2347141, 
           2347145
         ], 
-        "ne_latitude": 17.745, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Phitsanulok", 
         "alias_ENG_V": [
           "Changwat Phitsanulok"
         ], 
+        "hierarchy": [
+          "woe:state=2347139", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347139, 
         "ne_longitude": 101.109, 
         "longitude": 100.482, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 17.041, 
+        "iso": "TH", 
+        "sw_latitude": 16.338, 
+        "adjacent": [
+          "woe:state=2347138", 
+          "woe:state=2347145", 
+          "woe:state=2347141", 
+          "woe:state=2347140", 
+          "woe:state=2347136", 
+          "woe:state=2347137", 
+          "woe:state=2346010"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.745, 
         "sw_longitude": 99.856, 
         "fullname": "Phitsanulok, Thailand", 
-        "sw_latitude": 16.338
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347139
     }
+  ], 
+  "bbox": [
+    99.856, 
+    16.338, 
+    101.109, 
+    17.745
   ]
 }

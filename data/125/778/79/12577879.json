@@ -1947,11 +1947,16 @@
         "alias_POL_Q": [
           "Attyka"
         ], 
+        "hierarchy": [
+          "woe:state=12577879", 
+          "woe:country=23424833", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 38.343525499002624, 
         "ne:Shape_Area": 0.388732553522, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1987", 
         "alias_POR_Q": [
           "\u00c1tica"
         ], 
@@ -1967,20 +1972,19 @@
         "alias_CHI_Q": [
           "\u963f\u63d0\u5361"
         ], 
-        "ne:VALIDTO_1": "Present", 
-        "ne:Area_sqkm": 3797.7, 
-        "ne:OBJECTID": 2884, 
-        "alias_CZE_Q": [
+        "alias_SPA_Q": [
+          "La Periferia de \u00c1tica"
+        ], 
+        "alias_DAN_Q": [
           "Attika"
         ], 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30a2\u30c3\u30c6\u30a3\u30ab"
         ], 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "La Periferia de \u00c1tica"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Attika"
         ], 
@@ -1988,6 +1992,10 @@
           "La Periferia de Atica"
         ], 
         "sw_longitude": 22.89971886583305, 
+        "adjacent": [
+          "woe:state=12577888", 
+          "woe:state=12577887"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 37.995, 
         "ne:FIPS_1": "GR35", 
@@ -1995,38 +2003,38 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "ne:VertexCou": 460.0, 
-        "ne:VALIDFR_1": "1987", 
-        "ne:DataRank": 6, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 2884, 
         "ne:Postal": "AT", 
         "ne:Region_Cod": "GRC-PLP", 
         "ne:VARNAME_1": "Attica", 
         "ne:ISO": "GRC", 
-        "ne:TYPE_1": "Diamerismata", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 8.27331138556, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "Greece", 
         "ne:NAME_1": "Attiki", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
-        "ne:LabelRank": 6, 
-        "alias_DAN_Q": [
+        "ne:TYPE_1": "Diamerismata", 
+        "alias_CZE_Q": [
           "Attika"
         ], 
+        "ne:LabelRank": 6, 
+        "ne:Area_sqkm": 3797.7, 
         "alias_GER_Q": [
           "Attika"
         ], 
         "woe:id": "12577879", 
-        "ne:HASC_1": "GR.AT", 
-        "lang": "ENG", 
+        "name": "Attica", 
+        "ne:VertexCou": 460.0, 
         "adjacent_woeid": [
           12577887, 
           12577888
         ], 
-        "name": "Attica", 
+        "ne:HASC_1": "GR.AT", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424833, 
         "alias_UNK_Q": [
           "Atika"
         ], 

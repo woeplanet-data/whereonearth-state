@@ -1123,20 +1123,30 @@
           "Contae an Chlair"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2345251", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 53.16636749936066, 
         "ne:Shape_Area": 0.431519376319, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "CLA"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:OBJECTID": 76, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -9.936158006286917, 
+        "adjacent": [
+          "woe:state=2345255", 
+          "woe:state=2345261", 
+          "woe:state=2345270"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.864, 
         "ne:FIPS_1": "EI03", 
@@ -1144,9 +1154,9 @@
         "ne:FIRST_HASC": "IE.GY|IRL-CNN", 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 52.55684398046537, 
-        "ne:VertexCou": 271.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 76, 
         "ne:Postal": "CE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "An Cl\u00e1r", 
@@ -1162,19 +1172,18 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 3235.1, 
         "woe:id": "2345251", 
-        "ne:HASC_1": "IE.CE", 
-        "lang": "ENG", 
+        "name": "Clare", 
+        "ne:VertexCou": 271.0, 
         "adjacent_woeid": [
           2345255, 
           2345261, 
           2345270
         ], 
-        "name": "Clare", 
+        "ne:HASC_1": "IE.CE", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae an Chlair"
         ], 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "An Chl\u00e1r"
         ], 

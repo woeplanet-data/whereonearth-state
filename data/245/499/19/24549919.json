@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549919, 
         "name": "Vaitupu", 
-        "ne_latitude": -7.449, 
+        "hierarchy": [
+          "woe:state=24549919", 
+          "woe:country=23424970", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549919, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 178.699, 
         "longitude": 178.691, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "TV", 
         "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424970, 
+        "ne_latitude": -7.449, 
         "latitude": -7.472, 
         "sw_longitude": 178.657, 
         "fullname": "Vaitupu, Tuvalu", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549919
     }
+  ], 
+  "bbox": [
+    178.657, 
+    -7.494, 
+    178.699, 
+    -7.449
   ]
 }

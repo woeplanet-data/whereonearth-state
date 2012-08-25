@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              26.030, 
+              26.03, 
               47.438
             ], 
             [
-              26.030, 
+              26.03, 
               48.266
             ], 
             [
@@ -23,7 +23,7 @@
               47.438
             ], 
             [
-              26.030, 
+              26.03, 
               47.438
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "RUM", 
-        "woeid": 2346621, 
-        "name": "Botosani", 
         "adjacent_woeid": [
           2346637, 
           2346647, 
@@ -43,20 +41,41 @@
           55948190, 
           55948197
         ], 
-        "ne_latitude": 48.266, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Botosani", 
+        "hierarchy": [
+          "woe:state=2346621", 
+          "woe:country=23424933", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346621, 
         "ne_longitude": 27.392, 
         "longitude": 26.711, 
-        "placetype": "State", 
-        "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
-        "parent_woeid": 23424933, 
+        "placetype": "state", 
         "latitude": 47.852, 
-        "sw_longitude": 26.030, 
+        "iso": "RO", 
+        "sw_latitude": 47.438, 
+        "adjacent": [
+          "woe:state=55948180", 
+          "woe:state=2347536", 
+          "woe:state=20069871", 
+          "woe:state=55948190", 
+          "woe:state=2346637", 
+          "woe:state=55948197", 
+          "woe:state=2346647"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 48.266, 
+        "sw_longitude": 26.03, 
         "fullname": "Botosani, Romania", 
-        "sw_latitude": 47.438
+        "date_indexed": "2010-12-02T16:36:29Z"
       }, 
       "id": 2346621
     }
+  ], 
+  "bbox": [
+    26.03, 
+    47.438, 
+    27.392, 
+    48.266
   ]
 }

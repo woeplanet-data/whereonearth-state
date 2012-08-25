@@ -301,9 +301,14 @@
       "properties": {
         "ne:ProvNumber": 2006, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=24550738", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 2.254126288397515, 
         "ne:Shape_Area": 0.307613989379, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
@@ -312,6 +317,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 34.22967329288821, 
+        "adjacent": [
+          "woe:state=56190198", 
+          "woe:state=56190202", 
+          "woe:state=20070423", 
+          "woe:state=20070446", 
+          "woe:state=20070430", 
+          "woe:state=20070435", 
+          "woe:state=24550737"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 1.852, 
         "ne:FIPS_1": "UG91", 
@@ -350,7 +364,6 @@
         ], 
         "name": "Nakapiripirit", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424974, 
         "ne_longitude": 35.00606001176021, 
         "longitude": 34.615, 
         "iso": "UG", 

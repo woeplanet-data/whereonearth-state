@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347545, 
-        "alias_UNK_V": [
-          "Kyivshchyna"
-        ], 
-        "name": "Kyyivs\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Kiev Oblast"
-        ], 
-        "ne_latitude": 51.531, 
-        "ne_longitude": 32.161, 
-        "longitude": 31.433, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2344831, 
           2347534, 
@@ -54,15 +41,47 @@
           2347558, 
           20070188
         ], 
+        "ne_latitude": 51.531, 
+        "name": "Kyyivs\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Kiev Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347545", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347545, 
+        "alias_UNK_V": [
+          "Kyivshchyna"
+        ], 
+        "longitude": 31.433, 
+        "ne_longitude": 32.161, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 49.177, 
+        "adjacent": [
+          "woe:state=2347534", 
+          "woe:state=2347535", 
+          "woe:state=2344831", 
+          "woe:state=20070188", 
+          "woe:state=2347550", 
+          "woe:state=2347554", 
+          "woe:state=2347558"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.354, 
         "sw_longitude": 29.268, 
         "fullname": "Kyyivs\u00b4ka Oblast\u00b4, Kiev Oblast, Ukraine", 
-        "sw_latitude": 49.177
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347545
     }
+  ], 
+  "bbox": [
+    29.268, 
+    49.177, 
+    32.161, 
+    51.531
   ]
 }

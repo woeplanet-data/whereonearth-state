@@ -1020,17 +1020,30 @@
         "alias_ENG_P": [
           "Overyssel"
         ], 
+        "hierarchy": [
+          "woe:state=2346380", 
+          "woe:country=23424909", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 52.85341502588278, 
         "ne:Shape_Area": 0.441874568838, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "19860101", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "NLD", 
-        "ne:OBJECTID": 899, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 5.7851562842352, 
+        "adjacent": [
+          "woe:state=2346373", 
+          "woe:state=2346384", 
+          "woe:state=2346374", 
+          "woe:state=2346375", 
+          "woe:state=2345486", 
+          "woe:state=2345487"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.486, 
         "ne:FIPS_1": "NL15", 
@@ -1041,8 +1054,8 @@
         "alias_DUT_A": [
           "OV"
         ], 
-        "ne:VALIDFR_1": "19860101", 
-        "ne:DataRank": 8, 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 899, 
         "ne:Postal": "OV", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -1058,7 +1071,7 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 3343.1, 
         "woe:id": "2346380", 
-        "ne:HASC_1": "NL.OV", 
+        "name": "Overijssel", 
         "lang": "DUT", 
         "adjacent_woeid": [
           2346384, 
@@ -1068,9 +1081,8 @@
           2346375, 
           2346374
         ], 
-        "name": "Overijssel", 
+        "ne:HASC_1": "NL.OV", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424909, 
         "ne_longitude": 7.047818230726818, 
         "longitude": 6.425, 
         "ne:VertexCou": 239.0, 

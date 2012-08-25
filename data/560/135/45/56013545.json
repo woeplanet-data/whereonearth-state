@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 56013545, 
-        "name": "Oromia", 
         "adjacent_woeid": [
           2345939, 
           2345941, 
@@ -48,17 +46,37 @@
           56013543, 
           56013544
         ], 
-        "ne_latitude": 10.387, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Oromia", 
         "alias_ENG_V": [
           "Oromiya"
         ], 
+        "hierarchy": [
+          "woe:state=56013545", 
+          "woe:country=23424808", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56013545, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 42.977, 
         "longitude": 40.381, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "ET", 
         "date_indexed": "2010-12-02T08:52:12Z", 
-        "parent_woeid": 23424808, 
+        "adjacent": [
+          "woe:state=20069908", 
+          "woe:state=56013543", 
+          "woe:state=56013537", 
+          "woe:state=56013541", 
+          "woe:state=56013538", 
+          "woe:state=56013542", 
+          "woe:state=2345939", 
+          "woe:state=56013539", 
+          "woe:state=56013544", 
+          "woe:state=2345941", 
+          "woe:state=56013540", 
+          "woe:state=56013536"
+        ], 
+        "ne_latitude": 10.387, 
         "latitude": 6.895, 
         "sw_longitude": 34.128, 
         "fullname": "Oromia, Ethiopia", 
@@ -66,5 +84,11 @@
       }, 
       "id": 56013545
     }
+  ], 
+  "bbox": [
+    34.128, 
+    3.402, 
+    42.977, 
+    10.387
   ]
 }

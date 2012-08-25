@@ -12,11 +12,11 @@
             ], 
             [
               12.468, 
-              43.920
+              43.92
             ], 
             [
               12.496, 
-              43.920
+              43.92
             ], 
             [
               12.496, 
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ITA", 
-        "woeid": 20070550, 
-        "name": "Montegiardino", 
         "adjacent_woeid": [
           20070548, 
           20070549
         ], 
-        "ne_latitude": 43.920, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Montegiardino", 
+        "hierarchy": [
+          "woe:state=20070550", 
+          "woe:country=23424947", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070550, 
         "ne_longitude": 12.496, 
         "longitude": 12.482, 
-        "placetype": "State", 
-        "iso": "SM", 
-        "date_indexed": "2010-12-02T09:58:07Z", 
-        "parent_woeid": 23424947, 
+        "placetype": "state", 
         "latitude": 43.908, 
+        "iso": "SM", 
+        "sw_latitude": 43.896, 
+        "adjacent": [
+          "woe:state=20070548", 
+          "woe:state=20070549"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.92, 
         "sw_longitude": 12.468, 
         "fullname": "Montegiardino, San Marino", 
-        "sw_latitude": 43.896
+        "date_indexed": "2010-12-02T09:58:07Z"
       }, 
       "id": 20070550
     }
+  ], 
+  "bbox": [
+    12.468, 
+    43.896, 
+    12.496, 
+    43.92
   ]
 }

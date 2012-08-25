@@ -8,7 +8,7 @@
           [
             [
               11.733, 
-              -21.190
+              -21.19
             ], 
             [
               11.733, 
@@ -20,11 +20,11 @@
             ], 
             [
               16.721, 
-              -21.190
+              -21.19
             ], 
             [
               11.733, 
-              -21.190
+              -21.19
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20069839, 
-        "name": "Kunene", 
         "adjacent_woeid": [
           2344662, 
           2344667, 
@@ -43,20 +41,41 @@
           20069842, 
           20069843
         ], 
-        "ne_latitude": -16.965, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kunene", 
+        "hierarchy": [
+          "woe:state=20069839", 
+          "woe:country=23424987", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069839, 
         "ne_longitude": 16.721, 
         "longitude": 14.227, 
-        "placetype": "State", 
-        "iso": "NA", 
-        "date_indexed": "2010-12-02T07:50:17Z", 
-        "parent_woeid": 23424987, 
+        "placetype": "state", 
         "latitude": -19.077, 
+        "iso": "NA", 
+        "sw_latitude": -21.19, 
+        "adjacent": [
+          "woe:state=2344662", 
+          "woe:state=20069837", 
+          "woe:state=2344667", 
+          "woe:state=20069842", 
+          "woe:state=20069843", 
+          "woe:state=20069841", 
+          "woe:state=20069835"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -16.965, 
         "sw_longitude": 11.733, 
         "fullname": "Kunene, Namibia", 
-        "sw_latitude": -21.190
+        "date_indexed": "2010-12-02T07:50:17Z"
       }, 
       "id": 20069839
     }
+  ], 
+  "bbox": [
+    11.733, 
+    -21.19, 
+    16.721, 
+    -16.965
   ]
 }

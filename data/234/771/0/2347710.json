@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347710, 
-        "name": "Long An", 
         "adjacent_woeid": [
           2344939, 
           2344943, 
@@ -42,14 +40,28 @@
           2347722, 
           2347728
         ], 
-        "ne_latitude": 11.038, 
+        "name": "Long An", 
+        "hierarchy": [
+          "woe:state=2347710", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347710, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.747, 
         "longitude": 106.128, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347722", 
+          "woe:state=2347728", 
+          "woe:state=2344939", 
+          "woe:state=2344943", 
+          "woe:state=2347714", 
+          "woe:state=2347717"
+        ], 
+        "ne_latitude": 11.038, 
         "latitude": 10.715, 
         "sw_longitude": 105.508, 
         "fullname": "Long An, Vietnam", 
@@ -57,5 +69,11 @@
       }, 
       "id": 2347710
     }
+  ], 
+  "bbox": [
+    105.508, 
+    10.391, 
+    106.747, 
+    11.038
   ]
 }

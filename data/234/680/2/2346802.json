@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.378, 
-        "name": "Morovis", 
         "adjacent_woeid": [
           2346793, 
           2346803, 
@@ -42,23 +40,43 @@
           2346863, 
           2346864
         ], 
+        "name": "Morovis", 
+        "hierarchy": [
+          "woe:state=2346802", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346802, 
         "alias_SPA_V": [
           "Morovis Municipios"
         ], 
         "ne_longitude": -66.365, 
         "longitude": -66.415, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.317, 
         "sw_longitude": -66.465, 
+        "sw_latitude": 18.256, 
+        "adjacent": [
+          "woe:state=2346793", 
+          "woe:state=2346862", 
+          "woe:state=2346851", 
+          "woe:state=2346803", 
+          "woe:state=2346863", 
+          "woe:state=2346864"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.378, 
+        "iso": "PR", 
         "fullname": "Morovis, Puerto Rico", 
-        "sw_latitude": 18.256
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346802
     }
+  ], 
+  "bbox": [
+    -66.465, 
+    18.256, 
+    -66.365, 
+    18.378
   ]
 }

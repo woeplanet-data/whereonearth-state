@@ -7,24 +7,24 @@
         "coordinates": [
           [
             [
-              -71.120, 
-              -18.350
+              -71.12, 
+              -18.35
             ], 
             [
-              -71.120, 
-              -16.780
-            ], 
-            [
-              -69.463, 
-              -16.780
+              -71.12, 
+              -16.78
             ], 
             [
               -69.463, 
-              -18.350
+              -16.78
             ], 
             [
-              -71.120, 
-              -18.350
+              -69.463, 
+              -18.35
+            ], 
+            [
+              -71.12, 
+              -18.35
             ]
           ]
         ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346490, 
-        "name": "Tacna", 
         "adjacent_woeid": [
           2344804, 
           2346485, 
           2346488, 
           56043702
         ], 
-        "ne_latitude": -16.780, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tacna", 
+        "hierarchy": [
+          "woe:state=2346490", 
+          "woe:country=23424919", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346490, 
         "ne_longitude": -69.463, 
         "longitude": -70.291, 
-        "placetype": "State", 
-        "iso": "PE", 
-        "date_indexed": "2010-12-02T16:12:03Z", 
-        "parent_woeid": 23424919, 
+        "placetype": "state", 
         "latitude": -17.565, 
-        "sw_longitude": -71.120, 
+        "iso": "PE", 
+        "sw_latitude": -18.35, 
+        "adjacent": [
+          "woe:state=56043702", 
+          "woe:state=2344804", 
+          "woe:state=2346485", 
+          "woe:state=2346488"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -16.78, 
+        "sw_longitude": -71.12, 
         "fullname": "Tacna, Peru", 
-        "sw_latitude": -18.350
+        "date_indexed": "2010-12-02T16:12:03Z"
       }, 
       "id": 2346490
     }
+  ], 
+  "bbox": [
+    -71.12, 
+    -18.35, 
+    -69.463, 
+    -16.78
   ]
 }

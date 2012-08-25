@@ -40,8 +40,13 @@
         "alias_ENG_P": [
           "Canton of Lucerne"
         ], 
+        "hierarchy": [
+          "woe:state=2347093", 
+          "woe:country=23424957", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.287, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uce78\ud1a4 \ub8e8\uccb4\ub978"
         ], 
@@ -59,6 +64,14 @@
           "Luzernin kantoni"
         ], 
         "sw_longitude": 7.836, 
+        "adjacent": [
+          "woe:state=2347083", 
+          "woe:state=2347087", 
+          "woe:state=2347095", 
+          "woe:state=2347096", 
+          "woe:state=2347099", 
+          "woe:state=2347106"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.031, 
         "date_indexed": "2010-12-02T18:19:21Z", 
@@ -75,7 +88,6 @@
           2347106
         ], 
         "name": "Kanton Luzern", 
-        "parent_woeid": 23424957, 
         "ne_longitude": 8.514, 
         "longitude": 8.175, 
         "iso": "CH", 
@@ -87,5 +99,11 @@
       }, 
       "id": 2347093
     }
+  ], 
+  "bbox": [
+    7.836, 
+    46.775, 
+    8.514, 
+    47.287
   ]
 }

@@ -201,20 +201,25 @@
         "alias_ENG_P": [
           "Daegu"
         ], 
+        "hierarchy": [
+          "woe:state=2345971", 
+          "woe:country=23424868", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.00932689062358, 
         "ne:Shape_Area": 0.0464718701132, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_V": [
           "\ub300\uad6c\uad11\uc5ed"
         ], 
-        "ne:MAP_COLOR": 5, 
+        "ne:VALIDFR_1": "1981", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u5927\u90b1"
         ], 
-        "ne:OBJECTID": 2509, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30c6\u30b0"
         ], 
@@ -224,6 +229,10 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 128.47529015511668, 
+        "adjacent": [
+          "woe:state=2345967", 
+          "woe:state=2345970"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.806, 
         "ne:FIPS_1": "KS15", 
@@ -233,9 +242,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Metropolitan City", 
         "date_indexed": "2010-12-02T17:52:39Z", 
-        "ne:VertexCou": 44.0, 
-        "ne:VALIDFR_1": "1981", 
-        "ne:DataRank": 3, 
+        "lang": "KOR", 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 2509, 
         "ne:Postal": "TG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Taegu|Daegu Gwang'yeogsi|Taegu-gwangyoksi|Taikyu", 
@@ -251,17 +260,16 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 465.5, 
         "woe:id": "2345971", 
-        "ne:HASC_1": "KR.TG", 
-        "lang": "KOR", 
+        "name": "\ub300\uad6c", 
+        "ne:VertexCou": 44.0, 
         "adjacent_woeid": [
           2345967, 
           2345970
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "\ub300\uad6c", 
+        "ne:HASC_1": "KR.TG", 
         "ne:REMARKS_1": "22 (NSO Code)", 
         "ne:Country_Pr": null, 
-        "parent_woeid": 23424868, 
         "ne_longitude": 128.76230106004596, 
         "longitude": 128.555, 
         "iso": "KR", 

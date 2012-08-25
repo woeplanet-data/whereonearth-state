@@ -32,24 +32,33 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 56051603, 
-        "name": "Northern", 
         "adjacent_woeid": [
           2344720, 
           56051601, 
           56051602
         ], 
-        "ne_latitude": 26.423, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Northern", 
         "alias_ENG_V": [
           "Northern Governorate"
         ], 
+        "hierarchy": [
+          "woe:state=56051603", 
+          "woe:country=23424753", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56051603, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 50.562, 
         "longitude": 50.497, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "BH", 
         "date_indexed": "2010-12-02T16:11:57Z", 
-        "parent_woeid": 23424753, 
+        "adjacent": [
+          "woe:state=2344720", 
+          "woe:state=56051601", 
+          "woe:state=56051602"
+        ], 
+        "ne_latitude": 26.423, 
         "latitude": 26.151, 
         "sw_longitude": 50.325, 
         "fullname": "Northern, Bahrain", 
@@ -57,5 +66,11 @@
       }, 
       "id": 56051603
     }
+  ], 
+  "bbox": [
+    50.325, 
+    26.053, 
+    50.562, 
+    26.423
   ]
 }

@@ -37,8 +37,13 @@
         "alias_SWE_Q": [
           "Podlasie"
         ], 
+        "hierarchy": [
+          "woe:state=12577944", 
+          "woe:country=23424923", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 54.411, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_ITA_Q": [
           "Podlachia"
         ], 
@@ -50,9 +55,16 @@
           "Podlaquia"
         ], 
         "sw_longitude": 21.594, 
+        "adjacent": [
+          "woe:state=55848082", 
+          "woe:state=12577938", 
+          "woe:state=55848078", 
+          "woe:state=12577941", 
+          "woe:state=12577948"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 53.345, 
-        "date_indexed": "2010-12-02T12:08:44Z", 
+        "sw_latitude": 52.279, 
         "alias_GER_Q": [
           "Podlachien"
         ], 
@@ -65,11 +77,10 @@
           55848082
         ], 
         "name": "Podlaskie", 
-        "parent_woeid": 23424923, 
         "ne_longitude": 23.946, 
-        "longitude": 22.770, 
+        "longitude": 22.77, 
         "iso": "PL", 
-        "sw_latitude": 52.279, 
+        "date_indexed": "2010-12-02T12:08:44Z", 
         "fullname": "Podlaskie, Poland", 
         "alias_FRE_Q": [
           "La Podlachie"
@@ -77,5 +88,11 @@
       }, 
       "id": 12577944
     }
+  ], 
+  "bbox": [
+    21.594, 
+    52.279, 
+    23.946, 
+    54.411
   ]
 }

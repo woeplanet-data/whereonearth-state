@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 15021765, 
-        "name": "Waikato", 
         "adjacent_woeid": [
           15021753, 
           15021756, 
@@ -41,20 +39,39 @@
           15021763, 
           15021764
         ], 
-        "ne_latitude": -36.468, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Waikato", 
+        "hierarchy": [
+          "woe:state=15021765", 
+          "woe:country=23424916", 
+          "woe:planet=1"
+        ], 
+        "woeid": 15021765, 
         "ne_longitude": 176.505, 
         "longitude": 175.558, 
-        "placetype": "State", 
-        "iso": "NZ", 
-        "date_indexed": "2010-12-02T17:02:10Z", 
-        "parent_woeid": 23424916, 
+        "placetype": "state", 
         "latitude": -37.884, 
+        "iso": "NZ", 
+        "sw_latitude": -39.301, 
+        "adjacent": [
+          "woe:state=15021756", 
+          "woe:state=15021753", 
+          "woe:state=15021760", 
+          "woe:state=15021764", 
+          "woe:state=15021763"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -36.468, 
         "sw_longitude": 174.611, 
         "fullname": "Waikato, New Zealand", 
-        "sw_latitude": -39.301
+        "date_indexed": "2010-12-02T17:02:10Z"
       }, 
       "id": 15021765
     }
+  ], 
+  "bbox": [
+    174.611, 
+    -39.301, 
+    176.505, 
+    -36.468
   ]
 }

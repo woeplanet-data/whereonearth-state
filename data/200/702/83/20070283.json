@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070283, 
-        "name": "Abseron", 
         "adjacent_woeid": [
           20070218, 
           20070247, 
@@ -42,20 +40,40 @@
           20070272, 
           20070282
         ], 
-        "ne_latitude": 40.579, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Abseron", 
+        "hierarchy": [
+          "woe:state=20070283", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070283, 
         "ne_longitude": 49.897, 
         "longitude": 49.101, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 40.3, 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
-        "latitude": 40.300, 
+        "sw_latitude": 40.021, 
+        "adjacent": [
+          "woe:state=20070218", 
+          "woe:state=20070282", 
+          "woe:state=20070272", 
+          "woe:state=20070270", 
+          "woe:state=20070247", 
+          "woe:state=20070271"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.579, 
         "sw_longitude": 48.785, 
         "fullname": "Abseron, Azerbaijan", 
-        "sw_latitude": 40.021
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070283
     }
+  ], 
+  "bbox": [
+    48.785, 
+    40.021, 
+    49.897, 
+    40.579
   ]
 }

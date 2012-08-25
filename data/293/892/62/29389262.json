@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              26.040, 
+              26.04, 
               62.141
             ], 
             [
-              26.040, 
+              26.04, 
               64.037
             ], 
             [
@@ -23,7 +23,7 @@
               62.141
             ], 
             [
-              26.040, 
+              26.04, 
               62.141
             ]
           ]
@@ -31,23 +31,41 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FIN", 
-        "woeid": 29389262, 
-        "alias_SWE_V": [
-          "Norra Savolax"
-        ], 
-        "name": "Pohjois-Savon maakunta", 
-        "alias_ENG_P": [
-          "Northern Savonia"
-        ], 
-        "ne_latitude": 64.037, 
-        "provider": "geoplanet 7.6.0", 
         "alias_ENG_V": [
           "North Savo"
         ], 
-        "ne_longitude": 29.098, 
-        "longitude": 27.569, 
-        "placetype": "State", 
+        "alias_SWE_V": [
+          "Norra Savolax"
+        ], 
+        "alias_SWE_Q": [
+          "Norra Savolaxs landskap"
+        ], 
+        "alias_ENG_P": [
+          "Northern Savonia"
+        ], 
+        "hierarchy": [
+          "woe:state=29389262", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 64.037, 
+        "placetype": "state", 
+        "woeid": 29389262, 
+        "sw_longitude": 26.04, 
+        "alias_FIN_V": [
+          "Pohjois-Savon maakunnaksi"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 63.089, 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "adjacent": [
+          "woe:state=29389260", 
+          "woe:state=29389264", 
+          "woe:state=29389258", 
+          "woe:state=29389261", 
+          "woe:state=29389265"
+        ], 
+        "lang": "FIN", 
         "adjacent_woeid": [
           29389260, 
           29389265, 
@@ -55,21 +73,20 @@
           29389258, 
           29389264
         ], 
+        "name": "Pohjois-Savon maakunta", 
+        "ne_longitude": 29.098, 
+        "longitude": 27.569, 
         "iso": "FI", 
-        "date_indexed": "2010-12-02T16:39:41Z", 
-        "alias_FIN_V": [
-          "Pohjois-Savon maakunnaksi"
-        ], 
-        "parent_woeid": 23424812, 
-        "latitude": 63.089, 
-        "sw_longitude": 26.040, 
-        "fullname": "Pohjois-Savon maakunta, Eastern Finland, Northern Savo, Finland", 
         "sw_latitude": 62.141, 
-        "alias_SWE_Q": [
-          "Norra Savolaxs landskap"
-        ]
+        "fullname": "Pohjois-Savon maakunta, Eastern Finland, Northern Savo, Finland"
       }, 
       "id": 29389262
     }
+  ], 
+  "bbox": [
+    26.04, 
+    62.141, 
+    29.098, 
+    64.037
   ]
 }

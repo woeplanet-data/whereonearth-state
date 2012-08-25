@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347721, 
-        "name": "Dong Nai", 
         "adjacent_woeid": [
           2347709, 
           2347728, 
@@ -42,20 +40,40 @@
           20070078, 
           20070086
         ], 
-        "ne_latitude": 11.556, 
+        "name": "Dong Nai", 
+        "hierarchy": [
+          "woe:state=2347721", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347721, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 107.557, 
         "longitude": 107.143, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
-        "latitude": 11.040, 
+        "adjacent": [
+          "woe:state=2347729", 
+          "woe:state=20070078", 
+          "woe:state=20070086", 
+          "woe:state=2347731", 
+          "woe:state=2347728", 
+          "woe:state=2347709"
+        ], 
+        "ne_latitude": 11.556, 
+        "latitude": 11.04, 
         "sw_longitude": 106.728, 
         "fullname": "Dong Nai, Vietnam", 
         "sw_latitude": 10.524
       }, 
       "id": 2347721
     }
+  ], 
+  "bbox": [
+    106.728, 
+    10.524, 
+    107.557, 
+    11.556
   ]
 }

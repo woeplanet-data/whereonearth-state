@@ -12,11 +12,11 @@
             ], 
             [
               -23.488, 
-              66.470
+              66.47
             ], 
             [
               -21.959, 
-              66.470
+              66.47
             ], 
             [
               -21.959, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2345697, 
-        "name": "Nordur-Isafjardarsysla", 
         "adjacent_woeid": [
           2345688, 
           2345703, 
@@ -41,23 +39,42 @@
           2345708, 
           20070104
         ], 
-        "ne_latitude": 66.470, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nordur-Isafjardarsysla", 
+        "hierarchy": [
+          "woe:state=2345697", 
+          "woe:country=23424845", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345697, 
         "ne_longitude": -21.959, 
         "longitude": -22.231, 
-        "placetype": "State", 
-        "iso": "IS", 
-        "date_indexed": "2010-12-02T09:55:32Z", 
-        "parent_woeid": 23424845, 
+        "placetype": "state", 
         "latitude": 66.062, 
+        "iso": "IS", 
+        "sw_latitude": 65.654, 
+        "adjacent": [
+          "woe:state=2345688", 
+          "woe:state=20070104", 
+          "woe:state=2345703", 
+          "woe:state=2345706", 
+          "woe:state=2345708"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 66.47, 
         "sw_longitude": -23.488, 
         "fullname": "Nordur-Isafjardarsysla, Iceland", 
         "alias_UNK_A": [
           "N-ISF"
         ], 
-        "sw_latitude": 65.654
+        "date_indexed": "2010-12-02T09:55:32Z"
       }, 
       "id": 2345697
     }
+  ], 
+  "bbox": [
+    -23.488, 
+    65.654, 
+    -21.959, 
+    66.47
   ]
 }

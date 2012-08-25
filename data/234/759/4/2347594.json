@@ -1526,11 +1526,16 @@
         "alias_KOR_Q": [
           "\uc624\ud558\uc774\uc624"
         ], 
+        "hierarchy": [
+          "woe:state=2347594", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.32427166610455, 
         "ne:Shape_Area": 12.3263998881, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18030301", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "OH"
         ], 
@@ -1540,13 +1545,20 @@
         "alias_CHI_Q": [
           "\u4fc4\u4ea5\u4fc4"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3550, 
         "alias_JPN_Q": [
           "\u30aa\u30cf\u30a4\u30aa"
         ], 
         "ne:Abbrev": "Ohio", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -84.82352909529146, 
+        "adjacent": [
+          "woe:state=2347573", 
+          "woe:state=2347576", 
+          "woe:state=2347581", 
+          "woe:state=2347597", 
+          "woe:state=2347607"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.19, 
         "ne:FIPS_1": "US39", 
@@ -1554,9 +1566,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 38.40552166629192, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3550, 
+        "ne:VertexCou": 375.0, 
+        "ne:VALIDFR_1": "18030301", 
+        "ne:DataRank": 1, 
         "ne:Postal": "OH", 
         "ne:Region_Cod": "Midwest", 
         "ne:VARNAME_1": "OH|Ohio", 
@@ -1572,8 +1584,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 116153.9, 
         "woe:id": "2347594", 
-        "name": "Ohio", 
-        "ne:VertexCou": 375.0, 
+        "ne:HASC_1": "US.OH", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347573, 
           2347576, 
@@ -1581,9 +1593,8 @@
           2347597, 
           2347607
         ], 
-        "ne:HASC_1": "US.OH", 
+        "name": "Ohio", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -80.52023319740408, 
         "longitude": -82.669, 
         "iso": "US", 

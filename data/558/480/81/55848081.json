@@ -1360,9 +1360,14 @@
         "alias_ENG_P": [
           "Utena County"
         ], 
+        "hierarchy": [
+          "woe:state=55848081", 
+          "woe:country=23424875", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 55.95865184210891, 
         "ne:Shape_Area": 1.00184846526, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
@@ -1371,6 +1376,10 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 24.6305176126977, 
+        "adjacent": [
+          "woe:state=55848086", 
+          "woe:state=55848083"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 55.487, 
         "ne:FIPS_1": "LH64", 
@@ -1404,7 +1413,6 @@
         ], 
         "name": "Utenos Apskritis", 
         "ne:REMARKS_1": "NUTS code LT009", 
-        "parent_woeid": 23424875, 
         "ne_longitude": 26.800462681007957, 
         "longitude": 25.744, 
         "iso": "LT", 

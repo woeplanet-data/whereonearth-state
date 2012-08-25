@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344614, 
-        "name": "El Tarf", 
         "adjacent_woeid": [
           2344595, 
           2344607, 
           2344622, 
           2347237
         ], 
-        "ne_latitude": 36.956, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "El Tarf", 
+        "hierarchy": [
+          "woe:state=2344614", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344614, 
         "ne_longitude": 8.676, 
         "longitude": 8.181, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 36.706, 
+        "iso": "DZ", 
+        "sw_latitude": 36.456, 
+        "adjacent": [
+          "woe:state=2344607", 
+          "woe:state=2344595", 
+          "woe:state=2347237", 
+          "woe:state=2344622"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.956, 
         "sw_longitude": 7.686, 
         "fullname": "El Tarf, Algeria", 
-        "sw_latitude": 36.456
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344614
     }
+  ], 
+  "bbox": [
+    7.686, 
+    36.456, 
+    8.676, 
+    36.956
   ]
 }

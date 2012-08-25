@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070354, 
-        "name": "Tsalkis Raioni", 
         "adjacent_woeid": [
           20070349, 
           20070351, 
@@ -41,20 +39,39 @@
           20070353, 
           20070355
         ], 
-        "ne_latitude": 41.731, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tsalkis Raioni", 
+        "hierarchy": [
+          "woe:state=20070354", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070354, 
         "ne_longitude": 44.199, 
         "longitude": 43.959, 
-        "placetype": "State", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "placetype": "state", 
         "latitude": 41.607, 
+        "iso": "GE", 
+        "sw_latitude": 41.484, 
+        "adjacent": [
+          "woe:state=20070352", 
+          "woe:state=20070349", 
+          "woe:state=20070353", 
+          "woe:state=20070351", 
+          "woe:state=20070355"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.731, 
         "sw_longitude": 43.719, 
         "fullname": "Tsalkis Raioni, Georgia", 
-        "sw_latitude": 41.484
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070354
     }
+  ], 
+  "bbox": [
+    43.719, 
+    41.484, 
+    44.199, 
+    41.731
   ]
 }

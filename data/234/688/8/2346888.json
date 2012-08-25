@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346888, 
-        "name": "Amurskaya Oblast", 
         "adjacent_woeid": [
           2346881, 
           2346883, 
@@ -41,20 +39,39 @@
           12577998, 
           20070516
         ], 
-        "ne_latitude": 57.046, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Amurskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346888", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346888, 
         "ne_longitude": 134.208, 
         "longitude": 127.582, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 52.949, 
+        "iso": "RU", 
+        "sw_latitude": 48.852, 
+        "adjacent": [
+          "woe:state=2346894", 
+          "woe:state=2346883", 
+          "woe:state=2346881", 
+          "woe:state=20070516", 
+          "woe:state=12577998"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 57.046, 
         "sw_longitude": 120.955, 
         "fullname": "Amurskaya Oblast, Russia", 
-        "sw_latitude": 48.852
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346888
     }
+  ], 
+  "bbox": [
+    120.955, 
+    48.852, 
+    134.208, 
+    57.046
   ]
 }

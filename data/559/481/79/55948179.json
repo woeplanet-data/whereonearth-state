@@ -217,9 +217,14 @@
       "properties": {
         "ne:ProvNumber": 13, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55948179", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.55798533825282, 
         "ne:Shape_Area": 0.0534228366074, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -228,6 +233,11 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 28.70463585795852, 
+        "adjacent": [
+          "woe:state=55948184", 
+          "woe:state=20069881", 
+          "woe:state=2347549"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.399, 
         "ne:FIPS_1": "MD61", 
@@ -262,7 +272,6 @@
         ], 
         "name": "Basarabeasca", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424885, 
         "ne_longitude": 29.06461388482296, 
         "longitude": 28.878, 
         "iso": "MD", 

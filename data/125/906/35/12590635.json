@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "SWE", 
-        "woeid": 12590635, 
-        "name": "Jomala", 
         "adjacent_woeid": [
           12590631, 
           12590634, 
           12590638, 
           12590640
         ], 
-        "ne_latitude": 60.211, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Jomala", 
+        "hierarchy": [
+          "woe:state=12590635", 
+          "woe:country=12577865", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12590635, 
         "ne_longitude": 20.065, 
         "longitude": 19.889, 
-        "placetype": "State", 
-        "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
-        "parent_woeid": 12577865, 
+        "placetype": "state", 
         "latitude": 60.145, 
+        "iso": "AX", 
+        "sw_latitude": 60.026, 
+        "adjacent": [
+          "woe:state=12590631", 
+          "woe:state=12590634", 
+          "woe:state=12590638", 
+          "woe:state=12590640"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 60.211, 
         "sw_longitude": 19.693, 
         "fullname": "Jomala, Aland Islands", 
-        "sw_latitude": 60.026
+        "date_indexed": "2010-12-02T17:06:00Z"
       }, 
       "id": 12590635
     }
+  ], 
+  "bbox": [
+    19.693, 
+    60.026, 
+    20.065, 
+    60.211
   ]
 }

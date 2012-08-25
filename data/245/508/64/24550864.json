@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550864, 
-        "alias_UNK_V": [
-          "Opstina Zajas"
-        ], 
-        "name": "Zajas", 
-        "alias_ENG_P": [
-          "Zajas Municipality"
-        ], 
-        "ne_latitude": 41.672, 
-        "ne_longitude": 21.003, 
-        "longitude": 20.883, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550764, 
           24550767, 
@@ -52,15 +39,45 @@
           24550795, 
           24550858
         ], 
+        "name": "Zajas", 
+        "alias_ENG_P": [
+          "Zajas Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550864", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550864, 
+        "alias_UNK_V": [
+          "Opstina Zajas"
+        ], 
+        "longitude": 20.883, 
+        "ne_longitude": 21.003, 
+        "placetype": "state", 
+        "latitude": 41.597, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550764", 
+          "woe:state=24550767", 
+          "woe:state=24550775", 
+          "woe:state=24550858", 
+          "woe:state=24550795"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.597, 
+        "ne_latitude": 41.672, 
         "sw_longitude": 20.748, 
         "fullname": "Zajas, Zajas Municipality, Macedonia", 
         "sw_latitude": 41.532
       }, 
       "id": 24550864
     }
+  ], 
+  "bbox": [
+    20.748, 
+    41.532, 
+    21.003, 
+    41.672
   ]
 }

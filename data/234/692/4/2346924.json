@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              42.210, 
+              42.21, 
               49.807
             ], 
             [
-              42.210, 
+              42.21, 
               52.829
             ], 
             [
@@ -23,7 +23,7 @@
               49.807
             ], 
             [
-              42.210, 
+              42.21, 
               49.807
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346924, 
-        "name": "Saratovskaya Oblast", 
         "adjacent_woeid": [
           2345998, 
           2346906, 
@@ -44,20 +42,42 @@
           2346933, 
           2346935
         ], 
-        "ne_latitude": 52.829, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saratovskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346924", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346924, 
         "ne_longitude": 50.852, 
         "longitude": 46.715, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 51.318, 
-        "sw_longitude": 42.210, 
+        "iso": "RU", 
+        "sw_latitude": 49.807, 
+        "adjacent": [
+          "woe:state=2345998", 
+          "woe:state=2346916", 
+          "woe:state=2346918", 
+          "woe:state=2346906", 
+          "woe:state=2346927", 
+          "woe:state=2346931", 
+          "woe:state=2346933", 
+          "woe:state=2346935"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 52.829, 
+        "sw_longitude": 42.21, 
         "fullname": "Saratovskaya Oblast, Russia", 
-        "sw_latitude": 49.807
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346924
     }
+  ], 
+  "bbox": [
+    42.21, 
+    49.807, 
+    50.852, 
+    52.829
   ]
 }

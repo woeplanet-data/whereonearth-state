@@ -5,18 +5,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 56120054, 
+        "adjacent_woeid": [
+          56120050
+        ], 
         "name": "Grand Casablanca", 
         "alias_ENG_P": [
           "Greater Casablanca"
         ], 
-        "parent_woeid": 23424893, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          56120050
+        "hierarchy": [
+          "woe:state=56120054", 
+          "woe:country=23424893", 
+          "woe:planet=1"
         ], 
-        "iso": "MA", 
+        "woeid": 56120054, 
         "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
+        "iso": "MA", 
+        "adjacent": [
+          "woe:state=56120050"
+        ], 
         "alias_ARA_Q": [
           "\u062c\u0647\u0629 \u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 \u0627\u0644\u0643\u0628\u0631\u0649\u200e"
         ], 

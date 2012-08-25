@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2347630, 
-        "name": "Poni", 
         "adjacent_woeid": [
           2345471, 
           2347612, 
@@ -42,20 +40,40 @@
           55967357, 
           56017364
         ], 
-        "ne_latitude": 10.763, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Poni", 
+        "hierarchy": [
+          "woe:state=2347630", 
+          "woe:country=23424978", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347630, 
         "ne_longitude": -2.763, 
         "longitude": -3.346, 
-        "placetype": "State", 
-        "iso": "BF", 
-        "date_indexed": "2010-12-02T09:36:17Z", 
-        "parent_woeid": 23424978, 
+        "placetype": "state", 
         "latitude": 10.082, 
+        "iso": "BF", 
+        "sw_latitude": 9.852, 
+        "adjacent": [
+          "woe:state=2347612", 
+          "woe:state=55967357", 
+          "woe:state=2347621", 
+          "woe:state=56017364", 
+          "woe:state=2345471", 
+          "woe:state=55967007"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 10.763, 
         "sw_longitude": -4.001, 
         "fullname": "Poni, Burkina Faso", 
-        "sw_latitude": 9.852
+        "date_indexed": "2010-12-02T09:36:17Z"
       }, 
       "id": 2347630
     }
+  ], 
+  "bbox": [
+    -4.001, 
+    9.852, 
+    -2.763, 
+    10.763
   ]
 }

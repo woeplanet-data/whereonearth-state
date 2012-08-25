@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070179, 
-        "name": "Almaty", 
         "adjacent_woeid": [
           20070180
         ], 
-        "ne_latitude": 43.282, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Almaty", 
+        "hierarchy": [
+          "woe:state=20070179", 
+          "woe:country=23424871", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070179, 
         "ne_longitude": 76.964, 
         "longitude": 76.921, 
-        "placetype": "State", 
-        "iso": "KZ", 
-        "date_indexed": "2010-12-02T08:54:03Z", 
-        "parent_woeid": 23424871, 
+        "placetype": "state", 
         "latitude": 43.253, 
+        "iso": "KZ", 
+        "sw_latitude": 43.227, 
+        "adjacent": [
+          "woe:state=20070180"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.282, 
         "sw_longitude": 76.877, 
         "fullname": "Almaty, Kazakhstan", 
-        "sw_latitude": 43.227
+        "date_indexed": "2010-12-02T08:54:03Z"
       }, 
       "id": 20070179
     }
+  ], 
+  "bbox": [
+    76.877, 
+    43.227, 
+    76.964, 
+    43.282
   ]
 }

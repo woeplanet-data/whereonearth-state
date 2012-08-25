@@ -12,11 +12,11 @@
             ], 
             [
               55.755, 
-              26.060
+              26.06
             ], 
             [
               56.175, 
-              26.060
+              26.06
             ], 
             [
               56.175, 
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347113, 
-        "name": "Ras Al Khaimah", 
         "adjacent_woeid": [
           2347112, 
           2347114, 
           2347115, 
           4693371
         ], 
-        "ne_latitude": 26.060, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ras Al Khaimah", 
         "alias_ENG_V": [
           "Ra's al Khaymah"
         ], 
+        "hierarchy": [
+          "woe:state=2347113", 
+          "woe:country=23424738", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347113, 
         "ne_longitude": 56.175, 
         "longitude": 55.965, 
-        "placetype": "State", 
-        "iso": "AE", 
-        "date_indexed": "2010-12-02T08:58:41Z", 
-        "parent_woeid": 23424738, 
+        "placetype": "state", 
         "latitude": 25.708, 
+        "iso": "AE", 
+        "sw_latitude": 25.165, 
+        "adjacent": [
+          "woe:state=2347112", 
+          "woe:state=4693371", 
+          "woe:state=2347114", 
+          "woe:state=2347115"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 26.06, 
         "sw_longitude": 55.755, 
         "fullname": "Ras Al Khaimah, United Arab Emirates", 
-        "sw_latitude": 25.165
+        "date_indexed": "2010-12-02T08:58:41Z"
       }, 
       "id": 2347113
     }
+  ], 
+  "bbox": [
+    55.755, 
+    25.165, 
+    56.175, 
+    26.06
   ]
 }

@@ -31,43 +31,58 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "DUT", 
-        "woeid": 2346381, 
+        "hierarchy": [
+          "woe:state=2346381", 
+          "woe:country=23424909", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 52.304, 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uc704\ud2b8\ub808\ud750\ud2b8"
         ], 
-        "name": "Utrecht", 
+        "alias_CHI_Q": [
+          "\u4e4c\u7279\u52d2\u514b"
+        ], 
+        "woeid": 2346381, 
+        "alias_JPN_Q": [
+          "\u30e6\u30c8\u30ec\u30d2\u30c8"
+        ], 
+        "sw_longitude": 4.792, 
+        "adjacent": [
+          "woe:state=2346375", 
+          "woe:state=2346379", 
+          "woe:state=2346383"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 52.118, 
+        "sw_latitude": 51.933, 
+        "alias_DUT_A": [
+          "UT"
+        ], 
+        "alias_DUT_V": [
+          "Utrecht Provincie"
+        ], 
+        "lang": "DUT", 
         "adjacent_woeid": [
           2346375, 
           2346379, 
           2346383
         ], 
-        "ne_latitude": 52.304, 
-        "alias_JPN_Q": [
-          "\u30e6\u30c8\u30ec\u30d2\u30c8"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Utrecht", 
         "ne_longitude": 5.627, 
-        "longitude": 5.210, 
-        "alias_CHI_Q": [
-          "\u4e4c\u7279\u52d2\u514b"
-        ], 
-        "placetype": "State", 
-        "alias_DUT_A": [
-          "UT"
-        ], 
+        "longitude": 5.21, 
         "iso": "NL", 
         "date_indexed": "2010-12-02T18:16:21Z", 
-        "alias_DUT_V": [
-          "Utrecht Provincie"
-        ], 
-        "parent_woeid": 23424909, 
-        "latitude": 52.118, 
-        "sw_longitude": 4.792, 
-        "fullname": "Utrecht, Netherlands", 
-        "sw_latitude": 51.933
+        "fullname": "Utrecht, Netherlands"
       }, 
       "id": 2346381
     }
+  ], 
+  "bbox": [
+    4.792, 
+    51.933, 
+    5.627, 
+    52.304
   ]
 }

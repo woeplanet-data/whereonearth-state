@@ -32,16 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2346261, 
-        "name": "Ad Dakhiliyah", 
-        "alias_ENG_P": [
-          "Interior"
-        ], 
-        "ne_latitude": 23.504, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 58.588, 
-        "longitude": 57.457, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2346255, 
           2346256, 
@@ -49,10 +39,31 @@
           2346260, 
           7038775
         ], 
+        "name": "Ad Dakhiliyah", 
+        "alias_ENG_P": [
+          "Interior"
+        ], 
+        "hierarchy": [
+          "woe:state=2346261", 
+          "woe:country=23424898", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346261, 
+        "ne_longitude": 58.588, 
+        "longitude": 57.457, 
+        "placetype": "state", 
+        "latitude": 22.3, 
         "iso": "OM", 
-        "date_indexed": "2010-12-02T09:35:37Z", 
-        "parent_woeid": 23424898, 
-        "latitude": 22.300, 
+        "sw_latitude": 21.096, 
+        "adjacent": [
+          "woe:state=7038775", 
+          "woe:state=2346257", 
+          "woe:state=2346256", 
+          "woe:state=2346255", 
+          "woe:state=2346260"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 23.504, 
         "sw_longitude": 56.326, 
         "fullname": "Ad Dakhiliyah, Oman", 
         "alias_ARA_V": [
@@ -61,9 +72,15 @@
         "alias_GER_Q": [
           "Al Goof"
         ], 
-        "sw_latitude": 21.096
+        "date_indexed": "2010-12-02T09:35:37Z"
       }, 
       "id": 2346261
     }
+  ], 
+  "bbox": [
+    56.326, 
+    21.096, 
+    58.588, 
+    23.504
   ]
 }

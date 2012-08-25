@@ -15,11 +15,11 @@
               25.827
             ], 
             [
-              -77.700, 
+              -77.7, 
               25.827
             ], 
             [
-              -77.700, 
+              -77.7, 
               25.386
             ], 
             [
@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24551241, 
         "name": "Berry Islands", 
-        "ne_latitude": 25.827, 
+        "hierarchy": [
+          "woe:state=24551241", 
+          "woe:country=23424758", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24551241, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -77.700, 
+        "ne_longitude": -77.7, 
         "longitude": -77.852, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "BS", 
         "date_indexed": "2010-12-02T07:50:25Z", 
-        "parent_woeid": 23424758, 
+        "ne_latitude": 25.827, 
         "latitude": 25.755, 
         "sw_longitude": -78.034, 
         "fullname": "Berry Islands, The Bahamas", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24551241
     }
+  ], 
+  "bbox": [
+    -78.034, 
+    25.386, 
+    -77.7, 
+    25.827
   ]
 }

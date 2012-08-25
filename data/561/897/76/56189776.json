@@ -11,10 +11,19 @@
           56189777
         ], 
         "name": "Bodden Town", 
-        "parent_woeid": 23424783, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56189776", 
+          "woe:country=23424783", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "KY", 
+        "adjacent": [
+          "woe:state=56189777", 
+          "woe:state=56189779", 
+          "woe:state=56189778"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56189776, 
         "date_indexed": "2010-12-02T10:22:43Z"
       }, 

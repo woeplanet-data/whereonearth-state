@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344601, 
-        "name": "Sidi Bel Abbes", 
         "adjacent_woeid": [
           2344584, 
           2344585, 
@@ -42,20 +40,40 @@
           2344606, 
           2344619
         ], 
-        "ne_latitude": 35.435, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sidi Bel Abbes", 
+        "hierarchy": [
+          "woe:state=2344601", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344601, 
         "ne_longitude": -0.036, 
         "longitude": -0.582, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 34.822, 
+        "iso": "DZ", 
+        "sw_latitude": 34.209, 
+        "adjacent": [
+          "woe:state=2344606", 
+          "woe:state=2344598", 
+          "woe:state=2344619", 
+          "woe:state=2344584", 
+          "woe:state=2344585", 
+          "woe:state=2344589"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 35.435, 
         "sw_longitude": -1.128, 
         "fullname": "Sidi Bel Abbes, Algeria", 
-        "sw_latitude": 34.209
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344601
     }
+  ], 
+  "bbox": [
+    -1.128, 
+    34.209, 
+    -0.036, 
+    35.435
   ]
 }

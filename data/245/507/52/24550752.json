@@ -88,9 +88,15 @@
         "alias_ENG_P": [
           "Cair Municipality"
         ], 
+        "hierarchy": [
+          "woe:state=24550752", 
+          "woe:town=482940", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.05249807352732, 
         "ne:Shape_Area": 0.000999670967229, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -99,6 +105,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 21.38859663292834, 
+        "adjacent": [
+          "woe:state=55848399", 
+          "woe:state=24550756", 
+          "woe:state=24550766", 
+          "woe:state=24550773", 
+          "woe:state=24550810"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.027, 
         "ne:FIPS_1": "MKA3", 
@@ -138,7 +151,6 @@
         "alias_UNK_S": [
           "Opstina Cair"
         ], 
-        "parent_woeid": 482940, 
         "alias_UNK_V": [
           "Opstina \u010cair"
         ], 

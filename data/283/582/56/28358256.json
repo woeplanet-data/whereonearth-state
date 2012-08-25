@@ -15,11 +15,11 @@
               16.517
             ], 
             [
-              -61.000, 
+              -61.0, 
               16.517
             ], 
             [
-              -61.000, 
+              -61.0, 
               15.868
             ], 
             [
@@ -32,20 +32,27 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 28358256, 
-        "name": "Pointe-\u00c0-Pitre", 
         "adjacent_woeid": [
           24549706
         ], 
-        "ne_latitude": 16.517, 
+        "name": "Pointe-\u00c0-Pitre", 
+        "hierarchy": [
+          "woe:state=28358256", 
+          "woe:country=23424831", 
+          "woe:planet=1"
+        ], 
+        "woeid": 28358256, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -61.000, 
-        "longitude": -61.440, 
-        "placetype": "State", 
+        "ne_longitude": -61.0, 
+        "longitude": -61.44, 
+        "placetype": "state", 
         "iso": "GP", 
         "date_indexed": "2010-12-02T08:50:01Z", 
-        "parent_woeid": 23424831, 
-        "latitude": 16.360, 
+        "adjacent": [
+          "woe:state=24549706"
+        ], 
+        "ne_latitude": 16.517, 
+        "latitude": 16.36, 
         "sw_longitude": -61.594, 
         "fullname": "Pointe-\u00c0-Pitre, Guadeloupe", 
         "alias_FRE_S": [
@@ -55,5 +62,11 @@
       }, 
       "id": 28358256
     }
+  ], 
+  "bbox": [
+    -61.594, 
+    15.868, 
+    -61.0, 
+    16.517
   ]
 }

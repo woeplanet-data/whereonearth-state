@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549833, 
         "name": "Ailuk", 
-        "ne_latitude": 10.464, 
+        "hierarchy": [
+          "woe:state=24549833", 
+          "woe:country=23424932", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549833, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 169.991, 
         "longitude": 169.952, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MH", 
         "date_indexed": "2010-12-02T09:35:31Z", 
-        "parent_woeid": 23424932, 
-        "latitude": 10.460, 
+        "ne_latitude": 10.464, 
+        "latitude": 10.46, 
         "sw_longitude": 169.866, 
         "fullname": "Ailuk, Marshall Islands", 
         "sw_latitude": 10.209
       }, 
       "id": 24549833
     }
+  ], 
+  "bbox": [
+    169.866, 
+    10.209, 
+    169.991, 
+    10.464
   ]
 }

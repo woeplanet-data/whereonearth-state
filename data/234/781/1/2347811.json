@@ -3484,9 +3484,14 @@
           "Midlands Province"
         ], 
         "ne:ScaleRank": 5, 
+        "hierarchy": [
+          "woe:state=2347811", 
+          "woe:country=23425004", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -17.130116876092927, 
         "ne:Shape_Area": 4.20354241086, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
@@ -3495,6 +3500,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 28.005195346488108, 
+        "adjacent": [
+          "woe:state=2347813", 
+          "woe:state=2347814", 
+          "woe:state=2347817", 
+          "woe:state=2347815", 
+          "woe:state=2347816"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -19.083, 
         "ne:FIPS_1": "ZI02", 
@@ -3531,7 +3543,6 @@
         ], 
         "name": "Midlands", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23425004, 
         "ne_longitude": 30.859336378870864, 
         "longitude": 29.848, 
         "iso": "ZW", 

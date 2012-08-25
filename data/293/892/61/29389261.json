@@ -31,44 +31,60 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FIN", 
-        "woeid": 29389261, 
-        "alias_SWE_V": [
-          "Norra Karelen"
-        ], 
-        "name": "Pohjois-karjala maakuntaa", 
-        "alias_ENG_P": [
-          "North Karelia"
-        ], 
-        "ne_latitude": 63.882, 
-        "provider": "geoplanet 7.6.0", 
         "alias_ENG_V": [
           "Northern Karelia"
         ], 
-        "ne_longitude": 31.586, 
-        "longitude": 29.973, 
-        "placetype": "State", 
+        "alias_SWE_V": [
+          "Norra Karelen"
+        ], 
+        "alias_SWE_Q": [
+          "Norra Karelens landskap"
+        ], 
+        "alias_ENG_P": [
+          "North Karelia"
+        ], 
+        "hierarchy": [
+          "woe:state=29389261", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 63.882, 
+        "placetype": "state", 
+        "woeid": 29389261, 
+        "sw_longitude": 28.359, 
+        "alias_FIN_V": [
+          "Pohjois-karjala makunnassa"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 62.802, 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "adjacent": [
+          "woe:state=29389253", 
+          "woe:state=29389260", 
+          "woe:state=29389264", 
+          "woe:state=29389262"
+        ], 
+        "lang": "FIN", 
         "adjacent_woeid": [
           29389264, 
           29389260, 
           29389262, 
           29389253
         ], 
+        "name": "Pohjois-karjala maakuntaa", 
+        "ne_longitude": 31.586, 
+        "longitude": 29.973, 
         "iso": "FI", 
-        "date_indexed": "2010-12-02T16:39:41Z", 
-        "alias_FIN_V": [
-          "Pohjois-karjala makunnassa"
-        ], 
-        "parent_woeid": 23424812, 
-        "latitude": 62.802, 
-        "sw_longitude": 28.359, 
-        "fullname": "Pohjois-karjala maakuntaa, Eastern Finland, Pohjois-karjala, Finland", 
         "sw_latitude": 61.722, 
-        "alias_SWE_Q": [
-          "Norra Karelens landskap"
-        ]
+        "fullname": "Pohjois-karjala maakuntaa, Eastern Finland, Pohjois-karjala, Finland"
       }, 
       "id": 29389261
     }
+  ], 
+  "bbox": [
+    28.359, 
+    61.722, 
+    31.586, 
+    63.882
   ]
 }

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              20.950, 
+              20.95, 
               41.803
             ], 
             [
-              20.950, 
+              20.95, 
               41.987
             ], 
             [
@@ -23,7 +23,7 @@
               41.803
             ], 
             [
-              20.950, 
+              20.95, 
               41.803
             ]
           ]
@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550751, 
-        "alias_UNK_V": [
-          "Opstina Brvenica"
-        ], 
-        "name": "Brvenica", 
-        "alias_ENG_P": [
-          "Brvenica Municipality"
-        ], 
-        "ne_latitude": 41.987, 
-        "ne_longitude": 21.117, 
-        "longitude": 21.033, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550767, 
           24550786, 
@@ -53,15 +40,46 @@
           24550828, 
           24550862
         ], 
+        "name": "Brvenica", 
+        "alias_ENG_P": [
+          "Brvenica Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550751", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550751, 
+        "alias_UNK_V": [
+          "Opstina Brvenica"
+        ], 
+        "longitude": 21.033, 
+        "ne_longitude": 21.117, 
+        "placetype": "state", 
+        "latitude": 41.895, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550828", 
+          "woe:state=24550767", 
+          "woe:state=24550786", 
+          "woe:state=24550862", 
+          "woe:state=24550819", 
+          "woe:state=24550821"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.895, 
-        "sw_longitude": 20.950, 
+        "ne_latitude": 41.987, 
+        "sw_longitude": 20.95, 
         "fullname": "Brvenica, Brvenica Municipality, Macedonia", 
         "sw_latitude": 41.803
       }, 
       "id": 24550751
     }
+  ], 
+  "bbox": [
+    20.95, 
+    41.803, 
+    21.117, 
+    41.987
   ]
 }

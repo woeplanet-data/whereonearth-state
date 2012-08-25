@@ -8,23 +8,23 @@
           [
             [
               -61.917, 
-              17.000
+              17.0
             ], 
             [
               -61.917, 
-              17.170
+              17.17
             ], 
             [
               -61.666, 
-              17.170
+              17.17
             ], 
             [
               -61.666, 
-              17.000
+              17.0
             ], 
             [
               -61.917, 
-              17.000
+              17.0
             ]
           ]
         ]
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344546, 
-        "name": "Saint Peter", 
         "adjacent_woeid": [
           2344542, 
           2344543, 
           2344545, 
           2344547
         ], 
-        "ne_latitude": 17.170, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint Peter", 
         "alias_ENG_V": [
           "St. Peter"
         ], 
+        "hierarchy": [
+          "woe:state=2344546", 
+          "woe:country=23424737", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344546, 
         "ne_longitude": -61.666, 
-        "longitude": -61.760, 
-        "placetype": "State", 
-        "iso": "AG", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424737, 
+        "longitude": -61.76, 
+        "placetype": "state", 
         "latitude": 17.094, 
+        "iso": "AG", 
+        "sw_latitude": 17.0, 
+        "adjacent": [
+          "woe:state=2344542", 
+          "woe:state=2344543", 
+          "woe:state=2344545", 
+          "woe:state=2344547"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.17, 
         "sw_longitude": -61.917, 
         "fullname": "Saint Peter, Antigua and Barbuda", 
-        "sw_latitude": 17.000
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 2344546
     }
+  ], 
+  "bbox": [
+    -61.917, 
+    17.0, 
+    -61.666, 
+    17.17
   ]
 }

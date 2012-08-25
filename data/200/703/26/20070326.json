@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070326, 
-        "name": "Gnaviyani", 
         "ne_latitude": -0.283, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Gnaviyani", 
+        "hierarchy": [
+          "woe:state=20070326", 
+          "woe:country=23424899", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070326, 
         "ne_longitude": 73.434, 
         "longitude": 73.433, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MV", 
-        "date_indexed": "2010-12-02T09:35:37Z", 
-        "parent_woeid": 23424899, 
+        "sw_latitude": -0.284, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -0.283, 
         "sw_longitude": 73.433, 
         "fullname": "Gnaviyani, Maldives", 
-        "sw_latitude": -0.284
+        "date_indexed": "2010-12-02T09:35:37Z"
       }, 
       "id": 20070326
     }
+  ], 
+  "bbox": [
+    73.433, 
+    -0.284, 
+    73.434, 
+    -0.283
   ]
 }

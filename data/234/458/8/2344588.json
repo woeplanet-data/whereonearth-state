@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              3.750, 
-              36.410
+              3.75, 
+              36.41
             ], 
             [
-              3.750, 
+              3.75, 
               36.916
             ], 
             [
@@ -20,11 +20,11 @@
             ], 
             [
               4.612, 
-              36.410
+              36.41
             ], 
             [
-              3.750, 
-              36.410
+              3.75, 
+              36.41
             ]
           ]
         ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344588, 
-        "name": "Tizi Ouzou", 
         "adjacent_woeid": [
           2344590, 
           2344593, 
           2344610
         ], 
-        "ne_latitude": 36.916, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tizi Ouzou", 
+        "hierarchy": [
+          "woe:state=2344588", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344588, 
         "ne_longitude": 4.612, 
         "longitude": 4.181, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 36.663, 
-        "sw_longitude": 3.750, 
+        "iso": "DZ", 
+        "sw_latitude": 36.41, 
+        "adjacent": [
+          "woe:state=2344590", 
+          "woe:state=2344593", 
+          "woe:state=2344610"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.916, 
+        "sw_longitude": 3.75, 
         "fullname": "Tizi Ouzou, Algeria", 
-        "sw_latitude": 36.410
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344588
     }
+  ], 
+  "bbox": [
+    3.75, 
+    36.41, 
+    4.612, 
+    36.916
   ]
 }

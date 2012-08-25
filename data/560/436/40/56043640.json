@@ -32,19 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "woeid": 56043640, 
-        "name": "Zalaegerszeg", 
         "adjacent_woeid": [
           12577930
         ], 
-        "ne_latitude": 46.901, 
+        "name": "Zalaegerszeg", 
+        "hierarchy": [
+          "woe:state=56043640", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56043640, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 16.906, 
         "longitude": 16.837, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "parent_woeid": 23424844, 
+        "adjacent": [
+          "woe:state=12577930"
+        ], 
+        "ne_latitude": 46.901, 
         "latitude": 46.841, 
         "sw_longitude": 16.769, 
         "fullname": "Zalaegerszeg, Hungary", 
@@ -52,5 +59,11 @@
       }, 
       "id": 56043640
     }
+  ], 
+  "bbox": [
+    16.769, 
+    46.781, 
+    16.906, 
+    46.901
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               -23.584, 
-              14.990
+              14.99
             ], 
             [
               -23.461, 
-              14.990
+              14.99
             ], 
             [
               -23.461, 
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2345125, 
-        "name": "Praia", 
         "adjacent_woeid": [
           56051562, 
           56051563
         ], 
-        "ne_latitude": 14.990, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Praia", 
+        "hierarchy": [
+          "woe:state=2345125", 
+          "woe:country=23424794", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345125, 
         "ne_longitude": -23.461, 
         "longitude": -23.523, 
-        "placetype": "State", 
-        "iso": "CV", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424794, 
+        "placetype": "state", 
         "latitude": 14.941, 
+        "iso": "CV", 
+        "sw_latitude": 14.892, 
+        "adjacent": [
+          "woe:state=56051563", 
+          "woe:state=56051562"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.99, 
         "sw_longitude": -23.584, 
         "fullname": "Praia, Cape Verde", 
-        "sw_latitude": 14.892
+        "date_indexed": "2010-12-02T12:16:16Z"
       }, 
       "id": 2345125
     }
+  ], 
+  "bbox": [
+    -23.584, 
+    14.892, 
+    -23.461, 
+    14.99
   ]
 }

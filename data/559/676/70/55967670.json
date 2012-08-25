@@ -557,9 +557,14 @@
       "properties": {
         "ne:ProvNumber": 6, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=55967670", 
+          "woe:country=23424764", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 8.77667389608348, 
         "ne:Shape_Area": 1.17674978068, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -568,6 +573,17 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 1.600657179185532, 
+        "adjacent": [
+          "woe:state=2344826", 
+          "woe:state=56048436", 
+          "woe:state=55967671", 
+          "woe:state=2346358", 
+          "woe:state=2346346", 
+          "woe:state=2346360", 
+          "woe:state=55967669", 
+          "woe:state=56048438", 
+          "woe:state=2344829"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 7.839, 
         "ne:FIPS_1": "BN11", 
@@ -608,7 +624,6 @@
         ], 
         "name": "Collines", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424764, 
         "ne_longitude": 2.744359979129797, 
         "longitude": 2.191, 
         "iso": "BJ", 

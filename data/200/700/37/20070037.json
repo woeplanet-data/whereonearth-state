@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              44.470, 
+              44.47, 
               14.387
             ], 
             [
-              44.470, 
+              44.47, 
               15.839
             ], 
             [
@@ -23,7 +23,7 @@
               14.387
             ], 
             [
-              44.470, 
+              44.47, 
               14.387
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 20070037, 
-        "name": "Ma\u00b4rib", 
         "adjacent_woeid": [
           20070033, 
           20070034, 
@@ -41,23 +39,42 @@
           20070043, 
           20070045
         ], 
-        "ne_latitude": 15.839, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ma\u00b4rib", 
+        "hierarchy": [
+          "woe:state=20070037", 
+          "woe:country=23425002", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070037, 
         "ne_longitude": 46.371, 
-        "longitude": 45.400, 
-        "placetype": "State", 
+        "longitude": 45.4, 
+        "placetype": "state", 
+        "latitude": 15.09, 
         "iso": "YE", 
-        "date_indexed": "2010-12-02T16:39:35Z", 
-        "parent_woeid": 23425002, 
-        "latitude": 15.090, 
-        "sw_longitude": 44.470, 
-        "fullname": "Ma\u00b4rib, Yemen", 
         "sw_latitude": 14.387, 
+        "adjacent": [
+          "woe:state=20070043", 
+          "woe:state=20070039", 
+          "woe:state=20070033", 
+          "woe:state=20070045", 
+          "woe:state=20070034"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.839, 
+        "sw_longitude": 44.47, 
+        "fullname": "Ma\u00b4rib, Yemen", 
+        "date_indexed": "2010-12-02T16:39:35Z", 
         "alias_ARA_S": [
           "Marrib"
         ]
       }, 
       "id": 20070037
     }
+  ], 
+  "bbox": [
+    44.47, 
+    14.387, 
+    46.371, 
+    15.839
   ]
 }

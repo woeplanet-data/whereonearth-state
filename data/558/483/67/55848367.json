@@ -117,9 +117,14 @@
       "properties": {
         "ne:ProvNumber": 127, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848367", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.4832095402881, 
         "ne:Shape_Area": 0.00571610933832, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 2.0, 
@@ -128,6 +133,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 15.545800815855046, 
+        "adjacent": [
+          "woe:state=55848361", 
+          "woe:state=55848374", 
+          "woe:state=55848377", 
+          "woe:state=55848382", 
+          "woe:state=55848388", 
+          "woe:state=2344713"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.522, 
         "ne:FIPS_1": "SI98", 
@@ -165,7 +178,6 @@
         ], 
         "name": "Maribor", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 15.734471470182257, 
         "longitude": 15.667, 
         "iso": "SI", 

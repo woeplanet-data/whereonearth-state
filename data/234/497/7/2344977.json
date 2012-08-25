@@ -15,11 +15,11 @@
               -0.615
             ], 
             [
-              20.990, 
+              20.99, 
               -0.615
             ], 
             [
-              20.990, 
+              20.99, 
               -8.129
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2344977, 
-        "name": "Bandundu", 
         "adjacent_woeid": [
           2344666, 
           2344669, 
@@ -45,20 +43,43 @@
           2344982, 
           2344984
         ], 
-        "ne_latitude": -0.615, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 20.990, 
+        "name": "Bandundu", 
+        "hierarchy": [
+          "woe:state=2344977", 
+          "woe:country=23424780", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344977, 
+        "ne_longitude": 20.99, 
         "longitude": 18.425, 
-        "placetype": "State", 
-        "iso": "CD", 
-        "date_indexed": "2010-12-02T16:33:06Z", 
-        "parent_woeid": 23424780, 
+        "placetype": "state", 
         "latitude": -4.372, 
+        "iso": "CD", 
+        "sw_latitude": -8.129, 
+        "adjacent": [
+          "woe:state=2344984", 
+          "woe:state=2344978", 
+          "woe:state=2344979", 
+          "woe:state=2344982", 
+          "woe:state=2344671", 
+          "woe:state=2344666", 
+          "woe:state=2344973", 
+          "woe:state=2344975", 
+          "woe:state=2344669"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -0.615, 
         "sw_longitude": 15.859, 
         "fullname": "Bandundu, Democratic Republic of Congo", 
-        "sw_latitude": -8.129
+        "date_indexed": "2010-12-02T16:33:06Z"
       }, 
       "id": 2344977
     }
+  ], 
+  "bbox": [
+    15.859, 
+    -8.129, 
+    20.99, 
+    -0.615
   ]
 }

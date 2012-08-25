@@ -15,11 +15,11 @@
               41.242
             ], 
             [
-              21.500, 
+              21.5, 
               41.242
             ], 
             [
-              21.500, 
+              21.5, 
               40.864
             ], 
             [
@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550747, 
-        "alias_UNK_V": [
-          "Opstina Bitola"
-        ], 
-        "name": "Bitola", 
-        "alias_ENG_P": [
-          "Bitola Municipality"
-        ], 
-        "ne_latitude": 41.242, 
-        "ne_longitude": 21.500, 
-        "longitude": 21.279, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           12577881, 
           24550759, 
@@ -53,15 +40,46 @@
           24550791, 
           24550855
         ], 
+        "name": "Bitola", 
+        "alias_ENG_P": [
+          "Bitola Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550747", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550747, 
+        "alias_UNK_V": [
+          "Opstina Bitola"
+        ], 
+        "longitude": 21.279, 
+        "ne_longitude": 21.5, 
+        "placetype": "state", 
+        "latitude": 41.053, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550759", 
+          "woe:state=24550782", 
+          "woe:state=24550789", 
+          "woe:state=24550791", 
+          "woe:state=24550855", 
+          "woe:state=12577881"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.053, 
+        "ne_latitude": 41.242, 
         "sw_longitude": 21.058, 
         "fullname": "Bitola, Bitola Municipality, Macedonia", 
         "sw_latitude": 40.864
       }, 
       "id": 24550747
     }
+  ], 
+  "bbox": [
+    21.058, 
+    40.864, 
+    21.5, 
+    41.242
   ]
 }

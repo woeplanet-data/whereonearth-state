@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              32.360, 
-              13.480
+              32.36, 
+              13.48
             ], 
             [
-              32.360, 
+              32.36, 
               15.508
             ], 
             [
@@ -20,11 +20,11 @@
             ], 
             [
               34.165, 
-              13.480
+              13.48
             ], 
             [
-              32.360, 
-              13.480
+              32.36, 
+              13.48
             ]
           ]
         ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 20069916, 
-        "name": "Al Jazirah", 
         "adjacent_woeid": [
           20069819, 
           20069906, 
           20069914, 
           20069915
         ], 
-        "ne_latitude": 15.508, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Al Jazirah", 
+        "hierarchy": [
+          "woe:state=20069916", 
+          "woe:country=23424952", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069916, 
         "ne_longitude": 34.165, 
         "longitude": 33.262, 
-        "placetype": "State", 
-        "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
-        "parent_woeid": 23424952, 
+        "placetype": "state", 
         "latitude": 14.494, 
-        "sw_longitude": 32.360, 
+        "iso": "SD", 
+        "sw_latitude": 13.48, 
+        "adjacent": [
+          "woe:state=20069819", 
+          "woe:state=20069906", 
+          "woe:state=20069914", 
+          "woe:state=20069915"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.508, 
+        "sw_longitude": 32.36, 
         "fullname": "Al Jazirah, Sudan", 
-        "sw_latitude": 13.480
+        "date_indexed": "2010-12-02T08:50:49Z"
       }, 
       "id": 20069916
     }
+  ], 
+  "bbox": [
+    32.36, 
+    13.48, 
+    34.165, 
+    15.508
   ]
 }

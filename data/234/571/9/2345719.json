@@ -311,20 +311,28 @@
         "alias_ENG_P": [
           "Special Region of Yogyakarta"
         ], 
+        "hierarchy": [
+          "woe:state=2345719", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -7.560055026718089, 
         "ne:Shape_Area": 0.249187997785, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "1950", 
         "alias_ENG_A": [
           "DIY"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IDN", 
-        "ne:OBJECTID": 540, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 110.04277184434522, 
+        "adjacent": [
+          "woe:state=2345716"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -7.874, 
         "ne:FIPS_1": "ID10", 
@@ -332,9 +340,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Special region", 
         "sw_latitude": -8.200739434876994, 
-        "ne:VertexCou": 72.0, 
-        "ne:VALIDFR_1": "1950", 
-        "ne:DataRank": 1, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 540, 
         "ne:Postal": "YO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Jawa|Daerah Istimewa Yogyakarta", 
@@ -350,14 +358,13 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 3038.8, 
         "woe:id": "2345719", 
-        "ne:HASC_1": "ID.YO", 
-        "lang": "UNK", 
+        "name": "Daerah Istimewa Yogyakarta", 
+        "ne:VertexCou": 72.0, 
         "adjacent_woeid": [
           2345716
         ], 
-        "name": "Daerah Istimewa Yogyakarta", 
+        "ne:HASC_1": "ID.YO", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424846, 
         "ne_longitude": 110.84354983905388, 
         "longitude": 110.423, 
         "iso": "ID", 

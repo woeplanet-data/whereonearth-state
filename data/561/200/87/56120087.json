@@ -12,10 +12,20 @@
           56120089
         ], 
         "name": "Guelmim-Es Semara", 
-        "parent_woeid": 23424990, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56120087", 
+          "woe:country=23424990", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "EH", 
+        "adjacent": [
+          "woe:state=56120055", 
+          "woe:state=56120089", 
+          "woe:state=2344624", 
+          "woe:state=2346251"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56120087, 
         "date_indexed": "2010-12-02T16:12:23Z"
       }, 

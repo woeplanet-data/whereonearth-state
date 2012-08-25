@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "SWE", 
-        "woeid": 12590638, 
-        "name": "Lemland", 
         "adjacent_woeid": [
           12590635, 
           12590639, 
           12590640
         ], 
-        "ne_latitude": 60.113, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Lemland", 
+        "hierarchy": [
+          "woe:state=12590638", 
+          "woe:country=12577865", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12590638, 
         "ne_longitude": 20.237, 
         "longitude": 20.105, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 60.04, 
         "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
-        "parent_woeid": 12577865, 
-        "latitude": 60.040, 
+        "sw_latitude": 59.808, 
+        "adjacent": [
+          "woe:state=12590635", 
+          "woe:state=12590639", 
+          "woe:state=12590640"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 60.113, 
         "sw_longitude": 19.782, 
         "fullname": "Lemland, Aland Islands", 
-        "sw_latitude": 59.808
+        "date_indexed": "2010-12-02T17:06:00Z"
       }, 
       "id": 12590638
     }
+  ], 
+  "bbox": [
+    19.782, 
+    59.808, 
+    20.237, 
+    60.113
   ]
 }

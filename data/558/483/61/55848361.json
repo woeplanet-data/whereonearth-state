@@ -125,9 +125,14 @@
       "properties": {
         "ne:ProvNumber": 143, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848361", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.699759629503376, 
         "ne:Shape_Area": 0.00466375168724, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 2.0, 
@@ -136,6 +141,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 15.792504103081967, 
+        "adjacent": [
+          "woe:state=55848348", 
+          "woe:state=55848367", 
+          "woe:state=55848374", 
+          "woe:state=55848377"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.598, 
         "ne:FIPS_1": "SI00", 
@@ -171,7 +182,6 @@
         ], 
         "name": "Lenart", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 15.888570590560334, 
         "longitude": 15.866, 
         "iso": "SI", 

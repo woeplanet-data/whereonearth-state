@@ -12,11 +12,11 @@
             ], 
             [
               45.129, 
-              39.590
+              39.59
             ], 
             [
               45.564, 
-              39.590
+              39.59
             ], 
             [
               45.564, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070275, 
-        "name": "Naxcivan", 
         "adjacent_woeid": [
           2345767, 
           20070205, 
@@ -42,20 +40,40 @@
           24550721, 
           24550722
         ], 
-        "ne_latitude": 39.590, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Naxcivan", 
+        "hierarchy": [
+          "woe:state=20070275", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070275, 
         "ne_longitude": 45.564, 
         "longitude": 45.461, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.303, 
+        "iso": "AZ", 
+        "sw_latitude": 39.148, 
+        "adjacent": [
+          "woe:state=2345767", 
+          "woe:state=24550722", 
+          "woe:state=24550721", 
+          "woe:state=24550720", 
+          "woe:state=24550718", 
+          "woe:state=20070205"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.59, 
         "sw_longitude": 45.129, 
         "fullname": "Naxcivan, Azerbaijan", 
-        "sw_latitude": 39.148
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070275
     }
+  ], 
+  "bbox": [
+    45.129, 
+    39.148, 
+    45.564, 
+    39.59
   ]
 }

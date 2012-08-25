@@ -31,8 +31,13 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "hierarchy": [
+          "woe:state=7153314", 
+          "woe:country=23424819", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 48.941, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Centro"
         ], 
@@ -53,9 +58,19 @@
           "Centro"
         ], 
         "sw_longitude": 0.053, 
+        "adjacent": [
+          "woe:state=7153310", 
+          "woe:state=7153311", 
+          "woe:state=7153312", 
+          "woe:state=7153318", 
+          "woe:state=7153321", 
+          "woe:state=7153325", 
+          "woe:state=7153327", 
+          "woe:state=7153319"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.644, 
-        "date_indexed": "2010-12-02T11:51:35Z", 
+        "sw_latitude": 46.347, 
         "lang": "FRE", 
         "adjacent_woeid": [
           7153310, 
@@ -68,11 +83,10 @@
           7153327
         ], 
         "name": "Centre", 
-        "parent_woeid": 23424819, 
         "ne_longitude": 3.129, 
         "longitude": 1.591, 
         "iso": "FR", 
-        "sw_latitude": 46.347, 
+        "date_indexed": "2010-12-02T11:51:35Z", 
         "alias_FRE_V": [
           "Centre Region"
         ], 
@@ -80,5 +94,11 @@
       }, 
       "id": 7153314
     }
+  ], 
+  "bbox": [
+    0.053, 
+    46.347, 
+    3.129, 
+    48.941
   ]
 }

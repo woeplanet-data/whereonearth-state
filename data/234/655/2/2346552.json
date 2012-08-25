@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346552, 
-        "name": "Chiriqu\u00ed", 
         "adjacent_woeid": [
           2345087, 
           2346551, 
           2346560, 
           28358287
         ], 
-        "ne_latitude": 8.923, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chiriqu\u00ed", 
+        "hierarchy": [
+          "woe:state=2346552", 
+          "woe:country=23424924", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346552, 
         "ne_longitude": -81.573, 
         "longitude": -82.266, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 8.461, 
         "alias_SPA_S": [
           "Chiriqui"
         ], 
         "iso": "PA", 
-        "date_indexed": "2010-12-02T17:52:20Z", 
-        "parent_woeid": 23424924, 
-        "latitude": 8.461, 
+        "sw_latitude": 7.946, 
+        "adjacent": [
+          "woe:state=2346551", 
+          "woe:state=28358287", 
+          "woe:state=2345087", 
+          "woe:state=2346560"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 8.923, 
         "sw_longitude": -83.051, 
         "fullname": "Chiriqu\u00ed, Panama", 
-        "sw_latitude": 7.946
+        "date_indexed": "2010-12-02T17:52:20Z"
       }, 
       "id": 2346552
     }
+  ], 
+  "bbox": [
+    -83.051, 
+    7.946, 
+    -81.573, 
+    8.923
   ]
 }

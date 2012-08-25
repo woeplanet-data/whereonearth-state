@@ -8,7 +8,7 @@
           [
             [
               22.441, 
-              42.360
+              42.36
             ], 
             [
               22.441, 
@@ -20,11 +20,11 @@
             ], 
             [
               23.299, 
-              42.360
+              42.36
             ], 
             [
               22.441, 
-              42.360
+              42.36
             ]
           ]
         ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070058, 
-        "name": "Pernik", 
         "adjacent_woeid": [
           20069794, 
           20070059, 
           20070061
         ], 
-        "ne_latitude": 42.896, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Pernik", 
+        "hierarchy": [
+          "woe:state=20070058", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070058, 
         "ne_longitude": 23.299, 
-        "longitude": 22.870, 
-        "placetype": "State", 
-        "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
+        "longitude": 22.87, 
+        "placetype": "state", 
         "latitude": 42.628, 
+        "iso": "BG", 
+        "sw_latitude": 42.36, 
+        "adjacent": [
+          "woe:state=20070059", 
+          "woe:state=20070061", 
+          "woe:state=20069794"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.896, 
         "sw_longitude": 22.441, 
         "fullname": "Pernik, Bulgaria", 
-        "sw_latitude": 42.360
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070058
     }
+  ], 
+  "bbox": [
+    22.441, 
+    42.36, 
+    23.299, 
+    42.896
   ]
 }

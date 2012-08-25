@@ -15,11 +15,11 @@
               -12.892
             ], 
             [
-              45.200, 
+              45.2, 
               -12.892
             ], 
             [
-              45.200, 
+              45.2, 
               -12.995
             ], 
             [
@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549760, 
-        "name": "Chirongui", 
         "adjacent_woeid": [
           24549748, 
           24549756, 
           24549763
         ], 
-        "ne_latitude": -12.892, 
+        "name": "Chirongui", 
+        "hierarchy": [
+          "woe:state=24549760", 
+          "woe:country=23424886", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549760, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 45.200, 
+        "ne_longitude": 45.2, 
         "longitude": 45.146, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "YT", 
         "date_indexed": "2010-12-02T16:11:57Z", 
-        "parent_woeid": 23424886, 
+        "adjacent": [
+          "woe:state=24549756", 
+          "woe:state=24549748", 
+          "woe:state=24549763"
+        ], 
+        "ne_latitude": -12.892, 
         "latitude": -12.921, 
         "sw_longitude": 45.117, 
         "fullname": "Chirongui, Mayotte", 
@@ -54,5 +63,11 @@
       }, 
       "id": 24549760
     }
+  ], 
+  "bbox": [
+    45.117, 
+    -12.995, 
+    45.2, 
+    -12.892
   ]
 }

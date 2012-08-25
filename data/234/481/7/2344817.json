@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344817, 
-        "name": "Mandalay", 
         "adjacent_woeid": [
           2344814, 
           2344816, 
@@ -41,20 +39,39 @@
           2344819, 
           2344820
         ], 
-        "ne_latitude": 23.554, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mandalay", 
+        "hierarchy": [
+          "woe:state=2344817", 
+          "woe:country=23424763", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344817, 
         "ne_longitude": 96.844, 
         "longitude": 95.838, 
-        "placetype": "State", 
-        "iso": "MM", 
-        "date_indexed": "2010-12-02T17:58:12Z", 
-        "parent_woeid": 23424763, 
+        "placetype": "state", 
         "latitude": 21.485, 
+        "iso": "MM", 
+        "sw_latitude": 19.416, 
+        "adjacent": [
+          "woe:state=2344818", 
+          "woe:state=2344814", 
+          "woe:state=2344816", 
+          "woe:state=2344819", 
+          "woe:state=2344820"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 23.554, 
         "sw_longitude": 94.833, 
         "fullname": "Mandalay, Myanmar", 
-        "sw_latitude": 19.416
+        "date_indexed": "2010-12-02T17:58:12Z"
       }, 
       "id": 2344817
     }
+  ], 
+  "bbox": [
+    94.833, 
+    19.416, 
+    96.844, 
+    23.554
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               18.001, 
-              46.860
+              46.86
             ], 
             [
               19.006, 
-              46.860
+              46.86
             ], 
             [
               19.006, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "woeid": 12577927, 
-        "name": "Tolna", 
         "adjacent_woeid": [
           12577911, 
           12577912, 
@@ -41,20 +39,39 @@
           12577924, 
           56043632
         ], 
-        "ne_latitude": 46.860, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tolna", 
+        "hierarchy": [
+          "woe:state=12577927", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12577927, 
         "ne_longitude": 19.006, 
         "longitude": 18.504, 
-        "placetype": "State", 
-        "iso": "HU", 
-        "date_indexed": "2010-12-02T09:55:38Z", 
-        "parent_woeid": 23424844, 
+        "placetype": "state", 
         "latitude": 46.484, 
+        "iso": "HU", 
+        "sw_latitude": 46.109, 
+        "adjacent": [
+          "woe:state=12577912", 
+          "woe:state=12577911", 
+          "woe:state=12577917", 
+          "woe:state=12577924", 
+          "woe:state=56043632"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 46.86, 
         "sw_longitude": 18.001, 
         "fullname": "Tolna, Hungary", 
-        "sw_latitude": 46.109
+        "date_indexed": "2010-12-02T09:55:38Z"
       }, 
       "id": 12577927
     }
+  ], 
+  "bbox": [
+    18.001, 
+    46.109, 
+    19.006, 
+    46.86
   ]
 }

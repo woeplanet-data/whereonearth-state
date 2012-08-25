@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549869, 
-        "name": "Anse Boileau", 
         "adjacent_woeid": [
           24549868, 
           24549870, 
@@ -41,14 +39,27 @@
           24549872, 
           24549875
         ], 
-        "ne_latitude": -4.699, 
+        "name": "Anse Boileau", 
+        "hierarchy": [
+          "woe:state=24549869", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549869, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.504, 
         "longitude": 55.492, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549870", 
+          "woe:state=24549872", 
+          "woe:state=24549868", 
+          "woe:state=24549871", 
+          "woe:state=24549875"
+        ], 
+        "ne_latitude": -4.699, 
         "latitude": -4.724, 
         "sw_longitude": 55.481, 
         "fullname": "Anse Boileau, Seychelles", 
@@ -56,5 +67,11 @@
       }, 
       "id": 24549869
     }
+  ], 
+  "bbox": [
+    55.481, 
+    -4.738, 
+    55.504, 
+    -4.699
   ]
 }

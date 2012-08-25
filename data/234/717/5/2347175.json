@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347175, 
-        "name": "Suphan Buri", 
         "adjacent_woeid": [
           2347142, 
           2347157, 
@@ -43,23 +41,44 @@
           2347174, 
           2347177
         ], 
-        "ne_latitude": 15.083, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Suphan Buri", 
         "alias_ENG_V": [
           "Changwat Suphan Buri"
         ], 
+        "hierarchy": [
+          "woe:state=2347175", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347175, 
         "ne_longitude": 100.281, 
         "longitude": 99.989, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 14.571, 
+        "iso": "TH", 
+        "sw_latitude": 14.059, 
+        "adjacent": [
+          "woe:state=2347160", 
+          "woe:state=2347157", 
+          "woe:state=2347174", 
+          "woe:state=2347177", 
+          "woe:state=2347161", 
+          "woe:state=2347158", 
+          "woe:state=2347142"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.083, 
         "sw_longitude": 99.282, 
         "fullname": "Suphan Buri, Thailand", 
-        "sw_latitude": 14.059
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347175
     }
+  ], 
+  "bbox": [
+    99.282, 
+    14.059, 
+    100.281, 
+    15.083
   ]
 }

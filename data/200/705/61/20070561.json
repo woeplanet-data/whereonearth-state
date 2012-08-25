@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Skanes"
         ], 
+        "hierarchy": [
+          "woe:state=20070561", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 56.533, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Sk\u00e5ne"
         ], 
@@ -48,8 +53,8 @@
         "alias_ITA_Q": [
           "Scania"
         ], 
-        "alias_GER_V": [
-          "Malmohus"
+        "alias_DAN_Q": [
+          "Sk\u00e5ne"
         ], 
         "woeid": 20070561, 
         "alias_ENG_P": [
@@ -65,6 +70,11 @@
           "Skaane"
         ], 
         "sw_longitude": 12.446, 
+        "adjacent": [
+          "woe:state=2347045", 
+          "woe:state=2347049", 
+          "woe:state=2347055"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 55.935, 
         "alias_NOR_S": [
@@ -83,8 +93,8 @@
         "alias_DAN_S": [
           "Skaane"
         ], 
-        "alias_DAN_Q": [
-          "Sk\u00e5ne"
+        "alias_GER_V": [
+          "Malmohus"
         ], 
         "alias_GER_Q": [
           "Schonen"
@@ -96,7 +106,6 @@
           2347055
         ], 
         "name": "Sk\u00e5ne L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 14.586, 
         "longitude": 13.516, 
         "iso": "SE", 
@@ -114,5 +123,11 @@
       }, 
       "id": 20070561
     }
+  ], 
+  "bbox": [
+    12.446, 
+    55.337, 
+    14.586, 
+    56.533
   ]
 }

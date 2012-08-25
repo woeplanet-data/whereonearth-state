@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549717, 
-        "name": "Asan", 
         "adjacent_woeid": [
           24549715, 
           24549716, 
@@ -41,14 +39,27 @@
           24549719, 
           24549726
         ], 
-        "ne_latitude": 13.479, 
+        "name": "Asan", 
+        "hierarchy": [
+          "woe:state=24549717", 
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549717, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.747, 
         "longitude": 144.727, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "parent_woeid": 23424832, 
+        "adjacent": [
+          "woe:state=24549718", 
+          "woe:state=24549726", 
+          "woe:state=24549719", 
+          "woe:state=24549716", 
+          "woe:state=24549715"
+        ], 
+        "ne_latitude": 13.479, 
         "latitude": 13.455, 
         "sw_longitude": 144.706, 
         "fullname": "Asan, Guam", 
@@ -56,5 +67,11 @@
       }, 
       "id": 24549717
     }
+  ], 
+  "bbox": [
+    144.706, 
+    13.432, 
+    144.747, 
+    13.479
   ]
 }

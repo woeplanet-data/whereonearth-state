@@ -32,19 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "DAN", 
-        "woeid": 24549696, 
-        "name": "Streymoy", 
         "adjacent_woeid": [
           24549692
         ], 
-        "ne_latitude": 62.312, 
+        "name": "Streymoy", 
+        "hierarchy": [
+          "woe:state=24549696", 
+          "woe:country=23424816", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549696, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -6.725, 
-        "longitude": -6.990, 
-        "placetype": "State", 
+        "longitude": -6.99, 
+        "placetype": "state", 
         "iso": "FO", 
         "date_indexed": "2010-12-02T08:52:18Z", 
-        "parent_woeid": 23424816, 
+        "adjacent": [
+          "woe:state=24549692"
+        ], 
+        "ne_latitude": 62.312, 
         "latitude": 62.127, 
         "sw_longitude": -7.255, 
         "fullname": "Streymoy, Faroe Islands", 
@@ -52,5 +59,11 @@
       }, 
       "id": 24549696
     }
+  ], 
+  "bbox": [
+    -7.255, 
+    61.934, 
+    -6.725, 
+    62.312
   ]
 }

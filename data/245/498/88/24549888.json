@@ -32,22 +32,29 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549888, 
-        "name": "Baie Ste. Anne", 
         "adjacent_woeid": [
           24549889
         ], 
-        "ne_latitude": -3.712, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Baie Ste. Anne", 
         "alias_ENG_V": [
           "Baie Ste Anne"
         ], 
+        "hierarchy": [
+          "woe:state=24549888", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549888, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.917, 
         "longitude": 55.737, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549889"
+        ], 
+        "ne_latitude": -3.712, 
         "latitude": -4.321, 
         "sw_longitude": 55.207, 
         "fullname": "Baie Ste. Anne, Seychelles", 
@@ -55,5 +62,11 @@
       }, 
       "id": 24549888
     }
+  ], 
+  "bbox": [
+    55.207, 
+    -4.376, 
+    55.917, 
+    -3.712
   ]
 }

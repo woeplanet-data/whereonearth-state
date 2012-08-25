@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345165, 
-        "name": "Saint Joseph", 
         "adjacent_woeid": [
           2345162, 
           2345169, 
           2345170
         ], 
-        "ne_latitude": 15.471, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint Joseph", 
         "alias_ENG_V": [
           "St. Joseph"
         ], 
+        "hierarchy": [
+          "woe:state=2345165", 
+          "woe:country=23424798", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345165, 
         "ne_longitude": -61.338, 
         "longitude": -61.404, 
-        "placetype": "State", 
-        "iso": "DM", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "parent_woeid": 23424798, 
+        "placetype": "state", 
         "latitude": 15.425, 
+        "iso": "DM", 
+        "sw_latitude": 15.379, 
+        "adjacent": [
+          "woe:state=2345162", 
+          "woe:state=2345169", 
+          "woe:state=2345170"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.471, 
         "sw_longitude": -61.469, 
         "fullname": "Saint Joseph, Dominica", 
-        "sw_latitude": 15.379
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345165
     }
+  ], 
+  "bbox": [
+    -61.469, 
+    15.379, 
+    -61.338, 
+    15.471
   ]
 }

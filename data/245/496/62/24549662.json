@@ -489,9 +489,14 @@
       "properties": {
         "ne:ProvNumber": 11, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=24549662", 
+          "woe:country=23424761", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 44.11136465095791, 
         "ne:Shape_Area": 0.157578945718, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 2, 
         "ne:gadm_level": 2.0, 
@@ -500,6 +505,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 18.006580844930113, 
+        "adjacent": [
+          "woe:state=12577972", 
+          "woe:state=29389649", 
+          "woe:state=12577973", 
+          "woe:state=24549661", 
+          "woe:state=12577984", 
+          "woe:state=12577988"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 44.671, 
         "ne:FIPS_1": "BK00", 
@@ -537,7 +550,6 @@
         ], 
         "name": "Republika Srpska", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424761, 
         "ne_longitude": 18.60876631051684, 
         "longitude": 17.474, 
         "iso": "BA", 

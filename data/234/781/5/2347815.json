@@ -15,11 +15,11 @@
               -16.877
             ], 
             [
-              29.360, 
+              29.36, 
               -16.877
             ], 
             [
-              29.360, 
+              29.36, 
               -20.351
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347815, 
-        "name": "Matabeleland North", 
         "adjacent_woeid": [
           2344741, 
           2347804, 
@@ -43,17 +41,32 @@
           24550730, 
           55949048
         ], 
-        "ne_latitude": -16.877, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Matabeleland North", 
         "alias_ENG_V": [
           "Matabeleland North Province"
         ], 
-        "ne_longitude": 29.360, 
+        "hierarchy": [
+          "woe:state=2347815", 
+          "woe:country=23425004", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347815, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 29.36, 
         "longitude": 27.298, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "ZW", 
         "date_indexed": "2010-12-02T16:52:36Z", 
-        "parent_woeid": 23425004, 
+        "adjacent": [
+          "woe:state=24550730", 
+          "woe:state=2344741", 
+          "woe:state=2347814", 
+          "woe:state=2347816", 
+          "woe:state=2347811", 
+          "woe:state=55949048", 
+          "woe:state=2347804"
+        ], 
+        "ne_latitude": -16.877, 
         "latitude": -18.614, 
         "sw_longitude": 25.237, 
         "fullname": "Matabeleland North, Zimbabwe", 
@@ -61,5 +74,11 @@
       }, 
       "id": 2347815
     }
+  ], 
+  "bbox": [
+    25.237, 
+    -20.351, 
+    29.36, 
+    -16.877
   ]
 }

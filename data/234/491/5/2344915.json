@@ -3355,11 +3355,16 @@
         "alias_KOR_Q": [
           "\uc568\ubc84\ud0c0"
         ], 
+        "hierarchy": [
+          "woe:state=2344915", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 60.00005890539421, 
         "ne:Shape_Area": 93.6830002605, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19050901", 
         "alias_ENG_A": [
           "Alta"
         ], 
@@ -3369,13 +3374,19 @@
         "alias_CHI_Q": [
           "\u827e\u4f2f\u5854\u7701"
         ], 
-        "ne:OBJECTID": 632, 
+        "ne:DataRank": 2, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30d0\u30fc\u30bf\u5dde"
         ], 
         "ne:Abbrev": "Alta.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -120.00101599848949, 
+        "adjacent": [
+          "woe:state=2344916", 
+          "woe:state=2347585", 
+          "woe:state=2344920", 
+          "woe:state=2344925"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 54.499, 
         "ne:FIPS_1": "CA01", 
@@ -3383,9 +3394,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 48.992901313145126, 
-        "ne:VertexCou": 834.0, 
-        "ne:VALIDFR_1": "19050901", 
-        "ne:DataRank": 2, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 632, 
         "ne:Postal": "AB", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -3401,17 +3412,16 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 663726.9, 
         "woe:id": "2344915", 
-        "ne:HASC_1": "CA.AB", 
-        "lang": "ENG", 
+        "name": "Alberta", 
+        "ne:VertexCou": 834.0, 
         "adjacent_woeid": [
           2344916, 
           2344920, 
           2344925, 
           2347585
         ], 
-        "name": "Alberta", 
+        "ne:HASC_1": "CA.AB", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424775, 
         "ne_longitude": -109.99935258655262, 
         "longitude": -115.0, 
         "iso": "CA", 

@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2346997, 
-        "name": "Ziguinchor", 
         "adjacent_woeid": [
           2345447, 
           2346607, 
           56055614
         ], 
-        "ne_latitude": 13.164, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ziguinchor", 
+        "hierarchy": [
+          "woe:state=2346997", 
+          "woe:country=23424943", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346997, 
         "ne_longitude": -15.901, 
-        "longitude": -16.350, 
-        "placetype": "State", 
-        "iso": "SN", 
-        "date_indexed": "2010-12-02T08:57:18Z", 
-        "parent_woeid": 23424943, 
+        "longitude": -16.35, 
+        "placetype": "state", 
         "latitude": 12.746, 
+        "iso": "SN", 
+        "sw_latitude": 12.328, 
+        "adjacent": [
+          "woe:state=2346607", 
+          "woe:state=56055614", 
+          "woe:state=2345447"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.164, 
         "sw_longitude": -16.798, 
         "fullname": "Ziguinchor, Senegal", 
-        "sw_latitude": 12.328
+        "date_indexed": "2010-12-02T08:57:18Z"
       }, 
       "id": 2346997
     }
+  ], 
+  "bbox": [
+    -16.798, 
+    12.328, 
+    -15.901, 
+    13.164
   ]
 }

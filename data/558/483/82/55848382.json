@@ -157,9 +157,14 @@
       "properties": {
         "ne:ProvNumber": 160, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848382", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.5887328154671, 
         "ne:Shape_Area": 0.0109662379611, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 2.0, 
@@ -168,6 +173,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 15.312119988846462, 
+        "adjacent": [
+          "woe:state=55848367", 
+          "woe:state=55848378", 
+          "woe:state=55848387", 
+          "woe:state=55848388", 
+          "woe:state=55848389", 
+          "woe:state=2344713"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.56, 
         "ne:FIPS_1": "SI00", 
@@ -205,7 +218,6 @@
         ], 
         "ne:HASC_1": "SI.PD.LP", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 15.461723259820644, 
         "longitude": 15.436, 
         "iso": "SI", 

@@ -16,10 +16,24 @@
           56190582
         ], 
         "name": "Smiltene Novads", 
-        "parent_woeid": 23424874, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56190558", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "LV", 
+        "adjacent": [
+          "woe:state=56190524", 
+          "woe:state=56190596", 
+          "woe:state=56190568", 
+          "woe:state=56190584", 
+          "woe:state=56190582", 
+          "woe:state=56190516", 
+          "woe:state=56190532", 
+          "woe:state=56190561"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56190558, 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 

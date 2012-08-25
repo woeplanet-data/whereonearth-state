@@ -8,7 +8,7 @@
           [
             [
               19.282, 
-              41.830
+              41.83
             ], 
             [
               19.282, 
@@ -20,11 +20,11 @@
             ], 
             [
               20.248, 
-              41.830
+              41.83
             ], 
             [
               19.282, 
-              41.830
+              41.83
             ]
           ]
         ]
@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 29389563, 
-        "name": "Shkod\u00ebr", 
         "adjacent_woeid": [
           29389561, 
           29389562
         ], 
+        "name": "Shkod\u00ebr", 
+        "latitude": 42.246, 
         "alias_UNK_S": [
           "Shkoder"
         ], 
-        "ne_latitude": 42.661, 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 29389563, 
         "ne_longitude": 20.248, 
         "longitude": 19.765, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=29389563", 
+          "woe:country=23424742", 
+          "woe:planet=1"
+        ], 
         "iso": "AL", 
         "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424742, 
-        "latitude": 42.246, 
+        "adjacent": [
+          "woe:state=29389561", 
+          "woe:state=29389562"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.661, 
         "sw_longitude": 19.282, 
         "fullname": "Shkod\u00ebr, Albania", 
-        "sw_latitude": 41.830
+        "sw_latitude": 41.83
       }, 
       "id": 29389563
     }
+  ], 
+  "bbox": [
+    19.282, 
+    41.83, 
+    20.248, 
+    42.661
   ]
 }

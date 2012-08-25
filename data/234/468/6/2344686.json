@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": -27.711, 
-        "name": "La Rioja", 
         "adjacent_woeid": [
           2344676, 
           2344679, 
@@ -41,26 +39,45 @@
           2344693, 
           2345022
         ], 
+        "alias_ENG_A": [
+          "LR"
+        ], 
+        "name": "La Rioja", 
+        "hierarchy": [
+          "woe:state=2344686", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
         "woeid": 2344686, 
         "alias_SPA_V": [
           "Provincia de la Rioja"
         ], 
         "ne_longitude": -65.414, 
-        "longitude": -67.540, 
-        "parent_woeid": 23424747, 
-        "placetype": "State", 
-        "iso": "AR", 
-        "date_indexed": "2010-12-02T17:40:36Z", 
-        "alias_ENG_A": [
-          "LR"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "longitude": -67.54, 
+        "placetype": "state", 
         "latitude": -29.857, 
         "sw_longitude": -69.641, 
+        "sw_latitude": -32.003, 
+        "adjacent": [
+          "woe:state=2345022", 
+          "woe:state=2344676", 
+          "woe:state=2344679", 
+          "woe:state=2344692", 
+          "woe:state=2344693"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -27.711, 
+        "iso": "AR", 
         "fullname": "La Rioja, Argentina", 
-        "sw_latitude": -32.003
+        "date_indexed": "2010-12-02T17:40:36Z"
       }, 
       "id": 2344686
     }
+  ], 
+  "bbox": [
+    -69.641, 
+    -32.003, 
+    -65.414, 
+    -27.711
   ]
 }

@@ -15,11 +15,11 @@
               41.524
             ], 
             [
-              22.360, 
+              22.36, 
               41.524
             ], 
             [
-              22.360, 
+              22.36, 
               41.284
             ], 
             [
@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550760, 
-        "alias_UNK_V": [
-          "Opstina Demir Kapija"
-        ], 
-        "name": "Demir Kapija", 
-        "alias_ENG_P": [
-          "Demir Kapija Municipality"
-        ], 
-        "ne_latitude": 41.524, 
-        "ne_longitude": 22.360, 
-        "longitude": 22.239, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550774, 
           24550778, 
@@ -52,15 +39,45 @@
           24550813, 
           24550840
         ], 
+        "name": "Demir Kapija", 
+        "alias_ENG_P": [
+          "Demir Kapija Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550760", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550760, 
+        "alias_UNK_V": [
+          "Opstina Demir Kapija"
+        ], 
+        "longitude": 22.239, 
+        "ne_longitude": 22.36, 
+        "placetype": "state", 
+        "latitude": 41.404, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550840", 
+          "woe:state=24550774", 
+          "woe:state=24550778", 
+          "woe:state=24550790", 
+          "woe:state=24550813"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.404, 
+        "ne_latitude": 41.524, 
         "sw_longitude": 22.119, 
         "fullname": "Demir Kapija, Demir Kapija Municipality, Macedonia", 
         "sw_latitude": 41.284
       }, 
       "id": 24550760
     }
+  ], 
+  "bbox": [
+    22.119, 
+    41.284, 
+    22.36, 
+    41.524
   ]
 }

@@ -2035,9 +2035,14 @@
       "properties": {
         "ne:ProvNumber": 0, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=55967009", 
+          "woe:country=23424854", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 6.380747789279098, 
         "ne:Shape_Area": 1.10921045472, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -2046,6 +2051,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "1998", 
         "sw_longitude": -5.442943894744872, 
+        "adjacent": [
+          "woe:state=55966991", 
+          "woe:state=55966995", 
+          "woe:state=55966997", 
+          "woe:state=55967000", 
+          "woe:state=55967001", 
+          "woe:state=55967003", 
+          "woe:state=55967004"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 5.739, 
         "ne:FIPS_1": "IV61", 
@@ -2084,7 +2098,6 @@
         ], 
         "name": "Lagunes", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424854, 
         "ne_longitude": -3.402293259826024, 
         "longitude": -3.713, 
         "iso": "CI", 

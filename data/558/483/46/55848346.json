@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848346, 
-        "name": "Domzale", 
         "adjacent_woeid": [
           55848355, 
           55848363, 
           55848364, 
           55848397
         ], 
-        "ne_latitude": 46.208, 
+        "name": "Domzale", 
+        "hierarchy": [
+          "woe:state=55848346", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848346, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.903, 
         "longitude": 14.708, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848355", 
+          "woe:state=55848363", 
+          "woe:state=55848364", 
+          "woe:state=55848397"
+        ], 
+        "ne_latitude": 46.208, 
         "latitude": 46.151, 
         "sw_longitude": 14.513, 
         "fullname": "Domzale, Slovenia", 
@@ -55,5 +65,11 @@
       }, 
       "id": 55848346
     }
+  ], 
+  "bbox": [
+    14.513, 
+    46.094, 
+    14.903, 
+    46.208
   ]
 }

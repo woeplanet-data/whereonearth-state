@@ -1020,20 +1020,32 @@
           "HaMerkaz"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2345792", 
+          "woe:country=23424852", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 32.40902985264563, 
         "ne:Shape_Area": 0.111849138686, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1952", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "ISR", 
         "alias_CHI_Q": [
           "\u4e2d\u592e\u533a"
         ], 
-        "ne:OBJECTID": 3055, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 34.665925734485086, 
+        "adjacent": [
+          "woe:state=2345794", 
+          "woe:state=2345796", 
+          "woe:state=2345791", 
+          "woe:state=2345795", 
+          "woe:state=23424988"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 32.091, 
         "ne:FIPS_1": "IS02", 
@@ -1041,9 +1053,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "District", 
         "sw_latitude": 31.765839138265676, 
-        "ne:VertexCou": 251.0, 
-        "ne:VALIDFR_1": "1952", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 3055, 
         "ne:Postal": "HM", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Central District", 
@@ -1062,8 +1074,8 @@
           "HaMerkaz"
         ], 
         "woe:id": "2345792", 
-        "ne:HASC_1": "IL.HM", 
-        "lang": "ENG", 
+        "name": "Central", 
+        "ne:VertexCou": 251.0, 
         "adjacent_woeid": [
           2345796, 
           23424988, 
@@ -1071,9 +1083,8 @@
           2345791, 
           2345794
         ], 
-        "name": "Central", 
+        "ne:HASC_1": "IL.HM", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424852, 
         "ne_longitude": 35.03225996272715, 
         "longitude": 34.919, 
         "iso": "IL", 

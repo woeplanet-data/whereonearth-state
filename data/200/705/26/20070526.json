@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070526, 
-        "name": "Khanty-Mansiyskiy Avtonomnyy Okrug", 
         "adjacent_woeid": [
           2346874, 
           2346915, 
@@ -43,20 +41,41 @@
           20070525, 
           20070528
         ], 
-        "ne_latitude": 66.017, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Khanty-Mansiyskiy Avtonomnyy Okrug", 
+        "hierarchy": [
+          "woe:state=20070526", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070526, 
         "ne_longitude": 85.595, 
         "longitude": 72.534, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 62.213, 
+        "iso": "RU", 
+        "sw_latitude": 58.408, 
+        "adjacent": [
+          "woe:state=2346874", 
+          "woe:state=20070524", 
+          "woe:state=2346915", 
+          "woe:state=2346926", 
+          "woe:state=2346928", 
+          "woe:state=20070528", 
+          "woe:state=20070525"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 66.017, 
         "sw_longitude": 59.473, 
         "fullname": "Khanty-Mansiyskiy Avtonomnyy Okrug, Russia", 
-        "sw_latitude": 58.408
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 20070526
     }
+  ], 
+  "bbox": [
+    59.473, 
+    58.408, 
+    85.595, 
+    66.017
   ]
 }

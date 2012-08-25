@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347007, 
-        "name": "Banaadir", 
         "adjacent_woeid": [
           2347018, 
           2347019
         ], 
-        "ne_latitude": 2.171, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Banaadir", 
+        "hierarchy": [
+          "woe:state=2347007", 
+          "woe:country=23424949", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347007, 
         "ne_longitude": 45.553, 
         "longitude": 45.369, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 2.06, 
         "iso": "SO", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
-        "parent_woeid": 23424949, 
-        "latitude": 2.060, 
+        "sw_latitude": 1.948, 
+        "adjacent": [
+          "woe:state=2347018", 
+          "woe:state=2347019"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 2.171, 
         "sw_longitude": 45.186, 
         "fullname": "Banaadir, Somalia", 
-        "sw_latitude": 1.948
+        "date_indexed": "2010-12-02T08:51:00Z"
       }, 
       "id": 2347007
     }
+  ], 
+  "bbox": [
+    45.186, 
+    1.948, 
+    45.553, 
+    2.171
   ]
 }

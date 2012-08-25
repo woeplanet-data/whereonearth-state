@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346459, 
-        "name": "\u00d1eembuc\u00fa", 
         "adjacent_woeid": [
           2344677, 
           2344680, 
@@ -42,23 +40,43 @@
           2346458, 
           2346460
         ], 
-        "ne_latitude": -25.803, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "\u00d1eembuc\u00fa", 
+        "hierarchy": [
+          "woe:state=2346459", 
+          "woe:country=23424917", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346459, 
         "ne_longitude": -57.171, 
         "longitude": -57.917, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -26.622, 
         "alias_SPA_S": [
           "Neembucu"
         ], 
         "iso": "PY", 
-        "date_indexed": "2010-12-02T12:08:38Z", 
-        "parent_woeid": 23424917, 
-        "latitude": -26.622, 
+        "sw_latitude": -27.441, 
+        "adjacent": [
+          "woe:state=2346453", 
+          "woe:state=2344677", 
+          "woe:state=2344680", 
+          "woe:state=2344683", 
+          "woe:state=2346458", 
+          "woe:state=2346460"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -25.803, 
         "sw_longitude": -58.663, 
         "fullname": "\u00d1eembuc\u00fa, Paraguay", 
-        "sw_latitude": -27.441
+        "date_indexed": "2010-12-02T12:08:38Z"
       }, 
       "id": 2346459
     }
+  ], 
+  "bbox": [
+    -58.663, 
+    -27.441, 
+    -57.171, 
+    -25.803
   ]
 }

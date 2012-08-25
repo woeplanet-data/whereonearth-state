@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              0.160, 
+              0.16, 
               40.523
             ], 
             [
-              0.160, 
+              0.16, 
               42.862
             ], 
             [
@@ -23,7 +23,7 @@
               40.523
             ], 
             [
-              0.160, 
+              0.16, 
               40.523
             ]
           ]
@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Catalonia"
         ], 
+        "hierarchy": [
+          "woe:state=12578034", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.862, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Catalunha"
         ], 
@@ -58,7 +63,18 @@
         "alias_SPA_S": [
           "Cataluna"
         ], 
-        "sw_longitude": 0.160, 
+        "sw_longitude": 0.16, 
+        "adjacent": [
+          "woe:state=20070553", 
+          "woe:state=12578030", 
+          "woe:state=12578038", 
+          "woe:state=20070558", 
+          "woe:state=20070554", 
+          "woe:state=20070555", 
+          "woe:state=7153320", 
+          "woe:state=7153323", 
+          "woe:state=20070564"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.692, 
         "alias_NOR_Q": [
@@ -93,7 +109,6 @@
           20070564
         ], 
         "name": "Catalu\u00f1a", 
-        "parent_woeid": 23424950, 
         "alias_UNK_Q": [
           "Catalunya"
         ], 
@@ -111,5 +126,11 @@
       }, 
       "id": 12578034
     }
+  ], 
+  "bbox": [
+    0.16, 
+    40.523, 
+    3.332, 
+    42.862
   ]
 }

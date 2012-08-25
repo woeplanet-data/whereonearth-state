@@ -323,9 +323,14 @@
         "alias_SWE_Q": [
           "Bosnien och Hercegovina"
         ], 
+        "hierarchy": [
+          "woe:state=24549661", 
+          "woe:country=23424761", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 45.100348212000426, 
         "ne:Shape_Area": 0.0375985847869, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 2, 
         "alias_KOR_Q": [
@@ -348,6 +353,19 @@
           "Bosnia ja Hertsegovina"
         ], 
         "sw_longitude": 18.480298699425475, 
+        "adjacent": [
+          "woe:state=12577972", 
+          "woe:state=29389649", 
+          "woe:state=12577973", 
+          "woe:state=12577975", 
+          "woe:state=12577978", 
+          "woe:state=24549662", 
+          "woe:state=12577983", 
+          "woe:state=12577984", 
+          "woe:state=12577985", 
+          "woe:state=12577988", 
+          "woe:state=12577989"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 43.917, 
         "ne:FIPS_1": "BK00", 
@@ -398,7 +416,6 @@
         "ne:FIRST_FIPS": "BKO2", 
         "name": "Federacija Bosne I Hercegovine", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424761, 
         "alias_UNK_V": [
           "Bosnia and Herzegovina"
         ], 

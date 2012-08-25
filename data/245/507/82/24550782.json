@@ -8,23 +8,23 @@
           [
             [
               21.103, 
-              41.230
+              41.23
             ], 
             [
               21.103, 
               41.463
             ], 
             [
-              21.350, 
+              21.35, 
               41.463
             ], 
             [
-              21.350, 
-              41.230
+              21.35, 
+              41.23
             ], 
             [
               21.103, 
-              41.230
+              41.23
             ]
           ]
         ]
@@ -32,22 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550782, 
-        "alias_UNK_V": [
-          "Opstina Kru\u0161evo"
-        ], 
-        "name": "Kru\u0161evo", 
-        "alias_ENG_P": [
-          "Krusevo Municipality"
-        ], 
-        "alias_UNK_S": [
-          "Opstina Krusevo"
-        ], 
-        "ne_latitude": 41.463, 
-        "ne_longitude": 21.350, 
-        "longitude": 21.227, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550747, 
           24550759, 
@@ -58,15 +42,51 @@
           24550789, 
           24550797
         ], 
+        "name": "Kru\u0161evo", 
+        "alias_ENG_P": [
+          "Krusevo Municipality"
+        ], 
+        "alias_UNK_S": [
+          "Opstina Krusevo"
+        ], 
+        "woeid": 24550782, 
+        "alias_UNK_V": [
+          "Opstina Kru\u0161evo"
+        ], 
+        "longitude": 21.227, 
+        "ne_longitude": 21.35, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=24550782", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.23, 
+        "adjacent": [
+          "woe:state=24550747", 
+          "woe:state=24550759", 
+          "woe:state=24550763", 
+          "woe:state=24550764", 
+          "woe:state=24550781", 
+          "woe:state=24550786", 
+          "woe:state=24550789", 
+          "woe:state=24550797"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.346, 
+        "ne_latitude": 41.463, 
         "sw_longitude": 21.103, 
+        "latitude": 41.346, 
         "fullname": "Kru\u0161evo, Krusevo Municipality, Macedonia", 
-        "sw_latitude": 41.230
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550782
     }
+  ], 
+  "bbox": [
+    21.103, 
+    41.23, 
+    21.35, 
+    41.463
   ]
 }

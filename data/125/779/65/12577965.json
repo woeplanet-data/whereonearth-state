@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 12577965, 
-        "alias_UNK_V": [
-          "Limassol"
-        ], 
-        "name": "Limassol District", 
         "adjacent_woeid": [
           12577964, 
           12577966, 
           12577971
         ], 
+        "name": "Limassol District", 
         "ne_latitude": 34.961, 
-        "ne_longitude": 33.281, 
+        "hierarchy": [
+          "woe:state=12577965", 
+          "woe:country=26812346", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12577965, 
+        "alias_UNK_V": [
+          "Limassol"
+        ], 
         "longitude": 32.959, 
-        "parent_woeid": 26812346, 
-        "placetype": "State", 
+        "ne_longitude": 33.281, 
+        "placetype": "state", 
         "iso": "CY", 
-        "date_indexed": "2010-12-02T09:35:19Z", 
+        "sw_latitude": 34.564, 
+        "adjacent": [
+          "woe:state=12577964", 
+          "woe:state=12577971", 
+          "woe:state=12577966"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 34.762, 
         "sw_longitude": 32.636, 
         "fullname": "Limassol District, Cyprus", 
-        "sw_latitude": 34.564
+        "date_indexed": "2010-12-02T09:35:19Z"
       }, 
       "id": 12577965
     }
+  ], 
+  "bbox": [
+    32.636, 
+    34.564, 
+    33.281, 
+    34.961
   ]
 }

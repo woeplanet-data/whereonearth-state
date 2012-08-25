@@ -799,20 +799,34 @@
       "properties": {
         "ne:ProvNumber": 4, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=2345620", 
+          "woe:country=23424839", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 18.972847397989085, 
         "ne:Shape_Area": 0.424955783408, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "1980", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "HTI", 
-        "ne:OBJECTID": 1388, 
+        "ne:DataRank": 6, 
         "alias_JPN_Q": [
           "\u30a6\u30a7\u30b9\u30c8"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -73.29960303385292, 
+        "adjacent": [
+          "woe:state=2345615", 
+          "woe:state=2345616", 
+          "woe:state=2345181", 
+          "woe:state=2345617", 
+          "woe:state=2345179", 
+          "woe:state=2345621", 
+          "woe:state=2345622"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 18.609, 
         "ne:FIPS_1": "HA11", 
@@ -820,9 +834,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Department", 
         "sw_latitude": 18.262968247786432, 
-        "ne:VertexCou": 189.0, 
-        "ne:VALIDFR_1": "1980", 
-        "ne:DataRank": 6, 
+        "lang": "FRE", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 1388, 
         "ne:Postal": "OU", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -838,8 +852,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 4964.8, 
         "woe:id": "2345620", 
-        "ne:HASC_1": "HT.OU", 
-        "lang": "FRE", 
+        "name": "Ouest", 
+        "ne:VertexCou": 189.0, 
         "adjacent_woeid": [
           2345179, 
           2345181, 
@@ -849,9 +863,8 @@
           2345621, 
           2345622
         ], 
-        "name": "Ouest", 
+        "ne:HASC_1": "HT.OU", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424839, 
         "ne_longitude": -71.71008765362228, 
         "longitude": -72.156, 
         "alias_FRE_A": [

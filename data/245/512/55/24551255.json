@@ -32,22 +32,29 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24551255, 
-        "name": "South Eleuthera", 
         "adjacent_woeid": [
           24551244
         ], 
-        "ne_latitude": 24.957, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "South Eleuthera", 
         "alias_ENG_V": [
           "S Eleuthera"
         ], 
+        "hierarchy": [
+          "woe:state=24551255", 
+          "woe:country=23424758", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24551255, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.136, 
-        "longitude": -76.190, 
-        "placetype": "State", 
+        "longitude": -76.19, 
+        "placetype": "state", 
         "iso": "BS", 
         "date_indexed": "2010-12-02T07:50:25Z", 
-        "parent_woeid": 23424758, 
+        "adjacent": [
+          "woe:state=24551244"
+        ], 
+        "ne_latitude": 24.957, 
         "latitude": 24.792, 
         "sw_longitude": -76.342, 
         "fullname": "South Eleuthera, The Bahamas", 
@@ -55,5 +62,11 @@
       }, 
       "id": 24551255
     }
+  ], 
+  "bbox": [
+    -76.342, 
+    24.627, 
+    -76.136, 
+    24.957
   ]
 }

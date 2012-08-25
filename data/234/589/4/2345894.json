@@ -1557,20 +1557,30 @@
         "alias_ENG_P": [
           "Yamaguchi Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345894", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 34.66315582977779, 
         "ne:Shape_Area": 0.588994161131, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1826, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5c71\u53e3"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 130.8618628279072, 
+        "adjacent": [
+          "woe:state=2345885", 
+          "woe:state=2345861", 
+          "woe:state=58646425"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 34.256, 
         "ne:FIPS_1": "JA45", 
@@ -1578,9 +1588,9 @@
         "ne:FIRST_HASC": "JP.FS", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 33.766052965172264, 
-        "ne:VertexCou": 379.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1826, 
         "ne:Postal": "YC", 
         "ne:Region_Cod": "JPN-CGK", 
         "ne:VARNAME_1": "Yamaguti", 
@@ -1596,16 +1606,15 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 6022.1, 
         "woe:id": "2345894", 
-        "ne:HASC_1": "JP.YC", 
-        "lang": "JPN", 
+        "name": "\u5c71\u53e3\u770c", 
+        "ne:VertexCou": 379.0, 
         "adjacent_woeid": [
           2345861, 
           2345885, 
           58646425
         ], 
-        "name": "\u5c71\u53e3\u770c", 
+        "ne:HASC_1": "JP.YC", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 132.46982669464626, 
         "longitude": 131.556, 
         "iso": "JP", 

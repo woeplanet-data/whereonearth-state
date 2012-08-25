@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              128.970, 
-              35.330
+              128.97, 
+              35.33
             ], 
             [
-              128.970, 
+              128.97, 
               35.722
             ], 
             [
@@ -20,11 +20,11 @@
             ], 
             [
               129.466, 
-              35.330
+              35.33
             ], 
             [
-              128.970, 
-              35.330
+              128.97, 
+              35.33
             ]
           ]
         ]
@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Ulsan"
         ], 
+        "hierarchy": [
+          "woe:state=23701285", 
+          "woe:country=23424868", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.722, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_V": [
           "\uc6b8\uc0b0\uad11\uc5ed"
         ], 
@@ -52,7 +57,12 @@
         "alias_FIN_Q": [
           "Ulsan"
         ], 
-        "sw_longitude": 128.970, 
+        "sw_longitude": 128.97, 
+        "adjacent": [
+          "woe:state=2345967", 
+          "woe:state=2345970", 
+          "woe:state=2345968"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.526, 
         "date_indexed": "2010-12-02T17:52:39Z", 
@@ -63,14 +73,19 @@
           2345970
         ], 
         "name": "\uc6b8\uc0b0", 
-        "parent_woeid": 23424868, 
         "ne_longitude": 129.466, 
         "longitude": 129.218, 
         "iso": "KR", 
-        "sw_latitude": 35.330, 
+        "sw_latitude": 35.33, 
         "fullname": "\uc6b8\uc0b0, Ulsan, South Korea"
       }, 
       "id": 23701285
     }
+  ], 
+  "bbox": [
+    128.97, 
+    35.33, 
+    129.466, 
+    35.722
   ]
 }

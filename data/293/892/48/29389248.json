@@ -8,23 +8,23 @@
           [
             [
               22.533, 
-              60.940
+              60.94
             ], 
             [
               22.533, 
               62.494
             ], 
             [
-              24.970, 
+              24.97, 
               62.494
             ], 
             [
-              24.970, 
-              60.940
+              24.97, 
+              60.94
             ], 
             [
               22.533, 
-              60.940
+              60.94
             ]
           ]
         ]
@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FIN", 
-        "woeid": 29389248, 
-        "alias_SWE_V": [
-          "Birkaland"
-        ], 
-        "name": "Pirkanmaan maakunta", 
-        "alias_ENG_P": [
-          "Pirkanmaa"
-        ], 
-        "ne_latitude": 62.494, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 24.970, 
-        "longitude": 23.752, 
-        "placetype": "State", 
         "adjacent_woeid": [
           29389249, 
           29389250, 
@@ -53,21 +40,52 @@
           29389256, 
           29389258
         ], 
-        "iso": "FI", 
+        "alias_SWE_V": [
+          "Birkaland"
+        ], 
+        "alias_SWE_Q": [
+          "Birkalands landskap"
+        ], 
+        "alias_ENG_P": [
+          "Pirkanmaa"
+        ], 
+        "hierarchy": [
+          "woe:state=29389248", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 62.494, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.97, 
+        "longitude": 23.752, 
+        "placetype": "state", 
+        "sw_longitude": 22.533, 
         "date_indexed": "2010-12-02T16:39:41Z", 
         "alias_FIN_V": [
           "Pirkanmaan maakuntana"
         ], 
-        "parent_woeid": 23424812, 
+        "woeid": 29389248, 
         "latitude": 61.717, 
-        "sw_longitude": 22.533, 
+        "iso": "FI", 
         "fullname": "Pirkanmaan maakunta, Western Finland, Pirkanmaan maakunta, Finland", 
-        "sw_latitude": 60.940, 
-        "alias_SWE_Q": [
-          "Birkalands landskap"
-        ]
+        "adjacent": [
+          "woe:state=29389256", 
+          "woe:state=29389249", 
+          "woe:state=29389258", 
+          "woe:state=29389255", 
+          "woe:state=29389252", 
+          "woe:state=29389250"
+        ], 
+        "sw_latitude": 60.94, 
+        "name": "Pirkanmaan maakunta"
       }, 
       "id": 29389248
     }
+  ], 
+  "bbox": [
+    22.533, 
+    60.94, 
+    24.97, 
+    62.494
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               -171.716, 
-              -13.850
+              -13.85
             ], 
             [
               -171.333, 
-              -13.850
+              -13.85
             ], 
             [
               -171.333, 
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070345, 
-        "name": "Atua", 
         "adjacent_woeid": [
           20070339, 
           20070346
         ], 
-        "ne_latitude": -13.850, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Atua", 
+        "hierarchy": [
+          "woe:state=20070345", 
+          "woe:country=23424992", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070345, 
         "ne_longitude": -171.333, 
         "longitude": -171.475, 
-        "placetype": "State", 
-        "iso": "WS", 
-        "date_indexed": "2010-12-02T16:50:25Z", 
-        "parent_woeid": 23424992, 
+        "placetype": "state", 
         "latitude": -13.948, 
+        "iso": "WS", 
+        "sw_latitude": -14.064, 
+        "adjacent": [
+          "woe:state=20070339", 
+          "woe:state=20070346"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -13.85, 
         "sw_longitude": -171.716, 
         "fullname": "Atua, Samoa", 
-        "sw_latitude": -14.064
+        "date_indexed": "2010-12-02T16:50:25Z"
       }, 
       "id": 20070345
     }
+  ], 
+  "bbox": [
+    -171.716, 
+    -14.064, 
+    -171.333, 
+    -13.85
   ]
 }

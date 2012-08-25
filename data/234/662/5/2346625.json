@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "RUM", 
-        "woeid": 2346625, 
-        "name": "Buzau", 
         "adjacent_woeid": [
           2346622, 
           2346623, 
@@ -42,20 +40,40 @@
           2346643, 
           2346653
         ], 
-        "ne_latitude": 45.801, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Buzau", 
+        "hierarchy": [
+          "woe:state=2346625", 
+          "woe:country=23424933", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346625, 
         "ne_longitude": 27.442, 
         "longitude": 26.744, 
-        "placetype": "State", 
-        "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
-        "parent_woeid": 23424933, 
+        "placetype": "state", 
         "latitude": 45.266, 
+        "iso": "RO", 
+        "sw_latitude": 44.731, 
+        "adjacent": [
+          "woe:state=2346622", 
+          "woe:state=2346623", 
+          "woe:state=2346629", 
+          "woe:state=2346636", 
+          "woe:state=2346643", 
+          "woe:state=2346653"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 45.801, 
         "sw_longitude": 26.047, 
         "fullname": "Buzau, Romania", 
-        "sw_latitude": 44.731
+        "date_indexed": "2010-12-02T16:36:29Z"
       }, 
       "id": 2346625
     }
+  ], 
+  "bbox": [
+    26.047, 
+    44.731, 
+    27.442, 
+    45.801
   ]
 }

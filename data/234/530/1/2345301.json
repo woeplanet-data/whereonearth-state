@@ -31,41 +31,57 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_CHI_Q": [
+          "\u5723\u8428\u5c14\u74e6\u591a"
+        ], 
         "lang": "SPA", 
-        "ne_latitude": 14.058, 
-        "name": "San Salvador", 
+        "alias_KOR_Q": [
+          "\uc0b0\uc0b4\ubc14\ub3c4\ub974"
+        ], 
         "adjacent_woeid": [
           2345294, 
           2345295, 
           2345296, 
           2345297
         ], 
-        "woeid": 2345301, 
+        "hierarchy": [
+          "woe:state=2345301", 
+          "woe:country=23424807", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 14.058, 
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30b5\u30eb\u30d0\u30c9\u30eb"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -89.016, 
+        "longitude": -89.153, 
+        "placetype": "state", 
+        "sw_longitude": -89.289, 
+        "sw_latitude": 13.474, 
+        "adjacent": [
+          "woe:state=2345294", 
+          "woe:state=2345295", 
+          "woe:state=2345296", 
+          "woe:state=2345297"
         ], 
         "alias_SPA_V": [
           "S. Salvador"
         ], 
-        "ne_longitude": -89.016, 
-        "longitude": -89.153, 
-        "parent_woeid": 23424807, 
-        "placetype": "State", 
-        "alias_CHI_Q": [
-          "\u5723\u8428\u5c14\u74e6\u591a"
-        ], 
-        "iso": "SV", 
-        "date_indexed": "2010-12-02T17:05:52Z", 
-        "alias_KOR_Q": [
-          "\uc0b0\uc0b4\ubc14\ub3c4\ub974"
-        ], 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 13.766, 
-        "sw_longitude": -89.289, 
+        "iso": "SV", 
         "fullname": "San Salvador, El Salvador", 
-        "sw_latitude": 13.474
+        "woeid": 2345301, 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "name": "San Salvador"
       }, 
       "id": 2345301
     }
+  ], 
+  "bbox": [
+    -89.289, 
+    13.474, 
+    -89.016, 
+    14.058
   ]
 }

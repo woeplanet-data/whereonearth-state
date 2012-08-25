@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2346307, 
-        "name": "Terengganu", 
         "adjacent_woeid": [
           2346298, 
           2346301
         ], 
-        "ne_latitude": 5.964, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Terengganu", 
+        "hierarchy": [
+          "woe:state=2346307", 
+          "woe:country=23424901", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346307, 
         "ne_longitude": 103.691, 
         "longitude": 102.935, 
-        "placetype": "State", 
-        "iso": "MY", 
-        "date_indexed": "2010-12-02T18:03:44Z", 
-        "parent_woeid": 23424901, 
+        "placetype": "state", 
         "latitude": 4.865, 
+        "iso": "MY", 
+        "sw_latitude": 3.881, 
+        "adjacent": [
+          "woe:state=2346298", 
+          "woe:state=2346301"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 5.964, 
         "sw_longitude": 102.378, 
         "fullname": "Terengganu, Malaysia", 
-        "sw_latitude": 3.881
+        "date_indexed": "2010-12-02T18:03:44Z"
       }, 
       "id": 2346307
     }
+  ], 
+  "bbox": [
+    102.378, 
+    3.881, 
+    103.691, 
+    5.964
   ]
 }

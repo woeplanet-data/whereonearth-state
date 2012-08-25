@@ -356,9 +356,14 @@
         "alias_ENG_P": [
           "Mavrovo and Rostusa Municipality"
         ], 
+        "hierarchy": [
+          "woe:state=24550858", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.80023956970041, 
         "ne:Shape_Area": 0.0780301524375, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -367,6 +372,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 20.499761996718803, 
+        "adjacent": [
+          "woe:state=24550829", 
+          "woe:state=24550837", 
+          "woe:state=24550764", 
+          "woe:state=24550767", 
+          "woe:state=24550864"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.699, 
         "ne:FIPS_1": "MK64", 
@@ -406,7 +418,6 @@
         "alias_UNK_S": [
           "Opstina Mavrovo and Rostusa"
         ], 
-        "parent_woeid": 23424890, 
         "alias_UNK_V": [
           "Opstina Mavrovo and Rostu\u0161a"
         ], 

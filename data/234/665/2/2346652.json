@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "RUM", 
-        "ne_latitude": 45.589, 
-        "name": "Valcea", 
         "adjacent_woeid": [
           2346615, 
           2346617, 
@@ -43,23 +41,44 @@
           2346642, 
           2346646
         ], 
-        "parent_woeid": 23424933, 
+        "name": "Valcea", 
+        "hierarchy": [
+          "woe:state=2346652", 
+          "woe:country=23424933", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 45.589, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 24.524, 
-        "longitude": 24.050, 
-        "placetype": "State", 
+        "longitude": 24.05, 
+        "placetype": "state", 
+        "iso": "RO", 
+        "sw_latitude": 44.489, 
+        "adjacent": [
+          "woe:state=2346615", 
+          "woe:state=2346617", 
+          "woe:state=2346631", 
+          "woe:state=2346633", 
+          "woe:state=2346635", 
+          "woe:state=2346642", 
+          "woe:state=2346646"
+        ], 
         "alias_RUM_V": [
           "Vilcea"
         ], 
-        "iso": "RO", 
-        "date_indexed": "2010-12-02T16:36:29Z", 
-        "provider": "geoplanet 7.6.0", 
         "latitude": 45.039, 
         "sw_longitude": 23.576, 
         "fullname": "Valcea, Romania", 
         "woeid": 2346652, 
-        "sw_latitude": 44.489
+        "date_indexed": "2010-12-02T16:36:29Z"
       }, 
       "id": 2346652
     }
+  ], 
+  "bbox": [
+    23.576, 
+    44.489, 
+    24.524, 
+    45.589
   ]
 }

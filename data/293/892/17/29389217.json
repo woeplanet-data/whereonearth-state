@@ -2665,9 +2665,14 @@
       "properties": {
         "ne:ProvNumber": 19, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=29389217", 
+          "woe:country=20069818", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 45.08208059354462, 
         "ne:Shape_Area": 0.380865497842, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 10, 
         "ne:gadm_level": 1.0, 
@@ -2676,6 +2681,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 19.961190219952755, 
+        "adjacent": [
+          "woe:state=29389222", 
+          "woe:state=29389220", 
+          "woe:state=29389202", 
+          "woe:state=29389211", 
+          "woe:state=29389225", 
+          "woe:state=29389197", 
+          "woe:state=29389205"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 44.705, 
         "ne:FIPS_1": "RB02", 
@@ -2714,7 +2728,6 @@
         ], 
         "name": "Beograd", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 20069818, 
         "alias_UNK_Q": [
           "Belgrade"
         ], 

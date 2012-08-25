@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Jonkopings"
         ], 
+        "hierarchy": [
+          "woe:state=2347051", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 58.187, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "J\u00f6nk\u00f6ping"
         ], 
@@ -65,6 +70,13 @@
           "Joenkoeping"
         ], 
         "sw_longitude": 13.077, 
+        "adjacent": [
+          "woe:state=2347049", 
+          "woe:state=2347052", 
+          "woe:state=2347055", 
+          "woe:state=20070562", 
+          "woe:state=2347059"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 57.533, 
         "alias_NOR_S": [
@@ -101,7 +113,6 @@
           20070562
         ], 
         "name": "J\u00f6nk\u00f6pings L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 15.666, 
         "longitude": 14.372, 
         "iso": "SE", 
@@ -116,5 +127,11 @@
       }, 
       "id": 2347051
     }
+  ], 
+  "bbox": [
+    13.077, 
+    56.879, 
+    15.666, 
+    58.187
   ]
 }

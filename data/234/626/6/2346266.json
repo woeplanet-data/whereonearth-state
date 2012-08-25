@@ -5259,21 +5259,28 @@
       "properties": {
         "ne:ProvNumber": 2000, 
         "ne:ScaleRank": 4, 
+        "hierarchy": [
+          "woe:state=2346266", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 28.00128856021894, 
         "ne:Shape_Area": 6.48040227606, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VARNAME_1": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "19310207", 
         "alias_ENG_A": [
           "BS"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "MEX", 
-        "ne:OBJECTID": 2707, 
+        "ne:DataRank": 2, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -115.7538850574494, 
+        "adjacent": [
+          "woe:state=2346265"
+        ], 
         "alias_SPA_V": [
           "Estado de Baja California Sur"
         ], 
@@ -5283,12 +5290,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 22.86894033412915, 
-        "ne:VertexCou": 1323.0, 
-        "ne:VALIDFR_1": "19310207", 
-        "ne:DataRank": 2, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 2707, 
         "ne:Postal": "BS", 
         "ne:Region_Cod": null, 
-        "provider": "geoplanet 7.6.0", 
+        "ne:VARNAME_1": null, 
         "ne:ISO": "MEX", 
         "ne:TYPE_1": "Estado", 
         "ne:Region_C_2": null, 
@@ -5301,16 +5308,16 @@
         "ne:LabelRank": 4, 
         "ne:Area_sqkm": 71903.8, 
         "woe:id": "2346266", 
-        "ne:HASC_1": "MX.BS", 
-        "lang": "SPA", 
+        "name": "Baja California Sur", 
+        "ne:VertexCou": 1323.0, 
         "adjacent_woeid": [
           2346265
         ], 
-        "name": "Baja California Sur", 
+        "ne:HASC_1": "MX.BS", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424900, 
-        "ne_longitude": -109.40695980545064, 
+        "provider": "geoplanet 7.6.0", 
         "longitude": -111.539, 
+        "ne_longitude": -109.40695980545064, 
         "iso": "MX", 
         "date_indexed": "2010-12-02T16:55:36Z", 
         "ne:NL_NAME_1": null, 

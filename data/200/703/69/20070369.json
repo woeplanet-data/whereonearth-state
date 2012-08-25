@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070369, 
-        "name": "Gurjaanis Raioni", 
         "adjacent_woeid": [
           20070359, 
           20070370, 
@@ -41,20 +39,39 @@
           20070373, 
           20070375
         ], 
-        "ne_latitude": 41.926, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Gurjaanis Raioni", 
+        "hierarchy": [
+          "woe:state=20070369", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070369, 
         "ne_longitude": 45.919, 
         "longitude": 45.682, 
-        "placetype": "State", 
-        "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "placetype": "state", 
         "latitude": 41.728, 
+        "iso": "GE", 
+        "sw_latitude": 41.529, 
+        "adjacent": [
+          "woe:state=20070370", 
+          "woe:state=20070373", 
+          "woe:state=20070372", 
+          "woe:state=20070359", 
+          "woe:state=20070375"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.926, 
         "sw_longitude": 45.445, 
         "fullname": "Gurjaanis Raioni, Georgia", 
-        "sw_latitude": 41.529
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070369
     }
+  ], 
+  "bbox": [
+    45.445, 
+    41.529, 
+    45.919, 
+    41.926
   ]
 }

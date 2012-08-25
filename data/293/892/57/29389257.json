@@ -31,44 +31,60 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "FIN", 
-        "woeid": 29389257, 
         "alias_SWE_V": [
           "Mellersta \u00d6sterbotten"
         ], 
-        "alias_SWE_S": [
-          "Mellersta Osterbotten"
+        "alias_SWE_Q": [
+          "Mellersta \u00d6sterbottens landskap"
         ], 
-        "name": "Keski-Pohjanmaan maakunta", 
         "alias_ENG_P": [
           "Central Ostrobothnia"
         ], 
+        "hierarchy": [
+          "woe:state=29389257", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 64.198, 
+        "placetype": "state", 
+        "woeid": 29389257, 
+        "alias_SWE_S": [
+          "Mellersta Osterbotten"
+        ], 
+        "sw_longitude": 22.786, 
+        "alias_FIN_V": [
+          "Keski-Pohjanmaan maakuntana"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 25.036, 
-        "longitude": 23.923, 
-        "placetype": "State", 
+        "latitude": 63.644, 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "adjacent": [
+          "woe:state=29389256", 
+          "woe:state=29389258", 
+          "woe:state=29389259", 
+          "woe:state=29389265"
+        ], 
+        "lang": "FIN", 
         "adjacent_woeid": [
           29389259, 
           29389265, 
           29389258, 
           29389256
         ], 
+        "name": "Keski-Pohjanmaan maakunta", 
+        "ne_longitude": 25.036, 
+        "longitude": 23.923, 
         "iso": "FI", 
-        "date_indexed": "2010-12-02T16:39:41Z", 
-        "alias_FIN_V": [
-          "Keski-Pohjanmaan maakuntana"
-        ], 
-        "parent_woeid": 23424812, 
-        "latitude": 63.644, 
-        "sw_longitude": 22.786, 
-        "fullname": "Keski-Pohjanmaan maakunta, Western Finland, Central Ostrobothnia, Finland", 
         "sw_latitude": 63.117, 
-        "alias_SWE_Q": [
-          "Mellersta \u00d6sterbottens landskap"
-        ]
+        "fullname": "Keski-Pohjanmaan maakunta, Western Finland, Central Ostrobothnia, Finland"
       }, 
       "id": 29389257
     }
+  ], 
+  "bbox": [
+    22.786, 
+    63.117, 
+    25.036, 
+    64.198
   ]
 }

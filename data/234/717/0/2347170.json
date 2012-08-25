@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347170, 
-        "name": "Chon Buri", 
         "adjacent_woeid": [
           2347169, 
           2347171, 
           2347172
         ], 
-        "ne_latitude": 13.589, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chon Buri", 
         "alias_ENG_V": [
           "Changwat Chon Buri"
         ], 
+        "hierarchy": [
+          "woe:state=2347170", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347170, 
         "ne_longitude": 101.719, 
         "longitude": 101.277, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 13.092, 
+        "iso": "TH", 
+        "sw_latitude": 12.595, 
+        "adjacent": [
+          "woe:state=2347169", 
+          "woe:state=2347172", 
+          "woe:state=2347171"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.589, 
         "sw_longitude": 100.765, 
         "fullname": "Chon Buri, Thailand", 
-        "sw_latitude": 12.595
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347170
     }
+  ], 
+  "bbox": [
+    100.765, 
+    12.595, 
+    101.719, 
+    13.589
   ]
 }

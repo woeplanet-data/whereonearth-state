@@ -879,9 +879,14 @@
       "properties": {
         "ne:ProvNumber": 12, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=28350158", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -5.880932712274785, 
         "ne:Shape_Area": 0.782754931198, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 11, 
         "alias_KOR_Q": [
@@ -899,6 +904,10 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 105.11800784708453, 
+        "adjacent": [
+          "woe:state=2345713", 
+          "woe:state=2345715"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -6.438, 
         "ne:FIPS_1": "ID33", 
@@ -932,7 +941,6 @@
         ], 
         "name": "Banten", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424846, 
         "ne_longitude": 106.76617597873849, 
         "longitude": 105.995, 
         "iso": "ID", 

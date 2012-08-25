@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 21.839, 
-        "name": "Guanajuato", 
         "adjacent_woeid": [
           2346277, 
           2346279, 
@@ -41,26 +39,45 @@
           2346287, 
           2346295
         ], 
+        "alias_ENG_A": [
+          "GT"
+        ], 
+        "name": "Guanajuato", 
+        "hierarchy": [
+          "woe:state=2346274", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346274, 
         "alias_SPA_V": [
           "Estado de Guanajuato"
         ], 
         "ne_longitude": -99.671, 
         "longitude": -100.884, 
-        "parent_woeid": 23424900, 
-        "placetype": "State", 
-        "iso": "MX", 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "GT"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 20.876, 
         "sw_longitude": -102.096, 
+        "sw_latitude": 19.912, 
+        "adjacent": [
+          "woe:state=2346277", 
+          "woe:state=2346279", 
+          "woe:state=2346285", 
+          "woe:state=2346287", 
+          "woe:state=2346295"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 21.839, 
+        "iso": "MX", 
         "fullname": "Guanajuato, Mexico", 
-        "sw_latitude": 19.912
+        "date_indexed": "2010-12-02T16:55:36Z"
       }, 
       "id": 2346274
     }
+  ], 
+  "bbox": [
+    -102.096, 
+    19.912, 
+    -99.671, 
+    21.839
   ]
 }

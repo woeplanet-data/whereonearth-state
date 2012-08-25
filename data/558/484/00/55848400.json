@@ -116,9 +116,15 @@
         "alias_ENG_P": [
           "Aerodrom Municipality"
         ], 
+        "hierarchy": [
+          "woe:state=55848400", 
+          "woe:town=482940", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.98374258105531, 
         "ne:Shape_Area": 0.00230551345817, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -127,6 +133,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 21.432211541629385, 
+        "adjacent": [
+          "woe:state=24550766", 
+          "woe:state=24550769", 
+          "woe:state=24550866", 
+          "woe:state=24550796", 
+          "woe:state=24550820"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.954, 
         "ne:FIPS_1": "MK44", 
@@ -163,7 +176,6 @@
         ], 
         "name": "Aerodrom", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 482940, 
         "alias_UNK_V": [
           "Opstina Aerodrom"
         ], 

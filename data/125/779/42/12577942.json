@@ -43,8 +43,13 @@
         "alias_ENG_P": [
           "Opole"
         ], 
+        "hierarchy": [
+          "woe:state=12577942", 
+          "woe:country=23424923", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 51.195, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Opole"
         ], 
@@ -56,6 +61,12 @@
           "Opole"
         ], 
         "sw_longitude": 16.909, 
+        "adjacent": [
+          "woe:state=12577935", 
+          "woe:state=12577946", 
+          "woe:state=12577949", 
+          "woe:state=12577937"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.584, 
         "alias_NOR_Q": [
@@ -76,7 +87,6 @@
           12577949
         ], 
         "name": "Opolskie", 
-        "parent_woeid": 23424923, 
         "ne_longitude": 18.696, 
         "longitude": 17.802, 
         "iso": "PL", 
@@ -88,5 +98,11 @@
       }, 
       "id": 12577942
     }
+  ], 
+  "bbox": [
+    16.909, 
+    49.972, 
+    18.696, 
+    51.195
   ]
 }

@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              73.350, 
+              73.35, 
               2.766
             ], 
             [
-              73.350, 
-              3.150
+              73.35, 
+              3.15
             ], 
             [
               73.617, 
-              3.150
+              3.15
             ], 
             [
               73.617, 
               2.766
             ], 
             [
-              73.350, 
+              73.35, 
               2.766
             ]
           ]
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070323, 
+        "ne_latitude": 3.15, 
         "name": "Meemu", 
-        "ne_latitude": 3.150, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=20070323", 
+          "woe:country=23424899", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070323, 
         "ne_longitude": 73.617, 
-        "longitude": 73.360, 
-        "placetype": "State", 
+        "longitude": 73.36, 
+        "placetype": "state", 
         "iso": "MV", 
-        "date_indexed": "2010-12-02T09:35:37Z", 
-        "parent_woeid": 23424899, 
+        "sw_latitude": 2.766, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 2.778, 
-        "sw_longitude": 73.350, 
+        "sw_longitude": 73.35, 
         "fullname": "Meemu, Maldives", 
-        "sw_latitude": 2.766
+        "date_indexed": "2010-12-02T09:35:37Z"
       }, 
       "id": 20070323
     }
+  ], 
+  "bbox": [
+    73.35, 
+    2.766, 
+    73.617, 
+    3.15
   ]
 }

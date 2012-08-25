@@ -17,10 +17,25 @@
           56190587
         ], 
         "name": "Balvi Novads", 
-        "parent_woeid": 23424874, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56190555", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "LV", 
+        "adjacent": [
+          "woe:state=56190569", 
+          "woe:state=56190553", 
+          "woe:state=56190568", 
+          "woe:state=56190573", 
+          "woe:state=56190587", 
+          "woe:state=56190538", 
+          "woe:state=56190526", 
+          "woe:state=56190597", 
+          "woe:state=56190599"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56190555, 
         "date_indexed": "2010-12-02T08:49:33Z"
       }, 

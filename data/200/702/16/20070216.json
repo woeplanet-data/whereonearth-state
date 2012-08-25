@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070216, 
-        "name": "Ali Bayramli", 
         "adjacent_woeid": [
           20070280, 
           20070281, 
           20070282
         ], 
-        "ne_latitude": 39.937, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ali Bayramli", 
+        "hierarchy": [
+          "woe:state=20070216", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070216, 
         "ne_longitude": 48.941, 
         "longitude": 48.917, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.925, 
+        "iso": "AZ", 
+        "sw_latitude": 39.914, 
+        "adjacent": [
+          "woe:state=20070282", 
+          "woe:state=20070281", 
+          "woe:state=20070280"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.937, 
         "sw_longitude": 48.893, 
         "fullname": "Ali Bayramli, Azerbaijan", 
-        "sw_latitude": 39.914
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070216
     }
+  ], 
+  "bbox": [
+    48.893, 
+    39.914, 
+    48.941, 
+    39.937
   ]
 }

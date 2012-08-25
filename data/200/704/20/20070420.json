@@ -15,11 +15,11 @@
               -0.155
             ], 
             [
-              32.890, 
+              32.89, 
               -0.155
             ], 
             [
-              32.890, 
+              32.89, 
               -0.996
             ], 
             [
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070420, 
-        "name": "Kalangala", 
         "ne_latitude": -0.155, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 32.890, 
+        "name": "Kalangala", 
+        "hierarchy": [
+          "woe:state=20070420", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070420, 
+        "ne_longitude": 32.89, 
         "longitude": 32.439, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "sw_latitude": -0.996, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -0.576, 
         "sw_longitude": 31.998, 
         "fullname": "Kalangala, Uganda", 
-        "sw_latitude": -0.996
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070420
     }
+  ], 
+  "bbox": [
+    31.998, 
+    -0.996, 
+    32.89, 
+    -0.155
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2345454, 
-        "name": "Ogooue-Ivindo", 
         "adjacent_woeid": [
           2344974, 
           2345450, 
@@ -43,23 +41,44 @@
           2345457, 
           55998384
         ], 
-        "ne_latitude": 1.438, 
+        "name": "Ogooue-Ivindo", 
+        "hierarchy": [
+          "woe:state=2345454", 
+          "woe:country=23424822", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345454, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.502, 
         "longitude": 12.882, 
-        "parent_woeid": 23424822, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 0.35, 
+        "iso": "GA", 
+        "sw_latitude": -0.738, 
+        "adjacent": [
+          "woe:state=55998384", 
+          "woe:state=2345450", 
+          "woe:state=2345451", 
+          "woe:state=2345452", 
+          "woe:state=2345455", 
+          "woe:state=2344974", 
+          "woe:state=2345457"
+        ], 
+        "ne_latitude": 1.438, 
         "alias_FRE_V": [
           "Ogoou\u00e9-Ivindo"
         ], 
-        "iso": "GA", 
-        "date_indexed": "2010-12-02T08:50:01Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 0.350, 
         "sw_longitude": 11.261, 
         "fullname": "Ogooue-Ivindo, Gabon", 
-        "sw_latitude": -0.738
+        "date_indexed": "2010-12-02T08:50:01Z"
       }, 
       "id": 2345454
     }
+  ], 
+  "bbox": [
+    11.261, 
+    -0.738, 
+    14.502, 
+    1.438
   ]
 }

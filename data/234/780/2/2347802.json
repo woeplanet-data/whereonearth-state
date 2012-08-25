@@ -1662,9 +1662,14 @@
         "alias_SWE_S": [
           "Kopparbaltet"
         ], 
+        "hierarchy": [
+          "woe:state=2347802", 
+          "woe:country=23425003", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -12.24297332136166, 
         "ne:Shape_Area": 2.59660493725, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 13, 
         "alias_KOR_Q": [
@@ -1677,6 +1682,11 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 26.78899051260214, 
+        "adjacent": [
+          "woe:state=2347805", 
+          "woe:state=2344981", 
+          "woe:state=2347801"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -13.047, 
         "ne:FIPS_1": "ZA08", 
@@ -1711,7 +1721,6 @@
         ], 
         "name": "Copperbelt", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23425003, 
         "ne_longitude": 29.065440708022322, 
         "longitude": 27.861, 
         "iso": "ZM", 

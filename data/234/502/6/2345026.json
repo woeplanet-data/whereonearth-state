@@ -4682,21 +4682,32 @@
         "alias_ENG_P": [
           "Los Lagos Region"
         ], 
+        "hierarchy": [
+          "woe:state=2345026", 
+          "woe:country=23424782", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -40.272941989980836, 
         "ne:Shape_Area": 5.17737926678, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VARNAME_1": "X", 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1979", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHL", 
-        "ne:OBJECTID": 2704, 
+        "ne:DataRank": 3, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "alias_SPA_S": [
           "Region de Los Lagos"
         ], 
         "sw_longitude": -74.40713233119209, 
+        "adjacent": [
+          "woe:state=2345019", 
+          "woe:state=2344678", 
+          "woe:state=56043703", 
+          "woe:state=2344689", 
+          "woe:state=2344690"
+        ], 
         "alias_SPA_V": [
           "Regi\u00f3n de Los Lagos"
         ], 
@@ -4706,12 +4717,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": -44.044598077339344, 
-        "ne:VertexCou": 1150.0, 
-        "ne:VALIDFR_1": "1979", 
-        "ne:DataRank": 3, 
+        "lang": "SPA", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 2704, 
         "ne:Postal": "LL", 
         "ne:Region_Cod": null, 
-        "provider": "geoplanet 7.6.0", 
+        "ne:VARNAME_1": "X", 
         "ne:ISO": "CHL", 
         "ne:TYPE_1": "Regi\u00f3n", 
         "ne:Region_C_2": null, 
@@ -4724,8 +4735,8 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 47626.0, 
         "woe:id": "2345026", 
-        "ne:HASC_1": "CL.LL", 
-        "lang": "SPA", 
+        "name": "Los Lagos", 
+        "ne:VertexCou": 1150.0, 
         "adjacent_woeid": [
           2344678, 
           2344689, 
@@ -4733,11 +4744,11 @@
           2345019, 
           56043703
         ], 
-        "name": "Los Lagos", 
+        "ne:HASC_1": "CL.LL", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424782, 
-        "ne_longitude": -71.65990983706928, 
+        "provider": "geoplanet 7.6.0", 
         "longitude": -72.122, 
+        "ne_longitude": -71.65990983706928, 
         "iso": "CL", 
         "date_indexed": "2010-12-02T12:15:28Z", 
         "ne:NL_NAME_1": null, 

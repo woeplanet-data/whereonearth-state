@@ -1311,11 +1311,16 @@
         "alias_ENG_P": [
           "Hiroshima Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345861", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.08054637281691, 
         "ne:Shape_Area": 0.822065690323, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud788\ub85c\uc2dc\ub9c8\ucf04"
         ], 
@@ -1325,7 +1330,7 @@
         "alias_CHI_Q": [
           "\u5e83\u5cf6\u53bf"
         ], 
-        "ne:OBJECTID": 1821, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5e83\u5cf6"
         ], 
@@ -1335,6 +1340,13 @@
           "Hiroshiman Prefektuuri"
         ], 
         "sw_longitude": 132.04127404156384, 
+        "adjacent": [
+          "woe:state=2345894", 
+          "woe:state=2345880", 
+          "woe:state=2345885", 
+          "woe:state=2345855", 
+          "woe:state=2345890"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 34.65, 
         "ne:FIPS_1": "JA11", 
@@ -1344,9 +1356,9 @@
         "ne:FIRST_HASC": "JP.CH", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 311.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1821, 
         "ne:Postal": "HS", 
         "ne:Region_Cod": "JPN-CGK", 
         "ne:VARNAME_1": "Hirosima", 
@@ -1365,8 +1377,8 @@
           "Pr\u00e4fektur Hiroshima"
         ], 
         "woe:id": "2345861", 
-        "ne:HASC_1": "JP.HS", 
-        "lang": "JPN", 
+        "name": "\u5e83\u5cf6\u770c", 
+        "ne:VertexCou": 311.0, 
         "adjacent_woeid": [
           2345855, 
           2345880, 
@@ -1375,9 +1387,8 @@
           2345894
         ], 
         "ne:FIRST_FIPS": "JA04", 
-        "name": "\u5e83\u5cf6\u770c", 
+        "ne:HASC_1": "JP.HS", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 133.44914676331257, 
         "longitude": 132.747, 
         "iso": "JP", 

@@ -15,11 +15,11 @@
               66.692
             ], 
             [
-              38.020, 
+              38.02, 
               66.692
             ], 
             [
-              38.020, 
+              38.02, 
               60.706
             ], 
             [
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346873, 
-        "name": "Kareliya", 
         "adjacent_woeid": [
           2346907, 
           2346912, 
           2346934, 
           20070508
         ], 
-        "ne_latitude": 66.692, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 38.020, 
+        "name": "Kareliya", 
+        "hierarchy": [
+          "woe:state=2346873", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346873, 
+        "ne_longitude": 38.02, 
         "longitude": 33.617, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 63.699, 
+        "iso": "RU", 
+        "sw_latitude": 60.706, 
+        "adjacent": [
+          "woe:state=20070508", 
+          "woe:state=2346907", 
+          "woe:state=2346912", 
+          "woe:state=2346934"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 66.692, 
         "sw_longitude": 29.215, 
         "fullname": "Kareliya, Russia", 
-        "sw_latitude": 60.706
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346873
     }
+  ], 
+  "bbox": [
+    29.215, 
+    60.706, 
+    38.02, 
+    66.692
   ]
 }

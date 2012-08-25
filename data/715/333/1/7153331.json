@@ -1745,11 +1745,17 @@
       "properties": {
         "ne:ProvNumber": 10, 
         "ne:ScaleRank": 3, 
+        "hierarchy": [
+          "woe:state=7153331", 
+          "woe:country=23424853", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.136817532103464, 
         "ne:Shape_Area": 1.06889102735, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:Region_C_3": null, 
         "alias_KOR_Q": [
           "\ubc14\uc2e4\ub9ac\uce74\ud0c0"
         ], 
@@ -1764,23 +1770,27 @@
         "alias_JPN_Q": [
           "\u30d0\u30b8\u30ea\u30ab\u30fc\u30bf"
         ], 
-        "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
+        "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:VALIDTO_1": "Unknown", 
         "alias_ITA_A": [
           "BC"
         ], 
         "sw_longitude": 15.34426272914169, 
+        "adjacent": [
+          "woe:state=7153332", 
+          "woe:state=7153333", 
+          "woe:state=7153342"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.517, 
-        "iso": "IT", 
         "ne:FIPS_1": "IT02", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 39.90079478615053, 
-        "ne:VertexCou": 432.0, 
-        "ne:VALIDFR_1": "1895", 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -1793,24 +1803,23 @@
         "ne:NAME_0": "Italy", 
         "ne:NAME_1": "Basilicata", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 10061.1, 
         "woe:id": "7153331", 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Basilicata", 
+        "ne:VertexCou": 432.0, 
         "adjacent_woeid": [
           7153332, 
           7153333, 
           7153342
         ], 
-        "name": "Basilicata", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITF", 
-        "parent_woeid": 23424853, 
         "ne_longitude": 16.86329145703519, 
         "longitude": 16.102, 
+        "iso": "IT", 
         "ne:OBJECTID": 818, 
-        "date_indexed": "2010-12-02T16:24:07Z", 
         "ne:NL_NAME_1": null, 
         "fullname": "Basilicata, Italy", 
         "ne:Region": null, 

@@ -4955,11 +4955,16 @@
         "alias_KOR_Q": [
           "\ud558\ub9ac\uc544\ub098"
         ], 
+        "hierarchy": [
+          "woe:state=2345744", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 30.934261989499248, 
         "ne:Shape_Area": 4.07749492343, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "HR"
         ], 
@@ -4969,13 +4974,21 @@
         "alias_CHI_Q": [
           "\u54c8\u91cc\u4e9a\u7eb3\u90a6"
         ], 
-        "ne:OBJECTID": 2430, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30cf\u30ea\u30e4\u30ca"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 74.45936242063925, 
+        "adjacent": [
+          "woe:state=20070456", 
+          "woe:state=20070458", 
+          "woe:state=2345745", 
+          "woe:state=2345756", 
+          "woe:state=2345757", 
+          "woe:state=2345760"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 29.29, 
         "ne:FIPS_1": "IN10", 
@@ -4983,9 +4996,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 27.67040436417011, 
-        "ne:VertexCou": 1234.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 2430, 
         "ne:Postal": "HR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -5001,8 +5014,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 43945.3, 
         "woe:id": "2345744", 
-        "ne:HASC_1": "IN.HR", 
-        "lang": "ENG", 
+        "name": "Haryana", 
+        "ne:VertexCou": 1234.0, 
         "adjacent_woeid": [
           2345745, 
           2345756, 
@@ -5011,9 +5024,8 @@
           20070456, 
           20070458
         ], 
-        "name": "Haryana", 
+        "ne:HASC_1": "IN.HR", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 77.58795698392771, 
         "longitude": 76.037, 
         "iso": "IN", 

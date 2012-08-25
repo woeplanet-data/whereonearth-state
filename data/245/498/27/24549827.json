@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549827, 
-        "name": "Ngchesar", 
         "adjacent_woeid": [
           24549817, 
           24549818, 
@@ -41,14 +39,27 @@
           24549820, 
           24549821
         ], 
-        "ne_latitude": 7.513, 
+        "name": "Ngchesar", 
+        "hierarchy": [
+          "woe:state=24549827", 
+          "woe:country=23424927", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549827, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 134.644, 
         "longitude": 134.601, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "PW", 
         "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424927, 
+        "adjacent": [
+          "woe:state=24549821", 
+          "woe:state=24549819", 
+          "woe:state=24549818", 
+          "woe:state=24549820", 
+          "woe:state=24549817"
+        ], 
+        "ne_latitude": 7.513, 
         "latitude": 7.461, 
         "sw_longitude": 134.558, 
         "fullname": "Ngchesar, Palau", 
@@ -56,5 +67,11 @@
       }, 
       "id": 24549827
     }
+  ], 
+  "bbox": [
+    134.558, 
+    7.409, 
+    134.644, 
+    7.513
   ]
 }

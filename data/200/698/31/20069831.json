@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 20069831, 
-        "name": "Maniema", 
         "adjacent_woeid": [
           2344980, 
           2344981, 
@@ -41,20 +39,39 @@
           20069829, 
           20069830
         ], 
-        "ne_latitude": -0.097, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Maniema", 
+        "hierarchy": [
+          "woe:state=20069831", 
+          "woe:country=23424780", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069831, 
         "ne_longitude": 28.801, 
         "longitude": 27.205, 
-        "placetype": "State", 
-        "iso": "CD", 
-        "date_indexed": "2010-12-02T16:33:06Z", 
-        "parent_woeid": 23424780, 
+        "placetype": "state", 
         "latitude": -2.026, 
+        "iso": "CD", 
+        "sw_latitude": -5.007, 
+        "adjacent": [
+          "woe:state=2344980", 
+          "woe:state=2344981", 
+          "woe:state=20069830", 
+          "woe:state=2344985", 
+          "woe:state=20069829"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -0.097, 
         "sw_longitude": 24.435, 
         "fullname": "Maniema, Democratic Republic of Congo", 
-        "sw_latitude": -5.007
+        "date_indexed": "2010-12-02T16:33:06Z"
       }, 
       "id": 20069831
     }
+  ], 
+  "bbox": [
+    24.435, 
+    -5.007, 
+    28.801, 
+    -0.097
   ]
 }

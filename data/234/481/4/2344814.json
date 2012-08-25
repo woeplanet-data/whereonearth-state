@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344814, 
-        "name": "Karan State", 
         "adjacent_woeid": [
           2344815, 
           2344817, 
@@ -44,20 +42,42 @@
           2347135, 
           2347174
         ], 
-        "ne_latitude": 19.486, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Karan State", 
+        "hierarchy": [
+          "woe:state=2344814", 
+          "woe:country=23424763", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344814, 
         "ne_longitude": 98.918, 
         "longitude": 97.677, 
-        "placetype": "State", 
-        "iso": "MM", 
-        "date_indexed": "2010-12-02T17:58:12Z", 
-        "parent_woeid": 23424763, 
+        "placetype": "state", 
         "latitude": 17.361, 
+        "iso": "MM", 
+        "sw_latitude": 15.237, 
+        "adjacent": [
+          "woe:state=2344818", 
+          "woe:state=2347174", 
+          "woe:state=2344815", 
+          "woe:state=2347128", 
+          "woe:state=2344817", 
+          "woe:state=2344822", 
+          "woe:state=2344820", 
+          "woe:state=2347135"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.486, 
         "sw_longitude": 96.437, 
         "fullname": "Karan State, Myanmar", 
-        "sw_latitude": 15.237
+        "date_indexed": "2010-12-02T17:58:12Z"
       }, 
       "id": 2344814
     }
+  ], 
+  "bbox": [
+    96.437, 
+    15.237, 
+    98.918, 
+    19.486
   ]
 }

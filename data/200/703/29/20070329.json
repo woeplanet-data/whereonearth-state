@@ -8,7 +8,7 @@
           [
             [
               73.082, 
-              -2.900
+              -2.9
             ], 
             [
               73.082, 
@@ -20,11 +20,11 @@
             ], 
             [
               73.567, 
-              -2.900
+              -2.9
             ], 
             [
               73.082, 
-              -2.900
+              -2.9
             ]
           ]
         ]
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070329, 
-        "name": "Seenu", 
         "ne_latitude": -0.566, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Seenu", 
+        "hierarchy": [
+          "woe:state=20070329", 
+          "woe:country=23424899", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070329, 
         "ne_longitude": 73.567, 
         "longitude": 73.158, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MV", 
-        "date_indexed": "2010-12-02T09:35:37Z", 
-        "parent_woeid": 23424899, 
-        "latitude": -0.690, 
+        "sw_latitude": -2.9, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -0.69, 
         "sw_longitude": 73.082, 
         "fullname": "Seenu, Maldives", 
-        "sw_latitude": -2.900
+        "date_indexed": "2010-12-02T09:35:37Z"
       }, 
       "id": 20070329
     }
+  ], 
+  "bbox": [
+    73.082, 
+    -2.9, 
+    73.567, 
+    -0.566
   ]
 }

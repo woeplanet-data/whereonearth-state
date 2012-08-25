@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 29389237, 
-        "name": "Podgorica", 
         "adjacent_woeid": [
           29389233, 
           29389235, 
@@ -42,14 +40,28 @@
           29389242, 
           29389244
         ], 
-        "ne_latitude": 42.743, 
+        "name": "Podgorica", 
+        "hierarchy": [
+          "woe:state=29389237", 
+          "woe:country=20069817", 
+          "woe:planet=1"
+        ], 
+        "woeid": 29389237, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 19.667, 
         "longitude": 19.319, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "ME", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "parent_woeid": 20069817, 
+        "adjacent": [
+          "woe:state=29389233", 
+          "woe:state=29389244", 
+          "woe:state=29389242", 
+          "woe:state=29389236", 
+          "woe:state=29389235", 
+          "woe:state=29389241"
+        ], 
+        "ne_latitude": 42.743, 
         "latitude": 42.411, 
         "sw_longitude": 18.971, 
         "fullname": "Podgorica, Montenegro", 
@@ -57,5 +69,11 @@
       }, 
       "id": 29389237
     }
+  ], 
+  "bbox": [
+    18.971, 
+    42.083, 
+    19.667, 
+    42.743
   ]
 }

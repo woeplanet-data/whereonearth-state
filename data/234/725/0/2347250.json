@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347250, 
-        "name": "Qabis", 
         "adjacent_woeid": [
           2347238, 
           2347249, 
@@ -41,20 +39,39 @@
           2347252, 
           2347253
         ], 
-        "ne_latitude": 34.254, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Qabis", 
+        "hierarchy": [
+          "woe:state=2347250", 
+          "woe:country=23424967", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347250, 
         "ne_longitude": 10.443, 
         "longitude": 9.849, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 33.78, 
         "iso": "TN", 
-        "date_indexed": "2010-12-02T18:18:54Z", 
-        "parent_woeid": 23424967, 
-        "latitude": 33.780, 
+        "sw_latitude": 33.307, 
+        "adjacent": [
+          "woe:state=2347249", 
+          "woe:state=2347238", 
+          "woe:state=2347251", 
+          "woe:state=2347252", 
+          "woe:state=2347253"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.254, 
         "sw_longitude": 9.255, 
         "fullname": "Qabis, Tunisia", 
-        "sw_latitude": 33.307
+        "date_indexed": "2010-12-02T18:18:54Z"
       }, 
       "id": 2347250
     }
+  ], 
+  "bbox": [
+    9.255, 
+    33.307, 
+    10.443, 
+    34.254
   ]
 }

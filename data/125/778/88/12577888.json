@@ -8,7 +8,7 @@
           [
             [
               21.375, 
-              37.930
+              37.93
             ], 
             [
               21.375, 
@@ -20,11 +20,11 @@
             ], 
             [
               24.686, 
-              37.930
+              37.93
             ], 
             [
               21.375, 
-              37.930
+              37.93
             ]
           ]
         ]
@@ -40,6 +40,11 @@
         "alias_POL_Q": [
           "Grecja \u015arodkowa"
         ], 
+        "hierarchy": [
+          "woe:state=12577888", 
+          "woe:country=23424833", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 39.273, 
         "alias_RUM_S": [
           "Grecia Centrala"
@@ -47,7 +52,7 @@
         "alias_RUM_Q": [
           "Grecia Central\u0103"
         ], 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Gr\u00e9cia Central"
         ], 
@@ -71,6 +76,11 @@
           "Keski-Kreikka"
         ], 
         "sw_longitude": 21.375, 
+        "adjacent": [
+          "woe:state=12577879", 
+          "woe:state=12577889", 
+          "woe:state=12577880"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 38.704, 
         "alias_NOR_Q": [
@@ -108,8 +118,7 @@
         "ne_longitude": 24.686, 
         "longitude": 22.533, 
         "iso": "GR", 
-        "sw_latitude": 37.930, 
-        "parent_woeid": 23424833, 
+        "sw_latitude": 37.93, 
         "fullname": "Central Greece, Sterea Ellada, Greece", 
         "alias_FRE_S": [
           "Grece-Centrale"
@@ -120,5 +129,11 @@
       }, 
       "id": 12577888
     }
+  ], 
+  "bbox": [
+    21.375, 
+    37.93, 
+    24.686, 
+    39.273
   ]
 }

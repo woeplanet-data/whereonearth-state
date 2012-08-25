@@ -237,9 +237,14 @@
       "properties": {
         "ne:ProvNumber": 88, 
         "ne:ScaleRank": 10, 
+        "hierarchy": [
+          "woe:state=55848385", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 45.6437775742757, 
         "ne:Shape_Area": 0.0232300600364, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 2.0, 
@@ -248,6 +253,16 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 13.867660353342671, 
+        "adjacent": [
+          "woe:state=55848341", 
+          "woe:state=7153335", 
+          "woe:state=55848352", 
+          "woe:state=12577974", 
+          "woe:state=55848357", 
+          "woe:state=55848371", 
+          "woe:state=55848376", 
+          "woe:state=12577982"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 45.672, 
         "ne:FIPS_1": "SI35", 
@@ -287,7 +302,6 @@
         ], 
         "ne:HASC_1": "SI.JP.HK", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424945, 
         "ne_longitude": 14.118239373248514, 
         "longitude": 13.864, 
         "iso": "SI", 

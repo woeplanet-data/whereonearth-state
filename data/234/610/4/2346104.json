@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346104, 
-        "name": "Sinoe", 
         "adjacent_woeid": [
           2346100, 
           2346103, 
           2346110, 
           2346112
         ], 
-        "ne_latitude": 5.864, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sinoe", 
+        "hierarchy": [
+          "woe:state=2346104", 
+          "woe:country=23424876", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346104, 
         "ne_longitude": -8.329, 
         "longitude": -8.882, 
-        "placetype": "State", 
-        "iso": "LR", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
-        "parent_woeid": 23424876, 
+        "placetype": "state", 
         "latitude": 5.355, 
+        "iso": "LR", 
+        "sw_latitude": 4.846, 
+        "adjacent": [
+          "woe:state=2346100", 
+          "woe:state=2346110", 
+          "woe:state=2346103", 
+          "woe:state=2346112"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 5.864, 
         "sw_longitude": -9.434, 
         "fullname": "Sinoe, Liberia", 
-        "sw_latitude": 4.846
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 2346104
     }
+  ], 
+  "bbox": [
+    -9.434, 
+    4.846, 
+    -8.329, 
+    5.864
   ]
 }

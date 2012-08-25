@@ -393,18 +393,23 @@
         "alias_ENG_P": [
           "Osaka Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345881", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 34.99745066961276, 
         "ne:Shape_Area": 0.172771657967, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc624\uc0ac\uce74\ud6c4"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
         "ne:ScaleRank": 6, 
-        "ne:OBJECTID": 1852, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5927\u962a"
         ], 
@@ -414,6 +419,12 @@
           "Osakan Prefektuuri"
         ], 
         "sw_longitude": 135.08666954976002, 
+        "adjacent": [
+          "woe:state=2345871", 
+          "woe:state=2345862", 
+          "woe:state=2345892", 
+          "woe:state=2345877"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 34.662, 
         "ne:FIPS_1": "JA32", 
@@ -423,9 +434,9 @@
         "ne:FIRST_HASC": "JP.MG", 
         "ne:ENGTYPE_1": "Urban Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 92.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1852, 
         "ne:Postal": "OS", 
         "ne:Region_Cod": "JPN-KIN", 
         "ne:VARNAME_1": null, 
@@ -444,8 +455,8 @@
           "Pr\u00e4fektur Osaka"
         ], 
         "woe:id": "2345881", 
-        "ne:HASC_1": "JP.OS", 
-        "lang": "JPN", 
+        "name": "\u5927\u962a\u5e9c", 
+        "ne:VertexCou": 92.0, 
         "adjacent_woeid": [
           2345862, 
           2345871, 
@@ -453,9 +464,8 @@
           2345892
         ], 
         "ne:FIRST_FIPS": "JA24", 
-        "name": "\u5927\u962a\u5e9c", 
+        "ne:HASC_1": "JP.OS", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 135.71479658389535, 
         "longitude": 135.42, 
         "iso": "JP", 

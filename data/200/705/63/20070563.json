@@ -624,11 +624,16 @@
           "n.ireland"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=20070563", 
+          "woe:country=23424975", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 54.60488434553616, 
         "ne:Shape_Area": 0.260575699432, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": null, 
+        "ne:MAP_COLOR": 3, 
         "alias_POR_Q": [
           "Irlanda do Norte"
         ], 
@@ -644,10 +649,8 @@
         "alias_ITA_Q": [
           "Irlanda del Nord"
         ], 
-        "alias_DAN_Q": [
-          "Nordirland"
-        ], 
-        "ne:DataRank": 5, 
+        "ne:Area_sqkm": 1886.0, 
+        "ne:OBJECTID": 2136, 
         "alias_CHI_V": [
           "\u5317\u7231\u5c14\u5170"
         ], 
@@ -663,6 +666,9 @@
           "Pohjois-Irlanti"
         ], 
         "sw_longitude": -8.174430915054643, 
+        "adjacent": [
+          "woe:state=2345253"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 54.637, 
         "ne:FIPS_1": "UK66", 
@@ -672,14 +678,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "District", 
         "date_indexed": "2010-12-02T12:16:52Z", 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 3, 
-        "ne:OBJECTID": 2136, 
+        "ne:VertexCou": 128.0, 
+        "ne:VALIDFR_1": null, 
+        "ne:DataRank": 5, 
         "ne:Postal": "FE", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
         "ne:ISO": "GBR", 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "District", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 2.92051041123, 
         "alias_DUT_Q": [
@@ -688,23 +694,24 @@
         "ne:NAME_0": "United Kingdom", 
         "ne:NAME_1": "Fermanagh", 
         "ne:Region_C_1": "Northern Ireland", 
-        "ne:TYPE_1": "District", 
+        "ne:Region_C_3": null, 
         "ne:LabelRank": 9, 
-        "ne:Area_sqkm": 1886.0, 
+        "alias_DAN_Q": [
+          "Nordirland"
+        ], 
         "alias_GER_Q": [
           "Nordirland"
         ], 
         "woe:id": "20070563", 
-        "name": "Northern Ireland", 
-        "ne:VertexCou": 128.0, 
+        "ne:HASC_1": "GB.FE", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2345253
         ], 
         "ne:FIRST_FIPS": "UKS2", 
-        "ne:HASC_1": "GB.FE", 
+        "name": "Northern Ireland", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
-        "parent_woeid": 23424975, 
         "ne_longitude": -7.146509161868266, 
         "longitude": -6.813, 
         "iso": "GB", 

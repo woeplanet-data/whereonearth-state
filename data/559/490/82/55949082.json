@@ -4090,9 +4090,14 @@
           "Riau Islands"
         ], 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=55949082", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 4.772473863278208, 
         "ne:Shape_Area": 0.553623804092, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
@@ -4131,7 +4136,6 @@
         "ne:NL_NAME_1": null, 
         "name": "Kepulauan Riau", 
         "ne:REMARKS_1": "Kepulauan Riau province split from Riau", 
-        "parent_woeid": 23424846, 
         "ne_longitude": 109.11414635616944, 
         "longitude": 108.188, 
         "iso": "ID", 

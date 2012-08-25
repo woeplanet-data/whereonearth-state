@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -7.000, 
+              -7.0, 
               61.395
             ], 
             [
-              -7.000, 
+              -7.0, 
               61.658
             ], 
             [
-              -6.670, 
+              -6.67, 
               61.658
             ], 
             [
-              -6.670, 
+              -6.67, 
               61.395
             ], 
             [
-              -7.000, 
+              -7.0, 
               61.395
             ]
           ]
@@ -32,25 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "DAN", 
-        "woeid": 24549697, 
         "name": "Su\u00f0uroy", 
         "alias_DAN_S": [
           "Suduroy"
         ], 
-        "ne_latitude": 61.658, 
+        "hierarchy": [
+          "woe:state=24549697", 
+          "woe:country=23424816", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549697, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -6.670, 
+        "ne_longitude": -6.67, 
         "longitude": -6.835, 
-        "placetype": "State", 
-        "iso": "FO", 
+        "placetype": "state", 
+        "sw_longitude": -7.0, 
         "date_indexed": "2010-12-02T08:52:18Z", 
-        "parent_woeid": 23424816, 
+        "ne_latitude": 61.658, 
         "latitude": 61.526, 
-        "sw_longitude": -7.000, 
+        "iso": "FO", 
         "fullname": "Su\u00f0uroy, Faroe Islands", 
         "sw_latitude": 61.395
       }, 
       "id": 24549697
     }
+  ], 
+  "bbox": [
+    -7.0, 
+    61.395, 
+    -6.67, 
+    61.658
   ]
 }

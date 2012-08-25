@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345078, 
-        "name": "Cundinamarca", 
         "adjacent_woeid": [
           2345048, 
           2345052, 
@@ -44,20 +42,42 @@
           2345077, 
           2345079
         ], 
-        "ne_latitude": 5.823, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Cundinamarca", 
+        "hierarchy": [
+          "woe:state=2345078", 
+          "woe:country=23424787", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345078, 
         "ne_longitude": -73.054, 
         "longitude": -73.969, 
-        "placetype": "State", 
-        "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
-        "parent_woeid": 23424787, 
+        "placetype": "state", 
         "latitude": 4.749, 
+        "iso": "CO", 
+        "sw_latitude": 3.674, 
+        "adjacent": [
+          "woe:state=2345048", 
+          "woe:state=2345052", 
+          "woe:state=2345053", 
+          "woe:state=2345077", 
+          "woe:state=2345079", 
+          "woe:state=2345061", 
+          "woe:state=2345064", 
+          "woe:state=2345073"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 5.823, 
         "sw_longitude": -74.884, 
         "fullname": "Cundinamarca, Colombia", 
-        "sw_latitude": 3.674
+        "date_indexed": "2010-12-02T17:57:12Z"
       }, 
       "id": 2345078
     }
+  ], 
+  "bbox": [
+    -74.884, 
+    3.674, 
+    -73.054, 
+    5.823
   ]
 }

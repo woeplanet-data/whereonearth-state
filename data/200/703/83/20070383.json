@@ -15,11 +15,11 @@
               42.492
             ], 
             [
-              43.860, 
+              43.86, 
               42.492
             ], 
             [
-              43.860, 
+              43.86, 
               42.134
             ], 
             [
@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070383, 
-        "alias_ENG_S": [
-          "Sachrkheris Raioni"
-        ], 
-        "name": "Sach\u00b4kheris Raioni", 
         "adjacent_woeid": [
           20070365, 
           20070367, 
@@ -47,20 +42,45 @@
           20070385, 
           20070403
         ], 
+        "alias_ENG_S": [
+          "Sachrkheris Raioni"
+        ], 
+        "name": "Sach\u00b4kheris Raioni", 
         "ne_latitude": 42.492, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 43.860, 
+        "hierarchy": [
+          "woe:state=20070383", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070383, 
+        "ne_longitude": 43.86, 
         "longitude": 43.579, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "sw_latitude": 42.134, 
+        "adjacent": [
+          "woe:state=20070380", 
+          "woe:state=20070384", 
+          "woe:state=20070403", 
+          "woe:state=20070365", 
+          "woe:state=20070385", 
+          "woe:state=20070367", 
+          "woe:state=20070368", 
+          "woe:state=20070379"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 42.313, 
         "sw_longitude": 43.299, 
         "fullname": "Sach\u00b4kheris Raioni, Georgia", 
-        "sw_latitude": 42.134
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070383
     }
+  ], 
+  "bbox": [
+    43.299, 
+    42.134, 
+    43.86, 
+    42.492
   ]
 }

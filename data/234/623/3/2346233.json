@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346233, 
-        "name": "Plaines Wilhems", 
         "adjacent_woeid": [
           2346228, 
           2346230, 
@@ -41,20 +39,39 @@
           2346234, 
           2346236
         ], 
-        "ne_latitude": -20.188, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Plaines Wilhems", 
+        "hierarchy": [
+          "woe:state=2346233", 
+          "woe:country=23424894", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346233, 
         "ne_longitude": 57.587, 
-        "longitude": 57.510, 
-        "placetype": "State", 
-        "iso": "MU", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424894, 
+        "longitude": 57.51, 
+        "placetype": "state", 
         "latitude": -20.306, 
+        "iso": "MU", 
+        "sw_latitude": -20.425, 
+        "adjacent": [
+          "woe:state=2346228", 
+          "woe:state=2346230", 
+          "woe:state=2346231", 
+          "woe:state=2346234", 
+          "woe:state=2346236"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -20.188, 
         "sw_longitude": 57.433, 
         "fullname": "Plaines Wilhems, Mauritius", 
-        "sw_latitude": -20.425
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 2346233
     }
+  ], 
+  "bbox": [
+    57.433, 
+    -20.425, 
+    57.587, 
+    -20.188
   ]
 }

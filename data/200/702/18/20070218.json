@@ -32,36 +32,51 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070218, 
-        "name": "Baki", 
         "adjacent_woeid": [
           20070280, 
           20070282, 
           20070283
         ], 
-        "ne_latitude": 40.593, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Baki", 
+        "adjacent": [
+          "woe:state=20070283", 
+          "woe:state=20070282", 
+          "woe:state=20070280"
+        ], 
+        "hierarchy": [
+          "woe:state=20070218", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070218, 
         "ne_longitude": 50.608, 
         "longitude": 49.422, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_FIN_Q": [
           "Baku"
         ], 
         "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
+        "sw_latitude": 39.681, 
         "alias_KOR_Q": [
           "\ubc14\ucfe0"
         ], 
-        "parent_woeid": 23424741, 
-        "latitude": 40.137, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.593, 
         "sw_longitude": 49.239, 
-        "fullname": "Baki, Azerbaijan", 
+        "latitude": 40.137, 
         "alias_GER_Q": [
           "Baku"
         ], 
-        "sw_latitude": 39.681
+        "fullname": "Baki, Azerbaijan", 
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070218
     }
+  ], 
+  "bbox": [
+    49.239, 
+    39.681, 
+    50.608, 
+    40.593
   ]
 }

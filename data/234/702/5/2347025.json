@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347025, 
-        "name": "Castries", 
         "adjacent_woeid": [
           2347023, 
           2347024, 
@@ -43,20 +41,41 @@
           2347031, 
           2347033
         ], 
-        "ne_latitude": 14.038, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Castries", 
+        "hierarchy": [
+          "woe:state=2347025", 
+          "woe:country=23424951", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347025, 
         "ne_longitude": -60.936, 
         "longitude": -60.984, 
-        "placetype": "State", 
-        "iso": "LC", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424951, 
+        "placetype": "state", 
         "latitude": 13.951, 
+        "iso": "LC", 
+        "sw_latitude": 13.865, 
+        "adjacent": [
+          "woe:state=2347023", 
+          "woe:state=2347024", 
+          "woe:state=2347027", 
+          "woe:state=2347028", 
+          "woe:state=2347030", 
+          "woe:state=2347033", 
+          "woe:state=2347031"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.038, 
         "sw_longitude": -61.032, 
         "fullname": "Castries, St. Lucia", 
-        "sw_latitude": 13.865
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347025
     }
+  ], 
+  "bbox": [
+    -61.032, 
+    13.865, 
+    -60.936, 
+    14.038
   ]
 }

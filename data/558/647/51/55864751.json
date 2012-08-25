@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 55864751, 
-        "name": "Province du Nord", 
         "adjacent_woeid": [
           20069830, 
           55864749, 
@@ -41,17 +39,30 @@
           55864752, 
           55864753
         ], 
-        "ne_latitude": -1.315, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Province du Nord", 
         "alias_ENG_V": [
           "North Province"
         ], 
+        "hierarchy": [
+          "woe:state=55864751", 
+          "woe:country=23424937", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55864751, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 30.276, 
         "longitude": 29.866, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "RW", 
         "date_indexed": "2010-12-02T09:35:43Z", 
-        "parent_woeid": 23424937, 
+        "adjacent": [
+          "woe:state=55864750", 
+          "woe:state=20069830", 
+          "woe:state=55864749", 
+          "woe:state=55864753", 
+          "woe:state=55864752"
+        ], 
+        "ne_latitude": -1.315, 
         "latitude": -1.617, 
         "sw_longitude": 29.456, 
         "fullname": "Province du Nord, Rwanda", 
@@ -59,5 +70,11 @@
       }, 
       "id": 55864751
     }
+  ], 
+  "bbox": [
+    29.456, 
+    -1.919, 
+    30.276, 
+    -1.315
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               -72.487, 
-              8.610
+              8.61
             ], 
             [
               -71.175, 
-              8.610
+              8.61
             ], 
             [
               -71.175, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2347696, 
-        "name": "Tachira", 
         "adjacent_woeid": [
           2345066, 
           2347679, 
@@ -41,20 +39,39 @@
           2347690, 
           2347699
         ], 
-        "ne_latitude": 8.610, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tachira", 
+        "hierarchy": [
+          "woe:state=2347696", 
+          "woe:country=23424982", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347696, 
         "ne_longitude": -71.175, 
         "longitude": -71.831, 
-        "placetype": "State", 
-        "iso": "VE", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "parent_woeid": 23424982, 
+        "placetype": "state", 
         "latitude": 7.987, 
+        "iso": "VE", 
+        "sw_latitude": 7.364, 
+        "adjacent": [
+          "woe:state=2347679", 
+          "woe:state=2347681", 
+          "woe:state=2347690", 
+          "woe:state=2345066", 
+          "woe:state=2347699"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 8.61, 
         "sw_longitude": -72.487, 
         "fullname": "Tachira, Venezuela", 
-        "sw_latitude": 7.364
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 2347696
     }
+  ], 
+  "bbox": [
+    -72.487, 
+    7.364, 
+    -71.175, 
+    8.61
   ]
 }

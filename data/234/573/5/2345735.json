@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2345735, 
-        "name": "Sumatera Utara", 
-        "alias_ENG_P": [
-          "North Sumatra"
-        ], 
-        "ne_latitude": 4.301, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 100.487, 
-        "longitude": 99.144, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2345710, 
           2345728, 
           2345733
         ], 
-        "iso": "ID", 
-        "date_indexed": "2010-12-02T16:52:36Z", 
-        "parent_woeid": 23424846, 
+        "name": "Sumatera Utara", 
+        "alias_ENG_P": [
+          "North Sumatra"
+        ], 
+        "hierarchy": [
+          "woe:state=2345735", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345735, 
+        "ne_longitude": 100.487, 
+        "longitude": 99.144, 
+        "placetype": "state", 
         "latitude": 2.264, 
+        "iso": "ID", 
+        "sw_latitude": -0.644, 
+        "adjacent": [
+          "woe:state=2345710", 
+          "woe:state=2345728", 
+          "woe:state=2345733"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 4.301, 
         "sw_longitude": 97.066, 
         "fullname": "Sumatera Utara, North Sumatra, Indonesia", 
-        "sw_latitude": -0.644
+        "date_indexed": "2010-12-02T16:52:36Z"
       }, 
       "id": 2345735
     }
+  ], 
+  "bbox": [
+    97.066, 
+    -0.644, 
+    100.487, 
+    4.301
   ]
 }

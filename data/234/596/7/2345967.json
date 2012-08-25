@@ -1983,20 +1983,25 @@
         "alias_ENG_P": [
           "Gyeongsangnam-Do"
         ], 
+        "hierarchy": [
+          "woe:state=2345967", 
+          "woe:country=23424868", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.88706045217816, 
         "ne:Shape_Area": 0.999134155975, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_V": [
           "\uacbd\uc0ac"
         ], 
-        "ne:MAP_COLOR": 5, 
+        "ne:VALIDFR_1": "19630101", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "KOR", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u5e86\u5c1a\u5357\u9053"
         ], 
-        "ne:OBJECTID": 2505, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30ad\u30e7\u30f3\u30b5\u30f3\u30ca\u30e0\u30c9"
         ], 
@@ -2006,6 +2011,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "19970715", 
         "sw_longitude": 127.6120870299925, 
+        "adjacent": [
+          "woe:state=2345970", 
+          "woe:state=2345971", 
+          "woe:state=2345968", 
+          "woe:state=23701285", 
+          "woe:state=2345972", 
+          "woe:state=2345964"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.334, 
         "ne:FIPS_1": "KS20", 
@@ -2013,9 +2026,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 34.69581533490981, 
-        "ne:VertexCou": 479.0, 
-        "ne:VALIDFR_1": "19630101", 
-        "ne:DataRank": 3, 
+        "lang": "KOR", 
+        "ne:MAP_COLOR": 5, 
+        "ne:OBJECTID": 2505, 
         "ne:Postal": "KN", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kyongsangnam-Do|Kyongsang-namdo|Keisho Nan-do|South Kyongsang", 
@@ -2031,8 +2044,8 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 10081.4, 
         "woe:id": "2345967", 
-        "ne:HASC_1": "KR.KN", 
-        "lang": "KOR", 
+        "name": "\uacbd\uc0c1\ub0a8\ub3c4", 
+        "ne:VertexCou": 479.0, 
         "adjacent_woeid": [
           2345964, 
           2345968, 
@@ -2041,10 +2054,9 @@
           2345972, 
           23701285
         ], 
-        "name": "\uacbd\uc0c1\ub0a8\ub3c4", 
+        "ne:HASC_1": "KR.KN", 
         "ne:REMARKS_1": "38 (NSO Code)", 
         "ne:Country_Pr": null, 
-        "parent_woeid": 23424868, 
         "ne_longitude": 129.28723025896932, 
         "longitude": 128.398, 
         "iso": "KR", 

@@ -8,7 +8,7 @@
           [
             [
               1.186, 
-              38.640
+              38.64
             ], 
             [
               1.186, 
@@ -20,11 +20,11 @@
             ], 
             [
               4.328, 
-              38.640
+              38.64
             ], 
             [
               1.186, 
-              38.640
+              38.64
             ]
           ]
         ]
@@ -40,8 +40,13 @@
         "alias_ENG_P": [
           "Balearic Islands"
         ], 
+        "hierarchy": [
+          "woe:state=12578039", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.095, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Ilhas Baleares"
         ], 
@@ -70,14 +75,13 @@
         ], 
         "lang": "SPA", 
         "name": "Islas Baleares", 
-        "parent_woeid": 23424950, 
         "alias_UNK_Q": [
           "Illes Balears"
         ], 
         "ne_longitude": 4.328, 
         "longitude": 2.912, 
         "iso": "ES", 
-        "sw_latitude": 38.640, 
+        "sw_latitude": 38.64, 
         "fullname": "Islas Baleares, Balearic Islands, Spain", 
         "alias_FRE_S": [
           "les Iles Baleares"
@@ -88,5 +92,11 @@
       }, 
       "id": 12578039
     }
+  ], 
+  "bbox": [
+    1.186, 
+    38.64, 
+    4.328, 
+    40.095
   ]
 }

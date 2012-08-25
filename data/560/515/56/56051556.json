@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 56051556, 
-        "name": "Porto Novo", 
         "adjacent_woeid": [
           2345126, 
           20069964
         ], 
-        "ne_latitude": 17.127, 
+        "name": "Porto Novo", 
+        "hierarchy": [
+          "woe:state=56051556", 
+          "woe:country=23424794", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56051556, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -24.981, 
-        "longitude": -25.170, 
-        "placetype": "State", 
+        "longitude": -25.17, 
+        "placetype": "state", 
         "iso": "CV", 
         "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424794, 
+        "adjacent": [
+          "woe:state=20069964", 
+          "woe:state=2345126"
+        ], 
+        "ne_latitude": 17.127, 
         "latitude": 17.017, 
         "sw_longitude": -25.359, 
         "fullname": "Porto Novo, Cape Verde", 
@@ -53,5 +61,11 @@
       }, 
       "id": 56051556
     }
+  ], 
+  "bbox": [
+    -25.359, 
+    16.907, 
+    -24.981, 
+    17.127
   ]
 }

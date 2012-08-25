@@ -213,9 +213,14 @@
       "properties": {
         "ne:ProvNumber": 2, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=29389240", 
+          "woe:country=20069817", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.62933624976819, 
         "ne:Shape_Area": 0.0320448449964, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
@@ -224,6 +229,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 18.50644697444835, 
+        "adjacent": [
+          "woe:state=29389243", 
+          "woe:state=29389242", 
+          "woe:state=29389246", 
+          "woe:state=29389238", 
+          "woe:state=29389245"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.447, 
         "ne:FIPS_1": "HR03", 
@@ -260,7 +272,6 @@
         ], 
         "name": "Kotor", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 20069817, 
         "ne_longitude": 18.79356123216519, 
         "longitude": 18.772, 
         "iso": "ME", 

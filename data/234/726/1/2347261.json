@@ -525,17 +525,30 @@
       "properties": {
         "ne:ProvNumber": 2002, 
         "ne:ScaleRank": 6, 
+        "hierarchy": [
+          "woe:state=2347261", 
+          "woe:country=23424969", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 39.9893423531671, 
         "ne:Shape_Area": 1.04927229715, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "1946", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "TUR", 
-        "ne:OBJECTID": 2307, 
+        "ne:DataRank": 5, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 42.27155968593081, 
+        "adjacent": [
+          "woe:state=2347270", 
+          "woe:state=2347282", 
+          "woe:state=20070183", 
+          "woe:state=2347291", 
+          "woe:state=2347302", 
+          "woe:state=2347316"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.497, 
         "ne:FIPS_1": "TU04", 
@@ -543,9 +556,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "date_indexed": "2010-12-02T16:22:51Z", 
-        "ne:VertexCou": 126.0, 
-        "ne:VALIDFR_1": "1946", 
-        "ne:DataRank": 5, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 2307, 
         "ne:Postal": "AG", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Agri|Karak\u00f6se", 
@@ -561,8 +574,8 @@
         "ne:LabelRank": 7, 
         "ne:Area_sqkm": 10011.3, 
         "woe:id": "2347261", 
-        "ne:HASC_1": "TR.AG", 
-        "lang": "UNK", 
+        "name": "A\u011fr\u0131", 
+        "ne:VertexCou": 126.0, 
         "adjacent_woeid": [
           2347270, 
           2347282, 
@@ -571,12 +584,11 @@
           2347316, 
           20070183
         ], 
-        "name": "A\u011fr\u0131", 
+        "ne:HASC_1": "TR.AG", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Agri"
         ], 
-        "parent_woeid": 23424969, 
         "alias_UNK_V": [
           "A\u011fri"
         ], 

@@ -40,8 +40,13 @@
         "alias_SWE_S": [
           "Ashmore-Och Cartieroarna"
         ], 
+        "hierarchy": [
+          "woe:state=23424749", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -12.142, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uc544\uc26c\ubaa8 \uc564 \uce74\ud2f0\uc544\uc12c"
         ], 
@@ -79,9 +84,8 @@
         ], 
         "lang": "ENG", 
         "name": "Ashmore and Cartier Islands", 
-        "parent_woeid": 23424748, 
         "ne_longitude": 123.539, 
-        "longitude": 122.940, 
+        "longitude": 122.94, 
         "iso": "AU", 
         "sw_latitude": -12.561, 
         "alias_FRE_V": [
@@ -97,5 +101,11 @@
       }, 
       "id": 23424749
     }
+  ], 
+  "bbox": [
+    122.932, 
+    -12.561, 
+    123.539, 
+    -12.142
   ]
 }

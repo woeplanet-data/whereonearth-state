@@ -8017,11 +8017,16 @@
         "alias_KOR_Q": [
           "\uc628\ud0c0\ub9ac\uc624"
         ], 
+        "hierarchy": [
+          "woe:state=2344922", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.03490713185869, 
         "ne:Shape_Area": 6.30441225576, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "18670701", 
         "alias_ENG_A": [
           "Ont."
         ], 
@@ -8031,13 +8036,19 @@
         "alias_CHI_Q": [
           "\u5b89\u5927\u7565\u7701"
         ], 
-        "ne:OBJECTID": 685, 
+        "ne:DataRank": 2, 
         "alias_JPN_Q": [
           "\u30aa\u30f3\u30bf\u30ea\u30aa"
         ], 
         "ne:Abbrev": "N.S.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -66.32759965719839, 
+        "adjacent": [
+          "woe:state=2344917", 
+          "woe:state=2347582", 
+          "woe:state=2347591", 
+          "woe:state=2344924"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.384, 
         "ne:FIPS_1": "CA07", 
@@ -8045,9 +8056,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 43.42215607354399, 
-        "ne:VertexCou": 1987.0, 
-        "ne:VALIDFR_1": "18670701", 
-        "ne:DataRank": 2, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 685, 
         "ne:Postal": "NS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Acadia|Nouvelle-\u00c9cosse", 
@@ -8063,17 +8074,16 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 55090.4, 
         "woe:id": "2344922", 
-        "ne:HASC_1": "CA.NS", 
-        "lang": "ENG", 
+        "name": "Ontario", 
+        "ne:VertexCou": 1987.0, 
         "adjacent_woeid": [
           2344917, 
           2344924, 
           2347582, 
           2347591
         ], 
-        "name": "Ontario", 
+        "ne:HASC_1": "CA.NS", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424775, 
         "ne_longitude": -59.68862504760784, 
         "longitude": -84.756, 
         "iso": "CA", 

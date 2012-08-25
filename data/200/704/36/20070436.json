@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070436, 
-        "name": "Mpigi", 
         "adjacent_woeid": [
           20070437, 
           20070450, 
@@ -41,20 +39,39 @@
           24550740, 
           56190215
         ], 
-        "ne_latitude": 0.583, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mpigi", 
+        "hierarchy": [
+          "woe:state=20070436", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070436, 
         "ne_longitude": 32.681, 
         "longitude": 32.007, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 0.21, 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
-        "latitude": 0.210, 
+        "sw_latitude": -0.162, 
+        "adjacent": [
+          "woe:state=20070451", 
+          "woe:state=56190215", 
+          "woe:state=20070437", 
+          "woe:state=20070450", 
+          "woe:state=24550740"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.583, 
         "sw_longitude": 31.333, 
         "fullname": "Mpigi, Uganda", 
-        "sw_latitude": -0.162
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070436
     }
+  ], 
+  "bbox": [
+    31.333, 
+    -0.162, 
+    32.681, 
+    0.583
   ]
 }

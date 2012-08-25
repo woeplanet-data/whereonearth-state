@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.277, 
-        "name": "Comer\u00edo", 
         "adjacent_woeid": [
           2346791, 
           2346794, 
@@ -41,26 +39,45 @@
           2346859, 
           2346860
         ], 
+        "name": "Comer\u00edo", 
+        "hierarchy": [
+          "woe:state=2346857", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346857, 
         "alias_SPA_V": [
           "Comer\u00edo Municipios"
         ], 
         "ne_longitude": -66.169, 
-        "longitude": -66.220, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
+        "longitude": -66.22, 
+        "placetype": "state", 
+        "latitude": 18.225, 
         "alias_SPA_S": [
           "Comerio Municipios"
         ], 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.225, 
         "sw_longitude": -66.271, 
+        "sw_latitude": 18.173, 
+        "adjacent": [
+          "woe:state=2346858", 
+          "woe:state=2346791", 
+          "woe:state=2346859", 
+          "woe:state=2346794", 
+          "woe:state=2346860"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.277, 
+        "iso": "PR", 
         "fullname": "Comer\u00edo, Puerto Rico", 
-        "sw_latitude": 18.173
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346857
     }
+  ], 
+  "bbox": [
+    -66.271, 
+    18.173, 
+    -66.169, 
+    18.277
   ]
 }

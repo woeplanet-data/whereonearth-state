@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070073, 
-        "name": "Khaskovo", 
         "adjacent_woeid": [
           2347279, 
           20070053, 
@@ -41,23 +39,42 @@
           20070068, 
           20070074
         ], 
-        "ne_latitude": 42.208, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Khaskovo", 
         "alias_ENG_V": [
           "Haskovo"
         ], 
+        "hierarchy": [
+          "woe:state=20070073", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070073, 
         "ne_longitude": 26.583, 
         "longitude": 25.898, 
-        "placetype": "State", 
-        "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
+        "placetype": "state", 
         "latitude": 41.763, 
+        "iso": "BG", 
+        "sw_latitude": 41.318, 
+        "adjacent": [
+          "woe:state=2347279", 
+          "woe:state=20070053", 
+          "woe:state=20070068", 
+          "woe:state=20070054", 
+          "woe:state=20070074"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.208, 
         "sw_longitude": 25.212, 
         "fullname": "Khaskovo, Bulgaria", 
-        "sw_latitude": 41.318
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070073
     }
+  ], 
+  "bbox": [
+    25.212, 
+    41.318, 
+    26.583, 
+    42.208
   ]
 }

@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Varmlands Lan"
         ], 
+        "hierarchy": [
+          "woe:state=2347063", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 61.056, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "V\u00e4rmland"
         ], 
@@ -65,8 +70,16 @@
           "Vaermland"
         ], 
         "sw_longitude": 11.691, 
+        "adjacent": [
+          "woe:state=2346385", 
+          "woe:state=2347053", 
+          "woe:state=2346389", 
+          "woe:state=20070562", 
+          "woe:state=2347058", 
+          "woe:state=2346396"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 59.890, 
+        "latitude": 59.89, 
         "alias_NOR_S": [
           "Vaermland"
         ], 
@@ -102,7 +115,6 @@
           20070562
         ], 
         "name": "V\u00e4rmlands L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 14.476, 
         "longitude": 13.084, 
         "iso": "SE", 
@@ -117,5 +129,11 @@
       }, 
       "id": 2347063
     }
+  ], 
+  "bbox": [
+    11.691, 
+    58.724, 
+    14.476, 
+    61.056
   ]
 }

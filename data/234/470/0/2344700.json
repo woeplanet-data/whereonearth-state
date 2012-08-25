@@ -6293,11 +6293,16 @@
         "alias_SWE_S": [
           "Nya Sodra Wales"
         ], 
+        "hierarchy": [
+          "woe:state=2344700", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -28.149030856688626, 
         "ne:Shape_Area": 76.768120722, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19010101", 
         "alias_ENG_A": [
           "NSW"
         ], 
@@ -6309,13 +6314,19 @@
         "alias_CHI_Q": [
           "\u65b0\u5357\u5a01\u5c14\u58eb\u5dde"
         ], 
-        "ne:OBJECTID": 2654, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30cb\u30e5\u30fc\u30fb\u30b5\u30a6\u30b9\u30fb\u30a6\u30a7\u30fc\u30eb\u30ba"
         ], 
         "ne:Abbrev": "N.S.W.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 141.00010704970066, 
+        "adjacent": [
+          "woe:state=2344699", 
+          "woe:state=2344702", 
+          "woe:state=2344703", 
+          "woe:state=2344705"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -32.831, 
         "ne:FIPS_1": "AS02", 
@@ -6323,12 +6334,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -37.51037159567255, 
-        "ne:VertexCou": 1566.0, 
+        "lang": "ENG", 
         "alias_KOR_Q": [
           "\ub274\uc0ac\uc6b0\uc2a4\uc6e8\uc77c\uc988"
         ], 
-        "ne:VALIDFR_1": "19010101", 
-        "ne:DataRank": 3, 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 2654, 
         "ne:Postal": "NS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -6344,17 +6355,16 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 802395.0, 
         "woe:id": "2344700", 
-        "ne:HASC_1": "AU.NS", 
-        "lang": "ENG", 
+        "name": "New South Wales", 
+        "ne:VertexCou": 1566.0, 
         "adjacent_woeid": [
           2344699, 
           2344702, 
           2344703, 
           2344705
         ], 
-        "name": "New South Wales", 
+        "ne:HASC_1": "AU.NS", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424748, 
         "ne_longitude": 153.63096398340122, 
         "longitude": 147.319, 
         "iso": "AU", 

@@ -967,20 +967,32 @@
           "Contae na hIarmhi"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2345272", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 53.79537303353874, 
         "ne:Shape_Area": 0.252295356274, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "WEM"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:OBJECTID": 717, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -7.962996791968351, 
+        "adjacent": [
+          "woe:state=2345250", 
+          "woe:state=2345262", 
+          "woe:state=2345265", 
+          "woe:state=2345267", 
+          "woe:state=2345268"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 53.558, 
         "ne:FIPS_1": "EI29", 
@@ -988,9 +1000,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 53.324652411679494, 
-        "ne:VertexCou": 236.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 717, 
         "ne:Postal": "WH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "An Iarmh\u00ed", 
@@ -1006,8 +1018,8 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 1862.1, 
         "woe:id": "2345272", 
-        "ne:HASC_1": "IE.WH", 
-        "lang": "ENG", 
+        "name": "Westmeath", 
+        "ne:VertexCou": 236.0, 
         "adjacent_woeid": [
           2345250, 
           2345262, 
@@ -1015,12 +1027,11 @@
           2345267, 
           2345268
         ], 
-        "name": "Westmeath", 
+        "ne:HASC_1": "IE.WH", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae na hIarmhi"
         ], 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "An Iarmh\u00ed"
         ], 

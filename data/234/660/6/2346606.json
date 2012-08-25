@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -16.490, 
+              -16.49, 
               10.866
             ], 
             [
-              -16.490, 
+              -16.49, 
               11.684
             ], 
             [
@@ -23,7 +23,7 @@
               10.866
             ], 
             [
-              -16.490, 
+              -16.49, 
               10.866
             ]
           ]
@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2346606, 
-        "name": "Bolama", 
         "adjacent_woeid": [
           2346604
         ], 
-        "ne_latitude": 11.684, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Bolama", 
+        "hierarchy": [
+          "woe:state=2346606", 
+          "woe:country=23424929", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346606, 
         "ne_longitude": -15.329, 
-        "longitude": -16.150, 
-        "placetype": "State", 
-        "iso": "GW", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424929, 
+        "longitude": -16.15, 
+        "placetype": "state", 
         "latitude": 11.112, 
-        "sw_longitude": -16.490, 
+        "iso": "GW", 
+        "sw_latitude": 10.866, 
+        "adjacent": [
+          "woe:state=2346604"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.684, 
+        "sw_longitude": -16.49, 
         "fullname": "Bolama, Guinea-Bissau", 
-        "sw_latitude": 10.866
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 2346606
     }
+  ], 
+  "bbox": [
+    -16.49, 
+    10.866, 
+    -15.329, 
+    11.684
   ]
 }

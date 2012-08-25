@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070272, 
-        "name": "Qobustan", 
         "adjacent_woeid": [
           20070270, 
           20070271, 
           20070283
         ], 
-        "ne_latitude": 40.751, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Qobustan", 
+        "hierarchy": [
+          "woe:state=20070272", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070272, 
         "ne_longitude": 49.217, 
         "longitude": 48.887, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.541, 
+        "iso": "AZ", 
+        "sw_latitude": 40.271, 
+        "adjacent": [
+          "woe:state=20070283", 
+          "woe:state=20070270", 
+          "woe:state=20070271"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.751, 
         "sw_longitude": 48.689, 
         "fullname": "Qobustan, Azerbaijan", 
-        "sw_latitude": 40.271
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070272
     }
+  ], 
+  "bbox": [
+    48.689, 
+    40.271, 
+    49.217, 
+    40.751
   ]
 }

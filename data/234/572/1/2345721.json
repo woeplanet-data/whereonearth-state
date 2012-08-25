@@ -1638,17 +1638,26 @@
         "alias_ENG_P": [
           "South Kalimantan"
         ], 
+        "hierarchy": [
+          "woe:state=2345721", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -1.360743503409935, 
         "ne:Shape_Area": 3.14290127673, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "1956", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IDN", 
-        "ne:OBJECTID": 1234, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 114.31072838780494, 
+        "adjacent": [
+          "woe:state=2345722", 
+          "woe:state=2345723"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -2.764, 
         "ne:FIPS_1": "ID12", 
@@ -1656,9 +1665,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": -4.827715345686613, 
-        "ne:VertexCou": 398.0, 
-        "ne:VALIDFR_1": "1956", 
-        "ne:DataRank": 1, 
+        "lang": "UNK", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 1234, 
         "ne:Postal": "KS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Kalsel", 
@@ -1674,15 +1683,14 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 38633.4, 
         "woe:id": "2345721", 
-        "ne:HASC_1": "ID.KS", 
-        "lang": "UNK", 
+        "name": "Kalimantan Selatan", 
+        "ne:VertexCou": 398.0, 
         "adjacent_woeid": [
           2345722, 
           2345723
         ], 
-        "name": "Kalimantan Selatan", 
+        "ne:HASC_1": "ID.KS", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424846, 
         "alias_UNK_V": [
           "Kalsel"
         ], 

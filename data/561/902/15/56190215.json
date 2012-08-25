@@ -13,10 +13,21 @@
           20070426
         ], 
         "name": "Mityana", 
-        "parent_woeid": 23424974, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56190215", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "UG", 
+        "adjacent": [
+          "woe:state=20070426", 
+          "woe:state=20070436", 
+          "woe:state=20070437", 
+          "woe:state=56190211", 
+          "woe:state=24550740"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56190215, 
         "date_indexed": "2010-12-02T10:22:38Z"
       }, 

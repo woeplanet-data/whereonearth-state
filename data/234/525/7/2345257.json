@@ -32,11 +32,12 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345257, 
-        "alias_UNK_V": [
-          "Contae Chill Dara"
+        "alias_ENG_V": [
+          "County Kildare"
         ], 
-        "name": "Kildare", 
+        "alias_ENG_A": [
+          "KID"
+        ], 
         "adjacent_woeid": [
           2345249, 
           2345254, 
@@ -45,29 +46,46 @@
           2345267, 
           2345274
         ], 
+        "hierarchy": [
+          "woe:state=2345257", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 53.452, 
         "alias_UNK_Q": [
           "Cill Dara"
         ], 
-        "alias_ENG_V": [
-          "County Kildare"
-        ], 
         "ne_longitude": -6.462, 
         "longitude": -6.816, 
-        "parent_woeid": 23424803, 
-        "placetype": "State", 
-        "iso": "IE", 
-        "date_indexed": "2010-12-02T12:07:35Z", 
-        "alias_ENG_A": [
-          "KID"
+        "alias_UNK_V": [
+          "Contae Chill Dara"
+        ], 
+        "placetype": "state", 
+        "sw_longitude": -7.168, 
+        "sw_latitude": 52.858, 
+        "adjacent": [
+          "woe:state=2345249", 
+          "woe:state=2345254", 
+          "woe:state=2345260", 
+          "woe:state=2345265", 
+          "woe:state=2345267", 
+          "woe:state=2345274"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 53.149, 
-        "sw_longitude": -7.168, 
+        "iso": "IE", 
         "fullname": "Kildare, Ireland", 
-        "sw_latitude": 52.858
+        "woeid": 2345257, 
+        "date_indexed": "2010-12-02T12:07:35Z", 
+        "name": "Kildare"
       }, 
       "id": 2345257
     }
+  ], 
+  "bbox": [
+    -7.168, 
+    52.858, 
+    -6.462, 
+    53.452
   ]
 }

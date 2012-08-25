@@ -12,11 +12,11 @@
             ], 
             [
               -67.082, 
-              18.290
+              18.29
             ], 
             [
               -66.899, 
-              18.290
+              18.29
             ], 
             [
               -66.899, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.290, 
-        "name": "Las Mar\u00edas", 
         "adjacent_woeid": [
           2346798, 
           2346800, 
@@ -41,26 +39,45 @@
           2346845, 
           2346848
         ], 
+        "name": "Las Mar\u00edas", 
+        "hierarchy": [
+          "woe:state=2346843", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346843, 
         "alias_SPA_V": [
           "Las Mar\u00edas Municipios"
         ], 
         "ne_longitude": -66.899, 
-        "longitude": -66.990, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
+        "longitude": -66.99, 
+        "placetype": "state", 
+        "latitude": 18.239, 
         "alias_SPA_S": [
           "Las Marias Municipios"
         ], 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.239, 
         "sw_longitude": -67.082, 
+        "sw_latitude": 18.188, 
+        "adjacent": [
+          "woe:state=2346838", 
+          "woe:state=2346798", 
+          "woe:state=2346800", 
+          "woe:state=2346848", 
+          "woe:state=2346845"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.29, 
+        "iso": "PR", 
         "fullname": "Las Mar\u00edas, Puerto Rico", 
-        "sw_latitude": 18.188
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346843
     }
+  ], 
+  "bbox": [
+    -67.082, 
+    18.188, 
+    -66.899, 
+    18.29
   ]
 }

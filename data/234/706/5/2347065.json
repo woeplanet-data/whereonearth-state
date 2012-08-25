@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Vasternorrlands Lan"
         ], 
+        "hierarchy": [
+          "woe:state=2347065", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 64.028, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "V\u00e4sternorrland"
         ], 
@@ -65,6 +70,11 @@
           "Vaesternorrland"
         ], 
         "sw_longitude": 14.781, 
+        "adjacent": [
+          "woe:state=2347046", 
+          "woe:state=2347050", 
+          "woe:state=2347064"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 63.082, 
         "alias_NOR_S": [
@@ -99,7 +109,6 @@
           2347064
         ], 
         "name": "V\u00e4sternorrlands L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 19.286, 
         "longitude": 17.034, 
         "iso": "SE", 
@@ -114,5 +123,11 @@
       }, 
       "id": 2347065
     }
+  ], 
+  "bbox": [
+    14.781, 
+    62.137, 
+    19.286, 
+    64.028
   ]
 }

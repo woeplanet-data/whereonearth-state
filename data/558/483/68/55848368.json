@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848368, 
-        "name": "Metlika", 
         "adjacent_woeid": [
           12577975, 
           55848345, 
           55848372
         ], 
-        "ne_latitude": 45.727, 
+        "name": "Metlika", 
+        "hierarchy": [
+          "woe:state=55848368", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848368, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.407, 
         "longitude": 15.306, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848345", 
+          "woe:state=12577975", 
+          "woe:state=55848372"
+        ], 
+        "ne_latitude": 45.727, 
         "latitude": 45.649, 
         "sw_longitude": 15.206, 
         "fullname": "Metlika, Slovenia", 
@@ -54,5 +63,11 @@
       }, 
       "id": 55848368
     }
+  ], 
+  "bbox": [
+    15.206, 
+    45.571, 
+    15.407, 
+    45.727
   ]
 }

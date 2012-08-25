@@ -32,19 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549753, 
-        "name": "Bou\u00e9ni", 
         "adjacent_woeid": [
           24549748
         ], 
-        "ne_latitude": -12.897, 
+        "name": "Bou\u00e9ni", 
+        "hierarchy": [
+          "woe:state=24549753", 
+          "woe:country=23424886", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549753, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.103, 
         "longitude": 45.086, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "YT", 
         "date_indexed": "2010-12-02T16:11:57Z", 
-        "parent_woeid": 23424886, 
+        "adjacent": [
+          "woe:state=24549748"
+        ], 
+        "ne_latitude": -12.897, 
         "latitude": -12.901, 
         "sw_longitude": 45.066, 
         "fullname": "Bou\u00e9ni, Mayotte", 
@@ -55,5 +62,11 @@
       }, 
       "id": 24549753
     }
+  ], 
+  "bbox": [
+    45.066, 
+    -12.931, 
+    45.103, 
+    -12.897
   ]
 }

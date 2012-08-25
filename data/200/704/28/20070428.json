@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070428, 
-        "name": "Kitgum", 
         "adjacent_woeid": [
           20070415, 
           20070429, 
@@ -41,20 +39,39 @@
           56190206, 
           56190216
         ], 
-        "ne_latitude": 3.888, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kitgum", 
+        "hierarchy": [
+          "woe:state=20070428", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070428, 
         "ne_longitude": 33.744, 
         "longitude": 32.967, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 3.21, 
         "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
-        "latitude": 3.210, 
+        "sw_latitude": 3.008, 
+        "adjacent": [
+          "woe:state=56190206", 
+          "woe:state=20070415", 
+          "woe:state=56190216", 
+          "woe:state=20070429", 
+          "woe:state=24550736"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 3.888, 
         "sw_longitude": 32.191, 
         "fullname": "Kitgum, Uganda", 
-        "sw_latitude": 3.008
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070428
     }
+  ], 
+  "bbox": [
+    32.191, 
+    3.008, 
+    33.744, 
+    3.888
   ]
 }

@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070113, 
-        "name": "Vestmannaeyjar", 
         "ne_latitude": 63.467, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Vestmannaeyjar", 
+        "hierarchy": [
+          "woe:state=20070113", 
+          "woe:country=23424845", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070113, 
         "ne_longitude": -20.182, 
         "longitude": -20.268, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "IS", 
-        "date_indexed": "2010-12-02T09:55:32Z", 
-        "parent_woeid": 23424845, 
+        "sw_latitude": 63.287, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 63.427, 
         "sw_longitude": -20.598, 
         "fullname": "Vestmannaeyjar, Iceland", 
-        "sw_latitude": 63.287
+        "date_indexed": "2010-12-02T09:55:32Z"
       }, 
       "id": 20070113
     }
+  ], 
+  "bbox": [
+    -20.598, 
+    63.287, 
+    -20.182, 
+    63.467
   ]
 }

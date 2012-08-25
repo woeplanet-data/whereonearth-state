@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.171, 
-        "name": "Yauco", 
         "adjacent_woeid": [
           2346789, 
           2346798, 
@@ -42,23 +40,43 @@
           2346835, 
           2346836
         ], 
+        "name": "Yauco", 
+        "hierarchy": [
+          "woe:state=2346810", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346810, 
         "alias_SPA_V": [
           "Yauco Municipios"
         ], 
         "ne_longitude": -66.796, 
         "longitude": -66.861, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.063, 
         "sw_longitude": -66.926, 
+        "sw_latitude": 17.955, 
+        "adjacent": [
+          "woe:state=2346789", 
+          "woe:state=2346835", 
+          "woe:state=2346836", 
+          "woe:state=2346798", 
+          "woe:state=2346800", 
+          "woe:state=2346804"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.171, 
+        "iso": "PR", 
         "fullname": "Yauco, Puerto Rico", 
-        "sw_latitude": 17.955
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346810
     }
+  ], 
+  "bbox": [
+    -66.926, 
+    17.955, 
+    -66.796, 
+    18.171
   ]
 }

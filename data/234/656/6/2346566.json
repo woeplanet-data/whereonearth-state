@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2346566, 
-        "name": "Castelo Branco", 
         "adjacent_woeid": [
           2346567, 
           2346571, 
@@ -42,20 +40,40 @@
           2346576, 
           12578035
         ], 
-        "ne_latitude": 40.416, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Castelo Branco", 
+        "hierarchy": [
+          "woe:state=2346566", 
+          "woe:country=23424925", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346566, 
         "ne_longitude": -6.864, 
         "longitude": -7.578, 
-        "placetype": "State", 
-        "iso": "PT", 
-        "date_indexed": "2010-12-02T09:58:14Z", 
-        "parent_woeid": 23424925, 
+        "placetype": "state", 
         "latitude": 39.977, 
+        "iso": "PT", 
+        "sw_latitude": 39.537, 
+        "adjacent": [
+          "woe:state=2346567", 
+          "woe:state=12578035", 
+          "woe:state=2346571", 
+          "woe:state=2346572", 
+          "woe:state=2346574", 
+          "woe:state=2346576"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.416, 
         "sw_longitude": -8.292, 
         "fullname": "Castelo Branco, Portugal", 
-        "sw_latitude": 39.537
+        "date_indexed": "2010-12-02T09:58:14Z"
       }, 
       "id": 2346566
     }
+  ], 
+  "bbox": [
+    -8.292, 
+    39.537, 
+    -6.864, 
+    40.416
   ]
 }

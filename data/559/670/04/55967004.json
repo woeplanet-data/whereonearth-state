@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 55967004, 
-        "name": "Sud-Como\u00e9", 
         "adjacent_woeid": [
           2345469, 
           55967000, 
           55967009
         ], 
-        "ne_latitude": 6.245, 
+        "name": "Sud-Como\u00e9", 
+        "hierarchy": [
+          "woe:state=55967004", 
+          "woe:country=23424854", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55967004, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -2.726, 
         "longitude": -3.292, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "CI", 
         "date_indexed": "2010-12-02T09:35:13Z", 
-        "parent_woeid": 23424854, 
+        "adjacent": [
+          "woe:state=55967009", 
+          "woe:state=55967000", 
+          "woe:state=2345469"
+        ], 
+        "ne_latitude": 6.245, 
         "latitude": 5.662, 
         "sw_longitude": -3.857, 
         "fullname": "Sud-Como\u00e9, Ivory Coast", 
@@ -57,5 +66,11 @@
       }, 
       "id": 55967004
     }
+  ], 
+  "bbox": [
+    -3.857, 
+    5.079, 
+    -2.726, 
+    6.245
   ]
 }

@@ -32,39 +32,54 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2344851, 
-        "name": "Esp\u00edrito Santo", 
+        "adjacent_woeid": [
+          2344848, 
+          2344856, 
+          2344862
+        ], 
+        "alias_ENG_A": [
+          "ES"
+        ], 
         "alias_ENG_P": [
           "Espirito Santo"
         ], 
-        "ne_latitude": -17.891, 
+        "hierarchy": [
+          "woe:state=2344851", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344851, 
         "provider": "geoplanet 7.6.0", 
         "alias_POR_S": [
           "Estado Espirito Santo"
         ], 
         "ne_longitude": -39.663, 
         "longitude": -40.771, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_V": [
           "Estado Esp\u00edrito Santo"
         ], 
-        "adjacent_woeid": [
-          2344848, 
-          2344856, 
-          2344862
-        ], 
-        "iso": "BR", 
-        "date_indexed": "2010-12-02T17:58:27Z", 
-        "alias_ENG_A": [
-          "ES"
-        ], 
-        "parent_woeid": 23424768, 
-        "latitude": -19.596, 
         "sw_longitude": -41.879, 
+        "sw_latitude": -21.302, 
+        "adjacent": [
+          "woe:state=2344848", 
+          "woe:state=2344856", 
+          "woe:state=2344862"
+        ], 
+        "ne_latitude": -17.891, 
+        "latitude": -19.596, 
+        "iso": "BR", 
         "fullname": "Esp\u00edrito Santo, Espirito Santo, Brazil", 
-        "sw_latitude": -21.302
+        "date_indexed": "2010-12-02T17:58:27Z", 
+        "name": "Esp\u00edrito Santo"
       }, 
       "id": 2344851
     }
+  ], 
+  "bbox": [
+    -41.879, 
+    -21.302, 
+    -39.663, 
+    -17.891
   ]
 }

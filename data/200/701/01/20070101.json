@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070101, 
-        "name": "Akureyri", 
         "adjacent_woeid": [
           2345693
         ], 
-        "ne_latitude": 65.699, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Akureyri", 
+        "hierarchy": [
+          "woe:state=20070101", 
+          "woe:country=23424845", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070101, 
         "ne_longitude": -18.087, 
         "longitude": -18.109, 
-        "placetype": "State", 
-        "iso": "IS", 
-        "date_indexed": "2010-12-02T09:55:32Z", 
-        "parent_woeid": 23424845, 
+        "placetype": "state", 
         "latitude": 65.679, 
+        "iso": "IS", 
+        "sw_latitude": 65.655, 
+        "adjacent": [
+          "woe:state=2345693"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 65.699, 
         "sw_longitude": -18.143, 
         "fullname": "Akureyri, Iceland", 
-        "sw_latitude": 65.655
+        "date_indexed": "2010-12-02T09:55:32Z"
       }, 
       "id": 20070101
     }
+  ], 
+  "bbox": [
+    -18.143, 
+    65.655, 
+    -18.087, 
+    65.699
   ]
 }

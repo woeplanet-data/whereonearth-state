@@ -13,10 +13,21 @@
           20070039
         ], 
         "name": "Amran", 
-        "parent_woeid": 23425002, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56189859", 
+          "woe:country=23425002", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "YE", 
+        "adjacent": [
+          "woe:state=20070039", 
+          "woe:state=20070046", 
+          "woe:state=20070048", 
+          "woe:state=20070038", 
+          "woe:state=20070045"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56189859, 
         "date_indexed": "2010-12-02T16:39:35Z"
       }, 

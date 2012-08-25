@@ -12,11 +12,11 @@
             ], 
             [
               -139.049, 
-              60.000
+              60.0
             ], 
             [
               -114.052, 
-              60.000
+              60.0
             ], 
             [
               -114.052, 
@@ -37,10 +37,15 @@
         "alias_SWE_Q": [
           "Brittiska Columbia"
         ], 
-        "ne_latitude": 60.000, 
-        "placetype": "State", 
-        "alias_ENG_A": [
-          "BC"
+        "hierarchy": [
+          "woe:state=2344916", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 60.0, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ube0c\ub9ac\ud2f0\uc2dc\uceec\ub7fc\ube44\uc544"
         ], 
         "alias_CHI_Q": [
           "\u4e0d\u5217\u98a0\u54e5\u4f26\u6bd4\u4e9a\u7701"
@@ -56,14 +61,23 @@
           "Brittilainen Kolumbia"
         ], 
         "sw_longitude": -139.049, 
+        "adjacent": [
+          "woe:state=2347560", 
+          "woe:state=2344915", 
+          "woe:state=2347571", 
+          "woe:state=2347585", 
+          "woe:state=2344920", 
+          "woe:state=2347606", 
+          "woe:state=2344926"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 54.499, 
         "alias_NOR_Q": [
           "Britisk Columbia"
         ], 
         "date_indexed": "2010-12-02T10:22:50Z", 
-        "alias_KOR_Q": [
-          "\ube0c\ub9ac\ud2f0\uc2dc\uceec\ub7fc\ube44\uc544"
+        "alias_ENG_A": [
+          "BC"
         ], 
         "lang": "ENG", 
         "adjacent_woeid": [
@@ -76,7 +90,6 @@
           2347606
         ], 
         "name": "British Columbia", 
-        "parent_woeid": 23424775, 
         "ne_longitude": -114.052, 
         "longitude": -126.551, 
         "iso": "CA", 
@@ -91,5 +104,11 @@
       }, 
       "id": 2344916
     }
+  ], 
+  "bbox": [
+    -139.049, 
+    48.309, 
+    -114.052, 
+    60.0
   ]
 }

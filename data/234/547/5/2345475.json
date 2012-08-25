@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -61.800, 
+              -61.8, 
               11.983
             ], 
             [
-              -61.800, 
+              -61.8, 
               12.116
             ], 
             [
@@ -23,7 +23,7 @@
               11.983
             ], 
             [
-              -61.800, 
+              -61.8, 
               11.983
             ]
           ]
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345475, 
-        "name": "Saint George", 
         "adjacent_woeid": [
           2345473, 
           2345474, 
           2345476
         ], 
-        "ne_latitude": 12.116, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint George", 
         "alias_ENG_V": [
           "St. George"
         ], 
+        "hierarchy": [
+          "woe:state=2345475", 
+          "woe:country=23424826", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345475, 
         "ne_longitude": -61.699, 
-        "longitude": -61.750, 
-        "placetype": "State", 
-        "iso": "GD", 
-        "date_indexed": "2010-12-02T17:52:39Z", 
-        "parent_woeid": 23424826, 
+        "longitude": -61.75, 
+        "placetype": "state", 
         "latitude": 12.054, 
-        "sw_longitude": -61.800, 
+        "iso": "GD", 
+        "sw_latitude": 11.983, 
+        "adjacent": [
+          "woe:state=2345473", 
+          "woe:state=2345474", 
+          "woe:state=2345476"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.116, 
+        "sw_longitude": -61.8, 
         "fullname": "Saint George, Grenada", 
-        "sw_latitude": 11.983
+        "date_indexed": "2010-12-02T17:52:39Z"
       }, 
       "id": 2345475
     }
+  ], 
+  "bbox": [
+    -61.8, 
+    11.983, 
+    -61.699, 
+    12.116
   ]
 }

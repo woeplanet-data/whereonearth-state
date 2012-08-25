@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -87.690, 
+              -87.69, 
               12.379
             ], 
             [
-              -87.690, 
+              -87.69, 
               13.306
             ], 
             [
@@ -23,7 +23,7 @@
               12.379
             ], 
             [
-              -87.690, 
+              -87.69, 
               12.379
             ]
           ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346419, 
-        "name": "Chinandega", 
         "adjacent_woeid": [
           2345624, 
           2346421, 
           2346424, 
           2346425
         ], 
-        "ne_latitude": 13.306, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chinandega", 
+        "hierarchy": [
+          "woe:state=2346419", 
+          "woe:country=23424915", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346419, 
         "ne_longitude": -86.657, 
         "longitude": -87.174, 
-        "placetype": "State", 
-        "iso": "NI", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
-        "parent_woeid": 23424915, 
+        "placetype": "state", 
         "latitude": 12.878, 
-        "sw_longitude": -87.690, 
+        "iso": "NI", 
+        "sw_latitude": 12.379, 
+        "adjacent": [
+          "woe:state=2345624", 
+          "woe:state=2346421", 
+          "woe:state=2346424", 
+          "woe:state=2346425"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.306, 
+        "sw_longitude": -87.69, 
         "fullname": "Chinandega, Nicaragua", 
-        "sw_latitude": 12.379
+        "date_indexed": "2010-12-02T18:19:07Z"
       }, 
       "id": 2346419
     }
+  ], 
+  "bbox": [
+    -87.69, 
+    12.379, 
+    -86.657, 
+    13.306
   ]
 }

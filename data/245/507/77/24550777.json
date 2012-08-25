@@ -12,11 +12,11 @@
             ], 
             [
               22.254, 
-              42.150
+              42.15
             ], 
             [
               22.563, 
-              42.150
+              42.15
             ], 
             [
               22.563, 
@@ -32,22 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550777, 
-        "alias_UNK_V": [
-          "Opstina Ko\u010dani"
-        ], 
-        "name": "Ko\u010dani", 
-        "alias_ENG_P": [
-          "Kocani Municipality"
-        ], 
-        "alias_UNK_S": [
-          "Opstina Kocani"
-        ], 
-        "ne_latitude": 42.150, 
-        "ne_longitude": 22.563, 
-        "longitude": 22.408, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550757, 
           24550780, 
@@ -57,15 +41,50 @@
           24550831, 
           24550851
         ], 
+        "name": "Ko\u010dani", 
+        "alias_ENG_P": [
+          "Kocani Municipality"
+        ], 
+        "alias_UNK_S": [
+          "Opstina Kocani"
+        ], 
+        "woeid": 24550777, 
+        "alias_UNK_V": [
+          "Opstina Ko\u010dani"
+        ], 
+        "longitude": 22.408, 
+        "ne_longitude": 22.563, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=24550777", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.855, 
+        "adjacent": [
+          "woe:state=24550780", 
+          "woe:state=24550831", 
+          "woe:state=24550851", 
+          "woe:state=24550800", 
+          "woe:state=24550817", 
+          "woe:state=24550824", 
+          "woe:state=24550757"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 42.002, 
+        "ne_latitude": 42.15, 
         "sw_longitude": 22.254, 
+        "latitude": 42.002, 
         "fullname": "Ko\u010dani, Kocani Municipality, Macedonia", 
-        "sw_latitude": 41.855
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550777
     }
+  ], 
+  "bbox": [
+    22.254, 
+    41.855, 
+    22.563, 
+    42.15
   ]
 }

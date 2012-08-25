@@ -421,9 +421,14 @@
       "properties": {
         "ne:ProvNumber": 2, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=55967669", 
+          "woe:country=23424764", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 7.659713650364722, 
         "ne:Shape_Area": 0.251635648322, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -432,6 +437,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 2.417764926909911, 
+        "adjacent": [
+          "woe:state=55967670", 
+          "woe:state=2346346", 
+          "woe:state=2344828", 
+          "woe:state=2344829"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 7.019, 
         "ne:FIPS_1": "BN17", 
@@ -467,7 +478,6 @@
         ], 
         "name": "Plateau", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424764, 
         "ne_longitude": 2.791902296453884, 
         "longitude": 2.596, 
         "iso": "BJ", 

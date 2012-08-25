@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347200, 
-        "name": "Udon Thani", 
         "adjacent_woeid": [
           2347144, 
           2347145, 
@@ -42,23 +40,43 @@
           2347148, 
           2347202
         ], 
-        "ne_latitude": 18.086, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Udon Thani", 
         "alias_ENG_V": [
           "Changwat Udon Thani"
         ], 
+        "hierarchy": [
+          "woe:state=2347200", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347200, 
         "ne_longitude": 103.666, 
         "longitude": 102.841, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 17.444, 
+        "iso": "TH", 
+        "sw_latitude": 16.802, 
+        "adjacent": [
+          "woe:state=2347148", 
+          "woe:state=2347147", 
+          "woe:state=2347145", 
+          "woe:state=2347202", 
+          "woe:state=2347144", 
+          "woe:state=2347146"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.086, 
         "sw_longitude": 102.016, 
         "fullname": "Udon Thani, Thailand", 
-        "sw_latitude": 16.802
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347200
     }
+  ], 
+  "bbox": [
+    102.016, 
+    16.802, 
+    103.666, 
+    18.086
   ]
 }

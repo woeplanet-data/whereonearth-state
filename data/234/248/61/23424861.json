@@ -32,20 +32,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 23424861, 
-        "name": "Johnston Atoll", 
         "alias_SPA_Q": [
           "Isla Johnston"
         ], 
-        "ne_latitude": 16.493, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Johnston Atoll", 
+        "hierarchy": [
+          "woe:state=23424861", 
+          "woe:country=28289407", 
+          "woe:planet=1"
+        ], 
+        "woeid": 23424861, 
         "ne_longitude": -168.059, 
         "longitude": -168.064, 
-        "placetype": "State", 
-        "iso": "UM", 
-        "date_indexed": "2010-12-02T16:52:36Z", 
-        "parent_woeid": 28289407, 
+        "placetype": "state", 
         "latitude": 16.489, 
+        "iso": "UM", 
+        "sw_latitude": 16.485, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 16.493, 
         "sw_longitude": -168.068, 
         "fullname": "Johnston Atoll, United States Minor Outlying Islands", 
         "alias_GER_Q": [
@@ -54,12 +58,18 @@
         "alias_FRE_S": [
           "Ile Johnston"
         ], 
-        "sw_latitude": 16.485, 
+        "date_indexed": "2010-12-02T16:52:36Z", 
         "alias_FRE_Q": [
           "\u00cele Johnston"
         ]
       }, 
       "id": 23424861
     }
+  ], 
+  "bbox": [
+    -168.068, 
+    16.485, 
+    -168.059, 
+    16.493
   ]
 }

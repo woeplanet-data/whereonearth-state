@@ -15,11 +15,11 @@
               40.989
             ], 
             [
-              48.860, 
+              48.86, 
               40.989
             ], 
             [
-              48.860, 
+              48.86, 
               40.203
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070270, 
-        "name": "Samaxi", 
         "adjacent_woeid": [
           20070215, 
           20070228, 
@@ -44,20 +42,42 @@
           20070282, 
           20070283
         ], 
-        "ne_latitude": 40.989, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 48.860, 
+        "name": "Samaxi", 
+        "hierarchy": [
+          "woe:state=20070270", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070270, 
+        "ne_longitude": 48.86, 
         "longitude": 48.651, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.596, 
+        "iso": "AZ", 
+        "sw_latitude": 40.203, 
+        "adjacent": [
+          "woe:state=20070283", 
+          "woe:state=20070215", 
+          "woe:state=20070282", 
+          "woe:state=20070228", 
+          "woe:state=20070236", 
+          "woe:state=20070272", 
+          "woe:state=20070232", 
+          "woe:state=20070271"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.989, 
         "sw_longitude": 48.443, 
         "fullname": "Samaxi, Azerbaijan", 
-        "sw_latitude": 40.203
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070270
     }
+  ], 
+  "bbox": [
+    48.443, 
+    40.203, 
+    48.86, 
+    40.989
   ]
 }

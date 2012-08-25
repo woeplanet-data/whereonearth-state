@@ -12,11 +12,11 @@
             ], 
             [
               -79.452, 
-              22.750
+              22.75
             ], 
             [
               -78.071, 
-              22.750
+              22.75
             ], 
             [
               -78.071, 
@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345111, 
+        "alias_SPA_A": [
+          "CA"
+        ], 
         "name": "Ciego de Avila", 
         "adjacent_woeid": [
           2345110, 
           2345118
         ], 
-        "ne_latitude": 22.750, 
-        "alias_SPA_A": [
-          "CA"
+        "hierarchy": [
+          "woe:state=2345111", 
+          "woe:country=23424793", 
+          "woe:planet=1"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2345111, 
         "ne_longitude": -78.071, 
         "longitude": -78.594, 
-        "placetype": "State", 
+        "ne_latitude": 22.75, 
+        "placetype": "state", 
         "iso": "CU", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424793, 
-        "latitude": 21.960, 
+        "sw_latitude": 20.845, 
+        "adjacent": [
+          "woe:state=2345110", 
+          "woe:state=2345118"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.96, 
         "sw_longitude": -79.452, 
         "fullname": "Ciego de Avila, Cuba", 
-        "sw_latitude": 20.845
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 2345111
     }
+  ], 
+  "bbox": [
+    -79.452, 
+    20.845, 
+    -78.071, 
+    22.75
   ]
 }

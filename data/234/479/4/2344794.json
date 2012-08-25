@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344794, 
-        "name": "Belize", 
         "adjacent_woeid": [
           2344795, 
           2344796, 
           2344797, 
           2344798
         ], 
-        "ne_latitude": 18.168, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Belize", 
+        "hierarchy": [
+          "woe:state=2344794", 
+          "woe:country=23424760", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344794, 
         "ne_longitude": -87.468, 
         "longitude": -88.393, 
-        "placetype": "State", 
-        "iso": "BZ", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424760, 
+        "placetype": "state", 
         "latitude": 17.567, 
+        "iso": "BZ", 
+        "sw_latitude": 17.133, 
+        "adjacent": [
+          "woe:state=2344795", 
+          "woe:state=2344796", 
+          "woe:state=2344797", 
+          "woe:state=2344798"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.168, 
         "sw_longitude": -88.638, 
         "fullname": "Belize", 
-        "sw_latitude": 17.133
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 2344794
     }
+  ], 
+  "bbox": [
+    -88.638, 
+    17.133, 
+    -87.468, 
+    18.168
   ]
 }

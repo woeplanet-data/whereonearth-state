@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              41.650, 
+              41.65, 
               42.141
             ], 
             [
-              41.650, 
+              41.65, 
               42.169
             ], 
             [
@@ -23,7 +23,7 @@
               42.141
             ], 
             [
-              41.650, 
+              41.65, 
               42.141
             ]
           ]
@@ -32,28 +32,41 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070405, 
+        "adjacent_woeid": [
+          20070406
+        ], 
         "alias_ENG_S": [
           "Protri"
         ], 
         "name": "P\u00b4ot\u00b4I", 
-        "adjacent_woeid": [
-          20070406
-        ], 
         "ne_latitude": 42.169, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=20070405", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070405, 
         "ne_longitude": 41.679, 
         "longitude": 41.665, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "sw_latitude": 42.141, 
+        "adjacent": [
+          "woe:state=20070406"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 42.156, 
-        "sw_longitude": 41.650, 
+        "sw_longitude": 41.65, 
         "fullname": "P\u00b4ot\u00b4I, Georgia", 
-        "sw_latitude": 42.141
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070405
     }
+  ], 
+  "bbox": [
+    41.65, 
+    42.141, 
+    41.679, 
+    42.169
   ]
 }

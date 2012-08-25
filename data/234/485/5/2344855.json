@@ -5853,23 +5853,37 @@
       "properties": {
         "ne:ProvNumber": 23, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=2344855", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -7.339138278408768, 
         "ne:Shape_Area": 75.3088235125, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "alias_POR_V": [
           "Estado Mato Grosso"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19790101", 
         "alias_ENG_A": [
           "MT"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BRA", 
-        "ne:OBJECTID": 602, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -61.61129838701089, 
+        "adjacent": [
+          "woe:state=2344847", 
+          "woe:state=2344852", 
+          "woe:state=2344853", 
+          "woe:state=2344857", 
+          "woe:state=2344865", 
+          "woe:state=2344808", 
+          "woe:state=2344870"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -12.695, 
         "ne:FIPS_1": "BR14", 
@@ -5877,9 +5891,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -18.031612237314846, 
-        "ne:VertexCou": 1437.0, 
-        "ne:VALIDFR_1": "19790101", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 602, 
         "ne:Postal": "MT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Matto Grosso", 
@@ -5895,8 +5909,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 903220.3, 
         "woe:id": "2344855", 
-        "ne:HASC_1": "BR.MT", 
-        "lang": "POR", 
+        "name": "Mato Grosso", 
+        "ne:VertexCou": 1437.0, 
         "adjacent_woeid": [
           2344808, 
           2344847, 
@@ -5906,9 +5920,8 @@
           2344865, 
           2344870
         ], 
-        "name": "Mato Grosso", 
+        "ne:HASC_1": "BR.MT", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424768, 
         "ne_longitude": -50.23573950897111, 
         "longitude": -55.928, 
         "iso": "BR", 

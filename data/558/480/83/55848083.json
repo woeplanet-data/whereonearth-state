@@ -2128,9 +2128,14 @@
         "alias_ENG_P": [
           "Vilnius County"
         ], 
+        "hierarchy": [
+          "woe:state=55848083", 
+          "woe:country=23424875", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 55.52260610608698, 
         "ne:Shape_Area": 1.36918245775, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
@@ -2139,6 +2144,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 24.388620233237248, 
+        "adjacent": [
+          "woe:state=55848082", 
+          "woe:state=55848084", 
+          "woe:state=55848086", 
+          "woe:state=55848081"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 54.823, 
         "ne:FIPS_1": "LH65", 
@@ -2174,7 +2185,6 @@
         ], 
         "name": "Vilniaus Apskritis", 
         "ne:REMARKS_1": "NUTS code LT00A", 
-        "parent_woeid": 23424875, 
         "ne_longitude": 26.73963952014776, 
         "longitude": 25.573, 
         "iso": "LT", 

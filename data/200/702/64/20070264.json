@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              46.730, 
+              46.73, 
               39.751
             ], 
             [
-              46.730, 
-              39.780
+              46.73, 
+              39.78
             ], 
             [
               46.767, 
-              39.780
+              39.78
             ], 
             [
               46.767, 
               39.751
             ], 
             [
-              46.730, 
+              46.73, 
               39.751
             ]
           ]
@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070264, 
-        "name": "Susa", 
         "adjacent_woeid": [
           20070265, 
           20070277
         ], 
-        "ne_latitude": 39.780, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Susa", 
         "alias_ENG_V": [
           "Susa City"
         ], 
+        "hierarchy": [
+          "woe:state=20070264", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070264, 
         "ne_longitude": 46.767, 
         "longitude": 46.749, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.766, 
-        "sw_longitude": 46.730, 
+        "iso": "AZ", 
+        "sw_latitude": 39.751, 
+        "adjacent": [
+          "woe:state=20070265", 
+          "woe:state=20070277"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.78, 
+        "sw_longitude": 46.73, 
         "fullname": "Susa, Azerbaijan", 
-        "sw_latitude": 39.751
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070264
     }
+  ], 
+  "bbox": [
+    46.73, 
+    39.751, 
+    46.767, 
+    39.78
   ]
 }

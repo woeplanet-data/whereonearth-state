@@ -7704,17 +7704,22 @@
         "alias_ENG_P": [
           "Jilin"
         ], 
+        "hierarchy": [
+          "woe:state=12577995", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.293453681242454, 
         "ne:Shape_Area": 21.323236309, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc9c0\ub9b0"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1828, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u5409\u6797"
         ], 
@@ -7727,6 +7732,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 121.64950524317248, 
+        "adjacent": [
+          "woe:state=2345950", 
+          "woe:state=2345958", 
+          "woe:state=2346886", 
+          "woe:state=2345956", 
+          "woe:state=12578009", 
+          "woe:state=12578008", 
+          "woe:state=12577998"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 43.58, 
         "ne:FIPS_1": "CH05", 
@@ -7734,9 +7748,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 40.85941844360633, 
-        "ne:VertexCou": 1821.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1828, 
         "ne:Postal": "JL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "J\u00edl\u00edn", 
@@ -7752,8 +7766,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 191005.3, 
         "woe:id": "12577995", 
-        "ne:HASC_1": "CN.JL", 
-        "lang": "CHI", 
+        "name": "\u5409\u6797\u7701", 
+        "ne:VertexCou": 1821.0, 
         "adjacent_woeid": [
           2345950, 
           2345956, 
@@ -7763,9 +7777,8 @@
           12578008, 
           12578009
         ], 
-        "name": "\u5409\u6797\u7701", 
+        "ne:HASC_1": "CN.JL", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 131.28183719333185, 
         "longitude": 126.524, 
         "iso": "CN", 

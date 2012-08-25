@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345245, 
-        "name": "Qina", 
         "adjacent_woeid": [
           2345224, 
           2345235, 
@@ -41,23 +39,42 @@
           2345246, 
           56120896
         ], 
-        "ne_latitude": 26.288, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Qina", 
         "alias_ENG_V": [
           "Qena Governorate"
         ], 
+        "hierarchy": [
+          "woe:state=2345245", 
+          "woe:country=23424802", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345245, 
         "ne_longitude": 32.903, 
         "longitude": 32.584, 
-        "placetype": "State", 
-        "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
-        "parent_woeid": 23424802, 
+        "placetype": "state", 
         "latitude": 25.708, 
+        "iso": "EG", 
+        "sw_latitude": 25.128, 
+        "adjacent": [
+          "woe:state=2345224", 
+          "woe:state=56120896", 
+          "woe:state=2345235", 
+          "woe:state=2345238", 
+          "woe:state=2345246"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 26.288, 
         "sw_longitude": 31.852, 
         "fullname": "Qina, Egypt", 
-        "sw_latitude": 25.128
+        "date_indexed": "2010-12-02T12:16:45Z"
       }, 
       "id": 2345245
     }
+  ], 
+  "bbox": [
+    31.852, 
+    25.128, 
+    32.903, 
+    26.288
   ]
 }

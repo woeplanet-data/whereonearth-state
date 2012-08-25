@@ -12,14 +12,14 @@
             ], 
             [
               144.635, 
-              13.400
+              13.4
             ], 
             [
-              144.700, 
-              13.400
+              144.7, 
+              13.4
             ], 
             [
-              144.700, 
+              144.7, 
               13.324
             ], 
             [
@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549713, 
-        "name": "Agat", 
         "adjacent_woeid": [
           24549710, 
           24549712, 
           24549714
         ], 
-        "ne_latitude": 13.400, 
+        "name": "Agat", 
+        "hierarchy": [
+          "woe:state=24549713", 
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549713, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 144.700, 
+        "ne_longitude": 144.7, 
         "longitude": 144.668, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "parent_woeid": 23424832, 
+        "adjacent": [
+          "woe:state=24549714", 
+          "woe:state=24549712", 
+          "woe:state=24549710"
+        ], 
+        "ne_latitude": 13.4, 
         "latitude": 13.362, 
         "sw_longitude": 144.635, 
         "fullname": "Agat, Guam", 
@@ -54,5 +63,11 @@
       }, 
       "id": 24549713
     }
+  ], 
+  "bbox": [
+    144.635, 
+    13.324, 
+    144.7, 
+    13.4
   ]
 }

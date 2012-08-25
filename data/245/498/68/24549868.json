@@ -12,11 +12,11 @@
             ], 
             [
               55.464, 
-              -4.730
+              -4.73
             ], 
             [
               55.515, 
-              -4.730
+              -4.73
             ], 
             [
               55.515, 
@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549868, 
-        "name": "Baie Lazare", 
         "adjacent_woeid": [
           24549867, 
           24549869, 
           24549870
         ], 
-        "ne_latitude": -4.730, 
+        "name": "Baie Lazare", 
+        "hierarchy": [
+          "woe:state=24549868", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549868, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.515, 
-        "longitude": 55.490, 
-        "placetype": "State", 
+        "longitude": 55.49, 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549869", 
+          "woe:state=24549870", 
+          "woe:state=24549867"
+        ], 
+        "ne_latitude": -4.73, 
         "latitude": -4.746, 
         "sw_longitude": 55.464, 
         "fullname": "Baie Lazare, Seychelles", 
@@ -54,5 +63,11 @@
       }, 
       "id": 24549868
     }
+  ], 
+  "bbox": [
+    55.464, 
+    -4.762, 
+    55.515, 
+    -4.73
   ]
 }

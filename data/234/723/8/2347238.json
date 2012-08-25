@@ -8,7 +8,7 @@
           [
             [
               8.076, 
-              34.000
+              34.0
             ], 
             [
               8.076, 
@@ -20,11 +20,11 @@
             ], 
             [
               9.632, 
-              34.000
+              34.0
             ], 
             [
               8.076, 
-              34.000
+              34.0
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347238, 
-        "name": "Qafash", 
         "adjacent_woeid": [
           2344603, 
           2347235, 
@@ -43,20 +41,41 @@
           2347253, 
           2347255
         ], 
-        "ne_latitude": 34.789, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Qafash", 
+        "hierarchy": [
+          "woe:state=2347238", 
+          "woe:country=23424967", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347238, 
         "ne_longitude": 9.632, 
         "longitude": 8.854, 
-        "placetype": "State", 
-        "iso": "TN", 
-        "date_indexed": "2010-12-02T18:18:54Z", 
-        "parent_woeid": 23424967, 
+        "placetype": "state", 
         "latitude": 34.394, 
+        "iso": "TN", 
+        "sw_latitude": 34.0, 
+        "adjacent": [
+          "woe:state=2347235", 
+          "woe:state=2347250", 
+          "woe:state=2347251", 
+          "woe:state=2347252", 
+          "woe:state=2347253", 
+          "woe:state=2347255", 
+          "woe:state=2344603"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.789, 
         "sw_longitude": 8.076, 
         "fullname": "Qafash, Tunisia", 
-        "sw_latitude": 34.000
+        "date_indexed": "2010-12-02T18:18:54Z"
       }, 
       "id": 2347238
     }
+  ], 
+  "bbox": [
+    8.076, 
+    34.0, 
+    9.632, 
+    34.789
   ]
 }

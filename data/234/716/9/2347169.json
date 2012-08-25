@@ -15,11 +15,11 @@
               13.977
             ], 
             [
-              101.990, 
+              101.99, 
               13.977
             ], 
             [
-              101.990, 
+              101.99, 
               13.179
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347169, 
-        "name": "Chachoengsao", 
         "adjacent_woeid": [
           2347164, 
           2347165, 
@@ -44,23 +42,45 @@
           20069925, 
           20069926
         ], 
-        "ne_latitude": 13.977, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chachoengsao", 
         "alias_ENG_V": [
           "Changwat Chachoengsao"
         ], 
-        "ne_longitude": 101.990, 
+        "hierarchy": [
+          "woe:state=2347169", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347169, 
+        "ne_longitude": 101.99, 
         "longitude": 101.419, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 13.578, 
+        "iso": "TH", 
+        "sw_latitude": 13.179, 
+        "adjacent": [
+          "woe:state=2347165", 
+          "woe:state=2347172", 
+          "woe:state=2347170", 
+          "woe:state=2347168", 
+          "woe:state=2347164", 
+          "woe:state=20069926", 
+          "woe:state=20069925", 
+          "woe:state=2347167"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.977, 
         "sw_longitude": 100.849, 
         "fullname": "Chachoengsao, Thailand", 
-        "sw_latitude": 13.179
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347169
     }
+  ], 
+  "bbox": [
+    100.849, 
+    13.179, 
+    101.99, 
+    13.977
   ]
 }

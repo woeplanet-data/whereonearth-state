@@ -765,9 +765,14 @@
       "properties": {
         "ne:ProvNumber": 2000, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=55967360", 
+          "woe:country=23424978", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 12.739119371262007, 
         "ne:Shape_Area": 0.493387373075, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
@@ -776,6 +781,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -4.653276333236136, 
+        "adjacent": [
+          "woe:state=2347618", 
+          "woe:state=2347622", 
+          "woe:state=2347624", 
+          "woe:state=2346184", 
+          "woe:state=2346185"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 12.237, 
         "ne:FIPS_1": "UV58", 
@@ -812,7 +824,6 @@
         ], 
         "name": "Banwa", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424978, 
         "ne_longitude": -3.563704595990259, 
         "longitude": -4.103, 
         "iso": "BF", 

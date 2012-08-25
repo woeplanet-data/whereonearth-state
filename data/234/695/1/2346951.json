@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346951, 
-        "name": "Ar Riyad", 
         "adjacent_woeid": [
           2346952, 
           2346954, 
@@ -44,23 +42,45 @@
           2346960, 
           2346961
         ], 
-        "ne_latitude": 28.029, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ar Riyad", 
         "alias_ENG_V": [
           "Riyadh"
         ], 
+        "hierarchy": [
+          "woe:state=2346951", 
+          "woe:country=23424938", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346951, 
         "ne_longitude": 47.645, 
         "longitude": 44.628, 
-        "placetype": "State", 
-        "iso": "SA", 
-        "date_indexed": "2010-12-02T09:34:37Z", 
-        "parent_woeid": 23424938, 
+        "placetype": "state", 
         "latitude": 23.667, 
+        "iso": "SA", 
+        "sw_latitude": 19.304, 
+        "adjacent": [
+          "woe:state=2346955", 
+          "woe:state=2346961", 
+          "woe:state=2346958", 
+          "woe:state=2346952", 
+          "woe:state=2346954", 
+          "woe:state=2346957", 
+          "woe:state=2346959", 
+          "woe:state=2346960"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 28.029, 
         "sw_longitude": 41.611, 
         "fullname": "Ar Riyad, Saudi Arabia", 
-        "sw_latitude": 19.304
+        "date_indexed": "2010-12-02T09:34:37Z"
       }, 
       "id": 2346951
     }
+  ], 
+  "bbox": [
+    41.611, 
+    19.304, 
+    47.645, 
+    28.029
   ]
 }

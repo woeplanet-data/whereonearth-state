@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346011, 
-        "name": "Xiangkhoang", 
         "adjacent_woeid": [
           2346001, 
           2346004, 
@@ -41,20 +39,39 @@
           20070163, 
           20070164
         ], 
-        "ne_latitude": 20.165, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Xiangkhoang", 
+        "hierarchy": [
+          "woe:state=2346011", 
+          "woe:country=23424872", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346011, 
         "ne_longitude": 104.293, 
-        "longitude": 103.360, 
-        "placetype": "State", 
-        "iso": "LA", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
-        "parent_woeid": 23424872, 
+        "longitude": 103.36, 
+        "placetype": "state", 
         "latitude": 19.443, 
+        "iso": "LA", 
+        "sw_latitude": 18.722, 
+        "adjacent": [
+          "woe:state=20070163", 
+          "woe:state=2346001", 
+          "woe:state=2346004", 
+          "woe:state=2347742", 
+          "woe:state=20070164"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 20.165, 
         "sw_longitude": 102.427, 
         "fullname": "Xiangkhoang, Laos", 
-        "sw_latitude": 18.722
+        "date_indexed": "2010-12-02T16:42:51Z"
       }, 
       "id": 2346011
     }
+  ], 
+  "bbox": [
+    102.427, 
+    18.722, 
+    104.293, 
+    20.165
   ]
 }

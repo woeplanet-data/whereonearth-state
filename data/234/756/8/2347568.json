@@ -9484,11 +9484,16 @@
         "alias_KOR_Q": [
           "\ud50c\ub85c\ub9ac\ub2e4"
         ], 
+        "hierarchy": [
+          "woe:state=2347568", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 31.000101744100277, 
         "ne:Shape_Area": 13.553479777, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18220330", 
         "alias_POR_Q": [
           "Fl\u00f3rida"
         ], 
@@ -9501,7 +9506,7 @@
         "alias_CHI_Q": [
           "\u4f5b\u7f57\u91cc\u8fbe"
         ], 
-        "ne:OBJECTID": 3542, 
+        "ne:DataRank": 8, 
         "alias_JPN_Q": [
           "\u30d5\u30ed\u30ea\u30c0"
         ], 
@@ -9509,6 +9514,10 @@
         "ne:Abbrev": "Fla.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -87.6269226499603, 
+        "adjacent": [
+          "woe:state=2347559", 
+          "woe:state=2347569"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 27.976, 
         "ne:FIPS_1": "US12", 
@@ -9516,33 +9525,32 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 24.54263104108975, 
-        "ne:VertexCou": 2282.0, 
-        "ne:VALIDFR_1": "18220330", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3542, 
         "ne:Postal": "FL", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "FL|Fla.", 
         "ne:ISO": "USA", 
-        "ne:TYPE_1": "State", 
+        "ne:Region_C_3": "South Atlantic", 
         "ne:Region_C_2": "South", 
         "ne:Shape_Leng": 53.7796215337, 
         "ne:CheckMe": 0, 
         "ne:NAME_0": "United States of America", 
         "ne:NAME_1": "Florida", 
         "ne:Region_C_1": "South Atlantic", 
-        "ne:Region_C_3": "South Atlantic", 
+        "ne:TYPE_1": "State", 
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 146797.9, 
         "woe:id": "2347568", 
-        "ne:HASC_1": "US.FL", 
-        "lang": "ENG", 
+        "name": "Florida", 
+        "ne:VertexCou": 2282.0, 
         "adjacent_woeid": [
           2347559, 
           2347569
         ], 
-        "name": "Florida", 
+        "ne:HASC_1": "US.FL", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -80.03226932986564, 
         "longitude": -81.541, 
         "iso": "US", 

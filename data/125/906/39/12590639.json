@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              20.200, 
+              20.2, 
               60.051
             ], 
             [
-              20.200, 
+              20.2, 
               60.169
             ], 
             [
@@ -23,7 +23,7 @@
               60.051
             ], 
             [
-              20.200, 
+              20.2, 
               60.051
             ]
           ]
@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "SWE", 
-        "woeid": 12590639, 
-        "name": "Lumparland", 
         "adjacent_woeid": [
           12590638
         ], 
-        "ne_latitude": 60.169, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Lumparland", 
+        "hierarchy": [
+          "woe:state=12590639", 
+          "woe:country=12577865", 
+          "woe:planet=1"
+        ], 
+        "woeid": 12590639, 
         "ne_longitude": 20.325, 
         "longitude": 20.251, 
-        "placetype": "State", 
-        "iso": "AX", 
-        "date_indexed": "2010-12-02T17:06:00Z", 
-        "parent_woeid": 12577865, 
+        "placetype": "state", 
         "latitude": 60.117, 
-        "sw_longitude": 20.200, 
+        "iso": "AX", 
+        "sw_latitude": 60.051, 
+        "adjacent": [
+          "woe:state=12590638"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 60.169, 
+        "sw_longitude": 20.2, 
         "fullname": "Lumparland, Aland Islands", 
-        "sw_latitude": 60.051
+        "date_indexed": "2010-12-02T17:06:00Z"
       }, 
       "id": 12590639
     }
+  ], 
+  "bbox": [
+    20.2, 
+    60.051, 
+    20.325, 
+    60.169
   ]
 }

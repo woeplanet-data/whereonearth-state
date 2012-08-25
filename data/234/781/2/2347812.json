@@ -1792,9 +1792,14 @@
           "Mashonaland Central Province"
         ], 
         "ne:ScaleRank": 5, 
+        "hierarchy": [
+          "woe:state=2347812", 
+          "woe:country=23425004", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -15.635841160141354, 
         "ne:Shape_Area": 2.34802281302, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 9, 
         "ne:gadm_level": 1.0, 
@@ -1803,6 +1808,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 30.04481245263264, 
+        "adjacent": [
+          "woe:state=24550731", 
+          "woe:state=2347809", 
+          "woe:state=2347813", 
+          "woe:state=2347814", 
+          "woe:state=2346318"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -16.67, 
         "ne:FIPS_1": "ZI03", 
@@ -1839,7 +1851,6 @@
         ], 
         "name": "Mashonaland Central", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23425004, 
         "ne_longitude": 32.73963504392219, 
         "longitude": 31.404, 
         "iso": "ZW", 

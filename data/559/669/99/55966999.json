@@ -8,7 +8,7 @@
           [
             [
               -8.599, 
-              5.630
+              5.63
             ], 
             [
               -8.599, 
@@ -20,11 +20,11 @@
             ], 
             [
               -6.972, 
-              5.630
+              5.63
             ], 
             [
               -8.599, 
-              5.630
+              5.63
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 55966999, 
-        "name": "Moyen-Cavally", 
         "adjacent_woeid": [
           2346100, 
           2346103, 
@@ -41,20 +39,39 @@
           55966996, 
           55967008
         ], 
-        "ne_latitude": 6.967, 
+        "name": "Moyen-Cavally", 
+        "hierarchy": [
+          "woe:state=55966999", 
+          "woe:country=23424854", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55966999, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -6.972, 
         "longitude": -7.786, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "CI", 
         "date_indexed": "2010-12-02T09:35:13Z", 
-        "parent_woeid": 23424854, 
+        "adjacent": [
+          "woe:state=55967008", 
+          "woe:state=55966994", 
+          "woe:state=2346100", 
+          "woe:state=55966996", 
+          "woe:state=2346103"
+        ], 
+        "ne_latitude": 6.967, 
         "latitude": 6.299, 
         "sw_longitude": -8.599, 
         "fullname": "Moyen-Cavally, Ivory Coast", 
-        "sw_latitude": 5.630
+        "sw_latitude": 5.63
       }, 
       "id": 55966999
     }
+  ], 
+  "bbox": [
+    -8.599, 
+    5.63, 
+    -6.972, 
+    6.967
   ]
 }

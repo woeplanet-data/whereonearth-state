@@ -160,18 +160,23 @@
         "alias_ENG_P": [
           "Taipei City"
         ], 
+        "hierarchy": [
+          "woe:state=20070333", 
+          "woe:country=23424971", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 25.205851956102947, 
         "ne:Shape_Area": 0.0257722544614, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_KOR_Q": [
           "\ud0c0\uc774\ud398\uc774\uc2dc\ud2f0"
         ], 
         "ne:gadm_level": 2.0, 
         "ne:ADM0_A3": "TWN", 
         "ne:ScaleRank": 9, 
-        "ne:OBJECTID": 1166, 
+        "ne:DataRank": 8, 
         "alias_CHI_V": [
           "\u53f0\u5317"
         ], 
@@ -191,9 +196,12 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "date_indexed": "2010-06-06T08:23:20Z", 
-        "ne:VertexCou": 33.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 8, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 2, 
+        "adjacent": [
+          "woe:colloquial=20070335"
+        ], 
+        "ne:OBJECTID": 1166, 
         "ne:Postal": "TW", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Taibei", 
@@ -209,14 +217,13 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 288.0, 
         "woe:id": "20070333", 
-        "ne:HASC_1": "TW.TW", 
-        "lang": "CHI", 
+        "name": "\u53f0\u5317\u5e02", 
+        "ne:VertexCou": 33.0, 
         "adjacent_woeid": [
           20070335
         ], 
-        "name": "\u53f0\u5317\u5e02", 
+        "ne:HASC_1": "TW.TW", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424971, 
         "ne_longitude": 121.65524132692576, 
         "longitude": 121.564, 
         "iso": "TW", 

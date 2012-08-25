@@ -12,11 +12,11 @@
             ], 
             [
               144.665, 
-              13.470
+              13.47
             ], 
             [
               144.711, 
-              13.470
+              13.47
             ], 
             [
               144.711, 
@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549716, 
-        "name": "Piti", 
         "adjacent_woeid": [
           24549714, 
           24549715, 
           24549717
         ], 
-        "ne_latitude": 13.470, 
+        "name": "Piti", 
+        "hierarchy": [
+          "woe:state=24549716", 
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549716, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.711, 
         "longitude": 144.688, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "parent_woeid": 23424832, 
+        "adjacent": [
+          "woe:state=24549717", 
+          "woe:state=24549714", 
+          "woe:state=24549715"
+        ], 
+        "ne_latitude": 13.47, 
         "latitude": 13.438, 
         "sw_longitude": 144.665, 
         "fullname": "Piti, Guam", 
@@ -54,5 +63,11 @@
       }, 
       "id": 24549716
     }
+  ], 
+  "bbox": [
+    144.665, 
+    13.407, 
+    144.711, 
+    13.47
   ]
 }

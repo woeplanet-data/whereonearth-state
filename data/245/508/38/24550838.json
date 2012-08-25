@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              22.620, 
+              22.62, 
               41.807
             ], 
             [
-              22.620, 
+              22.62, 
               42.102
             ], 
             [
@@ -23,7 +23,7 @@
               41.807
             ], 
             [
-              22.620, 
+              22.62, 
               41.807
             ]
           ]
@@ -32,9 +32,11 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550838, 
-        "alias_UNK_V": [
-          "Opstina Del\u010devo"
+        "adjacent_woeid": [
+          24550817, 
+          24550826, 
+          24550851, 
+          24550854
         ], 
         "name": "Del\u010devo", 
         "alias_ENG_P": [
@@ -43,26 +45,40 @@
         "alias_UNK_S": [
           "Opstina Delcevo"
         ], 
-        "ne_latitude": 42.102, 
-        "ne_longitude": 22.905, 
+        "woeid": 24550838, 
+        "alias_UNK_V": [
+          "Opstina Del\u010devo"
+        ], 
         "longitude": 22.762, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          24550817, 
-          24550826, 
-          24550851, 
-          24550854
+        "ne_longitude": 22.905, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=24550838", 
+          "woe:country=23424890", 
+          "woe:planet=1"
         ], 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.807, 
+        "adjacent": [
+          "woe:state=24550826", 
+          "woe:state=24550851", 
+          "woe:state=24550854", 
+          "woe:state=24550817"
+        ], 
         "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.102, 
+        "sw_longitude": 22.62, 
         "latitude": 41.954, 
-        "sw_longitude": 22.620, 
         "fullname": "Del\u010devo, Delcevo Municipality, Macedonia", 
-        "sw_latitude": 41.807
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550838
     }
+  ], 
+  "bbox": [
+    22.62, 
+    41.807, 
+    22.905, 
+    42.102
   ]
 }

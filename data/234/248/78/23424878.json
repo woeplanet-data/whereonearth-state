@@ -8,23 +8,23 @@
           [
             [
               -162.461, 
-              5.860
+              5.86
             ], 
             [
               -162.461, 
-              5.890
+              5.89
             ], 
             [
               -162.412, 
-              5.890
+              5.89
             ], 
             [
               -162.412, 
-              5.860
+              5.86
             ], 
             [
               -162.461, 
-              5.860
+              5.86
             ]
           ]
         ]
@@ -32,20 +32,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 23424878, 
-        "name": "Palmyra Atoll", 
         "alias_SPA_Q": [
           "Isla Palmyra"
         ], 
-        "ne_latitude": 5.890, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Palmyra Atoll", 
+        "hierarchy": [
+          "woe:state=23424878", 
+          "woe:country=28289407", 
+          "woe:planet=1"
+        ], 
+        "woeid": 23424878, 
         "ne_longitude": -162.412, 
         "longitude": -162.436, 
-        "placetype": "State", 
-        "iso": "UM", 
-        "date_indexed": "2010-12-02T16:52:36Z", 
-        "parent_woeid": 28289407, 
+        "placetype": "state", 
         "latitude": 5.875, 
+        "iso": "UM", 
+        "sw_latitude": 5.86, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 5.89, 
         "sw_longitude": -162.461, 
         "fullname": "Palmyra Atoll, United States Minor Outlying Islands", 
         "alias_GER_Q": [
@@ -54,12 +58,18 @@
         "alias_FRE_S": [
           "Ile Palmyra"
         ], 
-        "sw_latitude": 5.860, 
+        "date_indexed": "2010-12-02T16:52:36Z", 
         "alias_FRE_Q": [
           "\u00cele Palmyra"
         ]
       }, 
       "id": 23424878
     }
+  ], 
+  "bbox": [
+    -162.461, 
+    5.86, 
+    -162.412, 
+    5.89
   ]
 }

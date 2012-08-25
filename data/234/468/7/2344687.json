@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": -31.968, 
-        "name": "Mendoza", 
         "adjacent_woeid": [
           2344685, 
           2344689, 
@@ -45,26 +43,49 @@
           2345028, 
           2345029
         ], 
+        "alias_ENG_A": [
+          "MZA"
+        ], 
+        "name": "Mendoza", 
+        "hierarchy": [
+          "woe:state=2344687", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
         "woeid": 2344687, 
         "alias_SPA_V": [
           "Provincia de Mendoza"
         ], 
         "ne_longitude": -66.502, 
         "longitude": -68.541, 
-        "parent_woeid": 23424747, 
-        "placetype": "State", 
-        "iso": "AR", 
-        "date_indexed": "2010-12-02T17:40:36Z", 
-        "alias_ENG_A": [
-          "MZA"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": -34.773, 
         "sw_longitude": -70.579, 
+        "sw_latitude": -37.578, 
+        "adjacent": [
+          "woe:state=2344685", 
+          "woe:state=2345025", 
+          "woe:state=2345028", 
+          "woe:state=2344689", 
+          "woe:state=2344690", 
+          "woe:state=2344692", 
+          "woe:state=2344693", 
+          "woe:state=2345029", 
+          "woe:state=2345018"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -31.968, 
+        "iso": "AR", 
         "fullname": "Mendoza, Argentina", 
-        "sw_latitude": -37.578
+        "date_indexed": "2010-12-02T17:40:36Z"
       }, 
       "id": 2344687
     }
+  ], 
+  "bbox": [
+    -70.579, 
+    -37.578, 
+    -66.502, 
+    -31.968
   ]
 }

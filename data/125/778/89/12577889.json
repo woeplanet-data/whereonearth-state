@@ -1587,14 +1587,19 @@
         "alias_POL_Q": [
           "Tesalia"
         ], 
+        "hierarchy": [
+          "woe:state=12577889", 
+          "woe:country=23424833", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 40.173620509978605, 
         "alias_RUM_Q": [
           "Tesalia"
         ], 
         "ne:Shape_Area": 1.48022537979, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1987", 
         "alias_POR_Q": [
           "Tess\u00e1lia"
         ], 
@@ -1605,33 +1610,38 @@
           "Tessalia"
         ], 
         "ne:gadm_level": 1.0, 
-        "alias_ARA_Q": [
-          "\u062b\u064a\u0633\u0627\u0644\u064a\u0627"
-        ], 
+        "ne:ADM0_A3": "GRC", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u8272\u8428\u5229"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Tesalia"
+        ], 
         "alias_ITA_Q": [
           "Tessaglia"
         ], 
-        "ne:OBJECTID": 2900, 
-        "alias_CZE_Q": [
-          "Thes\u00e1lie"
+        "ne:DataRank": 6, 
+        "alias_ARA_Q": [
+          "\u062b\u064a\u0633\u0627\u0644\u064a\u0627"
         ], 
         "alias_JPN_Q": [
           "\u30c6\u30c3\u30b5\u30ea\u30a2"
         ], 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Tesalia"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Thessalia"
         ], 
         "sw_longitude": 21.110370721231845, 
+        "adjacent": [
+          "woe:state=12577888", 
+          "woe:state=12577884", 
+          "woe:state=12577883", 
+          "woe:state=12577880", 
+          "woe:state=12577881"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.583, 
         "ne:FIPS_1": "GR21", 
@@ -1641,14 +1651,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "ne:VertexCou": 382.0, 
-        "ne:VALIDFR_1": "1987", 
-        "ne:DataRank": 6, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 2900, 
         "ne:Postal": "TS", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Thessaly", 
         "ne:ISO": "GRC", 
-        "ne:TYPE_1": "Diamerismata", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 9.62578639745, 
         "alias_DUT_Q": [
@@ -1657,16 +1667,18 @@
         "ne:NAME_0": "Greece", 
         "ne:NAME_1": "Thessalia", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Diamerismata", 
+        "alias_CZE_Q": [
+          "Thes\u00e1lie"
+        ], 
         "ne:LabelRank": 6, 
-        "ne:ADM0_A3": "GRC", 
         "ne:Area_sqkm": 14132.5, 
         "alias_GER_Q": [
           "Thessalien"
         ], 
         "woe:id": "12577889", 
-        "ne:HASC_1": "GR.TS", 
-        "lang": "ENG", 
+        "name": "Thessaly", 
+        "ne:VertexCou": 382.0, 
         "adjacent_woeid": [
           12577880, 
           12577881, 
@@ -1675,7 +1687,7 @@
           12577888
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Thessaly", 
+        "ne:HASC_1": "GR.TS", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "alias_UNK_S": [
@@ -1692,7 +1704,6 @@
         ], 
         "ne_longitude": 24.094788038936883, 
         "longitude": 22.236, 
-        "parent_woeid": 23424833, 
         "iso": "GR", 
         "sw_latitude": 38.95702810336434, 
         "ne:NL_NAME_1": "Tessa??a", 

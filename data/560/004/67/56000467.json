@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 56000467, 
-        "name": "Panjshir", 
         "adjacent_woeid": [
           2344549, 
           2344551, 
@@ -43,14 +41,29 @@
           2344571, 
           24549937
         ], 
-        "ne_latitude": 35.905, 
+        "name": "Panjshir", 
+        "hierarchy": [
+          "woe:state=56000467", 
+          "woe:country=23424739", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56000467, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 70.349, 
         "longitude": 69.317, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AF", 
         "date_indexed": "2010-12-02T18:03:37Z", 
-        "parent_woeid": 23424739, 
+        "adjacent": [
+          "woe:state=2344549", 
+          "woe:state=2344551", 
+          "woe:state=2344560", 
+          "woe:state=2344562", 
+          "woe:state=24549937", 
+          "woe:state=2344568", 
+          "woe:state=2344571"
+        ], 
+        "ne_latitude": 35.905, 
         "latitude": 35.248, 
         "sw_longitude": 69.023, 
         "fullname": "Panjshir, Afghanistan", 
@@ -58,5 +71,11 @@
       }, 
       "id": 56000467
     }
+  ], 
+  "bbox": [
+    69.023, 
+    35.042, 
+    70.349, 
+    35.905
   ]
 }

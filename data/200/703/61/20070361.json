@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070361, 
-        "alias_ENG_S": [
-          "Trianetris Raioni"
-        ], 
-        "name": "T\u00b4ianet\u00b4is Raioni", 
         "adjacent_woeid": [
           20070359, 
           20070360, 
@@ -44,20 +39,42 @@
           20070374, 
           20070408
         ], 
+        "alias_ENG_S": [
+          "Trianetris Raioni"
+        ], 
+        "name": "T\u00b4ianet\u00b4is Raioni", 
         "ne_latitude": 42.388, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=20070361", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070361, 
         "ne_longitude": 45.229, 
         "longitude": 45.019, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "sw_latitude": 41.918, 
+        "adjacent": [
+          "woe:state=20070374", 
+          "woe:state=20070363", 
+          "woe:state=20070408", 
+          "woe:state=20070360", 
+          "woe:state=20070359"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 42.153, 
         "sw_longitude": 44.809, 
         "fullname": "T\u00b4ianet\u00b4is Raioni, Georgia", 
-        "sw_latitude": 41.918
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070361
     }
+  ], 
+  "bbox": [
+    44.809, 
+    41.918, 
+    45.229, 
+    42.388
   ]
 }

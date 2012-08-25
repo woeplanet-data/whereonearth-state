@@ -2234,11 +2234,16 @@
         "alias_KOR_Q": [
           "\uc7a0\ubb34 \uce74\uc288\ubbf8\ub974"
         ], 
+        "hierarchy": [
+          "woe:state=2345746", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.494345404916544, 
         "ne:Shape_Area": 10.3179581635, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "JK"
         ], 
@@ -2248,13 +2253,23 @@
         "alias_CHI_Q": [
           "\u67e5\u8c1f-\u514b\u4ec0\u7c73\u5c14\u90a6"
         ], 
-        "ne:OBJECTID": 2431, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30b8\u30e3\u30e0\u30fb\u30ab\u30b7\u30df\u30fc\u30eb"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 73.77444298705427, 
+        "adjacent": [
+          "woe:state=2346500", 
+          "woe:state=2345745", 
+          "woe:state=2346497", 
+          "woe:state=2346501", 
+          "woe:state=2346498", 
+          "woe:state=2345756", 
+          "woe:state=12578003", 
+          "woe:state=12578004"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 34.68, 
         "ne:FIPS_1": "IN12", 
@@ -2264,9 +2279,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 32.300586860095564, 
-        "ne:VertexCou": 518.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 2431, 
         "ne:Postal": "JK", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": null, 
@@ -2282,8 +2297,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 106016.1, 
         "woe:id": "2345746", 
-        "ne:HASC_1": "IN.JK", 
-        "lang": "ENG", 
+        "name": "Jammu and Kashmir", 
+        "ne:VertexCou": 518.0, 
         "adjacent_woeid": [
           2345745, 
           2345756, 
@@ -2295,9 +2310,8 @@
           12578004
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Jammu and Kashmir", 
+        "ne:HASC_1": "IN.JK", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 79.50463585805846, 
         "longitude": 76.424, 
         "iso": "IN", 

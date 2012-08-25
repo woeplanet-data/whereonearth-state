@@ -8,7 +8,7 @@
           [
             [
               168.996, 
-              9.800
+              9.8
             ], 
             [
               168.996, 
@@ -20,11 +20,11 @@
             ], 
             [
               169.321, 
-              9.800
+              9.8
             ], 
             [
               168.996, 
-              9.800
+              9.8
             ]
           ]
         ]
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549849, 
         "name": "Likiep", 
-        "ne_latitude": 10.049, 
+        "hierarchy": [
+          "woe:state=24549849", 
+          "woe:country=23424932", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549849, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 169.321, 
         "longitude": 169.308, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MH", 
         "date_indexed": "2010-12-02T09:35:31Z", 
-        "parent_woeid": 23424932, 
+        "ne_latitude": 10.049, 
         "latitude": 9.823, 
         "sw_longitude": 168.996, 
         "fullname": "Likiep, Marshall Islands", 
-        "sw_latitude": 9.800
+        "sw_latitude": 9.8
       }, 
       "id": 24549849
     }
+  ], 
+  "bbox": [
+    168.996, 
+    9.8, 
+    169.321, 
+    10.049
   ]
 }

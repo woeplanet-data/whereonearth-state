@@ -1291,20 +1291,34 @@
           "Contae na Mi"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2345265", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 53.91650259042228, 
         "ne:Shape_Area": 0.318495069294, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "MEA"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:OBJECTID": 715, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -7.33853878403761, 
+        "adjacent": [
+          "woe:state=2345250", 
+          "woe:state=2345254", 
+          "woe:state=2345257", 
+          "woe:state=2345263", 
+          "woe:state=2345266", 
+          "woe:state=2345267", 
+          "woe:state=2345272"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 53.647, 
         "ne:FIPS_1": "EI21", 
@@ -1312,9 +1326,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 53.37565705053254, 
-        "ne:VertexCou": 315.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 715, 
         "ne:Postal": "MH", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "An Mh\u00ed", 
@@ -1330,8 +1344,8 @@
         "ne:LabelRank": 8, 
         "ne:Area_sqkm": 2344.9, 
         "woe:id": "2345265", 
-        "ne:HASC_1": "IE.MH", 
-        "lang": "ENG", 
+        "name": "Meath", 
+        "ne:VertexCou": 315.0, 
         "adjacent_woeid": [
           2345250, 
           2345254, 
@@ -1341,12 +1355,11 @@
           2345267, 
           2345272
         ], 
-        "name": "Meath", 
+        "ne:HASC_1": "IE.MH", 
         "ne:REMARKS_1": null, 
         "alias_UNK_S": [
           "Contae na Mi"
         ], 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "An Mh\u00ed"
         ], 

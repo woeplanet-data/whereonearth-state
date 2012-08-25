@@ -1718,11 +1718,16 @@
         "alias_KOR_Q": [
           "\uc544\ub9ac\uc870\ub098"
         ], 
+        "hierarchy": [
+          "woe:state=2347561", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 37.00312908753739, 
         "ne:Shape_Area": 28.9019699064, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18670118", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "AZ"
         ], 
@@ -1732,13 +1737,20 @@
         "alias_CHI_Q": [
           "\u4e9a\u5229\u6851\u90a3"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3520, 
         "alias_JPN_Q": [
           "\u30a2\u30ea\u30be\u30ca"
         ], 
         "ne:Abbrev": "Ariz.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -114.82286991591383, 
+        "adjacent": [
+          "woe:state=2347563", 
+          "woe:state=2347564", 
+          "woe:state=2347587", 
+          "woe:state=2347590", 
+          "woe:state=2347603"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 34.168, 
         "ne:FIPS_1": "US04", 
@@ -1746,9 +1758,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 31.327518736200773, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3520, 
+        "ne:VertexCou": 419.0, 
+        "ne:VALIDFR_1": "18670118", 
+        "ne:DataRank": 1, 
         "ne:Postal": "AZ", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "AZ|Ariz.", 
@@ -1764,8 +1776,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 295063.1, 
         "woe:id": "2347561", 
-        "name": "Arizona", 
-        "ne:VertexCou": 419.0, 
+        "ne:HASC_1": "US.AZ", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347563, 
           2347564, 
@@ -1773,9 +1785,8 @@
           2347590, 
           2347603
         ], 
-        "ne:HASC_1": "US.AZ", 
+        "name": "Arizona", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -109.04662479899525, 
         "longitude": -111.931, 
         "iso": "US", 

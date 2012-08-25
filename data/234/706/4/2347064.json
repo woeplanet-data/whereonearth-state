@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Vasterbottens Lan"
         ], 
+        "hierarchy": [
+          "woe:state=2347064", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 66.345, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "V\u00e4sterbotten"
         ], 
@@ -65,6 +70,13 @@
           "Vaesterbotten"
         ], 
         "sw_longitude": 14.326, 
+        "adjacent": [
+          "woe:state=2347050", 
+          "woe:state=2346393", 
+          "woe:state=2346392", 
+          "woe:state=2347057", 
+          "woe:state=2347065"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 64.876, 
         "alias_NOR_S": [
@@ -101,7 +113,6 @@
           2347065
         ], 
         "name": "V\u00e4sterbottens L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 21.615, 
         "longitude": 17.971, 
         "iso": "SE", 
@@ -116,5 +127,11 @@
       }, 
       "id": 2347064
     }
+  ], 
+  "bbox": [
+    14.326, 
+    63.407, 
+    21.615, 
+    66.345
   ]
 }

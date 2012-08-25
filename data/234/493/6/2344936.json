@@ -8,7 +8,7 @@
           [
             [
               106.281, 
-              12.060
+              12.06
             ], 
             [
               106.281, 
@@ -20,11 +20,11 @@
             ], 
             [
               107.602, 
-              12.060
+              12.06
             ], 
             [
               106.281, 
-              12.060
+              12.06
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344936, 
-        "name": "Mondol Kiri", 
         "adjacent_woeid": [
           2344935, 
           2344940, 
@@ -43,20 +41,41 @@
           20070086, 
           28301719
         ], 
-        "ne_latitude": 13.359, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mondol Kiri", 
+        "hierarchy": [
+          "woe:state=2344936", 
+          "woe:country=23424776", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344936, 
         "ne_longitude": 107.602, 
         "longitude": 106.942, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 12.71, 
         "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
-        "parent_woeid": 23424776, 
-        "latitude": 12.710, 
+        "sw_latitude": 12.06, 
+        "adjacent": [
+          "woe:state=20070086", 
+          "woe:state=28301719", 
+          "woe:state=2347720", 
+          "woe:state=2347733", 
+          "woe:state=2344935", 
+          "woe:state=2344940", 
+          "woe:state=2344942"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.359, 
         "sw_longitude": 106.281, 
         "fullname": "Mondol Kiri, Cambodia", 
-        "sw_latitude": 12.060
+        "date_indexed": "2010-12-02T16:11:17Z"
       }, 
       "id": 2344936
     }
+  ], 
+  "bbox": [
+    106.281, 
+    12.06, 
+    107.602, 
+    13.359
   ]
 }

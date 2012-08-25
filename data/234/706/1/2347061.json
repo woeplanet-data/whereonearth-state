@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Sodermanlands"
         ], 
+        "hierarchy": [
+          "woe:state=2347061", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 59.531, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "S\u00f6dermanland"
         ], 
@@ -65,8 +70,15 @@
           "Soedermanland"
         ], 
         "sw_longitude": 15.617, 
+        "adjacent": [
+          "woe:state=2347067", 
+          "woe:state=2347062", 
+          "woe:state=2347066", 
+          "woe:state=2347058", 
+          "woe:state=2347059"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 59.070, 
+        "latitude": 59.07, 
         "alias_NOR_S": [
           "Soedermanland"
         ], 
@@ -101,7 +113,6 @@
           2347067
         ], 
         "name": "S\u00f6dermanlands L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 17.708, 
         "longitude": 16.623, 
         "iso": "SE", 
@@ -116,5 +127,11 @@
       }, 
       "id": 2347061
     }
+  ], 
+  "bbox": [
+    15.617, 
+    58.607, 
+    17.708, 
+    59.531
   ]
 }

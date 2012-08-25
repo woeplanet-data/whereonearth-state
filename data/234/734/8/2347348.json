@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347348, 
-        "name": "Chardzhou", 
         "adjacent_woeid": [
           2344554, 
           2344576, 
@@ -46,20 +44,44 @@
           2347665, 
           2347668
         ], 
-        "ne_latitude": 41.292, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chardzhou", 
+        "hierarchy": [
+          "woe:state=2347348", 
+          "woe:country=23424972", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347348, 
         "ne_longitude": 66.684, 
         "longitude": 63.446, 
-        "placetype": "State", 
-        "iso": "TM", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
-        "parent_woeid": 23424972, 
+        "placetype": "state", 
         "latitude": 39.113, 
+        "iso": "TM", 
+        "sw_latitude": 36.935, 
+        "adjacent": [
+          "woe:state=2347347", 
+          "woe:state=2347660", 
+          "woe:state=2344554", 
+          "woe:state=2344576", 
+          "woe:state=2347665", 
+          "woe:state=2347350", 
+          "woe:state=2347664", 
+          "woe:state=2347663", 
+          "woe:state=2347668", 
+          "woe:state=2347351"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.292, 
         "sw_longitude": 60.209, 
         "fullname": "Chardzhou, Turkmenistan", 
-        "sw_latitude": 36.935
+        "date_indexed": "2010-12-02T18:19:07Z"
       }, 
       "id": 2347348
     }
+  ], 
+  "bbox": [
+    60.209, 
+    36.935, 
+    66.684, 
+    41.292
   ]
 }

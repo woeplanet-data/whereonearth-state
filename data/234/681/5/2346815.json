@@ -31,8 +31,13 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "hierarchy": [
+          "woe:state=2346815", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 18.472, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_V": [
           "\uc0b0\ud6c4\uc548 Municipios"
         ], 
@@ -53,6 +58,13 @@
           "\u30b5\u30f3\u30d5\u30a1\u30f3 Municipios"
         ], 
         "sw_longitude": -66.125, 
+        "adjacent": [
+          "woe:state=2346858", 
+          "woe:state=2346855", 
+          "woe:state=2346854", 
+          "woe:state=2346814", 
+          "woe:state=2346853"
+        ], 
         "alias_SPA_V": [
           "Sanjuan Municipios"
         ], 
@@ -68,14 +80,19 @@
           2346858
         ], 
         "name": "San Juan", 
-        "parent_woeid": 23424935, 
         "ne_longitude": -65.992, 
-        "longitude": -66.050, 
+        "longitude": -66.05, 
         "iso": "PR", 
         "sw_latitude": 18.297, 
         "fullname": "San Juan, Puerto Rico"
       }, 
       "id": 2346815
     }
+  ], 
+  "bbox": [
+    -66.125, 
+    18.297, 
+    -65.992, 
+    18.472
   ]
 }

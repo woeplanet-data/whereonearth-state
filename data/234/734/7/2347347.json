@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347347, 
-        "name": "Ashkhabad", 
         "adjacent_woeid": [
           2347348, 
           2347349, 
@@ -42,20 +40,40 @@
           56189823, 
           56189824
         ], 
-        "ne_latitude": 40.522, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ashkhabad", 
+        "hierarchy": [
+          "woe:state=2347347", 
+          "woe:country=23424972", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347347, 
         "ne_longitude": 61.496, 
         "longitude": 59.199, 
-        "placetype": "State", 
-        "iso": "TM", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
-        "parent_woeid": 23424972, 
+        "placetype": "state", 
         "latitude": 38.062, 
+        "iso": "TM", 
+        "sw_latitude": 35.601, 
+        "adjacent": [
+          "woe:state=2347348", 
+          "woe:state=2347349", 
+          "woe:state=2347350", 
+          "woe:state=56189823", 
+          "woe:state=56189824", 
+          "woe:state=2347351"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.522, 
         "sw_longitude": 56.901, 
         "fullname": "Ashkhabad, Turkmenistan", 
-        "sw_latitude": 35.601
+        "date_indexed": "2010-12-02T18:19:07Z"
       }, 
       "id": 2347347
     }
+  ], 
+  "bbox": [
+    56.901, 
+    35.601, 
+    61.496, 
+    40.522
   ]
 }

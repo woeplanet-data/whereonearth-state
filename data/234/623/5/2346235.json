@@ -15,11 +15,11 @@
               -19.816
             ], 
             [
-              57.800, 
+              57.8, 
               -19.816
             ], 
             [
-              57.800, 
+              57.8, 
               -20.152
             ], 
             [
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346235, 
-        "name": "Riviere du Rempart", 
         "adjacent_woeid": [
           2346229, 
           2346232
         ], 
-        "ne_latitude": -19.816, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 57.800, 
+        "name": "Riviere du Rempart", 
+        "hierarchy": [
+          "woe:state=2346235", 
+          "woe:country=23424894", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346235, 
+        "ne_longitude": 57.8, 
         "longitude": 57.649, 
-        "placetype": "State", 
-        "iso": "MU", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424894, 
+        "placetype": "state", 
         "latitude": -20.069, 
+        "iso": "MU", 
+        "sw_latitude": -20.152, 
+        "adjacent": [
+          "woe:state=2346229", 
+          "woe:state=2346232"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -19.816, 
         "sw_longitude": 57.567, 
         "fullname": "Riviere du Rempart, Mauritius", 
-        "sw_latitude": -20.152
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 2346235
     }
+  ], 
+  "bbox": [
+    57.567, 
+    -20.152, 
+    57.8, 
+    -19.816
   ]
 }

@@ -32,13 +32,17 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 19.781, 
-        "name": "Valverde", 
         "adjacent_woeid": [
           2345184, 
           2345187, 
           2345193, 
           2345194
+        ], 
+        "name": "Valverde", 
+        "hierarchy": [
+          "woe:state=2345195", 
+          "woe:country=23424800", 
+          "woe:planet=1"
         ], 
         "woeid": 2345195, 
         "alias_SPA_V": [
@@ -46,17 +50,29 @@
         ], 
         "ne_longitude": -70.893, 
         "longitude": -71.046, 
-        "parent_woeid": 23424800, 
-        "placetype": "State", 
-        "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 19.629, 
         "sw_longitude": -71.199, 
+        "sw_latitude": 19.476, 
+        "adjacent": [
+          "woe:state=2345184", 
+          "woe:state=2345187", 
+          "woe:state=2345193", 
+          "woe:state=2345194"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.781, 
+        "iso": "DO", 
         "fullname": "Valverde, Dominican Republic", 
-        "sw_latitude": 19.476
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345195
     }
+  ], 
+  "bbox": [
+    -71.199, 
+    19.476, 
+    -70.893, 
+    19.781
   ]
 }

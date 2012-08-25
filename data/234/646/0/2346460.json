@@ -8,7 +8,7 @@
           [
             [
               -57.711, 
-              -26.650
+              -26.65
             ], 
             [
               -57.711, 
@@ -20,11 +20,11 @@
             ], 
             [
               -56.583, 
-              -26.650
+              -26.65
             ], 
             [
               -57.711, 
-              -26.650
+              -26.65
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346460, 
-        "name": "Paraguar\u00ed", 
         "adjacent_woeid": [
           2346451, 
           2346452, 
@@ -43,23 +41,44 @@
           2346458, 
           2346459
         ], 
-        "ne_latitude": -25.365, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Paraguar\u00ed", 
+        "hierarchy": [
+          "woe:state=2346460", 
+          "woe:country=23424917", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346460, 
         "ne_longitude": -56.583, 
         "longitude": -57.147, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -26.007, 
         "alias_SPA_S": [
           "Paraguari"
         ], 
         "iso": "PY", 
-        "date_indexed": "2010-12-02T12:08:38Z", 
-        "parent_woeid": 23424917, 
-        "latitude": -26.007, 
+        "sw_latitude": -26.65, 
+        "adjacent": [
+          "woe:state=2346451", 
+          "woe:state=2346452", 
+          "woe:state=2346453", 
+          "woe:state=2346455", 
+          "woe:state=2346456", 
+          "woe:state=2346458", 
+          "woe:state=2346459"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -25.365, 
         "sw_longitude": -57.711, 
         "fullname": "Paraguar\u00ed, Paraguay", 
-        "sw_latitude": -26.650
+        "date_indexed": "2010-12-02T12:08:38Z"
       }, 
       "id": 2346460
     }
+  ], 
+  "bbox": [
+    -57.711, 
+    -26.65, 
+    -56.583, 
+    -25.365
   ]
 }

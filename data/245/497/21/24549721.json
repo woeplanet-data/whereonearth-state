@@ -8,7 +8,7 @@
           [
             [
               144.768, 
-              13.480
+              13.48
             ], 
             [
               144.768, 
@@ -20,11 +20,11 @@
             ], 
             [
               144.821, 
-              13.480
+              13.48
             ], 
             [
               144.768, 
-              13.480
+              13.48
             ]
           ]
         ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549721, 
-        "name": "Tamuning", 
         "adjacent_woeid": [
           24549720, 
           24549722, 
           24549724
         ], 
-        "ne_latitude": 13.544, 
+        "name": "Tamuning", 
+        "hierarchy": [
+          "woe:state=24549721", 
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549721, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.821, 
-        "longitude": 144.810, 
-        "placetype": "State", 
+        "longitude": 144.81, 
+        "placetype": "state", 
         "iso": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "parent_woeid": 23424832, 
+        "adjacent": [
+          "woe:state=24549722", 
+          "woe:state=24549724", 
+          "woe:state=24549720"
+        ], 
+        "ne_latitude": 13.544, 
         "latitude": 13.512, 
         "sw_longitude": 144.768, 
         "fullname": "Tamuning, Guam", 
-        "sw_latitude": 13.480
+        "sw_latitude": 13.48
       }, 
       "id": 24549721
     }
+  ], 
+  "bbox": [
+    144.768, 
+    13.48, 
+    144.821, 
+    13.544
   ]
 }

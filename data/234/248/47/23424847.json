@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -4.830, 
+              -4.83, 
               54.045
             ], 
             [
-              -4.830, 
+              -4.83, 
               54.419
             ], 
             [
-              -4.310, 
+              -4.31, 
               54.419
             ], 
             [
-              -4.310, 
+              -4.31, 
               54.045
             ], 
             [
-              -4.830, 
+              -4.83, 
               54.045
             ]
           ]
@@ -34,8 +34,13 @@
         "alias_ENG_V": [
           "Isleofman"
         ], 
+        "hierarchy": [
+          "woe:state=23424847", 
+          "woe:country=23424975", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 54.419, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\ub9e8\uc12c"
         ], 
@@ -52,20 +57,19 @@
         "alias_FIN_Q": [
           "Mansaari"
         ], 
-        "sw_longitude": -4.830, 
+        "sw_longitude": -4.83, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 54.237, 
-        "date_indexed": "2010-12-02T12:16:52Z", 
+        "sw_latitude": 54.045, 
         "alias_CZE_Q": [
           "Ostrov Man"
         ], 
         "lang": "ENG", 
         "name": "Isle of Man", 
-        "parent_woeid": 23424975, 
-        "ne_longitude": -4.310, 
+        "ne_longitude": -4.31, 
         "longitude": -4.554, 
         "iso": "GB", 
-        "sw_latitude": 54.045, 
+        "date_indexed": "2010-12-02T12:16:52Z", 
         "fullname": "Isle of Man, United Kingdom", 
         "alias_FRE_S": [
           "Ile de Man"
@@ -76,5 +80,11 @@
       }, 
       "id": 23424847
     }
+  ], 
+  "bbox": [
+    -4.83, 
+    54.045, 
+    -4.31, 
+    54.419
   ]
 }

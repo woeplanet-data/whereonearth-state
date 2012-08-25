@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347553, 
-        "alias_UNK_V": [
-          "Ternopil'shchyna"
-        ], 
-        "name": "Ternopil\u00b4s\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Ternopil Oblast"
-        ], 
-        "ne_latitude": 50.266, 
-        "ne_longitude": 26.444, 
-        "longitude": 25.580, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2347536, 
           2347539, 
@@ -52,15 +39,45 @@
           2347547, 
           2347551
         ], 
+        "ne_latitude": 50.266, 
+        "name": "Ternopil\u00b4s\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Ternopil Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347553", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347553, 
+        "alias_UNK_V": [
+          "Ternopil'shchyna"
+        ], 
+        "longitude": 25.58, 
+        "ne_longitude": 26.444, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 48.507, 
+        "adjacent": [
+          "woe:state=2347536", 
+          "woe:state=2347539", 
+          "woe:state=2347542", 
+          "woe:state=2347547", 
+          "woe:state=2347551"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.387, 
         "sw_longitude": 24.716, 
         "fullname": "Ternopil\u00b4s\u00b4ka Oblast\u00b4, Ternopil Oblast, Ukraine", 
-        "sw_latitude": 48.507
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347553
     }
+  ], 
+  "bbox": [
+    24.716, 
+    48.507, 
+    26.444, 
+    50.266
   ]
 }

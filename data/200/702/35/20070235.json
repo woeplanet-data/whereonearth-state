@@ -8,7 +8,7 @@
           [
             [
               47.547, 
-              40.640
+              40.64
             ], 
             [
               47.547, 
@@ -20,11 +20,11 @@
             ], 
             [
               48.023, 
-              40.640
+              40.64
             ], 
             [
               47.547, 
-              40.640
+              40.64
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070235, 
-        "name": "Qabala", 
         "adjacent_woeid": [
           2346870, 
           20070213, 
@@ -43,20 +41,41 @@
           20070234, 
           20070250
         ], 
-        "ne_latitude": 41.256, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Qabala", 
+        "hierarchy": [
+          "woe:state=20070235", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070235, 
         "ne_longitude": 48.023, 
         "longitude": 47.785, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 40.948, 
+        "iso": "AZ", 
+        "sw_latitude": 40.64, 
+        "adjacent": [
+          "woe:state=20070213", 
+          "woe:state=2346870", 
+          "woe:state=20070226", 
+          "woe:state=20070228", 
+          "woe:state=20070250", 
+          "woe:state=20070232", 
+          "woe:state=20070234"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.256, 
         "sw_longitude": 47.547, 
         "fullname": "Qabala, Azerbaijan", 
-        "sw_latitude": 40.640
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070235
     }
+  ], 
+  "bbox": [
+    47.547, 
+    40.64, 
+    48.023, 
+    41.256
   ]
 }

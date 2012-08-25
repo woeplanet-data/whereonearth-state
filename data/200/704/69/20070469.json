@@ -12,11 +12,11 @@
             ], 
             [
               17.111, 
-              49.540
+              49.54
             ], 
             [
               18.416, 
-              49.540
+              49.54
             ], 
             [
               18.416, 
@@ -32,39 +32,54 @@
       "type": "Feature", 
       "properties": {
         "lang": "CZE", 
-        "woeid": 20070469, 
-        "name": "Zl\u00ednsk\u00fd", 
         "adjacent_woeid": [
           20070470, 
           20070471, 
           20070503
         ], 
-        "ne_latitude": 49.540, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 18.416, 
-        "longitude": 17.763, 
-        "placetype": "State", 
-        "alias_CZE_V": [
-          "Gottwaldov"
+        "name": "Zl\u00ednsk\u00fd", 
+        "hierarchy": [
+          "woe:state=20070469", 
+          "woe:country=23424810", 
+          "woe:planet=1"
         ], 
-        "iso": "CZ", 
-        "date_indexed": "2010-12-02T08:54:50Z", 
-        "parent_woeid": 23424810, 
-        "latitude": 49.197, 
-        "sw_longitude": 17.111, 
-        "fullname": "Zl\u00ednsk\u00fd, Czech Republic", 
+        "ne_latitude": 49.54, 
         "alias_GER_Q": [
           "Zlin"
         ], 
+        "ne_longitude": 18.416, 
+        "longitude": 17.763, 
+        "placetype": "state", 
+        "alias_CZE_V": [
+          "Gottwaldov"
+        ], 
+        "sw_longitude": 17.111, 
+        "sw_latitude": 48.854, 
+        "adjacent": [
+          "woe:state=20070503", 
+          "woe:state=20070471", 
+          "woe:state=20070470"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.197, 
+        "iso": "CZ", 
+        "fullname": "Zl\u00ednsk\u00fd, Czech Republic", 
         "alias_CZE_S": [
           "Zlinsky"
         ], 
-        "sw_latitude": 48.854, 
+        "woeid": 20070469, 
+        "date_indexed": "2010-12-02T08:54:50Z", 
         "alias_FRE_Q": [
           "Zlin"
         ]
       }, 
       "id": 20070469
     }
+  ], 
+  "bbox": [
+    17.111, 
+    48.854, 
+    18.416, 
+    49.54
   ]
 }

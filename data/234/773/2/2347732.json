@@ -12,11 +12,11 @@
             ], 
             [
               105.329, 
-              10.190
+              10.19
             ], 
             [
               105.902, 
-              10.190
+              10.19
             ], 
             [
               105.902, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347732, 
-        "name": "Can Tho", 
         "adjacent_woeid": [
           2347719, 
           2347722, 
@@ -41,17 +39,30 @@
           2347752, 
           28301720
         ], 
-        "ne_latitude": 10.190, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Can Tho", 
         "alias_ENG_V": [
           "Cantho"
         ], 
+        "hierarchy": [
+          "woe:state=2347732", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347732, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.902, 
-        "longitude": 105.530, 
-        "placetype": "State", 
+        "longitude": 105.53, 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347719", 
+          "woe:state=2347722", 
+          "woe:state=28301720", 
+          "woe:state=2347723", 
+          "woe:state=2347752"
+        ], 
+        "ne_latitude": 10.19, 
         "latitude": 10.122, 
         "sw_longitude": 105.329, 
         "fullname": "Can Tho, Vietnam", 
@@ -59,5 +70,11 @@
       }, 
       "id": 2347732
     }
+  ], 
+  "bbox": [
+    105.329, 
+    9.582, 
+    105.902, 
+    10.19
   ]
 }

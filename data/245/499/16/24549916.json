@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              176.310, 
+              176.31, 
               -6.304
             ], 
             [
-              176.310, 
+              176.31, 
               -6.277
             ], 
             [
@@ -23,7 +23,7 @@
               -6.304
             ], 
             [
-              176.310, 
+              176.31, 
               -6.304
             ]
           ]
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549916, 
         "name": "Nanumanga", 
-        "ne_latitude": -6.277, 
+        "hierarchy": [
+          "woe:state=24549916", 
+          "woe:country=23424970", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549916, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 176.326, 
         "longitude": 176.318, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "TV", 
         "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424970, 
-        "latitude": -6.290, 
-        "sw_longitude": 176.310, 
+        "ne_latitude": -6.277, 
+        "latitude": -6.29, 
+        "sw_longitude": 176.31, 
         "fullname": "Nanumanga, Tuvalu", 
         "sw_latitude": -6.304
       }, 
       "id": 24549916
     }
+  ], 
+  "bbox": [
+    176.31, 
+    -6.304, 
+    176.326, 
+    -6.277
   ]
 }

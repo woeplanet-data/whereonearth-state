@@ -873,9 +873,14 @@
       "properties": {
         "ne:ProvNumber": 4, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=55967672", 
+          "woe:country=23424764", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 12.399527696346183, 
         "ne:Shape_Area": 2.21083009777, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -884,6 +889,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 2.015102166431859, 
+        "adjacent": [
+          "woe:state=2344824", 
+          "woe:state=2344826", 
+          "woe:state=2346326", 
+          "woe:state=2346368", 
+          "woe:state=2346359", 
+          "woe:state=2347637", 
+          "woe:state=20069995"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 10.587, 
         "ne:FIPS_1": "BN07", 
@@ -922,7 +936,6 @@
         ], 
         "name": "Alibori", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424764, 
         "ne_longitude": 3.836851433746745, 
         "longitude": 2.908, 
         "iso": "BJ", 

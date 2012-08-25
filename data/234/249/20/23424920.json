@@ -34,8 +34,13 @@
         "alias_ENG_P": [
           "Paracel Islands"
         ], 
+        "hierarchy": [
+          "woe:state=23424920", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 16.984, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uc11c\uc0ac\uad70\ub3c4"
         ], 
@@ -52,17 +57,16 @@
         "sw_longitude": 111.193, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 15.782, 
-        "date_indexed": "2010-12-02T08:51:01Z", 
+        "sw_latitude": 15.775, 
         "alias_GER_Q": [
           "Paracelinseln"
         ], 
         "lang": "CHI", 
         "name": "\u897f\u6c99\u7fa4\u5c9b", 
-        "parent_woeid": 23424781, 
         "ne_longitude": 112.734, 
         "longitude": 111.201, 
         "iso": "CN", 
-        "sw_latitude": 15.775, 
+        "date_indexed": "2010-12-02T08:51:01Z", 
         "alias_FRE_V": [
           "\u00celes Paracel"
         ], 
@@ -73,5 +77,11 @@
       }, 
       "id": 23424920
     }
+  ], 
+  "bbox": [
+    111.193, 
+    15.775, 
+    112.734, 
+    16.984
   ]
 }

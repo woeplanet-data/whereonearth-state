@@ -31,16 +31,21 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_ENG_A": [
-          "CBA"
+        "alias_KOR_Q": [
+          "\ucf54\ub974\ub3c4\ubc14"
         ], 
         "alias_ENG_P": [
           "Cordoba"
         ], 
+        "hierarchy": [
+          "woe:state=2344679", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -29.503, 
-        "placetype": "State", 
-        "alias_KOR_Q": [
-          "\ucf54\ub974\ub3c4\ubc14"
+        "placetype": "state", 
+        "alias_ENG_A": [
+          "CBA"
         ], 
         "alias_CHI_Q": [
           "\u79d1\u5c14\u591a\u74e6"
@@ -53,11 +58,20 @@
           "Provincia de Cordoba"
         ], 
         "sw_longitude": -65.772, 
+        "adjacent": [
+          "woe:state=2344675", 
+          "woe:state=2344676", 
+          "woe:state=2344685", 
+          "woe:state=2344686", 
+          "woe:state=2344693", 
+          "woe:state=2344695", 
+          "woe:state=2344696"
+        ], 
         "alias_SPA_V": [
           "Provincia de C\u00f3rdoba"
         ], 
         "latitude": -32.251, 
-        "date_indexed": "2010-12-02T17:40:36Z", 
+        "sw_latitude": -34.999, 
         "provider": "geoplanet 7.6.0", 
         "lang": "SPA", 
         "adjacent_woeid": [
@@ -70,14 +84,19 @@
           2344696
         ], 
         "name": "C\u00f3rdoba", 
-        "parent_woeid": 23424747, 
         "ne_longitude": -61.778, 
         "longitude": -63.775, 
         "iso": "AR", 
-        "sw_latitude": -34.999, 
+        "date_indexed": "2010-12-02T17:40:36Z", 
         "fullname": "C\u00f3rdoba, Cordoba, Argentina"
       }, 
       "id": 2344679
     }
+  ], 
+  "bbox": [
+    -65.772, 
+    -34.999, 
+    -61.778, 
+    -29.503
   ]
 }

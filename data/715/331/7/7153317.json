@@ -34,8 +34,13 @@
         "alias_ENG_P": [
           "Franche-Comte"
         ], 
+        "hierarchy": [
+          "woe:state=7153317", 
+          "woe:country=23424819", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 48.024, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\ud504\ub791\uc26c-\ucf69\ud14c"
         ], 
@@ -47,9 +52,19 @@
           "\u30d5\u30e9\u30f3\u30b7\u30e5\u30fb\u30b3\u30f3\u30c6\u5730\u57df\u570f"
         ], 
         "sw_longitude": 5.251, 
+        "adjacent": [
+          "woe:state=7153330", 
+          "woe:state=7153312", 
+          "woe:state=2347108", 
+          "woe:state=2347094", 
+          "woe:state=2347105", 
+          "woe:state=7153315", 
+          "woe:state=7153322", 
+          "woe:state=7153329"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.142, 
-        "date_indexed": "2010-12-02T11:51:35Z", 
+        "sw_latitude": 46.261, 
         "lang": "FRE", 
         "adjacent_woeid": [
           2347094, 
@@ -62,11 +77,10 @@
           7153330
         ], 
         "name": "Franche-Comt\u00e9", 
-        "parent_woeid": 23424819, 
         "ne_longitude": 7.143, 
         "longitude": 6.197, 
         "iso": "FR", 
-        "sw_latitude": 46.261, 
+        "date_indexed": "2010-12-02T11:51:35Z", 
         "alias_FRE_V": [
           "Franchecomte"
         ], 
@@ -77,5 +91,11 @@
       }, 
       "id": 7153317
     }
+  ], 
+  "bbox": [
+    5.251, 
+    46.261, 
+    7.143, 
+    48.024
   ]
 }

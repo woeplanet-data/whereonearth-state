@@ -12,11 +12,11 @@
             ], 
             [
               73.492, 
-              4.170
+              4.17
             ], 
             [
               73.501, 
-              4.170
+              4.17
             ], 
             [
               73.501, 
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070331, 
+        "ne_latitude": 4.17, 
         "name": "Maale", 
-        "ne_latitude": 4.170, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=20070331", 
+          "woe:country=23424899", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070331, 
         "ne_longitude": 73.501, 
         "longitude": 73.497, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MV", 
-        "date_indexed": "2010-12-02T09:35:37Z", 
-        "parent_woeid": 23424899, 
+        "sw_latitude": 4.162, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 4.166, 
         "sw_longitude": 73.492, 
         "fullname": "Maale, Maldives", 
-        "sw_latitude": 4.162
+        "date_indexed": "2010-12-02T09:35:37Z"
       }, 
       "id": 20070331
     }
+  ], 
+  "bbox": [
+    73.492, 
+    4.162, 
+    73.501, 
+    4.17
   ]
 }

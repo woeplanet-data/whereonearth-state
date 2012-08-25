@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              32.090, 
+              32.09, 
               48.722
             ], 
             [
-              32.090, 
+              32.09, 
               50.553
             ], 
             [
@@ -23,7 +23,7 @@
               48.722
             ], 
             [
-              32.090, 
+              32.09, 
               48.722
             ]
           ]
@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347550, 
-        "alias_UNK_V": [
-          "Poltavshchyna"
-        ], 
-        "name": "Poltavs\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Poltava Oblast"
-        ], 
-        "ne_latitude": 50.553, 
-        "ne_longitude": 35.488, 
-        "longitude": 33.789, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2347534, 
           2347535, 
@@ -54,15 +41,47 @@
           2347545, 
           2347552
         ], 
+        "ne_latitude": 50.553, 
+        "name": "Poltavs\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Poltava Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347550", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347550, 
+        "alias_UNK_V": [
+          "Poltavshchyna"
+        ], 
+        "longitude": 33.789, 
+        "ne_longitude": 35.488, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 48.722, 
+        "adjacent": [
+          "woe:state=2347534", 
+          "woe:state=2347535", 
+          "woe:state=2347537", 
+          "woe:state=2347540", 
+          "woe:state=2347543", 
+          "woe:state=2347545", 
+          "woe:state=2347552"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 49.638, 
-        "sw_longitude": 32.090, 
+        "sw_longitude": 32.09, 
         "fullname": "Poltavs\u00b4ka Oblast\u00b4, Poltava Oblast, Ukraine", 
-        "sw_latitude": 48.722
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347550
     }
+  ], 
+  "bbox": [
+    32.09, 
+    48.722, 
+    35.488, 
+    50.553
   ]
 }

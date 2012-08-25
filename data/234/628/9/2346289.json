@@ -32,12 +32,19 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 32.494, 
-        "name": "Sonora", 
         "adjacent_woeid": [
           2346265, 
           2346269, 
           2346288
+        ], 
+        "alias_ENG_A": [
+          "SO"
+        ], 
+        "name": "Sonora", 
+        "hierarchy": [
+          "woe:state=2346289", 
+          "woe:country=23424900", 
+          "woe:planet=1"
         ], 
         "woeid": 2346289, 
         "alias_SPA_V": [
@@ -45,20 +52,28 @@
         ], 
         "ne_longitude": -108.424, 
         "longitude": -111.738, 
-        "parent_woeid": 23424900, 
-        "placetype": "State", 
-        "iso": "MX", 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "alias_ENG_A": [
-          "SO"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 29.395, 
         "sw_longitude": -115.053, 
+        "sw_latitude": 26.297, 
+        "adjacent": [
+          "woe:state=2346265", 
+          "woe:state=2346269", 
+          "woe:state=2346288"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 32.494, 
+        "iso": "MX", 
         "fullname": "Sonora, Mexico", 
-        "sw_latitude": 26.297
+        "date_indexed": "2010-12-02T16:55:36Z"
       }, 
       "id": 2346289
     }
+  ], 
+  "bbox": [
+    -115.053, 
+    26.297, 
+    -108.424, 
+    32.494
   ]
 }

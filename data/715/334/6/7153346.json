@@ -2211,11 +2211,17 @@
         "alias_SWE_Q": [
           "Trentino Sydtyrolen"
         ], 
+        "hierarchy": [
+          "woe:state=7153346", 
+          "woe:country=23424853", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.0856017114499, 
         "ne:Shape_Area": 1.58339812032, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "1895", 
+        "ne:Region_C_3": null, 
         "alias_KOR_Q": [
           "\uc26c\ub4dc\ud2f0\ub864"
         ], 
@@ -2232,7 +2238,7 @@
         "alias_JPN_Q": [
           "\u30c8\u30ec\u30f3\u30c6\u30a3\u30fc\u30ce\u30fb\u30a2\u30eb\u30c8\u30fb\u30a2\u30fc\u30c7\u30a3\u30b8\u30a7\u5dde"
         ], 
-        "ne:sameAsCity": -99, 
+        "sw_latitude": 45.68165639922347, 
         "ne:Abbrev": null, 
         "alias_SPA_Q": [
           "Trentino-Alto Adigio"
@@ -2241,16 +2247,20 @@
           "TT"
         ], 
         "sw_longitude": 10.36880415228984, 
+        "adjacent": [
+          "woe:state=2347091", 
+          "woe:state=7153338", 
+          "woe:state=7153349"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.383, 
-        "iso": "IT", 
         "ne:FIPS_1": "IT17", 
         "ne:FIRST_FIPS": null, 
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Autonomous Region", 
         "date_indexed": "2010-12-02T16:24:07Z", 
-        "ne:VertexCou": 539.0, 
-        "ne:VALIDFR_1": "1895", 
+        "lang": "ITA", 
+        "ne:MAP_COLOR": 7, 
         "ne:DataRank": 3, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
@@ -2265,28 +2275,27 @@
         "ne:NAME_0": "Italy", 
         "ne:NAME_1": "Trentino-Alto Adige", 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:sameAsCity": -99, 
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 13524.7, 
         "woe:id": "7153346", 
         "alias_GER_S": [
           "Sudtirol"
         ], 
-        "ne:HASC_1": null, 
-        "lang": "ITA", 
+        "name": "Trentino-Alto Adige", 
+        "ne:VertexCou": 539.0, 
         "adjacent_woeid": [
           7153349, 
           2347091, 
           7153338
         ], 
-        "name": "Trentino-Alto Adige", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": "ITD", 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424853, 
         "ne_longitude": 12.470277948068883, 
         "longitude": 11.431, 
+        "iso": "IT", 
         "ne:OBJECTID": 1037, 
-        "sw_latitude": 45.68165639922347, 
         "ne:NL_NAME_1": null, 
         "fullname": "Trentino-Alto Adige, Italy", 
         "ne:Region": null, 

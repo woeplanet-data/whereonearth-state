@@ -8,23 +8,23 @@
           [
             [
               -66.655, 
-              18.150
+              18.15
             ], 
             [
               -66.655, 
-              18.300
+              18.3
             ], 
             [
               -66.531, 
-              18.300
+              18.3
             ], 
             [
               -66.531, 
-              18.150
+              18.15
             ], 
             [
               -66.655, 
-              18.150
+              18.15
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.300, 
-        "name": "Jayuya", 
         "adjacent_woeid": [
           2346793, 
           2346803, 
@@ -41,23 +39,42 @@
           2346832, 
           2346833
         ], 
+        "name": "Jayuya", 
+        "hierarchy": [
+          "woe:state=2346796", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346796, 
         "alias_SPA_V": [
           "Jayuya Municipios"
         ], 
         "ne_longitude": -66.531, 
         "longitude": -66.593, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.225, 
         "sw_longitude": -66.655, 
+        "sw_latitude": 18.15, 
+        "adjacent": [
+          "woe:state=2346793", 
+          "woe:state=2346832", 
+          "woe:state=2346803", 
+          "woe:state=2346833", 
+          "woe:state=2346808"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.3, 
+        "iso": "PR", 
         "fullname": "Jayuya, Puerto Rico", 
-        "sw_latitude": 18.150
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346796
     }
+  ], 
+  "bbox": [
+    -66.655, 
+    18.15, 
+    -66.531, 
+    18.3
   ]
 }

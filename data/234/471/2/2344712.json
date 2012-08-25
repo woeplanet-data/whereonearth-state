@@ -31,8 +31,13 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "hierarchy": [
+          "woe:state=2344712", 
+          "woe:country=23424750", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 48.041, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Salzburgo"
         ], 
@@ -53,9 +58,15 @@
           "Salzsburgo"
         ], 
         "sw_longitude": 12.076, 
+        "adjacent": [
+          "woe:state=2344709", 
+          "woe:state=2344711", 
+          "woe:state=2344713", 
+          "woe:state=2344714"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.492, 
-        "date_indexed": "2010-12-02T16:33:25Z", 
+        "sw_latitude": 46.944, 
         "alias_GER_A": [
           "SBG"
         ], 
@@ -67,11 +78,10 @@
           2344714
         ], 
         "name": "Salzburg", 
-        "parent_woeid": 23424750, 
         "ne_longitude": 13.996, 
         "longitude": 13.293, 
         "iso": "AT", 
-        "sw_latitude": 46.944, 
+        "date_indexed": "2010-12-02T16:33:25Z", 
         "fullname": "Salzburg, Austria", 
         "alias_FRE_Q": [
           "Salzbourg"
@@ -79,5 +89,11 @@
       }, 
       "id": 2344712
     }
+  ], 
+  "bbox": [
+    12.076, 
+    46.944, 
+    13.996, 
+    48.041
   ]
 }

@@ -31,39 +31,53 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_CHI_Q": [
+          "\u8499\u5f97\u7ef4\u7684\u4e9a"
+        ], 
         "lang": "SPA", 
-        "woeid": 2347649, 
-        "name": "Montevideo", 
+        "alias_KOR_Q": [
+          "\ubaac\ud14c\ube44\ub370\uc624"
+        ], 
         "adjacent_woeid": [
           2347641, 
           2347655
+        ], 
+        "hierarchy": [
+          "woe:state=2347649", 
+          "woe:country=23424979", 
+          "woe:planet=1"
         ], 
         "ne_latitude": -34.684, 
         "alias_JPN_Q": [
           "\u30e2\u30f3\u30c6\u30d3\u30c7\u30aa"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "sw_latitude": -34.958, 
         "ne_longitude": -55.916, 
         "longitude": -56.228, 
-        "alias_CHI_Q": [
-          "\u8499\u5f97\u7ef4\u7684\u4e9a"
-        ], 
-        "placetype": "State", 
-        "iso": "UY", 
-        "date_indexed": "2010-12-02T17:58:18Z", 
-        "alias_KOR_Q": [
-          "\ubaac\ud14c\ube44\ub370\uc624"
-        ], 
-        "parent_woeid": 23424979, 
-        "latitude": -34.822, 
+        "placetype": "state", 
         "sw_longitude": -56.426, 
-        "fullname": "Montevideo, Uruguay", 
-        "sw_latitude": -34.958, 
         "alias_POR_Q": [
           "Montevid\u00e9u"
-        ]
+        ], 
+        "adjacent": [
+          "woe:state=2347641", 
+          "woe:state=2347655"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -34.822, 
+        "iso": "UY", 
+        "fullname": "Montevideo, Uruguay", 
+        "woeid": 2347649, 
+        "date_indexed": "2010-12-02T17:58:18Z", 
+        "name": "Montevideo"
       }, 
       "id": 2347649
     }
+  ], 
+  "bbox": [
+    -56.426, 
+    -34.958, 
+    -55.916, 
+    -34.684
   ]
 }

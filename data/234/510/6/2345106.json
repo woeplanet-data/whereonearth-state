@@ -8,7 +8,7 @@
           [
             [
               -84.957, 
-              21.760
+              21.76
             ], 
             [
               -84.957, 
@@ -20,11 +20,11 @@
             ], 
             [
               -82.834, 
-              21.760
+              21.76
             ], 
             [
               -84.957, 
-              21.760
+              21.76
             ]
           ]
         ]
@@ -32,28 +32,41 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345106, 
+        "alias_SPA_A": [
+          "PR"
+        ], 
         "name": "Pinar del Rio", 
         "adjacent_woeid": [
           2345115
         ], 
-        "ne_latitude": 23.021, 
-        "alias_SPA_A": [
-          "PR"
+        "hierarchy": [
+          "woe:state=2345106", 
+          "woe:country=23424793", 
+          "woe:planet=1"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 2345106, 
         "ne_longitude": -82.834, 
         "longitude": -83.896, 
-        "placetype": "State", 
+        "ne_latitude": 23.021, 
+        "placetype": "state", 
         "iso": "CU", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424793, 
-        "latitude": 22.390, 
+        "sw_latitude": 21.76, 
+        "adjacent": [
+          "woe:state=2345115"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.39, 
         "sw_longitude": -84.957, 
         "fullname": "Pinar del Rio, Cuba", 
-        "sw_latitude": 21.760
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 2345106
     }
+  ], 
+  "bbox": [
+    -84.957, 
+    21.76, 
+    -82.834, 
+    23.021
   ]
 }

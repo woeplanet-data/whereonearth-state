@@ -4061,23 +4061,37 @@
       "properties": {
         "ne:ProvNumber": 26, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=2344866", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 5.267482408186652, 
         "ne:Shape_Area": 18.2766817493, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "alias_POR_V": [
           "Estado Roraima"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "19621213", 
         "alias_ENG_A": [
           "RR"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BRA", 
-        "ne:OBJECTID": 670, 
+        "ne:DataRank": 1, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -64.81616736503184, 
+        "adjacent": [
+          "woe:state=2344847", 
+          "woe:state=2347677", 
+          "woe:state=2347682", 
+          "woe:state=2345604", 
+          "woe:state=2344857", 
+          "woe:state=2345610", 
+          "woe:state=2345612"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 1.842, 
         "ne:FIPS_1": "BR25", 
@@ -4085,9 +4099,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -1.418311049215504, 
-        "ne:VertexCou": 933.0, 
-        "ne:VALIDFR_1": "19621213", 
-        "ne:DataRank": 1, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 670, 
         "ne:Postal": "RR", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Rio Branco", 
@@ -4103,8 +4117,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 224751.7, 
         "woe:id": "2344866", 
-        "ne:HASC_1": "BR.RR", 
-        "lang": "POR", 
+        "name": "Roraima", 
+        "ne:VertexCou": 933.0, 
         "adjacent_woeid": [
           2344847, 
           2344857, 
@@ -4114,9 +4128,8 @@
           2347677, 
           2347682
         ], 
-        "name": "Roraima", 
+        "ne:HASC_1": "BR.RR", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424768, 
         "ne_longitude": -58.870509609530814, 
         "longitude": -61.767, 
         "iso": "BR", 

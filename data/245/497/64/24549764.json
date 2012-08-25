@@ -12,11 +12,11 @@
             ], 
             [
               45.257, 
-              -12.750
+              -12.75
             ], 
             [
               45.317, 
-              -12.750
+              -12.75
             ], 
             [
               45.317, 
@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549764, 
         "name": "Pamandzi", 
-        "ne_latitude": -12.750, 
+        "hierarchy": [
+          "woe:state=24549764", 
+          "woe:country=23424886", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549764, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.317, 
         "longitude": 45.275, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "YT", 
         "date_indexed": "2010-12-02T16:11:57Z", 
-        "parent_woeid": 23424886, 
+        "ne_latitude": -12.75, 
         "latitude": -12.784, 
         "sw_longitude": 45.257, 
         "fullname": "Pamandzi, Mayotte", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549764
     }
+  ], 
+  "bbox": [
+    45.257, 
+    -12.812, 
+    45.317, 
+    -12.75
   ]
 }

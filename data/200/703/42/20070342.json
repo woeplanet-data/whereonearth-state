@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070342, 
-        "name": "Satupa`itea", 
         "adjacent_woeid": [
           20070336, 
           20070337, 
           20070343, 
           20070344
         ], 
-        "ne_latitude": -13.582, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Satupa`itea", 
+        "hierarchy": [
+          "woe:state=20070342", 
+          "woe:country=23424992", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070342, 
         "ne_longitude": -172.317, 
         "longitude": -172.625, 
-        "placetype": "State", 
-        "iso": "WS", 
-        "date_indexed": "2010-12-02T16:50:25Z", 
-        "parent_woeid": 23424992, 
+        "placetype": "state", 
         "latitude": -13.639, 
+        "iso": "WS", 
+        "sw_latitude": -13.777, 
+        "adjacent": [
+          "woe:state=20070344", 
+          "woe:state=20070337", 
+          "woe:state=20070343", 
+          "woe:state=20070336"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -13.582, 
         "sw_longitude": -172.687, 
         "fullname": "Satupa`itea, Samoa", 
-        "sw_latitude": -13.777
+        "date_indexed": "2010-12-02T16:50:25Z"
       }, 
       "id": 20070342
     }
+  ], 
+  "bbox": [
+    -172.687, 
+    -13.777, 
+    -172.317, 
+    -13.582
   ]
 }

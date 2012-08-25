@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070089, 
-        "name": "Nam Dinh", 
         "adjacent_woeid": [
           2347716, 
           2347741, 
           2347743
         ], 
-        "ne_latitude": 20.485, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nam Dinh", 
+        "hierarchy": [
+          "woe:state=20070089", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070089, 
         "ne_longitude": 106.565, 
         "longitude": 106.243, 
-        "placetype": "State", 
-        "iso": "VN", 
-        "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "placetype": "state", 
         "latitude": 20.227, 
+        "iso": "VN", 
+        "sw_latitude": 19.968, 
+        "adjacent": [
+          "woe:state=2347741", 
+          "woe:state=2347743", 
+          "woe:state=2347716"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 20.485, 
         "sw_longitude": 105.925, 
         "fullname": "Nam Dinh, Vietnam", 
-        "sw_latitude": 19.968
+        "date_indexed": "2010-12-02T08:52:39Z"
       }, 
       "id": 20070089
     }
+  ], 
+  "bbox": [
+    105.925, 
+    19.968, 
+    106.565, 
+    20.485
   ]
 }

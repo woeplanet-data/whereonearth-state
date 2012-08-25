@@ -32,31 +32,41 @@
       "type": "Feature", 
       "properties": {
         "lang": "CHI", 
-        "woeid": 28760735, 
+        "alias_ENG_V": [
+          "Kinmen"
+        ], 
         "name": "\u91d1\u9580\u7e23", 
         "alias_CHI_V": [
           "\u91d1\u9580"
         ], 
+        "hierarchy": [
+          "woe:state=28760735", 
+          "woe:country=23424971", 
+          "woe:planet=1"
+        ], 
+        "woeid": 28760735, 
         "alias_ENG_P": [
           "Kinmen County"
         ], 
-        "ne_latitude": 24.992, 
-        "provider": "geoplanet 7.6.0", 
-        "alias_ENG_V": [
-          "Kinmen"
-        ], 
         "ne_longitude": 119.484, 
         "longitude": 118.376, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 24.458, 
         "iso": "TW", 
         "date_indexed": "2010-12-02T16:15:11Z", 
-        "parent_woeid": 23424971, 
-        "latitude": 24.458, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 24.992, 
         "sw_longitude": 118.214, 
         "fullname": "\u91d1\u9580\u7e23, Fujian, Kinmen County, Taiwan", 
         "sw_latitude": 24.383
       }, 
       "id": 28760735
     }
+  ], 
+  "bbox": [
+    118.214, 
+    24.383, 
+    119.484, 
+    24.992
   ]
 }

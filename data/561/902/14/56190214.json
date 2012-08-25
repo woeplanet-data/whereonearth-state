@@ -12,10 +12,20 @@
           20070441
         ], 
         "name": "Kaliro", 
-        "parent_woeid": 23424974, 
-        "provider": "geoplanet 7.6.0", 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=56190214", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "placetype": "state", 
         "iso": "UG", 
+        "adjacent": [
+          "woe:state=20070449", 
+          "woe:state=20070422", 
+          "woe:state=56190200", 
+          "woe:state=20070441"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "woeid": 56190214, 
         "date_indexed": "2010-12-02T10:22:38Z"
       }, 

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2345930, 
-        "name": "Al Mafraq", 
         "adjacent_woeid": [
           2345833, 
           2345933, 
@@ -45,20 +43,43 @@
           20070291, 
           20070292
         ], 
-        "ne_latitude": 33.372, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Al Mafraq", 
+        "hierarchy": [
+          "woe:state=2345930", 
+          "woe:country=23424860", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345930, 
         "ne_longitude": 39.319, 
         "longitude": 37.631, 
-        "placetype": "State", 
-        "iso": "JO", 
-        "date_indexed": "2010-12-02T12:08:12Z", 
-        "parent_woeid": 23424860, 
+        "placetype": "state", 
         "latitude": 32.533, 
+        "iso": "JO", 
+        "sw_latitude": 31.698, 
+        "adjacent": [
+          "woe:state=2345833", 
+          "woe:state=2346961", 
+          "woe:state=2347073", 
+          "woe:state=2345933", 
+          "woe:state=2347074", 
+          "woe:state=2347079", 
+          "woe:state=20070291", 
+          "woe:state=20070292", 
+          "woe:state=2347076"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 33.372, 
         "sw_longitude": 35.944, 
         "fullname": "Al Mafraq, Jordan", 
-        "sw_latitude": 31.698
+        "date_indexed": "2010-12-02T12:08:12Z"
       }, 
       "id": 2345930
     }
+  ], 
+  "bbox": [
+    35.944, 
+    31.698, 
+    39.319, 
+    33.372
   ]
 }

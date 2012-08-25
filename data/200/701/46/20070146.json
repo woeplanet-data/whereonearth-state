@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              34.250, 
+              34.25, 
               -16.689
             ], 
             [
-              34.250, 
+              34.25, 
               -15.735
             ], 
             [
@@ -23,7 +23,7 @@
               -16.689
             ], 
             [
-              34.250, 
+              34.25, 
               -16.689
             ]
           ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070146, 
-        "name": "Chikwawa", 
         "adjacent_woeid": [
           20070139, 
           20070143, 
           20070144, 
           20070145
         ], 
-        "ne_latitude": -15.735, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chikwawa", 
+        "hierarchy": [
+          "woe:state=20070146", 
+          "woe:country=23424889", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070146, 
         "ne_longitude": 35.118, 
         "longitude": 34.781, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -16.43, 
         "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
-        "parent_woeid": 23424889, 
-        "latitude": -16.430, 
-        "sw_longitude": 34.250, 
+        "sw_latitude": -16.689, 
+        "adjacent": [
+          "woe:state=20070143", 
+          "woe:state=20070139", 
+          "woe:state=20070145", 
+          "woe:state=20070144"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -15.735, 
+        "sw_longitude": 34.25, 
         "fullname": "Chikwawa, Malawi", 
-        "sw_latitude": -16.689
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 20070146
     }
+  ], 
+  "bbox": [
+    34.25, 
+    -16.689, 
+    35.118, 
+    -15.735
   ]
 }

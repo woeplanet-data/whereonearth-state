@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347174, 
-        "name": "Kanchanaburi", 
         "adjacent_woeid": [
           2344814, 
           2344821, 
@@ -44,23 +42,45 @@
           2347176, 
           2347177
         ], 
-        "ne_latitude": 15.661, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kanchanaburi", 
         "alias_ENG_V": [
           "Changwat Kanchanaburi"
         ], 
+        "hierarchy": [
+          "woe:state=2347174", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347174, 
         "ne_longitude": 99.886, 
         "longitude": 99.035, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 14.693, 
+        "iso": "TH", 
+        "sw_latitude": 13.726, 
+        "adjacent": [
+          "woe:state=2344814", 
+          "woe:state=2344822", 
+          "woe:state=2347177", 
+          "woe:state=2347176", 
+          "woe:state=2347175", 
+          "woe:state=2347135", 
+          "woe:state=2344821", 
+          "woe:state=2347142"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.661, 
         "sw_longitude": 98.183, 
         "fullname": "Kanchanaburi, Thailand", 
-        "sw_latitude": 13.726
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347174
     }
+  ], 
+  "bbox": [
+    98.183, 
+    13.726, 
+    99.886, 
+    15.661
   ]
 }

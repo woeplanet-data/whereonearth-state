@@ -10116,17 +10116,22 @@
         "alias_ENG_P": [
           "Heilongjiang"
         ], 
+        "hierarchy": [
+          "woe:state=12577998", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 53.569857083038016, 
         "ne:Shape_Area": 54.4277097703, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ud5e4\uc774\ub8fd\uc7a5"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1839, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u9ed1\u9f8d\u6c5f"
         ], 
@@ -10139,6 +10144,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 121.16689904175746, 
+        "adjacent": [
+          "woe:state=2346888", 
+          "woe:state=2346894", 
+          "woe:state=2346883", 
+          "woe:state=2346886", 
+          "woe:state=20070516", 
+          "woe:state=12578009", 
+          "woe:state=12577995"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.494, 
         "ne:FIPS_1": "CH08", 
@@ -10146,9 +10160,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 43.43269806596305, 
-        "ne:VertexCou": 2377.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1839, 
         "ne:Postal": "HL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Heil\u00f3ngjiang", 
@@ -10164,8 +10178,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 452282.3, 
         "woe:id": "12577998", 
-        "ne:HASC_1": "CN.HL", 
-        "lang": "CHI", 
+        "name": "\u9ed1\u9f99\u6c5f\u7701", 
+        "ne:VertexCou": 2377.0, 
         "adjacent_woeid": [
           2346883, 
           2346886, 
@@ -10175,9 +10189,8 @@
           12578009, 
           20070516
         ], 
-        "name": "\u9ed1\u9f99\u6c5f\u7701", 
+        "ne:HASC_1": "CN.HL", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 134.772580193821, 
         "longitude": 127.987, 
         "iso": "CN", 

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              14.980, 
+              14.98, 
               46.077
             ], 
             [
-              14.980, 
+              14.98, 
               46.197
             ], 
             [
@@ -23,7 +23,7 @@
               46.077
             ], 
             [
-              14.980, 
+              14.98, 
               46.077
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848392, 
-        "name": "Trbovlje", 
         "adjacent_woeid": [
           55848350, 
           55848360, 
@@ -41,20 +39,39 @@
           55848397, 
           55848398
         ], 
-        "ne_latitude": 46.197, 
+        "name": "Trbovlje", 
+        "hierarchy": [
+          "woe:state=55848392", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848392, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.109, 
         "longitude": 15.045, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848350", 
+          "woe:state=55848360", 
+          "woe:state=55848363", 
+          "woe:state=55848397", 
+          "woe:state=55848398"
+        ], 
+        "ne_latitude": 46.197, 
         "latitude": 46.137, 
-        "sw_longitude": 14.980, 
+        "sw_longitude": 14.98, 
         "fullname": "Trbovlje, Slovenia", 
         "sw_latitude": 46.077
       }, 
       "id": 55848392
     }
+  ], 
+  "bbox": [
+    14.98, 
+    46.077, 
+    15.109, 
+    46.197
   ]
 }

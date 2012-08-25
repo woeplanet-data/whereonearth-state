@@ -12,11 +12,11 @@
             ], 
             [
               -61.749, 
-              12.180
+              12.18
             ], 
             [
               -61.681, 
-              12.180
+              12.18
             ], 
             [
               -61.681, 
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345476, 
-        "name": "Saint John", 
         "adjacent_woeid": [
           2345473, 
           2345475, 
           2345477
         ], 
-        "ne_latitude": 12.180, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint John", 
         "alias_ENG_V": [
           "St. John"
         ], 
+        "hierarchy": [
+          "woe:state=2345476", 
+          "woe:country=23424826", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345476, 
         "ne_longitude": -61.681, 
         "longitude": -61.715, 
-        "placetype": "State", 
-        "iso": "GD", 
-        "date_indexed": "2010-12-02T17:52:39Z", 
-        "parent_woeid": 23424826, 
+        "placetype": "state", 
         "latitude": 12.147, 
+        "iso": "GD", 
+        "sw_latitude": 12.114, 
+        "adjacent": [
+          "woe:state=2345473", 
+          "woe:state=2345475", 
+          "woe:state=2345477"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.18, 
         "sw_longitude": -61.749, 
         "fullname": "Saint John, Grenada", 
-        "sw_latitude": 12.114
+        "date_indexed": "2010-12-02T17:52:39Z"
       }, 
       "id": 2345476
     }
+  ], 
+  "bbox": [
+    -61.749, 
+    12.114, 
+    -61.681, 
+    12.18
   ]
 }

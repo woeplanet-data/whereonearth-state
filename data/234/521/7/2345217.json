@@ -15,11 +15,11 @@
               0.036
             ], 
             [
-              -77.000, 
+              -77.0, 
               0.036
             ], 
             [
-              -77.000, 
+              -77.0, 
               -1.238
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 0.036, 
-        "name": "Napo", 
         "adjacent_woeid": [
           2345208, 
           2345218, 
@@ -42,23 +40,43 @@
           2345222, 
           20070099
         ], 
+        "name": "Napo", 
+        "hierarchy": [
+          "woe:state=2345217", 
+          "woe:country=23424801", 
+          "woe:planet=1"
+        ], 
         "woeid": 2345217, 
         "alias_SPA_V": [
           "Tena"
         ], 
-        "ne_longitude": -77.000, 
+        "ne_longitude": -77.0, 
         "longitude": -77.713, 
-        "parent_woeid": 23424801, 
-        "placetype": "State", 
-        "iso": "EC", 
-        "date_indexed": "2010-12-02T17:51:25Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": -0.601, 
         "sw_longitude": -78.426, 
+        "sw_latitude": -1.238, 
+        "adjacent": [
+          "woe:state=2345208", 
+          "woe:state=20070099", 
+          "woe:state=2345218", 
+          "woe:state=2345219", 
+          "woe:state=2345222", 
+          "woe:state=2345220"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 0.036, 
+        "iso": "EC", 
         "fullname": "Napo, Ecuador", 
-        "sw_latitude": -1.238
+        "date_indexed": "2010-12-02T17:51:25Z"
       }, 
       "id": 2345217
     }
+  ], 
+  "bbox": [
+    -78.426, 
+    -1.238, 
+    -77.0, 
+    0.036
   ]
 }

@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347017, 
-        "name": "Sanaag", 
         "adjacent_woeid": [
           2347008, 
           2347016, 
           2347020, 
           2347021
         ], 
-        "ne_latitude": 11.323, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sanaag", 
+        "hierarchy": [
+          "woe:state=2347017", 
+          "woe:country=23424949", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347017, 
         "ne_longitude": 49.013, 
         "longitude": 47.561, 
-        "placetype": "State", 
-        "iso": "SO", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
-        "parent_woeid": 23424949, 
+        "placetype": "state", 
         "latitude": 10.363, 
+        "iso": "SO", 
+        "sw_latitude": 9.403, 
+        "adjacent": [
+          "woe:state=2347008", 
+          "woe:state=2347016", 
+          "woe:state=2347020", 
+          "woe:state=2347021"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.323, 
         "sw_longitude": 46.109, 
         "fullname": "Sanaag, Somalia", 
-        "sw_latitude": 9.403
+        "date_indexed": "2010-12-02T08:51:00Z"
       }, 
       "id": 2347017
     }
+  ], 
+  "bbox": [
+    46.109, 
+    9.403, 
+    49.013, 
+    11.323
   ]
 }

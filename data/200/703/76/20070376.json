@@ -12,11 +12,11 @@
             ], 
             [
               41.758, 
-              42.010
+              42.01
             ], 
             [
               42.295, 
-              42.010
+              42.01
             ], 
             [
               42.295, 
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070376, 
-        "alias_ENG_S": [
-          "Ozurgetris Raioni"
-        ], 
-        "name": "Ozurget\u00b4is Raioni", 
         "adjacent_woeid": [
           20070377, 
           20070378, 
           20070400
         ], 
-        "ne_latitude": 42.010, 
-        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_S": [
+          "Ozurgetris Raioni"
+        ], 
+        "name": "Ozurget\u00b4is Raioni", 
+        "ne_latitude": 42.01, 
+        "hierarchy": [
+          "woe:state=20070376", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070376, 
         "ne_longitude": 42.295, 
         "longitude": 42.027, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
+        "sw_latitude": 41.774, 
+        "adjacent": [
+          "woe:state=20070400", 
+          "woe:state=20070377", 
+          "woe:state=20070378"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 41.892, 
         "sw_longitude": 41.758, 
         "fullname": "Ozurget\u00b4is Raioni, Georgia", 
-        "sw_latitude": 41.774
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070376
     }
+  ], 
+  "bbox": [
+    41.758, 
+    41.774, 
+    42.295, 
+    42.01
   ]
 }

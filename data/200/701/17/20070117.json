@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070117, 
-        "name": "Ventspils", 
         "adjacent_woeid": [
           56190590
         ], 
-        "ne_latitude": 57.471, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ventspils", 
+        "hierarchy": [
+          "woe:state=20070117", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070117, 
         "ne_longitude": 21.674, 
         "longitude": 21.596, 
-        "placetype": "State", 
-        "iso": "LV", 
-        "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
+        "placetype": "state", 
         "latitude": 57.409, 
+        "iso": "LV", 
+        "sw_latitude": 57.348, 
+        "adjacent": [
+          "woe:state=56190590"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 57.471, 
         "sw_longitude": 21.519, 
         "fullname": "Ventspils, Latvia", 
-        "sw_latitude": 57.348
+        "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 20070117
     }
+  ], 
+  "bbox": [
+    21.519, 
+    57.348, 
+    21.674, 
+    57.471
   ]
 }

@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 56051566, 
-        "name": "Mosteiros", 
         "adjacent_woeid": [
           56051564, 
           56051565
         ], 
-        "ne_latitude": 15.046, 
+        "name": "Mosteiros", 
+        "hierarchy": [
+          "woe:state=56051566", 
+          "woe:country=23424794", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56051566, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -24.299, 
         "longitude": -24.357, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "CV", 
         "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424794, 
+        "adjacent": [
+          "woe:state=56051565", 
+          "woe:state=56051564"
+        ], 
+        "ne_latitude": 15.046, 
         "latitude": 14.996, 
         "sw_longitude": -24.416, 
         "fullname": "Mosteiros, Cape Verde", 
@@ -53,5 +61,11 @@
       }, 
       "id": 56051566
     }
+  ], 
+  "bbox": [
+    -24.416, 
+    14.946, 
+    -24.299, 
+    15.046
   ]
 }

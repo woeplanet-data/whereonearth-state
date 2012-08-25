@@ -153,9 +153,14 @@
       "properties": {
         "ne:ProvNumber": 10, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=29389233", 
+          "woe:country=20069817", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.826430162122335, 
         "ne:Shape_Area": 0.0367188132989, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
@@ -164,6 +169,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 19.628135613567736, 
+        "adjacent": [
+          "woe:state=29389228", 
+          "woe:state=29389235", 
+          "woe:state=29389239", 
+          "woe:state=29389237"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.722, 
         "ne:FIPS_1": "MJ00", 
@@ -199,7 +210,6 @@
         ], 
         "name": "Andrijevica", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 20069817, 
         "ne_longitude": 19.90941043474379, 
         "longitude": 19.803, 
         "iso": "ME", 

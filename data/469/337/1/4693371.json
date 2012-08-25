@@ -845,9 +845,14 @@
       "properties": {
         "ne:ProvNumber": 2000, 
         "ne:ScaleRank": 7, 
+        "hierarchy": [
+          "woe:state=4693371", 
+          "woe:country=23424898", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 26.38598664017138, 
         "ne:Shape_Area": 0.142559366975, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 6, 
         "ne:gadm_level": 1.0, 
@@ -859,6 +864,11 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 56.077538690358324, 
+        "adjacent": [
+          "woe:state=2347112", 
+          "woe:state=2347113", 
+          "woe:state=2347114"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 25.996, 
         "ne:FIPS_1": "MU07", 
@@ -893,7 +903,6 @@
         ], 
         "name": "Musandam", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424898, 
         "ne_longitude": 56.51110395678222, 
         "longitude": 56.299, 
         "iso": "OM", 

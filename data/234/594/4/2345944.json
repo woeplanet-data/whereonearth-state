@@ -15,11 +15,11 @@
               1.136
             ], 
             [
-              35.160, 
+              35.16, 
               1.136
             ], 
             [
-              35.160, 
+              35.16, 
               -0.043
             ], 
             [
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345944, 
-        "name": "Western", 
         "adjacent_woeid": [
           2345942, 
           2345943
         ], 
-        "ne_latitude": 1.136, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 35.160, 
+        "name": "Western", 
+        "hierarchy": [
+          "woe:state=2345944", 
+          "woe:country=23424863", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345944, 
+        "ne_longitude": 35.16, 
         "longitude": 34.535, 
-        "placetype": "State", 
-        "iso": "KE", 
-        "date_indexed": "2010-12-02T08:53:52Z", 
-        "parent_woeid": 23424863, 
+        "placetype": "state", 
         "latitude": 0.547, 
+        "iso": "KE", 
+        "sw_latitude": -0.043, 
+        "adjacent": [
+          "woe:state=2345942", 
+          "woe:state=2345943"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.136, 
         "sw_longitude": 33.909, 
         "fullname": "Western, Kenya", 
-        "sw_latitude": -0.043
+        "date_indexed": "2010-12-02T08:53:52Z"
       }, 
       "id": 2345944
     }
+  ], 
+  "bbox": [
+    33.909, 
+    -0.043, 
+    35.16, 
+    1.136
   ]
 }

@@ -1152,9 +1152,14 @@
         "alias_ENG_P": [
           "West Sulawesi"
         ], 
+        "hierarchy": [
+          "woe:state=28350155", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -0.833695570094449, 
         "ne:Shape_Area": 1.35208124337, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 11, 
         "ne:gadm_level": 1.0, 
@@ -1163,6 +1168,10 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 118.75758873952873, 
+        "adjacent": [
+          "woe:state=2345729", 
+          "woe:state=2345730"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -2.229, 
         "ne:FIPS_1": "ID41", 
@@ -1196,7 +1205,6 @@
         ], 
         "name": "Sulawesi Barat", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424846, 
         "alias_UNK_V": [
           "Sulbar"
         ], 

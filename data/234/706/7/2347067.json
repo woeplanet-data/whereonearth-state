@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Stockholms Lans"
         ], 
+        "hierarchy": [
+          "woe:state=2347067", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 60.255, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Estocolmo"
         ], 
@@ -77,6 +82,10 @@
           "Stockholm"
         ], 
         "date_indexed": "2010-12-02T16:43:54Z", 
+        "adjacent": [
+          "woe:state=2347061", 
+          "woe:state=2347062"
+        ], 
         "alias_DUT_Q": [
           "Stockholm"
         ], 
@@ -92,7 +101,6 @@
           2347062
         ], 
         "name": "Stockholms L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 19.509, 
         "longitude": 18.165, 
         "iso": "SE", 
@@ -104,5 +112,11 @@
       }, 
       "id": 2347067
     }
+  ], 
+  "bbox": [
+    17.245, 
+    58.737, 
+    19.509, 
+    60.255
   ]
 }

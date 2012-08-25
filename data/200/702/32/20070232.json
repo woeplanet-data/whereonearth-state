@@ -8,7 +8,7 @@
           [
             [
               47.936, 
-              40.880
+              40.88
             ], 
             [
               47.936, 
@@ -20,11 +20,11 @@
             ], 
             [
               48.836, 
-              40.880
+              40.88
             ], 
             [
               47.936, 
-              40.880
+              40.88
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070232, 
-        "name": "Quba", 
         "adjacent_woeid": [
           20070221, 
           20070228, 
@@ -43,20 +41,41 @@
           20070271, 
           20070279
         ], 
-        "ne_latitude": 41.527, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Quba", 
+        "hierarchy": [
+          "woe:state=20070232", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070232, 
         "ne_longitude": 48.836, 
         "longitude": 48.386, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 41.204, 
+        "iso": "AZ", 
+        "sw_latitude": 40.88, 
+        "adjacent": [
+          "woe:state=20070279", 
+          "woe:state=20070228", 
+          "woe:state=20070235", 
+          "woe:state=20070234", 
+          "woe:state=20070270", 
+          "woe:state=20070221", 
+          "woe:state=20070271"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.527, 
         "sw_longitude": 47.936, 
         "fullname": "Quba, Azerbaijan", 
-        "sw_latitude": 40.880
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070232
     }
+  ], 
+  "bbox": [
+    47.936, 
+    40.88, 
+    48.836, 
+    41.527
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.229, 
-        "name": "San Lorenzo", 
         "adjacent_woeid": [
           2346792, 
           2346797, 
@@ -43,23 +41,44 @@
           2346855, 
           2346856
         ], 
+        "name": "San Lorenzo", 
+        "hierarchy": [
+          "woe:state=2346806", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346806, 
         "alias_SPA_V": [
           "San Lorenzo Municipios"
         ], 
         "ne_longitude": -65.921, 
         "longitude": -65.987, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.152, 
         "sw_longitude": -66.053, 
+        "sw_latitude": 18.076, 
+        "adjacent": [
+          "woe:state=2346855", 
+          "woe:state=2346792", 
+          "woe:state=2346856", 
+          "woe:state=2346797", 
+          "woe:state=2346799", 
+          "woe:state=2346827", 
+          "woe:state=2346825"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.229, 
+        "iso": "PR", 
         "fullname": "San Lorenzo, Puerto Rico", 
-        "sw_latitude": 18.076
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346806
     }
+  ], 
+  "bbox": [
+    -66.053, 
+    18.076, 
+    -65.921, 
+    18.229
   ]
 }

@@ -2107,6 +2107,11 @@
         "alias_POL_Q": [
           "Macedonia Wschodnia I Tracja"
         ], 
+        "hierarchy": [
+          "woe:state=12577878", 
+          "woe:country=23424833", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.7507335476152, 
         "alias_RUM_S": [
           "Macedonia de Est Si Tracia"
@@ -2115,9 +2120,9 @@
           "Macedonia de Est \u015ei Tracia"
         ], 
         "ne:Shape_Area": 1.51071171288, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1987", 
         "alias_POR_Q": [
           "Maced\u00f4nia Oriental E Tr\u00e1cia"
         ], 
@@ -2125,21 +2130,20 @@
           "\ub3d9\ubd80 \ub9c8\ucf00\ub3c4\ub2c8\uc544\uc640 \ud2b8\ub77c\ud0a4 \uc8fc"
         ], 
         "ne:gadm_level": 1.0, 
-        "alias_ARA_Q": [
-          "\u0645\u0642\u062f\u0648\u0646\u064a\u0627 \u0627\u0644\u0634\u0631\u0642\u064a\u0629 \u0648\u062a\u0631\u0627\u0642\u064a\u0627"
-        ], 
+        "ne:ADM0_A3": "GRC", 
         "ne:ScaleRank": 6, 
         "alias_CHI_Q": [
           "\u4e1c\u9a6c\u5176\u987f-\u8272\u96f7\u65af"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Macedonia Oriental Y Tracia"
+        ], 
         "alias_ITA_Q": [
           "Macedonia Orientale E Tracia"
         ], 
-        "ne:OBJECTID": 3001, 
-        "ne:NEV_Countr": "Greece", 
-        "alias_CZE_Q": [
-          "V\u00fdchodn\u00ed Makedonie a Thr\u00e1kie"
+        "ne:DataRank": 6, 
+        "alias_ARA_Q": [
+          "\u0645\u0642\u062f\u0648\u0646\u064a\u0627 \u0627\u0644\u0634\u0631\u0642\u064a\u0629 \u0648\u062a\u0631\u0627\u0642\u064a\u0627"
         ], 
         "alias_JPN_Q": [
           "\u6771\u30de\u30b1\u30c9\u30cb\u30a2\u30fb\u30c8\u30e9\u30ad\u30a2"
@@ -2149,9 +2153,7 @@
         ], 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Macedonia Oriental Y Tracia"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "It\u00e4-Makedonia Ja Traakia"
         ], 
@@ -2159,6 +2161,9 @@
           "Itae-Makedonia Ja Traakia"
         ], 
         "sw_longitude": 23.61915815562446, 
+        "adjacent": [
+          "woe:state=12577884"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.233, 
         "alias_NOR_S": [
@@ -2171,14 +2176,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "ne:VertexCou": 514.0, 
-        "ne:VALIDFR_1": "1987", 
-        "ne:DataRank": 6, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 3001, 
         "ne:Postal": "MT", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Macedonia East and Thrace", 
         "ne:ISO": "GRC", 
-        "ne:TYPE_1": "Diamerismata", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 11.0814988762, 
         "alias_DUT_Q": [
@@ -2189,27 +2194,31 @@
           "Oost-Macedonie en Thracie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Diamerismata", 
+        "alias_CZE_Q": [
+          "V\u00fdchodn\u00ed Makedonie a Thr\u00e1kie"
+        ], 
         "ne:LabelRank": 6, 
-        "ne:ADM0_A3": "GRC", 
         "ne:Area_sqkm": 14080.3, 
         "alias_GER_Q": [
           "Ostmakedonien Und Thrakien"
         ], 
         "woe:id": "12577878", 
-        "ne:HASC_1": "GR.MT", 
-        "lang": "ENG", 
+        "name": "East Macedonia and Thrace", 
+        "ne:VertexCou": 514.0, 
         "adjacent_woeid": [
           12577884
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "East Macedonia and Thrace", 
+        "ne:HASC_1": "GR.MT", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "alias_UNK_S": [
           "Dogu Makedonya Ve Trakya"
         ], 
-        "parent_woeid": 23424833, 
+        "alias_HUN_S": [
+          "Kelet-Makedonia Es Thrakia"
+        ], 
         "alias_UNK_Q": [
           "Sinirangan Nga Macedonia Ngan Thracia"
         ], 
@@ -2218,8 +2227,8 @@
         ], 
         "ne_longitude": 26.63613162567401, 
         "longitude": 25.129, 
-        "alias_HUN_S": [
-          "Kelet-Makedonia Es Thrakia"
+        "alias_FRE_S": [
+          "Macedoine-Orientale-Et-Thrace"
         ], 
         "ne:NAME_1": "Anatoliki Makedonia kai Thraki", 
         "iso": "GR", 
@@ -2230,9 +2239,7 @@
         ], 
         "fullname": "East Macedonia and Thrace, Anatoliki Makedonia, Greece", 
         "ne:Region": null, 
-        "alias_FRE_S": [
-          "Macedoine-Orientale-Et-Thrace"
-        ], 
+        "ne:NEV_Countr": "Greece", 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Mac\u00e9doine-Orientale-Et-Thrace"

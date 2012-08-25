@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549820, 
-        "name": "Ngatpang", 
         "adjacent_woeid": [
           24549817, 
           24549821, 
           24549827
         ], 
-        "ne_latitude": 7.494, 
+        "name": "Ngatpang", 
+        "hierarchy": [
+          "woe:state=24549820", 
+          "woe:country=23424927", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549820, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 134.581, 
         "longitude": 134.559, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "PW", 
         "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424927, 
+        "adjacent": [
+          "woe:state=24549821", 
+          "woe:state=24549827", 
+          "woe:state=24549817"
+        ], 
+        "ne_latitude": 7.494, 
         "latitude": 7.439, 
         "sw_longitude": 134.522, 
         "fullname": "Ngatpang, Palau", 
@@ -54,5 +63,11 @@
       }, 
       "id": 24549820
     }
+  ], 
+  "bbox": [
+    134.522, 
+    7.413, 
+    134.581, 
+    7.494
   ]
 }

@@ -8,7 +8,7 @@
           [
             [
               1.447, 
-              48.120
+              48.12
             ], 
             [
               1.447, 
@@ -20,11 +20,11 @@
             ], 
             [
               3.559, 
-              48.120
+              48.12
             ], 
             [
               1.447, 
-              48.120
+              48.12
             ]
           ]
         ]
@@ -34,8 +34,13 @@
         "alias_ENG_P": [
           "Ile-de-France"
         ], 
+        "hierarchy": [
+          "woe:state=7153319", 
+          "woe:country=23424819", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 49.241, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Ilha de Fran\u00e7a"
         ], 
@@ -56,9 +61,16 @@
           "Isla de Francia"
         ], 
         "sw_longitude": 1.447, 
+        "adjacent": [
+          "woe:state=7153312", 
+          "woe:state=7153314", 
+          "woe:state=7153315", 
+          "woe:state=7153318", 
+          "woe:state=7153326"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.681, 
-        "date_indexed": "2010-12-02T11:51:35Z", 
+        "sw_latitude": 48.12, 
         "lang": "FRE", 
         "adjacent_woeid": [
           7153312, 
@@ -68,11 +80,10 @@
           7153326
         ], 
         "name": "\u00cele-de-France", 
-        "parent_woeid": 23424819, 
         "ne_longitude": 3.559, 
         "longitude": 2.503, 
         "iso": "FR", 
-        "sw_latitude": 48.120, 
+        "date_indexed": "2010-12-02T11:51:35Z", 
         "alias_FRE_V": [
           "Iledefrance"
         ], 
@@ -83,5 +94,11 @@
       }, 
       "id": 7153319
     }
+  ], 
+  "bbox": [
+    1.447, 
+    48.12, 
+    3.559, 
+    49.241
   ]
 }

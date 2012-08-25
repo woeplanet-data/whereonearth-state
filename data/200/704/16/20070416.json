@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070416, 
-        "name": "Hoima", 
         "adjacent_woeid": [
           20070425, 
           20070426, 
           20070432
         ], 
-        "ne_latitude": 1.909, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Hoima", 
+        "hierarchy": [
+          "woe:state=20070416", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070416, 
         "ne_longitude": 31.523, 
         "longitude": 31.032, 
-        "placetype": "State", 
-        "iso": "UG", 
-        "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "placetype": "state", 
         "latitude": 1.491, 
+        "iso": "UG", 
+        "sw_latitude": 1.072, 
+        "adjacent": [
+          "woe:state=20070425", 
+          "woe:state=20070426", 
+          "woe:state=20070432"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 1.909, 
         "sw_longitude": 30.541, 
         "fullname": "Hoima, Uganda", 
-        "sw_latitude": 1.072
+        "date_indexed": "2010-12-02T10:22:38Z"
       }, 
       "id": 20070416
     }
+  ], 
+  "bbox": [
+    30.541, 
+    1.072, 
+    31.523, 
+    1.909
   ]
 }

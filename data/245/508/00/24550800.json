@@ -32,22 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550800, 
-        "alias_UNK_V": [
-          "Opstina Probi\u0161tip"
-        ], 
-        "name": "Probi\u0161tip", 
-        "alias_ENG_P": [
-          "Probistip Municipality"
-        ], 
-        "alias_UNK_S": [
-          "Opstina Probistip"
-        ], 
-        "ne_latitude": 42.086, 
-        "ne_longitude": 22.372, 
-        "longitude": 22.207, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550757, 
           24550772, 
@@ -57,15 +41,50 @@
           24550811, 
           24550832
         ], 
+        "name": "Probi\u0161tip", 
+        "alias_ENG_P": [
+          "Probistip Municipality"
+        ], 
+        "alias_UNK_S": [
+          "Opstina Probistip"
+        ], 
+        "woeid": 24550800, 
+        "alias_UNK_V": [
+          "Opstina Probi\u0161tip"
+        ], 
+        "longitude": 22.207, 
+        "ne_longitude": 22.372, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=24550800", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
         "iso": "MK", 
-        "date_indexed": "2010-12-02T09:34:49Z", 
+        "sw_latitude": 41.852, 
+        "adjacent": [
+          "woe:state=24550772", 
+          "woe:state=24550777", 
+          "woe:state=24550780", 
+          "woe:state=24550832", 
+          "woe:state=24550811", 
+          "woe:state=24550757", 
+          "woe:state=24550807"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.969, 
+        "ne_latitude": 42.086, 
         "sw_longitude": 22.043, 
+        "latitude": 41.969, 
         "fullname": "Probi\u0161tip, Probistip Municipality, Macedonia", 
-        "sw_latitude": 41.852
+        "date_indexed": "2010-12-02T09:34:49Z"
       }, 
       "id": 24550800
     }
+  ], 
+  "bbox": [
+    22.043, 
+    41.852, 
+    22.372, 
+    42.086
   ]
 }

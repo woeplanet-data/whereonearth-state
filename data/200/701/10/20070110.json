@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070110, 
-        "name": "Saudarkrokur", 
         "adjacent_woeid": [
           2345701
         ], 
-        "ne_latitude": 65.755, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saudarkrokur", 
+        "hierarchy": [
+          "woe:state=20070110", 
+          "woe:country=23424845", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070110, 
         "ne_longitude": -19.585, 
         "longitude": -19.635, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 65.74, 
         "iso": "IS", 
-        "date_indexed": "2010-12-02T09:55:32Z", 
-        "parent_woeid": 23424845, 
-        "latitude": 65.740, 
+        "sw_latitude": 65.724, 
+        "adjacent": [
+          "woe:state=2345701"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 65.755, 
         "sw_longitude": -19.684, 
         "fullname": "Saudarkrokur, Iceland", 
-        "sw_latitude": 65.724
+        "date_indexed": "2010-12-02T09:55:32Z"
       }, 
       "id": 20070110
     }
+  ], 
+  "bbox": [
+    -19.684, 
+    65.724, 
+    -19.585, 
+    65.755
   ]
 }

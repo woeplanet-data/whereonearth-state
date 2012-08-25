@@ -2053,6 +2053,11 @@
         "alias_POL_Q": [
           "Macedonia \u015arodkowa"
         ], 
+        "hierarchy": [
+          "woe:state=12577884", 
+          "woe:country=23424833", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.400108954764505, 
         "alias_RUM_S": [
           "Macedonia Centrala"
@@ -2061,9 +2066,9 @@
           "Macedonia Central\u0103"
         ], 
         "ne:Shape_Area": 2.05128112331, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 9, 
+        "ne:VALIDFR_1": "1987", 
         "alias_POR_Q": [
           "Maced\u00f4nia Central"
         ], 
@@ -2071,36 +2076,47 @@
           "\uc911\ubd80 \ub9c8\ucf00\ub3c4\ub2c8\uc544 \uc8fc"
         ], 
         "ne:gadm_level": 1.0, 
-        "alias_ARA_Q": [
-          "\u0645\u0642\u062f\u0648\u0646\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
-        ], 
+        "ne:ADM0_A3": "GRC", 
         "alias_SWE_Q": [
           "Centrala Makedonien"
         ], 
         "alias_CHI_Q": [
           "\u4e2d\u9a6c\u5176\u987f"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Macedonia Central"
+        ], 
         "alias_ITA_Q": [
           "Macedonia Centrale"
         ], 
-        "ne:OBJECTID": 2991, 
-        "ne:NEV_Countr": "Greece", 
-        "alias_CZE_Q": [
-          "St\u0159edn\u00ed Makedonie"
+        "ne:DataRank": 6, 
+        "alias_ARA_Q": [
+          "\u0645\u0642\u062f\u0648\u0646\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
         ], 
         "alias_JPN_Q": [
           "\u4e2d\u592e\u30de\u30b1\u30c9\u30cb\u30a2"
         ], 
         "ne:sameAsCity": -99, 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Macedonia Central"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "alias_FIN_Q": [
           "Keski-Makedonia"
         ], 
         "sw_longitude": 21.69266076038582, 
+        "adjacent": [
+          "woe:state=24550827", 
+          "woe:state=12577878", 
+          "woe:state=24550840", 
+          "woe:state=24550774", 
+          "woe:state=12577877", 
+          "woe:state=24550791", 
+          "woe:state=24550853", 
+          "woe:state=24550799", 
+          "woe:state=24550860", 
+          "woe:state=24550808", 
+          "woe:state=12577889", 
+          "woe:state=12577881"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.671, 
         "ne:FIPS_1": "GR05", 
@@ -2110,14 +2126,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "date_indexed": "2010-12-02T16:50:25Z", 
-        "ne:VertexCou": 501.0, 
-        "ne:VALIDFR_1": "1987", 
-        "ne:DataRank": 6, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 9, 
+        "ne:OBJECTID": 2991, 
         "ne:Postal": "MC", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Macedonia Central", 
         "ne:ISO": "GRC", 
-        "ne:TYPE_1": "Diamerismata", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:ScaleRank": 6, 
         "alias_DUT_Q": [
@@ -2128,16 +2144,18 @@
           "Centraal-Macedonie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Diamerismata", 
+        "alias_CZE_Q": [
+          "St\u0159edn\u00ed Makedonie"
+        ], 
         "ne:LabelRank": 6, 
-        "ne:ADM0_A3": "GRC", 
         "ne:Area_sqkm": 19242.1, 
         "alias_GER_Q": [
           "Zentralmakedonien"
         ], 
         "woe:id": "12577884", 
-        "ne:HASC_1": "GR.MC", 
-        "lang": "ENG", 
+        "name": "Central Macedonia", 
+        "ne:VertexCou": 501.0, 
         "adjacent_woeid": [
           12577877, 
           12577878, 
@@ -2153,13 +2171,15 @@
           24550860
         ], 
         "ne:FIRST_FIPS": null, 
-        "name": "Central Macedonia", 
+        "ne:HASC_1": "GR.MC", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
         "alias_UNK_S": [
           "Periferija Sredisnja Makedonija"
         ], 
-        "parent_woeid": 23424833, 
+        "alias_HUN_S": [
+          "Koezep-Makedonia"
+        ], 
         "alias_UNK_Q": [
           "Butnga Nga Macedonia"
         ], 
@@ -2169,8 +2189,8 @@
         "ne:Shape_Leng": 11.8344136778, 
         "ne_longitude": 24.121659783472296, 
         "longitude": 22.911, 
-        "alias_HUN_S": [
-          "Koezep-Makedonia"
+        "alias_FRE_S": [
+          "Macedoine-Centrale"
         ], 
         "ne:NAME_1": "Kentriki Makedonia", 
         "iso": "GR", 
@@ -2181,9 +2201,7 @@
         ], 
         "fullname": "Central Macedonia, Kentriki Makedonia, Greece", 
         "ne:Region": null, 
-        "alias_FRE_S": [
-          "Macedoine-Centrale"
-        ], 
+        "ne:NEV_Countr": "Greece", 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "Mac\u00e9doine-Centrale"

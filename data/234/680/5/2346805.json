@@ -15,11 +15,11 @@
               18.174
             ], 
             [
-              -66.970, 
+              -66.97, 
               18.174
             ], 
             [
-              -66.970, 
+              -66.97, 
               18.052
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.174, 
-        "name": "San Germ\u00e1n", 
         "adjacent_woeid": [
           2346800, 
           2346804, 
@@ -42,26 +40,46 @@
           2346849, 
           2346850
         ], 
+        "name": "San Germ\u00e1n", 
+        "hierarchy": [
+          "woe:state=2346805", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346805, 
         "alias_SPA_V": [
           "San Germ\u00e1n Municipios"
         ], 
-        "ne_longitude": -66.970, 
-        "longitude": -67.040, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
+        "ne_longitude": -66.97, 
+        "longitude": -67.04, 
+        "placetype": "state", 
+        "latitude": 18.113, 
         "alias_SPA_S": [
           "San German Municipios"
         ], 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 18.113, 
         "sw_longitude": -67.109, 
+        "sw_latitude": 18.052, 
+        "adjacent": [
+          "woe:state=2346849", 
+          "woe:state=2346850", 
+          "woe:state=2346837", 
+          "woe:state=2346800", 
+          "woe:state=2346848", 
+          "woe:state=2346804"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.174, 
+        "iso": "PR", 
         "fullname": "San Germ\u00e1n, Puerto Rico", 
-        "sw_latitude": 18.052
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346805
     }
+  ], 
+  "bbox": [
+    -67.109, 
+    18.052, 
+    -66.97, 
+    18.174
   ]
 }

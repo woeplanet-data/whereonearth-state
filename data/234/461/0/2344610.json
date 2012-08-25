@@ -8,7 +8,7 @@
           [
             [
               3.199, 
-              36.590
+              36.59
             ], 
             [
               3.199, 
@@ -20,11 +20,11 @@
             ], 
             [
               4.047, 
-              36.590
+              36.59
             ], 
             [
               3.199, 
-              36.590
+              36.59
             ]
           ]
         ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344610, 
-        "name": "Boumerdes", 
         "adjacent_woeid": [
           2344579, 
           2344588, 
           2344592, 
           2344593
         ], 
-        "ne_latitude": 36.926, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Boumerdes", 
+        "hierarchy": [
+          "woe:state=2344610", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344610, 
         "ne_longitude": 4.047, 
         "longitude": 3.623, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "placetype": "state", 
         "latitude": 36.758, 
+        "iso": "DZ", 
+        "sw_latitude": 36.59, 
+        "adjacent": [
+          "woe:state=2344579", 
+          "woe:state=2344592", 
+          "woe:state=2344593", 
+          "woe:state=2344588"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.926, 
         "sw_longitude": 3.199, 
         "fullname": "Boumerdes, Algeria", 
-        "sw_latitude": 36.590
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344610
     }
+  ], 
+  "bbox": [
+    3.199, 
+    36.59, 
+    4.047, 
+    36.926
   ]
 }

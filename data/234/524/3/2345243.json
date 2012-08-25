@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              30.350, 
+              30.35, 
               30.962
             ], 
             [
-              30.350, 
+              30.35, 
               31.603
             ], 
             [
@@ -23,7 +23,7 @@
               30.962
             ], 
             [
-              30.350, 
+              30.35, 
               30.962
             ]
           ]
@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345243, 
-        "name": "Kafr ash Shaykh", 
         "adjacent_woeid": [
           2345223, 
           2345225, 
           2345227
         ], 
-        "ne_latitude": 31.603, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kafr ash Shaykh", 
         "alias_ENG_V": [
           "Kafr el-Sheikh Governorate"
         ], 
+        "hierarchy": [
+          "woe:state=2345243", 
+          "woe:country=23424802", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345243, 
         "ne_longitude": 31.308, 
         "longitude": 30.829, 
-        "placetype": "State", 
-        "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
-        "parent_woeid": 23424802, 
+        "placetype": "state", 
         "latitude": 31.283, 
-        "sw_longitude": 30.350, 
+        "iso": "EG", 
+        "sw_latitude": 30.962, 
+        "adjacent": [
+          "woe:state=2345223", 
+          "woe:state=2345225", 
+          "woe:state=2345227"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.603, 
+        "sw_longitude": 30.35, 
         "fullname": "Kafr ash Shaykh, Egypt", 
-        "sw_latitude": 30.962
+        "date_indexed": "2010-12-02T12:16:45Z"
       }, 
       "id": 2345243
     }
+  ], 
+  "bbox": [
+    30.35, 
+    30.962, 
+    31.308, 
+    31.603
   ]
 }

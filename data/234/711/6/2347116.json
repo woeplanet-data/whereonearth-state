@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347116, 
-        "name": "Arima", 
         "adjacent_woeid": [
           56189836
         ], 
-        "ne_latitude": 10.648, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Arima", 
+        "hierarchy": [
+          "woe:state=2347116", 
+          "woe:country=23424958", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347116, 
         "ne_longitude": -61.269, 
         "longitude": -61.281, 
-        "placetype": "State", 
-        "iso": "TT", 
-        "date_indexed": "2010-12-02T18:05:31Z", 
-        "parent_woeid": 23424958, 
+        "placetype": "state", 
         "latitude": 10.633, 
+        "iso": "TT", 
+        "sw_latitude": 10.617, 
+        "adjacent": [
+          "woe:state=56189836"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 10.648, 
         "sw_longitude": -61.294, 
         "fullname": "Arima, Trinidad and Tobago", 
-        "sw_latitude": 10.617
+        "date_indexed": "2010-12-02T18:05:31Z"
       }, 
       "id": 2347116
     }
+  ], 
+  "bbox": [
+    -61.294, 
+    10.617, 
+    -61.269, 
+    10.648
   ]
 }

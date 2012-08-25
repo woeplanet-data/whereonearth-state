@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345298, 
-        "name": "La Uni\u00f3n", 
         "adjacent_woeid": [
           2345299, 
           2345300, 
           2345634, 
           2345639
         ], 
-        "ne_latitude": 13.899, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "La Uni\u00f3n", 
+        "hierarchy": [
+          "woe:state=2345298", 
+          "woe:country=23424807", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345298, 
         "ne_longitude": -87.683, 
         "longitude": -87.901, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 13.524, 
         "alias_SPA_S": [
           "La Union"
         ], 
         "iso": "SV", 
-        "date_indexed": "2010-12-02T17:05:52Z", 
-        "parent_woeid": 23424807, 
-        "latitude": 13.524, 
+        "sw_latitude": 13.149, 
+        "adjacent": [
+          "woe:state=2345634", 
+          "woe:state=2345299", 
+          "woe:state=2345300", 
+          "woe:state=2345639"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.899, 
         "sw_longitude": -88.094, 
         "fullname": "La Uni\u00f3n, El Salvador", 
-        "sw_latitude": 13.149
+        "date_indexed": "2010-12-02T17:05:52Z"
       }, 
       "id": 2345298
     }
+  ], 
+  "bbox": [
+    -88.094, 
+    13.149, 
+    -87.683, 
+    13.899
   ]
 }

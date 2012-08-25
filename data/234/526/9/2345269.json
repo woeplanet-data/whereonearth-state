@@ -1316,20 +1316,30 @@
           "County Sligo"
         ], 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=2345269", 
+          "woe:country=23424803", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 54.47507314730797, 
         "ne:Shape_Area": 0.252240297104, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_ENG_A": [
           "SLI"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "IRL", 
-        "ne:OBJECTID": 728, 
+        "ne:DataRank": 8, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -9.134811570797297, 
+        "adjacent": [
+          "woe:state=2345259", 
+          "woe:state=2345264", 
+          "woe:state=2345268"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 54.195, 
         "ne:FIPS_1": "EI25", 
@@ -1337,9 +1347,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "County", 
         "sw_latitude": 53.91164500581243, 
-        "ne:VertexCou": 324.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 8, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 728, 
         "ne:Postal": "SO", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Sligeach", 
@@ -1355,16 +1365,15 @@
         "ne:LabelRank": 9, 
         "ne:Area_sqkm": 1834.1, 
         "woe:id": "2345269", 
-        "ne:HASC_1": "IE.SO", 
-        "lang": "ENG", 
+        "name": "Sligo", 
+        "ne:VertexCou": 324.0, 
         "adjacent_woeid": [
           2345259, 
           2345264, 
           2345268
         ], 
-        "name": "Sligo", 
+        "ne:HASC_1": "IE.SO", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424803, 
         "alias_UNK_Q": [
           "Sligeach"
         ], 

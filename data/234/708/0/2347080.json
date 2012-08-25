@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347080, 
-        "name": "Idlib", 
         "adjacent_woeid": [
           2347070, 
           2347077, 
           2347078
         ], 
-        "ne_latitude": 36.355, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Idlib", 
+        "hierarchy": [
+          "woe:state=2347080", 
+          "woe:country=23424956", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347080, 
         "ne_longitude": 37.534, 
         "longitude": 36.835, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 35.84, 
         "iso": "SY", 
-        "date_indexed": "2010-12-02T07:50:18Z", 
-        "parent_woeid": 23424956, 
-        "latitude": 35.840, 
+        "sw_latitude": 35.326, 
+        "adjacent": [
+          "woe:state=2347070", 
+          "woe:state=2347077", 
+          "woe:state=2347078"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 36.355, 
         "sw_longitude": 36.136, 
         "fullname": "Idlib, Syria", 
-        "sw_latitude": 35.326
+        "date_indexed": "2010-12-02T07:50:18Z"
       }, 
       "id": 2347080
     }
+  ], 
+  "bbox": [
+    36.136, 
+    35.326, 
+    37.534, 
+    36.355
   ]
 }

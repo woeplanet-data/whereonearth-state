@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550815, 
-        "alias_UNK_V": [
-          "Opstina Veles"
-        ], 
-        "name": "Veles", 
-        "alias_ENG_P": [
-          "Veles Municipality"
-        ], 
-        "ne_latitude": 41.918, 
-        "ne_longitude": 21.884, 
-        "longitude": 21.667, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550754, 
           24550768, 
@@ -54,15 +41,47 @@
           24550811, 
           24550820
         ], 
+        "name": "Veles", 
+        "alias_ENG_P": [
+          "Veles Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550815", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550815, 
+        "alias_UNK_V": [
+          "Opstina Veles"
+        ], 
+        "longitude": 21.667, 
+        "ne_longitude": 21.884, 
+        "placetype": "state", 
+        "latitude": 41.767, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550768", 
+          "woe:state=24550785", 
+          "woe:state=24550796", 
+          "woe:state=24550809", 
+          "woe:state=24550811", 
+          "woe:state=24550820", 
+          "woe:state=24550754"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.767, 
+        "ne_latitude": 41.918, 
         "sw_longitude": 21.449, 
         "fullname": "Veles, Veles Municipality, Macedonia", 
         "sw_latitude": 41.616
       }, 
       "id": 24550815
     }
+  ], 
+  "bbox": [
+    21.449, 
+    41.616, 
+    21.884, 
+    41.918
   ]
 }

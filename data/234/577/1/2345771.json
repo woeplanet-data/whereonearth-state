@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              49.970, 
+              49.97, 
               30.145
             ], 
             [
-              49.970, 
+              49.97, 
               31.614
             ], 
             [
@@ -23,7 +23,7 @@
               30.145
             ], 
             [
-              49.970, 
+              49.97, 
               30.145
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345771, 
-        "name": "Kohgiluyeh va Buyer Ahmad", 
         "adjacent_woeid": [
           2345769, 
           2345772, 
@@ -41,20 +39,39 @@
           2345781, 
           2345787
         ], 
-        "ne_latitude": 31.614, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kohgiluyeh va Buyer Ahmad", 
+        "hierarchy": [
+          "woe:state=2345771", 
+          "woe:country=23424851", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345771, 
         "ne_longitude": 51.695, 
         "longitude": 51.271, 
-        "placetype": "State", 
-        "iso": "IR", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424851, 
+        "placetype": "state", 
         "latitude": 30.879, 
-        "sw_longitude": 49.970, 
+        "iso": "IR", 
+        "sw_latitude": 30.145, 
+        "adjacent": [
+          "woe:state=2345781", 
+          "woe:state=2345769", 
+          "woe:state=2345787", 
+          "woe:state=2345772", 
+          "woe:state=2345778"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.614, 
+        "sw_longitude": 49.97, 
         "fullname": "Kohgiluyeh va Buyer Ahmad, Iran", 
-        "sw_latitude": 30.145
+        "date_indexed": "2010-12-02T08:53:34Z"
       }, 
       "id": 2345771
     }
+  ], 
+  "bbox": [
+    49.97, 
+    30.145, 
+    51.695, 
+    31.614
   ]
 }

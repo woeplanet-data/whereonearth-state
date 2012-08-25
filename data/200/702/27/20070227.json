@@ -8,7 +8,7 @@
           [
             [
               47.824, 
-              39.510
+              39.51
             ], 
             [
               47.824, 
@@ -20,11 +20,11 @@
             ], 
             [
               48.345, 
-              39.510
+              39.51
             ], 
             [
               47.824, 
-              39.510
+              39.51
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070227, 
-        "name": "Imisli", 
         "adjacent_woeid": [
           20070198, 
           20070236, 
@@ -43,20 +41,41 @@
           20070257, 
           20070281
         ], 
-        "ne_latitude": 40.172, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Imisli", 
+        "hierarchy": [
+          "woe:state=20070227", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070227, 
         "ne_longitude": 48.345, 
         "longitude": 48.085, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.841, 
+        "iso": "AZ", 
+        "sw_latitude": 39.51, 
+        "adjacent": [
+          "woe:state=20070198", 
+          "woe:state=20070257", 
+          "woe:state=20070242", 
+          "woe:state=20070236", 
+          "woe:state=20070243", 
+          "woe:state=20070281", 
+          "woe:state=20070256"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 40.172, 
         "sw_longitude": 47.824, 
         "fullname": "Imisli, Azerbaijan", 
-        "sw_latitude": 39.510
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070227
     }
+  ], 
+  "bbox": [
+    47.824, 
+    39.51, 
+    48.345, 
+    40.172
   ]
 }

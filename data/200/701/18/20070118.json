@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070118, 
-        "name": "Liep\u0105ja", 
         "adjacent_woeid": [
           56190577, 
           56190523
         ], 
+        "name": "Liep\u0105ja", 
+        "ne_latitude": 56.609, 
         "alias_UNK_S": [
           "Liepaja"
         ], 
-        "ne_latitude": 56.609, 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 20070118, 
         "ne_longitude": 21.106, 
         "longitude": 21.037, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=20070118", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
         "iso": "LV", 
-        "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
+        "sw_latitude": 56.465, 
+        "adjacent": [
+          "woe:state=56190577", 
+          "woe:state=56190523"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 56.537, 
         "sw_longitude": 20.968, 
         "fullname": "Liep\u0105ja, Liepaja, Latvia", 
-        "sw_latitude": 56.465
+        "date_indexed": "2010-12-02T08:49:33Z"
       }, 
       "id": 20070118
     }
+  ], 
+  "bbox": [
+    20.968, 
+    56.465, 
+    21.106, 
+    56.609
   ]
 }

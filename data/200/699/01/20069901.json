@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 20069901, 
-        "name": "Sharq al Istiwa\u00b4iyah", 
         "adjacent_woeid": [
           2345943, 
           20069902, 
           20069909, 
           56013536
         ], 
-        "ne_latitude": 5.617, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Sharq al Istiwa\u00b4iyah", 
+        "hierarchy": [
+          "woe:state=20069901", 
+          "woe:country=23424952", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069901, 
         "ne_longitude": 35.948, 
         "longitude": 33.887, 
-        "placetype": "State", 
-        "iso": "SD", 
-        "date_indexed": "2010-12-02T08:50:49Z", 
-        "parent_woeid": 23424952, 
+        "placetype": "state", 
         "latitude": 4.566, 
+        "iso": "SD", 
+        "sw_latitude": 3.515, 
+        "adjacent": [
+          "woe:state=20069902", 
+          "woe:state=20069909", 
+          "woe:state=2345943", 
+          "woe:state=56013536"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 5.617, 
         "sw_longitude": 31.826, 
         "fullname": "Sharq al Istiwa\u00b4iyah, Sudan", 
-        "sw_latitude": 3.515, 
+        "date_indexed": "2010-12-02T08:50:49Z", 
         "alias_ARA_S": [
           "Sharq Al Istiwariyah"
         ]
       }, 
       "id": 20069901
     }
+  ], 
+  "bbox": [
+    31.826, 
+    3.515, 
+    35.948, 
+    5.617
   ]
 }

@@ -12,11 +12,11 @@
             ], 
             [
               35.313, 
-              -5.790
+              -5.79
             ], 
             [
               38.518, 
-              -5.790
+              -5.79
             ], 
             [
               38.518, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347361, 
-        "name": "Morogoro", 
         "adjacent_woeid": [
           2347353, 
           2347354, 
@@ -43,20 +41,41 @@
           2347369, 
           56025085
         ], 
-        "ne_latitude": -5.790, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Morogoro", 
+        "hierarchy": [
+          "woe:state=2347361", 
+          "woe:country=23424973", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347361, 
         "ne_longitude": 38.518, 
         "longitude": 36.915, 
-        "placetype": "State", 
-        "iso": "TZ", 
-        "date_indexed": "2010-12-02T12:15:58Z", 
-        "parent_woeid": 23424973, 
+        "placetype": "state", 
         "latitude": -7.892, 
+        "iso": "TZ", 
+        "sw_latitude": -9.995, 
+        "adjacent": [
+          "woe:state=2347354", 
+          "woe:state=2347355", 
+          "woe:state=2347358", 
+          "woe:state=56025085", 
+          "woe:state=2347353", 
+          "woe:state=2347365", 
+          "woe:state=2347369"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -5.79, 
         "sw_longitude": 35.313, 
         "fullname": "Morogoro, Tanzania", 
-        "sw_latitude": -9.995
+        "date_indexed": "2010-12-02T12:15:58Z"
       }, 
       "id": 2347361
     }
+  ], 
+  "bbox": [
+    35.313, 
+    -9.995, 
+    38.518, 
+    -5.79
   ]
 }

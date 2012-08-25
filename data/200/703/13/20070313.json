@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              73.310, 
+              73.31, 
               5.233
             ], 
             [
-              73.310, 
-              5.550
+              73.31, 
+              5.55
             ], 
             [
-              73.640, 
-              5.550
+              73.64, 
+              5.55
             ], 
             [
-              73.640, 
+              73.64, 
               5.233
             ], 
             [
-              73.310, 
+              73.31, 
               5.233
             ]
           ]
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070313, 
+        "ne_latitude": 5.55, 
         "name": "Lhaviyani", 
-        "ne_latitude": 5.550, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 73.640, 
-        "longitude": 73.630, 
-        "placetype": "State", 
+        "hierarchy": [
+          "woe:state=20070313", 
+          "woe:country=23424899", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070313, 
+        "ne_longitude": 73.64, 
+        "longitude": 73.63, 
+        "placetype": "state", 
         "iso": "MV", 
-        "date_indexed": "2010-12-02T09:35:37Z", 
-        "parent_woeid": 23424899, 
+        "sw_latitude": 5.233, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 5.399, 
-        "sw_longitude": 73.310, 
+        "sw_longitude": 73.31, 
         "fullname": "Lhaviyani, Maldives", 
-        "sw_latitude": 5.233
+        "date_indexed": "2010-12-02T09:35:37Z"
       }, 
       "id": 20070313
     }
+  ], 
+  "bbox": [
+    73.31, 
+    5.233, 
+    73.64, 
+    5.55
   ]
 }

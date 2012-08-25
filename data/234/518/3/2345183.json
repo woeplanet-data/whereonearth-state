@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345183, 
-        "name": "Maria Trinidad Sanch\u00e9z", 
         "adjacent_woeid": [
           2345177, 
           2345178, 
           2345189
         ], 
-        "ne_latitude": 19.685, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Maria Trinidad Sanch\u00e9z", 
+        "hierarchy": [
+          "woe:state=2345183", 
+          "woe:country=23424800", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345183, 
         "ne_longitude": -69.716, 
-        "longitude": -69.950, 
-        "placetype": "State", 
+        "longitude": -69.95, 
+        "placetype": "state", 
+        "latitude": 19.44, 
         "alias_SPA_S": [
           "Maria Trinidad Sanchez"
         ], 
         "iso": "DO", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "parent_woeid": 23424800, 
-        "latitude": 19.440, 
+        "sw_latitude": 19.196, 
+        "adjacent": [
+          "woe:state=2345177", 
+          "woe:state=2345178", 
+          "woe:state=2345189"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 19.685, 
         "sw_longitude": -70.184, 
         "fullname": "Maria Trinidad Sanch\u00e9z, Dominican Republic", 
-        "sw_latitude": 19.196
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 2345183
     }
+  ], 
+  "bbox": [
+    -70.184, 
+    19.196, 
+    -69.716, 
+    19.685
   ]
 }

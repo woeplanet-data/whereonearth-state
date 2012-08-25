@@ -8,7 +8,7 @@
           [
             [
               98.443, 
-              8.300
+              8.3
             ], 
             [
               98.443, 
@@ -20,11 +20,11 @@
             ], 
             [
               100.091, 
-              8.300
+              8.3
             ], 
             [
               98.443, 
-              8.300
+              8.3
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347184, 
-        "name": "Surat Thani", 
         "adjacent_woeid": [
           2347182, 
           2347183, 
@@ -41,23 +39,42 @@
           2347187, 
           2347188
         ], 
-        "ne_latitude": 10.127, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Surat Thani", 
         "alias_ENG_V": [
           "Changwat Surat Thani"
         ], 
+        "hierarchy": [
+          "woe:state=2347184", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347184, 
         "ne_longitude": 100.091, 
         "longitude": 99.115, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 9.018, 
+        "iso": "TH", 
+        "sw_latitude": 8.3, 
+        "adjacent": [
+          "woe:state=2347182", 
+          "woe:state=2347187", 
+          "woe:state=2347188", 
+          "woe:state=2347185", 
+          "woe:state=2347183"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 10.127, 
         "sw_longitude": 98.443, 
         "fullname": "Surat Thani, Thailand", 
-        "sw_latitude": 8.300
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347184
     }
+  ], 
+  "bbox": [
+    98.443, 
+    8.3, 
+    100.091, 
+    10.127
   ]
 }

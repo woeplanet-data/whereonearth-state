@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549652, 
-        "name": "North Side", 
         "adjacent_woeid": [
           24549651, 
           24549653, 
@@ -44,17 +42,33 @@
           24549658, 
           24549659
         ], 
-        "ne_latitude": 18.267, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "North Side", 
         "alias_ENG_V": [
           "N Side"
         ], 
+        "hierarchy": [
+          "woe:state=24549652", 
+          "woe:country=23424751", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549652, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -63.015, 
         "longitude": -63.036, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "AI", 
         "date_indexed": "2010-12-02T17:42:25Z", 
-        "parent_woeid": 23424751, 
+        "adjacent": [
+          "woe:state=24549654", 
+          "woe:state=24549657", 
+          "woe:state=24549653", 
+          "woe:state=24549651", 
+          "woe:state=24549655", 
+          "woe:state=24549656", 
+          "woe:state=24549658", 
+          "woe:state=24549659"
+        ], 
+        "ne_latitude": 18.267, 
         "latitude": 18.249, 
         "sw_longitude": -63.047, 
         "fullname": "North Side, Anguilla", 
@@ -62,5 +76,11 @@
       }, 
       "id": 24549652
     }
+  ], 
+  "bbox": [
+    -63.047, 
+    18.232, 
+    -63.015, 
+    18.267
   ]
 }

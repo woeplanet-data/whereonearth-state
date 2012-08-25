@@ -32,25 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346237, 
-        "name": "Agalega Islands", 
         "alias_ENG_V": [
           "Agalega"
         ], 
-        "ne_latitude": -10.319, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Agalega Islands", 
+        "hierarchy": [
+          "woe:state=2346237", 
+          "woe:country=23424894", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346237, 
         "ne_longitude": 56.632, 
         "longitude": 56.545, 
-        "placetype": "State", 
-        "iso": "MU", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424894, 
+        "placetype": "state", 
         "latitude": -10.362, 
+        "iso": "MU", 
+        "sw_latitude": -10.465, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -10.319, 
         "sw_longitude": 56.513, 
         "fullname": "Agalega Islands, Mauritius", 
-        "sw_latitude": -10.465
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 2346237
     }
+  ], 
+  "bbox": [
+    56.513, 
+    -10.465, 
+    56.632, 
+    -10.319
   ]
 }

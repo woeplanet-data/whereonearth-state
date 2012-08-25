@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347715, 
-        "name": "Thanh Hoa", 
         "adjacent_woeid": [
           2346001, 
           2347713, 
@@ -41,14 +39,27 @@
           2347742, 
           2347743
         ], 
-        "ne_latitude": 20.614, 
+        "name": "Thanh Hoa", 
+        "hierarchy": [
+          "woe:state=2347715", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347715, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.067, 
         "longitude": 105.223, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347737", 
+          "woe:state=2346001", 
+          "woe:state=2347742", 
+          "woe:state=2347743", 
+          "woe:state=2347713"
+        ], 
+        "ne_latitude": 20.614, 
         "latitude": 19.943, 
         "sw_longitude": 104.378, 
         "fullname": "Thanh Hoa, Vietnam", 
@@ -56,5 +67,11 @@
       }, 
       "id": 2347715
     }
+  ], 
+  "bbox": [
+    104.378, 
+    19.271, 
+    106.067, 
+    20.614
   ]
 }

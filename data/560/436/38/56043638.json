@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "woeid": 56043638, 
-        "name": "Szolnok", 
         "adjacent_woeid": [
           12577923, 
           12577926
         ], 
-        "ne_latitude": 47.264, 
+        "name": "Szolnok", 
+        "hierarchy": [
+          "woe:state=56043638", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56043638, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 20.298, 
         "longitude": 20.184, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "parent_woeid": 23424844, 
-        "latitude": 47.180, 
+        "adjacent": [
+          "woe:state=12577926", 
+          "woe:state=12577923"
+        ], 
+        "ne_latitude": 47.264, 
+        "latitude": 47.18, 
         "sw_longitude": 20.071, 
         "fullname": "Szolnok, Hungary", 
         "sw_latitude": 47.096
       }, 
       "id": 56043638
     }
+  ], 
+  "bbox": [
+    20.071, 
+    47.096, 
+    20.298, 
+    47.264
   ]
 }

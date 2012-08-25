@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347556, 
-        "alias_UNK_V": [
-          "Zakarpattia"
-        ], 
-        "name": "Zakarpats\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Zakarpattia Oblast"
-        ], 
-        "ne_latitude": 49.097, 
-        "ne_longitude": 24.626, 
-        "longitude": 23.381, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2346638, 
           2346645, 
@@ -55,15 +42,48 @@
           20070496, 
           20070497
         ], 
+        "ne_latitude": 49.097, 
+        "name": "Zakarpats\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Zakarpattia Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347556", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347556, 
+        "alias_UNK_V": [
+          "Zakarpattia"
+        ], 
+        "longitude": 23.381, 
+        "ne_longitude": 24.626, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 47.897, 
+        "adjacent": [
+          "woe:state=2347539", 
+          "woe:state=20070497", 
+          "woe:state=2347547", 
+          "woe:state=2346638", 
+          "woe:state=12577943", 
+          "woe:state=20070496", 
+          "woe:state=2346645", 
+          "woe:state=12577925"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.497, 
         "sw_longitude": 22.137, 
         "fullname": "Zakarpats\u00b4ka Oblast\u00b4, Zakarpattia Oblast, Ukraine", 
-        "sw_latitude": 47.897
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347556
     }
+  ], 
+  "bbox": [
+    22.137, 
+    47.897, 
+    24.626, 
+    49.097
   ]
 }

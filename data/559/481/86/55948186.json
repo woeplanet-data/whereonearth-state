@@ -213,9 +213,14 @@
       "properties": {
         "ne:ProvNumber": 10, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55948186", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 48.37839101843082, 
         "ne:Shape_Area": 0.103730464748, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -224,6 +229,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 27.50992842006059, 
+        "adjacent": [
+          "woe:state=55948187", 
+          "woe:state=20069871", 
+          "woe:state=55948195", 
+          "woe:state=55948197", 
+          "woe:state=20069872"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.217, 
         "ne:FIPS_1": "MD70", 
@@ -260,7 +272,6 @@
         ], 
         "name": "Donduseni", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424885, 
         "ne_longitude": 28.01640913247553, 
         "longitude": 27.721, 
         "iso": "MD", 

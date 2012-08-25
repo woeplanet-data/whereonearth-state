@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070128, 
-        "name": "Kasungu", 
         "adjacent_woeid": [
           20070127, 
           20070129, 
@@ -42,20 +40,40 @@
           20070132, 
           20070134
         ], 
-        "ne_latitude": -12.364, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kasungu", 
+        "hierarchy": [
+          "woe:state=20070128", 
+          "woe:country=23424889", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070128, 
         "ne_longitude": 34.007, 
         "longitude": 33.465, 
-        "placetype": "State", 
-        "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
-        "parent_woeid": 23424889, 
+        "placetype": "state", 
         "latitude": -12.995, 
+        "iso": "MW", 
+        "sw_latitude": -13.626, 
+        "adjacent": [
+          "woe:state=20070132", 
+          "woe:state=20070134", 
+          "woe:state=20070131", 
+          "woe:state=20070127", 
+          "woe:state=20070129", 
+          "woe:state=20070130"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -12.364, 
         "sw_longitude": 32.923, 
         "fullname": "Kasungu, Malawi", 
-        "sw_latitude": -13.626
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 20070128
     }
+  ], 
+  "bbox": [
+    32.923, 
+    -13.626, 
+    34.007, 
+    -12.364
   ]
 }

@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20069869, 
-        "name": "Mafeteng", 
         "adjacent_woeid": [
           2346980, 
           20069868, 
           20069870
         ], 
-        "ne_latitude": -29.527, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Mafeteng", 
+        "hierarchy": [
+          "woe:state=20069869", 
+          "woe:country=23424880", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069869, 
         "ne_longitude": 27.825, 
         "longitude": 27.419, 
-        "placetype": "State", 
-        "iso": "LS", 
-        "date_indexed": "2010-12-02T08:57:23Z", 
-        "parent_woeid": 23424880, 
+        "placetype": "state", 
         "latitude": -29.792, 
+        "iso": "LS", 
+        "sw_latitude": -30.057, 
+        "adjacent": [
+          "woe:state=2346980", 
+          "woe:state=20069870", 
+          "woe:state=20069868"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -29.527, 
         "sw_longitude": 27.013, 
         "fullname": "Mafeteng, Lesotho", 
-        "sw_latitude": -30.057
+        "date_indexed": "2010-12-02T08:57:23Z"
       }, 
       "id": 20069869
     }
+  ], 
+  "bbox": [
+    27.013, 
+    -30.057, 
+    27.825, 
+    -29.527
   ]
 }

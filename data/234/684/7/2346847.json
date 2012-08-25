@@ -32,13 +32,17 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.493, 
-        "name": "Hatillo", 
         "adjacent_woeid": [
           2346798, 
           2346808, 
           2346811, 
           2346846
+        ], 
+        "name": "Hatillo", 
+        "hierarchy": [
+          "woe:state=2346847", 
+          "woe:country=23424935", 
+          "woe:planet=1"
         ], 
         "woeid": 2346847, 
         "alias_SPA_V": [
@@ -46,17 +50,29 @@
         ], 
         "ne_longitude": -66.765, 
         "longitude": -66.802, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.407, 
         "sw_longitude": -66.839, 
+        "sw_latitude": 18.321, 
+        "adjacent": [
+          "woe:state=2346811", 
+          "woe:state=2346846", 
+          "woe:state=2346798", 
+          "woe:state=2346808"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.493, 
+        "iso": "PR", 
         "fullname": "Hatillo, Puerto Rico", 
-        "sw_latitude": 18.321
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346847
     }
+  ], 
+  "bbox": [
+    -66.839, 
+    18.321, 
+    -66.765, 
+    18.493
   ]
 }

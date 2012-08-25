@@ -32,30 +32,45 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55844426, 
-        "name": "Kr\u0105slava Novads", 
         "adjacent_woeid": [
           56190554, 
           56190565, 
           56190593
         ], 
+        "name": "Kr\u0105slava Novads", 
+        "latitude": 55.909, 
         "alias_UNK_S": [
           "Kraslava Novads"
         ], 
-        "ne_latitude": 55.963, 
-        "provider": "geoplanet 7.6.0", 
+        "woeid": 55844426, 
         "ne_longitude": 27.308, 
         "longitude": 27.237, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=55844426", 
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
         "iso": "LV", 
         "date_indexed": "2010-12-02T08:49:33Z", 
-        "parent_woeid": 23424874, 
-        "latitude": 55.909, 
+        "adjacent": [
+          "woe:state=56190554", 
+          "woe:state=56190565", 
+          "woe:state=56190593"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 55.963, 
         "sw_longitude": 27.165, 
         "fullname": "Kr\u0105slava Novads, Kraslavas Rajons, Kr\u0105slava Novads, Latvia", 
         "sw_latitude": 55.854
       }, 
       "id": 55844426
     }
+  ], 
+  "bbox": [
+    27.165, 
+    55.854, 
+    27.308, 
+    55.963
   ]
 }

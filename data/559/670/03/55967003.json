@@ -553,9 +553,14 @@
       "properties": {
         "ne:ProvNumber": 0, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=55967003", 
+          "woe:country=23424854", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 6.233935044466762, 
         "ne:Shape_Area": 0.880274246476, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -564,6 +569,11 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -6.051640590440854, 
+        "adjacent": [
+          "woe:state=55967008", 
+          "woe:state=55966995", 
+          "woe:state=55967009"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 5.638, 
         "ne:FIPS_1": "IV29", 
@@ -598,7 +608,6 @@
         ], 
         "name": "Sud-Bandama", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424854, 
         "ne_longitude": -4.937703416679312, 
         "longitude": -5.489, 
         "iso": "CI", 

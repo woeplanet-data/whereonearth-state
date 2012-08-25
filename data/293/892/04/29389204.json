@@ -8,7 +8,7 @@
           [
             [
               18.815, 
-              45.430
+              45.43
             ], 
             [
               18.815, 
@@ -20,11 +20,11 @@
             ], 
             [
               19.632, 
-              45.430
+              45.43
             ], 
             [
               18.815, 
-              45.430
+              45.43
             ]
           ]
         ]
@@ -32,32 +32,46 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 29389204, 
-        "alias_UNK_V": [
-          "West Bahcka"
-        ], 
-        "name": "Zapadna Bachka", 
         "adjacent_woeid": [
           29389196, 
           29389212
         ], 
-        "ne_latitude": 46.041, 
+        "name": "Zapadna Bachka", 
+        "hierarchy": [
+          "woe:state=29389204", 
+          "woe:country=20069818", 
+          "woe:planet=1"
+        ], 
+        "woeid": 29389204, 
         "alias_UNK_Q": [
           "Zapadno-Bachki Okrug"
         ], 
-        "ne_longitude": 19.632, 
+        "alias_UNK_V": [
+          "West Bahcka"
+        ], 
         "longitude": 19.235, 
-        "parent_woeid": 20069818, 
-        "placetype": "State", 
+        "ne_longitude": 19.632, 
+        "placetype": "state", 
+        "latitude": 45.735, 
         "iso": "RS", 
         "date_indexed": "2010-12-02T10:22:30Z", 
+        "adjacent": [
+          "woe:state=29389212", 
+          "woe:state=29389196"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 45.735, 
+        "ne_latitude": 46.041, 
         "sw_longitude": 18.815, 
         "fullname": "Zapadna Bachka, Serbia", 
-        "sw_latitude": 45.430
+        "sw_latitude": 45.43
       }, 
       "id": 29389204
     }
+  ], 
+  "bbox": [
+    18.815, 
+    45.43, 
+    19.632, 
+    46.041
   ]
 }

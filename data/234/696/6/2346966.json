@@ -15,11 +15,11 @@
               17.322
             ], 
             [
-              -62.600, 
+              -62.6, 
               17.322
             ], 
             [
-              -62.600, 
+              -62.6, 
               17.216
             ], 
             [
@@ -32,29 +32,43 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346966, 
-        "name": "Saint George Basseterre", 
         "adjacent_woeid": [
           2346974, 
           2346977
         ], 
-        "ne_latitude": 17.322, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint George Basseterre", 
         "alias_ENG_V": [
           "St. George Basseterre"
         ], 
-        "ne_longitude": -62.600, 
+        "hierarchy": [
+          "woe:state=2346966", 
+          "woe:country=23424940", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346966, 
+        "ne_longitude": -62.6, 
         "longitude": -62.665, 
-        "placetype": "State", 
-        "iso": "KN", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "parent_woeid": 23424940, 
+        "placetype": "state", 
         "latitude": 17.269, 
+        "iso": "KN", 
+        "sw_latitude": 17.216, 
+        "adjacent": [
+          "woe:state=2346974", 
+          "woe:state=2346977"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.322, 
         "sw_longitude": -62.756, 
         "fullname": "Saint George Basseterre, Saint Kitts and Nevis", 
-        "sw_latitude": 17.216
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2346966
     }
+  ], 
+  "bbox": [
+    -62.756, 
+    17.216, 
+    -62.6, 
+    17.322
   ]
 }

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345784, 
-        "name": "Semnan", 
         "adjacent_woeid": [
           2345780, 
           2345785, 
@@ -43,20 +41,41 @@
           56189823, 
           56189824
         ], 
-        "ne_latitude": 37.473, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Semnan", 
+        "hierarchy": [
+          "woe:state=2345784", 
+          "woe:country=23424851", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345784, 
         "ne_longitude": 56.981, 
         "longitude": 54.459, 
-        "placetype": "State", 
-        "iso": "IR", 
-        "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424851, 
+        "placetype": "state", 
         "latitude": 35.855, 
+        "iso": "IR", 
+        "sw_latitude": 34.237, 
+        "adjacent": [
+          "woe:state=2345787", 
+          "woe:state=20070201", 
+          "woe:state=2345780", 
+          "woe:state=56189823", 
+          "woe:state=20070199", 
+          "woe:state=56189824", 
+          "woe:state=2345785"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 37.473, 
         "sw_longitude": 51.938, 
         "fullname": "Semnan, Iran", 
-        "sw_latitude": 34.237
+        "date_indexed": "2010-12-02T08:53:34Z"
       }, 
       "id": 2345784
     }
+  ], 
+  "bbox": [
+    51.938, 
+    34.237, 
+    56.981, 
+    37.473
   ]
 }

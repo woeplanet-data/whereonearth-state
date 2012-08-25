@@ -15,11 +15,11 @@
               17.156
             ], 
             [
-              -24.970, 
+              -24.97, 
               17.156
             ], 
             [
-              -24.970, 
+              -24.97, 
               17.078
             ], 
             [
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 20069964, 
-        "name": "Paul", 
         "adjacent_woeid": [
           2345126, 
           56051556
         ], 
-        "ne_latitude": 17.156, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -24.970, 
+        "name": "Paul", 
+        "hierarchy": [
+          "woe:state=20069964", 
+          "woe:country=23424794", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069964, 
+        "ne_longitude": -24.97, 
         "longitude": -25.019, 
-        "placetype": "State", 
-        "iso": "CV", 
-        "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424794, 
+        "placetype": "state", 
         "latitude": 17.117, 
+        "iso": "CV", 
+        "sw_latitude": 17.078, 
+        "adjacent": [
+          "woe:state=56051556", 
+          "woe:state=2345126"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.156, 
         "sw_longitude": -25.067, 
         "fullname": "Paul, Cape Verde", 
-        "sw_latitude": 17.078
+        "date_indexed": "2010-12-02T12:16:16Z"
       }, 
       "id": 20069964
     }
+  ], 
+  "bbox": [
+    -25.067, 
+    17.078, 
+    -24.97, 
+    17.156
   ]
 }

@@ -8,7 +8,7 @@
           [
             [
               -92.171, 
-              14.190
+              14.19
             ], 
             [
               -92.171, 
@@ -20,11 +20,11 @@
             ], 
             [
               -91.517, 
-              14.190
+              14.19
             ], 
             [
               -92.171, 
-              14.190
+              14.19
             ]
           ]
         ]
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345566, 
-        "name": "Retalhuleu", 
         "adjacent_woeid": [
           2345564, 
           2345568, 
           2345571
         ], 
-        "ne_latitude": 14.714, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Retalhuleu", 
+        "hierarchy": [
+          "woe:state=2345566", 
+          "woe:country=23424834", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345566, 
         "ne_longitude": -91.517, 
         "longitude": -91.844, 
-        "placetype": "State", 
-        "iso": "GT", 
-        "date_indexed": "2010-12-02T16:55:18Z", 
-        "parent_woeid": 23424834, 
+        "placetype": "state", 
         "latitude": 14.452, 
+        "iso": "GT", 
+        "sw_latitude": 14.19, 
+        "adjacent": [
+          "woe:state=2345564", 
+          "woe:state=2345568", 
+          "woe:state=2345571"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.714, 
         "sw_longitude": -92.171, 
         "fullname": "Retalhuleu, Guatemala", 
-        "sw_latitude": 14.190
+        "date_indexed": "2010-12-02T16:55:18Z"
       }, 
       "id": 2345566
     }
+  ], 
+  "bbox": [
+    -92.171, 
+    14.19, 
+    -91.517, 
+    14.714
   ]
 }

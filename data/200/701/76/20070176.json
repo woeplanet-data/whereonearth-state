@@ -12,14 +12,14 @@
             ], 
             [
               60.053, 
-              54.720
+              54.72
             ], 
             [
-              67.040, 
-              54.720
+              67.04, 
+              54.72
             ], 
             [
-              67.040, 
+              67.04, 
               48.145
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070176, 
-        "name": "Qostanay", 
         "adjacent_woeid": [
           2345980, 
           2345996, 
@@ -43,20 +41,41 @@
           20070174, 
           20070178
         ], 
-        "ne_latitude": 54.720, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 67.040, 
+        "name": "Qostanay", 
+        "hierarchy": [
+          "woe:state=20070176", 
+          "woe:country=23424871", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070176, 
+        "ne_longitude": 67.04, 
         "longitude": 63.547, 
-        "placetype": "State", 
-        "iso": "KZ", 
-        "date_indexed": "2010-12-02T08:54:03Z", 
-        "parent_woeid": 23424871, 
+        "placetype": "state", 
         "latitude": 51.433, 
+        "iso": "KZ", 
+        "sw_latitude": 48.145, 
+        "adjacent": [
+          "woe:state=2345996", 
+          "woe:state=2345980", 
+          "woe:state=2346893", 
+          "woe:state=2346904", 
+          "woe:state=2346916", 
+          "woe:state=20070178", 
+          "woe:state=20070174"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 54.72, 
         "sw_longitude": 60.053, 
         "fullname": "Qostanay, Kazakhstan", 
-        "sw_latitude": 48.145
+        "date_indexed": "2010-12-02T08:54:03Z"
       }, 
       "id": 20070176
     }
+  ], 
+  "bbox": [
+    60.053, 
+    48.145, 
+    67.04, 
+    54.72
   ]
 }

@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 20070504, 
-        "alias_UNK_V": [
-          "Trnava"
-        ], 
-        "name": "Trnavsky", 
         "adjacent_woeid": [
           2344710, 
           12577918, 
@@ -44,13 +39,29 @@
           20070493, 
           20070505
         ], 
+        "name": "Trnavsky", 
         "ne_latitude": 48.876, 
+        "hierarchy": [
+          "woe:state=20070504", 
+          "woe:country=23424877", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070504, 
+        "alias_UNK_V": [
+          "Trnava"
+        ], 
+        "longitude": 17.46, 
         "ne_longitude": 17.985, 
-        "longitude": 17.460, 
-        "parent_woeid": 23424877, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SK", 
-        "date_indexed": "2010-12-02T08:50:01Z", 
+        "sw_latitude": 47.757, 
+        "adjacent": [
+          "woe:state=20070505", 
+          "woe:state=12577918", 
+          "woe:state=2344710", 
+          "woe:state=20070492", 
+          "woe:state=20070493"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.317, 
         "sw_longitude": 16.934, 
@@ -58,9 +69,15 @@
         "alias_GER_Q": [
           "Tyrnau"
         ], 
-        "sw_latitude": 47.757
+        "date_indexed": "2010-12-02T08:50:01Z"
       }, 
       "id": 20070504
     }
+  ], 
+  "bbox": [
+    16.934, 
+    47.757, 
+    17.985, 
+    48.876
   ]
 }

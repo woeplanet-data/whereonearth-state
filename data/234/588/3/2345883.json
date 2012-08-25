@@ -377,11 +377,16 @@
         "alias_ENG_P": [
           "Saitama Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345883", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.2708613140984, 
         "ne:Shape_Area": 0.388227610273, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc0ac\uc774\ud0c0\ub9c8\ucf04"
         ], 
@@ -391,7 +396,7 @@
         "alias_CHI_Q": [
           "\u57fc\u7389\u53bf"
         ], 
-        "ne:OBJECTID": 1858, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u3055\u3044\u305f\u307e\u30fb\u3051\u3093"
         ], 
@@ -401,6 +406,15 @@
           "Saitaman Prefektuuri"
         ], 
         "sw_longitude": 138.69952396086217, 
+        "adjacent": [
+          "woe:state=2345854", 
+          "woe:state=2345895", 
+          "woe:state=2345889", 
+          "woe:state=2345887", 
+          "woe:state=2345860", 
+          "woe:state=2345863", 
+          "woe:state=2345875"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 36.018, 
         "ne:FIPS_1": "JA34", 
@@ -410,9 +424,9 @@
         "ne:FIRST_HASC": "JP.KS", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 88.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1858, 
         "ne:Postal": "ST", 
         "ne:Region_Cod": "JPN-KNT", 
         "ne:VARNAME_1": null, 
@@ -431,8 +445,8 @@
           "Pr\u00e4fektur Saitama"
         ], 
         "woe:id": "2345883", 
-        "ne:HASC_1": "JP.ST", 
-        "lang": "JPN", 
+        "name": "\u57fc\u7389\u770c", 
+        "ne:VertexCou": 88.0, 
         "adjacent_woeid": [
           2345854, 
           2345860, 
@@ -443,9 +457,8 @@
           2345895
         ], 
         "ne:FIRST_FIPS": "JA18", 
-        "name": "\u57fc\u7389\u770c", 
+        "ne:HASC_1": "JP.ST", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 139.8748010603207, 
         "longitude": 139.306, 
         "iso": "JP", 

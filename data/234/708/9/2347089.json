@@ -15,11 +15,11 @@
               46.365
             ], 
             [
-              6.310, 
+              6.31, 
               46.365
             ], 
             [
-              6.310, 
+              6.31, 
               46.129
             ], 
             [
@@ -40,8 +40,13 @@
         "alias_SWE_S": [
           "Geneve"
         ], 
+        "hierarchy": [
+          "woe:state=2347089", 
+          "woe:country=23424957", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.365, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uce78\ud1a4 \uc81c\ub124\ubc14"
         ], 
@@ -62,6 +67,10 @@
           "Geneven kantoni"
         ], 
         "sw_longitude": 5.956, 
+        "adjacent": [
+          "woe:state=2347105", 
+          "woe:state=7153329"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.223, 
         "date_indexed": "2010-12-02T18:19:21Z", 
@@ -74,8 +83,7 @@
           7153329
         ], 
         "name": "Canton de Gen\u00e8ve", 
-        "parent_woeid": 23424957, 
-        "ne_longitude": 6.310, 
+        "ne_longitude": 6.31, 
         "longitude": 6.133, 
         "alias_FRE_A": [
           "GE"
@@ -89,5 +97,11 @@
       }, 
       "id": 2347089
     }
+  ], 
+  "bbox": [
+    5.956, 
+    46.129, 
+    6.31, 
+    46.365
   ]
 }

@@ -8051,11 +8051,16 @@
         "alias_KOR_Q": [
           "\ub77c\uc790\uc2a4\ud0c4"
         ], 
+        "hierarchy": [
+          "woe:state=2345757", 
+          "woe:country=23424848", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 30.204177354501383, 
         "ne:Shape_Area": 31.0985540296, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": null, 
         "alias_ENG_A": [
           "RAJ"
         ], 
@@ -8065,13 +8070,22 @@
         "alias_CHI_Q": [
           "\u62c9\u57fa\u65af\u5766"
         ], 
-        "ne:OBJECTID": 3250, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30e9\u30b8\u30e3\u30b9\u30bf\u30f3"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 69.46462853407962, 
+        "adjacent": [
+          "woe:state=2345743", 
+          "woe:state=2345744", 
+          "woe:state=2345749", 
+          "woe:state=2346498", 
+          "woe:state=2345756", 
+          "woe:state=2346499", 
+          "woe:state=2345760"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 26.623, 
         "ne:FIPS_1": "IN24", 
@@ -8079,9 +8093,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 23.03606191652426, 
-        "ne:VertexCou": 1987.0, 
-        "ne:VALIDFR_1": null, 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3250, 
         "ne:Postal": "RJ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Greater Rajasthan|Rajputana", 
@@ -8097,8 +8111,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 343110.1, 
         "woe:id": "2345757", 
-        "ne:HASC_1": "IN.RJ", 
-        "lang": "ENG", 
+        "name": "Rajasthan", 
+        "ne:VertexCou": 1987.0, 
         "adjacent_woeid": [
           2345743, 
           2345744, 
@@ -8108,9 +8122,8 @@
           2346498, 
           2346499
         ], 
-        "name": "Rajasthan", 
+        "ne:HASC_1": "IN.RJ", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424848, 
         "ne_longitude": 78.24652143781418, 
         "longitude": 73.879, 
         "iso": "IN", 

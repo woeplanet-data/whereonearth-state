@@ -31,9 +31,43 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
+        "hierarchy": [
+          "woe:state=2347670", 
+          "woe:country=23424980", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 42.288, 
+        "placetype": "state", 
+        "alias_KOR_Q": [
+          "\ud0c0\uc288\ucf04\ud2b8"
+        ], 
+        "alias_CHI_Q": [
+          "\u5854\u4ec0\u5e72"
+        ], 
         "woeid": 2347670, 
-        "name": "Toshkent", 
+        "alias_JPN_Q": [
+          "\u30bf\u30b7\u30b1\u30f3\u30c8"
+        ], 
+        "sw_longitude": 68.646, 
+        "adjacent": [
+          "woe:state=20070193", 
+          "woe:state=20070294", 
+          "woe:state=2347666", 
+          "woe:state=2345982", 
+          "woe:state=2347669", 
+          "woe:state=20070192", 
+          "woe:state=20070172"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.242, 
+        "alias_NOR_Q": [
+          "Tasjkent"
+        ], 
+        "sw_latitude": 40.195, 
+        "alias_GER_Q": [
+          "Taschkent"
+        ], 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2345982, 
           2347666, 
@@ -43,35 +77,20 @@
           20070193, 
           20070294
         ], 
-        "ne_latitude": 42.288, 
-        "alias_JPN_Q": [
-          "\u30bf\u30b7\u30b1\u30f3\u30c8"
-        ], 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Toshkent", 
         "ne_longitude": 71.261, 
         "longitude": 69.953, 
-        "alias_CHI_Q": [
-          "\u5854\u4ec0\u5e72"
-        ], 
-        "placetype": "State", 
         "iso": "UZ", 
         "date_indexed": "2010-12-02T18:18:47Z", 
-        "alias_KOR_Q": [
-          "\ud0c0\uc288\ucf04\ud2b8"
-        ], 
-        "parent_woeid": 23424980, 
-        "latitude": 41.242, 
-        "sw_longitude": 68.646, 
-        "fullname": "Toshkent, Uzbekistan", 
-        "alias_NOR_Q": [
-          "Tasjkent"
-        ], 
-        "alias_GER_Q": [
-          "Taschkent"
-        ], 
-        "sw_latitude": 40.195
+        "fullname": "Toshkent, Uzbekistan"
       }, 
       "id": 2347670
     }
+  ], 
+  "bbox": [
+    68.646, 
+    40.195, 
+    71.261, 
+    42.288
   ]
 }

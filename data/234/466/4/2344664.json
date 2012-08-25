@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2344664, 
-        "name": "Huila", 
         "adjacent_woeid": [
           2344656, 
           2344657, 
@@ -42,20 +40,40 @@
           2344663, 
           2344667
         ], 
-        "ne_latitude": -13.295, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Huila", 
+        "hierarchy": [
+          "woe:state=2344664", 
+          "woe:country=23424745", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344664, 
         "ne_longitude": 16.753, 
         "longitude": 14.949, 
-        "placetype": "State", 
-        "iso": "AO", 
-        "date_indexed": "2010-12-02T17:52:14Z", 
-        "parent_woeid": 23424745, 
+        "placetype": "state", 
         "latitude": -14.823, 
+        "iso": "AO", 
+        "sw_latitude": -16.352, 
+        "adjacent": [
+          "woe:state=2344656", 
+          "woe:state=2344657", 
+          "woe:state=2344659", 
+          "woe:state=2344662", 
+          "woe:state=2344663", 
+          "woe:state=2344667"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -13.295, 
         "sw_longitude": 13.145, 
         "fullname": "Huila, Angola", 
-        "sw_latitude": -16.352
+        "date_indexed": "2010-12-02T17:52:14Z"
       }, 
       "id": 2344664
     }
+  ], 
+  "bbox": [
+    13.145, 
+    -16.352, 
+    16.753, 
+    -13.295
   ]
 }

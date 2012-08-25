@@ -1917,11 +1917,16 @@
       "properties": {
         "ne:ProvNumber": 6, 
         "ne:ScaleRank": 3, 
+        "hierarchy": [
+          "woe:state=7153321", 
+          "woe:country=23424819", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.45199697508036, 
         "ne:Shape_Area": 1.96822748497, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 11, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\ub9ac\ubb34\uc7c1"
         ], 
@@ -1933,13 +1938,20 @@
         "alias_ITA_Q": [
           "Limosino"
         ], 
-        "ne:OBJECTID": 2681, 
+        "ne:DataRank": 3, 
         "alias_JPN_Q": [
           "\u30ea\u30e0\u30fc\u30b6\u30f3"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 0.635909865248152, 
+        "adjacent": [
+          "woe:state=7153309", 
+          "woe:state=7153310", 
+          "woe:state=7153314", 
+          "woe:state=7153323", 
+          "woe:state=7153327"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 45.688, 
         "ne:FIPS_1": "FRB1", 
@@ -1947,9 +1959,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Region", 
         "sw_latitude": 44.932864895298735, 
-        "ne:VertexCou": 475.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 3, 
+        "lang": "FRE", 
+        "ne:MAP_COLOR": 11, 
+        "ne:OBJECTID": 2681, 
         "ne:Postal": null, 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Lemosin", 
@@ -1965,8 +1977,8 @@
         "ne:LabelRank": 3, 
         "ne:Area_sqkm": 17014.4, 
         "woe:id": "7153321", 
-        "ne:HASC_1": null, 
-        "lang": "FRE", 
+        "name": "Limousin", 
+        "ne:VertexCou": 475.0, 
         "adjacent_woeid": [
           7153309, 
           7153310, 
@@ -1974,9 +1986,8 @@
           7153323, 
           7153327
         ], 
-        "name": "Limousin", 
+        "ne:HASC_1": null, 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424819, 
         "ne_longitude": 2.59775394079179, 
         "longitude": 1.621, 
         "iso": "FR", 

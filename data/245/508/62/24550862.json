@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550862, 
-        "alias_UNK_V": [
-          "Opstina Tetovo"
-        ], 
-        "name": "Tetovo", 
-        "alias_ENG_P": [
-          "Tetovo Municipality"
-        ], 
-        "ne_latitude": 42.136, 
-        "ne_longitude": 21.111, 
-        "longitude": 20.941, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550751, 
           24550771, 
@@ -52,15 +39,45 @@
           24550828, 
           24550861
         ], 
+        "name": "Tetovo", 
+        "alias_ENG_P": [
+          "Tetovo Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550862", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550862, 
+        "alias_UNK_V": [
+          "Opstina Tetovo"
+        ], 
+        "longitude": 20.941, 
+        "ne_longitude": 21.111, 
+        "placetype": "state", 
+        "latitude": 42.052, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550828", 
+          "woe:state=24550751", 
+          "woe:state=24550771", 
+          "woe:state=24550861", 
+          "woe:state=24550821"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 42.052, 
+        "ne_latitude": 42.136, 
         "sw_longitude": 20.771, 
         "fullname": "Tetovo, Tetovo Municipality, Macedonia", 
         "sw_latitude": 41.968
       }, 
       "id": 24550862
     }
+  ], 
+  "bbox": [
+    20.771, 
+    41.968, 
+    21.111, 
+    42.136
   ]
 }

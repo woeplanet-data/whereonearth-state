@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070063, 
-        "name": "Veliko Turnovo", 
         "adjacent_woeid": [
           2346648, 
           20070049, 
@@ -44,23 +42,45 @@
           20070069, 
           20070072
         ], 
-        "ne_latitude": 43.655, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Veliko Turnovo", 
         "alias_ENG_V": [
           "Veliko Tarnovo"
         ], 
+        "hierarchy": [
+          "woe:state=20070063", 
+          "woe:country=23424771", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070063, 
         "ne_longitude": 26.173, 
         "longitude": 25.624, 
-        "placetype": "State", 
-        "iso": "BG", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424771, 
+        "placetype": "state", 
         "latitude": 43.217, 
+        "iso": "BG", 
+        "sw_latitude": 42.779, 
+        "adjacent": [
+          "woe:state=20070062", 
+          "woe:state=20070064", 
+          "woe:state=20070065", 
+          "woe:state=20070069", 
+          "woe:state=20070049", 
+          "woe:state=20070054", 
+          "woe:state=2346648", 
+          "woe:state=20070072"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 43.655, 
         "sw_longitude": 25.075, 
         "fullname": "Veliko Turnovo, Bulgaria", 
-        "sw_latitude": 42.779
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 20070063
     }
+  ], 
+  "bbox": [
+    25.075, 
+    42.779, 
+    26.173, 
+    43.655
   ]
 }

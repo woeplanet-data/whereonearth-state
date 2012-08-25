@@ -865,11 +865,16 @@
         "alias_ENG_P": [
           "Silesian"
         ], 
+        "hierarchy": [
+          "woe:state=12577946", 
+          "woe:country=23424923", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 51.037117621481116, 
         "ne:Shape_Area": 1.54580799397, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "19980727", 
+        "ne:MAP_COLOR": 2, 
         "alias_POR_Q": [
           "Silesia"
         ], 
@@ -883,7 +888,7 @@
           "Slesia"
         ], 
         "ne:sameAsCity": -99, 
-        "ne:DataRank": 5, 
+        "ne:OBJECTID": 3146, 
         "alias_JPN_Q": [
           "\u30b7\u30ed\u30f3\u30b9\u30af\u770c"
         ], 
@@ -893,6 +898,13 @@
           "Silesia"
         ], 
         "sw_longitude": 18.01908654121098, 
+        "adjacent": [
+          "woe:state=12577940", 
+          "woe:state=12577942", 
+          "woe:state=12577947", 
+          "woe:state=20070494", 
+          "woe:state=12577937"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.247, 
         "ne:FIPS_1": "PL29", 
@@ -902,14 +914,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "lang": "POL", 
-        "ne:MAP_COLOR": 2, 
-        "ne:OBJECTID": 3146, 
+        "ne:VertexCou": 198.0, 
+        "ne:VALIDFR_1": "19980727", 
+        "ne:DataRank": 5, 
         "ne:Postal": "SL", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Slaskie", 
         "ne:ISO": "POL", 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 7.4563877529, 
         "alias_DUT_Q": [
@@ -920,7 +932,7 @@
           "Silezie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:TYPE_1": "Wojew\u00f3dztwo", 
+        "ne:Region_C_3": null, 
         "ne:LabelRank": 5, 
         "alias_POL_S": [
           "Slaskie"
@@ -930,8 +942,8 @@
           "Oberschlesien"
         ], 
         "woe:id": "12577946", 
-        "name": "Sl\u0105skie", 
-        "ne:VertexCou": 198.0, 
+        "ne:HASC_1": "PL.SL", 
+        "lang": "POL", 
         "adjacent_woeid": [
           12577937, 
           12577940, 
@@ -940,22 +952,21 @@
           20070494
         ], 
         "ne:FIRST_FIPS": "PL83", 
-        "ne:HASC_1": "PL.SL", 
+        "name": "Sl\u0105skie", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
-        "parent_woeid": 23424923, 
         "ne_longitude": 19.965634393412586, 
         "longitude": 19.004, 
-        "alias_FRE_S": [
-          "La Silesie"
-        ], 
+        "ne:NEV_Countr": "Poland", 
         "ne:NAME_1": "Silesian", 
         "iso": "PL", 
         "sw_latitude": 49.387011623487695, 
         "ne:NL_NAME_1": null, 
         "ne:ProvNumber": 2000, 
         "ne:Region": null, 
-        "ne:NEV_Countr": "Poland", 
+        "alias_FRE_S": [
+          "La Silesie"
+        ], 
         "ne:RegionVar": null, 
         "alias_FRE_Q": [
           "La Sil\u00e9sie"

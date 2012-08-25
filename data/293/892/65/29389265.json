@@ -43,8 +43,13 @@
         "alias_SWE_S": [
           "Norra Osterbotten"
         ], 
+        "hierarchy": [
+          "woe:state=29389265", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 66.486, 
-        "placetype": "State", 
+        "placetype": "state", 
         "woeid": 29389265, 
         "alias_ENG_P": [
           "Northern Ostrobothnia"
@@ -56,6 +61,13 @@
         "provider": "geoplanet 7.6.0", 
         "latitude": 64.958, 
         "date_indexed": "2010-12-02T16:39:41Z", 
+        "adjacent": [
+          "woe:state=29389264", 
+          "woe:state=29389257", 
+          "woe:state=29389258", 
+          "woe:state=29389263", 
+          "woe:state=29389262"
+        ], 
         "lang": "FIN", 
         "adjacent_woeid": [
           29389262, 
@@ -65,7 +77,6 @@
           29389257
         ], 
         "name": "Pohjois-pohjanmaan maakunta", 
-        "parent_woeid": 23424812, 
         "ne_longitude": 30.138, 
         "longitude": 26.912, 
         "iso": "FI", 
@@ -74,5 +85,11 @@
       }, 
       "id": 29389265
     }
+  ], 
+  "bbox": [
+    23.613, 
+    63.429, 
+    30.138, 
+    66.486
   ]
 }

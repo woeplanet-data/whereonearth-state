@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -75.710, 
+              -75.71, 
               -55.979
             ], 
             [
-              -75.710, 
+              -75.71, 
               -48.622
             ], 
             [
@@ -23,7 +23,7 @@
               -55.979
             ], 
             [
-              -75.710, 
+              -75.71, 
               -55.979
             ]
           ]
@@ -32,10 +32,18 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": -48.622, 
+        "adjacent_woeid": [
+          2344694, 
+          2345019
+        ], 
         "name": "Magallanes y Antartica Chilena", 
         "alias_ENG_P": [
           "Magallanes and Antartica Chilena Region"
+        ], 
+        "hierarchy": [
+          "woe:state=2345027", 
+          "woe:country=23424782", 
+          "woe:planet=1"
         ], 
         "woeid": 2345027, 
         "alias_SPA_V": [
@@ -43,24 +51,30 @@
         ], 
         "ne_longitude": -66.418, 
         "longitude": -72.721, 
-        "parent_woeid": 23424782, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -51.311, 
         "alias_SPA_S": [
           "Region de Magallanes y de la Antartica Chilena"
         ], 
-        "adjacent_woeid": [
-          2344694, 
-          2345019
+        "sw_longitude": -75.71, 
+        "sw_latitude": -55.979, 
+        "adjacent": [
+          "woe:state=2345019", 
+          "woe:state=2344694"
         ], 
-        "iso": "CL", 
-        "date_indexed": "2010-12-02T12:15:28Z", 
         "provider": "geoplanet 7.6.0", 
-        "latitude": -51.311, 
-        "sw_longitude": -75.710, 
+        "ne_latitude": -48.622, 
+        "iso": "CL", 
         "fullname": "Magallanes y Antartica Chilena, Magallanes and Antartica Chilena Region, Chile", 
-        "sw_latitude": -55.979
+        "date_indexed": "2010-12-02T12:15:28Z"
       }, 
       "id": 2345027
     }
+  ], 
+  "bbox": [
+    -75.71, 
+    -55.979, 
+    -66.418, 
+    -48.622
   ]
 }

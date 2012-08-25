@@ -12,11 +12,11 @@
             ], 
             [
               55.486, 
-              24.940
+              24.94
             ], 
             [
               56.313, 
-              24.940
+              24.94
             ], 
             [
               56.313, 
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 55927046, 
-        "name": "Buraymi", 
         "adjacent_woeid": [
           2346255, 
           2347109, 
           2347114, 
           7038775
         ], 
-        "ne_latitude": 24.940, 
+        "name": "Buraymi", 
+        "hierarchy": [
+          "woe:state=55927046", 
+          "woe:country=23424898", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55927046, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 56.313, 
         "longitude": 55.899, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "OM", 
         "date_indexed": "2010-12-02T09:35:38Z", 
-        "parent_woeid": 23424898, 
+        "adjacent": [
+          "woe:state=2347109", 
+          "woe:state=7038775", 
+          "woe:state=2346255", 
+          "woe:state=2347114"
+        ], 
+        "ne_latitude": 24.94, 
         "latitude": 24.272, 
         "sw_longitude": 55.486, 
         "fullname": "Buraymi, Oman", 
@@ -58,5 +68,11 @@
       }, 
       "id": 55927046
     }
+  ], 
+  "bbox": [
+    55.486, 
+    23.604, 
+    56.313, 
+    24.94
   ]
 }

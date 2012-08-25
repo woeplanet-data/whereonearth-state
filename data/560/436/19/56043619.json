@@ -15,11 +15,11 @@
               48.155
             ], 
             [
-              20.870, 
+              20.87, 
               48.155
             ], 
             [
-              20.870, 
+              20.87, 
               48.023
             ], 
             [
@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "woeid": 56043619, 
-        "name": "Miskolc", 
         "adjacent_woeid": [
           12577914, 
           12577920
         ], 
-        "ne_latitude": 48.155, 
+        "name": "Miskolc", 
+        "hierarchy": [
+          "woe:state=56043619", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56043619, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 20.870, 
+        "ne_longitude": 20.87, 
         "longitude": 20.676, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
         "date_indexed": "2010-12-02T09:55:38Z", 
-        "parent_woeid": 23424844, 
+        "adjacent": [
+          "woe:state=12577914", 
+          "woe:state=12577920"
+        ], 
+        "ne_latitude": 48.155, 
         "latitude": 48.089, 
         "sw_longitude": 20.482, 
         "fullname": "Miskolc, Hungary", 
@@ -53,5 +61,11 @@
       }, 
       "id": 56043619
     }
+  ], 
+  "bbox": [
+    20.482, 
+    48.023, 
+    20.87, 
+    48.155
   ]
 }

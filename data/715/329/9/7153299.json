@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 7153299, 
+        "placetype": "state", 
         "name": "Hainaut", 
         "alias_ENG_P": [
           "Hainault"
         ], 
-        "ne_latitude": 50.811, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=7153299", 
+          "woe:country=23424757", 
+          "woe:planet=1"
+        ], 
+        "woeid": 7153299, 
         "ne_longitude": 4.617, 
         "longitude": 3.898, 
-        "placetype": "State", 
+        "ne_latitude": 50.811, 
         "alias_DUT_Q": [
           "Henegouwen"
         ], 
@@ -56,17 +60,33 @@
           22525998
         ], 
         "iso": "BE", 
-        "date_indexed": "2010-12-02T16:31:49Z", 
-        "parent_woeid": 23424757, 
+        "sw_latitude": 49.942, 
+        "adjacent": [
+          "woe:state=22525997", 
+          "woe:state=7153315", 
+          "woe:state=7153303", 
+          "woe:state=7153324", 
+          "woe:state=7153304", 
+          "woe:state=7153326", 
+          "woe:state=22525998", 
+          "woe:state=7153305"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 50.362, 
         "sw_longitude": 2.842, 
         "fullname": "Hainaut, Hainault, Belgium", 
         "alias_GER_Q": [
           "Hennegau"
         ], 
-        "sw_latitude": 49.942
+        "date_indexed": "2010-12-02T16:31:49Z"
       }, 
       "id": 7153299
     }
+  ], 
+  "bbox": [
+    2.842, 
+    49.942, 
+    4.617, 
+    50.811
   ]
 }

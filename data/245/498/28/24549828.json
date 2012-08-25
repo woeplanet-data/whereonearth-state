@@ -32,26 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549828, 
-        "name": "Saint-Pierre", 
-        "alias_ENG_P": [
-          "Arrondissement of Saint-Pierre"
-        ], 
-        "ne_latitude": -21.077, 
-        "ne_longitude": 55.819, 
-        "longitude": 55.577, 
-        "parent_woeid": 23424931, 
-        "placetype": "State", 
-        "alias_FRE_V": [
-          "Arrondissement de Saint-Pierre"
-        ], 
         "adjacent_woeid": [
           24549829, 
           24549830, 
           24549831
         ], 
+        "name": "Saint-Pierre", 
+        "alias_ENG_P": [
+          "Arrondissement of Saint-Pierre"
+        ], 
+        "hierarchy": [
+          "woe:state=24549828", 
+          "woe:country=23424931", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549828, 
+        "ne_longitude": 55.819, 
+        "longitude": 55.577, 
+        "ne_latitude": -21.077, 
+        "placetype": "state", 
+        "alias_FRE_V": [
+          "Arrondissement de Saint-Pierre"
+        ], 
         "iso": "RE", 
         "date_indexed": "2010-12-02T09:35:31Z", 
+        "adjacent": [
+          "woe:state=24549829", 
+          "woe:state=24549830", 
+          "woe:state=24549831"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -21.225, 
         "sw_longitude": 55.334, 
@@ -60,5 +69,11 @@
       }, 
       "id": 24549828
     }
+  ], 
+  "bbox": [
+    55.334, 
+    -21.372, 
+    55.819, 
+    -21.077
   ]
 }

@@ -15,11 +15,11 @@
               41.279
             ], 
             [
-              22.690, 
+              22.69, 
               41.279
             ], 
             [
-              22.690, 
+              22.69, 
               41.122
             ], 
             [
@@ -32,34 +32,50 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550827, 
-        "alias_UNK_V": [
-          "Opstina Bogdanci"
-        ], 
-        "name": "Bogdanci", 
-        "alias_ENG_P": [
-          "Bogdanci Municipality"
-        ], 
-        "ne_latitude": 41.279, 
-        "ne_longitude": 22.690, 
-        "longitude": 22.599, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           12577884, 
           24550813, 
           24550840, 
           24550860
         ], 
+        "name": "Bogdanci", 
+        "alias_ENG_P": [
+          "Bogdanci Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550827", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550827, 
+        "alias_UNK_V": [
+          "Opstina Bogdanci"
+        ], 
+        "longitude": 22.599, 
+        "ne_longitude": 22.69, 
+        "placetype": "state", 
+        "latitude": 41.2, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=12577884", 
+          "woe:state=24550840", 
+          "woe:state=24550860", 
+          "woe:state=24550813"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.200, 
+        "ne_latitude": 41.279, 
         "sw_longitude": 22.508, 
         "fullname": "Bogdanci, Bogdanci Municipality, Macedonia", 
         "sw_latitude": 41.122
       }, 
       "id": 24550827
     }
+  ], 
+  "bbox": [
+    22.508, 
+    41.122, 
+    22.69, 
+    41.279
   ]
 }

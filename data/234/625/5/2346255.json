@@ -8,23 +8,23 @@
           [
             [
               55.207, 
-              21.870
+              21.87
             ], 
             [
               55.207, 
-              24.140
+              24.14
             ], 
             [
               56.875, 
-              24.140
+              24.14
             ], 
             [
               56.875, 
-              21.870
+              21.87
             ], 
             [
               55.207, 
-              21.870
+              21.87
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2346255, 
-        "name": "Az Zahirah", 
         "adjacent_woeid": [
           2346257, 
           2346261, 
@@ -42,23 +40,43 @@
           7038775, 
           55927046
         ], 
-        "ne_latitude": 24.140, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Az Zahirah", 
+        "hierarchy": [
+          "woe:state=2346255", 
+          "woe:country=23424898", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346255, 
         "ne_longitude": 56.875, 
         "longitude": 56.041, 
-        "placetype": "State", 
-        "iso": "OM", 
-        "date_indexed": "2010-12-02T09:35:38Z", 
-        "parent_woeid": 23424898, 
+        "placetype": "state", 
         "latitude": 23.405, 
+        "iso": "OM", 
+        "sw_latitude": 21.87, 
+        "adjacent": [
+          "woe:state=2347109", 
+          "woe:state=2346261", 
+          "woe:state=7038775", 
+          "woe:state=2346257", 
+          "woe:state=2346954", 
+          "woe:state=55927046"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 24.14, 
         "sw_longitude": 55.207, 
         "fullname": "Az Zahirah, Oman", 
         "alias_ARA_V": [
           "Ad Dhahirah"
         ], 
-        "sw_latitude": 21.870
+        "date_indexed": "2010-12-02T09:35:38Z"
       }, 
       "id": 2346255
     }
+  ], 
+  "bbox": [
+    55.207, 
+    21.87, 
+    56.875, 
+    24.14
   ]
 }

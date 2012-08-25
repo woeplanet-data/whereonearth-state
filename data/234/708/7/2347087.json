@@ -40,8 +40,13 @@
         "alias_ENG_P": [
           "Canton of Berne"
         ], 
+        "hierarchy": [
+          "woe:state=2347087", 
+          "woe:country=23424957", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 47.345, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_KOR_Q": [
           "\uce78\ud1a4 \ubca0\ub978"
         ], 
@@ -59,6 +64,19 @@
           "Bernin kantoni"
         ], 
         "sw_longitude": 6.862, 
+        "adjacent": [
+          "woe:state=2347088", 
+          "woe:state=2347108", 
+          "woe:state=2347094", 
+          "woe:state=2347104", 
+          "woe:state=2347105", 
+          "woe:state=2347083", 
+          "woe:state=2347093", 
+          "woe:state=2347095", 
+          "woe:state=2347096", 
+          "woe:state=2347100", 
+          "woe:state=2347103"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.836, 
         "date_indexed": "2010-12-02T18:19:21Z", 
@@ -80,7 +98,6 @@
           2347108
         ], 
         "name": "Kanton Bern", 
-        "parent_woeid": 23424957, 
         "ne_longitude": 8.455, 
         "longitude": 7.658, 
         "iso": "CH", 
@@ -92,5 +109,11 @@
       }, 
       "id": 2347087
     }
+  ], 
+  "bbox": [
+    6.862, 
+    46.326, 
+    8.455, 
+    47.345
   ]
 }

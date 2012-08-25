@@ -12,11 +12,11 @@
             ], 
             [
               -86.267, 
-              14.580
+              14.58
             ], 
             [
               -84.884, 
-              14.580
+              14.58
             ], 
             [
               -84.884, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346423, 
-        "name": "Jinotega", 
         "adjacent_woeid": [
           2345629, 
           2345637, 
@@ -43,20 +41,41 @@
           2346429, 
           20069833
         ], 
-        "ne_latitude": 14.580, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Jinotega", 
+        "hierarchy": [
+          "woe:state=2346423", 
+          "woe:country=23424915", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346423, 
         "ne_longitude": -84.884, 
         "longitude": -85.575, 
-        "placetype": "State", 
-        "iso": "NI", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
-        "parent_woeid": 23424915, 
+        "placetype": "state", 
         "latitude": 13.787, 
+        "iso": "NI", 
+        "sw_latitude": 12.993, 
+        "adjacent": [
+          "woe:state=2345629", 
+          "woe:state=2346421", 
+          "woe:state=2346425", 
+          "woe:state=2346428", 
+          "woe:state=2346429", 
+          "woe:state=2345637", 
+          "woe:state=20069833"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.58, 
         "sw_longitude": -86.267, 
         "fullname": "Jinotega, Nicaragua", 
-        "sw_latitude": 12.993
+        "date_indexed": "2010-12-02T18:19:07Z"
       }, 
       "id": 2346423
     }
+  ], 
+  "bbox": [
+    -86.267, 
+    12.993, 
+    -84.884, 
+    14.58
   ]
 }

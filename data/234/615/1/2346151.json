@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346151, 
-        "name": "Toliara", 
         "adjacent_woeid": [
           2346147, 
           2346148, 
           2346150
         ], 
-        "ne_latitude": -18.221, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Toliara", 
+        "hierarchy": [
+          "woe:state=2346151", 
+          "woe:country=23424883", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346151, 
         "ne_longitude": 47.432, 
         "longitude": 45.328, 
-        "placetype": "State", 
-        "iso": "MG", 
-        "date_indexed": "2010-12-02T16:43:41Z", 
-        "parent_woeid": 23424883, 
+        "placetype": "state", 
         "latitude": -21.915, 
+        "iso": "MG", 
+        "sw_latitude": -25.609, 
+        "adjacent": [
+          "woe:state=2346150", 
+          "woe:state=2346147", 
+          "woe:state=2346148"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -18.221, 
         "sw_longitude": 43.191, 
         "fullname": "Toliara, Madagascar", 
-        "sw_latitude": -25.609
+        "date_indexed": "2010-12-02T16:43:41Z"
       }, 
       "id": 2346151
     }
+  ], 
+  "bbox": [
+    43.191, 
+    -25.609, 
+    47.432, 
+    -18.221
   ]
 }

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -53.110, 
-              -25.250
+              -53.11, 
+              -25.25
             ], 
             [
-              -53.110, 
+              -53.11, 
               -19.779
             ], 
             [
@@ -20,11 +20,11 @@
             ], 
             [
               -44.161, 
-              -25.250
+              -25.25
             ], 
             [
-              -53.110, 
-              -25.250
+              -53.11, 
+              -25.25
             ]
           ]
         ]
@@ -40,8 +40,13 @@
         "alias_ENG_P": [
           "Sao Paulo"
         ], 
+        "hierarchy": [
+          "woe:state=2344868", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -19.779, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_V": [
           "S\u00e3opaulo"
         ], 
@@ -64,7 +69,13 @@
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30d1\u30a6\u30ed"
         ], 
-        "sw_longitude": -53.110, 
+        "sw_longitude": -53.11, 
+        "adjacent": [
+          "woe:state=2344853", 
+          "woe:state=2344856", 
+          "woe:state=2344859", 
+          "woe:state=2344862"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -22.515, 
         "date_indexed": "2010-12-02T17:58:27Z", 
@@ -76,14 +87,19 @@
           2344862
         ], 
         "name": "S\u00e3o Paulo", 
-        "parent_woeid": 23424768, 
         "ne_longitude": -44.161, 
         "longitude": -48.635, 
         "iso": "BR", 
-        "sw_latitude": -25.250, 
+        "sw_latitude": -25.25, 
         "fullname": "S\u00e3o Paulo, Sao Paulo, Brazil"
       }, 
       "id": 2344868
     }
+  ], 
+  "bbox": [
+    -53.11, 
+    -25.25, 
+    -44.161, 
+    -19.779
   ]
 }

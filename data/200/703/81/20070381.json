@@ -12,11 +12,11 @@
             ], 
             [
               42.502, 
-              42.780
+              42.78
             ], 
             [
               43.054, 
-              42.780
+              42.78
             ], 
             [
               43.054, 
@@ -32,11 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070381, 
-        "alias_ENG_S": [
-          "Tsrageris Raioni"
-        ], 
-        "name": "Ts\u00b4ageris Raioni", 
         "adjacent_woeid": [
           20070380, 
           20070382, 
@@ -44,20 +39,42 @@
           20070392, 
           20070396
         ], 
-        "ne_latitude": 42.780, 
-        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_S": [
+          "Tsrageris Raioni"
+        ], 
+        "name": "Ts\u00b4ageris Raioni", 
+        "ne_latitude": 42.78, 
+        "hierarchy": [
+          "woe:state=20070381", 
+          "woe:country=23424823", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070381, 
         "ne_longitude": 43.054, 
         "longitude": 42.778, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "GE", 
-        "date_indexed": "2010-12-02T17:51:52Z", 
-        "parent_woeid": 23424823, 
-        "latitude": 42.660, 
+        "sw_latitude": 42.539, 
+        "adjacent": [
+          "woe:state=20070380", 
+          "woe:state=20070392", 
+          "woe:state=20070382", 
+          "woe:state=20070396", 
+          "woe:state=20070390"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.66, 
         "sw_longitude": 42.502, 
         "fullname": "Ts\u00b4ageris Raioni, Georgia", 
-        "sw_latitude": 42.539
+        "date_indexed": "2010-12-02T17:51:52Z"
       }, 
       "id": 20070381
     }
+  ], 
+  "bbox": [
+    42.502, 
+    42.539, 
+    43.054, 
+    42.78
   ]
 }

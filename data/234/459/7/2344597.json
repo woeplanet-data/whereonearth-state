@@ -12,11 +12,11 @@
             ], 
             [
               1.365, 
-              34.570
+              34.57
             ], 
             [
               4.214, 
-              34.570
+              34.57
             ], 
             [
               4.214, 
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2344597, 
-        "name": "Laghouat", 
         "adjacent_woeid": [
           2344587, 
           2344594, 
           2344612, 
           2344615
         ], 
-        "ne_latitude": 34.570, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Laghouat", 
+        "hierarchy": [
+          "woe:state=2344597", 
+          "woe:country=23424740", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344597, 
         "ne_longitude": 4.214, 
-        "longitude": 2.790, 
-        "placetype": "State", 
-        "iso": "DZ", 
-        "date_indexed": "2010-12-02T17:07:10Z", 
-        "parent_woeid": 23424740, 
+        "longitude": 2.79, 
+        "placetype": "state", 
         "latitude": 33.492, 
+        "iso": "DZ", 
+        "sw_latitude": 32.414, 
+        "adjacent": [
+          "woe:state=2344594", 
+          "woe:state=2344612", 
+          "woe:state=2344615", 
+          "woe:state=2344587"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 34.57, 
         "sw_longitude": 1.365, 
         "fullname": "Laghouat, Algeria", 
-        "sw_latitude": 32.414
+        "date_indexed": "2010-12-02T17:07:10Z"
       }, 
       "id": 2344597
     }
+  ], 
+  "bbox": [
+    1.365, 
+    32.414, 
+    4.214, 
+    34.57
   ]
 }

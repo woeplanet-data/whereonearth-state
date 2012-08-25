@@ -12,11 +12,11 @@
             ], 
             [
               72.616, 
-              6.800
+              6.8
             ], 
             [
               73.166, 
-              6.800
+              6.8
             ], 
             [
               73.166, 
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070318, 
+        "ne_latitude": 6.8, 
         "name": "Haa Dhaalu", 
-        "ne_latitude": 6.800, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:state=20070318", 
+          "woe:country=23424899", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070318, 
         "ne_longitude": 73.166, 
         "longitude": 73.155, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MV", 
-        "date_indexed": "2010-12-02T09:35:37Z", 
-        "parent_woeid": 23424899, 
+        "sw_latitude": 6.316, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 6.758, 
         "sw_longitude": 72.616, 
         "fullname": "Haa Dhaalu, Maldives", 
-        "sw_latitude": 6.316
+        "date_indexed": "2010-12-02T09:35:37Z"
       }, 
       "id": 20070318
     }
+  ], 
+  "bbox": [
+    72.616, 
+    6.316, 
+    73.166, 
+    6.8
   ]
 }

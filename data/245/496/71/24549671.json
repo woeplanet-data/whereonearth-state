@@ -32,16 +32,20 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549671, 
         "name": "Suwarrow", 
-        "ne_latitude": -13.216, 
+        "hierarchy": [
+          "woe:state=24549671", 
+          "woe:country=23424795", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549671, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": -163.043, 
         "longitude": -163.122, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "CK", 
         "date_indexed": "2010-12-02T17:57:50Z", 
-        "parent_woeid": 23424795, 
+        "ne_latitude": -13.216, 
         "latitude": -13.385, 
         "sw_longitude": -163.193, 
         "fullname": "Suwarrow, Cook Islands", 
@@ -49,5 +53,11 @@
       }, 
       "id": 24549671
     }
+  ], 
+  "bbox": [
+    -163.193, 
+    -13.458, 
+    -163.043, 
+    -13.216
   ]
 }

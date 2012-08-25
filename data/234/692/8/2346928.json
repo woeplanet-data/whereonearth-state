@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              75.760, 
+              75.76, 
               55.679
             ], 
             [
-              75.760, 
+              75.76, 
               61.038
             ], 
             [
@@ -23,7 +23,7 @@
               55.679
             ], 
             [
-              75.760, 
+              75.76, 
               55.679
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346928, 
-        "name": "Tomskaya Oblast", 
         "adjacent_woeid": [
           2346901, 
           2346914, 
@@ -42,20 +40,40 @@
           20070526, 
           20070528
         ], 
-        "ne_latitude": 61.038, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tomskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346928", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346928, 
         "ne_longitude": 89.893, 
         "longitude": 82.827, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 58.359, 
-        "sw_longitude": 75.760, 
+        "iso": "RU", 
+        "sw_latitude": 55.679, 
+        "adjacent": [
+          "woe:state=2346901", 
+          "woe:state=20070526", 
+          "woe:state=20070524", 
+          "woe:state=2346914", 
+          "woe:state=2346915", 
+          "woe:state=20070528"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 61.038, 
+        "sw_longitude": 75.76, 
         "fullname": "Tomskaya Oblast, Russia", 
-        "sw_latitude": 55.679
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346928
     }
+  ], 
+  "bbox": [
+    75.76, 
+    55.679, 
+    89.893, 
+    61.038
   ]
 }

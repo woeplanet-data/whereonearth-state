@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070220, 
-        "name": "Balakan", 
         "adjacent_woeid": [
           2346870, 
           20070254, 
           20070370, 
           20070373
         ], 
-        "ne_latitude": 41.906, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Balakan", 
+        "hierarchy": [
+          "woe:state=20070220", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070220, 
         "ne_longitude": 46.676, 
         "longitude": 46.462, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 41.735, 
+        "iso": "AZ", 
+        "sw_latitude": 41.564, 
+        "adjacent": [
+          "woe:state=2346870", 
+          "woe:state=20070370", 
+          "woe:state=20070373", 
+          "woe:state=20070254"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.906, 
         "sw_longitude": 46.248, 
         "fullname": "Balakan, Azerbaijan", 
-        "sw_latitude": 41.564
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070220
     }
+  ], 
+  "bbox": [
+    46.248, 
+    41.564, 
+    46.676, 
+    41.906
   ]
 }

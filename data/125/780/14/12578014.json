@@ -6074,17 +6074,22 @@
         "alias_ENG_P": [
           "Shandong"
         ], 
+        "hierarchy": [
+          "woe:state=12578014", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 38.39548615136482, 
         "ne:Shape_Area": 15.6238577267, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc0b0\ub465"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1814, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u5c71\u6771\u7701"
         ], 
@@ -6097,6 +6102,12 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 114.83421064680397, 
+        "adjacent": [
+          "woe:state=12578022", 
+          "woe:state=12577994", 
+          "woe:state=12578000", 
+          "woe:state=12577999"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 36.331, 
         "ne:FIPS_1": "CH25", 
@@ -6104,9 +6115,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 34.397228908787156, 
-        "ne:VertexCou": 1501.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1814, 
         "ne:Postal": "SD", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Shandong", 
@@ -6122,17 +6133,16 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 155604.2, 
         "woe:id": "12578014", 
-        "ne:HASC_1": "CN.SD", 
-        "lang": "CHI", 
+        "name": "\u5c71\u4e1c\u7701", 
+        "ne:VertexCou": 1501.0, 
         "adjacent_woeid": [
           12577994, 
           12577999, 
           12578000, 
           12578022
         ], 
-        "name": "\u5c71\u4e1c\u7701", 
+        "ne:HASC_1": "CN.SD", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 122.6892350606496, 
         "longitude": 118.761, 
         "iso": "CN", 

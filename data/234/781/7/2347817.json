@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347817, 
-        "name": "Masvingo", 
         "adjacent_woeid": [
           2346312, 
           2346986, 
@@ -42,23 +40,43 @@
           2347813, 
           2347816
         ], 
-        "ne_latitude": -19.143, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Masvingo", 
         "alias_ENG_V": [
           "Masvingo Province"
         ], 
+        "hierarchy": [
+          "woe:state=2347817", 
+          "woe:country=23425004", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347817, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.426, 
-        "longitude": 31.090, 
-        "placetype": "State", 
+        "longitude": 31.09, 
+        "placetype": "state", 
         "iso": "ZW", 
         "date_indexed": "2010-12-02T16:52:36Z", 
-        "parent_woeid": 23425004, 
-        "latitude": -20.780, 
+        "adjacent": [
+          "woe:state=2346312", 
+          "woe:state=2346986", 
+          "woe:state=2347810", 
+          "woe:state=2347813", 
+          "woe:state=2347816", 
+          "woe:state=2347811"
+        ], 
+        "ne_latitude": -19.143, 
+        "latitude": -20.78, 
         "sw_longitude": 29.754, 
         "fullname": "Masvingo, Zimbabwe", 
         "sw_latitude": -22.418
       }, 
       "id": 2347817
     }
+  ], 
+  "bbox": [
+    29.754, 
+    -22.418, 
+    32.426, 
+    -19.143
   ]
 }

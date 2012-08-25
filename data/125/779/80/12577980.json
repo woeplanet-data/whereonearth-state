@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 12577980, 
-        "name": "Osje\u010dko-baranjska", 
         "adjacent_woeid": [
           12577911, 
           12577912, 
@@ -42,26 +40,46 @@
           12577987, 
           12577988
         ], 
-        "alias_UNK_S": [
-          "Osjecko-baranjska"
-        ], 
-        "ne_latitude": 45.922, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Osje\u010dko-baranjska", 
         "alias_ENG_V": [
           "Osijek-Baranja"
         ], 
+        "alias_UNK_S": [
+          "Osjecko-baranjska"
+        ], 
+        "woeid": 12577980, 
         "ne_longitude": 19.102, 
         "longitude": 18.493, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=12577980", 
+          "woe:country=23424843", 
+          "woe:planet=1"
+        ], 
         "iso": "HR", 
-        "date_indexed": "2010-12-02T17:06:25Z", 
-        "parent_woeid": 23424843, 
-        "latitude": 45.563, 
+        "sw_latitude": 45.204, 
+        "adjacent": [
+          "woe:state=12577912", 
+          "woe:state=12577972", 
+          "woe:state=12577911", 
+          "woe:state=12577981", 
+          "woe:state=12577987", 
+          "woe:state=12577988"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 45.922, 
         "sw_longitude": 17.884, 
+        "latitude": 45.563, 
         "fullname": "Osje\u010dko-baranjska, Croatia", 
-        "sw_latitude": 45.204
+        "date_indexed": "2010-12-02T17:06:25Z"
       }, 
       "id": 12577980
     }
+  ], 
+  "bbox": [
+    17.884, 
+    45.204, 
+    19.102, 
+    45.922
   ]
 }

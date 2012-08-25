@@ -32,25 +32,35 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347746, 
-        "name": "Quang Binh", 
         "adjacent_woeid": [
           2346008, 
           2347736, 
           2347747, 
           20070161
         ], 
-        "ne_latitude": 18.061, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Quang Binh", 
         "alias_ENG_V": [
           "Quangbinh"
         ], 
+        "hierarchy": [
+          "woe:state=2347746", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347746, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 107.349, 
         "longitude": 106.304, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347736", 
+          "woe:state=20070161", 
+          "woe:state=2347747", 
+          "woe:state=2346008"
+        ], 
+        "ne_latitude": 18.061, 
         "latitude": 17.489, 
         "sw_longitude": 105.618, 
         "fullname": "Quang Binh, Vietnam", 
@@ -58,5 +68,11 @@
       }, 
       "id": 2347746
     }
+  ], 
+  "bbox": [
+    105.618, 
+    16.917, 
+    107.349, 
+    18.061
   ]
 }

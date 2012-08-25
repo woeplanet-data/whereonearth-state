@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2346563, 
-        "name": "Beja", 
         "adjacent_woeid": [
           2346568, 
           2346569, 
@@ -41,20 +39,39 @@
           12578029, 
           12578035
         ], 
-        "ne_latitude": 38.331, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Beja", 
+        "hierarchy": [
+          "woe:state=2346563", 
+          "woe:country=23424925", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346563, 
         "ne_longitude": -6.931, 
         "longitude": -7.875, 
-        "placetype": "State", 
-        "iso": "PT", 
-        "date_indexed": "2010-12-02T09:58:14Z", 
-        "parent_woeid": 23424925, 
+        "placetype": "state", 
         "latitude": 37.825, 
+        "iso": "PT", 
+        "sw_latitude": 37.319, 
+        "adjacent": [
+          "woe:state=12578029", 
+          "woe:state=2346568", 
+          "woe:state=12578035", 
+          "woe:state=2346569", 
+          "woe:state=2346577"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 38.331, 
         "sw_longitude": -8.819, 
         "fullname": "Beja, Portugal", 
-        "sw_latitude": 37.319
+        "date_indexed": "2010-12-02T09:58:14Z"
       }, 
       "id": 2346563
     }
+  ], 
+  "bbox": [
+    -8.819, 
+    37.319, 
+    -6.931, 
+    38.331
   ]
 }

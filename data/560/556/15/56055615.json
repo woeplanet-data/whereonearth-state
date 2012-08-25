@@ -1973,9 +1973,14 @@
       "properties": {
         "ne:ProvNumber": 7, 
         "ne:ScaleRank": 6, 
+        "hierarchy": [
+          "woe:state=56055615", 
+          "woe:country=23424943", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 16.69169464758994, 
         "ne:Shape_Area": 3.78778603862, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 5, 
         "ne:gadm_level": 1.0, 
@@ -1984,6 +1989,14 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -16.541387905127692, 
+        "adjacent": [
+          "woe:state=2346245", 
+          "woe:state=2346244", 
+          "woe:state=2346250", 
+          "woe:state=2346993", 
+          "woe:state=2346990", 
+          "woe:state=2346991"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 15.559, 
         "ne:FIPS_1": "SG14", 
@@ -2021,7 +2034,6 @@
         ], 
         "name": "Matam", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424943, 
         "ne_longitude": -12.570467495078788, 
         "longitude": -13.718, 
         "iso": "SN", 

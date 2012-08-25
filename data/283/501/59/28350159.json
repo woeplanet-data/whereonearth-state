@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              101.660, 
+              101.66, 
               2.886
             ], 
             [
-              101.660, 
+              101.66, 
               2.977
             ], 
             [
@@ -23,7 +23,7 @@
               2.886
             ], 
             [
-              101.660, 
+              101.66, 
               2.886
             ]
           ]
@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 28350159, 
-        "name": "Putrajaya", 
         "adjacent_woeid": [
           2346306
         ], 
-        "ne_latitude": 2.977, 
+        "name": "Putrajaya", 
+        "hierarchy": [
+          "woe:state=28350159", 
+          "woe:country=23424901", 
+          "woe:planet=1"
+        ], 
+        "woeid": 28350159, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 101.733, 
         "longitude": 101.696, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MY", 
         "date_indexed": "2010-12-02T18:03:44Z", 
-        "parent_woeid": 23424901, 
+        "adjacent": [
+          "woe:state=2346306"
+        ], 
+        "ne_latitude": 2.977, 
         "latitude": 2.931, 
-        "sw_longitude": 101.660, 
+        "sw_longitude": 101.66, 
         "fullname": "Putrajaya, Malaysia", 
         "sw_latitude": 2.886
       }, 
       "id": 28350159
     }
+  ], 
+  "bbox": [
+    101.66, 
+    2.886, 
+    101.733, 
+    2.977
   ]
 }

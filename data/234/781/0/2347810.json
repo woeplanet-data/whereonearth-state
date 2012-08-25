@@ -2492,9 +2492,14 @@
           "Manicaland Province"
         ], 
         "ne:ScaleRank": 5, 
+        "hierarchy": [
+          "woe:state=2347810", 
+          "woe:country=23425004", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -17.266129246067806, 
         "ne:Shape_Area": 2.98375955029, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 9, 
         "alias_KOR_Q": [
@@ -2509,6 +2514,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 31.198695509790014, 
+        "adjacent": [
+          "woe:state=2346312", 
+          "woe:state=2346320", 
+          "woe:state=2347813", 
+          "woe:state=2347817", 
+          "woe:state=2346318"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -19.289, 
         "ne:FIPS_1": "ZI01", 
@@ -2545,7 +2557,6 @@
         ], 
         "name": "Manicaland", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23425004, 
         "ne_longitude": 33.04251061387379, 
         "longitude": 32.114, 
         "iso": "ZW", 

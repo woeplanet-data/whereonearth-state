@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346422, 
-        "name": "Granada", 
         "adjacent_woeid": [
           2346417, 
           2346418, 
@@ -42,20 +40,40 @@
           2346427, 
           2346431
         ], 
-        "ne_latitude": 12.207, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Granada", 
+        "hierarchy": [
+          "woe:state=2346422", 
+          "woe:country=23424915", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346422, 
         "ne_longitude": -85.695, 
         "longitude": -85.914, 
-        "placetype": "State", 
-        "iso": "NI", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
-        "parent_woeid": 23424915, 
+        "placetype": "state", 
         "latitude": 11.905, 
+        "iso": "NI", 
+        "sw_latitude": 11.603, 
+        "adjacent": [
+          "woe:state=2346417", 
+          "woe:state=2346418", 
+          "woe:state=2346420", 
+          "woe:state=2346426", 
+          "woe:state=2346427", 
+          "woe:state=2346431"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.207, 
         "sw_longitude": -86.133, 
         "fullname": "Granada, Nicaragua", 
-        "sw_latitude": 11.603
+        "date_indexed": "2010-12-02T18:19:07Z"
       }, 
       "id": 2346422
     }
+  ], 
+  "bbox": [
+    -86.133, 
+    11.603, 
+    -85.695, 
+    12.207
   ]
 }

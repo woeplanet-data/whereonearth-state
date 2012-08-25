@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20069926, 
-        "name": "Prachin Buri", 
         "adjacent_woeid": [
           2347152, 
           2347168, 
           2347169, 
           20069925
         ], 
-        "ne_latitude": 14.462, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Prachin Buri", 
         "alias_ENG_V": [
           "Changwat Prachin Buri"
         ], 
+        "hierarchy": [
+          "woe:state=20069926", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069926, 
         "ne_longitude": 102.107, 
         "longitude": 101.622, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 14.024, 
+        "iso": "TH", 
+        "sw_latitude": 13.585, 
+        "adjacent": [
+          "woe:state=2347169", 
+          "woe:state=2347168", 
+          "woe:state=2347152", 
+          "woe:state=20069925"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.462, 
         "sw_longitude": 101.138, 
         "fullname": "Prachin Buri, Thailand", 
-        "sw_latitude": 13.585
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 20069926
     }
+  ], 
+  "bbox": [
+    101.138, 
+    13.585, 
+    102.107, 
+    14.462
   ]
 }

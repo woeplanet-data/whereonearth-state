@@ -37,8 +37,13 @@
         "alias_SWE_S": [
           "Vastmanlands Lan"
         ], 
+        "hierarchy": [
+          "woe:state=2347066", 
+          "woe:country=23424954", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 60.303, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "V\u00e4stmanland"
         ], 
@@ -65,6 +70,13 @@
           "Vaestmanland"
         ], 
         "sw_longitude": 15.422, 
+        "adjacent": [
+          "woe:state=2347053", 
+          "woe:state=2347046", 
+          "woe:state=2347061", 
+          "woe:state=2347062", 
+          "woe:state=2347058"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 59.751, 
         "alias_NOR_S": [
@@ -101,7 +113,6 @@
           2347062
         ], 
         "name": "V\u00e4stmanlands L\u00e4n", 
-        "parent_woeid": 23424954, 
         "ne_longitude": 17.375, 
         "longitude": 16.399, 
         "iso": "SE", 
@@ -116,5 +127,11 @@
       }, 
       "id": 2347066
     }
+  ], 
+  "bbox": [
+    15.422, 
+    59.198, 
+    17.375, 
+    60.303
   ]
 }

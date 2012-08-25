@@ -15,11 +15,11 @@
               18.492
             ], 
             [
-              -66.810, 
+              -66.81, 
               18.492
             ], 
             [
-              -66.810, 
+              -66.81, 
               18.343
             ], 
             [
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.492, 
-        "name": "Camuy", 
         "adjacent_woeid": [
           2346798, 
           2346844, 
           2346845, 
           2346847
         ], 
+        "name": "Camuy", 
+        "hierarchy": [
+          "woe:state=2346846", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346846, 
         "alias_SPA_V": [
           "Camuy Municipios"
         ], 
-        "ne_longitude": -66.810, 
+        "ne_longitude": -66.81, 
         "longitude": -66.856, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.417, 
         "sw_longitude": -66.901, 
+        "sw_latitude": 18.343, 
+        "adjacent": [
+          "woe:state=2346847", 
+          "woe:state=2346798", 
+          "woe:state=2346844", 
+          "woe:state=2346845"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.492, 
+        "iso": "PR", 
         "fullname": "Camuy, Puerto Rico", 
-        "sw_latitude": 18.343
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346846
     }
+  ], 
+  "bbox": [
+    -66.901, 
+    18.343, 
+    -66.81, 
+    18.492
   ]
 }

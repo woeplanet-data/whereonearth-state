@@ -981,11 +981,16 @@
         "alias_ENG_P": [
           "Oita Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345879", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 33.68311229069968, 
         "ne:Shape_Area": 0.626979322133, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc624\uc774\ud0c0\ucf04"
         ], 
@@ -995,7 +1000,7 @@
         "alias_CHI_Q": [
           "\u5927\u5206\u53bf"
         ], 
-        "ne:OBJECTID": 1835, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u5927\u5206"
         ], 
@@ -1008,6 +1013,11 @@
           "Oitan Prefektuuri"
         ], 
         "sw_longitude": 130.82625776608313, 
+        "adjacent": [
+          "woe:state=2345874", 
+          "woe:state=2345870", 
+          "woe:state=58646425"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 33.214, 
         "ne:FIPS_1": "JA30", 
@@ -1017,9 +1027,9 @@
         "ne:FIRST_HASC": "JP.ON", 
         "ne:ENGTYPE_1": "Prefecture", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:VertexCou": 239.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1835, 
         "ne:Postal": "OT", 
         "ne:Region_Cod": "JPN-SHK", 
         "ne:VARNAME_1": null, 
@@ -1038,17 +1048,16 @@
           "Pr\u00e4fektur Oita"
         ], 
         "woe:id": "2345879", 
-        "ne:HASC_1": "JP.OT", 
-        "lang": "JPN", 
+        "name": "\u5927\u5206\u770c", 
+        "ne:VertexCou": 239.0, 
         "adjacent_woeid": [
           2345870, 
           2345874, 
           58646425
         ], 
         "ne:FIRST_FIPS": "JA47", 
-        "name": "\u5927\u5206\u770c", 
+        "ne:HASC_1": "JP.OT", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 132.07258995955908, 
         "longitude": 131.455, 
         "iso": "JP", 

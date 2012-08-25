@@ -321,9 +321,14 @@
       "properties": {
         "ne:ProvNumber": 21, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55948182", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.435098782183104, 
         "ne:Shape_Area": 0.102229776157, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -332,6 +337,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 28.108548211330913, 
+        "adjacent": [
+          "woe:state=20069882", 
+          "woe:state=20069881", 
+          "woe:state=2346632", 
+          "woe:state=55948193", 
+          "woe:state=2346651"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.248, 
         "ne:FIPS_1": "MD65", 
@@ -368,7 +380,6 @@
         ], 
         "name": "Cantemir", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424885, 
         "ne_longitude": 28.512916294151694, 
         "longitude": 28.332, 
         "iso": "MD", 

@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2345158, 
-        "name": "Djibouti", 
         "adjacent_woeid": [
           2345156, 
           2345157, 
           2347021
         ], 
-        "ne_latitude": 11.733, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Djibouti", 
+        "hierarchy": [
+          "woe:state=2345158", 
+          "woe:country=23424797", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345158, 
         "ne_longitude": 43.255, 
         "longitude": 43.034, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 11.51, 
         "iso": "DJ", 
-        "date_indexed": "2010-12-02T16:14:08Z", 
-        "parent_woeid": 23424797, 
-        "latitude": 11.510, 
+        "sw_latitude": 11.404, 
+        "adjacent": [
+          "woe:state=2345156", 
+          "woe:state=2345157", 
+          "woe:state=2347021"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.733, 
         "sw_longitude": 42.813, 
         "fullname": "Djibouti", 
-        "sw_latitude": 11.404
+        "date_indexed": "2010-12-02T16:14:08Z"
       }, 
       "id": 2345158
     }
+  ], 
+  "bbox": [
+    42.813, 
+    11.404, 
+    43.255, 
+    11.733
   ]
 }

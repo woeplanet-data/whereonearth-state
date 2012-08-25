@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346964, 
-        "name": "Christ Church Nichola Town", 
         "adjacent_woeid": [
           2346969, 
           2346971, 
@@ -41,20 +39,39 @@
           2346976, 
           2346977
         ], 
-        "ne_latitude": 17.393, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Christ Church Nichola Town", 
+        "hierarchy": [
+          "woe:state=2346964", 
+          "woe:country=23424940", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346964, 
         "ne_longitude": -62.732, 
         "longitude": -62.764, 
-        "placetype": "State", 
-        "iso": "KN", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
-        "parent_woeid": 23424940, 
+        "placetype": "state", 
         "latitude": 17.365, 
+        "iso": "KN", 
+        "sw_latitude": 17.337, 
+        "adjacent": [
+          "woe:state=2346969", 
+          "woe:state=2346971", 
+          "woe:state=2346974", 
+          "woe:state=2346976", 
+          "woe:state=2346977"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.393, 
         "sw_longitude": -62.795, 
         "fullname": "Christ Church Nichola Town, Saint Kitts and Nevis", 
-        "sw_latitude": 17.337
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2346964
     }
+  ], 
+  "bbox": [
+    -62.795, 
+    17.337, 
+    -62.732, 
+    17.393
   ]
 }

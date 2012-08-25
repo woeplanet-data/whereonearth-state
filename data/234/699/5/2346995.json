@@ -15,11 +15,11 @@
               14.362
             ], 
             [
-              -15.410, 
+              -15.41, 
               14.362
             ], 
             [
-              -15.410, 
+              -15.41, 
               13.585
             ], 
             [
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2346995, 
-        "name": "Kaolack", 
         "adjacent_woeid": [
           2345445, 
           2345448, 
           2346994, 
           56055612
         ], 
-        "ne_latitude": 14.362, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -15.410, 
+        "name": "Kaolack", 
+        "hierarchy": [
+          "woe:state=2346995", 
+          "woe:country=23424943", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346995, 
+        "ne_longitude": -15.41, 
         "longitude": -15.893, 
-        "placetype": "State", 
-        "iso": "SN", 
-        "date_indexed": "2010-12-02T08:57:18Z", 
-        "parent_woeid": 23424943, 
+        "placetype": "state", 
         "latitude": 13.974, 
+        "iso": "SN", 
+        "sw_latitude": 13.585, 
+        "adjacent": [
+          "woe:state=2346994", 
+          "woe:state=56055612", 
+          "woe:state=2345445", 
+          "woe:state=2345448"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.362, 
         "sw_longitude": -16.375, 
         "fullname": "Kaolack, Senegal", 
-        "sw_latitude": 13.585
+        "date_indexed": "2010-12-02T08:57:18Z"
       }, 
       "id": 2346995
     }
+  ], 
+  "bbox": [
+    -16.375, 
+    13.585, 
+    -15.41, 
+    14.362
   ]
 }

@@ -15,11 +15,11 @@
               -1.697
             ], 
             [
-              26.270, 
+              26.27, 
               -1.697
             ], 
             [
-              26.270, 
+              26.27, 
               -8.002
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2344980, 
-        "name": "Kasai-Oriental", 
         "adjacent_woeid": [
           2344978, 
           2344979, 
@@ -41,20 +39,39 @@
           2344985, 
           20069831
         ], 
-        "ne_latitude": -1.697, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 26.270, 
+        "name": "Kasai-Oriental", 
+        "hierarchy": [
+          "woe:state=2344980", 
+          "woe:country=23424780", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344980, 
+        "ne_longitude": 26.27, 
         "longitude": 24.063, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": -4.85, 
         "iso": "CD", 
-        "date_indexed": "2010-12-02T16:33:06Z", 
-        "parent_woeid": 23424780, 
-        "latitude": -4.850, 
+        "sw_latitude": -8.002, 
+        "adjacent": [
+          "woe:state=2344978", 
+          "woe:state=2344979", 
+          "woe:state=2344981", 
+          "woe:state=20069831", 
+          "woe:state=2344985"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -1.697, 
         "sw_longitude": 21.855, 
         "fullname": "Kasai-Oriental, Democratic Republic of Congo", 
-        "sw_latitude": -8.002
+        "date_indexed": "2010-12-02T16:33:06Z"
       }, 
       "id": 2344980
     }
+  ], 
+  "bbox": [
+    21.855, 
+    -8.002, 
+    26.27, 
+    -1.697
   ]
 }

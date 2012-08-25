@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345443, 
-        "name": "Banjul", 
         "adjacent_woeid": [
           2345447
         ], 
-        "ne_latitude": 13.472, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Banjul", 
+        "hierarchy": [
+          "woe:state=2345443", 
+          "woe:country=23424821", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345443, 
         "ne_longitude": -16.575, 
         "longitude": -16.608, 
-        "placetype": "State", 
-        "iso": "GM", 
-        "date_indexed": "2010-12-02T08:51:00Z", 
-        "parent_woeid": 23424821, 
+        "placetype": "state", 
         "latitude": 13.453, 
+        "iso": "GM", 
+        "sw_latitude": 13.434, 
+        "adjacent": [
+          "woe:state=2345447"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.472, 
         "sw_longitude": -16.641, 
         "fullname": "Banjul, The Gambia", 
-        "sw_latitude": 13.434
+        "date_indexed": "2010-12-02T08:51:00Z"
       }, 
       "id": 2345443
     }
+  ], 
+  "bbox": [
+    -16.641, 
+    13.434, 
+    -16.575, 
+    13.472
   ]
 }

@@ -43,8 +43,13 @@
         "alias_ENG_P": [
           "Lublin"
         ], 
+        "hierarchy": [
+          "woe:state=12577938", 
+          "woe:country=23424923", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 52.288, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Lublin"
         ], 
@@ -56,8 +61,16 @@
           "Lublin"
         ], 
         "sw_longitude": 21.617, 
+        "adjacent": [
+          "woe:state=2347547", 
+          "woe:state=12577941", 
+          "woe:state=12577943", 
+          "woe:state=12577944", 
+          "woe:state=12577947", 
+          "woe:state=2347555"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 51.270, 
+        "latitude": 51.27, 
         "alias_NOR_Q": [
           "Lublin"
         ], 
@@ -78,7 +91,6 @@
           12577947
         ], 
         "name": "Lubelskie", 
-        "parent_woeid": 23424923, 
         "ne_longitude": 24.146, 
         "longitude": 22.881, 
         "iso": "PL", 
@@ -90,5 +102,11 @@
       }, 
       "id": 12577938
     }
+  ], 
+  "bbox": [
+    21.617, 
+    50.252, 
+    24.146, 
+    52.288
   ]
 }

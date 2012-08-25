@@ -1721,9 +1721,14 @@
           "Benishangul-Gumaz"
         ], 
         "ne:ScaleRank": 3, 
+        "hierarchy": [
+          "woe:state=56013538", 
+          "woe:country=23424808", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 12.037870184661358, 
         "ne:Shape_Area": 4.13797825156, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 13, 
         "ne:gadm_level": 1.0, 
@@ -1732,6 +1737,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 34.0664791200154, 
+        "adjacent": [
+          "woe:state=20069908", 
+          "woe:state=56013541", 
+          "woe:state=20069913", 
+          "woe:state=56013545", 
+          "woe:state=20069915"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 10.591, 
         "ne:FIPS_1": "ET47", 
@@ -1768,7 +1780,6 @@
         ], 
         "name": "Benshangul-Gumaz", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424808, 
         "ne_longitude": 37.04614220589815, 
         "longitude": 35.571, 
         "iso": "ET", 

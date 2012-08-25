@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070233, 
-        "name": "Qubadli", 
         "adjacent_woeid": [
           20070206, 
           20070224, 
@@ -41,20 +39,39 @@
           20070255, 
           20070259
         ], 
-        "ne_latitude": 39.508, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Qubadli", 
+        "hierarchy": [
+          "woe:state=20070233", 
+          "woe:country=23424741", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070233, 
         "ne_longitude": 46.818, 
         "longitude": 46.602, 
-        "placetype": "State", 
-        "iso": "AZ", 
-        "date_indexed": "2010-12-02T08:58:29Z", 
-        "parent_woeid": 23424741, 
+        "placetype": "state", 
         "latitude": 39.314, 
+        "iso": "AZ", 
+        "sw_latitude": 39.119, 
+        "adjacent": [
+          "woe:state=20070224", 
+          "woe:state=20070237", 
+          "woe:state=20070206", 
+          "woe:state=20070259", 
+          "woe:state=20070255"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.508, 
         "sw_longitude": 46.387, 
         "fullname": "Qubadli, Azerbaijan", 
-        "sw_latitude": 39.119
+        "date_indexed": "2010-12-02T08:58:29Z"
       }, 
       "id": 20070233
     }
+  ], 
+  "bbox": [
+    46.387, 
+    39.119, 
+    46.818, 
+    39.508
   ]
 }

@@ -8,7 +8,7 @@
           [
             [
               -66.043, 
-              18.270
+              18.27
             ], 
             [
               -66.043, 
@@ -20,11 +20,11 @@
             ], 
             [
               -65.902, 
-              18.270
+              18.27
             ], 
             [
               -66.043, 
-              18.270
+              18.27
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.458, 
-        "name": "Carolina", 
         "adjacent_woeid": [
           2346797, 
           2346815, 
@@ -42,23 +40,43 @@
           2346856, 
           20070566
         ], 
+        "name": "Carolina", 
+        "hierarchy": [
+          "woe:state=2346854", 
+          "woe:country=23424935", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346854, 
         "alias_SPA_V": [
           "Carolina Municipios"
         ], 
         "ne_longitude": -65.902, 
         "longitude": -65.972, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.364, 
         "sw_longitude": -66.043, 
+        "sw_latitude": 18.27, 
+        "adjacent": [
+          "woe:state=20070566", 
+          "woe:state=2346856", 
+          "woe:state=2346797", 
+          "woe:state=2346816", 
+          "woe:state=2346815", 
+          "woe:state=2346853"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.458, 
+        "iso": "PR", 
         "fullname": "Carolina, Puerto Rico", 
-        "sw_latitude": 18.270
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346854
     }
+  ], 
+  "bbox": [
+    -66.043, 
+    18.27, 
+    -65.902, 
+    18.458
   ]
 }

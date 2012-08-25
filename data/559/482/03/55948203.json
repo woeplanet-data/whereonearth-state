@@ -301,9 +301,14 @@
       "properties": {
         "ne:ProvNumber": 14, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=55948203", 
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.221210028819826, 
         "ne:Shape_Area": 0.0915952672374, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 12, 
         "ne:gadm_level": 1.0, 
@@ -312,6 +317,10 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 28.391683383581324, 
+        "adjacent": [
+          "woe:state=20069882", 
+          "woe:state=20069881"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 45.904, 
         "ne:FIPS_1": "MD51", 
@@ -345,7 +354,6 @@
         ], 
         "name": "Taraclia", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424885, 
         "ne_longitude": 29.01490115716274, 
         "longitude": 28.592, 
         "iso": "MD", 

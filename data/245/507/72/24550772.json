@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 24550772, 
-        "alias_UNK_V": [
-          "Opstina Karbinci"
-        ], 
-        "name": "Karbinci", 
-        "alias_ENG_P": [
-          "Karbinci Municipality"
-        ], 
-        "ne_latitude": 41.879, 
-        "ne_longitude": 22.435, 
-        "longitude": 22.290, 
-        "parent_woeid": 23424890, 
-        "placetype": "State", 
         "adjacent_woeid": [
           24550757, 
           24550800, 
@@ -52,15 +39,45 @@
           24550824, 
           24550865
         ], 
+        "name": "Karbinci", 
+        "alias_ENG_P": [
+          "Karbinci Municipality"
+        ], 
+        "hierarchy": [
+          "woe:state=24550772", 
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550772, 
+        "alias_UNK_V": [
+          "Opstina Karbinci"
+        ], 
+        "longitude": 22.29, 
+        "ne_longitude": 22.435, 
+        "placetype": "state", 
+        "latitude": 41.801, 
         "iso": "MK", 
         "date_indexed": "2010-12-02T09:34:49Z", 
+        "adjacent": [
+          "woe:state=24550800", 
+          "woe:state=24550865", 
+          "woe:state=24550824", 
+          "woe:state=24550757", 
+          "woe:state=24550807"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 41.801, 
+        "ne_latitude": 41.879, 
         "sw_longitude": 22.144, 
         "fullname": "Karbinci, Karbinci Municipality, Macedonia", 
         "sw_latitude": 41.723
       }, 
       "id": 24550772
     }
+  ], 
+  "bbox": [
+    22.144, 
+    41.723, 
+    22.435, 
+    41.879
   ]
 }

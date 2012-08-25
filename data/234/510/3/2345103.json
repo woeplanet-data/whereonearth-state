@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2345103, 
-        "name": "Sangha-Mba\u00e9r\u00e9", 
         "adjacent_woeid": [
           2344971, 
           2344974, 
@@ -41,26 +39,45 @@
           2345092, 
           2345095
         ], 
-        "ne_latitude": 4.258, 
+        "name": "Sangha-Mba\u00e9r\u00e9", 
+        "hierarchy": [
+          "woe:state=2345103", 
+          "woe:country=23424792", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345103, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 17.441, 
         "longitude": 16.362, 
-        "parent_woeid": 23424792, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 3.239, 
+        "iso": "CF", 
+        "sw_latitude": 2.221, 
+        "adjacent": [
+          "woe:state=2345033", 
+          "woe:state=2344971", 
+          "woe:state=2345095", 
+          "woe:state=2345092", 
+          "woe:state=2344974"
+        ], 
+        "ne_latitude": 4.258, 
         "alias_FRE_V": [
           "Sangha"
         ], 
-        "iso": "CF", 
-        "date_indexed": "2010-12-02T17:43:23Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 3.239, 
         "sw_longitude": 15.282, 
         "fullname": "Sangha-Mba\u00e9r\u00e9, Central African Republic", 
         "alias_FRE_S": [
           "Sangha-Mbaere"
         ], 
-        "sw_latitude": 2.221
+        "date_indexed": "2010-12-02T17:43:23Z"
       }, 
       "id": 2345103
     }
+  ], 
+  "bbox": [
+    15.282, 
+    2.221, 
+    17.441, 
+    4.258
   ]
 }

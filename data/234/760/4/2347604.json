@@ -1194,11 +1194,16 @@
         "alias_KOR_Q": [
           "\ubc84\ubaac\ud2b8"
         ], 
+        "hierarchy": [
+          "woe:state=2347604", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 45.01416424408467, 
         "ne:Shape_Area": 2.76653263297, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "17710304", 
         "alias_ENG_A": [
           "VT"
         ], 
@@ -1208,13 +1213,19 @@
         "alias_CHI_Q": [
           "\u4f5b\u8499\u7279"
         ], 
-        "ne:OBJECTID": 3540, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30d0\u30fc\u30e2\u30f3\u30c8"
         ], 
         "ne:Abbrev": "Vt.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -73.4385437438986, 
+        "adjacent": [
+          "woe:state=2347580", 
+          "woe:state=2347588", 
+          "woe:state=2347591", 
+          "woe:state=2344924"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 43.872, 
         "ne:FIPS_1": "US50", 
@@ -1222,9 +1233,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 42.72927654897359, 
-        "ne:VertexCou": 295.0, 
-        "ne:VALIDFR_1": "17710304", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3540, 
         "ne:Postal": "VT", 
         "ne:Region_Cod": "Northeast", 
         "ne:VARNAME_1": "VT", 
@@ -1240,17 +1251,16 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 24621.9, 
         "woe:id": "2347604", 
-        "ne:HASC_1": "US.VT", 
-        "lang": "ENG", 
+        "name": "Vermont", 
+        "ne:VertexCou": 295.0, 
         "adjacent_woeid": [
           2344924, 
           2347580, 
           2347588, 
           2347591
         ], 
-        "name": "Vermont", 
+        "ne:HASC_1": "US.VT", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -71.50465702500168, 
         "longitude": -72.452, 
         "iso": "US", 

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2346996, 
-        "name": "Kolda", 
         "adjacent_woeid": [
           2345444, 
           2345445, 
@@ -45,20 +43,43 @@
           56055614, 
           56059373
         ], 
-        "ne_latitude": 13.589, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kolda", 
+        "hierarchy": [
+          "woe:state=2346996", 
+          "woe:country=23424943", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346996, 
         "ne_longitude": -13.458, 
         "longitude": -14.743, 
-        "placetype": "State", 
-        "iso": "SN", 
-        "date_indexed": "2010-12-02T08:57:18Z", 
-        "parent_woeid": 23424943, 
+        "placetype": "state", 
         "latitude": 13.007, 
+        "iso": "SN", 
+        "sw_latitude": 12.669, 
+        "adjacent": [
+          "woe:state=2346603", 
+          "woe:state=56059373", 
+          "woe:state=2346609", 
+          "woe:state=2345444", 
+          "woe:state=2345445", 
+          "woe:state=2346605", 
+          "woe:state=56055614", 
+          "woe:state=2346991", 
+          "woe:state=2345446"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.589, 
         "sw_longitude": -15.355, 
         "fullname": "Kolda, Senegal", 
-        "sw_latitude": 12.669
+        "date_indexed": "2010-12-02T08:57:18Z"
       }, 
       "id": 2346996
     }
+  ], 
+  "bbox": [
+    -15.355, 
+    12.669, 
+    -13.458, 
+    13.589
   ]
 }

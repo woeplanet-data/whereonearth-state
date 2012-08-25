@@ -1441,9 +1441,14 @@
       "properties": {
         "ne:ProvNumber": 0, 
         "ne:ScaleRank": 8, 
+        "hierarchy": [
+          "woe:state=55967006", 
+          "woe:country=23424854", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 9.210910956075793, 
         "ne:Shape_Area": 1.85181603425, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 3, 
         "ne:gadm_level": 1.0, 
@@ -1452,6 +1457,15 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": -7.233583950538844, 
+        "adjacent": [
+          "woe:state=55966992", 
+          "woe:state=55966993", 
+          "woe:state=55966994", 
+          "woe:state=55966996", 
+          "woe:state=55966998", 
+          "woe:state=55967002", 
+          "woe:state=55967005"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 8.41, 
         "ne:FIPS_1": "IV25", 
@@ -1490,7 +1504,6 @@
         ], 
         "name": "Worodougou", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424854, 
         "ne_longitude": -5.345533820129674, 
         "longitude": -6.287, 
         "iso": "CI", 

@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848366, 
-        "name": "Logatec", 
         "adjacent_woeid": [
           55848341, 
           55848344, 
@@ -43,14 +41,29 @@
           55848386, 
           55848396
         ], 
-        "ne_latitude": 46.038, 
+        "name": "Logatec", 
+        "hierarchy": [
+          "woe:state=55848366", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848366, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.302, 
-        "longitude": 14.200, 
-        "placetype": "State", 
+        "longitude": 14.2, 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
+        "adjacent": [
+          "woe:state=55848341", 
+          "woe:state=55848344", 
+          "woe:state=55848351", 
+          "woe:state=55848364", 
+          "woe:state=55848376", 
+          "woe:state=55848386", 
+          "woe:state=55848396"
+        ], 
+        "ne_latitude": 46.038, 
         "latitude": 45.942, 
         "sw_longitude": 14.098, 
         "fullname": "Logatec, Slovenia", 
@@ -58,5 +71,11 @@
       }, 
       "id": 55848366
     }
+  ], 
+  "bbox": [
+    14.098, 
+    45.847, 
+    14.302, 
+    46.038
   ]
 }

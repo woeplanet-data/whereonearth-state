@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "HUN", 
-        "ne_latitude": 48.425, 
-        "name": "Szabolcs-Szatm\u00e1r-Bereg", 
         "adjacent_woeid": [
           2346619, 
           2346645, 
@@ -43,13 +41,27 @@
           20070497, 
           56043636
         ], 
-        "woeid": 12577925, 
+        "name": "Szabolcs-Szatm\u00e1r-Bereg", 
+        "hierarchy": [
+          "woe:state=12577925", 
+          "woe:country=23424844", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 48.425, 
         "ne_longitude": 22.897, 
         "longitude": 21.988, 
-        "parent_woeid": 23424844, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "HU", 
-        "date_indexed": "2010-12-02T09:55:38Z", 
+        "sw_latitude": 47.593, 
+        "adjacent": [
+          "woe:state=2346619", 
+          "woe:state=12577914", 
+          "woe:state=12577919", 
+          "woe:state=20070497", 
+          "woe:state=56043636", 
+          "woe:state=2346645", 
+          "woe:state=2347556"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.009, 
         "sw_longitude": 21.079, 
@@ -57,9 +69,16 @@
         "alias_HUN_S": [
           "Szabolcs-Szatmar-Bereg"
         ], 
-        "sw_latitude": 47.593
+        "woeid": 12577925, 
+        "date_indexed": "2010-12-02T09:55:38Z"
       }, 
       "id": 12577925
     }
+  ], 
+  "bbox": [
+    21.079, 
+    47.593, 
+    22.897, 
+    48.425
   ]
 }

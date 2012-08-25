@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347668, 
-        "name": "Surkhondaryo", 
         "adjacent_woeid": [
           2344575, 
           2344576, 
@@ -43,20 +41,41 @@
           20070295, 
           20070297
         ], 
-        "ne_latitude": 39.142, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Surkhondaryo", 
+        "hierarchy": [
+          "woe:state=2347668", 
+          "woe:country=23424980", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347668, 
         "ne_longitude": 68.403, 
-        "longitude": 67.420, 
-        "placetype": "State", 
-        "iso": "UZ", 
-        "date_indexed": "2010-12-02T18:18:47Z", 
-        "parent_woeid": 23424980, 
+        "longitude": 67.42, 
+        "placetype": "state", 
         "latitude": 38.163, 
+        "iso": "UZ", 
+        "sw_latitude": 37.184, 
+        "adjacent": [
+          "woe:state=2344575", 
+          "woe:state=2347348", 
+          "woe:state=2344576", 
+          "woe:state=20070297", 
+          "woe:state=20070295", 
+          "woe:state=20070294", 
+          "woe:state=2347664"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 39.142, 
         "sw_longitude": 66.436, 
         "fullname": "Surkhondaryo, Uzbekistan", 
-        "sw_latitude": 37.184
+        "date_indexed": "2010-12-02T18:18:47Z"
       }, 
       "id": 2347668
     }
+  ], 
+  "bbox": [
+    66.436, 
+    37.184, 
+    68.403, 
+    39.142
   ]
 }

@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2346427, 
-        "name": "Masaya", 
         "adjacent_woeid": [
           2346418, 
           2346422, 
           2346426
         ], 
-        "ne_latitude": 12.156, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Masaya", 
+        "hierarchy": [
+          "woe:state=2346427", 
+          "woe:country=23424915", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346427, 
         "ne_longitude": -85.961, 
         "longitude": -86.122, 
-        "placetype": "State", 
-        "iso": "NI", 
-        "date_indexed": "2010-12-02T18:19:07Z", 
-        "parent_woeid": 23424915, 
+        "placetype": "state", 
         "latitude": 11.998, 
+        "iso": "NI", 
+        "sw_latitude": 11.839, 
+        "adjacent": [
+          "woe:state=2346418", 
+          "woe:state=2346422", 
+          "woe:state=2346426"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.156, 
         "sw_longitude": -86.282, 
         "fullname": "Masaya, Nicaragua", 
-        "sw_latitude": 11.839
+        "date_indexed": "2010-12-02T18:19:07Z"
       }, 
       "id": 2346427
     }
+  ], 
+  "bbox": [
+    -86.282, 
+    11.839, 
+    -85.961, 
+    12.156
   ]
 }

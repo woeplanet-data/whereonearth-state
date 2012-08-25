@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ARA", 
-        "woeid": 2347249, 
-        "name": "Madanin", 
         "adjacent_woeid": [
           2346134, 
           2346139, 
@@ -41,20 +39,39 @@
           2347251, 
           2347254
         ], 
-        "ne_latitude": 33.904, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Madanin", 
+        "hierarchy": [
+          "woe:state=2347249", 
+          "woe:country=23424967", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347249, 
         "ne_longitude": 11.598, 
         "longitude": 11.356, 
-        "placetype": "State", 
-        "iso": "TN", 
-        "date_indexed": "2010-12-02T18:18:54Z", 
-        "parent_woeid": 23424967, 
+        "placetype": "state", 
         "latitude": 32.987, 
+        "iso": "TN", 
+        "sw_latitude": 32.258, 
+        "adjacent": [
+          "woe:state=2346134", 
+          "woe:state=2346139", 
+          "woe:state=2347250", 
+          "woe:state=2347251", 
+          "woe:state=2347254"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 33.904, 
         "sw_longitude": 9.801, 
         "fullname": "Madanin, Tunisia", 
-        "sw_latitude": 32.258
+        "date_indexed": "2010-12-02T18:18:54Z"
       }, 
       "id": 2347249
     }
+  ], 
+  "bbox": [
+    9.801, 
+    32.258, 
+    11.598, 
+    33.904
   ]
 }

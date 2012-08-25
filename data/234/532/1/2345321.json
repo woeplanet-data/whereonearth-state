@@ -8,7 +8,7 @@
           [
             [
               -53.516, 
-              2.170
+              2.17
             ], 
             [
               -53.516, 
@@ -20,11 +20,11 @@
             ], 
             [
               -51.614, 
-              2.170
+              2.17
             ], 
             [
               -53.516, 
-              2.170
+              2.17
             ]
           ]
         ]
@@ -32,26 +32,40 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2345321, 
-        "name": "Cayenne", 
         "adjacent_woeid": [
           2344846, 
           2345322
         ], 
-        "ne_latitude": 5.551, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Cayenne", 
+        "hierarchy": [
+          "woe:state=2345321", 
+          "woe:country=23424811", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345321, 
         "ne_longitude": -51.614, 
         "longitude": -52.565, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 3.86, 
         "iso": "GF", 
-        "date_indexed": "2010-12-02T08:59:07Z", 
-        "parent_woeid": 23424811, 
-        "latitude": 3.860, 
+        "sw_latitude": 2.17, 
+        "adjacent": [
+          "woe:state=2344846", 
+          "woe:state=2345322"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 5.551, 
         "sw_longitude": -53.516, 
         "fullname": "Cayenne, French Guiana", 
-        "sw_latitude": 2.170
+        "date_indexed": "2010-12-02T08:59:07Z"
       }, 
       "id": 2345321
     }
+  ], 
+  "bbox": [
+    -53.516, 
+    2.17, 
+    -51.614, 
+    5.551
   ]
 }

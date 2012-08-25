@@ -40,8 +40,13 @@
         "alias_SWE_S": [
           "Kanarieoearna"
         ], 
+        "hierarchy": [
+          "woe:state=12578031", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 29.415, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Ilhas Can\u00e1rias"
         ], 
@@ -57,8 +62,8 @@
         "alias_ITA_Q": [
           "Isole Canarie"
         ], 
-        "alias_GER_V": [
-          "Kanarischeinseln"
+        "alias_DAN_Q": [
+          "De Kanariske \u00d8er"
         ], 
         "woeid": 12578031, 
         "alias_JPN_Q": [
@@ -95,15 +100,14 @@
         "alias_DAN_S": [
           "De Kanariske Oer"
         ], 
-        "alias_DAN_Q": [
-          "De Kanariske \u00d8er"
+        "alias_GER_V": [
+          "Kanarischeinseln"
         ], 
         "alias_GER_Q": [
           "Kanarische Inseln"
         ], 
         "lang": "SPA", 
         "name": "Islas Canarias", 
-        "parent_woeid": 23424950, 
         "ne_longitude": -13.418, 
         "longitude": -16.521, 
         "iso": "ES", 
@@ -121,5 +125,11 @@
       }, 
       "id": 12578031
     }
+  ], 
+  "bbox": [
+    -18.159, 
+    27.636, 
+    -13.418, 
+    29.415
   ]
 }

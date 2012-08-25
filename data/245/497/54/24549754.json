@@ -15,11 +15,11 @@
               -12.795
             ], 
             [
-              45.130, 
+              45.13, 
               -12.795
             ], 
             [
-              45.130, 
+              45.13, 
               -12.839
             ], 
             [
@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549754, 
-        "name": "Chiconi", 
         "adjacent_woeid": [
           24549749, 
           24549759, 
           24549763
         ], 
-        "ne_latitude": -12.795, 
+        "name": "Chiconi", 
+        "hierarchy": [
+          "woe:state=24549754", 
+          "woe:country=23424886", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549754, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 45.130, 
+        "ne_longitude": 45.13, 
         "longitude": 45.113, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "YT", 
         "date_indexed": "2010-12-02T16:11:57Z", 
-        "parent_woeid": 23424886, 
+        "adjacent": [
+          "woe:state=24549763", 
+          "woe:state=24549749", 
+          "woe:state=24549759"
+        ], 
+        "ne_latitude": -12.795, 
         "latitude": -12.817, 
         "sw_longitude": 45.096, 
         "fullname": "Chiconi, Mayotte", 
@@ -54,5 +63,11 @@
       }, 
       "id": 24549754
     }
+  ], 
+  "bbox": [
+    45.096, 
+    -12.839, 
+    45.13, 
+    -12.795
   ]
 }

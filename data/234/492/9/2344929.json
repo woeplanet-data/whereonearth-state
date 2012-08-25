@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              104.150, 
+              104.15, 
               11.734
             ], 
             [
-              104.150, 
+              104.15, 
               12.568
             ], 
             [
@@ -23,7 +23,7 @@
               11.734
             ], 
             [
-              104.150, 
+              104.15, 
               11.734
             ]
           ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344929, 
-        "name": "Kampong Chhnang", 
         "adjacent_woeid": [
           2344928, 
           2344930, 
@@ -41,20 +39,39 @@
           2344933, 
           2344937
         ], 
-        "ne_latitude": 12.568, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kampong Chhnang", 
+        "hierarchy": [
+          "woe:state=2344929", 
+          "woe:country=23424776", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344929, 
         "ne_longitude": 104.918, 
         "longitude": 104.534, 
-        "placetype": "State", 
-        "iso": "KH", 
-        "date_indexed": "2010-12-02T16:11:17Z", 
-        "parent_woeid": 23424776, 
+        "placetype": "state", 
         "latitude": 12.151, 
-        "sw_longitude": 104.150, 
+        "iso": "KH", 
+        "sw_latitude": 11.734, 
+        "adjacent": [
+          "woe:state=2344928", 
+          "woe:state=2344930", 
+          "woe:state=2344931", 
+          "woe:state=2344933", 
+          "woe:state=2344937"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.568, 
+        "sw_longitude": 104.15, 
         "fullname": "Kampong Chhnang, Cambodia", 
-        "sw_latitude": 11.734
+        "date_indexed": "2010-12-02T16:11:17Z"
       }, 
       "id": 2344929
     }
+  ], 
+  "bbox": [
+    104.15, 
+    11.734, 
+    104.918, 
+    12.568
   ]
 }

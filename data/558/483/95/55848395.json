@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848395, 
-        "name": "Velenje", 
         "adjacent_woeid": [
           55848343, 
           55848369, 
@@ -41,20 +39,39 @@
           55848387, 
           55848398
         ], 
-        "ne_latitude": 46.456, 
+        "name": "Velenje", 
+        "hierarchy": [
+          "woe:state=55848395", 
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
+        "woeid": 55848395, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.206, 
         "longitude": 15.044, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SI", 
         "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424945, 
-        "latitude": 46.380, 
+        "adjacent": [
+          "woe:state=55848343", 
+          "woe:state=55848369", 
+          "woe:state=55848380", 
+          "woe:state=55848387", 
+          "woe:state=55848398"
+        ], 
+        "ne_latitude": 46.456, 
+        "latitude": 46.38, 
         "sw_longitude": 14.882, 
         "fullname": "Velenje, Slovenia", 
         "sw_latitude": 46.305
       }, 
       "id": 55848395
     }
+  ], 
+  "bbox": [
+    14.882, 
+    46.305, 
+    15.206, 
+    46.456
   ]
 }

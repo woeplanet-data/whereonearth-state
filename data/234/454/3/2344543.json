@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2344543, 
-        "name": "Saint John", 
         "adjacent_woeid": [
           2344542, 
           2344544, 
           2344545, 
           2344546
         ], 
-        "ne_latitude": 17.175, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Saint John", 
         "alias_ENG_V": [
           "Stjohn"
         ], 
+        "hierarchy": [
+          "woe:state=2344543", 
+          "woe:country=23424737", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2344543, 
         "ne_longitude": -61.794, 
         "longitude": -61.839, 
-        "placetype": "State", 
-        "iso": "AG", 
-        "date_indexed": "2010-12-02T08:58:52Z", 
-        "parent_woeid": 23424737, 
+        "placetype": "state", 
         "latitude": 17.112, 
+        "iso": "AG", 
+        "sw_latitude": 17.049, 
+        "adjacent": [
+          "woe:state=2344542", 
+          "woe:state=2344544", 
+          "woe:state=2344545", 
+          "woe:state=2344546"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 17.175, 
         "sw_longitude": -61.884, 
         "fullname": "Saint John, Antigua and Barbuda", 
-        "sw_latitude": 17.049
+        "date_indexed": "2010-12-02T08:58:52Z"
       }, 
       "id": 2344543
     }
+  ], 
+  "bbox": [
+    -61.884, 
+    17.049, 
+    -61.794, 
+    17.175
   ]
 }

@@ -4010,11 +4010,16 @@
         "alias_KOR_Q": [
           "\uc544\uc774\ub2e4\ud638"
         ], 
+        "hierarchy": [
+          "woe:state=2347571", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 48.99289959544001, 
         "ne:Shape_Area": 24.4164345296, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18640526", 
         "alias_ENG_A": [
           "ID"
         ], 
@@ -4024,13 +4029,22 @@
         "alias_CHI_Q": [
           "\u7231\u8fbe\u6cb3"
         ], 
-        "ne:OBJECTID": 3518, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30a2\u30a4\u30c0\u30db"
         ], 
         "ne:Abbrev": "Idaho", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -117.21535038451259, 
+        "adjacent": [
+          "woe:state=2344916", 
+          "woe:state=2347585", 
+          "woe:state=2347587", 
+          "woe:state=2347596", 
+          "woe:state=2347603", 
+          "woe:state=2347606", 
+          "woe:state=2347609"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 45.494, 
         "ne:FIPS_1": "US16", 
@@ -4038,9 +4052,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 41.9995402205048, 
-        "ne:VertexCou": 997.0, 
-        "ne:VALIDFR_1": "18640526", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3518, 
         "ne:Postal": "ID", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "ID|Idaho", 
@@ -4056,8 +4070,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 216075.5, 
         "woe:id": "2347571", 
-        "ne:HASC_1": "US.ID", 
-        "lang": "ENG", 
+        "name": "Idaho", 
+        "ne:VertexCou": 997.0, 
         "adjacent_woeid": [
           2344916, 
           2347585, 
@@ -4067,9 +4081,8 @@
           2347606, 
           2347609
         ], 
-        "name": "Idaho", 
+        "ne:HASC_1": "US.ID", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -111.05023808032314, 
         "longitude": -114.143, 
         "iso": "US", 

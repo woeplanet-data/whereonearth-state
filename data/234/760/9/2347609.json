@@ -826,11 +826,16 @@
         "alias_KOR_Q": [
           "\uc640\uc774\uc624\ubc0d"
         ], 
+        "hierarchy": [
+          "woe:state=2347609", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 45.00010174400035, 
         "ne:Shape_Area": 27.9884573918, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:VALIDFR_1": "18680729", 
+        "ne:MAP_COLOR": 1, 
         "alias_ENG_A": [
           "Wyo"
         ], 
@@ -840,13 +845,21 @@
         "alias_CHI_Q": [
           "\u6000\u4fc4\u660e"
         ], 
-        "ne:DataRank": 1, 
+        "ne:OBJECTID": 3527, 
         "alias_JPN_Q": [
           "\u30ef\u30a4\u30aa\u30df\u30f3\u30b0"
         ], 
         "ne:Abbrev": "Wyo.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -111.05138554061017, 
+        "adjacent": [
+          "woe:state=2347564", 
+          "woe:state=2347571", 
+          "woe:state=2347585", 
+          "woe:state=2347586", 
+          "woe:state=2347600", 
+          "woe:state=2347603"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 43.0, 
         "ne:FIPS_1": "US56", 
@@ -854,9 +867,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 40.99983318925035, 
-        "lang": "ENG", 
-        "ne:MAP_COLOR": 1, 
-        "ne:OBJECTID": 3527, 
+        "ne:VertexCou": 201.0, 
+        "ne:VALIDFR_1": "18680729", 
+        "ne:DataRank": 1, 
         "ne:Postal": "WY", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "WY|Wyo.", 
@@ -872,8 +885,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 254387.8, 
         "woe:id": "2347609", 
-        "name": "Wyoming", 
-        "ne:VertexCou": 201.0, 
+        "ne:HASC_1": "US.WY", 
+        "lang": "ENG", 
         "adjacent_woeid": [
           2347564, 
           2347571, 
@@ -882,9 +895,8 @@
           2347600, 
           2347603
         ], 
-        "ne:HASC_1": "US.WY", 
+        "name": "Wyoming", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -104.05236210322846, 
         "longitude": -107.554, 
         "iso": "US", 

@@ -15,11 +15,11 @@
               7.093
             ], 
             [
-              -69.440, 
+              -69.44, 
               7.093
             ], 
             [
-              -69.440, 
+              -69.44, 
               6.025
             ], 
             [
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345049, 
-        "name": "Arauca", 
         "adjacent_woeid": [
           2345052, 
           2345076, 
           2345077, 
           2347679
         ], 
-        "ne_latitude": 7.093, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -69.440, 
+        "name": "Arauca", 
+        "hierarchy": [
+          "woe:state=2345049", 
+          "woe:country=23424787", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345049, 
+        "ne_longitude": -69.44, 
         "longitude": -70.906, 
-        "placetype": "State", 
-        "iso": "CO", 
-        "date_indexed": "2010-12-02T17:57:12Z", 
-        "parent_woeid": 23424787, 
+        "placetype": "state", 
         "latitude": 6.559, 
+        "iso": "CO", 
+        "sw_latitude": 6.025, 
+        "adjacent": [
+          "woe:state=2347679", 
+          "woe:state=2345052", 
+          "woe:state=2345077", 
+          "woe:state=2345076"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 7.093, 
         "sw_longitude": -72.373, 
         "fullname": "Arauca, Colombia", 
-        "sw_latitude": 6.025
+        "date_indexed": "2010-12-02T17:57:12Z"
       }, 
       "id": 2345049
     }
+  ], 
+  "bbox": [
+    -72.373, 
+    6.025, 
+    -69.44, 
+    7.093
   ]
 }

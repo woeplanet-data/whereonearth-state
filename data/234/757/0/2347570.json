@@ -2312,11 +2312,16 @@
         "alias_KOR_Q": [
           "\ud558\uc640\uc774"
         ], 
+        "hierarchy": [
+          "woe:state=2347570", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 26.07141522063597, 
         "ne:Shape_Area": 1.44031631094, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18980812", 
         "alias_POR_Q": [
           "Hava\u00ed"
         ], 
@@ -2330,7 +2335,7 @@
           "\u590f\u5a01\u5937"
         ], 
         "ne:VALIDTO_1": "Present", 
-        "ne:OBJECTID": 3517, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30cf\u30ef\u30a4"
         ], 
@@ -2352,9 +2357,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "ne:VertexCou": 550.0, 
-        "ne:VALIDFR_1": "18980812", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3517, 
         "ne:Postal": "HI", 
         "ne:Region_Cod": "West", 
         "ne:VARNAME_1": "HI|Hawaii", 
@@ -2372,13 +2377,12 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 16656.7, 
         "woe:id": "2347570", 
-        "ne:HASC_1": "US.HI", 
-        "lang": "ENG", 
-        "ne:NL_NAME_1": null, 
         "name": "Hawaii", 
+        "ne:VertexCou": 550.0, 
+        "ne:NL_NAME_1": null, 
+        "ne:HASC_1": "US.HI", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 0, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -154.79569706406824, 
         "longitude": -155.434, 
         "iso": "US", 

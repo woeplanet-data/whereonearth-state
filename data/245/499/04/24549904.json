@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549904, 
-        "name": "Lautem", 
         "adjacent_woeid": [
           24549903, 
           24549905
         ], 
-        "ne_latitude": -8.328, 
+        "name": "Lautem", 
+        "hierarchy": [
+          "woe:state=24549904", 
+          "woe:country=23424968", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549904, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 127.345, 
         "longitude": 127.004, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "TL", 
         "date_indexed": "2010-12-02T07:50:18Z", 
-        "parent_woeid": 23424968, 
+        "adjacent": [
+          "woe:state=24549905", 
+          "woe:state=24549903"
+        ], 
+        "ne_latitude": -8.328, 
         "latitude": -8.545, 
         "sw_longitude": 126.703, 
         "fullname": "Lautem, East Timor", 
@@ -53,5 +61,11 @@
       }, 
       "id": 24549904
     }
+  ], 
+  "bbox": [
+    126.703, 
+    -8.762, 
+    127.345, 
+    -8.328
   ]
 }

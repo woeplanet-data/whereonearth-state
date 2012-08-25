@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345627, 
-        "name": "Cop\u00e1n", 
         "adjacent_woeid": [
           2345555, 
           2345560, 
@@ -42,23 +40,43 @@
           2345636, 
           2345638
         ], 
-        "ne_latitude": 15.292, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Cop\u00e1n", 
+        "hierarchy": [
+          "woe:state=2345627", 
+          "woe:country=23424841", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345627, 
         "ne_longitude": -88.635, 
-        "longitude": -88.930, 
-        "placetype": "State", 
+        "longitude": -88.93, 
+        "placetype": "state", 
+        "latitude": 14.893, 
         "alias_SPA_S": [
           "Copan"
         ], 
         "iso": "HN", 
-        "date_indexed": "2010-12-02T19:20:59Z", 
-        "parent_woeid": 23424841, 
-        "latitude": 14.893, 
+        "sw_latitude": 14.494, 
+        "adjacent": [
+          "woe:state=2345555", 
+          "woe:state=2345560", 
+          "woe:state=2345635", 
+          "woe:state=2345636", 
+          "woe:state=2345638", 
+          "woe:state=2345573"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 15.292, 
         "sw_longitude": -89.225, 
         "fullname": "Cop\u00e1n, Honduras", 
-        "sw_latitude": 14.494
+        "date_indexed": "2010-12-02T19:20:59Z"
       }, 
       "id": 2345627
     }
+  ], 
+  "bbox": [
+    -89.225, 
+    14.494, 
+    -88.635, 
+    15.292
   ]
 }

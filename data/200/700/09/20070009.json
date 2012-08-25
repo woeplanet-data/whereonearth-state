@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070009, 
-        "name": "Al Jemailiya", 
         "adjacent_woeid": [
           20070004, 
           20070006, 
@@ -41,23 +39,42 @@
           20070010, 
           20070011
         ], 
-        "ne_latitude": 25.809, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Al Jemailiya", 
         "alias_ENG_V": [
           "Al Jemailya"
         ], 
+        "hierarchy": [
+          "woe:state=20070009", 
+          "woe:country=23424930", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070009, 
         "ne_longitude": 51.268, 
         "longitude": 51.009, 
-        "placetype": "State", 
-        "iso": "QA", 
-        "date_indexed": "2010-12-02T12:16:10Z", 
-        "parent_woeid": 23424930, 
+        "placetype": "state", 
         "latitude": 25.444, 
+        "iso": "QA", 
+        "sw_latitude": 25.079, 
+        "adjacent": [
+          "woe:state=20070004", 
+          "woe:state=20070006", 
+          "woe:state=20070010", 
+          "woe:state=20070011", 
+          "woe:state=20070007"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 25.809, 
         "sw_longitude": 50.751, 
         "fullname": "Al Jemailiya, Qatar", 
-        "sw_latitude": 25.079
+        "date_indexed": "2010-12-02T12:16:10Z"
       }, 
       "id": 20070009
     }
+  ], 
+  "bbox": [
+    50.751, 
+    25.079, 
+    51.268, 
+    25.809
   ]
 }

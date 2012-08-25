@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070126, 
-        "name": "Rumphi", 
         "adjacent_woeid": [
           20070124, 
           20070127, 
           20070147, 
           56189818
         ], 
-        "ne_latitude": -10.443, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Rumphi", 
+        "hierarchy": [
+          "woe:state=20070126", 
+          "woe:country=23424889", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070126, 
         "ne_longitude": 34.652, 
         "longitude": 33.949, 
-        "placetype": "State", 
-        "iso": "MW", 
-        "date_indexed": "2010-12-02T17:40:22Z", 
-        "parent_woeid": 23424889, 
+        "placetype": "state", 
         "latitude": -10.788, 
+        "iso": "MW", 
+        "sw_latitude": -11.132, 
+        "adjacent": [
+          "woe:state=20070124", 
+          "woe:state=56189818", 
+          "woe:state=20070127", 
+          "woe:state=20070147"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -10.443, 
         "sw_longitude": 33.246, 
         "fullname": "Rumphi, Malawi", 
-        "sw_latitude": -11.132
+        "date_indexed": "2010-12-02T17:40:22Z"
       }, 
       "id": 20070126
     }
+  ], 
+  "bbox": [
+    33.246, 
+    -11.132, 
+    34.652, 
+    -10.443
   ]
 }

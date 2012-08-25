@@ -15,11 +15,11 @@
               3.017
             ], 
             [
-              73.050, 
+              73.05, 
               3.017
             ], 
             [
-              73.050, 
+              73.05, 
               2.675
             ], 
             [
@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070322, 
-        "name": "Dhaalu", 
         "ne_latitude": 3.017, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 73.050, 
+        "name": "Dhaalu", 
+        "hierarchy": [
+          "woe:state=20070322", 
+          "woe:country=23424899", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070322, 
+        "ne_longitude": 73.05, 
         "longitude": 72.871, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "MV", 
-        "date_indexed": "2010-12-02T09:35:37Z", 
-        "parent_woeid": 23424899, 
+        "sw_latitude": 2.675, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 2.694, 
         "sw_longitude": 72.846, 
         "fullname": "Dhaalu, Maldives", 
-        "sw_latitude": 2.675
+        "date_indexed": "2010-12-02T09:35:37Z"
       }, 
       "id": 20070322
     }
+  ], 
+  "bbox": [
+    72.846, 
+    2.675, 
+    73.05, 
+    3.017
   ]
 }

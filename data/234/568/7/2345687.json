@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2345687, 
-        "name": "Arnessysla", 
         "adjacent_woeid": [
           2345689, 
           2345691, 
@@ -43,23 +41,44 @@
           2345701, 
           2345707
         ], 
-        "ne_latitude": 64.956, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Arnessysla", 
+        "hierarchy": [
+          "woe:state=2345687", 
+          "woe:country=23424845", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345687, 
         "ne_longitude": -18.548, 
         "longitude": -20.148, 
-        "placetype": "State", 
-        "iso": "IS", 
-        "date_indexed": "2010-12-02T09:55:32Z", 
-        "parent_woeid": 23424845, 
+        "placetype": "state", 
         "latitude": 64.365, 
+        "iso": "IS", 
+        "sw_latitude": 63.774, 
+        "adjacent": [
+          "woe:state=2345689", 
+          "woe:state=2345691", 
+          "woe:state=2345694", 
+          "woe:state=2345695", 
+          "woe:state=2345700", 
+          "woe:state=2345701", 
+          "woe:state=2345707"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 64.956, 
         "sw_longitude": -21.749, 
         "fullname": "Arnessysla, Iceland", 
         "alias_UNK_A": [
           "ARN"
         ], 
-        "sw_latitude": 63.774
+        "date_indexed": "2010-12-02T09:55:32Z"
       }, 
       "id": 2345687
     }
+  ], 
+  "bbox": [
+    -21.749, 
+    63.774, 
+    -18.548, 
+    64.956
   ]
 }

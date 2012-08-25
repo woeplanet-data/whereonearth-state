@@ -8,7 +8,7 @@
           [
             [
               24.698, 
-              27.950
+              27.95
             ], 
             [
               24.698, 
@@ -20,11 +20,11 @@
             ], 
             [
               30.998, 
-              27.950
+              27.95
             ], 
             [
               24.698, 
-              27.950
+              27.95
             ]
           ]
         ]
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2345244, 
-        "name": "Matruh", 
         "adjacent_woeid": [
           2345225, 
           2345228, 
@@ -41,23 +39,42 @@
           2346128, 
           56120898
         ], 
-        "ne_latitude": 31.667, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Matruh", 
         "alias_ENG_V": [
           "Matruh Governorate"
         ], 
+        "hierarchy": [
+          "woe:state=2345244", 
+          "woe:country=23424802", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345244, 
         "ne_longitude": 30.998, 
         "longitude": 27.848, 
-        "placetype": "State", 
-        "iso": "EG", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
-        "parent_woeid": 23424802, 
+        "placetype": "state", 
         "latitude": 29.809, 
+        "iso": "EG", 
+        "sw_latitude": 27.95, 
+        "adjacent": [
+          "woe:state=2345225", 
+          "woe:state=2345228", 
+          "woe:state=2345235", 
+          "woe:state=56120898", 
+          "woe:state=2346128"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 31.667, 
         "sw_longitude": 24.698, 
         "fullname": "Matruh, Egypt", 
-        "sw_latitude": 27.950
+        "date_indexed": "2010-12-02T12:16:45Z"
       }, 
       "id": 2345244
     }
+  ], 
+  "bbox": [
+    24.698, 
+    27.95, 
+    30.998, 
+    31.667
   ]
 }

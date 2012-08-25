@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": -22.046, 
-        "name": "Concepci\u00f3n", 
         "adjacent_woeid": [
           2344853, 
           2346449, 
@@ -41,26 +39,45 @@
           2346462, 
           2346463
         ], 
+        "name": "Concepci\u00f3n", 
+        "hierarchy": [
+          "woe:state=2346454", 
+          "woe:country=23424917", 
+          "woe:planet=1"
+        ], 
         "woeid": 2346454, 
         "alias_SPA_V": [
           "Villa Concepci\u00f3n"
         ], 
         "ne_longitude": -56.111, 
-        "longitude": -57.080, 
-        "parent_woeid": 23424917, 
-        "placetype": "State", 
+        "longitude": -57.08, 
+        "placetype": "state", 
+        "latitude": -22.773, 
         "alias_SPA_S": [
           "Villa Concepcion"
         ], 
-        "iso": "PY", 
-        "date_indexed": "2010-12-02T12:08:38Z", 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": -22.773, 
         "sw_longitude": -58.049, 
+        "sw_latitude": -23.501, 
+        "adjacent": [
+          "woe:state=2346463", 
+          "woe:state=2346449", 
+          "woe:state=2344853", 
+          "woe:state=2346461", 
+          "woe:state=2346462"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": -22.046, 
+        "iso": "PY", 
         "fullname": "Concepci\u00f3n, Paraguay", 
-        "sw_latitude": -23.501
+        "date_indexed": "2010-12-02T12:08:38Z"
       }, 
       "id": 2346454
     }
+  ], 
+  "bbox": [
+    -58.049, 
+    -23.501, 
+    -56.111, 
+    -22.046
   ]
 }

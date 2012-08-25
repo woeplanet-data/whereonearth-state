@@ -37,8 +37,13 @@
         "alias_ENG_P": [
           "Hlavni mesto Praha"
         ], 
+        "hierarchy": [
+          "woe:state=20070472", 
+          "woe:country=23424810", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 50.178, 
-        "placetype": "State", 
+        "placetype": "state", 
         "alias_POR_Q": [
           "Praga"
         ], 
@@ -56,14 +61,17 @@
           "Praha"
         ], 
         "sw_longitude": 14.224, 
+        "adjacent": [
+          "woe:state=20070468"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 50.060, 
+        "latitude": 50.06, 
         "alias_NOR_Q": [
           "Praha"
         ], 
         "date_indexed": "2010-12-02T08:54:50Z", 
-        "alias_DUT_Q": [
-          "Praag"
+        "alias_CZE_V": [
+          "Prague"
         ], 
         "alias_DAN_Q": [
           "Prag"
@@ -76,10 +84,9 @@
           20070468
         ], 
         "name": "Hlavn\u00ed m\u011bsto Praha", 
-        "alias_CZE_V": [
-          "Prague"
+        "alias_DUT_Q": [
+          "Praag"
         ], 
-        "parent_woeid": 23424810, 
         "ne_longitude": 14.707, 
         "longitude": 14.465, 
         "iso": "CZ", 
@@ -88,5 +95,11 @@
       }, 
       "id": 20070472
     }
+  ], 
+  "bbox": [
+    14.224, 
+    49.942, 
+    14.707, 
+    50.178
   ]
 }

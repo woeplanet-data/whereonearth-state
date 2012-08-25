@@ -32,21 +32,30 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347703, 
-        "name": "Ben Tre", 
         "adjacent_woeid": [
           2347717, 
           2347750, 
           2347752
         ], 
-        "ne_latitude": 10.341, 
+        "name": "Ben Tre", 
+        "hierarchy": [
+          "woe:state=2347703", 
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347703, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 106.798, 
-        "longitude": 106.470, 
-        "placetype": "State", 
+        "longitude": 106.47, 
+        "placetype": "state", 
         "iso": "VN", 
         "date_indexed": "2010-12-02T08:52:39Z", 
-        "parent_woeid": 23424984, 
+        "adjacent": [
+          "woe:state=2347717", 
+          "woe:state=2347750", 
+          "woe:state=2347752"
+        ], 
+        "ne_latitude": 10.341, 
         "latitude": 10.075, 
         "sw_longitude": 106.143, 
         "fullname": "Ben Tre, Vietnam", 
@@ -54,5 +63,11 @@
       }, 
       "id": 2347703
     }
+  ], 
+  "bbox": [
+    106.143, 
+    9.808, 
+    106.798, 
+    10.341
   ]
 }

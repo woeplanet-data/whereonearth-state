@@ -15,11 +15,11 @@
               11.931
             ], 
             [
-              -0.570, 
+              -0.57, 
               11.931
             ], 
             [
-              -0.570, 
+              -0.57, 
               11.162
             ], 
             [
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 2347639, 
-        "name": "Zoundweogo", 
         "adjacent_woeid": [
           2347611, 
           2347613, 
@@ -41,20 +39,39 @@
           2347626, 
           55967356
         ], 
-        "ne_latitude": 11.931, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -0.570, 
+        "name": "Zoundweogo", 
+        "hierarchy": [
+          "woe:state=2347639", 
+          "woe:country=23424978", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347639, 
+        "ne_longitude": -0.57, 
         "longitude": -0.953, 
-        "placetype": "State", 
-        "iso": "BF", 
-        "date_indexed": "2010-12-02T09:36:17Z", 
-        "parent_woeid": 23424978, 
+        "placetype": "state", 
         "latitude": 11.546, 
+        "iso": "BF", 
+        "sw_latitude": 11.162, 
+        "adjacent": [
+          "woe:state=2347611", 
+          "woe:state=2347613", 
+          "woe:state=2347615", 
+          "woe:state=2347626", 
+          "woe:state=55967356"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 11.931, 
         "sw_longitude": -1.336, 
         "fullname": "Zoundweogo, Burkina Faso", 
-        "sw_latitude": 11.162
+        "date_indexed": "2010-12-02T09:36:17Z"
       }, 
       "id": 2347639
     }
+  ], 
+  "bbox": [
+    -1.336, 
+    11.162, 
+    -0.57, 
+    11.931
   ]
 }

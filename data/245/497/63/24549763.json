@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 24549763, 
-        "name": "Ouangani", 
         "adjacent_woeid": [
           24549749, 
           24549752, 
@@ -42,14 +40,28 @@
           24549759, 
           24549760
         ], 
-        "ne_latitude": -12.822, 
+        "name": "Ouangani", 
+        "hierarchy": [
+          "woe:state=24549763", 
+          "woe:country=23424886", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549763, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.179, 
         "longitude": 45.153, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "YT", 
         "date_indexed": "2010-12-02T16:11:57Z", 
-        "parent_woeid": 23424886, 
+        "adjacent": [
+          "woe:state=24549756", 
+          "woe:state=24549754", 
+          "woe:state=24549760", 
+          "woe:state=24549752", 
+          "woe:state=24549749", 
+          "woe:state=24549759"
+        ], 
+        "ne_latitude": -12.822, 
         "latitude": -12.857, 
         "sw_longitude": 45.127, 
         "fullname": "Ouangani, Mayotte", 
@@ -57,5 +69,11 @@
       }, 
       "id": 24549763
     }
+  ], 
+  "bbox": [
+    45.127, 
+    -12.893, 
+    45.179, 
+    -12.822
   ]
 }

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              1.980, 
+              1.98, 
               13.429
             ], 
             [
-              1.980, 
+              1.98, 
               13.637
             ], 
             [
@@ -23,7 +23,7 @@
               13.429
             ], 
             [
-              1.980, 
+              1.98, 
               13.429
             ]
           ]
@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "FRE", 
-        "woeid": 20069994, 
-        "name": "Niamey", 
         "adjacent_woeid": [
           20069995
         ], 
-        "ne_latitude": 13.637, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Niamey", 
+        "hierarchy": [
+          "woe:state=20069994", 
+          "woe:country=23424906", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069994, 
         "ne_longitude": 2.257, 
         "longitude": 2.118, 
-        "placetype": "State", 
-        "iso": "NE", 
-        "date_indexed": "2010-12-02T17:43:23Z", 
-        "parent_woeid": 23424906, 
+        "placetype": "state", 
         "latitude": 13.533, 
-        "sw_longitude": 1.980, 
+        "iso": "NE", 
+        "sw_latitude": 13.429, 
+        "adjacent": [
+          "woe:state=20069995"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 13.637, 
+        "sw_longitude": 1.98, 
         "fullname": "Niamey, Niger", 
-        "sw_latitude": 13.429
+        "date_indexed": "2010-12-02T17:43:23Z"
       }, 
       "id": 20069994
     }
+  ], 
+  "bbox": [
+    1.98, 
+    13.429, 
+    2.257, 
+    13.637
   ]
 }

@@ -15,11 +15,11 @@
               56.877
             ], 
             [
-              11.660, 
+              11.66, 
               56.877
             ], 
             [
-              11.660, 
+              11.66, 
               55.669
             ], 
             [
@@ -32,20 +32,28 @@
       "type": "Feature", 
       "properties": {
         "lang": "DAN", 
-        "woeid": 28362580, 
-        "name": "Midtjylland", 
         "adjacent_woeid": [
           28362579, 
           28362581
         ], 
-        "ne_latitude": 56.877, 
+        "name": "Midtjylland", 
+        "hierarchy": [
+          "woe:state=28362580", 
+          "woe:country=23424796", 
+          "woe:planet=1"
+        ], 
+        "woeid": 28362580, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 11.660, 
+        "ne_longitude": 11.66, 
         "longitude": 9.528, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "DK", 
         "date_indexed": "2010-12-02T16:12:23Z", 
-        "parent_woeid": 23424796, 
+        "adjacent": [
+          "woe:state=28362579", 
+          "woe:state=28362581"
+        ], 
+        "ne_latitude": 56.877, 
         "latitude": 56.273, 
         "sw_longitude": 8.097, 
         "fullname": "Midtjylland, Denmark", 
@@ -56,5 +64,11 @@
       }, 
       "id": 28362580
     }
+  ], 
+  "bbox": [
+    8.097, 
+    55.669, 
+    11.66, 
+    56.877
   ]
 }

@@ -15,11 +15,11 @@
               81.857
             ], 
             [
-              69.070, 
+              69.07, 
               81.857
             ], 
             [
-              69.070, 
+              69.07, 
               65.805
             ], 
             [
@@ -32,27 +32,42 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070509, 
-        "name": "Nenetskiy Avtonomnyy Okrug", 
         "adjacent_woeid": [
           2346874, 
           20070508, 
           20070525
         ], 
-        "ne_latitude": 81.857, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 69.070, 
+        "name": "Nenetskiy Avtonomnyy Okrug", 
+        "hierarchy": [
+          "woe:state=20070509", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070509, 
+        "ne_longitude": 69.07, 
         "longitude": 54.464, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 67.834, 
+        "iso": "RU", 
+        "sw_latitude": 65.805, 
+        "adjacent": [
+          "woe:state=20070508", 
+          "woe:state=2346874", 
+          "woe:state=20070525"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 81.857, 
         "sw_longitude": 43.249, 
         "fullname": "Nenetskiy Avtonomnyy Okrug, Russia", 
-        "sw_latitude": 65.805
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 20070509
     }
+  ], 
+  "bbox": [
+    43.249, 
+    65.805, 
+    69.07, 
+    81.857
   ]
 }

@@ -15,11 +15,11 @@
               42.645
             ], 
             [
-              -1.680, 
+              -1.68, 
               42.645
             ], 
             [
-              -1.680, 
+              -1.68, 
               41.919
             ], 
             [
@@ -32,31 +32,47 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 42.645, 
-        "name": "La Rioja", 
         "adjacent_woeid": [
           12578026, 
           12578030, 
           12578033, 
           12578037
         ], 
+        "name": "La Rioja", 
+        "hierarchy": [
+          "woe:state=12578023", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "woeid": 12578023, 
         "alias_SPA_V": [
           "Larioja"
         ], 
-        "ne_longitude": -1.680, 
+        "ne_longitude": -1.68, 
         "longitude": -2.407, 
-        "parent_woeid": 23424950, 
-        "placetype": "State", 
-        "iso": "ES", 
-        "date_indexed": "2010-12-02T17:07:37Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 42.282, 
         "sw_longitude": -3.134, 
+        "sw_latitude": 41.919, 
+        "adjacent": [
+          "woe:state=12578030", 
+          "woe:state=12578033", 
+          "woe:state=12578026", 
+          "woe:state=12578037"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 42.645, 
+        "iso": "ES", 
         "fullname": "La Rioja, Spain", 
-        "sw_latitude": 41.919
+        "date_indexed": "2010-12-02T17:07:37Z"
       }, 
       "id": 12578023
     }
+  ], 
+  "bbox": [
+    -3.134, 
+    41.919, 
+    -1.68, 
+    42.645
   ]
 }

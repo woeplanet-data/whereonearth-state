@@ -1167,20 +1167,29 @@
         "alias_ENG_P": [
           "Aomori Prefecture"
         ], 
+        "hierarchy": [
+          "woe:state=2345853", 
+          "woe:country=23424856", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.53152212164866, 
         "ne:Shape_Area": 1.02493925751, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 4, 
+        "ne:VALIDFR_1": "Unknown", 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:OBJECTID": 1863, 
+        "ne:DataRank": 2, 
         "alias_JPN_V": [
           "\u9752\u68ee"
         ], 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Unknown", 
         "sw_longitude": 139.85712772016825, 
+        "adjacent": [
+          "woe:state=2345865", 
+          "woe:state=2345852"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.882, 
         "ne:FIPS_1": "JA03", 
@@ -1188,9 +1197,9 @@
         "ne:FIRST_HASC": "JP.TS", 
         "ne:ENGTYPE_1": "Prefecture", 
         "sw_latitude": 40.21131846777314, 
-        "ne:VertexCou": 286.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 2, 
+        "lang": "JPN", 
+        "ne:MAP_COLOR": 4, 
+        "ne:OBJECTID": 1863, 
         "ne:Postal": "AO", 
         "ne:Region_Cod": "JPN-THO", 
         "ne:VARNAME_1": null, 
@@ -1206,15 +1215,14 @@
         "ne:LabelRank": 6, 
         "ne:Area_sqkm": 9607.4, 
         "woe:id": "2345853", 
-        "ne:HASC_1": "JP.AO", 
-        "lang": "JPN", 
+        "name": "\u9752\u68ee\u770c", 
+        "ne:VertexCou": 286.0, 
         "adjacent_woeid": [
           2345852, 
           2345865
         ], 
-        "name": "\u9752\u68ee\u770c", 
+        "ne:HASC_1": "JP.AO", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424856, 
         "ne_longitude": 141.68125410339417, 
         "longitude": 141.274, 
         "iso": "JP", 

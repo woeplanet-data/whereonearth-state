@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 2345294, 
-        "name": "Chalatenango", 
         "adjacent_woeid": [
           2345293, 
           2345295, 
@@ -43,20 +41,41 @@
           2345635, 
           2345636
         ], 
-        "ne_latitude": 14.389, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Chalatenango", 
+        "hierarchy": [
+          "woe:state=2345294", 
+          "woe:country=23424807", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2345294, 
         "ne_longitude": -88.681, 
         "longitude": -89.054, 
-        "placetype": "State", 
-        "iso": "SV", 
-        "date_indexed": "2010-12-02T17:05:52Z", 
-        "parent_woeid": 23424807, 
+        "placetype": "state", 
         "latitude": 14.159, 
+        "iso": "SV", 
+        "sw_latitude": 13.928, 
+        "adjacent": [
+          "woe:state=2345293", 
+          "woe:state=2345295", 
+          "woe:state=2345296", 
+          "woe:state=2345635", 
+          "woe:state=2345636", 
+          "woe:state=2345301", 
+          "woe:state=2345302"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 14.389, 
         "sw_longitude": -89.427, 
         "fullname": "Chalatenango, El Salvador", 
-        "sw_latitude": 13.928
+        "date_indexed": "2010-12-02T17:05:52Z"
       }, 
       "id": 2345294
     }
+  ], 
+  "bbox": [
+    -89.427, 
+    13.928, 
+    -88.681, 
+    14.389
   ]
 }

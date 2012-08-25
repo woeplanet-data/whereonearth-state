@@ -1142,11 +1142,16 @@
         "alias_ENG_P": [
           "Masovian"
         ], 
+        "hierarchy": [
+          "woe:state=12577941", 
+          "woe:country=23424923", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 53.4435082054394, 
         "ne:Shape_Area": 4.61033820264, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 2, 
+        "ne:VALIDFR_1": "19980727", 
         "ne:sameAsCity": -99, 
         "alias_KOR_Q": [
           "\ub9c8\uc870\ube44\uc5d0\uce20\ud0a4\uc5d0"
@@ -1157,20 +1162,28 @@
         "alias_CHI_Q": [
           "\u9a6c\u4f50\u592b\u820d"
         ], 
-        "ne:VALIDTO_1": "Present", 
+        "alias_SPA_Q": [
+          "Mazovia"
+        ], 
         "alias_ITA_Q": [
           "Masovia"
         ], 
-        "ne:OBJECTID": 3148, 
+        "ne:DataRank": 5, 
         "alias_JPN_Q": [
           "\u30de\u30be\u30d5\u30b7\u30a7\u770c"
         ], 
         "fullname": "Mazowieckie, Masovian, Poland", 
         "ne:Abbrev": null, 
-        "alias_SPA_Q": [
-          "Mazovia"
-        ], 
+        "ne:VALIDTO_1": "Present", 
         "sw_longitude": 19.295907830382134, 
+        "adjacent": [
+          "woe:state=12577936", 
+          "woe:state=12577938", 
+          "woe:state=12577944", 
+          "woe:state=12577947", 
+          "woe:state=12577948", 
+          "woe:state=12577937"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.248, 
         "ne:FIPS_1": "PL59", 
@@ -1178,14 +1191,14 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Voivodeship|Province", 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "ne:VertexCou": 278.0, 
-        "ne:VALIDFR_1": "19980727", 
-        "ne:DataRank": 5, 
+        "lang": "POL", 
+        "ne:MAP_COLOR": 2, 
+        "ne:OBJECTID": 3148, 
         "ne:Postal": "MZ", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Mazowieckie", 
         "ne:ISO": "POL", 
-        "ne:TYPE_1": "Wojew\u00f3dztwo", 
+        "ne:Region_C_3": null, 
         "ne:Region_C_2": null, 
         "ne:Shape_Leng": 12.4488196801, 
         "alias_DUT_Q": [
@@ -1196,15 +1209,15 @@
           "Mazovie"
         ], 
         "ne:Region_C_1": null, 
-        "ne:Region_C_3": null, 
+        "ne:TYPE_1": "Wojew\u00f3dztwo", 
         "ne:LabelRank": 5, 
         "ne:Area_sqkm": 34985.3, 
         "alias_GER_Q": [
           "Masowien"
         ], 
         "woe:id": "12577941", 
-        "ne:HASC_1": "PL.MZ", 
-        "lang": "POL", 
+        "name": "Mazowieckie", 
+        "ne:VertexCou": 278.0, 
         "adjacent_woeid": [
           12577936, 
           12577937, 
@@ -1213,10 +1226,9 @@
           12577947, 
           12577948
         ], 
-        "name": "Mazowieckie", 
+        "ne:HASC_1": "PL.MZ", 
         "ne:REMARKS_1": null, 
         "ne:CheckMe": 10, 
-        "parent_woeid": 23424923, 
         "ne_longitude": 23.08699425618005, 
         "longitude": 21.194, 
         "ne:NAME_1": "Masovian", 

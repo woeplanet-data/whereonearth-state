@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24549877, 
-        "name": "Beau Vallon", 
         "adjacent_woeid": [
           24549878, 
           24549884, 
@@ -41,17 +39,30 @@
           24549887, 
           24549890
         ], 
-        "ne_latitude": -4.585, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Beau Vallon", 
         "alias_ENG_V": [
           "Beauvallon"
         ], 
+        "hierarchy": [
+          "woe:state=24549877", 
+          "woe:country=23424941", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24549877, 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.446, 
         "longitude": 55.436, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "parent_woeid": 23424941, 
+        "adjacent": [
+          "woe:state=24549884", 
+          "woe:state=24549890", 
+          "woe:state=24549878", 
+          "woe:state=24549887", 
+          "woe:state=24549886"
+        ], 
+        "ne_latitude": -4.585, 
         "latitude": -4.597, 
         "sw_longitude": 55.426, 
         "fullname": "Beau Vallon, Seychelles", 
@@ -59,5 +70,11 @@
       }, 
       "id": 24549877
     }
+  ], 
+  "bbox": [
+    55.426, 
+    -4.618, 
+    55.446, 
+    -4.585
   ]
 }

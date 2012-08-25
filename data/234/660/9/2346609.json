@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 2346609, 
-        "name": "Gabu", 
         "adjacent_woeid": [
           2346603, 
           2346608, 
           2346996, 
           56059373
         ], 
-        "ne_latitude": 12.678, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Gabu", 
+        "hierarchy": [
+          "woe:state=2346609", 
+          "woe:country=23424929", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346609, 
         "ne_longitude": -13.637, 
         "longitude": -14.107, 
-        "placetype": "State", 
-        "iso": "GW", 
-        "date_indexed": "2010-12-02T09:57:34Z", 
-        "parent_woeid": 23424929, 
+        "placetype": "state", 
         "latitude": 12.119, 
+        "iso": "GW", 
+        "sw_latitude": 11.561, 
+        "adjacent": [
+          "woe:state=2346603", 
+          "woe:state=56059373", 
+          "woe:state=2346996", 
+          "woe:state=2346608"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 12.678, 
         "sw_longitude": -14.578, 
         "fullname": "Gabu, Guinea-Bissau", 
-        "sw_latitude": 11.561
+        "date_indexed": "2010-12-02T09:57:34Z"
       }, 
       "id": 2346609
     }
+  ], 
+  "bbox": [
+    -14.578, 
+    11.561, 
+    -13.637, 
+    12.678
   ]
 }

@@ -6660,17 +6660,22 @@
         "alias_ENG_P": [
           "Shaanxi"
         ], 
+        "hierarchy": [
+          "woe:state=12578015", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 39.58078847930494, 
         "ne:Shape_Area": 20.3705872813, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 3, 
+        "ne:VALIDFR_1": "Unknown", 
         "alias_KOR_Q": [
           "\uc0b0\uc2dc"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "CHN", 
-        "ne:OBJECTID": 1804, 
+        "ne:DataRank": 1, 
         "alias_CHI_V": [
           "\u965d\u897f"
         ], 
@@ -6683,6 +6688,16 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": 105.49855309484951, 
+        "adjacent": [
+          "woe:state=12578009", 
+          "woe:state=12578016", 
+          "woe:state=12578010", 
+          "woe:state=12578013", 
+          "woe:state=12577999", 
+          "woe:state=12578002", 
+          "woe:state=12578005", 
+          "woe:state=20070171"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.66, 
         "ne:FIPS_1": "CH26", 
@@ -6690,9 +6705,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "Province", 
         "sw_latitude": 31.70524852140221, 
-        "ne:VertexCou": 1660.0, 
-        "ne:VALIDFR_1": "Unknown", 
-        "ne:DataRank": 1, 
+        "lang": "CHI", 
+        "ne:MAP_COLOR": 3, 
+        "ne:OBJECTID": 1804, 
         "ne:Postal": "SA", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Shanxi", 
@@ -6708,8 +6723,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 205731.1, 
         "woe:id": "12578015", 
-        "ne:HASC_1": "CN.SA", 
-        "lang": "CHI", 
+        "name": "\u965d\u897f\u7701", 
+        "ne:VertexCou": 1660.0, 
         "adjacent_woeid": [
           12577999, 
           12578002, 
@@ -6720,9 +6735,8 @@
           12578016, 
           20070171
         ], 
-        "name": "\u965d\u897f\u7701", 
+        "ne:HASC_1": "CN.SA", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424781, 
         "ne_longitude": 111.22673058514846, 
         "longitude": 109.509, 
         "iso": "CN", 

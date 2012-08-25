@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347210, 
-        "name": "Tongatapu", 
         "ne_latitude": -20.533, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Tongatapu", 
+        "hierarchy": [
+          "woe:state=2347210", 
+          "woe:country=23424964", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347210, 
         "ne_longitude": -174.904, 
         "longitude": -175.196, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "TO", 
-        "date_indexed": "2010-12-02T17:58:27Z", 
-        "parent_woeid": 23424964, 
+        "sw_latitude": -22.346, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": -21.168, 
         "sw_longitude": -176.213, 
         "fullname": "Tongatapu, Tonga", 
-        "sw_latitude": -22.346
+        "date_indexed": "2010-12-02T17:58:27Z"
       }, 
       "id": 2347210
     }
+  ], 
+  "bbox": [
+    -176.213, 
+    -22.346, 
+    -174.904, 
+    -20.533
   ]
 }

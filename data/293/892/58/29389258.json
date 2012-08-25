@@ -15,11 +15,11 @@
               63.612
             ], 
             [
-              26.780, 
+              26.78, 
               63.612
             ], 
             [
-              26.780, 
+              26.78, 
               61.451
             ], 
             [
@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "FIN", 
-        "woeid": 29389258, 
-        "alias_SWE_V": [
-          "Mellersta Finland"
-        ], 
-        "name": "Keski-Suomen maakunta", 
-        "alias_ENG_P": [
-          "Central Finland"
-        ], 
-        "ne_latitude": 63.612, 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": 26.780, 
-        "longitude": 25.397, 
-        "placetype": "State", 
         "adjacent_woeid": [
           29389248, 
           29389255, 
@@ -54,21 +41,53 @@
           29389262, 
           29389265
         ], 
-        "iso": "FI", 
+        "alias_SWE_V": [
+          "Mellersta Finland"
+        ], 
+        "alias_SWE_Q": [
+          "Mellersta Finlands landskap"
+        ], 
+        "alias_ENG_P": [
+          "Central Finland"
+        ], 
+        "hierarchy": [
+          "woe:state=29389258", 
+          "woe:country=23424812", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 63.612, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 26.78, 
+        "longitude": 25.397, 
+        "placetype": "state", 
+        "sw_longitude": 24.013, 
         "date_indexed": "2010-12-02T16:39:41Z", 
         "alias_FIN_V": [
           "Keski-Suomen maakuntana"
         ], 
-        "parent_woeid": 23424812, 
+        "woeid": 29389258, 
         "latitude": 62.532, 
-        "sw_longitude": 24.013, 
+        "iso": "FI", 
         "fullname": "Keski-Suomen maakunta, Western Finland, Central Finland, Finland", 
+        "adjacent": [
+          "woe:state=29389256", 
+          "woe:state=29389260", 
+          "woe:state=29389257", 
+          "woe:state=29389248", 
+          "woe:state=29389265", 
+          "woe:state=29389262", 
+          "woe:state=29389255"
+        ], 
         "sw_latitude": 61.451, 
-        "alias_SWE_Q": [
-          "Mellersta Finlands landskap"
-        ]
+        "name": "Keski-Suomen maakunta"
       }, 
       "id": 29389258
     }
+  ], 
+  "bbox": [
+    24.013, 
+    61.451, 
+    26.78, 
+    63.612
   ]
 }

@@ -32,9 +32,10 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 55848080, 
-        "alias_UNK_V": [
-          "Telsiu Apskritis"
+        "adjacent_woeid": [
+          55848079, 
+          55848085, 
+          55848087
         ], 
         "name": "Tel\u0161i\u00f9 Apskritis", 
         "alias_ENG_P": [
@@ -43,25 +44,39 @@
         "alias_UNK_S": [
           "Telsiai Apskritis"
         ], 
-        "ne_latitude": 56.432, 
-        "ne_longitude": 22.738, 
+        "woeid": 55848080, 
+        "alias_UNK_V": [
+          "Telsiu Apskritis"
+        ], 
         "longitude": 22.125, 
-        "parent_woeid": 23424875, 
-        "placetype": "State", 
-        "adjacent_woeid": [
-          55848079, 
-          55848085, 
-          55848087
+        "ne_longitude": 22.738, 
+        "placetype": "state", 
+        "hierarchy": [
+          "woe:state=55848080", 
+          "woe:country=23424875", 
+          "woe:planet=1"
         ], 
         "iso": "LT", 
-        "date_indexed": "2010-12-02T09:35:48Z", 
+        "sw_latitude": 55.597, 
+        "adjacent": [
+          "woe:state=55848085", 
+          "woe:state=55848079", 
+          "woe:state=55848087"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 56.015, 
+        "ne_latitude": 56.432, 
         "sw_longitude": 21.512, 
+        "latitude": 56.015, 
         "fullname": "Tel\u0161i\u00f9 Apskritis, Telsiai County, Lithuania", 
-        "sw_latitude": 55.597
+        "date_indexed": "2010-12-02T09:35:48Z"
       }, 
       "id": 55848080
     }
+  ], 
+  "bbox": [
+    21.512, 
+    55.597, 
+    22.738, 
+    56.432
   ]
 }

@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              12.400, 
+              12.4, 
               48.941
             ], 
             [
-              12.400, 
+              12.4, 
               50.103
             ], 
             [
@@ -23,7 +23,7 @@
               48.941
             ], 
             [
-              12.400, 
+              12.4, 
               48.941
             ]
           ]
@@ -32,24 +32,34 @@
       "type": "Feature", 
       "properties": {
         "lang": "CZE", 
-        "woeid": 20070501, 
-        "name": "Plze\u0148sk\u00fd", 
         "adjacent_woeid": [
           20070468, 
           20070499, 
           20070500, 
           20070502
         ], 
-        "ne_latitude": 50.103, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Plze\u0148sk\u00fd", 
+        "hierarchy": [
+          "woe:state=20070501", 
+          "woe:country=23424810", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070501, 
         "ne_longitude": 13.834, 
         "longitude": 13.117, 
-        "placetype": "State", 
-        "iso": "CZ", 
-        "date_indexed": "2010-12-02T08:54:50Z", 
-        "parent_woeid": 23424810, 
+        "placetype": "state", 
         "latitude": 49.522, 
-        "sw_longitude": 12.400, 
+        "iso": "CZ", 
+        "sw_latitude": 48.941, 
+        "adjacent": [
+          "woe:state=20070502", 
+          "woe:state=20070500", 
+          "woe:state=20070468", 
+          "woe:state=20070499"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 50.103, 
+        "sw_longitude": 12.4, 
         "fullname": "Plze\u0148sk\u00fd, Czech Republic", 
         "alias_GER_Q": [
           "Pilsen"
@@ -57,12 +67,18 @@
         "alias_CZE_S": [
           "Plzensky"
         ], 
-        "sw_latitude": 48.941, 
+        "date_indexed": "2010-12-02T08:54:50Z", 
         "alias_FRE_Q": [
           "Plzen"
         ]
       }, 
       "id": 20070501
     }
+  ], 
+  "bbox": [
+    12.4, 
+    48.941, 
+    13.834, 
+    50.103
   ]
 }

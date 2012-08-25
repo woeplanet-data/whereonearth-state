@@ -417,9 +417,14 @@
       "properties": {
         "ne:ProvNumber": 2007, 
         "ne:ScaleRank": 9, 
+        "hierarchy": [
+          "woe:state=24550736", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 3.299488836840396, 
         "ne:Shape_Area": 0.572853620831, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
@@ -428,6 +433,13 @@
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": null, 
         "sw_longitude": 32.47401818219339, 
+        "adjacent": [
+          "woe:state=56190217", 
+          "woe:state=20070415", 
+          "woe:state=20070428", 
+          "woe:state=20070429", 
+          "woe:state=20070431"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 2.904, 
         "ne:FIPS_1": "UG92", 
@@ -464,7 +476,6 @@
         ], 
         "name": "Pader", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424974, 
         "ne_longitude": 33.60387169782064, 
         "longitude": 33.043, 
         "iso": "UG", 

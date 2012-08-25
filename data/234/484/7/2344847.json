@@ -7101,23 +7101,40 @@
       "properties": {
         "ne:ProvNumber": 25, 
         "ne:ScaleRank": 2, 
+        "hierarchy": [
+          "woe:state=2344847", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 2.234024156389751, 
         "ne:Shape_Area": 127.664878925, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "alias_POR_V": [
           "Estado Amazonas"
         ], 
-        "ne:MAP_COLOR": 7, 
+        "ne:VALIDFR_1": "18500905", 
         "alias_ENG_A": [
           "AM"
         ], 
         "ne:gadm_level": 1.0, 
         "ne:ADM0_A3": "BRA", 
-        "ne:OBJECTID": 592, 
+        "ne:DataRank": 6, 
         "ne:Abbrev": null, 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -73.81300838932566, 
+        "adjacent": [
+          "woe:state=2344844", 
+          "woe:state=2345047", 
+          "woe:state=2347677", 
+          "woe:state=2345060", 
+          "woe:state=2346483", 
+          "woe:state=2344855", 
+          "woe:state=2344857", 
+          "woe:state=2344865", 
+          "woe:state=2344866", 
+          "woe:state=2345075"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -3.791, 
         "ne:FIPS_1": "BR04", 
@@ -7125,9 +7142,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": -9.837952162062606, 
-        "ne:VertexCou": 1732.0, 
-        "ne:VALIDFR_1": "18500905", 
-        "ne:DataRank": 6, 
+        "lang": "POR", 
+        "ne:MAP_COLOR": 7, 
+        "ne:OBJECTID": 592, 
         "ne:Postal": "AM", 
         "ne:Region_Cod": null, 
         "ne:VARNAME_1": "Amazone", 
@@ -7143,8 +7160,8 @@
         "ne:LabelRank": 2, 
         "ne:Area_sqkm": 1565464.7, 
         "woe:id": "2344847", 
-        "ne:HASC_1": "BR.AM", 
-        "lang": "POR", 
+        "name": "Amazonas", 
+        "ne:VertexCou": 1732.0, 
         "adjacent_woeid": [
           2344844, 
           2344855, 
@@ -7157,9 +7174,8 @@
           2346483, 
           2347677
         ], 
-        "name": "Amazonas", 
+        "ne:HASC_1": "BR.AM", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424768, 
         "ne_longitude": -56.31193193221287, 
         "longitude": -64.947, 
         "iso": "BR", 

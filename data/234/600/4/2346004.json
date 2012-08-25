@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346004, 
-        "name": "Louangphabang", 
         "adjacent_woeid": [
           2346001, 
           2346005, 
@@ -44,20 +42,42 @@
           20070164, 
           28301718
         ], 
-        "ne_latitude": 21.209, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Louangphabang", 
+        "hierarchy": [
+          "woe:state=2346004", 
+          "woe:country=23424872", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346004, 
         "ne_longitude": 103.347, 
         "longitude": 102.571, 
-        "placetype": "State", 
-        "iso": "LA", 
-        "date_indexed": "2010-12-02T16:42:51Z", 
-        "parent_woeid": 23424872, 
+        "placetype": "state", 
         "latitude": 19.984, 
+        "iso": "LA", 
+        "sw_latitude": 18.758, 
+        "adjacent": [
+          "woe:state=28301718", 
+          "woe:state=2346001", 
+          "woe:state=2346005", 
+          "woe:state=2346006", 
+          "woe:state=2347713", 
+          "woe:state=20070164", 
+          "woe:state=2346010", 
+          "woe:state=2346011"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 21.209, 
         "sw_longitude": 101.795, 
         "fullname": "Louangphabang, Laos", 
-        "sw_latitude": 18.758
+        "date_indexed": "2010-12-02T16:42:51Z"
       }, 
       "id": 2346004
     }
+  ], 
+  "bbox": [
+    101.795, 
+    18.758, 
+    103.347, 
+    21.209
   ]
 }

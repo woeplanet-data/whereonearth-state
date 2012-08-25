@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070518, 
-        "name": "Ust-ordynskiy Buryatskiy Avtonomnyy Okrug", 
         "adjacent_woeid": [
           2346896
         ], 
-        "ne_latitude": 54.117, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Ust-ordynskiy Buryatskiy Avtonomnyy Okrug", 
+        "hierarchy": [
+          "woe:state=20070518", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070518, 
         "ne_longitude": 106.112, 
         "longitude": 104.063, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 53.283, 
+        "iso": "RU", 
+        "sw_latitude": 52.449, 
+        "adjacent": [
+          "woe:state=2346896"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 54.117, 
         "sw_longitude": 102.014, 
         "fullname": "Ust-ordynskiy Buryatskiy Avtonomnyy Okrug, Russia", 
-        "sw_latitude": 52.449
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 20070518
     }
+  ], 
+  "bbox": [
+    102.014, 
+    52.449, 
+    106.112, 
+    54.117
   ]
 }

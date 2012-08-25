@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070294, 
-        "name": "Leninobod", 
         "adjacent_woeid": [
           2347661, 
           2347662, 
@@ -46,23 +44,47 @@
           20070196, 
           20070297
         ], 
-        "ne_latitude": 41.042, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Leninobod", 
+        "adjacent": [
+          "woe:state=20070196", 
+          "woe:state=2347662", 
+          "woe:state=2347661", 
+          "woe:state=20070297", 
+          "woe:state=2347666", 
+          "woe:state=2347664", 
+          "woe:state=20070173", 
+          "woe:state=2347669", 
+          "woe:state=2347668", 
+          "woe:state=2347670"
+        ], 
+        "hierarchy": [
+          "woe:state=20070294", 
+          "woe:country=23424961", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070294, 
         "ne_longitude": 70.984, 
         "longitude": 69.186, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 39.98, 
         "iso": "TJ", 
-        "date_indexed": "2010-12-02T12:16:45Z", 
+        "sw_latitude": 38.918, 
         "alias_ENG_A": [
           "KT"
         ], 
-        "parent_woeid": 23424961, 
-        "latitude": 39.980, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 41.042, 
         "sw_longitude": 67.387, 
         "fullname": "Leninobod, Tajikistan", 
-        "sw_latitude": 38.918
+        "date_indexed": "2010-12-02T12:16:45Z"
       }, 
       "id": 20070294
     }
+  ], 
+  "bbox": [
+    67.387, 
+    38.918, 
+    70.984, 
+    41.042
   ]
 }

@@ -32,19 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "UNK", 
-        "woeid": 2347536, 
-        "alias_UNK_V": [
-          "Chernivechchyna"
-        ], 
-        "name": "Chernivets\u00b4ka Oblast\u00b4", 
-        "alias_ENG_P": [
-          "Chernivtsi Oblast"
-        ], 
-        "ne_latitude": 48.675, 
-        "ne_longitude": 27.531, 
-        "longitude": 26.220, 
-        "parent_woeid": 23424976, 
-        "placetype": "State", 
         "adjacent_woeid": [
           2346621, 
           2346638, 
@@ -56,15 +43,49 @@
           55948180, 
           55948195
         ], 
+        "ne_latitude": 48.675, 
+        "name": "Chernivets\u00b4ka Oblast\u00b4", 
+        "alias_ENG_P": [
+          "Chernivtsi Oblast"
+        ], 
+        "hierarchy": [
+          "woe:state=2347536", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347536, 
+        "alias_UNK_V": [
+          "Chernivechchyna"
+        ], 
+        "longitude": 26.22, 
+        "ne_longitude": 27.531, 
+        "placetype": "state", 
         "iso": "UA", 
-        "date_indexed": "2010-12-02T08:52:18Z", 
+        "sw_latitude": 47.725, 
+        "adjacent": [
+          "woe:state=2346621", 
+          "woe:state=55948180", 
+          "woe:state=2347539", 
+          "woe:state=2347542", 
+          "woe:state=2346638", 
+          "woe:state=55948195", 
+          "woe:state=2346647", 
+          "woe:state=2347553", 
+          "woe:state=2347554"
+        ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 48.200, 
+        "latitude": 48.2, 
         "sw_longitude": 24.908, 
         "fullname": "Chernivets\u00b4ka Oblast\u00b4, Chernivtsi Oblast, Ukraine", 
-        "sw_latitude": 47.725
+        "date_indexed": "2010-12-02T08:52:18Z"
       }, 
       "id": 2347536
     }
+  ], 
+  "bbox": [
+    24.908, 
+    47.725, 
+    27.531, 
+    48.675
   ]
 }

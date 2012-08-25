@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 20070520, 
-        "name": "Adygeya", 
         "adjacent_woeid": [
           2346884
         ], 
-        "ne_latitude": 45.216, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Adygeya", 
+        "hierarchy": [
+          "woe:state=20070520", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20070520, 
         "ne_longitude": 40.818, 
         "longitude": 40.722, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 44.476, 
+        "iso": "RU", 
+        "sw_latitude": 43.735, 
+        "adjacent": [
+          "woe:state=2346884"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 45.216, 
         "sw_longitude": 38.684, 
         "fullname": "Adygeya, Russia", 
-        "sw_latitude": 43.735
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 20070520
     }
+  ], 
+  "bbox": [
+    38.684, 
+    43.735, 
+    40.818, 
+    45.216
   ]
 }

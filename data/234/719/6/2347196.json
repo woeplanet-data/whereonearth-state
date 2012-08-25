@@ -12,11 +12,11 @@
             ], 
             [
               103.982, 
-              18.070
+              18.07
             ], 
             [
               104.805, 
-              18.070
+              18.07
             ], 
             [
               104.805, 
@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2347196, 
-        "name": "Nakhon Phanom", 
         "adjacent_woeid": [
           2346008, 
           2347144, 
@@ -42,23 +40,43 @@
           20070161, 
           20070163
         ], 
-        "ne_latitude": 18.070, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Nakhon Phanom", 
         "alias_ENG_V": [
           "Changwat Nakhon Phanom"
         ], 
+        "hierarchy": [
+          "woe:state=2347196", 
+          "woe:country=23424960", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2347196, 
         "ne_longitude": 104.805, 
         "longitude": 104.594, 
-        "placetype": "State", 
-        "iso": "TH", 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "parent_woeid": 23424960, 
+        "placetype": "state", 
         "latitude": 17.428, 
+        "iso": "TH", 
+        "sw_latitude": 16.787, 
+        "adjacent": [
+          "woe:state=20070163", 
+          "woe:state=20070161", 
+          "woe:state=2347197", 
+          "woe:state=2347144", 
+          "woe:state=2347146", 
+          "woe:state=2346008"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.07, 
         "sw_longitude": 103.982, 
         "fullname": "Nakhon Phanom, Thailand", 
-        "sw_latitude": 16.787
+        "date_indexed": "2010-12-02T17:04:11Z"
       }, 
       "id": 2347196
     }
+  ], 
+  "bbox": [
+    103.982, 
+    16.787, 
+    104.805, 
+    18.07
   ]
 }

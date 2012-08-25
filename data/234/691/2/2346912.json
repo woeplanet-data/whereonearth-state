@@ -32,25 +32,38 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346912, 
-        "name": "Murmanskaya Oblast", 
         "adjacent_woeid": [
           2346873
         ], 
-        "ne_latitude": 69.954, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Murmanskaya Oblast", 
+        "hierarchy": [
+          "woe:state=2346912", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346912, 
         "ne_longitude": 41.404, 
         "longitude": 34.908, 
-        "placetype": "State", 
-        "iso": "RU", 
-        "date_indexed": "2010-12-02T16:07:50Z", 
-        "parent_woeid": 23424936, 
+        "placetype": "state", 
         "latitude": 67.999, 
+        "iso": "RU", 
+        "sw_latitude": 66.044, 
+        "adjacent": [
+          "woe:state=2346873"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 69.954, 
         "sw_longitude": 28.435, 
         "fullname": "Murmanskaya Oblast, Russia", 
-        "sw_latitude": 66.044
+        "date_indexed": "2010-12-02T16:07:50Z"
       }, 
       "id": 2346912
     }
+  ], 
+  "bbox": [
+    28.435, 
+    66.044, 
+    41.404, 
+    69.954
   ]
 }

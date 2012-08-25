@@ -1390,11 +1390,16 @@
         "alias_KOR_Q": [
           "\uc544\uce78\uc18c"
         ], 
+        "hierarchy": [
+          "woe:state=2347562", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.49983318925035, 
         "ne:Shape_Area": 13.5669864832, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
-        "ne:MAP_COLOR": 1, 
+        "ne:VALIDFR_1": "18360615", 
         "alias_ENG_A": [
           "Ark"
         ], 
@@ -1404,13 +1409,21 @@
         "alias_CHI_Q": [
           "\u963f\u80af\u8272"
         ], 
-        "ne:OBJECTID": 3528, 
+        "ne:DataRank": 1, 
         "alias_JPN_Q": [
           "\u30a2\u30fc\u30ab\u30f3\u30bd\u30fc"
         ], 
         "ne:Abbrev": "Ark.", 
         "ne:VALIDTO_1": "Present", 
         "sw_longitude": -94.61832890065818, 
+        "adjacent": [
+          "woe:state=2347577", 
+          "woe:state=2347583", 
+          "woe:state=2347584", 
+          "woe:state=2347595", 
+          "woe:state=2347601", 
+          "woe:state=2347602"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 34.752, 
         "ne:FIPS_1": "US05", 
@@ -1418,9 +1431,9 @@
         "ne:FIRST_HASC": null, 
         "ne:ENGTYPE_1": "State", 
         "sw_latitude": 33.01094158798395, 
-        "ne:VertexCou": 342.0, 
-        "ne:VALIDFR_1": "18360615", 
-        "ne:DataRank": 1, 
+        "lang": "ENG", 
+        "ne:MAP_COLOR": 1, 
+        "ne:OBJECTID": 3528, 
         "ne:Postal": "AR", 
         "ne:Region_Cod": "South", 
         "ne:VARNAME_1": "AR|Ark.", 
@@ -1436,8 +1449,8 @@
         "ne:LabelRank": 0, 
         "ne:Area_sqkm": 137540.5, 
         "woe:id": "2347562", 
-        "ne:HASC_1": "US.AR", 
-        "lang": "ENG", 
+        "name": "Arkansas", 
+        "ne:VertexCou": 342.0, 
         "adjacent_woeid": [
           2347577, 
           2347583, 
@@ -1446,9 +1459,8 @@
           2347601, 
           2347602
         ], 
-        "name": "Arkansas", 
+        "ne:HASC_1": "US.AR", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424977, 
         "ne_longitude": -89.66730350984909, 
         "longitude": -92.131, 
         "iso": "US", 

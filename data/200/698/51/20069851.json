@@ -8,7 +8,7 @@
           [
             [
               10.399, 
-              1.720
+              1.72
             ], 
             [
               10.399, 
@@ -20,11 +20,11 @@
             ], 
             [
               11.336, 
-              1.720
+              1.72
             ], 
             [
               10.399, 
-              1.720
+              1.72
             ]
           ]
         ]
@@ -32,28 +32,44 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "woeid": 20069851, 
-        "name": "Kie-Ntem", 
         "adjacent_woeid": [
           2345042, 
           2345457, 
           20069850, 
           20069852
         ], 
-        "ne_latitude": 2.187, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Kie-Ntem", 
+        "hierarchy": [
+          "woe:state=20069851", 
+          "woe:country=23424804", 
+          "woe:planet=1"
+        ], 
+        "woeid": 20069851, 
         "ne_longitude": 11.336, 
         "longitude": 10.867, 
-        "placetype": "State", 
-        "iso": "GQ", 
-        "date_indexed": "2010-12-02T16:55:36Z", 
-        "parent_woeid": 23424804, 
+        "placetype": "state", 
         "latitude": 1.954, 
+        "iso": "GQ", 
+        "sw_latitude": 1.72, 
+        "adjacent": [
+          "woe:state=20069850", 
+          "woe:state=2345042", 
+          "woe:state=20069852", 
+          "woe:state=2345457"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 2.187, 
         "sw_longitude": 10.399, 
         "fullname": "Kie-Ntem, Equatorial Guinea", 
-        "sw_latitude": 1.720
+        "date_indexed": "2010-12-02T16:55:36Z"
       }, 
       "id": 20069851
     }
+  ], 
+  "bbox": [
+    10.399, 
+    1.72, 
+    11.336, 
+    2.187
   ]
 }

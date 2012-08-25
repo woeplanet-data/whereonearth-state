@@ -15,11 +15,11 @@
               16.679
             ], 
             [
-              -24.020, 
+              -24.02, 
               16.679
             ], 
             [
-              -24.020, 
+              -24.02, 
               16.478
             ], 
             [
@@ -32,19 +32,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "POR", 
-        "woeid": 56051567, 
-        "name": "Ribeira Brava", 
         "adjacent_woeid": [
           2345129
         ], 
-        "ne_latitude": 16.679, 
+        "name": "Ribeira Brava", 
+        "hierarchy": [
+          "woe:state=56051567", 
+          "woe:country=23424794", 
+          "woe:planet=1"
+        ], 
+        "woeid": 56051567, 
         "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -24.020, 
+        "ne_longitude": -24.02, 
         "longitude": -24.097, 
-        "placetype": "State", 
+        "placetype": "state", 
         "iso": "CV", 
         "date_indexed": "2010-12-02T12:16:16Z", 
-        "parent_woeid": 23424794, 
+        "adjacent": [
+          "woe:state=2345129"
+        ], 
+        "ne_latitude": 16.679, 
         "latitude": 16.579, 
         "sw_longitude": -24.373, 
         "fullname": "Ribeira Brava, Cape Verde", 
@@ -52,5 +59,11 @@
       }, 
       "id": 56051567
     }
+  ], 
+  "bbox": [
+    -24.373, 
+    16.478, 
+    -24.02, 
+    16.679
   ]
 }

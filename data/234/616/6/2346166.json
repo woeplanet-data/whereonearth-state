@@ -32,8 +32,6 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 2346166, 
-        "name": "Hovd", 
         "adjacent_woeid": [
           2346159, 
           2346163, 
@@ -41,20 +39,39 @@
           2346173, 
           12578003
         ], 
-        "ne_latitude": 49.001, 
-        "provider": "geoplanet 7.6.0", 
+        "name": "Hovd", 
+        "hierarchy": [
+          "woe:state=2346166", 
+          "woe:country=23424887", 
+          "woe:planet=1"
+        ], 
+        "woeid": 2346166, 
         "ne_longitude": 94.085, 
         "longitude": 92.374, 
-        "placetype": "State", 
+        "placetype": "state", 
+        "latitude": 47.0, 
         "iso": "MN", 
-        "date_indexed": "2010-12-02T08:53:23Z", 
-        "parent_woeid": 23424887, 
-        "latitude": 47.000, 
+        "sw_latitude": 44.999, 
+        "adjacent": [
+          "woe:state=2346159", 
+          "woe:state=2346163", 
+          "woe:state=2346164", 
+          "woe:state=2346173", 
+          "woe:state=12578003"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 49.001, 
         "sw_longitude": 90.663, 
         "fullname": "Hovd, Mongolia", 
-        "sw_latitude": 44.999
+        "date_indexed": "2010-12-02T08:53:23Z"
       }, 
       "id": 2346166
     }
+  ], 
+  "bbox": [
+    90.663, 
+    44.999, 
+    94.085, 
+    49.001
   ]
 }

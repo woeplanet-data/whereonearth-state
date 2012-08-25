@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 24550739, 
-        "name": "Yumbe", 
         "adjacent_woeid": [
           20070412, 
           20070444, 
           56190208, 
           56190212
         ], 
-        "ne_latitude": 3.793, 
+        "name": "Yumbe", 
+        "hierarchy": [
+          "woe:state=24550739", 
+          "woe:country=23424974", 
+          "woe:planet=1"
+        ], 
+        "woeid": 24550739, 
         "provider": "geoplanet 7.6.0", 
         "ne_longitude": 31.666, 
-        "longitude": 31.350, 
-        "placetype": "State", 
+        "longitude": 31.35, 
+        "placetype": "state", 
         "iso": "UG", 
         "date_indexed": "2010-12-02T10:22:38Z", 
-        "parent_woeid": 23424974, 
+        "adjacent": [
+          "woe:state=20070412", 
+          "woe:state=56190212", 
+          "woe:state=20070444", 
+          "woe:state=56190208"
+        ], 
+        "ne_latitude": 3.793, 
         "latitude": 3.444, 
         "sw_longitude": 31.034, 
         "fullname": "Yumbe, Uganda", 
@@ -55,5 +65,11 @@
       }, 
       "id": 24550739
     }
+  ], 
+  "bbox": [
+    31.034, 
+    3.096, 
+    31.666, 
+    3.793
   ]
 }

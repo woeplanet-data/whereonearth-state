@@ -599,9 +599,14 @@
       "properties": {
         "ne:ProvNumber": 4, 
         "ne:ScaleRank": 5, 
+        "hierarchy": [
+          "woe:state=2347700", 
+          "woe:country=23424982", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 12.068979397081534, 
         "ne:Shape_Area": 0.0252566852323, 
-        "placetype": "State", 
+        "placetype": "state", 
         "ne:Country_Pr": null, 
         "ne:MAP_COLOR": 4, 
         "ne:gadm_level": 1.0, 
@@ -640,7 +645,6 @@
         "ne:NL_NAME_1": null, 
         "name": "Dependencias Federales", 
         "ne:REMARKS_1": null, 
-        "parent_woeid": 23424982, 
         "ne_longitude": -64.5520232816491, 
         "longitude": -66.147, 
         "iso": "VE", 

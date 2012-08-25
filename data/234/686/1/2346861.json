@@ -12,11 +12,11 @@
             ], 
             [
               -66.317, 
-              18.480
+              18.48
             ], 
             [
               -66.198, 
-              18.480
+              18.48
             ], 
             [
               -66.198, 
@@ -32,12 +32,16 @@
       "type": "Feature", 
       "properties": {
         "lang": "SPA", 
-        "ne_latitude": 18.480, 
-        "name": "Dorado", 
         "adjacent_woeid": [
           2346807, 
           2346812, 
           2346863
+        ], 
+        "name": "Dorado", 
+        "hierarchy": [
+          "woe:state=2346861", 
+          "woe:country=23424935", 
+          "woe:planet=1"
         ], 
         "woeid": 2346861, 
         "alias_SPA_V": [
@@ -45,17 +49,28 @@
         ], 
         "ne_longitude": -66.198, 
         "longitude": -66.258, 
-        "parent_woeid": 23424935, 
-        "placetype": "State", 
-        "iso": "PR", 
-        "date_indexed": "2010-12-02T17:42:05Z", 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "state", 
         "latitude": 18.432, 
         "sw_longitude": -66.317, 
+        "sw_latitude": 18.383, 
+        "adjacent": [
+          "woe:state=2346807", 
+          "woe:state=2346812", 
+          "woe:state=2346863"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "ne_latitude": 18.48, 
+        "iso": "PR", 
         "fullname": "Dorado, Puerto Rico", 
-        "sw_latitude": 18.383
+        "date_indexed": "2010-12-02T17:42:05Z"
       }, 
       "id": 2346861
     }
+  ], 
+  "bbox": [
+    -66.317, 
+    18.383, 
+    -66.198, 
+    18.48
   ]
 }
