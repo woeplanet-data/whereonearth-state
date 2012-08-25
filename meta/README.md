@@ -1,3 +1,10 @@
+states-<ISO>.tsv
+--
+
+All the states for a given country and their bounding boxes in a TSV file
+compatiable with Mike Migurski's
+[Extractotron](https://github.com/migurski/Extractotron/) tool.
+
 states.csv
 --
 
