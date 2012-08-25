@@ -1,4 +1,4 @@
-states-<ISO>.tsv
+states-(ISOCODE).tsv
 --
 
 All the states for a given country and their bounding boxes in a TSV file
